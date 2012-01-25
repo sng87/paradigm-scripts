@@ -1,0 +1,3 @@
+pathway [max_in_degree=5,param_file=params.txt,interaction_map=standard.imap,dogma=standard.dogma]
+inference [%s]
+output [otherSubtypes=genome;mRNA;protein]

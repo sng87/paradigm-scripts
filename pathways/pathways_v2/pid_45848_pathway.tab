@@ -1,0 +1,21 @@
+complex	E2F-1/DP-1
+complex	E2F-1/ubiquitin
+complex	Cyclin E/CDK2
+complex	SKP2/SKP1/CUL1/CDC34
+complex	RB/E2F-1
+complex	CYCLIN A/CDK2
+abstract	protein ubiquitination
+abstract	degradation
+protein	TFDP1
+protein	RB1
+protein	E2F1
+Cyclin E/CDK2	RB1	component>
+SKP2/SKP1/CUL1/CDC34	protein ubiquitination	-ap>
+TFDP1	E2F-1/DP-1	component>
+E2F1	E2F-1/DP-1	component>
+E2F-1/ubiquitin	degradation	-ap>
+CYCLIN A/CDK2	E2F1	-a>
+RB/E2F-1	E2F1	component>
+RB/E2F-1	RB1	component>
+E2F-1/ubiquitin	protein ubiquitination	-ap>
+E2F1	protein ubiquitination	-ap>

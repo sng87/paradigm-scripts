@@ -1,0 +1,53 @@
+abstract	oxygen homeostasis
+abstract	response to hypoxia
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	HIF1A/JAB1
+complex	HIF1A/ARNT
+complex	HIF1A/p53
+complex	RACK1/Elongin B/Elongin C
+complex	VHL/Elongin B/Elongin C/RBX1/CUL2
+complex	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A
+complex	ARNT/IPAS
+complex	HIF1A/p14ARF
+complex	FIH (dimer)
+complex	HIF1A/Hsp90
+complex	HIF1A/RACK1/Elongin B/Elongin C
+protein	p14ARF
+complex	PHD1-3/OS9
+protein	TP53
+protein	HSP90AA1
+protein	HIF3A
+protein	HIF1A
+protein	COPS5
+protein	ARNT
+protein	ARD1A
+PHD1-3/OS9	HIF1A	-a>
+FIH (dimer)	HIF1A	-a>
+RACK1/Elongin B/Elongin C	HIF1A/Hsp90	component>
+RACK1/Elongin B/Elongin C	HIF1A/RACK1/Elongin B/Elongin C	component>
+HSP90AA1	HIF1A/Hsp90	component>
+HSP90AA1	HIF1A/RACK1/Elongin B/Elongin C	component>
+HIF1A	HIF1A/Hsp90	component>
+HIF1A	HIF1A/RACK1/Elongin B/Elongin C	component>
+ARD1A	HIF1A	-a>
+HIF1A/RACK1/Elongin B/Elongin C	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+COPS5	HIF1A/JAB1	component>
+COPS5	HIF1A/p53	component>
+TP53	HIF1A/JAB1	component>
+TP53	HIF1A/p53	component>
+HIF1A	HIF1A/JAB1	component>
+HIF1A	HIF1A/p53	component>
+response to hypoxia	HIF1A	-a>
+p14ARF	HIF1A/p14ARF	component>
+HIF1A	HIF1A/p14ARF	component>
+HIF3A	ARNT/IPAS	component>
+HIF3A	HIF1A/ARNT	component>
+ARNT	ARNT/IPAS	component>
+ARNT	HIF1A/ARNT	component>
+HIF1A	ARNT/IPAS	component>
+HIF1A	HIF1A/ARNT	component>
+VHL/Elongin B/Elongin C/RBX1/CUL2	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+HIF1A	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+HIF1A	HIF1A	-a>
+oxygen homeostasis	HIF1A	-a>
+VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	proteasomal ubiquitin-dependent protein catabolic process	-ap>

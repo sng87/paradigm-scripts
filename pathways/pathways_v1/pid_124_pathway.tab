@@ -1,0 +1,78 @@
+protein	GIT1
+protein	DOCK1
+protein	MADCAM1
+protein	PTK2
+protein	RAC1
+protein	ARF6
+protein	RHOA
+protein	BCAR1
+protein	PXN
+protein	CRKL
+protein	CRK
+protein	PIK3CA
+protein	PIK3R1
+protein	ITGB7
+protein	CBL
+protein	VCAM1
+protein	EPOR
+protein	ITGA4
+protein	SRC
+protein	ITGB1
+protein	EPO
+protein	JAK2
+complex	p130Cas/Crk/Dock1
+complex	alpha4/beta7 Integrin/MAdCAM1
+complex	alpha4/beta7 Integrin
+complex	alpha4/beta1 Integrin/VCAM1
+complex	alpha4/beta1 Integrin/Paxillin/GIT1
+complex	alpha4/beta1 Integrin
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PI3K
+complex	EPO/EPOR (dimer)
+complex	CRKL/CBL
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	lamellipodium assembly
+abstract	cell adhesion
+p130Cas/Crk/Dock1	Rac1/GTP	-a>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	Rac1/GDP	component>
+alpha4/beta7 Integrin/MAdCAM1	cell adhesion	-ap>
+alpha4/beta7 Integrin	PTK2	-a>
+alpha4/beta1 Integrin/VCAM1	SRC	-a>
+alpha4/beta1 Integrin/Paxillin/GIT1	Rac1/GTP	-a|
+alpha4/beta1 Integrin	PTK2	-a>
+alpha4/beta1 Integrin	JAK2	-a>
+GIT1	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+DOCK1	p130Cas/Crk/Dock1	component>
+MADCAM1	alpha4/beta7 Integrin/MAdCAM1	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+ARF6	Rac1/GTP	-a>
+RHOA	alpha4/beta7 Integrin/MAdCAM1	-a>
+BCAR1	p130Cas/Crk/Dock1	component>
+PXN	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+CRKL	CRKL/CBL	component>
+CRK	p130Cas/Crk/Dock1	component>
+PIK3CA	PI3K	component>
+PIK3R1	PI3K	component>
+ITGB7	alpha4/beta7 Integrin/MAdCAM1	component>
+ITGB7	alpha4/beta7 Integrin	component>
+CBL	CRKL/CBL	component>
+VCAM1	alpha4/beta1 Integrin/VCAM1	component>
+EPOR	EPO/EPOR (dimer)	component>
+ITGA4	alpha4/beta7 Integrin/MAdCAM1	component>
+ITGA4	alpha4/beta7 Integrin	component>
+ITGA4	alpha4/beta1 Integrin/VCAM1	component>
+ITGA4	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+ITGA4	alpha4/beta1 Integrin	component>
+SRC	BCAR1	-a>
+ITGB1	alpha4/beta1 Integrin/VCAM1	component>
+ITGB1	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+ITGB1	alpha4/beta1 Integrin	component>
+EPO	EPO/EPOR (dimer)	component>
+Rac1/GTP	lamellipodium assembly	-ap>
+PI3K	Rac1/GTP	-a>
+EPO/EPOR (dimer)	JAK2	-a>
+CRKL/CBL	Rac1/GTP	-a>

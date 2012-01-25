@@ -1,0 +1,113 @@
+protein	MAP3K4
+protein	TRAF6
+protein	TAOK2
+protein	MAP3K7IP2
+protein	TAOK3
+protein	CCM2
+protein	MAP3K3
+protein	MAP3K5
+protein	TAOK1
+protein	MAPK14
+protein	MAPK11
+protein	MAP3K7IP1
+protein	CAMK2B
+protein	ATM
+protein	MAP3K1
+protein	TRAF2
+protein	MAP3K10
+protein	RAC1
+protein	CALM1
+protein	MAP2K6
+protein	MAP2K3
+protein	GADD45A
+protein	TXN
+protein	MAP3K6
+protein	GADD45G
+protein	GADD45B
+protein	MAP3K7
+complex	TRX/ASK1
+complex	TRAF6/ASK1
+complex	TRAF2/ASK1
+complex	TAK1/TAB family
+complex	RAC1/OSM/MEKK3/MKK3
+complex	RAC1/OSM/MEKK3
+complex	OSM/MEKK3
+complex	GADD45/MTK1/MTK1
+complex	CaM/Ca2+/CAMKIIB/ASK1
+complex	CaM/Ca2+/CAMKIIB
+complex	ASK1/ASK2
+chemical	mol:LPS
+chemical	mol:Ca2+
+abstract	response to stress
+abstract	response to oxidative stress
+abstract	response to DNA damage stimulus
+abstract	hyperosmotic response
+response to stress	TRAF6	-ap>
+response to stress	GADD45/MTK1/MTK1	-ap>
+response to oxidative stress	TXN	-ap>
+response to oxidative stress	TRAF6/ASK1	-ap>
+response to oxidative stress	TRAF2/ASK1	-ap>
+response to DNA damage stimulus	TAOK2	-ap>
+response to DNA damage stimulus	TAOK3	-ap>
+response to DNA damage stimulus	TAOK1	-ap>
+mol:LPS	TXN	-a>
+mol:LPS	TRAF6/ASK1	-a>
+mol:Ca2+	CaM/Ca2+/CAMKIIB/ASK1	component>
+mol:Ca2+	CaM/Ca2+/CAMKIIB	component>
+hyperosmotic response	RAC1/OSM/MEKK3	-ap>
+MAP3K4	GADD45/MTK1/MTK1	component>
+TRAF6	TRAF6/ASK1	component>
+TRAF6	TAK1/TAB family	-a>
+TAOK2	MAP2K6	-a>
+TAOK2	MAP2K3	-a>
+MAP3K7IP2	TRAF6	-a>
+MAP3K7IP2	TAK1/TAB family	component>
+TAOK3	MAP2K6	-a>
+TAOK3	MAP2K3	-a>
+CCM2	RAC1/OSM/MEKK3/MKK3	component>
+CCM2	RAC1/OSM/MEKK3	component>
+CCM2	OSM/MEKK3	component>
+MAP3K3	RAC1/OSM/MEKK3/MKK3	component>
+MAP3K3	RAC1/OSM/MEKK3	component>
+MAP3K3	OSM/MEKK3	component>
+MAP3K5	TRX/ASK1	component>
+MAP3K5	TRAF6/ASK1	component>
+MAP3K5	TRAF2/ASK1	component>
+MAP3K5	CaM/Ca2+/CAMKIIB/ASK1	component>
+MAP3K5	ASK1/ASK2	component>
+TAOK1	MAP2K6	-a>
+TAOK1	MAP2K3	-a>
+MAPK14	TAK1/TAB family	-a|
+MAPK11	TAK1/TAB family	-a|
+MAP3K7IP1	TAK1/TAB family	component>
+CAMK2B	CaM/Ca2+/CAMKIIB/ASK1	component>
+CAMK2B	CaM/Ca2+/CAMKIIB	component>
+ATM	TAOK2	-a>
+ATM	TAOK3	-a>
+ATM	TAOK1	-a>
+MAP3K1	MAP2K6	-a>
+MAP3K1	MAP2K3	-a>
+TRAF2	TRAF2/ASK1	component>
+MAP3K10	MAP2K6	-a>
+MAP3K10	MAP2K3	-a>
+RAC1	RAC1/OSM/MEKK3/MKK3	component>
+RAC1	RAC1/OSM/MEKK3	component>
+CALM1	CaM/Ca2+/CAMKIIB/ASK1	component>
+CALM1	CaM/Ca2+/CAMKIIB	component>
+MAP2K3	RAC1/OSM/MEKK3/MKK3	component>
+GADD45A	GADD45/MTK1/MTK1	component>
+TXN	TRX/ASK1	component>
+MAP3K6	ASK1/ASK2	component>
+GADD45G	GADD45/MTK1/MTK1	component>
+GADD45B	GADD45/MTK1/MTK1	component>
+MAP3K7	TAK1/TAB family	component>
+TRAF6/ASK1	MAP2K6	-a>
+TRAF6/ASK1	MAP2K3	-a>
+TRAF2/ASK1	MAP2K6	-a>
+TRAF2/ASK1	MAP2K3	-a>
+TAK1/TAB family	MAP2K6	-a>
+TAK1/TAB family	MAP2K3	-a>
+GADD45/MTK1/MTK1	MAP2K6	-a>
+CaM/Ca2+/CAMKIIB/ASK1	MAP2K6	-a>
+CaM/Ca2+/CAMKIIB/ASK1	MAP2K3	-a>
+ASK1/ASK2	MAP2K6	-a>

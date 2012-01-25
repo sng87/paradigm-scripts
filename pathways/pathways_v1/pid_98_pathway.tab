@@ -1,0 +1,71 @@
+protein	ATF5
+protein	PTP4A1
+protein	RABGGTA
+protein	ROCK1
+protein	PTP4A2
+protein	TUBA1B
+protein	RAC1
+protein	RHOA
+protein	BCAR1
+protein	ITGA1
+protein	RABGGTB
+protein	CDKN1A
+protein	MAPK1
+protein	MAPK3
+protein	CDK2
+protein	CCNE1
+protein	CCNA2
+protein	EGR1
+protein	SRC
+protein	RHOC
+protein	ITGB1
+protein	AGT
+protein	PTP4A3
+complex	Rab GGTase beta/Rab GGTase alpha
+complex	PRL-3/alpha1 Integrin
+complex	PRL-3/alpha Tubulin
+complex	PRL-2 /Rab GGTase beta
+complex	PRL-1/alpha Tubulin
+complex	PRL-1/ATF-5
+complex	CDK2/Cyclin E1
+chemical	mol:Halofuginone
+chemical	mol:Ca2+
+abstract	mitosis
+abstract	cell motility
+mol:Halofuginone	EGR1	-a>
+ATF5	PRL-1/ATF-5	component>
+PTP4A1	mitosis	-ap>
+PTP4A1	RAC1	-a>
+PTP4A1	RHOA	-a>
+PTP4A1	CDKN1A	-a>
+PTP4A1	CCNA2	-a>
+PTP4A1	RHOC	-a>
+PTP4A1	PRL-1/alpha Tubulin	component>
+PTP4A1	PRL-1/ATF-5	component>
+RABGGTA	Rab GGTase beta/Rab GGTase alpha	component>
+ROCK1	cell motility	-ap>
+PTP4A2	CDKN1A	-a>
+PTP4A2	PRL-2 /Rab GGTase beta	component>
+TUBA1B	PRL-3/alpha Tubulin	component>
+TUBA1B	PRL-1/alpha Tubulin	component>
+RHOA	ROCK1	-a>
+ITGA1	PRL-3/alpha1 Integrin	component>
+RABGGTB	Rab GGTase beta/Rab GGTase alpha	component>
+RABGGTB	PRL-2 /Rab GGTase beta	component>
+CDKN1A	CDK2/Cyclin E1	-a>
+CDK2	CDK2/Cyclin E1	component>
+CCNE1	CDK2/Cyclin E1	component>
+EGR1	PTP4A1	-t>
+SRC	PTP4A1	-a>
+RHOC	ROCK1	-a>
+AGT	mol:Ca2+	-a>
+PTP4A3	mol:Ca2+	-a|
+PTP4A3	RAC1	-a>
+PTP4A3	RHOA	-a>
+PTP4A3	BCAR1	-a|
+PTP4A3	MAPK1	-a>
+PTP4A3	MAPK3	-a>
+PTP4A3	RHOC	-a>
+PTP4A3	ITGB1	-a>
+PTP4A3	PRL-3/alpha1 Integrin	component>
+PTP4A3	PRL-3/alpha Tubulin	component>

@@ -1,0 +1,23 @@
+complex	Ubiquitinated phospho-IkB
+complex	IkB(alpha):NF-kB complex
+complex	NF-kB complex
+complex	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta
+complex	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+smallMolecule	ATP
+smallMolecule	ADP
+protein	NFKBIA
+NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	ADP	component>
+NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	-a>
+NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	ADP	-a>
+ATP	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	-a>
+ATP	ADP	-a>
+NFKBIA	Ubiquitinated phospho-IkB	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	Ubiquitinated phospho-IkB	component>
+ATP	NFKBIA	component>
+ATP	NF-kB complex	component>
+ATP	ADP	component>
+IkB(alpha):NF-kB complex	NFKBIA	component>
+IkB(alpha):NF-kB complex	NF-kB complex	component>
+IkB(alpha):NF-kB complex	ADP	component>
+NF-kB complex	NF-kB complex	-a>

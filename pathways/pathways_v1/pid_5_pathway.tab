@@ -1,0 +1,156 @@
+protein	HDAC1
+protein	MDM2
+protein	UBE2I
+protein	SUMO1
+protein	RAN
+protein	HDAC4
+protein	RANBP2
+protein	RANGAP1
+protein	PIAS2
+protein	PIAS1
+protein	XPO1
+protein	EntrezGene:9972
+protein	EntrezGene:8021
+protein	EntrezGene:23636
+protein	EntrezGene:23225
+complex	SUMO1/HDAC4
+complex	SUMO1/HDAC1
+complex	Ran/GTP/Exportin 1/HDAC4
+complex	Ran/GTP/Exportin 1/HDAC1
+complex	Ran/GTP/Exportin 1
+complex	Ran/GTP
+complex	NPC/RanGAP1/SUMO1/RanBP2/Ubc9
+complex	NPC/RanGAP1/SUMO1
+complex	NPC
+complex	MDM2/SUMO1/SUMO1
+complex	MDM2/SUMO1
+chemical	mol:GTP
+protein	HDAC1
+protein	MDM2
+protein	UBE2I
+protein	SUMO1
+protein	RAN
+protein	HDAC4
+protein	RANBP2
+protein	RANGAP1
+protein	PIAS2
+protein	PIAS1
+protein	XPO1
+protein	EntrezGene:9972
+protein	EntrezGene:8021
+protein	EntrezGene:23636
+protein	EntrezGene:23225
+complex	SUMO1/HDAC4
+complex	SUMO1/HDAC1
+complex	Ran/GTP/Exportin 1/HDAC4
+complex	Ran/GTP/Exportin 1/HDAC1
+complex	Ran/GTP/Exportin 1
+complex	Ran/GTP
+complex	NPC/RanGAP1/SUMO1/RanBP2/Ubc9
+complex	NPC/RanGAP1/SUMO1
+complex	NPC
+complex	MDM2/SUMO1/SUMO1
+complex	MDM2/SUMO1
+chemical	mol:GTP
+mol:GTP	Ran/GTP/Exportin 1/HDAC4	component>
+mol:GTP	Ran/GTP/Exportin 1/HDAC1	component>
+mol:GTP	Ran/GTP/Exportin 1	component>
+mol:GTP	Ran/GTP	component>
+HDAC1	SUMO1/HDAC1	component>
+HDAC1	Ran/GTP/Exportin 1/HDAC1	component>
+MDM2	MDM2/SUMO1/SUMO1	component>
+MDM2	MDM2/SUMO1	component>
+UBE2I	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+SUMO1	SUMO1/HDAC4	component>
+SUMO1	SUMO1/HDAC1	component>
+SUMO1	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+SUMO1	NPC/RanGAP1/SUMO1	component>
+SUMO1	MDM2/SUMO1/SUMO1	component>
+SUMO1	MDM2/SUMO1	component>
+RAN	Ran/GTP/Exportin 1/HDAC4	component>
+RAN	Ran/GTP/Exportin 1/HDAC1	component>
+RAN	Ran/GTP/Exportin 1	component>
+RAN	Ran/GTP	component>
+HDAC4	SUMO1/HDAC4	component>
+HDAC4	Ran/GTP/Exportin 1/HDAC4	component>
+RANBP2	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+RANBP2	NPC/RanGAP1/SUMO1	component>
+RANBP2	NPC	component>
+RANGAP1	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+RANGAP1	NPC/RanGAP1/SUMO1	component>
+PIAS2	MDM2/SUMO1/SUMO1	-a>
+PIAS1	MDM2/SUMO1/SUMO1	-a>
+XPO1	Ran/GTP/Exportin 1/HDAC4	component>
+XPO1	Ran/GTP/Exportin 1/HDAC1	component>
+XPO1	Ran/GTP/Exportin 1	component>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	XPO1	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	SUMO1/HDAC4	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	SUMO1/HDAC1	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	Ran/GTP/Exportin 1	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	Ran/GTP	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	MDM2/SUMO1	-a>
+NPC	Ran/GTP/Exportin 1/HDAC4	-a>
+NPC	Ran/GTP/Exportin 1/HDAC1	-a>
+EntrezGene:9972	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:9972	NPC/RanGAP1/SUMO1	component>
+EntrezGene:9972	NPC	component>
+EntrezGene:8021	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:8021	NPC/RanGAP1/SUMO1	component>
+EntrezGene:8021	NPC	component>
+EntrezGene:23636	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:23636	NPC/RanGAP1/SUMO1	component>
+EntrezGene:23636	NPC	component>
+EntrezGene:23225	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:23225	NPC/RanGAP1/SUMO1	component>
+EntrezGene:23225	NPC	component>
+mol:GTP	Ran/GTP/Exportin 1/HDAC4	component>
+mol:GTP	Ran/GTP/Exportin 1/HDAC1	component>
+mol:GTP	Ran/GTP/Exportin 1	component>
+mol:GTP	Ran/GTP	component>
+HDAC1	SUMO1/HDAC1	component>
+HDAC1	Ran/GTP/Exportin 1/HDAC1	component>
+MDM2	MDM2/SUMO1/SUMO1	component>
+MDM2	MDM2/SUMO1	component>
+UBE2I	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+SUMO1	SUMO1/HDAC4	component>
+SUMO1	SUMO1/HDAC1	component>
+SUMO1	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+SUMO1	NPC/RanGAP1/SUMO1	component>
+SUMO1	MDM2/SUMO1/SUMO1	component>
+SUMO1	MDM2/SUMO1	component>
+RAN	Ran/GTP/Exportin 1/HDAC4	component>
+RAN	Ran/GTP/Exportin 1/HDAC1	component>
+RAN	Ran/GTP/Exportin 1	component>
+RAN	Ran/GTP	component>
+HDAC4	SUMO1/HDAC4	component>
+HDAC4	Ran/GTP/Exportin 1/HDAC4	component>
+RANBP2	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+RANBP2	NPC/RanGAP1/SUMO1	component>
+RANBP2	NPC	component>
+RANGAP1	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+RANGAP1	NPC/RanGAP1/SUMO1	component>
+PIAS2	MDM2/SUMO1/SUMO1	-a>
+PIAS1	MDM2/SUMO1/SUMO1	-a>
+XPO1	Ran/GTP/Exportin 1/HDAC4	component>
+XPO1	Ran/GTP/Exportin 1/HDAC1	component>
+XPO1	Ran/GTP/Exportin 1	component>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	XPO1	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	SUMO1/HDAC4	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	SUMO1/HDAC1	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	Ran/GTP/Exportin 1	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	Ran/GTP	-a>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	MDM2/SUMO1	-a>
+NPC	Ran/GTP/Exportin 1/HDAC4	-a>
+NPC	Ran/GTP/Exportin 1/HDAC1	-a>
+EntrezGene:9972	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:9972	NPC/RanGAP1/SUMO1	component>
+EntrezGene:9972	NPC	component>
+EntrezGene:8021	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:8021	NPC/RanGAP1/SUMO1	component>
+EntrezGene:8021	NPC	component>
+EntrezGene:23636	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:23636	NPC/RanGAP1/SUMO1	component>
+EntrezGene:23636	NPC	component>
+EntrezGene:23225	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+EntrezGene:23225	NPC/RanGAP1/SUMO1	component>
+EntrezGene:23225	NPC	component>

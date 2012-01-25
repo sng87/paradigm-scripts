@@ -1,0 +1,120 @@
+protein	FOXA2
+protein	CPT1B
+protein	CPT1C
+protein	HADH
+protein	KCNJ11
+protein	FOXF1
+protein	ABCC8
+protein	BDH1
+protein	HMGCS1
+protein	DLK1
+protein	UCP2
+protein	FOXA3
+protein	FOXA1
+protein	PDX1
+protein	CPT1A
+protein	ACADVL
+protein	CEBPA
+protein	NKX2-1
+protein	HNF4A
+protein	G6PC
+protein	PCK1
+protein	GCK
+protein	AKT1
+protein	PKLR
+protein	NF1
+protein	HNF1A
+protein	TAT
+protein	CEBPB
+protein	CREB1
+protein	ALAS1
+protein	ACADM
+protein	SLC2A2
+protein	IGFBP1
+protein	SP1
+protein	ALDOB
+protein	NR3C1
+protein	TFRC
+protein	AFP
+protein	ALB
+protein	TTR
+protein	APOA1
+protein	INS
+protein	F2
+complex	HNF1A (dimer)
+abstract	response to starvation
+abstract	chromatin remodeling
+response to starvation	CPT1B	-ap>
+response to starvation	CPT1C	-ap>
+response to starvation	BDH1	-ap>
+response to starvation	HMGCS1	-ap>
+response to starvation	UCP2	-ap>
+response to starvation	CPT1A	-ap>
+response to starvation	ACADVL	-ap>
+response to starvation	HNF4A	-ap>
+response to starvation	PCK1	-ap>
+response to starvation	GCK	-ap>
+response to starvation	PKLR	-ap>
+response to starvation	TAT	-ap>
+response to starvation	ACADM	-ap>
+response to starvation	IGFBP1	-ap>
+chromatin remodeling	AFP	-ap>
+chromatin remodeling	ALB	-ap>
+FOXA2	CPT1B	-t>
+FOXA2	CPT1C	-t>
+FOXA2	HADH	-t>
+FOXA2	KCNJ11	-t>
+FOXA2	ABCC8	-t>
+FOXA2	BDH1	-t>
+FOXA2	HMGCS1	-t>
+FOXA2	DLK1	-t>
+FOXA2	UCP2	-t>
+FOXA2	PDX1	-t>
+FOXA2	CPT1A	-t>
+FOXA2	ACADVL	-t>
+FOXA2	NKX2-1	-t>
+FOXA2	HNF4A	-t>
+FOXA2	PCK1	-t>
+FOXA2	GCK	-t>
+FOXA2	PKLR	-t>
+FOXA2	TAT	-t>
+FOXA2	ALAS1	-t>
+FOXA2	ACADM	-t>
+FOXA2	SLC2A2	-t>
+FOXA2	IGFBP1	-t>
+FOXA2	ALDOB	-t>
+FOXA2	TFRC	-t>
+FOXA2	APOA1	-t>
+FOXA2	F2	-t>
+FOXF1	NKX2-1	-t|
+FOXA3	G6PC	-t>
+FOXA3	PCK1	-t>
+FOXA3	TAT	-t>
+FOXA3	TFRC	-t>
+FOXA3	AFP	-t>
+FOXA3	ALB	-t>
+FOXA3	TTR	-t>
+FOXA1	NKX2-1	-t|
+FOXA1	AFP	-t>
+FOXA1	ALB	-t>
+FOXA1	TTR	-t>
+CEBPA	G6PC	-t>
+CEBPA	TTR	-t>
+HNF4A	TTR	-t>
+HNF4A	APOA1	-t>
+HNF4A	F2	-t>
+AKT1	FOXA2	-a>
+NF1	ALAS1	-t>
+HNF1A	HNF1A (dimer)	component>
+CEBPB	G6PC	-t>
+CEBPB	TTR	-t>
+CREB1	G6PC	-t>
+CREB1	PCK1	-t>
+SP1	PDX1	-t>
+NR3C1	TAT	-t>
+NR3C1	IGFBP1	-t>
+INS	ALAS1	-t|
+INS	IGFBP1	-t|
+HNF1A (dimer)	PDX1	-t>
+HNF1A (dimer)	G6PC	-t>
+HNF1A (dimer)	SLC2A2	-t>

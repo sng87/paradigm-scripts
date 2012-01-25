@@ -1,0 +1,87 @@
+protein	VAV3
+protein	MAP3K14
+protein	PTK2B
+protein	ILK
+protein	MAP3K1
+protein	RELA
+protein	RAC1
+protein	BCAR1
+protein	MAPK8
+protein	SYK
+protein	MAPK1
+protein	MAPK3
+protein	NFKBIA
+protein	NFKB1
+protein	CD44
+protein	SPP1
+protein	MMP2
+protein	ITGAV
+protein	JUN
+protein	ITGB3
+protein	FOS
+protein	PLAU
+protein	ROCK2
+protein	CHUK
+complex	alphaV/beta3 Integrin/Osteopontin/Src
+complex	alphaV/beta3 Integrin/Osteopontin
+complex	alphaV beta3 Integrin
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PYK2/p130Cas
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+complex	NF kappa B1 p50/RelA
+complex	IKK alpha homodimer
+complex	CD44/Rho Family GTPase/ROCK2
+complex	AP1
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	bone resorption
+mol:GTP	Rac1/GTP	component>
+mol:GDP	Rac1/GDP	component>
+alphaV/beta3 Integrin/Osteopontin/Src	PYK2/p130Cas	-a>
+alphaV/beta3 Integrin/Osteopontin	MAP3K14	-a>
+alphaV/beta3 Integrin/Osteopontin	ILK	-t>
+alphaV/beta3 Integrin/Osteopontin	MAP3K1	-a>
+alphaV/beta3 Integrin/Osteopontin	SYK	-a>
+VAV3	Rac1/GTP	-a>
+MAP3K14	MAPK1	-a>
+MAP3K14	MAPK3	-a>
+MAP3K14	IKK alpha homodimer	-a>
+PTK2B	PYK2/p130Cas	component>
+ILK	AP1	-a>
+MAP3K1	MAPK8	-a>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+RELA	NF kappa B1 p50/RelA	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+BCAR1	PYK2/p130Cas	component>
+MAPK8	AP1	-a>
+SYK	VAV3	-a>
+SYK	PYK2/p130Cas	-a>
+MAPK1	NFKBIA	-a>
+MAPK1	PLAU	-t>
+MAPK1	NF kappa B1 p50/RelA	-a>
+MAPK3	NFKBIA	-a>
+MAPK3	PLAU	-t>
+MAPK3	NF kappa B1 p50/RelA	-a>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKB1	NF kappa B1 p50/RelA	component>
+CD44	CD44/Rho Family GTPase/ROCK2	component>
+SPP1	alphaV/beta3 Integrin/Osteopontin/Src	component>
+SPP1	alphaV/beta3 Integrin/Osteopontin	component>
+ITGAV	alphaV/beta3 Integrin/Osteopontin/Src	component>
+ITGAV	alphaV/beta3 Integrin/Osteopontin	component>
+ITGAV	alphaV beta3 Integrin	component>
+JUN	AP1	component>
+ITGB3	alphaV/beta3 Integrin/Osteopontin	component>
+ITGB3	alphaV beta3 Integrin	component>
+FOS	AP1	component>
+ROCK2	CD44/Rho Family GTPase/ROCK2	component>
+CHUK	IKK alpha homodimer	component>
+PYK2/p130Cas	bone resorption	-ap>
+IKK alpha homodimer	NFKBIA	-a>
+IKK alpha homodimer	NF kappa B1 p50/RelA	-a>
+CD44/Rho Family GTPase/ROCK2	bone resorption	-ap>
+AP1	MMP2	-t>
+AP1	PLAU	-t>

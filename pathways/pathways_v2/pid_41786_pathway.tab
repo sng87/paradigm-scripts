@@ -1,0 +1,92 @@
+complex	Integrin alpha Xbeta 2 bound to JAM-C
+complex	VLA-4
+complex	CD47 bound to its ligand
+complex	Integrin CD11a-CD18 (LFA-1)
+complex	protein C
+complex	JAM-B bound to JAM-C
+protein	Platelet Factor 4
+complex	CD58 bound to CD2
+complex	JAM-A Homodimer
+protein	MERTK ligands
+complex	MERTK bound to its ligand
+complex	JAM-B homodimer
+complex	OLR1 bound to oxidized LDL
+complex	GPVI:Fc Epsilon R1 gamma:FYN:LYN:Collagen I
+complex	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin
+protein	UniProt:Q86YT9-1 AMICA1_subunit_20_394_20-394
+complex	CXADR bound to JAML
+complex	Fibronectin dimer
+complex	JAM-C homodimer
+complex	Integrin MAC-1
+protein	UniProt:Q86YT9-3 AMICA1_subunit_20_394_20-394
+protein	UniProt:Q9UIB8-1 CD84_subunit_22_345_22-345
+complex	CD84 Homodimer
+complex	VLA-4 bound to JAM-B
+complex	LFA-1 bound to JAM-A
+complex	CD48 bound to CD244
+complex	MAC-1 bound to JAM-C
+protein	Selectin
+complex	P-selectin bound to its ligand
+complex	activated protein C
+protein	UniProt:Q8N6Q3 CD177_subunit_22_408_22-408
+complex	PECAM-1 bound to CD177
+complex	TREM-1 bound to its ligand
+complex	Alpha 5 Beta 1 Fibronectin receptor
+complex	activated thrombin:thrombomodulin
+complex	Integrin alpha X beta 2
+complex	GPVI:Fc Epsilon R1 gamma:FYN:LYN
+smallMolecule	Mn2+
+complex	LDL
+protein	TREM1
+protein	SELPLG
+protein	PROC
+protein	PECAM1
+protein	OLR1
+protein	MERTK
+protein	JAM3
+protein	JAM2
+protein	F11R
+protein	CXADR
+protein	CD58
+protein	CD48
+protein	CD47
+protein	CD244
+protein	CD2
+activated thrombin:thrombomodulin	activated protein C	component>
+Platelet Factor 4	activated protein C	component>
+CD47	CD47 bound to its ligand	component>
+protein C	PROC	component>
+protein C	activated protein C	component>
+GPVI:Fc Epsilon R1 gamma:FYN:LYN	GPVI:Fc Epsilon R1 gamma:FYN:LYN:Collagen I	-a>
+LDL	OLR1 bound to oxidized LDL	component>
+OLR1	OLR1 bound to oxidized LDL	component>
+F11R	LFA-1 bound to JAM-A	component>
+Integrin CD11a-CD18 (LFA-1)	LFA-1 bound to JAM-A	component>
+CD244	CD48 bound to CD244	component>
+CD48	CD48 bound to CD244	component>
+CD2	CD58 bound to CD2	component>
+CD58	CD58 bound to CD2	component>
+VLA-4	VLA-4 bound to JAM-B	component>
+JAM2	VLA-4 bound to JAM-B	component>
+Integrin alpha X beta 2	Integrin alpha Xbeta 2 bound to JAM-C	component>
+UniProt:Q86YT9-3 AMICA1_subunit_20_394_20-394	Integrin alpha Xbeta 2 bound to JAM-C	component>
+JAM3	JAM-C homodimer	component>
+PECAM1	PECAM-1 bound to CD177	component>
+UniProt:Q8N6Q3 CD177_subunit_22_408_22-408	PECAM-1 bound to CD177	component>
+Fibronectin dimer	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin	component>
+Alpha 5 Beta 1 Fibronectin receptor	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin	component>
+Mn2+	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin	component>
+F11R	JAM-A Homodimer	component>
+Integrin MAC-1	MAC-1 bound to JAM-C	component>
+JAM3	MAC-1 bound to JAM-C	component>
+JAM3	JAM-B bound to JAM-C	component>
+JAM2	JAM-B bound to JAM-C	component>
+SELPLG	P-selectin bound to its ligand	component>
+Selectin	P-selectin bound to its ligand	component>
+UniProt:Q86YT9-1 AMICA1_subunit_20_394_20-394	CXADR bound to JAML	component>
+CXADR	CXADR bound to JAML	component>
+JAM2	JAM-B homodimer	component>
+MERTK ligands	MERTK bound to its ligand	component>
+MERTK	MERTK bound to its ligand	component>
+TREM1	TREM-1 bound to its ligand	component>
+UniProt:Q9UIB8-1 CD84_subunit_22_345_22-345	CD84 Homodimer	component>

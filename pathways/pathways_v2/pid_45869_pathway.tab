@@ -1,0 +1,39 @@
+complex	G-alpha-s/GTP
+complex	Ligand/GPCR(+)/Arrestin
+complex	g-gamma/g-beta
+complex	ligand/GPCR(+)
+complex	Ligand/GPCR/g-beta/g-gamma
+complex	Ligand/GPCR(+)/g-beta/g-gamma
+complex	G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP
+complex	Arrestin/AP2
+complex	ligand/GPCR
+complex	Ligand/GPCR(+)/Arrestin/AP2
+protein	G-protein Receptor
+abstract	degradation
+protein	Ligand
+complex	AP2
+protein	PPARA
+protein	DNM1
+protein	ARRB1
+protein	ADRBK1
+PPARA	ligand/GPCR	-a>
+ADRBK1	Ligand/GPCR(+)/g-beta/g-gamma	-a>
+DNM1	Ligand/GPCR(+)/Arrestin/AP2	-a>
+ligand/GPCR(+)	ligand/GPCR	-a>
+ARRB1	g-gamma/g-beta	component>
+ARRB1	Ligand/GPCR(+)/Arrestin	component>
+Ligand/GPCR(+)/g-beta/g-gamma	g-gamma/g-beta	component>
+Ligand/GPCR(+)/g-beta/g-gamma	Ligand/GPCR(+)/Arrestin	component>
+Ligand/GPCR/g-beta/g-gamma	Ligand/GPCR(+)/g-beta/g-gamma	-a>
+Ligand/GPCR(+)/Arrestin/AP2	Ligand/GPCR(+)/Arrestin/AP2	-a>
+G-protein Receptor	degradation	-ap>
+ligand/GPCR	degradation	-ap>
+Ligand/GPCR(+)/Arrestin/AP2	Arrestin/AP2	component>
+Ligand/GPCR(+)/Arrestin/AP2	ligand/GPCR(+)	component>
+Ligand	G-alpha-s/GTP	component>
+Ligand	Ligand/GPCR/g-beta/g-gamma	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	G-alpha-s/GTP	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	Ligand/GPCR/g-beta/g-gamma	component>
+G-protein Receptor	G-protein Receptor	-a>
+Ligand/GPCR(+)/Arrestin	Ligand/GPCR(+)/Arrestin/AP2	component>
+AP2	Ligand/GPCR(+)/Arrestin/AP2	component>

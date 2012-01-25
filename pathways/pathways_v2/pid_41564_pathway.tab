@@ -1,0 +1,25 @@
+complex	p21 RAS:GTP
+protein	MAPKAP kinase
+protein	Active MAPKAP kinase
+complex	Ras-GTP:RalGDS complex
+complex	MAP kinase p38 (Mg2+ cofactor)
+protein	UniProt:P12931-1 SRC_subunit_2_536_2-536
+protein	UniProt:P12931-1 SRC
+complex	Phospho-MAP kinase p38 (Mg2+ cofactor)
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RALGDS
+UniProt:P12931-1 SRC	ADP	-a>
+p21 RAS:GTP	Ras-GTP:RalGDS complex	component>
+RALGDS	Ras-GTP:RalGDS complex	component>
+GTP	GDP	-a>
+UniProt:P12931-1 SRC_subunit_2_536_2-536	UniProt:P12931-1 SRC	-a>
+MAP kinase p38 (Mg2+ cofactor)	Phospho-MAP kinase p38 (Mg2+ cofactor)	-a>
+MAP kinase p38 (Mg2+ cofactor)	ADP	-a>
+ATP	Phospho-MAP kinase p38 (Mg2+ cofactor)	-a>
+MAPKAP kinase	Active MAPKAP kinase	-a>
+MAPKAP kinase	ADP	-a>
+ATP	Active MAPKAP kinase	-a>
+ATP	ADP	-a>

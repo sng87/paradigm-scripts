@@ -1,0 +1,24 @@
+complex	TNF-alpha:TNF-R1 complex
+complex	TNF-alpha:TNF-R1:TRAPP:RIP1:TRAF2 Complex
+complex	TRAF2:TRADD:RIP1 Complex
+complex	TRAF2:TRADD:RIP1:FADD
+complex	TRADD:TRAF2:RIP1:FADD:Capase-8 Complex
+protein	TRAF2
+protein	TRADD
+protein	TNFRSF1A
+protein	TNF
+protein	RIPK1
+protein	FADD
+protein	CASP8
+TNF-alpha:TNF-R1:TRAPP:RIP1:TRAF2 Complex	TNF-alpha:TNF-R1 complex	component>
+TNF-alpha:TNF-R1:TRAPP:RIP1:TRAF2 Complex	TRAF2:TRADD:RIP1 Complex	component>
+RIPK1	TNF-alpha:TNF-R1:TRAPP:RIP1:TRAF2 Complex	component>
+TNF-alpha:TNF-R1 complex	TNF-alpha:TNF-R1:TRAPP:RIP1:TRAF2 Complex	component>
+TRADD	TNF-alpha:TNF-R1:TRAPP:RIP1:TRAF2 Complex	component>
+TRAF2	TNF-alpha:TNF-R1:TRAPP:RIP1:TRAF2 Complex	component>
+TNFRSF1A	TNF-alpha:TNF-R1 complex	component>
+TNF	TNF-alpha:TNF-R1 complex	component>
+CASP8	TRADD:TRAF2:RIP1:FADD:Capase-8 Complex	component>
+TRAF2:TRADD:RIP1:FADD	TRADD:TRAF2:RIP1:FADD:Capase-8 Complex	component>
+TRAF2:TRADD:RIP1 Complex	TRAF2:TRADD:RIP1:FADD	component>
+FADD	TRAF2:TRADD:RIP1:FADD	component>

@@ -1,0 +1,51 @@
+complex	GH/GH R
+complex	NF-kappa-B
+complex	NF-kappa-B/I-kappa-B-alpha
+complex	HSP90/AKT
+protein	Forkhead Transcription Factors
+complex	14-3-3/Forkhead Transcription Factors
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+smallMolecule	PIP2
+abstract	cell survival
+abstract	protein ubiquitination
+abstract	apoptosis
+complex	PI3K
+smallMolecule	PIP3
+protein	YWHAH
+protein	PPP2CA
+protein	PDPK1
+protein	HSPCA
+protein	GHR
+protein	GH1
+protein	FASLG
+protein	CHUK
+protein	CASP9
+protein	BAD
+protein	AKT1
+PI3K	PIP3	-a>
+CHUK	protein ubiquitination	-ap>
+YWHAH	14-3-3/Forkhead Transcription Factors	component>
+Forkhead Transcription Factors	14-3-3/Forkhead Transcription Factors	component>
+CASP9	cell survival	-ap>
+PIP2	PIP3	-a>
+Forkhead Transcription Factors	Forkhead Transcription Factors	-a>
+14-3-3/Forkhead Transcription Factors	cell survival	-ap>
+GH/GH R	PI3K	-a>
+BAD	apoptosis	-ap>
+CASP9	apoptosis	-ap>
+AKT1	CHUK	-a>
+HSPCA	HSP90/AKT	component>
+AKT1	HSP90/AKT	component>
+Forkhead Transcription Factors	FASLG	-t>
+AKT1	BAD	-a>
+AKT1	Forkhead Transcription Factors	-a>
+PDPK1	AKT1	-a>
+GHR	GH/GH R	component>
+GH1	GH/GH R	component>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+NF-kappa-B/I-kappa-B-alpha	protein ubiquitination	-ap>
+AKT1	CASP9	-a>
+PPP2CA	AKT1	-a>
+BAD	cell survival	-ap>
+PIP3	PDPK1	-a>
+NF-kappa-B	cell survival	-ap>

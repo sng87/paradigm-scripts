@@ -1,0 +1,12 @@
+complex	GLUT2 tetramer
+smallMolecule	D-fructose
+smallMolecule	D-Galactose
+smallMolecule	Na+
+protein	SLC5A1
+protein	SLC2A5
+GLUT2 tetramer	D-fructose	-a>
+Na+	Na+	-a>
+Na+	D-Galactose	-a>
+D-Galactose	Na+	-a>
+SLC5A1	D-Galactose	-a>
+SLC2A5	D-fructose	-a>

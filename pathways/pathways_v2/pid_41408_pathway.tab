@@ -1,0 +1,14 @@
+complex	RNA Polymerase I:rRNATranscript:TTF-1:Sal Box Complex
+complex	TTF-I:Sal Box
+complex	PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box
+complex	RNA Polymerase I promoter escape complex
+protein	TTF1
+protein	PTRF
+RNA Polymerase I promoter escape complex	RNA Polymerase I:rRNATranscript:TTF-1:Sal Box Complex	component>
+TTF-I:Sal Box	RNA Polymerase I:rRNATranscript:TTF-1:Sal Box Complex	component>
+TTF1	TTF-I:Sal Box	component>
+PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	PTRF	component>
+PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	TTF1	component>
+PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	RNA Polymerase I promoter escape complex	component>
+PTRF	PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	component>
+RNA Polymerase I:rRNATranscript:TTF-1:Sal Box Complex	PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	component>

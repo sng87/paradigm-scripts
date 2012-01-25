@@ -1,0 +1,115 @@
+complex	IKK complex with phosphorylated IKK beta
+complex	TRAF6 trimer bound to CBM complex
+complex	PKC theta (opened conformation) bound to DAG
+complex	IKK complex with Ub-NEMO
+complex	MALT1 trimer bound to Bcl10 and CARMA1 trimer
+complex	PTEN (Mg2+ cofactor)
+complex	Bcl10 trimer bound to CARMA1 trimer
+complex	TAK1/TAB2 complex bound to TRAF6/CBM complex
+complex	TAB2/TAK1 complex
+complex	Inhibitor of KappaB kinase (IKK) Complex
+complex	Phosphorylated Bcl10 bound to CARMA1 and RIP2
+complex	IkB(alpha):NF-kB complex
+complex	Active PKC theta bound to DAG
+complex	Bcl10 bound to CARMA1
+complex	PI3K bound to TRAT
+complex	Ub-TRAF6 trimer bound to CBM complex
+complex	NF-kB complex
+complex	CARMA1 trimer
+complex	PDK1 bound to either PIP3 or PI(3,4)P2
+protein	UniProt:Q92835 INPP5D_subunit_1_1189_1-1189
+complex	Activated CARMA1
+smallMolecule	ChEBI:16152 1-phosphatidyl-1D-myo-inositol 3,4-bisphosphates
+smallMolecule	PI(3,4)P2
+complex	CARMA1 bound to PDK1
+smallMolecule	PIP2
+complex	Ubc13/Uev1A complex
+smallMolecule	PPi
+complex	Inactive PKC theta bound to DAG
+smallMolecule	diacylglycerols
+complex	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	MALT1 trimer
+smallMolecule	ATP
+smallMolecule	ADP
+complex	PI3K
+smallMolecule	PIP3
+protein	TRAT1
+protein	TRAF6
+protein	RIPK2
+protein	PRKCQ
+protein	PDPK1
+protein	NFKBIA
+protein	CARD11
+protein	BCL10
+PI3K bound to TRAT	ADP	-a>
+PDK1 bound to either PIP3 or PI(3,4)P2	Active PKC theta bound to DAG	-a>
+RIPK2	ADP	-a>
+IKK complex with Ub-NEMO	NF-kB complex	component>
+UniProt:Q92835 INPP5D_subunit_1_1189_1-1189	PPi	-a>
+Ub-TRAF6 trimer bound to CBM complex	IKK complex with Ub-NEMO	component>
+PTEN (Mg2+ cofactor)	PIP2	-a>
+TAK1/TAB2 complex bound to TRAF6/CBM complex	ADP	-a>
+Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	PKC theta (opened conformation) bound to DAG	-a>
+Active PKC theta bound to DAG	ADP	-a>
+ATP	PIP3	-a>
+PIP2	PIP3	-a>
+PIP2	ADP	-a>
+BCL10	Bcl10 trimer bound to CARMA1 trimer	component>
+Phosphorylated Bcl10 bound to CARMA1 and RIP2	Bcl10 trimer bound to CARMA1 trimer	component>
+ATP	Active PKC theta bound to DAG	-a>
+PKC theta (opened conformation) bound to DAG	ADP	-a>
+PKC theta (opened conformation) bound to DAG	Active PKC theta bound to DAG	-a>
+PDPK1	PDK1 bound to either PIP3 or PI(3,4)P2	component>
+PI(3,4)P2	PDK1 bound to either PIP3 or PI(3,4)P2	component>
+ATP	Phosphorylated Bcl10 bound to CARMA1 and RIP2	-a>
+Bcl10 bound to CARMA1	Phosphorylated Bcl10 bound to CARMA1 and RIP2	-a>
+Bcl10 bound to CARMA1	ADP	-a>
+PRKCQ	Inactive PKC theta bound to DAG	component>
+diacylglycerols	Inactive PKC theta bound to DAG	component>
+ATP	NFKBIA	component>
+ATP	NF-kB complex	component>
+IkB(alpha):NF-kB complex	ADP	component>
+IkB(alpha):NF-kB complex	NFKBIA	component>
+IkB(alpha):NF-kB complex	NF-kB complex	component>
+PIP3	ChEBI:16152 1-phosphatidyl-1D-myo-inositol 3,4-bisphosphates	-a>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	IKK complex with Ub-NEMO	component>
+Ubc13/Uev1A complex	IKK complex with Ub-NEMO	component>
+IKK complex with phosphorylated IKK beta	Ubc13/Uev1A complex	component>
+IKK complex with phosphorylated IKK beta	IKK complex with Ub-NEMO	component>
+TRAT1	PI3K bound to TRAT	component>
+PI3K	PI3K bound to TRAT	component>
+PIP3	PPi	-a>
+PIP3	PIP2	-a>
+CARD11	CARMA1 trimer	component>
+Activated CARMA1	CARMA1 trimer	component>
+CARMA1 trimer	Bcl10 bound to CARMA1	component>
+BCL10	Bcl10 bound to CARMA1	component>
+Inhibitor of KappaB kinase (IKK) Complex	IKK complex with phosphorylated IKK beta	-a>
+Inhibitor of KappaB kinase (IKK) Complex	ADP	-a>
+ATP	IKK complex with phosphorylated IKK beta	-a>
+PDK1 bound to either PIP3 or PI(3,4)P2	CARMA1 bound to PDK1	component>
+CARD11	CARMA1 bound to PDK1	component>
+TRAF6	TRAF6 trimer bound to CBM complex	component>
+MALT1 trimer bound to Bcl10 and CARMA1 trimer	TRAF6 trimer bound to CBM complex	component>
+Ub-TRAF6 trimer bound to CBM complex	TAK1/TAB2 complex bound to TRAF6/CBM complex	component>
+Ub-TRAF6 trimer bound to CBM complex	ADP	component>
+TAB2/TAK1 complex	TAK1/TAB2 complex bound to TRAF6/CBM complex	component>
+TAB2/TAK1 complex	ADP	component>
+ATP	TAK1/TAB2 complex bound to TRAF6/CBM complex	component>
+ATP	ADP	component>
+ATP	PKC theta (opened conformation) bound to DAG	-a>
+Inactive PKC theta bound to DAG	ADP	-a>
+Inactive PKC theta bound to DAG	PKC theta (opened conformation) bound to DAG	-a>
+MALT1 trimer	MALT1 trimer bound to Bcl10 and CARMA1 trimer	component>
+Bcl10 trimer bound to CARMA1 trimer	MALT1 trimer bound to Bcl10 and CARMA1 trimer	component>
+CARMA1 bound to PDK1	Activated CARMA1	-a>
+CARMA1 bound to PDK1	ADP	-a>
+ATP	Activated CARMA1	-a>
+ATP	ADP	-a>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	Ubc13/Uev1A complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	Ub-TRAF6 trimer bound to CBM complex	component>
+TRAF6 trimer bound to CBM complex	Ubc13/Uev1A complex	component>
+TRAF6 trimer bound to CBM complex	Ub-TRAF6 trimer bound to CBM complex	component>
+Ubc13/Uev1A complex	Ubc13/Uev1A complex	component>
+Ubc13/Uev1A complex	Ub-TRAF6 trimer bound to CBM complex	component>

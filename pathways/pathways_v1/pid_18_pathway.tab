@@ -1,0 +1,61 @@
+protein	S1PR5
+protein	GNA13
+protein	GNA12
+protein	GNAI1
+protein	RHOA
+protein	CDC42
+protein	GNAO1
+protein	MAPK1
+protein	MAPK3
+protein	PLCG1
+protein	GNAZ
+protein	GNAO1
+protein	GNAI3
+protein	GNAI2
+protein	S1PR4
+complex	S1P/S1P5/Gi
+complex	S1P/S1P5/G12
+complex	S1P/S1P4/Gi
+complex	S1P/S1P4/G12/G13
+complex	G12/G13
+complex	CDC42/GTP
+complex	CDC42/GDP
+chemical	mol:S1P
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	cell migration
+mol:S1P	S1P/S1P5/Gi	component>
+mol:S1P	S1P/S1P5/G12	component>
+mol:S1P	S1P/S1P4/Gi	component>
+mol:S1P	S1P/S1P4/G12/G13	component>
+mol:GTP	CDC42/GTP	component>
+mol:GDP	CDC42/GDP	component>
+S1PR5	S1P/S1P5/Gi	component>
+S1PR5	S1P/S1P5/G12	component>
+GNA13	S1P/S1P4/G12/G13	component>
+GNA13	G12/G13	component>
+GNA12	S1P/S1P5/G12	component>
+GNA12	S1P/S1P4/G12/G13	component>
+GNA12	G12/G13	component>
+GNAI1	S1P/S1P5/Gi	component>
+GNAI1	S1P/S1P4/Gi	component>
+CDC42	CDC42/GTP	component>
+CDC42	CDC42/GDP	component>
+GNAO1	S1P/S1P5/Gi	component>
+GNAO1	S1P/S1P4/Gi	component>
+GNAZ	S1P/S1P5/Gi	component>
+GNAZ	S1P/S1P4/Gi	component>
+GNAO1	S1P/S1P5/Gi	component>
+GNAO1	S1P/S1P4/Gi	component>
+GNAI3	S1P/S1P5/Gi	component>
+GNAI3	S1P/S1P4/Gi	component>
+GNAI2	S1P/S1P5/Gi	component>
+GNAI2	S1P/S1P4/Gi	component>
+S1PR4	S1P/S1P4/Gi	component>
+S1PR4	S1P/S1P4/G12/G13	component>
+S1P/S1P4/Gi	MAPK1	-a>
+S1P/S1P4/Gi	MAPK3	-a>
+S1P/S1P4/Gi	PLCG1	-a>
+S1P/S1P4/Gi	CDC42/GTP	-a>
+S1P/S1P4/G12/G13	RHOA	-a>
+CDC42/GTP	cell migration	-ap>

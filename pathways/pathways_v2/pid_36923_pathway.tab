@@ -1,0 +1,178 @@
+abstract	regulation of vascular smooth muscle contraction
+abstract	positive regulation of muscle contraction
+abstract	arachidonic acid secretion
+abstract	response to oxidative stress
+abstract	Fibroblast
+abstract	cAMP biosynthetic process
+protein	MEK1-2
+smallMolecule	DAG
+complex	ETB receptor/Endothelin-2
+complex	Rho family GTPase
+protein	Adenylyl Cyclase
+complex	ETA receptor/Endothelin-2
+complex	ETB receptor/Endothelin-1/Gq/GTP/PLC beta
+complex	ETB receptor/Endothelin-3
+complex	Gai/GDP
+protein	ERK1-2-active
+protein	PLC beta
+complex	ETA receptor/Endothelin-1/Gq/GTP/PLC beta
+protein	MEK1-2-active
+protein	ERK1-2
+complex	ETB receptor/Endothelin-1/Gi/GTP
+complex	ETA receptor/Endothelin-3
+complex	ETB receptor/Endothelin-1/Gq/GTP
+complex	ETA receptor/Endothelin-1/Gq/GTP
+smallMolecule	Arachidonic acid
+complex	ETA receptor/Endothelin-1/Gs/GTP
+complex	G12/GDP
+complex	RAC1/GDP
+complex	Rho Family GTPase-active
+complex	Gs family/GDP
+complex	HRAS/GDP
+complex	HRAS/GTP
+complex	PAK1
+protein	Typical PKCs
+complex	Gq family/GDP
+smallMolecule	PI-4-5-P2
+smallMolecule	Ca2+
+protein	p130Cas
+complex	p130Cas/CRK/Src/PYK2
+smallMolecule	Ca ++
+smallMolecule	IP3
+complex	ETA receptor/Endothelin-1
+smallMolecule	K +
+complex	ETB receptor/Endothelin-1
+complex	ETA receptor/Endothelin-1/G12/GTP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TRPC6
+protein	SRC
+protein	SLC9A3
+protein	SLC9A1
+protein	RAF1
+protein	PTK2B
+protein	PLA2G4A
+protein	MMP1
+protein	MAPK8
+protein	MAPK14
+protein	JUN
+protein	JAK2
+protein	FOS
+protein	EDNRB
+protein	EDNRA
+protein	EDN3
+protein	EDN2
+protein	EDN1
+protein	CYSLTR2
+protein	CYSLTR1
+protein	CRK
+protein	COL3A1
+protein	COL1A2
+protein	AKT1
+Ca ++	Ca ++	-a|
+Ca2+	SLC9A3	-a>
+ETB receptor/Endothelin-1/Gq/GTP/PLC beta	DAG	-a>
+ETA receptor/Endothelin-1	MMP1	-t|
+ETA receptor/Endothelin-1/Gq/GTP/PLC beta	DAG	-a>
+ETB receptor/Endothelin-1	COL1A2	-t>
+ETA receptor/Endothelin-1	SLC9A1	-a>
+ETA receptor/Endothelin-1/G12/GTP	Rho Family GTPase-active	-a>
+response to oxidative stress	Rho Family GTPase-active	-a>
+MEK1-2-active	ERK1-2-active	-a>
+ETA receptor/Endothelin-1	COL1A2	-t>
+RAF1	MEK1-2-active	-a>
+ETA receptor/Endothelin-1	PAK1	-a>
+Fibroblast	PAK1	-a>
+K +	PLA2G4A	-a|
+MEK1-2-active	PLA2G4A	-a>
+ETA receptor/Endothelin-1	CYSLTR1	-t>
+Typical PKCs	HRAS/GTP	-a>
+ETA receptor/Endothelin-1	AKT1	-a>
+Ca2+	p130Cas/CRK/Src/PYK2	component>
+Typical PKCs	p130Cas/CRK/Src/PYK2	component>
+ETA receptor/Endothelin-1	CYSLTR2	-t>
+ETA receptor/Endothelin-1	COL3A1	-t>
+PLA2G4A	arachidonic acid secretion	-ap>
+ETA receptor/Endothelin-1	Ca ++	-a>
+EDN1	ETA receptor/Endothelin-1	component>
+EDNRA	ETA receptor/Endothelin-1	component>
+PLC beta	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+ETB receptor/Endothelin-1/Gq/GTP	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+ETA receptor/Endothelin-1/Gq/GTP	MAPK8	-a>
+GTP	ETA receptor/Endothelin-1/G12/GTP	component>
+G12/GDP	GDP	component>
+G12/GDP	ETA receptor/Endothelin-1/G12/GTP	component>
+ETA receptor/Endothelin-1	ETA receptor/Endothelin-1/G12/GTP	component>
+ETB receptor/Endothelin-1	SLC9A3	-a>
+MAPK8	JUN	-t>
+EDN1	ETB receptor/Endothelin-1	component>
+EDNRB	ETB receptor/Endothelin-1	component>
+Rho Family GTPase-active	MAPK8	-a>
+Fibroblast	MMP1	-t>
+EDN2	ETA receptor/Endothelin-2	component>
+EDNRA	ETA receptor/Endothelin-2	component>
+DAG	Typical PKCs	-a>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+p130Cas/CRK/Src/PYK2	MAPK8	-a>
+EDN3	ETA receptor/Endothelin-3	component>
+EDNRA	ETA receptor/Endothelin-3	component>
+GTP	ETB receptor/Endothelin-1/Gi/GTP	component>
+Gai/GDP	GDP	component>
+Gai/GDP	ETB receptor/Endothelin-1/Gi/GTP	component>
+ETB receptor/Endothelin-1	ETB receptor/Endothelin-1/Gi/GTP	component>
+TRPC6	Ca2+	-a>
+response to oxidative stress	SLC9A1	-a>
+Rho family GTPase	Rho Family GTPase-active	-a>
+GTP	ETA receptor/Endothelin-1/Gs/GTP	component>
+Gs family/GDP	GDP	component>
+Gs family/GDP	ETA receptor/Endothelin-1/Gs/GTP	component>
+ETA receptor/Endothelin-1	ETA receptor/Endothelin-1/Gs/GTP	component>
+EDN2	ETB receptor/Endothelin-2	component>
+EDNRB	ETB receptor/Endothelin-2	component>
+ERK1-2-active	FOS	-t>
+ETA receptor/Endothelin-1	JAK2	-a>
+EDN3	ETB receptor/Endothelin-3	component>
+EDNRB	ETB receptor/Endothelin-3	component>
+MAPK8	TRPC6	-t>
+ERK1-2	ERK1-2-active	-a>
+Fibroblast	COL1A2	-t>
+IP3	Ca ++	-a>
+MEK1-2	MEK1-2-active	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+Ca2+	PLA2G4A	-a>
+GTP	ETA receptor/Endothelin-1/Gq/GTP	component>
+Gq family/GDP	ETA receptor/Endothelin-1/Gq/GTP	component>
+ETA receptor/Endothelin-1	GDP	component>
+ETA receptor/Endothelin-1	ETA receptor/Endothelin-1/Gq/GTP	component>
+HRAS/GTP	RAF1	-a>
+PAK1	positive regulation of muscle contraction	-ap>
+ETB receptor/Endothelin-1/Gi/GTP	cAMP biosynthetic process	-ap|
+ETB receptor/Endothelin-1/Gq/GTP/PLC beta	MAPK14	-a>
+PLC beta	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+ETA receptor/Endothelin-1/Gq/GTP	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+ERK1-2-active	regulation of vascular smooth muscle contraction	-ap>
+Fibroblast	CYSLTR1	-t>
+GTP	GDP	-a>
+GTP	HRAS/GTP	-a>
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+Fibroblast	AKT1	-a>
+PTK2B	p130Cas/CRK/Src/PYK2	component>
+CRK	p130Cas/CRK/Src/PYK2	component>
+SRC	p130Cas/CRK/Src/PYK2	component>
+p130Cas	p130Cas/CRK/Src/PYK2	component>
+Adenylyl Cyclase	cAMP biosynthetic process	-ap>
+Fibroblast	CYSLTR2	-t>
+AKT1	positive regulation of muscle contraction	-ap>
+Fibroblast	COL3A1	-t>
+Arachidonic acid	arachidonic acid secretion	-ap>
+GTP	GDP	component>
+GTP	ETB receptor/Endothelin-1/Gq/GTP	component>
+Gq family/GDP	GDP	component>
+Gq family/GDP	ETB receptor/Endothelin-1/Gq/GTP	component>
+ETB receptor/Endothelin-1	GDP	component>
+ETB receptor/Endothelin-1	ETB receptor/Endothelin-1/Gq/GTP	component>
+ETA receptor/Endothelin-1/Gs/GTP	Adenylyl Cyclase	-a>

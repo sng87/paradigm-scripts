@@ -1,0 +1,104 @@
+complex	Corticotropin:Melanocortin receptor 2
+complex	Neurotensin:Neurotensin receptor
+complex	CCK:Cholecystokinin receptor
+complex	C5a receptor:C5a
+complex	Endothelin:Endothelin receptor
+complex	Galanin:Galanin receptor
+protein	Bombesin-like receptor
+protein	Bombesin-like peptide
+complex	Bombesin-like receptor:bombesin-like peptide
+complex	NPY peptides:NPY receptors
+protein	Endothelin receptor
+complex	Thrombin:Proteinase-activated receptor
+complex	Somatostatin receptor:somatostatin
+complex	activated thrombin (factor IIa)
+protein	Opioid receptors
+protein	Opioid ligands
+complex	Opioid receptor:opioid ligand
+complex	PrRP:GRP10
+protein	NPY family of peptides
+protein	AGT receptor
+complex	Angiotensin II receptor:Angiotensin II
+protein	Cholecystokinin receptor
+protein	Somatostatin receptors
+protein	Neurotensin receptor
+complex	Nociceptin receptor:nociceptin
+smallMolecule	estrogen
+complex	GPER:estrogen
+protein	CXCL8
+complex	DARC-1:CXCL8
+complex	Metastin:KiSS1R
+protein	Melanocortin receptor
+complex	MSH:Melanocortin receptor
+protein	Galanin receptor
+protein	Neuropeptides B/W receptors
+protein	Neuropeptides B/W
+complex	Neuropeptides B/W receptor:neuropeptides B/W
+protein	Endothelin
+protein	Bradykinin receptor
+complex	Bradykinin receptor:bradykinin
+protein	UniProt:Q15726 KISS1_subunit_68_121_68-121
+complex	Apelin receptor:apelin peptides
+protein	Neuropeptide Y receptors
+protein	Proteinase-activated receptor
+protein	SST
+protein	PRLHR
+protein	PRLH
+protein	POMC
+protein	PNOC
+protein	OPRL1
+protein	NTS
+protein	MC2R
+protein	KNG1
+protein	KISS1R
+protein	GPER
+protein	GAL
+protein	DARC
+protein	CCK
+protein	C5AR1
+protein	C5
+protein	APLNR
+protein	APLN
+protein	AGT
+Bombesin-like receptor	Bombesin-like receptor:bombesin-like peptide	component>
+Bombesin-like peptide	Bombesin-like receptor:bombesin-like peptide	component>
+Somatostatin receptors	Somatostatin receptor:somatostatin	component>
+SST	Somatostatin receptor:somatostatin	component>
+Endothelin	Endothelin:Endothelin receptor	component>
+Endothelin receptor	Endothelin:Endothelin receptor	component>
+APLNR	Apelin receptor:apelin peptides	component>
+APLN	Apelin receptor:apelin peptides	component>
+KNG1	Bradykinin receptor:bradykinin	component>
+Bradykinin receptor	Bradykinin receptor:bradykinin	component>
+CCK	CCK:Cholecystokinin receptor	component>
+Cholecystokinin receptor	CCK:Cholecystokinin receptor	component>
+AGT receptor	Angiotensin II receptor:Angiotensin II	component>
+AGT	Angiotensin II receptor:Angiotensin II	component>
+Galanin receptor	Galanin:Galanin receptor	component>
+GAL	Galanin:Galanin receptor	component>
+Opioid receptors	Opioid receptor:opioid ligand	component>
+Opioid ligands	Opioid receptor:opioid ligand	component>
+OPRL1	Nociceptin receptor:nociceptin	component>
+PNOC	Nociceptin receptor:nociceptin	component>
+Neuropeptides B/W	Neuropeptides B/W receptor:neuropeptides B/W	component>
+Neuropeptides B/W receptors	Neuropeptides B/W receptor:neuropeptides B/W	component>
+NPY family of peptides	NPY peptides:NPY receptors	component>
+Neuropeptide Y receptors	NPY peptides:NPY receptors	component>
+Neurotensin receptor	Neurotensin:Neurotensin receptor	component>
+NTS	Neurotensin:Neurotensin receptor	component>
+PRLHR	PrRP:GRP10	component>
+PRLH	PrRP:GRP10	component>
+POMC	Corticotropin:Melanocortin receptor 2	component>
+MC2R	Corticotropin:Melanocortin receptor 2	component>
+DARC	DARC-1:CXCL8	component>
+CXCL8	DARC-1:CXCL8	component>
+Melanocortin receptor	MSH:Melanocortin receptor	component>
+POMC	MSH:Melanocortin receptor	component>
+GPER	GPER:estrogen	component>
+estrogen	GPER:estrogen	component>
+Proteinase-activated receptor	Thrombin:Proteinase-activated receptor	component>
+activated thrombin (factor IIa)	Thrombin:Proteinase-activated receptor	component>
+KISS1R	Metastin:KiSS1R	component>
+UniProt:Q15726 KISS1_subunit_68_121_68-121	Metastin:KiSS1R	component>
+C5	C5a receptor:C5a	component>
+C5AR1	C5a receptor:C5a	component>

@@ -1,0 +1,87 @@
+complex	pyruvate carboxylase holoenzyme
+complex	Inward Rectifying Potassium Channel (closed)
+smallMolecule	Oxaloacetate
+complex	ADP/ATP translocase dimer (generic)
+complex	Inward Rectifying Potassium Channel (open)
+protein	UniProt:Q9Z2P2 Abcc8
+complex	GLUT2 tetramer
+complex	Core SNARE Complex
+smallMolecule	alpha-D-Glucose
+smallMolecule	Pyruvate
+complex	G-protein alpha i/o:GTP Complex
+complex	SNARE complex
+protein	SNAP-25
+protein	glucokinase
+smallMolecule	CO2
+protein	PKA catalytic subunit
+smallMolecule	alpha-D-Glucose 6-phosphate
+protein	Unc18-1
+complex	Syntaxin-1A-Unc18-1 Complex
+complex	Insulin-Zinc-Calcium Complex
+smallMolecule	Acetyl-CoA
+protein	UniProt:P63027 VAMP2
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	Ca2+
+protein	SYT5
+protein	INS
+UniProt:Q9Z2P2 Abcc8	Inward Rectifying Potassium Channel (closed)	-a>
+PKA catalytic subunit	Inward Rectifying Potassium Channel (closed)	-a>
+pyruvate carboxylase holoenzyme	Oxaloacetate	-a>
+Acetyl-CoA	Oxaloacetate	-a>
+glucokinase	ADP	-a>
+ADP/ATP translocase dimer (generic)	ATP	-a>
+G-protein alpha i/o:GTP Complex	INS	component>
+Core SNARE Complex	INS	component>
+Inward Rectifying Potassium Channel (open)	Inward Rectifying Potassium Channel (closed)	-a>
+ATP	Inward Rectifying Potassium Channel (closed)	-a>
+GLUT2 tetramer	alpha-D-Glucose	-a>
+CO2	phosphate	-a>
+CO2	ADP	-a>
+CO2	Oxaloacetate	-a>
+Pyruvate	phosphate	-a>
+Pyruvate	ADP	-a>
+Pyruvate	Oxaloacetate	-a>
+ATP	phosphate	-a>
+ATP	Oxaloacetate	-a>
+ATP	alpha-D-Glucose 6-phosphate	-a>
+alpha-D-Glucose	alpha-D-Glucose 6-phosphate	-a>
+alpha-D-Glucose	ADP	-a>
+ATP	ADP	-a>
+ATP	ATP	-a>
+ADP	ADP	-a>
+ADP	ATP	-a>
+H+	Pyruvate	-a>
+H+	H+	-a>
+Pyruvate	Pyruvate	-a>
+Pyruvate	H+	-a>
+INS	SNARE complex	component>
+INS	Unc18-1	component>
+INS	Insulin-Zinc-Calcium Complex	component>
+INS	INS	component>
+SNAP-25	SNARE complex	component>
+SNAP-25	Unc18-1	component>
+SNAP-25	Insulin-Zinc-Calcium Complex	component>
+SNAP-25	INS	component>
+Syntaxin-1A-Unc18-1 Complex	SNARE complex	component>
+Syntaxin-1A-Unc18-1 Complex	Unc18-1	component>
+Syntaxin-1A-Unc18-1 Complex	Insulin-Zinc-Calcium Complex	component>
+Syntaxin-1A-Unc18-1 Complex	INS	component>
+Insulin-Zinc-Calcium Complex	SNARE complex	component>
+Insulin-Zinc-Calcium Complex	Unc18-1	component>
+Insulin-Zinc-Calcium Complex	Insulin-Zinc-Calcium Complex	component>
+Insulin-Zinc-Calcium Complex	INS	component>
+SYT5	SNARE complex	component>
+SYT5	Unc18-1	component>
+SYT5	Insulin-Zinc-Calcium Complex	component>
+SYT5	INS	component>
+Ca2+	SNARE complex	component>
+Ca2+	Unc18-1	component>
+Ca2+	Insulin-Zinc-Calcium Complex	component>
+Ca2+	INS	component>
+UniProt:P63027 VAMP2	SNARE complex	component>
+UniProt:P63027 VAMP2	Unc18-1	component>
+UniProt:P63027 VAMP2	Insulin-Zinc-Calcium Complex	component>
+UniProt:P63027 VAMP2	INS	component>

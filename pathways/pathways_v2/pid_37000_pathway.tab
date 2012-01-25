@@ -1,0 +1,102 @@
+abstract	CD4-positive alpha-beta T cell lineage commitment
+abstract	T cell proliferation during immune response
+abstract	positive regulation of tyrosine phosphorylation of STAT protein
+abstract	positive regulation of mast cell cytokine production
+abstract	mast cell activation
+abstract	T-helper 2 cell differentiation
+abstract	T-helper cell lineage commitment
+abstract	T cell differentiation
+abstract	T cell activation
+abstract	T cell proliferation
+abstract	cytokine production during immune response
+abstract	monocyte differentiation
+abstract	positive regulation of T cell mediated cytotoxicity
+abstract	MAPKKK cascade
+complex	IL27/IL27R/JAK1
+complex	STAT3 (dimer)
+complex	IL27RA/JAK1
+complex	IL27/EBI3
+complex	STAT2 (dimer)
+complex	IL12/IL12R/TYK2/JAK2
+complex	STAT1-3 (dimer)
+complex	STAT4 (dimer)
+complex	STAT5A (dimer)
+complex	STAT1 (dimer)
+complex	IL27R/JAK2/TYK2
+complex	IL27/IL27R/JAK2/TYK2
+protein	TNF
+protein	TGFB1
+protein	TBX21
+protein	STAT5A
+protein	STAT4
+protein	STAT3
+protein	STAT2
+protein	STAT1
+protein	JAK1
+protein	IL6
+protein	IL27RA
+protein	IL2
+protein	IL1B
+protein	IL18
+protein	IL17A
+protein	IL12RB2
+protein	IL12A
+protein	IFNG
+protein	gp130
+protein	GATA3
+STAT1-3 (dimer)	TNF	-t>
+IL27/IL27R/JAK2/TYK2	IL2	-t|
+STAT1 (dimer)	TBX21	-t>
+IL12/IL12R/TYK2/JAK2	IFNG	-t>
+IL27/IL27R/JAK2/TYK2	IFNG	-t>
+CD4-positive alpha-beta T cell lineage commitment	IFNG	-t>
+STAT1-3 (dimer)	IL12A	-t>
+STAT1 (dimer)	IL12RB2	-t>
+IL27/IL27R/JAK2/TYK2	T cell proliferation	-ap>
+STAT1-3 (dimer)	IL1B	-t>
+STAT1 (dimer)	GATA3	-t|
+IL27/IL27R/JAK2/TYK2	STAT2 (dimer)	component>
+IL27/IL27R/JAK2/TYK2	STAT3 (dimer)	component>
+IL27/IL27R/JAK1	STAT1 (dimer)	component>
+IL27/IL27R/JAK2/TYK2	STAT4 (dimer)	component>
+IL2	IL27RA	-t|
+IL27/IL27R/JAK2/TYK2	STAT5A (dimer)	component>
+STAT1 (dimer)	IL17A	-t|
+TGFB1	IL17A	-t>
+IL27/IL27R/JAK2/TYK2	STAT1 (dimer)	component>
+STAT1-3 (dimer)	IL18	-t>
+monocyte differentiation	TNF	-t>
+T cell activation	IL2	-t>
+CD4-positive alpha-beta T cell lineage commitment	TBX21	-t>
+IL6	T cell proliferation	-ap>
+positive regulation of tyrosine phosphorylation of STAT protein	IFNG	-t>
+JAK1	IL27RA/JAK1	component>
+IL27RA	IL27RA/JAK1	component>
+monocyte differentiation	IL12A	-t>
+CD4-positive alpha-beta T cell lineage commitment	IL12RB2	-t>
+IL27/IL27R/JAK2/TYK2	T-helper 2 cell differentiation	-ap|
+IL27/IL27R/JAK2/TYK2	mast cell activation	-ap|
+CD4-positive alpha-beta T cell lineage commitment	T cell proliferation	-ap>
+IL27/IL27R/JAK2/TYK2	positive regulation of T cell mediated cytotoxicity	-ap>
+IL27/IL27R/JAK2/TYK2	STAT1-3 (dimer)	-a>
+monocyte differentiation	IL1B	-t>
+T-helper 2 cell differentiation	GATA3	-t>
+STAT2	STAT2 (dimer)	component>
+IL27/IL27R/JAK2/TYK2	T cell proliferation during immune response	-ap|
+STAT3 (dimer)	positive regulation of mast cell cytokine production	-ap>
+IL27R/JAK2/TYK2	IL27/IL27R/JAK2/TYK2	component>
+IL27/EBI3	IL27/IL27R/JAK2/TYK2	component>
+IL27/IL27R/JAK2/TYK2	T cell proliferation	-ap|
+STAT3	STAT3 (dimer)	component>
+gp130	IL27/IL27R/JAK1	component>
+IL27RA/JAK1	IL27/IL27R/JAK1	component>
+IL27/EBI3	IL27/IL27R/JAK1	component>
+IL17A	T-helper cell lineage commitment	-ap>
+STAT4	STAT4 (dimer)	component>
+T cell differentiation	IL27RA	-t>
+STAT5A	STAT5A (dimer)	component>
+IL27/IL27R/JAK2/TYK2	MAPKKK cascade	-ap>
+IL6	IL17A	-t>
+STAT1	STAT1 (dimer)	component>
+IL27/IL27R/JAK2/TYK2	cytokine production during immune response	-ap|
+monocyte differentiation	IL18	-t>

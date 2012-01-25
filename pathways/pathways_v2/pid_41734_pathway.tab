@@ -1,0 +1,104 @@
+complex	Hydroxymethyl glutaryl CoA reductase homodimer
+smallMolecule	Geranyl diphosphate
+smallMolecule	Isopentenyl diphosphate
+smallMolecule	Mevalonic acid
+complex	FDFT (Mg2+ cofactor)
+smallMolecule	(R)-5-Phosphomevalonate
+smallMolecule	Presqualene diphosphate
+complex	Isopentenyl-diphosphate delta-isomerase (Mg2+ cofactor)
+smallMolecule	Lanosterol
+smallMolecule	CoA
+complex	Diphosphomevalonate decarboxylase homodimer
+smallMolecule	TPNH
+complex	GGPP synthase homooctamer
+smallMolecule	Farnesyl diphosphate
+smallMolecule	Acetoacetyl-CoA
+complex	Squalene monooxygenase (FAD cofactor)
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	CO2
+complex	Mevalonate kinase homodimer
+smallMolecule	HMG-CoA
+smallMolecule	Squalene 2,3-oxide
+smallMolecule	Dimethylallyl diphosphate
+smallMolecule	Supraene
+smallMolecule	Acetyl-CoA
+smallMolecule	PPi
+smallMolecule	(R)-5-Diphosphomevalonate
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	PMVK
+protein	LSS
+protein	HMGCS1
+HMGCS1	CoA	-a>
+LSS	Lanosterol	-a>
+Hydroxymethyl glutaryl CoA reductase homodimer	Mevalonic acid	-a>
+GGPP synthase homooctamer	Geranyl diphosphate	-a>
+PMVK	(R)-5-Diphosphomevalonate	-a>
+FDFT (Mg2+ cofactor)	Presqualene diphosphate	-a>
+Squalene monooxygenase (FAD cofactor)	H2O	-a>
+Isopentenyl-diphosphate delta-isomerase (Mg2+ cofactor)	Dimethylallyl diphosphate	-a>
+Diphosphomevalonate decarboxylase homodimer	phosphate	-a>
+Mevalonate kinase homodimer	ADP	-a>
+GGPP synthase homooctamer	Farnesyl diphosphate	-a>
+FDFT (Mg2+ cofactor)	TPN	-a>
+Acetyl-CoA	HMG-CoA	-a>
+Acetyl-CoA	CoA	-a>
+Acetoacetyl-CoA	HMG-CoA	-a>
+Acetoacetyl-CoA	CoA	-a>
+H2O	HMG-CoA	-a>
+H2O	CoA	-a>
+Squalene 2,3-oxide	Lanosterol	-a>
+H+	CoA	-a>
+H+	Mevalonic acid	-a>
+TPNH	CoA	-a>
+TPNH	Mevalonic acid	-a>
+HMG-CoA	CoA	-a>
+HMG-CoA	TPN	-a>
+HMG-CoA	Mevalonic acid	-a>
+Dimethylallyl diphosphate	PPi	-a>
+Dimethylallyl diphosphate	Geranyl diphosphate	-a>
+Isopentenyl diphosphate	Geranyl diphosphate	-a>
+ATP	(R)-5-Diphosphomevalonate	-a>
+(R)-5-Phosphomevalonate	ADP	-a>
+(R)-5-Phosphomevalonate	(R)-5-Diphosphomevalonate	-a>
+Farnesyl diphosphate	PPi	-a>
+Farnesyl diphosphate	Presqualene diphosphate	-a>
+O2	Squalene 2,3-oxide	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+Supraene	Squalene 2,3-oxide	-a>
+Supraene	TPN	-a>
+Supraene	H2O	-a>
+TPNH	Squalene 2,3-oxide	-a>
+TPNH	H2O	-a>
+H+	Squalene 2,3-oxide	-a>
+H+	H2O	-a>
+Isopentenyl diphosphate	Dimethylallyl diphosphate	-a>
+ATP	Isopentenyl diphosphate	-a>
+ATP	CO2	-a>
+ATP	phosphate	-a>
+(R)-5-Diphosphomevalonate	ADP	-a>
+(R)-5-Diphosphomevalonate	Isopentenyl diphosphate	-a>
+(R)-5-Diphosphomevalonate	CO2	-a>
+(R)-5-Diphosphomevalonate	phosphate	-a>
+Mevalonic acid	(R)-5-Phosphomevalonate	-a>
+Mevalonic acid	ADP	-a>
+ATP	(R)-5-Phosphomevalonate	-a>
+ATP	ADP	-a>
+Isopentenyl diphosphate	PPi	-a>
+Isopentenyl diphosphate	Farnesyl diphosphate	-a>
+Geranyl diphosphate	PPi	-a>
+Geranyl diphosphate	Farnesyl diphosphate	-a>
+H+	Supraene	-a>
+H+	PPi	-a>
+H+	TPN	-a>
+TPNH	Supraene	-a>
+TPNH	PPi	-a>
+TPNH	TPN	-a>
+Presqualene diphosphate	Supraene	-a>
+Presqualene diphosphate	PPi	-a>
+Presqualene diphosphate	TPN	-a>

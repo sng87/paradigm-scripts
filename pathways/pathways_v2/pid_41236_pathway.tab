@@ -1,0 +1,17 @@
+complex	NTM-NEC 1 heterodimer
+complex	NTM-NEC 4 heterodimer
+protein	UniProt:P46531 NOTCH1
+complex	NTM-NEC 2 heterodimer
+complex	NTM-NEC 3 heterodimer
+protein	NOTCH4
+protein	NOTCH3
+protein	NOTCH2
+protein	FURIN
+FURIN	NTM-NEC 3 heterodimer	component>
+FURIN	NTM-NEC 4 heterodimer	component>
+FURIN	NTM-NEC 1 heterodimer	component>
+FURIN	NTM-NEC 2 heterodimer	component>
+NOTCH3	NTM-NEC 3 heterodimer	component>
+NOTCH4	NTM-NEC 4 heterodimer	component>
+UniProt:P46531 NOTCH1	NTM-NEC 1 heterodimer	component>
+NOTCH2	NTM-NEC 2 heterodimer	component>

@@ -1,0 +1,93 @@
+complex	DOCK1/ELMO1
+protein	GRIT1
+complex	RHOGDI/RAC1/GDP
+complex	SOS1/Eps8/AbI1
+complex	RAC1/GDP
+complex	PAK1
+smallMolecule	phosphate
+complex	RAC1/GTP/RHOGDI
+complex	alphaPIX (dimer)
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV3
+protein	VAV2
+protein	VAV1
+protein	TRIO
+protein	TIAM2
+protein	TIAM1
+protein	SPATA13
+protein	RASGRF2
+protein	RASGRF1
+protein	RAP1GDS1
+protein	RALBP1
+protein	RACGAP1
+protein	PREX2
+protein	PREX1
+protein	NME1
+protein	NGEF
+protein	MCF2
+protein	KALRN
+protein	GEFT
+protein	ELMO1
+protein	DOCK6
+protein	DOCK2
+protein	DOCK1
+protein	DEF6
+protein	CHN2
+protein	CHN1
+protein	BCR
+protein	ARHGEF7
+protein	ARHGEF2
+protein	ARHGDIA
+protein	ARHGAP9
+protein	ARHGAP17
+protein	ARHGAP1
+protein	ABR
+SPATA13	PAK1	-a>
+RALBP1	RAC1/GDP	-a>
+RAP1GDS1	PAK1	-a>
+ARHGEF2	PAK1	-a>
+ARHGAP9	RAC1/GDP	-a>
+KALRN	PAK1	-a>
+PREX1	PAK1	-a>
+ARHGAP1	RAC1/GDP	-a>
+RACGAP1	RAC1/GDP	-a>
+DEF6	PAK1	-a>
+ARHGDIA	PAK1	-a|
+MCF2	PAK1	-a>
+VAV1	PAK1	-a>
+VAV3	PAK1	-a>
+GEFT	PAK1	-a>
+GRIT1	RAC1/GDP	-a>
+alphaPIX (dimer)	PAK1	-a>
+TRIO	PAK1	-a>
+TIAM2	PAK1	-a>
+DOCK6	PAK1	-a>
+ARHGAP17	RAC1/GDP	-a>
+NME1	PAK1	-a|
+TIAM1	PAK1	-a>
+VAV2	PAK1	-a>
+SOS1/Eps8/AbI1	PAK1	-a>
+DOCK1/ELMO1	PAK1	-a>
+BCR	RAC1/GDP	-a>
+CHN1	RAC1/GDP	-a>
+DOCK1	PAK1	-a>
+PREX2	PAK1	-a>
+RASGRF1	PAK1	-a>
+ABR	RAC1/GDP	-a>
+ARHGEF7	PAK1	-a>
+CHN2	RAC1/GDP	-a>
+ELMO1	PAK1	-a>
+DOCK2	PAK1	-a>
+NGEF	PAK1	-a>
+RASGRF2	PAK1	-a>
+ARHGDIA	RAC1/GTP/RHOGDI	component>
+PAK1	RAC1/GTP/RHOGDI	component>
+ARHGDIA	RHOGDI/RAC1/GDP	component>
+RAC1/GDP	RHOGDI/RAC1/GDP	component>
+PAK1	phosphate	-a>
+PAK1	RAC1/GDP	-a>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>

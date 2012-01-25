@@ -1,0 +1,58 @@
+abstract	negative regulation of phosphorylation
+abstract	phosphatidic acid metabolic process
+abstract	filopodium formation
+abstract	actin filament organization
+protein	GAP
+protein	Rho GEFs
+smallMolecule	nucleoside diphosphate
+protein	IGSF4
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	PIP2
+abstract	actin filament depolymerization
+abstract	lamellipodium assembly
+complex	p35/CDK5
+complex	PI3K
+smallMolecule	PIP3
+protein	WASF1
+protein	RPS6KB1
+protein	RAC1
+protein	PPP1R12B
+protein	PLD1
+protein	PDGFRA
+protein	PAK1
+protein	MYLK
+protein	MYL2
+protein	MAP3K1
+protein	LIMK1
+protein	CFL1
+protein	ARFIP2
+PI3K	PIP3	-a>
+Rho GEFs	RAC1	-a>
+ARFIP2	actin filament organization	-ap>
+RAC1	p35/CDK5	-a>
+PDGFRA	PI3K	-a>
+RAC1	PLD1	-a>
+PIP2	PIP3	-a>
+MYL2	negative regulation of phosphorylation	-ap>
+GAP	RAC1	-a>
+actin filament depolymerization	lamellipodium assembly	-ap>
+CFL1	actin filament depolymerization	-ap>
+RAC1	MAP3K1	-a>
+RAC1	ARFIP2	-a>
+RAC1	WASF1	-a>
+p35/CDK5	PAK1	-a>
+WASF1	actin filament organization	-ap>
+RAC1	PAK1	-a>
+PIP3	IGSF4	-a>
+PAK1	LIMK1	-a>
+RAC1	RPS6KB1	-a>
+LIMK1	CFL1	-a|
+RAC1	nucleoside diphosphate	-a>
+RAC1	RAC1	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	RAC1	-a>
+PLD1	phosphatidic acid metabolic process	-ap>
+MYLK	MYL2	-a>
+actin filament depolymerization	filopodium formation	-ap>
+PPP1R12B	MYL2	-a>
+IGSF4	RAC1	-a>

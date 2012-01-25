@@ -1,0 +1,276 @@
+abstract	transcription factor binding
+abstract	degradation
+complex	LEF1/beta catenin/PITX2
+complex	TCF4E/beta catenin/BCL9
+complex	TCF1E/beta catenin
+complex	TCF4/TLE2
+complex	TCF4/beta catenin/JUN/DVL3
+protein	Survivin
+complex	TCF4/beta catenin/p300
+complex	beta catenin/IMFA
+complex	TCF4/TLE1/HDAC1
+protein	MMP9_107-707
+complex	14-3-3 family/chibby/beta catenin
+complex	TCF1E/TLE2
+complex	TCF4E/beta catenin/p300
+complex	SCF
+complex	TCF1/beta catenin
+complex	beta catenin/APC
+complex	IMFA/MYF5
+complex	AES/LEF1
+complex	beta catenin/duplin
+complex	HDAC1/LEF1
+complex	TCF4/beta catenin/HBP1
+complex	TCF4E/beta catenin
+complex	TCF4/beta catenin/Cbp
+complex	beta catenin/TBL1/TBLR1
+complex	T-DHT/AR
+complex	TCF3/beta catenin/TERT/BRG1
+complex	beta catenin/AR/T-DHT/TIF2
+complex	TCF1/TLE2
+complex	TCF3/beta catenin
+complex	LEF1/beta catenin/CDX1
+complex	CK2
+complex	TLE1/LEF1
+complex	TCF4/beta catenin/TBLR1/TBL1
+protein	COX2
+complex	beta catenin/APC/CtBP
+complex	TCF3/TLE2
+complex	TCF4/beta catenin/TRRAP/SCF
+complex	HDAC1/PITX2
+complex	TCF4/beta catenin/KLF4
+complex	TCF4/beta catenin/TIP49B
+complex	TLE2/LEF1
+complex	TLE1/HDAC1
+protein	p16INK4a
+complex	TCF4E/TLE4
+complex	TCF4/TLE4
+complex	TCF4/beta catenin/TNIK
+complex	TBL1/TBLR1
+protein	HDAC1-HDAC2
+complex	TCF4/HDAC1-HDAC2
+protein	keratin1
+complex	TCF4/beta catenin
+complex	LEF1/beta catenin
+complex	beta catenin/myogenin
+protein	p300
+complex	beta catenin/PITX2
+protein	TCF1
+complex	beta catenin/ICAT
+complex	beta catenin/MED12
+protein	14-3-3 family
+protein	ZCCHC12
+protein	XPO1
+protein	VCAN
+protein	TRRAP
+protein	TNIK
+protein	TLE4
+protein	TLE2
+protein	TLE1
+protein	TERT
+protein	TCF4
+protein	T
+protein	SP5
+protein	SNAI2
+protein	SMARCA4
+protein	SALL4
+protein	RUVBL2
+protein	PITX2
+protein	NEUROG1
+protein	NCOA2
+protein	MYOG
+protein	MYF5
+protein	MYC
+protein	MMP2
+protein	MITF
+protein	MED12
+protein	LEF1
+protein	KLF4
+protein	KCNIP4
+protein	JUN
+protein	IL8
+protein	IGF2BP1
+protein	ID2
+protein	HDAC1
+protein	HBP1
+protein	FGF4
+protein	DVL3
+protein	DKK4
+protein	DKK1
+protein	CYR61
+protein	CTNNBIP1
+protein	CTNNB1
+protein	CTBP1
+protein	CHD8
+protein	CDX4
+protein	CDX1
+protein	CDH1
+protein	CCND2
+protein	CCND1
+protein	CBY1
+protein	CAMK4
+protein	CACNA1G
+protein	BCL9
+protein	AXIN2
+protein	APC
+protein	AES
+protein	ADCY7
+TCF4/beta catenin/KLF4	TCF4/beta catenin/p300	component>
+CTNNB1	CAMK4	-t>
+CTNNB1	NEUROG1	-t>
+CK2	LEF1/beta catenin	-a>
+CTNNB1	CYR61	-t>
+beta catenin/MED12	DKK1	-t>
+beta catenin/PITX2	CCND2	-t>
+MED12	beta catenin/MED12	component>
+CTNNB1	beta catenin/MED12	component>
+LEF1/beta catenin	SALL4	-t>
+p300	TCF4/beta catenin/p300	component>
+TCF4/beta catenin	TCF4/beta catenin/p300	component>
+p300	TCF4E/beta catenin/p300	component>
+TCF4E/beta catenin	TCF4E/beta catenin/p300	component>
+RUVBL2	TCF4/beta catenin/TIP49B	component>
+TCF4/beta catenin	TCF4/beta catenin/TIP49B	component>
+LEF1/beta catenin	T	-t>
+SMARCA4	TCF3/beta catenin/TERT/BRG1	component>
+TERT	TCF3/beta catenin/TERT/BRG1	component>
+TCF3/beta catenin	TCF3/beta catenin/TERT/BRG1	component>
+NCOA2	TCF4	component>
+NCOA2	beta catenin/AR/T-DHT/TIF2	component>
+T-DHT/AR	TCF4	component>
+T-DHT/AR	beta catenin/AR/T-DHT/TIF2	component>
+TCF4/beta catenin	TCF4	component>
+TCF4/beta catenin	beta catenin/AR/T-DHT/TIF2	component>
+transcription factor binding	CAMK4	-t>
+LEF1/beta catenin	p16INK4a	-t|
+TCF4/beta catenin	TCF1	-t>
+LEF1/beta catenin	PITX2	-t>
+TCF4/beta catenin	IL8	-t>
+DVL3	TCF4/beta catenin/JUN/DVL3	component>
+JUN	TCF4/beta catenin/JUN/DVL3	component>
+TCF4/beta catenin	TCF4/beta catenin/JUN/DVL3	component>
+TCF4/TLE2	TLE2	-a>
+TCF4/TLE2	TCF4/beta catenin	-a>
+TCF4/beta catenin	IGF2BP1	-t>
+LEF1/beta catenin/CDX1	CDX1	-t>
+LEF1/beta catenin	FGF4	-t>
+LEF1/beta catenin	CDX4	-t>
+TCF4/beta catenin	ZCCHC12	-t>
+CTNNB1	TCF1E/beta catenin	-a>
+TCF1E/TLE2	TLE2	-a>
+TCF1E/TLE2	TCF1E/beta catenin	-a>
+TCF4E/beta catenin	LEF1	-t>
+APC	beta catenin/APC	component>
+CTNNB1	beta catenin/APC	component>
+TLE2/LEF1	TLE2	-a>
+TLE2/LEF1	LEF1/beta catenin	-a>
+transcription factor binding	NEUROG1	-t>
+CHD8	beta catenin/duplin	component>
+CTNNB1	beta catenin/duplin	component>
+TCF1E/beta catenin	CDX1	-t>
+LEF1/beta catenin	SP5	-t>
+LEF1/beta catenin	MMP9_107-707	-t>
+LEF1/beta catenin	keratin1	-t>
+TCF3/beta catenin/TERT/BRG1	AXIN2	-t>
+TCF4E/beta catenin/p300	CDX1	-t>
+TCF4/beta catenin	ID2	-t>
+TCF1E/beta catenin	LEF1	-t>
+CDX1	LEF1/beta catenin/CDX1	component>
+LEF1/beta catenin	LEF1/beta catenin/CDX1	component>
+CTNNB1	TCF4E/beta catenin	-a>
+TCF4E/TLE4	TLE4	-a>
+TCF4E/TLE4	TCF4E/beta catenin	-a>
+beta catenin/MED12	AXIN2	-t>
+TCF4E/beta catenin	VCAN	-t>
+TCF4E/beta catenin	SALL4	-t>
+HBP1	TCF4/beta catenin/HBP1	component>
+TCF4/beta catenin	TCF4/beta catenin/HBP1	component>
+CTNNB1	TLE1	-a>
+TLE1/LEF1	TLE1	-a>
+TLE1/LEF1	LEF1/beta catenin	-a>
+CTNNB1	TLE4	-a>
+CTNNB1	TCF4/beta catenin	-a>
+TCF4/TLE4	TLE4	-a>
+TCF4/TLE4	TCF4/beta catenin	-a>
+LEF1/beta catenin	CDH1	-t|
+LEF1/beta catenin	MMP2	-t>
+CTNNB1	TCF1/beta catenin	-a>
+TCF1/TLE2	TLE2	-a>
+TCF1/TLE2	TCF1/beta catenin	-a>
+TNIK	TCF4/beta catenin/TNIK	component>
+TCF4/beta catenin	TCF4/beta catenin/TNIK	component>
+TCF4/beta catenin/TNIK	AXIN2	-t>
+IMFA/MYF5	MYF5	-a>
+IMFA/MYF5	beta catenin/IMFA	-a>
+CTNNB1	MYF5	-a>
+CTNNB1	beta catenin/IMFA	-a>
+TCF4/beta catenin	T	-t>
+LEF1/beta catenin	CCND1	-t>
+TCF3/beta catenin/TERT/BRG1	MYC	-t>
+TBL1/TBLR1	beta catenin/TBL1/TBLR1	component>
+CTNNB1	beta catenin/TBL1/TBLR1	component>
+HDAC1-HDAC2	CTNNB1	-a>
+HDAC1-HDAC2	TCF4/HDAC1-HDAC2	-a>
+TCF4/beta catenin	CTNNB1	-a>
+TCF4/beta catenin	TCF4/HDAC1-HDAC2	-a>
+PITX2	LEF1/beta catenin/PITX2	component>
+LEF1/beta catenin	LEF1/beta catenin/PITX2	component>
+CTNNBIP1	beta catenin/ICAT	component>
+CTNNB1	beta catenin/ICAT	component>
+LEF1/beta catenin	SNAI2	-t>
+CTNNB1	AES	-a>
+AES/LEF1	AES	-a>
+AES/LEF1	LEF1/beta catenin	-a>
+TCF4E/beta catenin	AXIN2	-t>
+transcription factor binding	CYR61	-t>
+LEF1/beta catenin/PITX2	LEF1	-t>
+XPO1	beta catenin/APC	-a>
+KLF4	TCF4/beta catenin/KLF4	component>
+TCF4/beta catenin	TCF4/beta catenin/KLF4	component>
+TCF4/beta catenin/TNIK	MYC	-t>
+LEF1/beta catenin	MITF	-t>
+CTNNB1	TLE2	-a>
+CTNNB1	TCF3/beta catenin	-a>
+TCF3/TLE2	TLE2	-a>
+TCF3/TLE2	TCF3/beta catenin	-a>
+CBY1	14-3-3 family/chibby/beta catenin	component>
+14-3-3 family	14-3-3 family/chibby/beta catenin	component>
+CTNNB1	14-3-3 family/chibby/beta catenin	component>
+IMFA/MYF5	MYOG	-a>
+IMFA/MYF5	beta catenin/myogenin	-a>
+CTNNB1	MYOG	-a>
+CTNNB1	beta catenin/myogenin	-a>
+TCF3/beta catenin/TERT/BRG1	CCND1	-t>
+CTBP1	beta catenin/APC/CtBP	component>
+beta catenin/APC	beta catenin/APC/CtBP	component>
+TCF4/beta catenin/TBLR1/TBL1	AXIN2	-t>
+ADCY7	TCF4/beta catenin/Cbp	component>
+TCF4/beta catenin	TCF4/beta catenin/Cbp	component>
+CTNNB1	LEF1/beta catenin	-a>
+HDAC1/LEF1	HDAC1	-a>
+HDAC1/LEF1	LEF1/beta catenin	-a>
+TCF4/beta catenin/Cbp	Survivin	-t>
+TCF4/beta catenin	DKK1	-t>
+TCF4E/beta catenin	CDX1	-t>
+TCF4E/beta catenin/BCL9	CDX1	-t>
+LEF1/beta catenin	COX2	-t>
+BCL9	TCF4E/beta catenin/BCL9	component>
+TCF4E/beta catenin	TCF4E/beta catenin/BCL9	component>
+TCF4/TLE1/HDAC1	TLE1/HDAC1	-a>
+TCF4/TLE1/HDAC1	TCF4/beta catenin/TBLR1/TBL1	-a>
+beta catenin/TBL1/TBLR1	TLE1/HDAC1	-a>
+beta catenin/TBL1/TBLR1	TCF4/beta catenin/TBLR1/TBL1	-a>
+TCF4/beta catenin/TRRAP/SCF	degradation	-ap>
+LEF1/beta catenin	KCNIP4	-t>
+HDAC1/PITX2	HDAC1	-a>
+HDAC1/PITX2	beta catenin/PITX2	-a>
+CTNNB1	HDAC1	-a>
+CTNNB1	beta catenin/PITX2	-a>
+XPO1	14-3-3 family/chibby/beta catenin	-a>
+LEF1/beta catenin	CACNA1G	-t>
+LEF1/beta catenin	DKK4	-t>
+TCF4/beta catenin/JUN/DVL3	MYC	-t>
+SCF	TCF4/beta catenin/TRRAP/SCF	component>
+TRRAP	TCF4/beta catenin/TRRAP/SCF	component>
+TCF4/beta catenin	TCF4/beta catenin/TRRAP/SCF	component>
+TCF4/beta catenin/HBP1	CCND1	-t|

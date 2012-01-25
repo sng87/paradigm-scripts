@@ -1,0 +1,27 @@
+complex	Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex
+complex	Nuclear Pore Complex (NPC)
+complex	Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20
+complex	Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex
+protein	THOC4
+protein	NXF1
+protein	NCBP2
+protein	NCBP1
+protein	EIF4E
+Nuclear Pore Complex (NPC)	NCBP2	-a>
+Nuclear Pore Complex (NPC)	Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	component>
+Nuclear Pore Complex (NPC)	Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex	-a>
+Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20	Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex	-a>
+Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20	NCBP1	-a>
+Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20	NCBP2	-a>
+THOC4	Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex	-a>
+THOC4	NCBP1	-a>
+THOC4	NCBP2	-a>
+NXF1	Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex	-a>
+NXF1	NCBP1	-a>
+NXF1	NCBP2	-a>
+EIF4E	THOC4	component>
+EIF4E	NXF1	component>
+EIF4E	Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	component>
+Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex	THOC4	component>
+Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex	NXF1	component>
+Mature intronless transcript derived Histone mRNA:SLBP:TAP:Aly/Ref complex	Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	component>

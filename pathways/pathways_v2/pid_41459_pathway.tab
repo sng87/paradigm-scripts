@@ -1,0 +1,85 @@
+complex	glutamine synthetase homooctamer
+smallMolecule	Oxaloacetate
+smallMolecule	2-Oxoglutarate
+smallMolecule	TPNH
+complex	aspartate aminotransferase, cytoplasmic, holoenzyme
+smallMolecule	L-Aspartate
+smallMolecule	NH4+
+smallMolecule	H2O
+smallMolecule	TPN
+complex	glutamate dehydrogenase 1, homohexamer
+complex	aspartate aminotransferase, mitochondrial, holoenzyme
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	L-Glutamine
+smallMolecule	L-Glutamate
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	L-Asparagine
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	GLS2
+protein	GLS
+protein	ASNS
+GDP	NADH	-a>
+ADP	NADH	-a>
+glutamate dehydrogenase 1, homohexamer	NADH	-a>
+glutamine synthetase homooctamer	ADP	-a>
+aspartate aminotransferase, mitochondrial, holoenzyme	Oxaloacetate	-a>
+GTP	L-Glutamate	-a>
+glutamate dehydrogenase 1, homohexamer	L-Glutamate	-a>
+aspartate aminotransferase, cytoplasmic, holoenzyme	2-Oxoglutarate	-a>
+ASNS	AMP	-a>
+aspartate aminotransferase, mitochondrial, holoenzyme	L-Aspartate	-a>
+aspartate aminotransferase, cytoplasmic, holoenzyme	Oxaloacetate	-a>
+GLS	NH4+	-a>
+GLS2	L-Glutamate	-a>
+DPN	NH4+	-a>
+DPN	2-Oxoglutarate	-a>
+DPN	H+	-a>
+DPN	NADH	-a>
+L-Glutamate	NH4+	-a>
+L-Glutamate	H+	-a>
+L-Glutamate	NADH	-a>
+ATP	L-Glutamine	-a>
+ATP	phosphate	-a>
+ATP	ADP	-a>
+L-Glutamate	L-Glutamine	-a>
+L-Glutamate	phosphate	-a>
+L-Glutamate	ADP	-a>
+NH4+	L-Glutamine	-a>
+NH4+	phosphate	-a>
+NH4+	ADP	-a>
+2-Oxoglutarate	TPN	-a>
+H+	TPN	-a>
+H+	L-Glutamate	-a>
+NH4+	TPN	-a>
+NH4+	L-Glutamate	-a>
+TPNH	TPN	-a>
+TPNH	L-Glutamate	-a>
+L-Aspartate	PPi	-a>
+L-Aspartate	L-Asparagine	-a>
+L-Aspartate	AMP	-a>
+ATP	PPi	-a>
+ATP	L-Asparagine	-a>
+ATP	L-Glutamate	-a>
+ATP	AMP	-a>
+L-Glutamine	PPi	-a>
+L-Glutamine	L-Asparagine	-a>
+L-Glutamine	AMP	-a>
+Oxaloacetate	2-Oxoglutarate	-a>
+Oxaloacetate	L-Aspartate	-a>
+L-Glutamate	2-Oxoglutarate	-a>
+L-Glutamate	L-Aspartate	-a>
+2-Oxoglutarate	L-Glutamate	-a>
+2-Oxoglutarate	Oxaloacetate	-a>
+L-Aspartate	L-Glutamate	-a>
+L-Aspartate	Oxaloacetate	-a>
+H2O	NH4+	-a>
+H2O	L-Glutamate	-a>
+L-Glutamine	NH4+	-a>
+L-Glutamine	L-Glutamate	-a>

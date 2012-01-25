@@ -1,0 +1,22 @@
+complex	Estrogen/ER alpha
+complex	p53/SP1
+complex	SP1/HDAC
+protein	ZNF42
+complex	Max/c-MYC
+complex	Mad/Max
+protein	WT1
+protein	TP53
+protein	TERT
+protein	SP1
+protein	HDAC1
+SP1	TERT	-t>
+Max/c-MYC	TERT	-t>
+SP1/HDAC	TERT	-t|
+HDAC1	SP1/HDAC	component>
+SP1	SP1/HDAC	component>
+TP53	p53/SP1	component>
+SP1	p53/SP1	component>
+Mad/Max	TERT	-t|
+WT1	TERT	-t|
+ZNF42	TERT	-t|
+Estrogen/ER alpha	TERT	-t>

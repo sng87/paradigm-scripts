@@ -1,0 +1,41 @@
+complex	Active RNA Polymerase I
+complex	RNA Polymerase I Holoenzyme
+complex	SL1
+complex	Acetylated SL1
+complex	Phosphorylated UBF-1:rDNA promoter
+complex	RNA Polymerase I Transcription Initiation complex
+complex	Acetylayed SL1:PhosUBF-1:rDNA promoter
+complex	TTF-I: rRNA Promoter: CSB: G9a Complex
+smallMolecule	Acetyl-CoA
+protein	UniProt:O95602 POLR1A
+complex	TFIIH
+protein	TAF1C
+protein	TAF1B
+protein	TAF1A
+protein	RRN3
+protein	POLR2K
+protein	POLR2H
+protein	POLR1D
+protein	POLR1C
+protein	POLR1B
+protein	KAT2B
+TTF-I: rRNA Promoter: CSB: G9a Complex	Acetylayed SL1:PhosUBF-1:rDNA promoter	component>
+KAT2B	Acetylated SL1	-a>
+POLR2H	RNA Polymerase I Holoenzyme	component>
+POLR1D	RNA Polymerase I Holoenzyme	component>
+POLR1C	RNA Polymerase I Holoenzyme	component>
+POLR2K	RNA Polymerase I Holoenzyme	component>
+POLR1B	RNA Polymerase I Holoenzyme	component>
+UniProt:O95602 POLR1A	RNA Polymerase I Holoenzyme	component>
+Acetylayed SL1:PhosUBF-1:rDNA promoter	RNA Polymerase I Transcription Initiation complex	component>
+Active RNA Polymerase I	RNA Polymerase I Transcription Initiation complex	component>
+TFIIH	RNA Polymerase I Transcription Initiation complex	component>
+TAF1C	SL1	component>
+TAF1B	SL1	component>
+TAF1A	SL1	component>
+Acetylated SL1	Acetylayed SL1:PhosUBF-1:rDNA promoter	component>
+Phosphorylated UBF-1:rDNA promoter	Acetylayed SL1:PhosUBF-1:rDNA promoter	component>
+SL1	Acetylated SL1	-a>
+Acetyl-CoA	Acetylated SL1	-a>
+RRN3	Active RNA Polymerase I	component>
+RNA Polymerase I Holoenzyme	Active RNA Polymerase I	component>

@@ -1,0 +1,18 @@
+complex	p21 RAS:GTP
+complex	p21 RAS:GDP
+complex	GRB2:SOS-EGF-Phospho-EGFR dimer
+complex	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer
+protein	UniProt:P62993-1 GRB2
+complex	GRB2:SOS
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SOS1
+GRB2:SOS-EGF-Phospho-EGFR dimer	GDP	-a>
+UniProt:P62993-1 GRB2	GRB2:SOS	component>
+SOS1	GRB2:SOS	component>
+GRB2:SOS	GRB2:SOS-EGF-Phospho-EGFR dimer	component>
+EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	GRB2:SOS-EGF-Phospho-EGFR dimer	component>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	GDP	-a>
+GTP	p21 RAS:GTP	-a>
+GTP	GDP	-a>

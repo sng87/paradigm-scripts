@@ -1,0 +1,57 @@
+complex	11beta-HSD homodimer
+smallMolecule	11-Deoxycortisol
+smallMolecule	TPNH
+smallMolecule	17alpha-Hydroxyprogesterone
+protein	UniProt:P08686 CYP21A2
+smallMolecule	Pregnenolone
+smallMolecule	H2O
+smallMolecule	Cortisone
+smallMolecule	TPN
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	ChEBI:28750
+protein	UniProt:P15538 CYP11B1_subunit_25_503_25-503
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	cortisol
+protein	CYP17A1
+11beta-HSD homodimer	TPNH	-a>
+UniProt:P15538 CYP11B1_subunit_25_503_25-503	cortisol	-a>
+CYP17A1	ChEBI:28750	-a>
+UniProt:P08686 CYP21A2	H2O	-a>
+cortisol	H+	-a>
+cortisol	Cortisone	-a>
+cortisol	TPNH	-a>
+TPN	H+	-a>
+TPN	Cortisone	-a>
+TPN	TPNH	-a>
+cortisol	cortisol	-a>
+DPN	H+	-a>
+DPN	NADH	-a>
+ChEBI:28750	H+	-a>
+ChEBI:28750	NADH	-a>
+11-Deoxycortisol	H2O	-a>
+11-Deoxycortisol	TPN	-a>
+11-Deoxycortisol	cortisol	-a>
+O2	cortisol	-a>
+H+	cortisol	-a>
+TPNH	cortisol	-a>
+11-Deoxycortisol	11-Deoxycortisol	-a>
+H+	ChEBI:28750	-a>
+Pregnenolone	H2O	-a>
+Pregnenolone	TPN	-a>
+Pregnenolone	ChEBI:28750	-a>
+TPNH	ChEBI:28750	-a>
+O2	ChEBI:28750	-a>
+O2	11-Deoxycortisol	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+TPNH	11-Deoxycortisol	-a>
+TPNH	TPN	-a>
+TPNH	H2O	-a>
+17alpha-Hydroxyprogesterone	11-Deoxycortisol	-a>
+17alpha-Hydroxyprogesterone	TPN	-a>
+17alpha-Hydroxyprogesterone	H2O	-a>
+H+	11-Deoxycortisol	-a>
+H+	TPN	-a>
+H+	H2O	-a>

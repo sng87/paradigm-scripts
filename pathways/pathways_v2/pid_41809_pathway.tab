@@ -1,0 +1,11 @@
+smallMolecule	Arachidonate
+smallMolecule	1,2-Diacylglycerol
+smallMolecule	ChEBI:52365
+smallMolecule	Glycerol
+protein	Diacylglycerol lipase
+protein	MGLL
+Diacylglycerol lipase	ChEBI:52365	-a>
+MGLL	Arachidonate	-a>
+1,2-Diacylglycerol	ChEBI:52365	-a>
+ChEBI:52365	Glycerol	-a>
+ChEBI:52365	Arachidonate	-a>

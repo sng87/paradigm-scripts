@@ -1,0 +1,24 @@
+complex	Vif:Cul5:SCF complex
+protein	_1-76
+complex	Cul5-SCF complex
+complex	Vif:APOBEC3G complex
+complex	APOBEC3G:Vif:Cul5:SCF complex
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76
+complex	multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+protein	Vif
+complex	26S Proteasome
+protein	APOBEC3G
+26S Proteasome	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+APOBEC3G:Vif:Cul5:SCF complex	multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	component>
+_1-76	multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	component>
+Vif:APOBEC3G complex	APOBEC3G:Vif:Cul5:SCF complex	component>
+Cul5-SCF complex	APOBEC3G:Vif:Cul5:SCF complex	component>
+Vif	Vif:APOBEC3G complex	component>
+APOBEC3G	Vif:APOBEC3G complex	component>
+multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	Vif:Cul5:SCF complex	component>
+multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	_1-76	component>
+multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	component>
+multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>

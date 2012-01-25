@@ -1,0 +1,17 @@
+complex	ErbB4 activators/ErbB4/ErbB4
+protein	ErbB4 activators
+smallMolecule	Bb-94
+protein	PKC
+complex	ErbB4/ErbB4
+complex	Gamma Secretase
+protein	ERBB4
+protein	ADAM17
+Gamma Secretase	ErbB4/ErbB4	-a>
+Bb-94	ErbB4/ErbB4	-a|
+ADAM17	ErbB4/ErbB4	-a>
+ErbB4/ErbB4	ErbB4/ErbB4	-a>
+ErbB4 activators/ErbB4/ErbB4	ErbB4/ErbB4	-a>
+ERBB4	ErbB4 activators/ErbB4/ErbB4	component>
+ErbB4 activators	ErbB4 activators/ErbB4/ErbB4	component>
+ErbB4 activators/ErbB4/ErbB4	PKC	-a>
+PKC	ADAM17	-a>

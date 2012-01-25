@@ -1,0 +1,180 @@
+protein	MAPK8IP3
+protein	EXOC7
+protein	EXOC1
+protein	EXOC2
+protein	EXOC4
+protein	EXOC6
+protein	VAMP3
+protein	ACAP1
+protein	PLD1
+protein	KLC1
+protein	CLTC
+protein	ARF6
+protein	DNM2
+protein	CTNNB1
+protein	CTNNA1
+protein	AVPR2
+protein	SDC1
+protein	CPE
+protein	TSHR
+protein	NME1
+protein	JUP
+protein	SLC2A4
+protein	CD59
+protein	CDH1
+protein	RALA
+protein	CHRM2
+protein	ADRB2
+protein	IL2RA
+protein	INS
+protein	CTNND1
+protein	EXOC3
+protein	PIP5K1C
+protein	SPAG9
+protein	ASAP2
+protein	SCAMP2
+protein	PLD2
+protein	BIN1
+protein	EXOC5
+complex	exocyst
+complex	clathrin heavy chain/ACAP1
+complex	RALA/GTP
+complex	JIP4/KLC1
+complex	GLUT4/clathrin heavy chain/ACAP1
+complex	E-cadherin/beta catenin
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin
+complex	Dynamin 2/GTP
+complex	Dynamin 2/GDP
+complex	ASAP2/amphiphysin II
+complex	ARF6/GTP/JIP3
+complex	ARF6/GTP/ARF6/GTP/JIP4/Dynactin Complex
+complex	ARF6/GTP
+complex	ARF6/GDP
+chemical	mol:Phosphatidic acid
+chemical	mol:PI-4-5-P2
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Choline
+chemical	mol:Ca2+
+abstract	substrate adhesion-dependent cell spreading
+abstract	regulation of calcium-dependent cell-cell adhesion
+abstract	receptor recycling
+abstract	positive regulation of phagocytosis
+abstract	positive regulation of endocytosis
+abstract	membrane fusion
+abstract	membrane depolarization
+abstract	insulin receptor binding
+abstract	growth hormone secretagogue receptor activity
+abstract	endocytosis
+abstract	clathrin-independent pinocytosis
+abstract	clathrin coat assembly
+abstract	calcium ion-dependent exocytosis
+mol:Phosphatidic acid	SDC1	-a>
+mol:Phosphatidic acid	JUP	-a>
+mol:Phosphatidic acid	CD59	-a>
+mol:Phosphatidic acid	CDH1	-a>
+mol:Phosphatidic acid	CHRM2	-a>
+mol:Phosphatidic acid	IL2RA	-a>
+mol:Phosphatidic acid	PIP5K1C	-a>
+mol:PI-4-5-P2	calcium ion-dependent exocytosis	-ap>
+mol:PI-4-5-P2	CLTC	-a>
+mol:PI-4-5-P2	INS	-a>
+mol:GTP	RALA/GTP	component>
+mol:GTP	Dynamin 2/GTP	component>
+mol:GTP	ARF6/GTP/JIP3	component>
+mol:GTP	ARF6/GTP/ARF6/GTP/JIP4/Dynactin Complex	component>
+mol:GTP	ARF6/GTP	component>
+mol:GDP	Dynamin 2/GDP	component>
+mol:GDP	ARF6/GDP	component>
+mol:Ca2+	PIP5K1C	-a>
+mol:Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+membrane depolarization	INS	-ap>
+insulin receptor binding	GLUT4/clathrin heavy chain/ACAP1	-ap>
+growth hormone secretagogue receptor activity	PLD1	-ap>
+growth hormone secretagogue receptor activity	PLD2	-ap>
+exocyst	substrate adhesion-dependent cell spreading	-ap>
+clathrin-independent pinocytosis	SDC1	-ap>
+clathrin-independent pinocytosis	JUP	-ap>
+clathrin-independent pinocytosis	CD59	-ap>
+clathrin-independent pinocytosis	CDH1	-ap>
+clathrin-independent pinocytosis	CHRM2	-ap>
+clathrin-independent pinocytosis	IL2RA	-ap>
+clathrin coat assembly	AVPR2	-ap>
+clathrin coat assembly	ADRB2	-ap>
+MAPK8IP3	ARF6/GTP/JIP3	component>
+EXOC7	exocyst	component>
+EXOC1	exocyst	component>
+EXOC2	exocyst	component>
+EXOC4	exocyst	component>
+EXOC6	exocyst	component>
+VAMP3	positive regulation of phagocytosis	-ap>
+ACAP1	clathrin heavy chain/ACAP1	component>
+ACAP1	GLUT4/clathrin heavy chain/ACAP1	component>
+PLD1	mol:Phosphatidic acid	-a>
+PLD1	mol:Choline	-a>
+PLD1	membrane fusion	-ap>
+PLD1	calcium ion-dependent exocytosis	-ap>
+PLD1	ACAP1	-a>
+KLC1	JIP4/KLC1	component>
+CLTC	clathrin heavy chain/ACAP1	component>
+CLTC	clathrin coat assembly	-ap>
+CLTC	GLUT4/clathrin heavy chain/ACAP1	component>
+ARF6	ARF6/GTP/JIP3	component>
+ARF6	ARF6/GTP/ARF6/GTP/JIP4/Dynactin Complex	component>
+ARF6	ARF6/GTP	component>
+ARF6	ARF6/GDP	component>
+DNM2	Dynamin 2/GTP	component>
+DNM2	Dynamin 2/GDP	component>
+CTNNB1	E-cadherin/beta catenin	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+NME1	mol:GDP	-a>
+NME1	Dynamin 2/GTP	-a>
+SLC2A4	GLUT4/clathrin heavy chain/ACAP1	component>
+CDH1	E-cadherin/beta catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+RALA	RALA/GTP	component>
+CTNND1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+EXOC3	exocyst	component>
+PIP5K1C	mol:PI-4-5-P2	-a>
+SPAG9	JIP4/KLC1	component>
+SPAG9	ARF6/GTP/ARF6/GTP/JIP4/Dynactin Complex	component>
+ASAP2	ASAP2/amphiphysin II	component>
+SCAMP2	PLD1	-a>
+SCAMP2	PLD2	-a>
+PLD2	mol:Phosphatidic acid	-a>
+PLD2	mol:Choline	-a>
+PLD2	membrane fusion	-ap>
+PLD2	calcium ion-dependent exocytosis	-ap>
+PLD2	ACAP1	-a>
+BIN1	ASAP2/amphiphysin II	component>
+EXOC5	exocyst	component>
+RALA/GTP	PLD1	-a>
+RALA/GTP	PLD2	-a>
+E-cadherin/beta catenin	regulation of calcium-dependent cell-cell adhesion	-ap|
+Dynamin 2/GTP	mol:Ca2+	-a>
+Dynamin 2/GTP	CTNNA1	-a>
+Dynamin 2/GTP	CTNND1	-a>
+Dynamin 2/GTP	E-cadherin/beta catenin	-a>
+ASAP2/amphiphysin II	endocytosis	-ap|
+ARF6/GTP/ARF6/GTP/JIP4/Dynactin Complex	JIP4/KLC1	-a|
+ARF6/GTP	receptor recycling	-ap>
+ARF6/GTP	positive regulation of endocytosis	-ap>
+ARF6/GTP	exocyst	-a>
+ARF6/GTP	clathrin-independent pinocytosis	-ap>
+ARF6/GTP	VAMP3	-a>
+ARF6/GTP	PLD1	-a>
+ARF6/GTP	CPE	-a>
+ARF6/GTP	TSHR	-a>
+ARF6/GTP	NME1	-a>
+ARF6/GTP	PIP5K1C	-a>
+ARF6/GTP	PLD2	-a>
+ARF6/GTP	GLUT4/clathrin heavy chain/ACAP1	-a>
+ARF6/GTP	ASAP2/amphiphysin II	-a>
+ARF6/GDP	CLTC	-a>
+ARF6/GDP	SDC1	-a>
+ARF6/GDP	JUP	-a>
+ARF6/GDP	CD59	-a>
+ARF6/GDP	CDH1	-a>
+ARF6/GDP	CHRM2	-a>
+ARF6/GDP	IL2RA	-a>

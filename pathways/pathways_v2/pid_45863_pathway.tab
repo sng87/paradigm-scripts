@@ -1,0 +1,46 @@
+abstract	RNA processing
+abstract	cell differentiation
+complex	Ets1/Ets2
+complex	AP-1/Ets1/Ets2
+complex	M-CSF/CSF1R
+complex	Ets1/Ets2/E2F-1
+complex	E2F-4/p107/p130
+complex	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT/E2F-4/p107/p130
+protein	HDAC2/5
+protein	Sin3
+complex	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT
+abstract	cell growth
+complex	AP-1
+smallMolecule	GDP
+smallMolecule	GTP
+protein	NCOR2
+protein	HRAS
+protein	ETV3
+protein	E2F1
+protein	DDX20
+protein	CSF1R
+protein	CSF1
+M-CSF/CSF1R	GDP	-a>
+Ets1/Ets2	cell differentiation	-ap>
+Ets1/Ets2/E2F-1	cell growth	-ap>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+HRAS	Ets1/Ets2	-a>
+AP-1/Ets1/Ets2	cell differentiation	-ap>
+E2F1	Ets1/Ets2/E2F-1	component>
+Ets1/Ets2	Ets1/Ets2/E2F-1	component>
+NCOR2	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT	component>
+HDAC2/5	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT	component>
+Sin3	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT	component>
+DDX20	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT	component>
+ETV3	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT	component>
+DDX20	RNA processing	-ap>
+METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT/E2F-4/p107/p130	cell growth	-ap|
+CSF1R	M-CSF/CSF1R	component>
+CSF1	M-CSF/CSF1R	component>
+E2F-4/p107/p130	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT/E2F-4/p107/p130	component>
+METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT	METS/DP103/Sin3/HDAC2/5/NCOR2/SMRT/E2F-4/p107/p130	component>
+AP-1	AP-1/Ets1/Ets2	component>
+Ets1/Ets2	AP-1/Ets1/Ets2	component>

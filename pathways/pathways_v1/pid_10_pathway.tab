@@ -1,0 +1,214 @@
+protein	TBX21
+protein	SPHK2
+protein	IL12RB2
+protein	MAPK14
+protein	HLX
+protein	STAT4
+protein	IL18
+protein	IL18R1
+protein	RELA
+protein	RELB
+protein	NFKB2
+protein	B2M
+protein	IL2
+protein	MAP2K6
+protein	CCR5
+protein	RAB7A
+protein	FASLG
+protein	MAP2K3
+protein	IL12RB1
+protein	FRAP1
+protein	STAT5A
+protein	STAT6
+protein	STAT1
+protein	STAT3
+protein	NOS2
+protein	IL2RG
+protein	TYK2
+protein	IL12B
+protein	IL12A
+protein	CD247
+protein	NFKB1
+protein	ATF2
+protein	IL2RB
+protein	IL1R1
+protein	CCL4
+protein	GZMA
+protein	CD8B
+protein	CCL3
+protein	GZMB
+protein	CD3G
+protein	CD3E
+protein	LCK
+protein	IL4
+protein	HLA-A
+protein	CD3D
+protein	HLA-DRB5
+protein	HLA-DRA
+protein	CD8A
+protein	CD4
+protein	IL2RA
+protein	IL1B
+protein	IFNG
+protein	FOS
+protein	EOMES
+protein	GADD45G
+protein	IL18RAP
+protein	GADD45B
+protein	JAK2
+protein	RIPK2
+protein	SOCS1
+protein	EntrezGene:6957
+protein	EntrezGene:6955
+complex	TCR/CD3/MHC II/CD4
+complex	TCR/CD3/MHC I/CD8
+complex	STAT5A (dimer)
+complex	STAT4 (dimer)
+complex	STAT3 (dimer)
+complex	STAT1 (dimer)
+complex	NF kappa B2 p52/RelB
+complex	NF kappa B1 p50/RelA
+complex	IL2/IL2R
+complex	IL18/IL18R
+complex	IL12Rbeta2/JAK2
+complex	IL12Rbeta1/TYK2
+complex	IL12/IL12R/TYK2/JAK2/SPHK2
+complex	IL12/IL12R/TYK2/JAK2/SOCS1
+complex	IL12/IL12R/TYK2/JAK2
+complex	IL12
+abstract	regulation of dendritic cell antigen processing and presentation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+abstract	natural killer cell mediated cytotoxicity
+abstract	natural killer cell activation
+abstract	lysosomal transport
+abstract	T-helper 1 cell lineage commitment
+abstract	T-helper 1 cell differentiation
+abstract	T cell proliferation
+abstract	CD8-positive alpha-beta T cell lineage commitment
+regulation of dendritic cell antigen processing and presentation	NF kappa B2 p52/RelB	-ap>
+natural killer cell activation	GZMA	-ap>
+natural killer cell activation	GZMB	-ap>
+natural killer cell activation	STAT4 (dimer)	-ap>
+natural killer cell activation	IL12/IL12R/TYK2/JAK2	-ap>
+SPHK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12RB2	IL12Rbeta2/JAK2	component>
+IL12RB2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12RB2	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12RB2	IL12/IL12R/TYK2/JAK2	component>
+MAPK14	RAB7A	-t>
+MAPK14	ATF2	-a>
+MAPK14	STAT4 (dimer)	-a>
+MAPK14	STAT3 (dimer)	-a>
+MAPK14	STAT1 (dimer)	-a>
+HLX	STAT4 (dimer)	-a>
+STAT4	STAT4 (dimer)	component>
+IL18	IL18/IL18R	component>
+IL18R1	IL18/IL18R	component>
+RELA	NF kappa B1 p50/RelA	component>
+RELB	NF kappa B2 p52/RelB	component>
+NFKB2	NF kappa B2 p52/RelB	component>
+B2M	TCR/CD3/MHC I/CD8	component>
+IL2	IL2/IL2R	component>
+MAP2K6	MAPK14	-a>
+RAB7A	lysosomal transport	-ap>
+MAP2K3	MAPK14	-a>
+IL12RB1	IL12Rbeta1/TYK2	component>
+IL12RB1	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12RB1	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12RB1	IL12/IL12R/TYK2/JAK2	component>
+FRAP1	STAT3 (dimer)	-a>
+STAT5A	STAT5A (dimer)	component>
+STAT1	STAT1 (dimer)	component>
+STAT3	STAT3 (dimer)	component>
+NOS2	IL12/IL12R/TYK2/JAK2	-a>
+IL2RG	IL2/IL2R	component>
+TYK2	IL12Rbeta1/TYK2	component>
+TYK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+TYK2	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+TYK2	IL12/IL12R/TYK2/JAK2	component>
+IL12B	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12B	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12B	IL12/IL12R/TYK2/JAK2	component>
+IL12B	IL12	component>
+IL12A	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12A	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12A	IL12/IL12R/TYK2/JAK2	component>
+IL12A	IL12	component>
+CD247	TCR/CD3/MHC II/CD4	component>
+CD247	TCR/CD3/MHC I/CD8	component>
+NFKB1	NF kappa B1 p50/RelA	component>
+IL2RB	IL2/IL2R	component>
+CD8B	TCR/CD3/MHC I/CD8	component>
+CD3G	TCR/CD3/MHC II/CD4	component>
+CD3G	TCR/CD3/MHC I/CD8	component>
+CD3E	TCR/CD3/MHC II/CD4	component>
+CD3E	TCR/CD3/MHC I/CD8	component>
+IL4	IL12/IL12R/TYK2/JAK2	-a|
+HLA-A	TCR/CD3/MHC I/CD8	component>
+CD3D	TCR/CD3/MHC II/CD4	component>
+CD3D	TCR/CD3/MHC I/CD8	component>
+HLA-DRB5	TCR/CD3/MHC II/CD4	component>
+HLA-DRA	TCR/CD3/MHC II/CD4	component>
+CD8A	TCR/CD3/MHC I/CD8	component>
+CD4	TCR/CD3/MHC II/CD4	component>
+IL2RA	IL2/IL2R	component>
+IL1B	IL12/IL12R/TYK2/JAK2	-a>
+IFNG	STAT5A (dimer)	-a>
+IFNG	STAT1 (dimer)	-a>
+GADD45G	MAP2K6	-a>
+GADD45G	MAP2K3	-a>
+IL18RAP	IL18/IL18R	component>
+GADD45B	MAP2K6	-a>
+GADD45B	MAP2K3	-a>
+JAK2	IL12Rbeta2/JAK2	component>
+JAK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+JAK2	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+JAK2	IL12/IL12R/TYK2/JAK2	component>
+RIPK2	STAT4 (dimer)	-a>
+SOCS1	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+TCR/CD3/MHC II/CD4	FOS	-t>
+TCR/CD3/MHC I/CD8	EOMES	-t>
+T-helper 1 cell lineage commitment	STAT6	-ap>
+T-helper 1 cell differentiation	STAT5A (dimer)	-ap>
+T-helper 1 cell differentiation	STAT1 (dimer)	-ap>
+STAT4 (dimer)	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+STAT4 (dimer)	T cell proliferation	-ap>
+STAT4 (dimer)	NF kappa B1 p50/RelA	-a>
+IL2/IL2R	STAT3 (dimer)	-a>
+IL2/IL2R	STAT1 (dimer)	-a>
+IL18/IL18R	CCR5	-t>
+IL18/IL18R	NOS2	-t>
+IL18/IL18R	GADD45G	-t>
+IL18/IL18R	GADD45B	-t>
+IL18/IL18R	STAT4 (dimer)	-a>
+IL18/IL18R	NF kappa B1 p50/RelA	-a>
+IL12/IL12R/TYK2/JAK2/SPHK2	STAT4 (dimer)	-a>
+IL12/IL12R/TYK2/JAK2/SOCS1	natural killer cell mediated cytotoxicity	-ap|
+IL12/IL12R/TYK2/JAK2/SOCS1	T cell proliferation	-ap|
+IL12/IL12R/TYK2/JAK2	TBX21	-t>
+IL12/IL12R/TYK2/JAK2	CCR5	-t>
+IL12/IL12R/TYK2/JAK2	FASLG	-t>
+IL12/IL12R/TYK2/JAK2	STAT6	-a>
+IL12/IL12R/TYK2/JAK2	NOS2	-t>
+IL12/IL12R/TYK2/JAK2	IL1R1	-t>
+IL12/IL12R/TYK2/JAK2	CCL4	-t>
+IL12/IL12R/TYK2/JAK2	GZMA	-t>
+IL12/IL12R/TYK2/JAK2	CCL3	-t>
+IL12/IL12R/TYK2/JAK2	GZMB	-t>
+IL12/IL12R/TYK2/JAK2	LCK	-a>
+IL12/IL12R/TYK2/JAK2	FOS	-t>
+IL12/IL12R/TYK2/JAK2	EOMES	-t|
+IL12/IL12R/TYK2/JAK2	GADD45G	-t>
+IL12/IL12R/TYK2/JAK2	GADD45B	-t>
+IL12/IL12R/TYK2/JAK2	STAT5A (dimer)	-a>
+IL12/IL12R/TYK2/JAK2	STAT4 (dimer)	-a>
+IL12/IL12R/TYK2/JAK2	STAT3 (dimer)	-a>
+IL12/IL12R/TYK2/JAK2	STAT1 (dimer)	-a>
+IL12/IL12R/TYK2/JAK2	NF kappa B2 p52/RelB	-a>
+EntrezGene:6957	TCR/CD3/MHC II/CD4	component>
+EntrezGene:6957	TCR/CD3/MHC I/CD8	component>
+EntrezGene:6955	TCR/CD3/MHC II/CD4	component>
+EntrezGene:6955	TCR/CD3/MHC I/CD8	component>
+CD8-positive alpha-beta T cell lineage commitment	EOMES	-ap>
+CD8-positive alpha-beta T cell lineage commitment	STAT3 (dimer)	-ap>
+CD8-positive alpha-beta T cell lineage commitment	STAT1 (dimer)	-ap>

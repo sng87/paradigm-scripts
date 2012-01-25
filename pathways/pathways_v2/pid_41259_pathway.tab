@@ -1,0 +1,35 @@
+complex	thioredoxin reductase holoenzyme
+smallMolecule	TPNH
+smallMolecule	dATP
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	dGDP
+smallMolecule	TTP
+complex	nucleoside diphosphate kinase A,B heterohexamer
+complex	ribonucleotide reductase
+smallMolecule	dGTP
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+protein	TXN
+thioredoxin reductase holoenzyme	TPN	-a>
+dATP	TXN	-a|
+TTP	TXN	-a>
+nucleoside diphosphate kinase A,B heterohexamer	ADP	-a>
+TXN	TXN	-a>
+TXN	TPN	-a>
+TPNH	TXN	-a>
+TPNH	TPN	-a>
+H+	TXN	-a>
+H+	TPN	-a>
+GDP	H2O	-a>
+GDP	dGDP	-a>
+GDP	TXN	-a>
+TXN	H2O	-a>
+TXN	dGDP	-a>
+ribonucleotide reductase	TXN	-a>
+dGDP	dGTP	-a>
+dGDP	ADP	-a>
+ATP	dGTP	-a>
+ATP	ADP	-a>

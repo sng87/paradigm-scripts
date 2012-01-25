@@ -1,0 +1,38 @@
+complex	CXCR4/g-alpha-q
+complex	g-gamma/g-beta
+complex	G-alpha-i/G-beta/G-gamma
+smallMolecule	nucleoside diphosphate
+complex	gp120/CXCR4/g-alpha-q
+complex	SDF-1/CXCR4/g-alpha-q
+smallMolecule	Pertussis toxin
+protein	gp120
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	PIP2
+smallMolecule	DAG
+complex	PI3K
+smallMolecule	IP3
+protein	PLCG1
+protein	PIK3C2G
+protein	HRAS
+protein	GNAI1
+protein	CXCL12
+g-gamma/g-beta	nucleoside diphosphate	-a>
+PLCG1	DAG	-a>
+Pertussis toxin	GNAI1	component>
+SDF-1/CXCR4/g-alpha-q	GNAI1	component>
+CXCR4/g-alpha-q	SDF-1/CXCR4/g-alpha-q	component>
+CXCL12	SDF-1/CXCR4/g-alpha-q	component>
+g-gamma/g-beta	PI3K	-a>
+HRAS	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+SDF-1/CXCR4/g-alpha-q	PLCG1	-a>
+GNAI1	PIK3C2G	-a>
+g-gamma/g-beta	PIK3C2G	-a>
+G-alpha-i/G-beta/G-gamma	g-gamma/g-beta	component>
+G-alpha-i/G-beta/G-gamma	GNAI1	component>
+CXCR4/g-alpha-q	gp120/CXCR4/g-alpha-q	component>
+gp120	gp120/CXCR4/g-alpha-q	component>

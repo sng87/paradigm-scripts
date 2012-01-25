@@ -1,0 +1,30 @@
+abstract	negative regulation of actin polymerization and/or depolymerization
+abstract	filopodium formation
+complex	ARP2/3
+complex	PDGF/PDGF R
+abstract	cell migration
+complex	PI3K
+protein	WASL
+protein	RHOA
+protein	RAC1
+protein	PIK3R1
+protein	PDGFRA
+protein	PDGFA
+protein	PAK1
+protein	CDC42
+PDGFRA	PDGF/PDGF R	component>
+PDGFA	PDGF/PDGF R	component>
+ARP2/3	filopodium formation	-ap>
+PAK1	RHOA	-a>
+PI3K	RAC1	-a>
+PIK3R1	PIK3R1	-a>
+PIK3R1	PI3K	-a>
+PI3K	PIK3R1	-a>
+PDGF/PDGF R	PI3K	-a>
+negative regulation of actin polymerization and/or depolymerization	cell migration	-ap>
+filopodium formation	cell migration	-ap>
+CDC42	WASL	-a>
+RHOA	negative regulation of actin polymerization and/or depolymerization	-ap>
+PIK3R1	CDC42	-a>
+WASL	ARP2/3	-a>
+CDC42	PAK1	-a>

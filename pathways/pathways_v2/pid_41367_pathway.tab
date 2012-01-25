@@ -1,0 +1,15 @@
+complex	ATR-ATRIP
+protein	UniProt:O14757 CHEK1
+protein	UniProt:Q13315 ATM
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CHEK2
+ATR-ATRIP	ADP	-a>
+UniProt:Q13315 ATM	ADP	-a>
+ATP	UniProt:O14757 CHEK1	-a>
+UniProt:O14757 CHEK1	UniProt:O14757 CHEK1	-a>
+UniProt:O14757 CHEK1	ADP	-a>
+CHEK2	CHEK2	-a>
+CHEK2	ADP	-a>
+ATP	CHEK2	-a>
+ATP	ADP	-a>

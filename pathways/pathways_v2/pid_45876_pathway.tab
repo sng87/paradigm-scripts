@@ -1,0 +1,27 @@
+complex	SHC/GRB2/SOS-1
+complex	IL-3/IL-3R-alpha/IL-3R-beta/JAK2
+complex	IL-3R-alpha/IL-3R-beta
+smallMolecule	nucleoside diphosphate
+complex	STAT5/STAT5
+complex	IL-3/IL-3R-alpha/IL-3R-beta
+smallMolecule	guanosine 5`-triphosphate
+protein	STAT5
+protein	PTPN6
+protein	JAK2
+protein	IL3
+protein	HRAS
+protein	FOS
+PTPN6	IL-3/IL-3R-alpha/IL-3R-beta/JAK2	component>
+STAT5/STAT5	STAT5/STAT5	-a>
+IL-3R-alpha/IL-3R-beta	IL-3/IL-3R-alpha/IL-3R-beta	component>
+IL3	IL-3/IL-3R-alpha/IL-3R-beta	component>
+IL-3/IL-3R-alpha/IL-3R-beta	IL-3/IL-3R-alpha/IL-3R-beta/JAK2	component>
+JAK2	IL-3/IL-3R-alpha/IL-3R-beta/JAK2	component>
+IL-3/IL-3R-alpha/IL-3R-beta/JAK2	SHC/GRB2/SOS-1	-a>
+STAT5/STAT5	FOS	-a>
+STAT5	STAT5/STAT5	component>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+IL-3/IL-3R-alpha/IL-3R-beta/JAK2	STAT5	-a>

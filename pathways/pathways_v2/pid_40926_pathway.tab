@@ -1,0 +1,24 @@
+complex	PIP3:RhoA
+complex	PI3K gamma
+complex	PIP3:PDK1:AKT
+complex	G-protein beta-gamma complex
+complex	G-protein beta-gamma:PI3K gamma
+smallMolecule	PIP2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	PIP3
+protein	RHOA
+protein	PDPK1
+protein	AKT1
+G-protein beta-gamma:PI3K gamma	PIP3	-a>
+PI3K gamma	G-protein beta-gamma:PI3K gamma	component>
+G-protein beta-gamma complex	G-protein beta-gamma:PI3K gamma	component>
+PIP3	PIP3:RhoA	component>
+RHOA	PIP3:RhoA	component>
+ATP	ADP	-a>
+ATP	PIP3	-a>
+PIP2	ADP	-a>
+PIP2	PIP3	-a>
+PIP3	PIP3:PDK1:AKT	component>
+PDPK1	PIP3:PDK1:AKT	component>
+AKT1	PIP3:PDK1:AKT	component>

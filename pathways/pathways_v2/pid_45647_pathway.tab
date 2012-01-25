@@ -1,0 +1,15 @@
+complex	AhR/Arnt/TCDD
+complex	HSP90/HSP90/XAP2
+complex	AhR/HSP90/HSP90/TCDD
+complex	AhR/TCDD
+smallMolecule	tcdd
+protein	ARNT
+protein	AHR
+AhR/HSP90/HSP90/TCDD	AhR/HSP90/HSP90/TCDD	-a>
+ARNT	AhR/Arnt/TCDD	component>
+AhR/TCDD	AhR/Arnt/TCDD	component>
+tcdd	AhR/HSP90/HSP90/TCDD	component>
+HSP90/HSP90/XAP2	AhR/HSP90/HSP90/TCDD	component>
+AHR	AhR/HSP90/HSP90/TCDD	component>
+AhR/HSP90/HSP90/TCDD	AhR/TCDD	component>
+AhR/HSP90/HSP90/TCDD	HSP90/HSP90/XAP2	component>

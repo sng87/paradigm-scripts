@@ -1,0 +1,14 @@
+complex	centrosome
+complex	centrosome containing phosphorylated Nlp
+complex	Nlp-depleted centrosome
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PLK1
+protein	NLP
+PLK1	ADP	-a>
+centrosome containing phosphorylated Nlp	Nlp-depleted centrosome	component>
+centrosome containing phosphorylated Nlp	NLP	component>
+ATP	centrosome containing phosphorylated Nlp	-a>
+ATP	ADP	-a>
+centrosome	centrosome containing phosphorylated Nlp	-a>
+centrosome	ADP	-a>

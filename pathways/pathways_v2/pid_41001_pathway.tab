@@ -1,0 +1,20 @@
+complex	FACT complex
+complex	Aborted early elongation complex
+complex	Elongin Complex
+complex	Elongation complex
+complex	Early elongation complex with hyperphosphorylated Pol II CTD
+complex	P-TEFb complex
+complex	Cap Binding Complex (CBC)
+complex	TFIIH
+protein	TCEA1
+protein	ELL
+TCEA1	Elongation complex	component>
+Early elongation complex with hyperphosphorylated Pol II CTD	Elongation complex	component>
+Elongin Complex	Elongation complex	component>
+ELL	Elongation complex	component>
+FACT complex	Elongation complex	component>
+TFIIH	Elongation complex	component>
+Aborted early elongation complex	Early elongation complex with hyperphosphorylated Pol II CTD	-a>
+Aborted early elongation complex	Cap Binding Complex (CBC)	-a>
+P-TEFb complex	Early elongation complex with hyperphosphorylated Pol II CTD	-a>
+P-TEFb complex	Cap Binding Complex (CBC)	-a>

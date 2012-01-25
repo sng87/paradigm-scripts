@@ -1,0 +1,47 @@
+complex	MyD88:Mal complexed with the activated TLR receptor
+complex	IRAK4:MyD88:Mal:activated TLR receptor
+complex	MEKK1:TRAF6:IRAK1-P(n)
+complex	IRAK1-P(n):TRAF6
+protein	UniProt:Q13233 MAP3K1
+complex	IRAK1-P(n):IRAK4:MyD88:activated TLR
+complex	IRAK1-PP:IRAK4:MyD88:activated TLR
+complex	IRAK1-P:IRAK4:MyD88:activated TLR
+complex	IRAK1:IRAK4:MyD88:activated TLR
+protein	UniProt:P51617-1 IRAK1
+smallMolecule	ATP
+smallMolecule	ADP
+protein	TRAF6
+protein	TIRAP
+protein	SIGIRR
+protein	MYD88
+protein	IRAK4
+protein	IRAK3
+protein	ECSIT
+SIGIRR	MyD88:Mal complexed with the activated TLR receptor	component>
+IRAK4:MyD88:Mal:activated TLR receptor	IRAK1-PP:IRAK4:MyD88:activated TLR	-a>
+ECSIT	MEKK1:TRAF6:IRAK1-P(n)	component>
+IRAK4:MyD88:Mal:activated TLR receptor	IRAK1-P:IRAK4:MyD88:activated TLR	-a>
+IRAK3	UniProt:P51617-1 IRAK1	component>
+UniProt:P51617-1 IRAK1	ADP	-a>
+MYD88	MyD88:Mal complexed with the activated TLR receptor	component>
+TIRAP	MyD88:Mal complexed with the activated TLR receptor	component>
+IRAK1-P:IRAK4:MyD88:activated TLR	ADP	-a>
+IRAK1-P:IRAK4:MyD88:activated TLR	IRAK1-PP:IRAK4:MyD88:activated TLR	-a>
+ATP	IRAK1-PP:IRAK4:MyD88:activated TLR	-a>
+IRAK1-P(n):TRAF6	MEKK1:TRAF6:IRAK1-P(n)	component>
+UniProt:Q13233 MAP3K1	MEKK1:TRAF6:IRAK1-P(n)	component>
+IRAK1:IRAK4:MyD88:activated TLR	ADP	-a>
+IRAK1:IRAK4:MyD88:activated TLR	IRAK1-P:IRAK4:MyD88:activated TLR	-a>
+ATP	IRAK1-P:IRAK4:MyD88:activated TLR	-a>
+TRAF6	IRAK1-P(n):TRAF6	component>
+UniProt:P51617-1 IRAK1	IRAK1-P(n):TRAF6	component>
+IRAK4:MyD88:Mal:activated TLR receptor	IRAK1:IRAK4:MyD88:activated TLR	component>
+UniProt:P51617-1 IRAK1	IRAK1:IRAK4:MyD88:activated TLR	component>
+MyD88:Mal complexed with the activated TLR receptor	IRAK4:MyD88:Mal:activated TLR receptor	component>
+IRAK4	IRAK4:MyD88:Mal:activated TLR receptor	component>
+IRAK1-P(n):IRAK4:MyD88:activated TLR	IRAK4:MyD88:Mal:activated TLR receptor	component>
+IRAK1-P(n):IRAK4:MyD88:activated TLR	UniProt:P51617-1 IRAK1	component>
+ATP	IRAK1-P(n):IRAK4:MyD88:activated TLR	-a>
+ATP	ADP	-a>
+IRAK1-PP:IRAK4:MyD88:activated TLR	IRAK1-P(n):IRAK4:MyD88:activated TLR	-a>
+IRAK1-PP:IRAK4:MyD88:activated TLR	ADP	-a>

@@ -1,0 +1,44 @@
+complex	Ran/GTP/Importin-beta
+complex	RanGAP/RanBP1/RanBP2
+complex	Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2
+complex	Cargo/Importin-alpha/Ran/GTP/Importin-beta
+complex	Cargo/Importin-alpha/Ran/GTP/Importin-beta/NTF2
+protein	Cargo
+complex	Cargo/Importin-alpha
+complex	Ran/GTP
+complex	NPC
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RCC1
+protein	RAN
+protein	NUTF2
+protein	KPNB1
+protein	KPNA2
+RCC1	GDP	component>
+RanGAP/RanBP1/RanBP2	Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	-a>
+Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	NUTF2	component>
+Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	KPNB1	component>
+Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	RAN	component>
+Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	KPNA2	component>
+Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	Cargo	component>
+Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	GDP	component>
+NUTF2	Cargo/Importin-alpha/Ran/GTP/Importin-beta/NTF2	component>
+Cargo/Importin-alpha/Ran/GTP/Importin-beta	Cargo/Importin-alpha/Ran/GTP/Importin-beta/NTF2	component>
+NPC	NUTF2	-a>
+Cargo/Importin-alpha/Ran/GTP/Importin-beta/NTF2	GTP	-a>
+Cargo/Importin-alpha/Ran/GTP/Importin-beta/NTF2	Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	-a>
+GTP	GTP	-a>
+GTP	Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	-a>
+Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	GTP	-a>
+NPC	Cargo/Importin-alpha/Ran/GDP/Importin-beta/NTF2	-a>
+KPNA2	Cargo/Importin-alpha	component>
+Cargo	Cargo/Importin-alpha	component>
+NPC	Ran/GTP	-a>
+KPNB1	Ran/GTP/Importin-beta	component>
+Ran/GTP	Ran/GTP/Importin-beta	component>
+NPC	KPNB1	-a>
+Ran/GTP/Importin-beta	Cargo/Importin-alpha/Ran/GTP/Importin-beta	component>
+Cargo/Importin-alpha	Cargo/Importin-alpha/Ran/GTP/Importin-beta	component>
+RAN	Ran/GTP	component>
+GTP	Ran/GTP	component>
+NPC	KPNA2	-a>

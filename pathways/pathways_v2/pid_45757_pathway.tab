@@ -1,0 +1,25 @@
+complex	CaM/Ca ++
+complex	PKA
+complex	PSD95/NOS I
+complex	glutamate/NMDAR1/NMDAR2
+protein	CaM
+protein	PKC
+smallMolecule	L-arginine
+smallMolecule	L-citrulline
+complex	Calcineurin
+smallMolecule	NO
+smallMolecule	Ca2+
+protein	NOS1
+protein	DLG4
+NOS1	L-arginine	-a>
+CaM/Ca ++	DLG4	component>
+Ca2+	CaM/Ca ++	component>
+Ca2+	CaM	component>
+Calcineurin	NOS1	-a>
+glutamate/NMDAR1/NMDAR2	Ca2+	-a>
+PKC	NOS1	-a>
+PKA	NOS1	-a>
+L-citrulline	NO	-a>
+L-citrulline	L-arginine	-a>
+PSD95/NOS I	NOS1	component>
+PSD95/NOS I	DLG4	component>

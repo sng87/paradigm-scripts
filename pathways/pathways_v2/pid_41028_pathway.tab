@@ -1,0 +1,15 @@
+complex	Cannabinoid receptor:2-AG
+complex	PAF receptor:PAF
+smallMolecule	ChEBI:52390
+smallMolecule	Melatonin
+protein	Melatonin receptors
+complex	Melatonin receptor:melatonin
+smallMolecule	ChEBI:52365
+protein	Cannabinoid receptors
+protein	PTAFR
+Melatonin receptors	Melatonin receptor:melatonin	component>
+Melatonin	Melatonin receptor:melatonin	component>
+ChEBI:52365	Cannabinoid receptor:2-AG	component>
+Cannabinoid receptors	Cannabinoid receptor:2-AG	component>
+PTAFR	PAF receptor:PAF	component>
+ChEBI:52390	PAF receptor:PAF	component>

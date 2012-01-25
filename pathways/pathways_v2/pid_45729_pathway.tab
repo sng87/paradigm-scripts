@@ -1,0 +1,27 @@
+abstract	mRNA splicing
+complex	U1 snRNP/U2 snRNP/pre-mRNA
+complex	U1 snRNP/U2 snRNP/U4 snRNP/U5 snRNP/U6 snRNP/pre-mRNA
+rna	pre-mRNA
+complex	U1 snRNP/pre-mRNA
+complex	U6 snRNP
+complex	U4 snRNP/U5 snRNP/U6 snRNP
+complex	U5 snRNP
+complex	U2 snRNP
+complex	U4 snRNP
+complex	U1 snRNP
+protein	U2AF2
+protein	U2AF1
+protein	SFRS2
+U2AF1	U1 snRNP/U2 snRNP/pre-mRNA	component>
+U2AF2	U1 snRNP/U2 snRNP/pre-mRNA	component>
+SFRS2	U1 snRNP/U2 snRNP/pre-mRNA	component>
+U6 snRNP	U4 snRNP/U5 snRNP/U6 snRNP	component>
+U5 snRNP	U4 snRNP/U5 snRNP/U6 snRNP	component>
+U4 snRNP	U4 snRNP/U5 snRNP/U6 snRNP	component>
+U4 snRNP/U5 snRNP/U6 snRNP	U1 snRNP/U2 snRNP/U4 snRNP/U5 snRNP/U6 snRNP/pre-mRNA	component>
+U1 snRNP/U2 snRNP/pre-mRNA	U1 snRNP/U2 snRNP/U4 snRNP/U5 snRNP/U6 snRNP/pre-mRNA	component>
+U2 snRNP	U1 snRNP/U2 snRNP/pre-mRNA	component>
+U1 snRNP/pre-mRNA	U1 snRNP/U2 snRNP/pre-mRNA	component>
+pre-mRNA	U1 snRNP/pre-mRNA	-a>
+U1 snRNP	U1 snRNP/pre-mRNA	-a>
+U1 snRNP/U2 snRNP/U4 snRNP/U5 snRNP/U6 snRNP/pre-mRNA	mRNA splicing	-ap>

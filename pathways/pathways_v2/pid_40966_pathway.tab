@@ -1,0 +1,31 @@
+complex	NGF ligand:p75NTR
+complex	gamma-secretase complex
+complex	NGF ligand:p75NTR:NRIF
+complex	TRAF6 homotrimer
+complex	K63 linked polyubiquitin chain
+complex	Ubiquitinated NRIF
+complex	NGF ligand:p75NTR:NRIF:TRAF6
+complex	Ubiquitinated NRIF:Sequestosome
+smallMolecule	ATP
+smallMolecule	ADP
+protein	NRIF
+protein	SQSTM1
+protein	MAPK8
+TRAF6 homotrimer	Ubiquitinated NRIF	component>
+gamma-secretase complex	NRIF	component>
+Ubiquitinated NRIF:Sequestosome	Ubiquitinated NRIF:Sequestosome	-a>
+NGF ligand:p75NTR:NRIF	NGF ligand:p75NTR:NRIF:TRAF6	component>
+TRAF6 homotrimer	NGF ligand:p75NTR:NRIF:TRAF6	component>
+Ubiquitinated NRIF	Ubiquitinated NRIF:Sequestosome	component>
+SQSTM1	Ubiquitinated NRIF:Sequestosome	component>
+NRIF	Ubiquitinated NRIF	component>
+K63 linked polyubiquitin chain	Ubiquitinated NRIF	component>
+NGF ligand:p75NTR	NGF ligand:p75NTR:NRIF	component>
+NRIF	NGF ligand:p75NTR:NRIF	component>
+NGF ligand:p75NTR:NRIF:TRAF6	NGF ligand:p75NTR	component>
+NGF ligand:p75NTR:NRIF:TRAF6	TRAF6 homotrimer	component>
+NGF ligand:p75NTR:NRIF:TRAF6	NRIF	component>
+ATP	ADP	-a>
+ATP	MAPK8	-a>
+MAPK8	ADP	-a>
+NGF ligand:p75NTR:NRIF:TRAF6	MAPK8	-a>

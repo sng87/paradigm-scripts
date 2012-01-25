@@ -1,0 +1,38 @@
+abstract	cell growth and/or maintenance
+complex	NGF/TRkA
+complex	SHC/GRB2/SOS-1
+smallMolecule	nucleoside diphosphate
+protein	NGFB
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PKC
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	PIP3
+protein	PLCG1
+protein	PDPK1
+protein	NTRK1
+protein	HRAS
+protein	AKT1
+PI3K	PIP3	-a>
+PLCG1	DAG	-a>
+DAG	PKC	-a>
+NGF/TRkA	SHC/GRB2/SOS-1	-a>
+NGF/TRkA	PLCG1	-a>
+PIP2	PIP3	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+AKT1	cell growth and/or maintenance	-ap>
+NGF/TRkA	PI3K	-a>
+PDPK1	AKT1	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+NTRK1	NGF/TRkA	component>
+NGFB	NGF/TRkA	component>
+PIP3	PDPK1	-a>

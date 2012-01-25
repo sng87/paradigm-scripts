@@ -1,0 +1,90 @@
+complex	CaMKK/CaM/Ca ++
+protein	thox
+complex	FPR1/G-beta/G-gamma/G16-alpha
+smallMolecule	SB2003580
+complex	CaMKI/CaM/Ca ++
+complex	NF-kappa-B
+complex	CaM/Ca ++
+complex	NF-kappa-B/I-kappa-B-alpha
+protein	fMLP
+complex	fMLP/FPR1/G-beta/G-gamma/G16-alpha
+smallMolecule	PD98059
+smallMolecule	GF109203X
+protein	CaM
+protein	CaMKI
+smallMolecule	PIP2
+abstract	degradation
+smallMolecule	DAG
+protein	PKC
+complex	Calcineurin
+protein	NFATc
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	RAF1
+protein	RAC1
+protein	PLCB1
+protein	PIK3C2G
+protein	PAK1
+protein	NCF2
+protein	NCF1
+protein	MAPK3
+protein	MAPK14
+protein	MAPK1
+protein	MAP2K6
+protein	MAP2K3
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	ELK1
+SB2003580	MAPK14	-a|
+GF109203X	degradation	-ap|
+PKC	degradation	-ap>
+DAG	PKC	-a>
+PD98059	MAPK1	-a|
+PLCB1	DAG	-a>
+PD98059	MAPK3	-a|
+CaMKI/CaM/Ca ++	HRAS	-a>
+MAPK1	ELK1	-a>
+MAP2K2	MAPK3	-a>
+PIK3C2G	RAC1	-a>
+FPR1/G-beta/G-gamma/G16-alpha	fMLP/FPR1/G-beta/G-gamma/G16-alpha	component>
+fMLP	fMLP/FPR1/G-beta/G-gamma/G16-alpha	component>
+MAP2K6	MAPK14	-a>
+NCF2	thox	-a>
+MAPK1	NCF1	-a>
+MAP2K3	MAPK14	-a>
+CaMKI/CaM/Ca ++	RAC1	-a>
+CaMKK/CaM/Ca ++	CaMKI/CaM/Ca ++	-a>
+Calcineurin	NFATc	-a>
+NF-kappa-B	degradation	-ap>
+NF-kappa-B/I-kappa-B-alpha	degradation	-ap>
+HRAS	RAF1	-a>
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	PIK3C2G	-a>
+RAC1	RAC1	-a>
+RAF1	MAP2K1	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+MAPK3	NCF1	-a>
+MAPK3	ELK1	-a>
+CaM/Ca ++	Calcineurin	-a>
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	PLCB1	-a>
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	MAP2K6	-a>
+HRAS	HRAS	-a>
+RAC1	PAK1	-a>
+RAC1	NCF2	-a>
+CaMKI	CaMKI/CaM/Ca ++	component>
+CaM/Ca ++	CaMKI/CaM/Ca ++	component>
+IP3	Ca2+	-a>
+RAF1	MAP2K2	-a>
+Ca2+	PKC	-a>
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	MAP2K3	-a>
+MAP2K1	MAPK1	-a>
+MAP2K2	MAPK1	-a>
+PIK3C2G	HRAS	-a>
+NFATc	NFATc	-a>
+NCF1	thox	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+fMLP/FPR1/G-beta/G-gamma/G16-alpha	HRAS	-a>
+MAP2K1	MAPK3	-a>
+RAC1	NCF1	-a>

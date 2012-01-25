@@ -1,0 +1,46 @@
+complex	deoxyguanosine kinase holoenzyme
+smallMolecule	dGMP
+smallMolecule	Deoxyguanosine
+smallMolecule	deoxyadenosine
+complex	5'-nucleotidase cytosolic II holoenzyme
+smallMolecule	deoxyinosine
+smallMolecule	Purine-6-ol
+smallMolecule	guanine
+smallMolecule	H2O
+complex	adenosine kinase holoenzyme
+smallMolecule	2-Deoxy-D-ribose 1-phosphate
+smallMolecule	dAMP
+complex	PNPase homotrimer
+smallMolecule	NH3
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	ADA
+5'-nucleotidase cytosolic II holoenzyme	phosphate	-a>
+deoxyguanosine kinase holoenzyme	ADP	-a>
+PNPase homotrimer	2-Deoxy-D-ribose 1-phosphate	-a>
+ADA	deoxyinosine	-a>
+PNPase homotrimer	guanine	-a>
+adenosine kinase holoenzyme	ADP	-a>
+H2O	Deoxyguanosine	-a>
+H2O	phosphate	-a>
+dGMP	Deoxyguanosine	-a>
+dGMP	phosphate	-a>
+Deoxyguanosine	dGMP	-a>
+Deoxyguanosine	ADP	-a>
+ATP	dGMP	-a>
+deoxyinosine	Purine-6-ol	-a>
+deoxyinosine	2-Deoxy-D-ribose 1-phosphate	-a>
+phosphate	Purine-6-ol	-a>
+deoxyadenosine	NH3	-a>
+deoxyadenosine	deoxyinosine	-a>
+H2O	NH3	-a>
+H2O	deoxyinosine	-a>
+Deoxyguanosine	2-Deoxy-D-ribose 1-phosphate	-a>
+Deoxyguanosine	guanine	-a>
+phosphate	2-Deoxy-D-ribose 1-phosphate	-a>
+phosphate	guanine	-a>
+ATP	dAMP	-a>
+ATP	ADP	-a>
+deoxyadenosine	dAMP	-a>
+deoxyadenosine	ADP	-a>

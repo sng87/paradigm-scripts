@@ -1,0 +1,61 @@
+protein	SPRY
+complex	SHC/GRB2/SOS-1
+smallMolecule	leupeptin
+complex	EGF/EGF R/ubiquitin
+complex	EGF/EGF R/ubiquitin (cytoplasm)
+complex	EGF R/SRC
+smallMolecule	chloroquine
+complex	EGF R/SRC/EGF
+protein	END
+abstract	protein ubiquitination
+abstract	cell migration
+abstract	degradation
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SH3KBP1
+protein	RASA1
+protein	RAF1
+protein	PTPRB
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	GRB2
+protein	EGF
+protein	CBL
+SPRY	HRAS	-a|
+MAP2K2	MAPK3	-a>
+SPRY	CBL	-a|
+GRB2	protein ubiquitination	-ap>
+SH3KBP1	protein ubiquitination	-ap>
+END	protein ubiquitination	-ap>
+CBL	protein ubiquitination	-ap>
+chloroquine	degradation	-ap|
+leupeptin	degradation	-ap|
+SHC/GRB2/SOS-1	HRAS	-a>
+MAP2K1	MAPK3	-a>
+SPRY	PTPRB	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	MAPK3	-a>
+EGF R/SRC	EGF R/SRC/EGF	component>
+EGF	EGF R/SRC/EGF	component>
+HRAS	RAF1	-a>
+EGF R/SRC/EGF	CBL	-a>
+PTPRB	cell migration	-ap|
+SPRY	RASA1	-a>
+EGF/EGF R/ubiquitin	EGF/EGF R/ubiquitin (cytoplasm)	-a>
+EGF/EGF R/ubiquitin	protein ubiquitination	-ap>
+EGF R/SRC/EGF	protein ubiquitination	-ap>
+GTP	GDP	-a>
+GTP	HRAS	-a>
+HRAS	GDP	-a>
+RASA1	HRAS	-a>
+EGF/EGF R/ubiquitin (cytoplasm)	degradation	-ap>
+EGF R/SRC/EGF	SHC/GRB2/SOS-1	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

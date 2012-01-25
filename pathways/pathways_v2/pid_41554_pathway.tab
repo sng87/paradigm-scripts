@@ -1,0 +1,16 @@
+smallMolecule	Inositol
+smallMolecule	H+
+smallMolecule	Na+
+protein	SLC5A3
+protein	SLC5A11
+protein	SLC2A13
+SLC2A13	Inositol	-a>
+Inositol	H+	-a>
+H+	H+	-a>
+H+	Inositol	-a>
+SLC5A3	Na+	-a>
+Inositol	Inositol	-a>
+Inositol	Na+	-a>
+Na+	Inositol	-a>
+Na+	Na+	-a>
+SLC5A11	Na+	-a>

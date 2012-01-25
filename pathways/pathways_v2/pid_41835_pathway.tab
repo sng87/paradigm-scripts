@@ -1,0 +1,5 @@
+complex	gamma-H2AX:NBS1 complex at the site of double-strand break
+complex	gamma H2AX-coated DNA double-strand break ends
+protein	NBN
+NBN	gamma-H2AX:NBS1 complex at the site of double-strand break	component>
+gamma H2AX-coated DNA double-strand break ends	gamma-H2AX:NBS1 complex at the site of double-strand break	component>

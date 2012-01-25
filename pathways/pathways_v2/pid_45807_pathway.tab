@@ -1,0 +1,24 @@
+abstract	cell growth and/or maintenance
+complex	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3
+complex	SHC/GRB2/SOS-1
+smallMolecule	nucleoside diphosphate
+smallMolecule	guanosine 5`-triphosphate
+abstract	apoptosis
+complex	PI3K
+protein	RAF1
+protein	MAPK3
+protein	IRS1
+protein	HRAS
+protein	BAD
+IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3	RAF1	-a>
+MAPK3	BAD	-a>
+RAF1	BAD	-a>
+BAD	apoptosis	-ap>
+BAD	cell growth and/or maintenance	-ap>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+RAF1	RAF1	-a>
+IRS1	PI3K	-a>
+IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/14-3-3	SHC/GRB2/SOS-1	-a>

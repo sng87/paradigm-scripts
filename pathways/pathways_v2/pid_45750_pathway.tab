@@ -1,0 +1,52 @@
+abstract	oxygen transport
+complex	HbH
+complex	alpha-globin/HEME/alpha-globin/HEME/alpha-globin/HEME/alpha-globin/HEME
+complex	HB-beta
+complex	HbA
+complex	HB-alpha
+protein	alpha-globin
+complex	HB-alpha/O2
+smallMolecule	Fe +3
+smallMolecule	Gly
+smallMolecule	O2
+smallMolecule	HEME
+protein	UROS
+protein	UROD
+protein	HMBS
+protein	HBB
+protein	GATA1
+protein	FECH
+protein	ERAF
+protein	CPOX
+protein	ALAS2
+protein	ALAS1
+protein	ALAD
+ERAF	HB-alpha/O2	-a>
+FECH	HEME	-a>
+CPOX	HEME	-a>
+UROD	HEME	-a>
+UROS	HEME	-a>
+HMBS	HEME	-a>
+ALAD	HEME	-a>
+ALAS2	HEME	-a>
+ALAS1	HEME	-a>
+GATA1	HBB	-t>
+HB-alpha	alpha-globin/HEME/alpha-globin/HEME/alpha-globin/HEME/alpha-globin/HEME	component>
+O2	HB-beta	component>
+HBB	HB-beta	component>
+HEME	HB-beta	component>
+alpha-globin	HB-alpha	component>
+HEME	HB-alpha	component>
+HbH	oxygen transport	-ap|
+HB-beta	HbH	component>
+HB-alpha	HB-alpha/O2	-a>
+O2	HB-alpha/O2	-a>
+O2	O2	-a>
+alpha-globin/HEME/alpha-globin/HEME/alpha-globin/HEME/alpha-globin/HEME	oxygen transport	-ap|
+GATA1	alpha-globin	-t>
+Fe +3	HEME	-a>
+Gly	HEME	-a>
+HbA	oxygen transport	-ap>
+HB-beta	HbA	component>
+HB-alpha/O2	HbA	component>
+GATA1	ERAF	-t>

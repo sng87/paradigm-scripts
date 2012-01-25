@@ -1,0 +1,12 @@
+smallMolecule	H2O
+smallMolecule	adenosine
+smallMolecule	AMP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	NT5C1B
+ADP	phosphate	-a>
+NT5C1B	phosphate	-a>
+H2O	adenosine	-a>
+H2O	phosphate	-a>
+AMP	adenosine	-a>
+AMP	phosphate	-a>

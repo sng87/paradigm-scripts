@@ -1,0 +1,32 @@
+complex	C3b:C3b:Factor Bb: Properdin complex
+complex	C3b:Factor Bb:Properdin complex
+complex	C3b
+complex	C3(H2O):Factor Bb
+smallMolecule	H2O
+complex	C3b:Factor Bb complex
+complex	C3(H2O)
+complex	C3(H2O):Factor B
+complex	C3b:Factor B complex
+protein	CFD
+protein	CFB
+protein	C3
+C3(H2O):Factor Bb	C3b	component>
+CFD	CFB	component>
+C3b	C3b:Factor B complex	component>
+CFB	C3b:Factor B complex	component>
+C3(H2O)	C3(H2O):Factor B	component>
+CFB	C3(H2O):Factor B	component>
+C3(H2O)	C3b	component>
+C3b:Factor B complex	C3(H2O):Factor Bb	component>
+C3(H2O):Factor B	C3(H2O):Factor Bb	component>
+C3(H2O):Factor B	C3b:Factor Bb complex	component>
+C3(H2O):Factor B	CFB	component>
+C3(H2O)	C3(H2O)	-a>
+H2O	C3(H2O)	-a>
+C3b:Factor Bb:Properdin complex	C3b:C3b:Factor Bb: Properdin complex	component>
+C3b:Factor Bb:Properdin complex	C3	component>
+C3(H2O)	C3b:C3b:Factor Bb: Properdin complex	component>
+C3(H2O)	C3	component>
+C3b:Factor Bb complex	C3b:Factor Bb:Properdin complex	-a>
+C3b:Factor B complex	C3b:Factor Bb complex	component>
+C3b:Factor B complex	CFB	component>

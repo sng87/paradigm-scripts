@@ -1,0 +1,198 @@
+protein	PARD6A
+protein	SORBS1
+protein	DOK1
+protein	TRIP10
+protein	GRB14
+protein	RAPGEF1
+protein	EIF4EBP1
+protein	GRB10
+protein	SOS1
+protein	PTPN11
+protein	PRKCZ
+protein	CAV1
+protein	GRB2
+protein	CRK
+protein	PIK3CA
+protein	PRKCI
+protein	IRS1
+protein	AKT2
+protein	AKT1
+protein	SHC1
+protein	PIK3R1
+protein	RPS6KB1
+protein	CBL
+protein	RASA1
+protein	PTPRA
+protein	PTPN1
+protein	RHOQ
+protein	NCK1
+protein	INSR
+protein	INS
+protein	HRAS
+protein	NCK2
+protein	FOXO3
+protein	PDPK1
+protein	SH2B2
+protein	F2RL2
+protein	INPP5D
+protein	SGK1
+complex	p62DOK/RasGAP
+complex	TC10/GTP/CIP4/Exocyst
+complex	TC10/GTP/CIP4
+complex	TC10/GTP
+complex	TC10/GDP
+complex	SHC/SHIP
+complex	Par3/Par6
+complex	PI3K
+complex	Insulin Receptor/Insulin/Shc
+complex	Insulin Receptor/Insulin/SHC/GRB2/Sos1
+complex	Insulin Receptor/Insulin/SHC/GRB10
+complex	Insulin Receptor/Insulin/IRS3
+complex	Insulin Receptor/Insulin/IRS1/Shp2
+complex	Insulin Receptor/Insulin/IRS1/NCK2
+complex	Insulin Receptor/Insulin/IRS1
+complex	Insulin Receptor/Insulin/GRB14/PDK1
+complex	Insulin Receptor/Insulin
+complex	Insulin Receptor/Insuli/IRS1/GRB2/Shc
+complex	Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos
+complex	Insulin Receptor/Insuli/IRS1/GRB2/SHC/PTP1B
+complex	Insulin Receptor/Insuli/IRS1/GRB2/SHC
+complex	Insulin Receptor
+complex	HRAS/GTP
+complex	HRAS/GDP
+complex	CBL/APS/CAP/Crk-II/C3G
+complex	CBL/APS/CAP/Crk-II
+complex	CBL/APS/CAP
+complex	APS homodimer
+chemical	mol:cAMP
+chemical	mol:PI-3-4-P2
+chemical	mol:PI-3-4-5-P3
+chemical	mol:H2O2
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	tumor necrosis factor-mediated signaling pathway
+abstract	negative regulation of MAPKKK cascade
+tumor necrosis factor-mediated signaling pathway	Insulin Receptor/Insulin/Shc	-ap>
+tumor necrosis factor-mediated signaling pathway	Insulin Receptor/Insulin/IRS1	-ap>
+p62DOK/RasGAP	negative regulation of MAPKKK cascade	-ap>
+mol:cAMP	SGK1	-a>
+mol:PI-3-4-5-P3	Insulin Receptor/Insulin/GRB14/PDK1	-a>
+mol:H2O2	PTPN1	-a>
+mol:GTP	TC10/GTP/CIP4/Exocyst	component>
+mol:GTP	TC10/GTP/CIP4	component>
+mol:GTP	TC10/GTP	component>
+mol:GTP	HRAS/GTP	component>
+mol:GDP	TC10/GDP	component>
+mol:GDP	HRAS/GDP	component>
+PARD6A	Par3/Par6	component>
+SORBS1	CBL/APS/CAP/Crk-II/C3G	component>
+SORBS1	CBL/APS/CAP/Crk-II	component>
+SORBS1	CBL/APS/CAP	component>
+DOK1	p62DOK/RasGAP	component>
+TRIP10	TC10/GTP/CIP4/Exocyst	component>
+TRIP10	TC10/GTP/CIP4	component>
+GRB14	Insulin Receptor/Insulin/GRB14/PDK1	component>
+RAPGEF1	CBL/APS/CAP/Crk-II/C3G	component>
+GRB10	Insulin Receptor/Insulin/SHC/GRB10	component>
+SOS1	Insulin Receptor/Insulin/SHC/GRB2/Sos1	component>
+SOS1	Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos	component>
+PTPN11	Insulin Receptor/Insulin/IRS1/Shp2	component>
+GRB2	Insulin Receptor/Insulin/SHC/GRB2/Sos1	component>
+GRB2	Insulin Receptor/Insuli/IRS1/GRB2/Shc	component>
+GRB2	Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos	component>
+GRB2	Insulin Receptor/Insuli/IRS1/GRB2/SHC/PTP1B	component>
+GRB2	Insulin Receptor/Insuli/IRS1/GRB2/SHC	component>
+CRK	CBL/APS/CAP/Crk-II/C3G	component>
+CRK	CBL/APS/CAP/Crk-II	component>
+PIK3CA	PI3K	component>
+IRS1	Insulin Receptor/Insulin/IRS1/Shp2	component>
+IRS1	Insulin Receptor/Insulin/IRS1/NCK2	component>
+IRS1	Insulin Receptor/Insulin/IRS1	component>
+IRS1	Insulin Receptor/Insuli/IRS1/GRB2/Shc	component>
+IRS1	Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos	component>
+IRS1	Insulin Receptor/Insuli/IRS1/GRB2/SHC/PTP1B	component>
+IRS1	Insulin Receptor/Insuli/IRS1/GRB2/SHC	component>
+AKT1	EIF4EBP1	-a>
+AKT1	RPS6KB1	-a>
+AKT1	FOXO3	-a>
+SHC1	SHC/SHIP	component>
+SHC1	Insulin Receptor/Insulin/Shc	component>
+SHC1	Insulin Receptor/Insulin/SHC/GRB2/Sos1	component>
+SHC1	Insulin Receptor/Insulin/SHC/GRB10	component>
+SHC1	Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos	component>
+SHC1	Insulin Receptor/Insuli/IRS1/GRB2/SHC/PTP1B	component>
+SHC1	Insulin Receptor/Insuli/IRS1/GRB2/SHC	component>
+PIK3R1	PI3K	component>
+RPS6KB1	Insulin Receptor/Insuli/IRS1/GRB2/Shc	-a>
+CBL	CBL/APS/CAP/Crk-II/C3G	component>
+CBL	CBL/APS/CAP/Crk-II	component>
+CBL	CBL/APS/CAP	component>
+RASA1	p62DOK/RasGAP	component>
+PTPRA	Insulin Receptor/Insulin	-a>
+PTPN1	Insulin Receptor/Insulin	-a>
+PTPN1	Insulin Receptor/Insuli/IRS1/GRB2/SHC/PTP1B	component>
+RHOQ	TC10/GTP/CIP4/Exocyst	component>
+RHOQ	TC10/GTP/CIP4	component>
+RHOQ	TC10/GTP	component>
+RHOQ	TC10/GDP	component>
+NCK1	p62DOK/RasGAP	component>
+INSR	Insulin Receptor/Insulin/Shc	component>
+INSR	Insulin Receptor/Insulin/SHC/GRB2/Sos1	component>
+INSR	Insulin Receptor/Insulin/SHC/GRB10	component>
+INSR	Insulin Receptor/Insulin/IRS3	component>
+INSR	Insulin Receptor/Insulin/IRS1/Shp2	component>
+INSR	Insulin Receptor/Insulin/IRS1/NCK2	component>
+INSR	Insulin Receptor/Insulin/IRS1	component>
+INSR	Insulin Receptor/Insulin/GRB14/PDK1	component>
+INSR	Insulin Receptor/Insulin	component>
+INSR	Insulin Receptor/Insuli/IRS1/GRB2/Shc	component>
+INSR	Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos	component>
+INSR	Insulin Receptor/Insuli/IRS1/GRB2/SHC/PTP1B	component>
+INSR	Insulin Receptor/Insuli/IRS1/GRB2/SHC	component>
+INSR	Insulin Receptor	component>
+INS	Insulin Receptor/Insulin/Shc	component>
+INS	Insulin Receptor/Insulin/SHC/GRB2/Sos1	component>
+INS	Insulin Receptor/Insulin/SHC/GRB10	component>
+INS	Insulin Receptor/Insulin/IRS3	component>
+INS	Insulin Receptor/Insulin/IRS1/Shp2	component>
+INS	Insulin Receptor/Insulin/IRS1/NCK2	component>
+INS	Insulin Receptor/Insulin/IRS1	component>
+INS	Insulin Receptor/Insulin/GRB14/PDK1	component>
+INS	Insulin Receptor/Insulin	component>
+INS	Insulin Receptor/Insuli/IRS1/GRB2/Shc	component>
+INS	Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos	component>
+INS	Insulin Receptor/Insuli/IRS1/GRB2/SHC/PTP1B	component>
+INS	Insulin Receptor/Insuli/IRS1/GRB2/SHC	component>
+HRAS	HRAS/GTP	component>
+HRAS	HRAS/GDP	component>
+NCK2	Insulin Receptor/Insulin/IRS1/NCK2	component>
+PDPK1	Insulin Receptor/Insulin/GRB14/PDK1	component>
+SH2B2	CBL/APS/CAP/Crk-II/C3G	component>
+SH2B2	CBL/APS/CAP/Crk-II	component>
+SH2B2	CBL/APS/CAP	component>
+SH2B2	APS homodimer	component>
+F2RL2	Par3/Par6	component>
+INPP5D	mol:PI-3-4-P2	-a>
+INPP5D	SHC/SHIP	component>
+SGK1	FOXO3	-a>
+TC10/GTP/CIP4	PRKCZ	-a>
+TC10/GTP/CIP4	PRKCI	-a>
+TC10/GTP/CIP4	Par3/Par6	-a>
+SHC/SHIP	HRAS/GTP	-a|
+PI3K	mol:PI-3-4-5-P3	-a>
+Insulin Receptor/Insulin/SHC/GRB2/Sos1	DOK1	-a>
+Insulin Receptor/Insulin/SHC/GRB2/Sos1	HRAS/GTP	-a>
+Insulin Receptor/Insulin/SHC/GRB10	DOK1	-a|
+Insulin Receptor/Insulin/IRS3	PI3K	-a>
+Insulin Receptor/Insulin/IRS1	CAV1	-a>
+Insulin Receptor/Insulin/IRS1	INPP5D	-a>
+Insulin Receptor/Insulin/IRS1	PI3K	-a>
+Insulin Receptor/Insulin/IRS1	CBL/APS/CAP	-a>
+Insulin Receptor/Insulin/GRB14/PDK1	PRKCZ	-a>
+Insulin Receptor/Insulin/GRB14/PDK1	PRKCI	-a>
+Insulin Receptor/Insulin/GRB14/PDK1	AKT2	-a>
+Insulin Receptor/Insulin/GRB14/PDK1	AKT1	-a>
+Insulin Receptor/Insulin/GRB14/PDK1	SGK1	-a>
+Insulin Receptor/Insulin	PTPN1	-t>
+Insulin Receptor/Insuli/IRS1/GRB2/SHC/Sos	HRAS/GTP	-a>
+CBL/APS/CAP/Crk-II/C3G	TC10/GTP	-a>

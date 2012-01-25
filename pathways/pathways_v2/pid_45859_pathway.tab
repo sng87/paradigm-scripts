@@ -1,0 +1,64 @@
+complex	HSP27/HSP27
+protein	CASP3_0-0
+complex	HSP27/Actin
+complex	HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/Cytochrome C
+complex	FAS L/FAS/DAXX
+complex	HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27
+complex	FAS L/FAS
+smallMolecule	GSH
+abstract	necrosis
+abstract	cell survival
+abstract	response to stress
+abstract	degradation
+abstract	apoptosis
+complex	APAF-1/Caspase 9
+smallMolecule	ROS
+protein	TNF
+protein	MAPKAPK3
+protein	MAPKAPK2
+protein	IL1A
+protein	HSPB1
+protein	FASLG
+protein	FAS
+protein	DAXX
+protein	CYCS
+protein	CASP9
+protein	CASP3
+protein	BCL2
+protein	APAF1
+protein	ACTA1
+IL1A	MAPKAPK2	-a>
+TNF	MAPKAPK2	-a>
+MAPKAPK3	HSP27/HSP27	-a>
+APAF-1/Caspase 9	CASP3_0-0	-a>
+IL1A	MAPKAPK3	-a>
+TNF	MAPKAPK3	-a>
+GSH	degradation	-ap>
+HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27	CYCS	-a|
+BCL2	CYCS	-a|
+MAPKAPK2	HSP27/HSP27	-a>
+HSP27/HSP27	FAS L/FAS/DAXX	component>
+FAS	FAS L/FAS	component>
+FASLG	FAS L/FAS	component>
+response to stress	MAPKAPK2	-a>
+CASP9	APAF-1/Caspase 9	component>
+APAF1	APAF-1/Caspase 9	component>
+HSP27/HSP27	cell survival	-ap>
+CASP3	CASP3_0-0	-a>
+response to stress	MAPKAPK3	-a>
+CASP3_0-0	apoptosis	-ap>
+HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27	GSH	-a>
+ROS	degradation	-ap>
+response to stress	CYCS	-a>
+CYCS	APAF-1/Caspase 9	-a>
+ACTA1	HSP27/Actin	component>
+HSPB1	HSP27/Actin	component>
+response to stress	ROS	-t>
+FAS L/FAS/DAXX	apoptosis	-ap>
+HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27	HSP27/HSP27	-a>
+ROS	necrosis	-ap>
+DAXX	FAS L/FAS/DAXX	component>
+FAS L/FAS	FAS L/FAS/DAXX	component>
+HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27	HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/Cytochrome C	component>
+CYCS	HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/HSP27/Cytochrome C	component>
+HSP27/HSP27	HSPB1	component>

@@ -1,0 +1,17 @@
+complex	PPARA:RXRA Heterodimer
+complex	PPARA:RXRA Coactivator Complex
+complex	PPARA:RXRA Repressor Complex
+smallMolecule	linoleic acid
+protein	TBL1XR1
+protein	TBL1X
+protein	RXRA
+protein	PPARA
+protein	MTTP
+RXRA	PPARA:RXRA Heterodimer	component>
+PPARA	PPARA:RXRA Heterodimer	component>
+TBL1X	PPARA:RXRA Repressor Complex	component>
+PPARA:RXRA Heterodimer	PPARA:RXRA Repressor Complex	component>
+TBL1XR1	PPARA:RXRA Repressor Complex	component>
+PPARA:RXRA Coactivator Complex	MTTP	-t>
+linoleic acid	PPARA:RXRA Coactivator Complex	-a>
+PPARA:RXRA Repressor Complex	PPARA:RXRA Coactivator Complex	-a>

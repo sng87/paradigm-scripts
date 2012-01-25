@@ -1,0 +1,59 @@
+complex	PIP2/AP180/AP2
+complex	Amph1/2
+complex	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2
+complex	CaM/Ca ++
+complex	NDK
+complex	PIP2/AP180/AP2/EPSIN/Eps15
+complex	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin
+complex	PIP2/AP180/AP2/EPSIN
+protein	CaM
+protein	Synaptojanin
+complex	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin
+smallMolecule	PIP2
+abstract	endocytosis
+smallMolecule	ATP
+smallMolecule	ADP
+complex	Calcineurin
+complex	AP2
+smallMolecule	Ca2+
+protein	PICALM
+protein	EPS15
+protein	EPN1
+protein	DNM1
+CaM/Ca ++	Calcineurin	-a>
+Calcineurin	DNM1	-a>
+ATP	ADP	-a>
+ATP	NDK	-a>
+NDK	ADP	-a>
+NDK	NDK	-a>
+NDK	DNM1	-a>
+Calcineurin	AP2	-a>
+Amph1/2	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2	component>
+PIP2/AP180/AP2/EPSIN/Eps15	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2	component>
+Calcineurin	Amph1/2	-a>
+AP2	PIP2/AP180/AP2	component>
+PICALM	PIP2/AP180/AP2	component>
+PIP2	PIP2/AP180/AP2	component>
+Calcineurin	PICALM	-a>
+Synaptojanin	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	component>
+Ca2+	Ca2+	-a>
+DNM1	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2	PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin	component>
+Calcineurin	EPS15	-a>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	endocytosis	-ap>
+EPN1	PIP2/AP180/AP2/EPSIN	component>
+PIP2/AP180/AP2	PIP2/AP180/AP2/EPSIN	component>
+Calcineurin	Synaptojanin	-a>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	PICALM	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	EPS15	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	EPN1	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	Synaptojanin	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	DNM1	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	Amph1/2	component>
+PIP2/AP180/AP2/EPSIN/Eps15/Amph1/2/dynamin/synaptojanin	AP2	component>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+Calcineurin	EPN1	-a>
+EPS15	PIP2/AP180/AP2/EPSIN/Eps15	component>
+PIP2/AP180/AP2/EPSIN	PIP2/AP180/AP2/EPSIN/Eps15	component>

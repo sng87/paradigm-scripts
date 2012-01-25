@@ -1,0 +1,29 @@
+complex	FKHRL1/14-3-3
+complex	MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin
+protein	FOXO3A
+smallMolecule	PIP2
+complex	PI3K
+smallMolecule	PIP3
+protein	YWHAH
+protein	TERT
+protein	PTK2B
+protein	PTK2
+protein	PDPK1
+protein	FASLG
+protein	BAD
+protein	AKT1
+PI3K	PIP3	-a>
+YWHAH	FKHRL1/14-3-3	component>
+FOXO3A	FKHRL1/14-3-3	component>
+AKT1	BAD	-a>
+PIP2	PIP3	-a>
+PTK2	PI3K	-a>
+MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	PTK2B	-a>
+FOXO3A	FOXO3A	-a>
+FOXO3A	FASLG	-t>
+AKT1	TERT	-a>
+PDPK1	AKT1	-a>
+AKT1	FOXO3A	-a>
+MUSK/RAPSYN/SRC/RAPSYN/SRC/ACH Receptor gamma polypeptide/ACH Receptor beta polypeptide 1/agrin	PTK2	-a>
+TERT	TERT	-a>
+PIP3	PDPK1	-a>

@@ -1,0 +1,27 @@
+complex	Inward Rectifying Potassium Channel (closed)
+complex	Inward Rectifying Potassium Channel (open)
+complex	Adenylate cyclase type VIII: G-protein beta gamma Complex
+complex	Insulin
+complex	G-protein alpha i/o:GTP Complex
+protein	Alpha-2A/2C Adrenergic Receptors
+complex	Adrenaline/Noradrenaline:Alpha-2A/2C Adrenergic Receptor Complex
+smallMolecule	Adrenaline
+complex	G-protein i/o alpha:GTP:G-protein beta:G-protein gamma Complex
+complex	G-protein beta gamma Complex (candidates)
+complex	G-protein i/o alpha:GDP:G-protein beta:G-protein gamma Complex
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ADCY8
+G-protein alpha i/o:GTP Complex	Inward Rectifying Potassium Channel (open)	-a>
+ADCY8	Adenylate cyclase type VIII: G-protein beta gamma Complex	component>
+G-protein beta gamma Complex (candidates)	Adenylate cyclase type VIII: G-protein beta gamma Complex	component>
+Inward Rectifying Potassium Channel (closed)	Inward Rectifying Potassium Channel (open)	-a>
+G-protein alpha i/o:GTP Complex	Insulin	-a>
+G-protein i/o alpha:GTP:G-protein beta:G-protein gamma Complex	G-protein alpha i/o:GTP Complex	component>
+G-protein i/o alpha:GTP:G-protein beta:G-protein gamma Complex	G-protein beta gamma Complex (candidates)	component>
+GTP	G-protein i/o alpha:GTP:G-protein beta:G-protein gamma Complex	-a>
+GTP	GDP	-a>
+G-protein i/o alpha:GDP:G-protein beta:G-protein gamma Complex	G-protein i/o alpha:GTP:G-protein beta:G-protein gamma Complex	-a>
+G-protein i/o alpha:GDP:G-protein beta:G-protein gamma Complex	GDP	-a>
+Adrenaline	Adrenaline/Noradrenaline:Alpha-2A/2C Adrenergic Receptor Complex	component>
+Alpha-2A/2C Adrenergic Receptors	Adrenaline/Noradrenaline:Alpha-2A/2C Adrenergic Receptor Complex	component>

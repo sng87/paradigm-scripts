@@ -1,0 +1,28 @@
+complex	Stalled Pol II complex with damaged DNA hybrid
+complex	Stalled Pol II in TC-NER
+complex	Transcription-coupled (TC) repair complex
+complex	ERCC1:XPF complex
+complex	TFIIH
+protein	XAB2
+protein	TCEA1
+protein	ERCC8
+protein	ERCC6
+protein	ERCC5
+Stalled Pol II in TC-NER	Stalled Pol II complex with damaged DNA hybrid	-a>
+ERCC5	Transcription-coupled (TC) repair complex	component>
+ERCC5	Stalled Pol II complex with damaged DNA hybrid	component>
+TFIIH	Transcription-coupled (TC) repair complex	component>
+TFIIH	Stalled Pol II complex with damaged DNA hybrid	component>
+Stalled Pol II complex with damaged DNA hybrid	Transcription-coupled (TC) repair complex	component>
+Stalled Pol II complex with damaged DNA hybrid	Stalled Pol II complex with damaged DNA hybrid	component>
+ERCC6	Transcription-coupled (TC) repair complex	component>
+ERCC6	Stalled Pol II complex with damaged DNA hybrid	component>
+ERCC1:XPF complex	Transcription-coupled (TC) repair complex	component>
+ERCC1:XPF complex	Stalled Pol II complex with damaged DNA hybrid	component>
+XAB2	Transcription-coupled (TC) repair complex	component>
+XAB2	Stalled Pol II complex with damaged DNA hybrid	component>
+ERCC8	Transcription-coupled (TC) repair complex	component>
+ERCC8	Stalled Pol II complex with damaged DNA hybrid	component>
+TCEA1	Transcription-coupled (TC) repair complex	component>
+TCEA1	Stalled Pol II complex with damaged DNA hybrid	component>
+Stalled Pol II complex with damaged DNA hybrid	Stalled Pol II complex with damaged DNA hybrid	-a>

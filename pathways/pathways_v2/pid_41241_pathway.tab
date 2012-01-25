@@ -1,0 +1,17 @@
+complex	glycogen synthase 2 tetramer, D form
+smallMolecule	UDPglucose
+smallMolecule	UDP
+smallMolecule	alpha-D-Glucose 6-phosphate
+complex	glycogen synthase 1 tetramer, D form
+protein	GYG2
+protein	GYG1
+alpha-D-Glucose 6-phosphate	GYG1	-a>
+alpha-D-Glucose 6-phosphate	UDP	-a>
+glycogen synthase 2 tetramer, D form	UDP	-a>
+UDPglucose	GYG1	-a>
+GYG1	UDP	-a>
+glycogen synthase 1 tetramer, D form	GYG1	-a>
+GYG2	GYG2	-a>
+GYG2	UDP	-a>
+UDPglucose	GYG2	-a>
+UDPglucose	UDP	-a>

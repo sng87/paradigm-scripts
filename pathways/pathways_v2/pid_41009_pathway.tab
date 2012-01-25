@@ -1,0 +1,15 @@
+complex	Glypican-1:HSPG
+complex	Glypican-1:Slit2:Robo1:Ena/Vasp proteins
+protein	Ena/Vasp proteins
+complex	Glypican-1:Slit2:Robo1:Ena/Vasp:Profilin
+complex	Slit2:Glypican-1
+complex	Robo1:Slit2:Glypican-1
+protein	SLIT2
+protein	ROBO1
+Robo1:Slit2:Glypican-1	Glypican-1:Slit2:Robo1:Ena/Vasp proteins	component>
+Ena/Vasp proteins	Glypican-1:Slit2:Robo1:Ena/Vasp proteins	component>
+ROBO1	Robo1:Slit2:Glypican-1	component>
+Slit2:Glypican-1	Robo1:Slit2:Glypican-1	component>
+Glypican-1:Slit2:Robo1:Ena/Vasp proteins	Glypican-1:Slit2:Robo1:Ena/Vasp:Profilin	-a>
+Glypican-1:HSPG	Slit2:Glypican-1	component>
+SLIT2	Slit2:Glypican-1	component>

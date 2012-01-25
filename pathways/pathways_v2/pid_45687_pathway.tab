@@ -1,0 +1,15 @@
+abstract	cell differentiation
+protein	HOP
+complex	SRF/HOP
+complex	NKX 2.5/SRF/GATA4
+abstract	cell proliferation
+protein	SRF
+protein	NKX2-5
+protein	GATA4
+SRF	NKX 2.5/SRF/GATA4	component>
+NKX2-5	NKX 2.5/SRF/GATA4	component>
+GATA4	NKX 2.5/SRF/GATA4	component>
+NKX 2.5/SRF/GATA4	cell differentiation	-ap>
+NKX 2.5/SRF/GATA4	cell proliferation	-ap>
+HOP	SRF/HOP	component>
+SRF	SRF/HOP	component>

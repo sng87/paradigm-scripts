@@ -1,0 +1,64 @@
+complex	PIG-F:GPI7 complex
+smallMolecule	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI
+smallMolecule	dolichol phosphate
+protein	UniProt:O95427 PIGN
+smallMolecule	CoA
+smallMolecule	glucosaminyl-PI
+smallMolecule	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI
+smallMolecule	mannose (a1-4) glucosaminyl-acyl-PI
+complex	GPI-GnT
+smallMolecule	Acetate
+smallMolecule	N-acetylglucosaminyl-PI
+smallMolecule	H2O
+smallMolecule	glucosaminyl-acyl-PI
+smallMolecule	dolichyl phosphate D-mannose
+smallMolecule	phosphatidylinositol
+smallMolecule	(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI
+smallMolecule	Diacylglycerol
+smallMolecule	UDP
+smallMolecule	(ethanolamineP) mannose (a1-2) (ethanolamineP) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI
+complex	GPI mannosyltransferase I
+smallMolecule	phosphatidylethanolamine
+complex	PIG-F:PIG-O complex
+smallMolecule	UDP-N-acetyl-D-glucosamine
+smallMolecule	Fatty acyl CoA
+protein	PIGW
+protein	PIGV
+protein	PIGL
+protein	PIGB
+PIG-F:GPI7 complex	(ethanolamineP) mannose (a1-2) (ethanolamineP) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+PIG-F:PIG-O complex	(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+PIGV	dolichol phosphate	-a>
+PIGB	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+PIGW	glucosaminyl-acyl-PI	-a>
+GPI mannosyltransferase I	mannose (a1-4) glucosaminyl-acyl-PI	-a>
+GPI-GnT	UDP	-a>
+UniProt:O95427 PIGN	Diacylglycerol	-a>
+PIGL	glucosaminyl-PI	-a>
+glucosaminyl-acyl-PI	glucosaminyl-acyl-PI	-a>
+(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	(ethanolamineP) mannose (a1-2) (ethanolamineP) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	Diacylglycerol	-a>
+mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+phosphatidylethanolamine	(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+dolichyl phosphate D-mannose	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+dolichyl phosphate D-mannose	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	dolichol phosphate	-a>
+mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	-a>
+Fatty acyl CoA	CoA	-a>
+Fatty acyl CoA	glucosaminyl-acyl-PI	-a>
+glucosaminyl-PI	CoA	-a>
+glucosaminyl-PI	glucosaminyl-acyl-PI	-a>
+glucosaminyl-acyl-PI	dolichol phosphate	-a>
+glucosaminyl-acyl-PI	mannose (a1-4) glucosaminyl-acyl-PI	-a>
+dolichyl phosphate D-mannose	dolichol phosphate	-a>
+dolichyl phosphate D-mannose	mannose (a1-4) glucosaminyl-acyl-PI	-a>
+phosphatidylinositol	N-acetylglucosaminyl-PI	-a>
+phosphatidylinositol	UDP	-a>
+UDP-N-acetyl-D-glucosamine	N-acetylglucosaminyl-PI	-a>
+UDP-N-acetyl-D-glucosamine	UDP	-a>
+mannose (a1-4) glucosaminyl-acyl-PI	Diacylglycerol	-a>
+phosphatidylethanolamine	Diacylglycerol	-a>
+N-acetylglucosaminyl-PI	Acetate	-a>
+N-acetylglucosaminyl-PI	glucosaminyl-PI	-a>
+H2O	Acetate	-a>
+H2O	glucosaminyl-PI	-a>

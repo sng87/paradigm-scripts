@@ -1,0 +1,256 @@
+protein	SPHK1
+protein	SNX15
+protein	DOK1
+protein	HIF1A
+protein	SLC9A3R2
+protein	SHB
+protein	GRB7
+protein	GAB1
+protein	GRB10
+protein	SLA
+protein	PTPRJ
+protein	LRP1
+protein	SOS1
+protein	PTPN11
+protein	PRKCD
+protein	RAC1
+protein	GRB2
+protein	PTEN
+protein	BCAR1
+protein	VAV2
+protein	STAT5B
+protein	BLK
+protein	DNM2
+protein	PIK3CA
+protein	STAT5A
+protein	STAT1
+protein	CSK
+protein	STAT3
+protein	AKT1
+protein	SHC1
+protein	PIK3R1
+protein	ACP1
+protein	CBL
+protein	EDG1
+protein	RASA1
+protein	PLCG1
+protein	PTPN1
+protein	PTPN2
+protein	FER
+protein	NCK1
+protein	SRC
+protein	FGR
+protein	PDGFRB
+protein	HCK
+protein	LYN
+protein	YES1
+protein	E5
+protein	FYN
+protein	LCK
+protein	PDGFB
+protein	HRAS
+protein	MYC
+protein	ABL1
+protein	NCK2
+protein	SLC9A3R1
+protein	SH2B2
+protein	GO:0007205
+complex	p62DOK/Csk
+complex	STAT1-3-5/STAT1-3-5
+complex	SHC/Grb2/SOS1
+complex	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB
+complex	S1P1/Sphingosine-1-phosphate
+complex	PLCgamma1/SPHK1
+complex	PI3K
+complex	PDGFB-D/PDGFRB/SNX15
+complex	PDGFB-D/PDGFRB/SLAP
+complex	PDGFB-D/PDGFRB/SHP2
+complex	PDGFB-D/PDGFRB/SHB
+complex	PDGFB-D/PDGFRB/LMW-PTP
+complex	PDGFB-D/PDGFRB/GRB7/SHC
+complex	PDGFB-D/PDGFRB/GRB7
+complex	PDGFB-D/PDGFRB/GRB10
+complex	PDGFB-D/PDGFRB/DEP1
+complex	PDGFB-D/PDGFRB/CBL
+complex	PDGFB-D/PDGFRB/APS/CBL
+complex	PDGFB-D/PDGFRB
+complex	NHERF1-2/PDGFRB/PTEN
+complex	NHERF/PDGFRB
+complex	NCK1-2/p130 Cas
+complex	LRP1/PDGFRB/PDGFB
+complex	HRAS/GTP
+complex	HRAS/GDP
+complex	Bovine Papilomavirus E5/PDGFRB
+chemical	mol:Sphingosine-1-phosphate
+chemical	mol:PI-4-5-P2
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	positive regulation of MAPKKK cascade
+abstract	chemotaxis
+abstract	cell proliferation
+abstract	cell migration
+abstract	cell cycle arrest
+abstract	actin cytoskeleton reorganization
+abstract	MAPKKK cascade
+p62DOK/Csk	BLK	-a|
+p62DOK/Csk	SRC	-a|
+p62DOK/Csk	FGR	-a|
+p62DOK/Csk	HCK	-a|
+p62DOK/Csk	LYN	-a|
+p62DOK/Csk	YES1	-a|
+p62DOK/Csk	FYN	-a|
+p62DOK/Csk	LCK	-a|
+mol:Sphingosine-1-phosphate	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	component>
+mol:Sphingosine-1-phosphate	S1P1/Sphingosine-1-phosphate	component>
+mol:PI-4-5-P2	ABL1	-a>
+mol:IP3	mol:Ca2+	-a>
+mol:GTP	HRAS/GTP	component>
+mol:GDP	HRAS/GDP	component>
+mol:DAG	GO:0007205	-a>
+mol:Ca2+	GO:0007205	-a>
+SPHK1	PLCgamma1/SPHK1	component>
+SNX15	PDGFB-D/PDGFRB/SNX15	component>
+DOK1	p62DOK/Csk	component>
+SLC9A3R2	NHERF1-2/PDGFRB/PTEN	component>
+SLC9A3R2	NHERF/PDGFRB	component>
+SHB	PDGFB-D/PDGFRB/SHB	component>
+GRB7	PDGFB-D/PDGFRB/GRB7/SHC	component>
+GRB7	PDGFB-D/PDGFRB/GRB7	component>
+GAB1	DNM2	-a>
+GRB10	PDGFB-D/PDGFRB/GRB10	component>
+SLA	PDGFB-D/PDGFRB/SLAP	component>
+PTPRJ	PDGFB-D/PDGFRB/DEP1	component>
+LRP1	LRP1/PDGFRB/PDGFB	component>
+SOS1	SHC/Grb2/SOS1	component>
+PTPN11	PDGFB-D/PDGFRB/SHP2	component>
+RAC1	MYC	-t>
+GRB2	SHC/Grb2/SOS1	component>
+PTEN	NHERF1-2/PDGFRB/PTEN	component>
+BCAR1	NCK1-2/p130 Cas	component>
+VAV2	RAC1	-a>
+STAT5B	STAT1-3-5/STAT1-3-5	component>
+BLK	GAB1	-a>
+BLK	VAV2	-a>
+BLK	ABL1	-a>
+BLK	PDGFB-D/PDGFRB/CBL	-a>
+DNM2	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	-a>
+PIK3CA	PI3K	component>
+STAT5A	STAT1-3-5/STAT1-3-5	component>
+STAT1	STAT1-3-5/STAT1-3-5	component>
+CSK	p62DOK/Csk	component>
+STAT3	STAT1-3-5/STAT1-3-5	component>
+AKT1	HIF1A	-a>
+SHC1	SHC/Grb2/SOS1	component>
+SHC1	PDGFB-D/PDGFRB/GRB7/SHC	component>
+PIK3R1	PI3K	component>
+ACP1	PDGFB-D/PDGFRB/LMW-PTP	component>
+CBL	PDGFB-D/PDGFRB/CBL	component>
+CBL	PDGFB-D/PDGFRB/APS/CBL	component>
+EDG1	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	component>
+EDG1	S1P1/Sphingosine-1-phosphate	component>
+RASA1	HRAS/GDP	-a>
+PLCG1	mol:IP3	-a>
+PLCG1	mol:DAG	-a>
+PLCG1	ABL1	-a>
+PLCG1	PLCgamma1/SPHK1	component>
+PTPN1	PDGFB-D/PDGFRB	-a>
+PTPN2	PDGFB-D/PDGFRB	-a>
+NCK1	NCK1-2/p130 Cas	component>
+SRC	GAB1	-a>
+SRC	VAV2	-a>
+SRC	ABL1	-a>
+SRC	PDGFB-D/PDGFRB/CBL	-a>
+FGR	GAB1	-a>
+FGR	VAV2	-a>
+FGR	ABL1	-a>
+FGR	PDGFB-D/PDGFRB/CBL	-a>
+PDGFRB	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	component>
+PDGFRB	PDGFB-D/PDGFRB/SNX15	component>
+PDGFRB	PDGFB-D/PDGFRB/SLAP	component>
+PDGFRB	PDGFB-D/PDGFRB/SHP2	component>
+PDGFRB	PDGFB-D/PDGFRB/SHB	component>
+PDGFRB	PDGFB-D/PDGFRB/LMW-PTP	component>
+PDGFRB	PDGFB-D/PDGFRB/GRB7/SHC	component>
+PDGFRB	PDGFB-D/PDGFRB/GRB7	component>
+PDGFRB	PDGFB-D/PDGFRB/GRB10	component>
+PDGFRB	PDGFB-D/PDGFRB/DEP1	component>
+PDGFRB	PDGFB-D/PDGFRB/CBL	component>
+PDGFRB	PDGFB-D/PDGFRB/APS/CBL	component>
+PDGFRB	PDGFB-D/PDGFRB	component>
+PDGFRB	NHERF1-2/PDGFRB/PTEN	component>
+PDGFRB	NHERF/PDGFRB	component>
+PDGFRB	LRP1/PDGFRB/PDGFB	component>
+PDGFRB	Bovine Papilomavirus E5/PDGFRB	component>
+HCK	GAB1	-a>
+HCK	VAV2	-a>
+HCK	ABL1	-a>
+HCK	PDGFB-D/PDGFRB/CBL	-a>
+LYN	GAB1	-a>
+LYN	VAV2	-a>
+LYN	ABL1	-a>
+LYN	PDGFB-D/PDGFRB/CBL	-a>
+YES1	GAB1	-a>
+YES1	VAV2	-a>
+YES1	ABL1	-a>
+YES1	PDGFB-D/PDGFRB/CBL	-a>
+E5	Bovine Papilomavirus E5/PDGFRB	component>
+FYN	GAB1	-a>
+FYN	VAV2	-a>
+FYN	ABL1	-a>
+FYN	PDGFB-D/PDGFRB/CBL	-a>
+LCK	GAB1	-a>
+LCK	VAV2	-a>
+LCK	ABL1	-a>
+LCK	PDGFB-D/PDGFRB/CBL	-a>
+PDGFB	LRP1/PDGFRB/PDGFB	component>
+HRAS	HRAS/GTP	component>
+HRAS	HRAS/GDP	component>
+MYC	cell proliferation	-ap>
+ABL1	chemotaxis	-ap>
+ABL1	PLCG1	-a>
+NCK2	NCK1-2/p130 Cas	component>
+SLC9A3R1	NHERF1-2/PDGFRB/PTEN	component>
+SLC9A3R1	NHERF/PDGFRB	component>
+SH2B2	PDGFB-D/PDGFRB/APS/CBL	component>
+SHC/Grb2/SOS1	MAPKKK cascade	-ap>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	BLK	-a>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	SRC	-a>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	FGR	-a>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	HCK	-a>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	LYN	-a>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	YES1	-a>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	FYN	-a>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	LCK	-a>
+PLCgamma1/SPHK1	mol:Sphingosine-1-phosphate	-a>
+PI3K	AKT1	-a>
+PDGFB-D/PDGFRB/SLAP	cell cycle arrest	-ap>
+PDGFB-D/PDGFRB/SHP2	positive regulation of MAPKKK cascade	-ap>
+PDGFB-D/PDGFRB/SHB	actin cytoskeleton reorganization	-ap>
+PDGFB-D/PDGFRB	DOK1	-a>
+PDGFB-D/PDGFRB	GAB1	-a>
+PDGFB-D/PDGFRB	PRKCD	-a>
+PDGFB-D/PDGFRB	BLK	-a>
+PDGFB-D/PDGFRB	RASA1	-a>
+PDGFB-D/PDGFRB	PLCG1	-a|
+PDGFB-D/PDGFRB	PLCG1	-a>
+PDGFB-D/PDGFRB	FER	-a>
+PDGFB-D/PDGFRB	SRC	-a>
+PDGFB-D/PDGFRB	FGR	-a>
+PDGFB-D/PDGFRB	HCK	-a>
+PDGFB-D/PDGFRB	LYN	-a>
+PDGFB-D/PDGFRB	YES1	-a>
+PDGFB-D/PDGFRB	FYN	-a>
+PDGFB-D/PDGFRB	LCK	-a>
+PDGFB-D/PDGFRB	STAT1-3-5/STAT1-3-5	-a>
+PDGFB-D/PDGFRB	SHC/Grb2/SOS1	-a>
+PDGFB-D/PDGFRB	PI3K	-a>
+PDGFB-D/PDGFRB	NCK1-2/p130 Cas	-a>
+NHERF1-2/PDGFRB/PTEN	PI3K	-a|
+NHERF/PDGFRB	cell migration	-ap>
+NCK1-2/p130 Cas	actin cytoskeleton reorganization	-ap>
+HRAS/GDP	MAPKKK cascade	-ap|
+Bovine Papilomavirus E5/PDGFRB	PLCG1	-a>
+Bovine Papilomavirus E5/PDGFRB	PI3K	-a>

@@ -1,0 +1,22 @@
+complex	I-kappa-B-alpha/RELA/p50
+complex	NF-kappa-B
+complex	p300/CBP
+complex	p300/CBP/RELA/p50
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+smallMolecule	TSA
+abstract	degradation
+protein	NFKBIA
+protein	HDAC3
+HDAC3	NF-kappa-B	-a>
+p300/CBP/RELA/p50	NF-kappa-B	-a>
+NFKBIA	NFKBIA	-a>
+NF-kappa-B	NF-kappa-B	-a>
+TSA	HDAC3	-a>
+NF-kappa-B	I-kappa-B-alpha/RELA/p50	component>
+NFKBIA	I-kappa-B-alpha/RELA/p50	component>
+NF-kappa-B	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+p300/CBP/RELA/p50	NFKBIA	-t>
+I-kappa-B-alpha/RELA/p50	I-kappa-B-alpha/RELA/p50	-a>
+NF-kappa-B	p300/CBP/RELA/p50	component>
+p300/CBP	p300/CBP/RELA/p50	component>

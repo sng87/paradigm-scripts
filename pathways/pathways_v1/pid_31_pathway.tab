@@ -1,0 +1,73 @@
+protein	HIF3A
+protein	HIF1AN
+protein	EGLN3
+protein	EGLN1
+protein	EGLN2
+protein	COPS5
+protein	CDKN2A
+protein	HIF1A
+protein	TCEB2
+protein	TCEB1
+protein	CUL2
+protein	OS9
+protein	GNB2L1
+protein	RBX1
+protein	ARD1A
+protein	VHL
+protein	ARNT
+protein	HSP90AA1
+protein	TP53
+complex	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A
+complex	VHL/Elongin B/Elongin C/RBX1/CUL2
+complex	RACK1/Elongin B/Elongin C
+complex	PHD1-3/OS9
+complex	HIF1A/p53
+complex	HIF1A/p19ARF
+complex	HIF1A/RACK1/Elongin B/Elongin C
+complex	HIF1A/JAB1
+complex	HIF1A/Hsp90
+complex	HIF1A/ARNT
+complex	FIH (dimer)
+complex	ARNT/IPAS
+abstract	response to hypoxia
+abstract	oxygen homeostasis
+response to hypoxia	HIF1A	-ap>
+oxygen homeostasis	HIF1A	-ap>
+HIF3A	ARNT/IPAS	component>
+HIF1AN	FIH (dimer)	component>
+EGLN3	PHD1-3/OS9	component>
+EGLN1	PHD1-3/OS9	component>
+EGLN2	PHD1-3/OS9	component>
+COPS5	HIF1A/JAB1	component>
+CDKN2A	HIF1A/p19ARF	component>
+HIF1A	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+HIF1A	HIF1A/p53	component>
+HIF1A	HIF1A/p19ARF	component>
+HIF1A	HIF1A/RACK1/Elongin B/Elongin C	component>
+HIF1A	HIF1A/JAB1	component>
+HIF1A	HIF1A/Hsp90	component>
+HIF1A	HIF1A/ARNT	component>
+TCEB2	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+TCEB2	VHL/Elongin B/Elongin C/RBX1/CUL2	component>
+TCEB2	RACK1/Elongin B/Elongin C	component>
+TCEB2	HIF1A/RACK1/Elongin B/Elongin C	component>
+TCEB1	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+TCEB1	VHL/Elongin B/Elongin C/RBX1/CUL2	component>
+TCEB1	RACK1/Elongin B/Elongin C	component>
+TCEB1	HIF1A/RACK1/Elongin B/Elongin C	component>
+CUL2	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+CUL2	VHL/Elongin B/Elongin C/RBX1/CUL2	component>
+OS9	PHD1-3/OS9	component>
+GNB2L1	RACK1/Elongin B/Elongin C	component>
+GNB2L1	HIF1A/RACK1/Elongin B/Elongin C	component>
+RBX1	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+RBX1	VHL/Elongin B/Elongin C/RBX1/CUL2	component>
+ARD1A	HIF1A	-a>
+VHL	VHL/Elongin B/Elongin C/RBX1/CUL2/HIF1A	component>
+VHL	VHL/Elongin B/Elongin C/RBX1/CUL2	component>
+ARNT	HIF1A/ARNT	component>
+ARNT	ARNT/IPAS	component>
+HSP90AA1	HIF1A/Hsp90	component>
+TP53	HIF1A/p53	component>
+PHD1-3/OS9	HIF1A	-a>
+FIH (dimer)	HIF1A	-a>

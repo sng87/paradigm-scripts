@@ -1,0 +1,140 @@
+protein	IL19
+protein	IL23A
+protein	IL17F
+protein	IL23R
+protein	IL17A
+protein	STAT4
+protein	IL18
+protein	IL18R1
+protein	IL24
+protein	CXCL9
+protein	RELA
+protein	IL2
+protein	IL12RB1
+protein	PIK3CA
+protein	STAT5A
+protein	STAT1
+protein	STAT3
+protein	NOS2
+protein	TYK2
+protein	IL12B
+protein	PIK3R1
+protein	ITGA3
+protein	NFKBIA
+protein	NFKB1
+protein	CCL2
+protein	CXCL1
+protein	CD3E
+protein	IL6
+protein	MPO
+protein	CD4
+protein	IL1B
+protein	IFNG
+protein	TNF
+protein	IL18RAP
+protein	ALOX12B
+protein	JAK2
+protein	SOCS3
+complex	STAT5A (dimer)
+complex	STAT4 (dimer)
+complex	STAT3/STAT4
+complex	STAT3 (dimer)
+complex	STAT1 (dimer)
+complex	PI3K
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+complex	IL23R/JAK2
+complex	IL23/IL23R/JAK2/TYK2/SOCS3
+complex	IL23/IL23R/JAK2/TYK2
+complex	IL23
+complex	IL18/IL18R
+complex	IL12Rbeta1/TYK2
+abstract	positive regulation of tyrosine phosphorylation of STAT protein
+abstract	positive regulation of humoral immune response
+abstract	positive regulation of dendritic cell antigen processing and presentation
+abstract	positive regulation of chronic inflammatory response
+abstract	positive regulation of T cell mediated cytotoxicity
+abstract	natural killer cell activation
+abstract	macrophage activation
+abstract	keratinocyte proliferation
+abstract	T-helper cell lineage commitment
+abstract	T cell proliferation
+positive regulation of tyrosine phosphorylation of STAT protein	IFNG	-ap>
+natural killer cell activation	IFNG	-ap>
+macrophage activation	ITGA3	-ap>
+macrophage activation	IL6	-ap>
+macrophage activation	IL1B	-ap>
+macrophage activation	TNF	-ap>
+IL23A	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+IL23A	IL23/IL23R/JAK2/TYK2	component>
+IL23A	IL23	component>
+IL23R	IL23R/JAK2	component>
+IL23R	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+IL23R	IL23/IL23R/JAK2/TYK2	component>
+STAT4	STAT4 (dimer)	component>
+STAT4	STAT3/STAT4	component>
+IL18	IL18/IL18R	component>
+IL18R1	IL18/IL18R	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+IL2	IFNG	-t>
+IL12RB1	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+IL12RB1	IL23/IL23R/JAK2/TYK2	component>
+IL12RB1	IL12Rbeta1/TYK2	component>
+PIK3CA	PI3K	component>
+STAT5A	STAT5A (dimer)	component>
+STAT1	STAT1 (dimer)	component>
+STAT3	STAT3/STAT4	component>
+STAT3	STAT3 (dimer)	component>
+TYK2	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+TYK2	IL23/IL23R/JAK2/TYK2	component>
+TYK2	IL12Rbeta1/TYK2	component>
+IL12B	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+IL12B	IL23/IL23R/JAK2/TYK2	component>
+IL12B	IL23	component>
+PIK3R1	PI3K	component>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha	component>
+IL1B	IL23A	-t>
+IFNG	IL23R	-t|
+TNF	IL23A	-t>
+IL18RAP	IL18/IL18R	component>
+JAK2	IL23R/JAK2	component>
+JAK2	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+JAK2	IL23/IL23R/JAK2/TYK2	component>
+SOCS3	IL23/IL23R/JAK2/TYK2/SOCS3	component>
+T-helper cell lineage commitment	IL17F	-ap>
+T-helper cell lineage commitment	IL17A	-ap>
+STAT3 (dimer)	IL17F	-t>
+STAT3 (dimer)	IL17A	-t>
+PI3K	STAT3 (dimer)	-a>
+NF kappa B1 p50/RelA/I kappa B alpha	IL23A	-t>
+NF kappa B1 p50/RelA/I kappa B alpha	IL17A	-t>
+IL23/IL23R/JAK2/TYK2	positive regulation of humoral immune response	-ap>
+IL23/IL23R/JAK2/TYK2	positive regulation of chronic inflammatory response	-ap>
+IL23/IL23R/JAK2/TYK2	positive regulation of T cell mediated cytotoxicity	-ap>
+IL23/IL23R/JAK2/TYK2	keratinocyte proliferation	-ap>
+IL23/IL23R/JAK2/TYK2	IL19	-t>
+IL23/IL23R/JAK2/TYK2	IL23R	-t>
+IL23/IL23R/JAK2/TYK2	IL24	-t>
+IL23/IL23R/JAK2/TYK2	CXCL9	-t>
+IL23/IL23R/JAK2/TYK2	NOS2	-t>
+IL23/IL23R/JAK2/TYK2	ITGA3	-t>
+IL23/IL23R/JAK2/TYK2	CCL2	-t>
+IL23/IL23R/JAK2/TYK2	CXCL1	-t>
+IL23/IL23R/JAK2/TYK2	CD3E	-t>
+IL23/IL23R/JAK2/TYK2	IL6	-t>
+IL23/IL23R/JAK2/TYK2	MPO	-t>
+IL23/IL23R/JAK2/TYK2	CD4	-t>
+IL23/IL23R/JAK2/TYK2	IL1B	-t>
+IL23/IL23R/JAK2/TYK2	IFNG	-t>
+IL23/IL23R/JAK2/TYK2	TNF	-t>
+IL23/IL23R/JAK2/TYK2	ALOX12B	-t>
+IL23/IL23R/JAK2/TYK2	T cell proliferation	-ap>
+IL23/IL23R/JAK2/TYK2	STAT5A (dimer)	-a>
+IL23/IL23R/JAK2/TYK2	STAT4 (dimer)	-a>
+IL23/IL23R/JAK2/TYK2	STAT3/STAT4	-a>
+IL23/IL23R/JAK2/TYK2	STAT3 (dimer)	-a>
+IL23/IL23R/JAK2/TYK2	STAT1 (dimer)	-a>
+IL23/IL23R/JAK2/TYK2	PI3K	-a>
+IL23/IL23R/JAK2/TYK2	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+IL23	positive regulation of dendritic cell antigen processing and presentation	-ap>
+IL18/IL18R	IFNG	-t>

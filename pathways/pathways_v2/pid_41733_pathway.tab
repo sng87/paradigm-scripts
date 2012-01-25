@@ -1,0 +1,21 @@
+smallMolecule	N-acetylisoniazid
+smallMolecule	CoA
+protein	UniProt:P11245 NAT2
+smallMolecule	Isoniazid
+smallMolecule	NAT1 acetylated conjugate
+smallMolecule	Sulfanilamide
+smallMolecule	Acetyl-CoA
+protein	NAT1
+NAT1	NAT1 acetylated conjugate	-a>
+Sulfanilamide	NAT1 acetylated conjugate	-a>
+Sulfanilamide	NAT1	-a>
+Isoniazid	UniProt:P11245 NAT2	-a>
+Isoniazid	N-acetylisoniazid	-a>
+UniProt:P11245 NAT2	N-acetylisoniazid	-a>
+Acetyl-CoA	NAT1	-a>
+NAT1	NAT1	-a>
+NAT1	CoA	-a>
+UniProt:P11245 NAT2	UniProt:P11245 NAT2	-a>
+UniProt:P11245 NAT2	CoA	-a>
+Acetyl-CoA	UniProt:P11245 NAT2	-a>
+Acetyl-CoA	CoA	-a>

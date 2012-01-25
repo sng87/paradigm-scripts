@@ -1,0 +1,31 @@
+complex	SHC/GRB2/SOS-1
+complex	SHP-2/GRB2/SOS-1
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS
+complex	STAT3/STAT3
+smallMolecule	nucleoside diphosphate
+complex	STAT3/STAT3/STAT3/STAT3
+complex	IL-6R-alpha/IL-6R-alpha/GP130/GP130
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130
+complex	NF-IL-6/NF-IL-6
+protein	JAKs
+smallMolecule	guanosine 5`-triphosphate
+protein	STAT3
+protein	IL6
+protein	HRAS
+protein	CEBPB
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	SHC/GRB2/SOS-1	-a>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	SHP-2/GRB2/SOS-1	-a>
+JAKs	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	component>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	component>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	STAT3	-a>
+CEBPB	NF-IL-6/NF-IL-6	component>
+STAT3/STAT3	STAT3/STAT3/STAT3/STAT3	component>
+SHP-2/GRB2/SOS-1	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+STAT3	STAT3/STAT3	component>
+IL-6R-alpha/IL-6R-alpha/GP130/GP130	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	component>
+IL6	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	component>
+STAT3/STAT3	STAT3/STAT3	-a>

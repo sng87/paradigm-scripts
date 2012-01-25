@@ -1,0 +1,49 @@
+protein	SRC (cleaved)_0-0
+protein	Paxillin (cleaved)_0-0
+protein	RHO (cleaved)_0-0
+complex	Calpain1
+protein	Ezrin (cleaved)_0-0
+complex	Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin
+protein	Talin (cleaved)_0-0
+protein	FAK (cleaved)_0-0
+protein	VIL2
+complex	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin
+complex	Integrin-alpha/Integrin-beta/ECM
+abstract	degradation
+protein	alpha-actinin
+smallMolecule	Ca2+
+protein	TLN1
+protein	SPTAN1
+protein	RHOA
+protein	RAC1
+protein	PXN
+protein	ACTA1
+RAC1	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+RHOA	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+Calpain1	RHO (cleaved)_0-0	-a>
+Calpain1	Integrin-alpha/Integrin-beta/ECM	component>
+Ca2+	Calpain1	-a>
+Calpain1	RAC1	-a>
+FAK (cleaved)_0-0	degradation	-ap>
+SRC (cleaved)_0-0	degradation	-ap>
+alpha-actinin	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+VIL2	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+ACTA1	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+SPTAN1	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+TLN1	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+PXN	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+Integrin-alpha/Integrin-beta/ECM	Paxillin/alpha-actinin/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	component>
+Ca2+	Ca2+	-a>
+SPTAN1	degradation	-ap>
+Ezrin (cleaved)_0-0	degradation	-ap>
+RHOA	RHO (cleaved)_0-0	-a>
+Talin (cleaved)_0-0	degradation	-ap>
+Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	Ezrin (cleaved)_0-0	component>
+Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	SRC (cleaved)_0-0	component>
+Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	FAK (cleaved)_0-0	component>
+Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	Talin (cleaved)_0-0	component>
+Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	Paxillin (cleaved)_0-0	component>
+Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	SPTAN1	component>
+Paxillin/FAK/Talin/SPTAN1/Integrin-alpha/Integrin-beta/ECM/SRC/Ezrin	Integrin-alpha/Integrin-beta/ECM	component>
+RHO (cleaved)_0-0	degradation	-ap>
+Paxillin (cleaved)_0-0	degradation	-ap>

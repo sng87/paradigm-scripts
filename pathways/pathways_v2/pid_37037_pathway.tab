@@ -1,0 +1,171 @@
+abstract	Endothelial Cell
+abstract	Myofibroblast
+abstract	regulation of stress fiber formation
+abstract	T-Lymphocyte
+abstract	actin polymerization or depolymerization
+abstract	cAMP biosynthetic process
+abstract	chemotaxis
+abstract	cell adhesion
+abstract	cell proliferation
+abstract	clathrin coat assembly
+protein	MEK1-2
+complex	alphaL/beta2 Integrin
+complex	GNAI3/GDP
+complex	RAS family/GTP
+complex	CXCL4/CXCR3-B
+complex	RAS family/GDP
+protein	MKK3-MKK6-active
+complex	GNAI2/GTP
+protein	ERK1-2-active
+complex	CXCL13/CXCR3
+complex	CCL11/CXCR3
+complex	PI3K Class IA family
+protein	MEK1-2-active
+protein	ERK1-2
+protein	MKK3-MKK6
+complex	CXCL10/CXCR3
+complex	Gi family/GNB1/GNG2/GDP
+complex	CXCR3-alt/GNAI2/GDP/G beta/gamma
+complex	CXCL4/CXCR3
+complex	CXCL9-11/CXCR3
+complex	mTORC2
+complex	Gi family/GTP
+protein	p38alpha-beta-active
+complex	CXCL11/CXCR3
+complex	CXCR3/GNAI2/GDP/G beta/gamma
+smallMolecule	PI-3-4-5-P3
+complex	CXCL11/CXCR3-alt
+protein	p38alpha-beta
+smallMolecule	PI-4-5-P2
+smallMolecule	Ca2+
+protein	CXCR3-B
+complex	CXCL9-11/CXCR3-B
+complex	GNB1/GNG2
+complex	CXCL9/CXCR3
+protein	CXCL9-11
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SRC
+protein	RAF1
+protein	PF4
+protein	PDPK1
+protein	DNM1
+protein	CXCL9
+protein	CXCL13
+protein	CXCL11
+protein	CXCL10
+protein	CCL11
+protein	ARRB1
+protein	AKT1
+ARRB1	CXCL10/CXCR3	-a>
+DNM1	CXCL10/CXCR3	-a>
+CCL11/CXCR3	Ca2+	-a|
+Endothelial Cell	CXCL9-11/CXCR3-B	component>
+CXCL9-11/CXCR3	regulation of stress fiber formation	-ap>
+MEK1-2-active	ERK1-2-active	-a>
+PDPK1	AKT1	-a>
+SRC	RAS family/GTP	-a>
+CXCL13/CXCR3	Ca2+	-a|
+CXCL9-11/CXCR3-B	cell proliferation	-ap|
+CXCL4/CXCR3-B	MKK3-MKK6-active	-a>
+RAF1	MEK1-2-active	-a>
+CXCL10/CXCR3	cell adhesion	-ap>
+CXCL9-11/CXCR3-B	MKK3-MKK6-active	-a>
+CXCL4/CXCR3	Gi family/GTP	component>
+T-Lymphocyte	Gi family/GTP	component>
+PI3K Class IA family	PI-3-4-5-P3	-a>
+CXCL4/CXCR3-B	cell proliferation	-ap|
+MKK3-MKK6-active	p38alpha-beta-active	-a>
+GNAI3/GDP	chemotaxis	-ap|
+GNAI2/GTP	chemotaxis	-ap>
+GNB1/GNG2	cell adhesion	-ap>
+CXCL9/CXCR3	cell adhesion	-ap>
+CXCL4/CXCR3	Ca2+	-a>
+GNB1/GNG2	p38alpha-beta-active	-a>
+clathrin coat assembly	CXCL10/CXCR3	-a>
+PF4	CXCL4/CXCR3-B	component>
+PF4	CXCL9-11/CXCR3-B	component>
+CXCR3-B	CXCL4/CXCR3-B	component>
+CXCR3-B	CXCL9-11/CXCR3-B	component>
+CXCL9-11	CXCL4/CXCR3-B	component>
+CXCL9-11	CXCL9-11/CXCR3-B	component>
+Myofibroblast	regulation of stress fiber formation	-ap>
+GTP	CXCL9/CXCR3	component>
+CXCR3/GNAI2/GDP/G beta/gamma	CXCL9/CXCR3	component>
+CXCL9	GDP	component>
+CXCL9	GNB1/GNG2	component>
+CXCL9	GNAI2/GTP	component>
+CXCL9	CXCL9/CXCR3	component>
+CXCL13/CXCR3	chemotaxis	-ap>
+ERK1-2	ERK1-2-active	-a>
+CXCL9-11/CXCR3	Ca2+	-a>
+CXCL4/CXCR3-B	cAMP biosynthetic process	-ap>
+PI-3-4-5-P3	AKT1	-a>
+GTP	GDP	-a>
+GTP	RAS family/GTP	-a>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+CXCL10/CXCR3	Ca2+	-a>
+mTORC2	AKT1	-a>
+GNB1/GNG2	PI3K Class IA family	-a>
+CXCL9-11/CXCR3-B	cAMP biosynthetic process	-ap>
+GTP	CXCL13/CXCR3	component>
+CXCR3/GNAI2/GDP/G beta/gamma	CXCL13/CXCR3	component>
+CXCL10	CXCL13/CXCR3	component>
+CXCL13	GDP	component>
+CXCL13	GNB1/GNG2	component>
+CXCL13	GNAI2/GTP	component>
+CXCL13	CXCL10/CXCR3	component>
+CXCL13	CXCL13/CXCR3	component>
+RAS family/GTP	RAF1	-a>
+MEK1-2	MEK1-2-active	-a>
+T-Lymphocyte	cell adhesion	-ap>
+Gi family/GTP	chemotaxis	-ap>
+GTP	CXCL10/CXCR3	component>
+GTP	CCL11/CXCR3	component>
+CXCR3/GNAI2/GDP/G beta/gamma	CXCL10/CXCR3	component>
+CXCR3/GNAI2/GDP/G beta/gamma	CCL11/CXCR3	component>
+CXCL10	GDP	component>
+CXCL10	GNB1/GNG2	component>
+CXCL10	GNAI2/GTP	component>
+CXCL10	CXCL10/CXCR3	component>
+CXCL10	CCL11/CXCR3	component>
+CCL11	GDP	component>
+CCL11	GNB1/GNG2	component>
+CCL11	GNAI2/GTP	component>
+CCL11	CXCL10/CXCR3	component>
+CCL11	CCL11/CXCR3	component>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+GTP	Gi family/GTP	component>
+Gi family/GNB1/GNG2/GDP	GDP	component>
+Gi family/GNB1/GNG2/GDP	GNB1/GNG2	component>
+Gi family/GNB1/GNG2/GDP	Gi family/GTP	component>
+T-Lymphocyte	CXCL11/CXCR3	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+ERK1-2-active	cell proliferation	-ap>
+GNB1/GNG2	SRC	-a>
+p38alpha-beta-active	cell proliferation	-ap|
+GTP	CXCL11/CXCR3-alt	component>
+CXCR3-alt/GNAI2/GDP/G beta/gamma	GDP	component>
+CXCR3-alt/GNAI2/GDP/G beta/gamma	GNB1/GNG2	component>
+CXCR3-alt/GNAI2/GDP/G beta/gamma	GNAI2/GTP	component>
+CXCR3-alt/GNAI2/GDP/G beta/gamma	CXCL11/CXCR3-alt	component>
+CXCL11	CXCL11/CXCR3-alt	component>
+T-Lymphocyte	chemotaxis	-ap>
+alphaL/beta2 Integrin	cell adhesion	-ap>
+T-Lymphocyte	Ca2+	-a>
+GTP	GDP	component>
+GTP	GNB1/GNG2	component>
+GTP	GNAI2/GTP	component>
+GTP	CXCL11/CXCR3	component>
+CXCR3/GNAI2/GDP/G beta/gamma	GDP	component>
+CXCR3/GNAI2/GDP/G beta/gamma	GNB1/GNG2	component>
+CXCR3/GNAI2/GDP/G beta/gamma	GNAI2/GTP	component>
+CXCR3/GNAI2/GDP/G beta/gamma	CXCL11/CXCR3	component>
+CXCL11	GDP	component>
+CXCL11	GNB1/GNG2	component>
+CXCL11	GNAI2/GTP	component>
+CXCL11	CXCL11/CXCR3	component>
+p38alpha-beta-active	chemotaxis	-ap>
+p38alpha-beta	p38alpha-beta-active	-a>
+GNB1/GNG2	actin polymerization or depolymerization	-ap>

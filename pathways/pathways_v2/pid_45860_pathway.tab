@@ -1,0 +1,68 @@
+abstract	Golgi vesicle transport
+abstract	membrane budding
+protein	PFK
+smallMolecule	PIP
+smallMolecule	PIP2
+abstract	cell survival
+abstract	cell migration
+abstract	cell proliferation
+smallMolecule	DAG
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	PIP3
+protein	VAV2
+protein	RPS6KB1
+protein	RAC1
+protein	RAB5A
+protein	PRKCZ
+protein	PRKCE
+protein	PLCG1
+protein	PDPK1
+protein	LYN
+protein	GTF3A
+protein	GSK3B
+protein	GSK3A
+protein	GRASP
+protein	EEA1
+protein	BTK
+protein	BAD
+protein	ARF1
+protein	AKT1
+PLCG1	DAG	-a>
+PIP	EEA1	-a>
+PDPK1	RPS6KB1	-a>
+LYN	BTK	-a>
+PIP3	VAV2	-a>
+GSK3A	cell survival	-ap>
+BAD	cell survival	-ap|
+GRASP	ARF1	-a>
+AKT1	PFK	-a>
+PIP3	PLCG1	-a>
+PDPK1	PRKCE	-a>
+EEA1	Golgi vesicle transport	-ap>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+PIP3	GRASP	-a>
+PIP2	PDPK1	-a>
+RAC1	cell migration	-ap>
+GSK3B	cell survival	-ap>
+PIP3	PRKCE	-a>
+AKT1	GSK3A	-a>
+Ca2+	cell proliferation	-ap>
+AKT1	GSK3B	-a>
+PIP2	PRKCE	-a>
+PRKCZ	cell proliferation	-ap>
+PDPK1	AKT1	-a>
+IP3	Ca2+	-a>
+PIP3	PRKCZ	-a>
+AKT1	BAD	-a>
+PIP3	BTK	-a>
+PIP2	PRKCZ	-a>
+ARF1	membrane budding	-ap>
+PFK	cell survival	-ap>
+PRKCE	cell proliferation	-ap>
+PIP3	PDPK1	-a>
+RAB5A	EEA1	-a>
+BTK	PLCG1	-a>
+VAV2	RAC1	-a>
+PIP	GTF3A	-a>

@@ -1,0 +1,25 @@
+complex	Antigen-bearing MHC Class II: TCR with dephosphorylated CD3 zeta chain:CD4
+complex	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4
+complex	SHP-1/SHP-2 bound to phospho PD-1
+protein	SHP-2/SHP-1
+complex	Phosphorylated PD-1 bound to B7DC/B7H1
+protein	Lck/Csk
+smallMolecule	PPi
+protein	PD-1 ligands
+complex	PD-1:PD-1 ligands
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PDCD1
+SHP-1/SHP-2 bound to phospho PD-1	PPi	-a>
+Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	Antigen-bearing MHC Class II: TCR with dephosphorylated CD3 zeta chain:CD4	-a>
+Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	PPi	-a>
+Phosphorylated PD-1 bound to B7DC/B7H1	SHP-1/SHP-2 bound to phospho PD-1	component>
+SHP-2/SHP-1	SHP-1/SHP-2 bound to phospho PD-1	component>
+PD-1:PD-1 ligands	ADP	component>
+PD-1:PD-1 ligands	Phosphorylated PD-1 bound to B7DC/B7H1	component>
+ATP	ADP	component>
+ATP	Phosphorylated PD-1 bound to B7DC/B7H1	component>
+Lck/Csk	ADP	component>
+Lck/Csk	Phosphorylated PD-1 bound to B7DC/B7H1	component>
+PDCD1	PD-1:PD-1 ligands	component>
+PD-1 ligands	PD-1:PD-1 ligands	component>

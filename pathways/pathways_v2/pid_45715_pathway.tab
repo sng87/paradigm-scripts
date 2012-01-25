@@ -1,0 +1,13 @@
+protein	P3_0-0
+complex	gamma-secretase precursor
+protein	amyloid-beta_0-0
+complex	Gamma Secretase
+protein	BACE1
+protein	APP
+protein	ADAM10
+Gamma Secretase	amyloid-beta_0-0	-a>
+BACE1	amyloid-beta_0-0	-a>
+ADAM10	amyloid-beta_0-0	-a>
+gamma-secretase precursor	Gamma Secretase	-a>
+APP	P3_0-0	-a>
+APP	amyloid-beta_0-0	-a>

@@ -1,0 +1,37 @@
+abstract	MHC class II biosynthetic process
+abstract	MHC class I biosynthetic process
+complex	MHC class II/peptide
+complex	Class I MHC
+protein	External Antigen
+complex	MHC class II/Ii
+complex	Class I MHC/peptide
+protein	LMP
+complex	Class I MHC(m)/peptide(ex)
+complex	MHC class II(m)/peptide(ex)
+complex	MHC class II
+abstract	degradation
+protein	peptide
+protein	TAP2
+protein	TAP1
+protein	KLK3
+protein	CD74
+LMP	degradation	-ap>
+Class I MHC/peptide	Class I MHC(m)/peptide(ex)	-a>
+MHC class II/peptide	MHC class II(m)/peptide(ex)	-a>
+peptide	Class I MHC/peptide	component>
+Class I MHC	Class I MHC/peptide	component>
+MHC class II	MHC class II biosynthetic process	-ap>
+peptide	MHC class II/peptide	component>
+MHC class II	MHC class II/peptide	component>
+MHC class II/Ii	MHC class II/Ii	-a>
+TAP2	peptide	-a>
+Class I MHC	MHC class I biosynthetic process	-ap>
+External Antigen	degradation	-ap>
+TAP1	peptide	-a>
+External Antigen	External Antigen	-a>
+CD74	MHC class II/Ii	component>
+MHC class II	MHC class II/Ii	component>
+MHC class II	degradation	-ap>
+MHC class II/Ii	degradation	-ap>
+peptide	degradation	-ap>
+KLK3	degradation	-ap>

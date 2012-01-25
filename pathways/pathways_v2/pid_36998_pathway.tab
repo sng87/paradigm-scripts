@@ -1,0 +1,83 @@
+complex	RAB5/GDP
+protein	MSK1-2
+complex	p38alpha-beta/MAPKAPK3
+complex	RAB5/GDP/GDI1
+complex	p38alpha-beta/HBP1
+complex	p38alpha-beta/CK2
+complex	p38alpha-beta/MAPKAPK2
+complex	CK2
+complex	ATF2/c-Jun
+protein	p38alpha-beta-active
+complex	p38alpha-beta/MNK1
+protein	USF1
+protein	TP53
+protein	SLC9A1
+protein	PTGS2
+protein	PPARGC1A
+protein	PLA2G4A
+protein	NOS2
+protein	MKNK1
+protein	MITF
+protein	MEF2C
+protein	MEF2A
+protein	MAPKAPK5
+protein	MAPKAPK3
+protein	MAPKAPK2
+protein	KRT8
+protein	KRT19
+protein	JUN
+protein	HSPB1
+protein	HBP1
+protein	GDI1
+protein	ESR1
+protein	ELK4
+protein	EIF4EBP1
+protein	EIF4E
+protein	DDIT3
+protein	CREB1
+protein	CEBPB
+protein	ATF6
+protein	ATF2
+protein	ATF1
+HBP1	p38alpha-beta/HBP1	component>
+p38alpha-beta-active	p38alpha-beta/HBP1	component>
+p38alpha-beta-active	PTGS2	-t>
+CK2	p38alpha-beta/CK2	component>
+p38alpha-beta-active	p38alpha-beta/CK2	component>
+p38alpha-beta-active	MEF2A	-a>
+p38alpha-beta/MNK1	PLA2G4A	-a>
+ATF2/c-Jun	JUN	-t>
+p38alpha-beta-active	MSK1-2	-a>
+p38alpha-beta-active	SLC9A1	-a>
+MKNK1	p38alpha-beta/MNK1	component>
+p38alpha-beta-active	p38alpha-beta/MNK1	component>
+p38alpha-beta-active	GDI1	-a>
+p38alpha-beta-active	USF1	-a>
+MAPKAPK3	p38alpha-beta/MAPKAPK3	component>
+p38alpha-beta-active	p38alpha-beta/MAPKAPK3	component>
+MAPKAPK5	HSPB1	-a>
+p38alpha-beta/CK2	TP53	-a>
+p38alpha-beta-active	ATF6	-a>
+RAB5/GDP	RAB5/GDP/GDI1	component>
+GDI1	RAB5/GDP/GDI1	component>
+p38alpha-beta-active	KRT8	-a>
+p38alpha-beta-active	ESR1	-a>
+p38alpha-beta-active	MAPKAPK5	-a>
+p38alpha-beta-active	CEBPB	-a>
+MSK1-2	CREB1	-a>
+MAPKAPK2	p38alpha-beta/MAPKAPK2	component>
+p38alpha-beta-active	p38alpha-beta/MAPKAPK2	component>
+p38alpha-beta/MNK1	EIF4E	-a>
+p38alpha-beta-active	KRT19	-a>
+p38alpha-beta-active	NOS2	-t>
+p38alpha-beta-active	TP53	-a>
+p38alpha-beta-active	MEF2C	-a>
+JUN	ATF2/c-Jun	component>
+ATF2	ATF2/c-Jun	component>
+MSK1-2	EIF4EBP1	-a>
+p38alpha-beta-active	MITF	-a>
+p38alpha-beta-active	DDIT3	-a>
+p38alpha-beta-active	ATF2	-a>
+p38alpha-beta-active	PPARGC1A	-a>
+p38alpha-beta-active	ELK4	-a>
+MSK1-2	ATF1	-a>

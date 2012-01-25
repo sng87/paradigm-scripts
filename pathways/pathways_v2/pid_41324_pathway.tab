@@ -1,0 +1,19 @@
+complex	Neuropeptide receptor:Neuropeptide FF
+complex	Orexin 2 receptor:Orexin B peptide
+protein	Neuropeptide FF receptor
+complex	Orexin 1 receptor:Orexin A peptide
+complex	QRFP receptor:QRFP
+protein	QRFPR
+protein	QRFP
+protein	NPFF
+protein	HCRTR2
+protein	HCRTR1
+protein	HCRT
+NPFF	Neuropeptide receptor:Neuropeptide FF	component>
+Neuropeptide FF receptor	Neuropeptide receptor:Neuropeptide FF	component>
+HCRT	Orexin 2 receptor:Orexin B peptide	component>
+HCRTR2	Orexin 2 receptor:Orexin B peptide	component>
+HCRTR1	Orexin 1 receptor:Orexin A peptide	component>
+HCRT	Orexin 1 receptor:Orexin A peptide	component>
+QRFPR	QRFP receptor:QRFP	component>
+QRFP	QRFP receptor:QRFP	component>

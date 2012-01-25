@@ -1,0 +1,126 @@
+protein	NUDC
+protein	NDEL1
+protein	UniProt:Q4QZ09
+protein	PAFAH1B3
+protein	CDK5R1
+protein	PPP2R5D
+protein	DYNC1H1
+protein	LRP8
+protein	CDK5R2
+protein	PLA2G7
+protein	CDK5
+protein	VLDLR
+protein	RELN
+protein	PAFAH1B2
+protein	CSNK2A1
+protein	DYNLT1
+protein	RAC1
+protein	YWHAE
+protein	CALM1
+protein	RHOA
+protein	CDC42
+protein	IQGAP1
+protein	MAP1B
+protein	PAFAH1B1
+protein	CLIP1
+protein	LRPAP1
+protein	ABL1
+protein	DAB1
+protein	KATNA1
+protein	GO:0030286
+protein	GO:0005869
+complex	p35/CDK5
+complex	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3
+complex	RELN/VLDLR/DAB1/LIS1
+complex	RELN/VLDLR/DAB1
+complex	RELN/VLDLR
+complex	RELN/LRP8
+complex	PAFAH/LIS1
+complex	P39/CDK5
+complex	NDEL1/Katanin 60/Dynein heavy chain
+complex	NDEL1/Katanin 60
+complex	NDEL1/14-3-3 E
+complex	MAP1B/LIS1/Dynein heavy chain
+complex	LRPAP1/LRP8
+complex	LIS1/Poliovirus Protein 3A
+complex	LIS1/NudC/Dynein intermediate chain/microtubule organizing center
+complex	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain
+complex	LIS1/IQGAP1
+complex	LIS1/CLIP170/Dynein Complex/Dynactin Complex
+complex	LIS1/CLIP170
+complex	IQGAP1/CaM
+complex	CaM/Ca2+
+chemical	mol:PP1
+chemical	mol:Ca2+
+p35/CDK5	NDEL1	-a>
+mol:PP1	MAP1B	-a|
+mol:Ca2+	RAC1	-a>
+mol:Ca2+	RHOA	-a>
+mol:Ca2+	CDC42	-a>
+mol:Ca2+	CaM/Ca2+	component>
+NUDC	LIS1/NudC/Dynein intermediate chain/microtubule organizing center	component>
+NDEL1	NDEL1/Katanin 60/Dynein heavy chain	component>
+NDEL1	NDEL1/Katanin 60	component>
+NDEL1	NDEL1/14-3-3 E	component>
+NDEL1	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+UniProt:Q4QZ09	LIS1/Poliovirus Protein 3A	component>
+PAFAH1B3	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+CDK5R1	p35/CDK5	component>
+PPP2R5D	MAP1B	-a|
+DYNC1H1	NDEL1/Katanin 60/Dynein heavy chain	component>
+DYNC1H1	MAP1B/LIS1/Dynein heavy chain	component>
+DYNC1H1	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+LRP8	RELN/LRP8	component>
+LRP8	LRPAP1/LRP8	component>
+CDK5R2	P39/CDK5	component>
+PLA2G7	PAFAH/LIS1	component>
+CDK5	p35/CDK5	component>
+CDK5	P39/CDK5	component>
+VLDLR	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+VLDLR	RELN/VLDLR/DAB1/LIS1	component>
+VLDLR	RELN/VLDLR/DAB1	component>
+VLDLR	RELN/VLDLR	component>
+RELN	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+RELN	RELN/VLDLR/DAB1/LIS1	component>
+RELN	RELN/VLDLR/DAB1	component>
+RELN	RELN/VLDLR	component>
+RELN	RELN/LRP8	component>
+PAFAH1B2	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+CSNK2A1	MAP1B	-a>
+CSNK2A1	PAFAH1B1	-a>
+DYNLT1	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+YWHAE	NDEL1/14-3-3 E	component>
+CALM1	IQGAP1/CaM	component>
+CALM1	CaM/Ca2+	component>
+IQGAP1	LIS1/IQGAP1	component>
+IQGAP1	IQGAP1/CaM	component>
+MAP1B	MAP1B/LIS1/Dynein heavy chain	component>
+PAFAH1B1	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+PAFAH1B1	RELN/VLDLR/DAB1/LIS1	component>
+PAFAH1B1	PAFAH/LIS1	component>
+PAFAH1B1	MAP1B/LIS1/Dynein heavy chain	component>
+PAFAH1B1	LIS1/Poliovirus Protein 3A	component>
+PAFAH1B1	LIS1/NudC/Dynein intermediate chain/microtubule organizing center	component>
+PAFAH1B1	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+PAFAH1B1	LIS1/IQGAP1	component>
+PAFAH1B1	LIS1/CLIP170/Dynein Complex/Dynactin Complex	component>
+PAFAH1B1	LIS1/CLIP170	component>
+CLIP1	LIS1/CLIP170/Dynein Complex/Dynactin Complex	component>
+CLIP1	LIS1/CLIP170	component>
+LRPAP1	LRPAP1/LRP8	component>
+ABL1	CDK5	-a>
+DAB1	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+DAB1	RELN/VLDLR/DAB1/LIS1	component>
+DAB1	RELN/VLDLR/DAB1	component>
+KATNA1	NDEL1/Katanin 60/Dynein heavy chain	component>
+KATNA1	NDEL1/Katanin 60	component>
+KATNA1	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+RELN/LRP8	ABL1	-a>
+P39/CDK5	NDEL1	-a>
+LRPAP1/LRP8	RELN/VLDLR	-a|
+LRPAP1/LRP8	RELN/LRP8	-a|
+LIS1/IQGAP1	RAC1	-a>
+LIS1/IQGAP1	RHOA	-a>
+LIS1/IQGAP1	CDC42	-a>
+GO:0030286	LIS1/CLIP170/Dynein Complex/Dynactin Complex	component>
+GO:0005869	LIS1/CLIP170/Dynein Complex/Dynactin Complex	component>

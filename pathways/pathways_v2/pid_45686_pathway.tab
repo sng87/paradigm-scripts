@@ -1,0 +1,19 @@
+complex	Laminin/LAMR1
+protein	PrPsc
+protein	HSP40
+protein	Laminin
+protein	RPSA
+protein	PRNP
+protein	HSPA5
+protein	GFAP
+protein	DNAJB6
+protein	BCL2
+BCL2	PRNP	-a>
+DNAJB6	PRNP	-a>
+RPSA	Laminin/LAMR1	component>
+Laminin	Laminin/LAMR1	component>
+HSP40	PRNP	-a>
+HSPA5	PRNP	-a>
+Laminin/LAMR1	PRNP	-a>
+GFAP	PRNP	-a>
+PRNP	PrPsc	-a>

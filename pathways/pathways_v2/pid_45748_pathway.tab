@@ -1,0 +1,14 @@
+complex	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK1/JAK2/JAK2
+complex	IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK2
+complex	IFN-gamma R-beta/JAK2
+complex	IFN-gamma R-alpha/JAK1
+complex	STAT1/STAT1 (GAF)
+protein	STAT1
+protein	IFNG
+IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK2	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK1/JAK2/JAK2	component>
+IFNG	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK1/JAK2/JAK2	component>
+IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK1/JAK2/JAK2	STAT1	-a>
+IFN-gamma R-beta/JAK2	IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK2	component>
+IFN-gamma R-alpha/JAK1	IFN-gamma R-alpha/IFN-gamma R-beta/JAK1/JAK2	component>
+STAT1/STAT1 (GAF)	STAT1/STAT1 (GAF)	-a>
+STAT1	STAT1/STAT1 (GAF)	component>

@@ -1,0 +1,14 @@
+complex	LTB4 receptor:LTB4
+protein	cysLTR
+complex	cysLTR:cysteinyl leukotriene
+smallMolecule	Leukotriene E4
+complex	UDP/cycLT receptor:cysLTs
+smallMolecule	Leukotriene B4
+protein	LTB4 receptor
+protein	GPR17
+Leukotriene E4	cysLTR:cysteinyl leukotriene	component>
+cysLTR	cysLTR:cysteinyl leukotriene	component>
+Leukotriene E4	UDP/cycLT receptor:cysLTs	component>
+GPR17	UDP/cycLT receptor:cysLTs	component>
+Leukotriene B4	LTB4 receptor:LTB4	component>
+LTB4 receptor	LTB4 receptor:LTB4	component>

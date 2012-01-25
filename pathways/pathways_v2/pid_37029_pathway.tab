@@ -1,0 +1,123 @@
+abstract	collagen binding
+abstract	macrophage differentiation
+abstract	regulation of gluconeogenesis
+abstract	fibronectin binding
+abstract	receptor recycling
+abstract	positive regulation of S phase of mitotic cell cycle
+abstract	receptor internalization
+abstract	receptor clustering
+abstract	G1 phase of mitotic cell cycle
+abstract	G1/S transition of mitotic cell cycle
+abstract	response to stress
+abstract	MAPKKK cascade
+complex	EGFR/EGFR
+complex	VEGFR2 homodimer/VEGFA homodimer
+complex	STAT3 (dimer)
+complex	alpha1/beta1 Integrin
+complex	PI3K Class IA family
+complex	STAT1 (dimer)/TCPTP p45
+complex	GRB2/SOS1
+complex	STAT1 (dimer)/PIAS1
+complex	STAT6 (dimer)
+complex	RAB4A/GTP
+complex	STAT5A (dimer)
+protein	TCPTP p45
+complex	alpha1/beta1 Integrin/TCPTP p45
+complex	STAT1 (dimer)
+complex	STAT5B (dimer)
+complex	SHC/GRB2/SOS1
+complex	CSF1/CSF1R
+complex	HGF(dimer)/MET(dimer)
+complex	EGFR/EGFR/EGF/EGF/GRB2/GAB1
+protein	p52 SHC
+complex	PDGFB-D/PDGFRB
+complex	EGFR/EGFR/EGF/EGF
+complex	Insulin Receptor/Insulin
+smallMolecule	H2O2
+protein	STAT3
+protein	SRC
+protein	PTPN2
+protein	PTPN1
+protein	PIAS1
+protein	LMAN1
+protein	KPNB1
+protein	KPNA2
+protein	JAK3
+protein	JAK1
+protein	EIF2AK2
+protein	EIF2A
+protein	CREBBP
+protein	ATR
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	PI3K Class IA family	-a|
+TCPTP p45	STAT6 (dimer)	-a>
+collagen binding	alpha1/beta1 Integrin/TCPTP p45	component>
+receptor clustering	alpha1/beta1 Integrin/TCPTP p45	component>
+alpha1/beta1 Integrin/TCPTP p45	EGFR/EGFR/EGF/EGF	-a>
+KPNA2	TCPTP p45	-a>
+RAB4A/GTP	receptor recycling	-ap>
+TCPTP p45	PDGFB-D/PDGFRB	-a>
+alpha1/beta1 Integrin/TCPTP p45	VEGFR2 homodimer/VEGFA homodimer	-a>
+TCPTP p45	HGF(dimer)/MET(dimer)	-a>
+STAT3 (dimer)	positive regulation of S phase of mitotic cell cycle	-ap|
+SRC	positive regulation of S phase of mitotic cell cycle	-ap|
+ATR	positive regulation of S phase of mitotic cell cycle	-ap>
+TCPTP p45	STAT5B (dimer)	-a>
+TCPTP p45	EGFR/EGFR/EGF/EGF/GRB2/GAB1	-a>
+CREBBP	STAT1 (dimer)	-a>
+TCPTP p45	p52 SHC	component>
+TCPTP p45	CSF1/CSF1R	-a>
+TCPTP p45	STAT3 (dimer)	-a>
+EGFR/EGFR	PI3K Class IA family	-a|
+TCPTP p45	Insulin Receptor/Insulin	-a|
+PTPN1	Insulin Receptor/Insulin	-a>
+TCPTP p45	Insulin Receptor/Insulin	-a>
+EIF2A	STAT1 (dimer)	-a>
+TCPTP p45	STAT1 (dimer)	-a>
+TCPTP p45	STAT5A (dimer)	-a>
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	PI3K Class IA family	-a>
+STAT6 (dimer)	STAT6 (dimer)	-a>
+PIAS1	STAT1 (dimer)/TCPTP p45	component>
+PIAS1	STAT1 (dimer)/PIAS1	component>
+TCPTP p45	STAT1 (dimer)/TCPTP p45	component>
+TCPTP p45	STAT1 (dimer)/PIAS1	component>
+STAT1 (dimer)	STAT1 (dimer)/TCPTP p45	component>
+STAT1 (dimer)	STAT1 (dimer)/PIAS1	component>
+HGF(dimer)/MET(dimer)	TCPTP p45	-a>
+TCPTP p45	alpha1/beta1 Integrin/TCPTP p45	component>
+alpha1/beta1 Integrin	alpha1/beta1 Integrin/TCPTP p45	component>
+fibronectin binding	EGFR/EGFR	-a>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF	-a>
+KPNB1	TCPTP p45	-a>
+PDGFB-D/PDGFRB	receptor recycling	-ap>
+CSF1/CSF1R	macrophage differentiation	-ap|
+LMAN1	PTPN2	-a>
+H2O2	TCPTP p45	-a>
+TCPTP p45	EGFR/EGFR	-a>
+EIF2AK2	TCPTP p45	-a>
+TCPTP p45	JAK1	-a>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB	-a>
+VEGFR2 homodimer/VEGFA homodimer	VEGFR2 homodimer/VEGFA homodimer	-a>
+HGF(dimer)/MET(dimer)	HGF(dimer)/MET(dimer)	-a>
+response to stress	positive regulation of S phase of mitotic cell cycle	-ap>
+STAT5B (dimer)	STAT5B (dimer)	-a>
+EGFR/EGFR/EGF/EGF/GRB2/GAB1	EGFR/EGFR/EGF/EGF/GRB2/GAB1	-a>
+TCPTP p45	regulation of gluconeogenesis	-ap>
+SRC	G1/S transition of mitotic cell cycle	-ap|
+EIF2AK2	EIF2A	-a>
+SHC/GRB2/SOS1	GRB2/SOS1	component>
+SHC/GRB2/SOS1	p52 SHC	component>
+JAK1	STAT3	-a>
+TCPTP p45	JAK3	-a>
+CSF1/CSF1R	CSF1/CSF1R	-a>
+G1 phase of mitotic cell cycle	PTPN2	-t>
+VEGFR2 homodimer/VEGFA homodimer	receptor internalization	-ap>
+Insulin Receptor/Insulin	TCPTP p45	-a>
+TCPTP p45	SRC	-a>
+response to stress	TCPTP p45	-a>
+STAT3 (dimer)	STAT3 (dimer)	-a>
+EGFR/EGFR	PI3K Class IA family	-a>
+Insulin Receptor/Insulin	Insulin Receptor/Insulin	-a>
+SRC	MAPKKK cascade	-ap|
+STAT1 (dimer)	STAT1 (dimer)	-a>
+G1 phase of mitotic cell cycle	TCPTP p45	-t>
+STAT5A (dimer)	STAT5A (dimer)	-a>

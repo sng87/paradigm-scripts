@@ -1,0 +1,16 @@
+smallMolecule	H2O
+smallMolecule	CO2
+smallMolecule	Agmatine
+smallMolecule	Putrescine
+smallMolecule	Urea
+smallMolecule	L-arginine
+protein	AGMAT
+protein	ADC
+ADC	CO2	-a>
+AGMAT	Putrescine	-a>
+L-arginine	Agmatine	-a>
+L-arginine	CO2	-a>
+Agmatine	Urea	-a>
+Agmatine	Putrescine	-a>
+H2O	Urea	-a>
+H2O	Putrescine	-a>

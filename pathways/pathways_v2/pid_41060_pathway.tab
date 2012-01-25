@@ -1,0 +1,16 @@
+protein	UniProt:O00410 IPO5
+complex	Viral Polymerase
+complex	vRNP
+rna	vRNA (genomic)
+protein	UniProt:P03431 PB1
+protein	UniProt:P03428 PB2
+protein	UniProt:P03433 PA
+protein	UniProt:P03466 NP
+protein	HSP90AA1
+UniProt:O00410 IPO5	Viral Polymerase	component>
+HSP90AA1	Viral Polymerase	component>
+UniProt:P03428 PB2	Viral Polymerase	component>
+UniProt:P03433 PA	Viral Polymerase	component>
+UniProt:P03431 PB1	Viral Polymerase	component>
+UniProt:P03466 NP	vRNP	component>
+vRNA (genomic)	vRNP	component>

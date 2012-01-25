@@ -1,0 +1,65 @@
+smallMolecule	Vitamin C
+smallMolecule	3-Methoxy-4-hydroxyphenylglycol
+complex	Dopamine beta-oxygenase homotetramer (PQQ, copper cofactors)
+complex	SNARE complex
+smallMolecule	H2O
+complex	Docked Noradrenalin loaded synaptic vesicle
+complex	MAOA-FAD complex
+complex	Rab3-RIM complex
+smallMolecule	Arterenol
+complex	Noradrenalin loaded synaptic vesicle
+smallMolecule	Dehydroascorbate
+protein	UniProt:P60880-1 SNAP25
+protein	UniProt:P61764-1 STXBP1
+protein	UniProt:Q16623-3 STX1A
+smallMolecule	NH3
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Dopamine
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	H2O2
+protein	SYT1
+protein	SLC22A2
+protein	SLC18A2
+protein	RIMS1
+protein	CPLX1
+MAOA-FAD complex	3-Methoxy-4-hydroxyphenylglycol	-a>
+Dopamine beta-oxygenase homotetramer (PQQ, copper cofactors)	H2O	-a>
+Arterenol	H2O2	-a>
+Arterenol	NH3	-a>
+Arterenol	3-Methoxy-4-hydroxyphenylglycol	-a>
+O2	H2O2	-a>
+O2	NH3	-a>
+O2	3-Methoxy-4-hydroxyphenylglycol	-a>
+H2O	H2O2	-a>
+H2O	NH3	-a>
+H2O	3-Methoxy-4-hydroxyphenylglycol	-a>
+SLC22A2	Arterenol	-a>
+RIMS1	Docked Noradrenalin loaded synaptic vesicle	component>
+UniProt:P60880-1 SNAP25	Docked Noradrenalin loaded synaptic vesicle	component>
+UniProt:P61764-1 STXBP1	Docked Noradrenalin loaded synaptic vesicle	component>
+Noradrenalin loaded synaptic vesicle	Docked Noradrenalin loaded synaptic vesicle	component>
+UniProt:Q16623-3 STX1A	Docked Noradrenalin loaded synaptic vesicle	component>
+CPLX1	Docked Noradrenalin loaded synaptic vesicle	component>
+Docked Noradrenalin loaded synaptic vesicle	SLC18A2	component>
+Docked Noradrenalin loaded synaptic vesicle	SNARE complex	component>
+Docked Noradrenalin loaded synaptic vesicle	Arterenol	component>
+Docked Noradrenalin loaded synaptic vesicle	UniProt:P61764-1 STXBP1	component>
+Docked Noradrenalin loaded synaptic vesicle	SYT1	component>
+Docked Noradrenalin loaded synaptic vesicle	Rab3-RIM complex	component>
+Docked Noradrenalin loaded synaptic vesicle	CPLX1	component>
+Vitamin C	Dehydroascorbate	-a>
+Vitamin C	Arterenol	-a>
+Vitamin C	H2O	-a>
+O2	Dehydroascorbate	-a>
+O2	Arterenol	-a>
+O2	H2O	-a>
+Dopamine	Dehydroascorbate	-a>
+Dopamine	Arterenol	-a>
+Dopamine	H2O	-a>
+SLC18A2	Dopamine	-a>
+ATP	ADP	-a>
+ATP	H+	-a>
+H+	ADP	-a>
+H+	H+	-a>

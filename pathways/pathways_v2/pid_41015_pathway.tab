@@ -1,0 +1,16 @@
+complex	FGFR4 homodimer bound to FGF
+complex	Activated FGFR complexed with phosphorylated FRS2, GRB2  and CBL
+complex	FGFR4 homodimer
+complex	Activated FGFR4 homodimer
+smallMolecule	Heparan Sulphate
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SDC2
+Activated FGFR complexed with phosphorylated FRS2, GRB2  and CBL	FGFR4 homodimer bound to FGF	-a|
+SDC2	FGFR4 homodimer bound to FGF	-a>
+Heparan Sulphate	FGFR4 homodimer bound to FGF	-a>
+FGFR4 homodimer	FGFR4 homodimer bound to FGF	-a>
+FGFR4 homodimer bound to FGF	ADP	-a>
+FGFR4 homodimer bound to FGF	Activated FGFR4 homodimer	-a>
+ATP	ADP	-a>
+ATP	Activated FGFR4 homodimer	-a>

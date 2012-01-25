@@ -1,0 +1,68 @@
+smallMolecule	HCO3-
+smallMolecule	Carbamoyl phosphate
+smallMolecule	L-Ornithine
+complex	ornithine transcarbamylase homotrimer
+smallMolecule	CoA
+smallMolecule	L-Aspartate
+complex	arginase 1 homotrimer
+smallMolecule	L-Argininosuccinate
+smallMolecule	NH4+
+complex	argininosuccinate lyase tetramer
+smallMolecule	Fumarate
+complex	carbamoyl-phosphate synthetase I dimer
+protein	Mitochondrial ornithine transporter
+smallMolecule	L-Glutamate
+smallMolecule	Acetyl-CoA
+smallMolecule	PPi
+complex	argininosuccinate synthase homotetramer
+smallMolecule	AMP
+smallMolecule	Urea
+smallMolecule	N-Acetyl-L-glutamate
+smallMolecule	ATP
+smallMolecule	L-arginine
+smallMolecule	ADP
+smallMolecule	L-citrulline
+smallMolecule	phosphate
+protein	NAGS
+N-Acetyl-L-glutamate	phosphate	-a>
+carbamoyl-phosphate synthetase I dimer	phosphate	-a>
+NAGS	CoA	-a>
+L-arginine	CoA	-a>
+Mitochondrial ornithine transporter	L-citrulline	-a>
+arginase 1 homotrimer	Urea	-a>
+argininosuccinate lyase tetramer	Fumarate	-a>
+ornithine transcarbamylase homotrimer	phosphate	-a>
+argininosuccinate synthase homotetramer	PPi	-a>
+HCO3-	ADP	-a>
+HCO3-	Carbamoyl phosphate	-a>
+HCO3-	phosphate	-a>
+ATP	ADP	-a>
+ATP	Carbamoyl phosphate	-a>
+ATP	phosphate	-a>
+NH4+	ADP	-a>
+NH4+	Carbamoyl phosphate	-a>
+NH4+	phosphate	-a>
+Acetyl-CoA	N-Acetyl-L-glutamate	-a>
+Acetyl-CoA	CoA	-a>
+L-Glutamate	N-Acetyl-L-glutamate	-a>
+L-Glutamate	CoA	-a>
+L-citrulline	L-Ornithine	-a>
+L-citrulline	L-citrulline	-a>
+L-Ornithine	L-Ornithine	-a>
+L-arginine	L-Ornithine	-a>
+L-arginine	Urea	-a>
+L-Argininosuccinate	L-arginine	-a>
+L-Argininosuccinate	Fumarate	-a>
+L-Ornithine	L-citrulline	-a>
+L-Ornithine	phosphate	-a>
+Carbamoyl phosphate	L-citrulline	-a>
+Carbamoyl phosphate	phosphate	-a>
+L-Aspartate	L-Argininosuccinate	-a>
+L-Aspartate	AMP	-a>
+L-Aspartate	PPi	-a>
+ATP	L-Argininosuccinate	-a>
+ATP	AMP	-a>
+ATP	PPi	-a>
+L-citrulline	L-Argininosuccinate	-a>
+L-citrulline	AMP	-a>
+L-citrulline	PPi	-a>

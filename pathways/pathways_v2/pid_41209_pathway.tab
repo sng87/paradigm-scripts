@@ -1,0 +1,94 @@
+complex	Eps15:HGS:STAM
+complex	EGF:Phospho-EGFR (Y1045) dimer:CBL:GRB2
+complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin
+complex	Cdc42-GTP
+complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2
+complex	CBL:Cool/Pix
+complex	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL
+complex	EGF:Phospho-EGFR (Y1045) dimer
+complex	EGF:Phospho-EGFR dimer:CBL:Phospho-Sprouty
+complex	CBL:GRB2
+complex	EGF:Phospho-EGFR (Y1045) dimer:CBL:Cool/Pix:CDC42-GTP
+complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL
+complex	Cool/Pix Ubiquitinated:CDC42-GTP
+complex	EGF:Phospho-EGFR (Y1045) dimer:CBL:CIN85
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76
+complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin
+complex	EGF:Phospho-EGFR (Y1045) dimer:CBL
+complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85-Sprouty:Endophilin:Epsin:Eps15R:Eps15 complex
+complex	CBL:Sprouty
+complex	Clathrin
+complex	CIN85:Endophilin
+smallMolecule	PIP2
+complex	EGF:Phospho-EGFR (Y1045) dimer:CBL:Phospho-Sprouty ubiquitinated
+complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex
+complex	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL:GRB2
+complex	Cool/Pix:CDC42-GTP
+complex	Adaptor protein 2 complex
+complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85 ubiquitinated:Endophilin:Epsin:Eps15R:Eps15 complex
+protein	Sprouty
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+protein	UniProt:P62993-1 GRB2
+protein	UniProt:P22681 CBL
+complex	CBL:Cool/Pix:CDC42-GTP
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SPRY2
+protein	SH3KBP1
+protein	EPS15L1
+protein	EPN1
+EGF:Phospho-EGFR (Y1045) dimer:CBL:CIN85	EGF:Phospho-EGFR (Y1045) dimer:CBL:Cool/Pix:CDC42-GTP	component>
+EGF:Phospho-EGFR (Y1045) dimer:CBL:CIN85	SH3KBP1	component>
+Cool/Pix:CDC42-GTP	EGF:Phospho-EGFR (Y1045) dimer:CBL:Cool/Pix:CDC42-GTP	component>
+Cool/Pix:CDC42-GTP	SH3KBP1	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer:CBL	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	Cool/Pix Ubiquitinated:CDC42-GTP	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer:CBL	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	Cool/Pix Ubiquitinated:CDC42-GTP	component>
+EGF:Phospho-EGFR (Y1045) dimer:CBL:Cool/Pix:CDC42-GTP	EGF:Phospho-EGFR (Y1045) dimer:CBL	component>
+EGF:Phospho-EGFR (Y1045) dimer:CBL:Cool/Pix:CDC42-GTP	Cool/Pix Ubiquitinated:CDC42-GTP	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85-Sprouty:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+Sprouty	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85-Sprouty:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+EGF:Phospho-EGFR (Y1045) dimer:CBL	ADP	-a>
+EGF:Phospho-EGFR (Y1045) dimer:CBL	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL	-a>
+ATP	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL	-a>
+Sprouty	EGF:Phospho-EGFR (Y1045) dimer:CBL:Phospho-Sprouty ubiquitinated	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL	EGF:Phospho-EGFR (Y1045) dimer:CBL:Phospho-Sprouty ubiquitinated	component>
+UniProt:P22681 CBL	CBL:Sprouty	component>
+SPRY2	CBL:Sprouty	component>
+EPN1	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+CIN85:Endophilin	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+EPS15L1	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+Eps15:HGS:STAM	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer:CBL:Phospho-Sprouty ubiquitinated	component>
+EGF:Phospho-EGFR dimer:CBL:Phospho-Sprouty	EGF:Phospho-EGFR (Y1045) dimer:CBL:Phospho-Sprouty ubiquitinated	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin	component>
+CIN85:Endophilin	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin	component>
+Cdc42-GTP	CBL:Cool/Pix:CDC42-GTP	component>
+CBL:Cool/Pix	CBL:Cool/Pix:CDC42-GTP	component>
+EGF:Phospho-EGFR (Y1045) dimer	EGF:Phospho-EGFR (Y1045) dimer:CBL:GRB2	component>
+CBL:GRB2	EGF:Phospho-EGFR (Y1045) dimer:CBL:GRB2	component>
+UniProt:P62993-1 GRB2	CBL:GRB2	component>
+UniProt:P22681 CBL	CBL:GRB2	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85 ubiquitinated:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:CIN85 ubiquitinated:Endophilin:Epsin:Eps15R:Eps15 complex	component>
+ATP	ADP	-a>
+ATP	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2	-a>
+EGF:Phospho-EGFR (Y1045) dimer:CBL:GRB2	ADP	-a>
+EGF:Phospho-EGFR (Y1045) dimer:CBL:GRB2	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2	-a>
+Eps15:HGS:STAM	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin	component>
+EPN1	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin	component>
+EPS15L1	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin	component>
+Adaptor protein 2 complex	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin	component>
+PIP2	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin	component>
+Clathrin	EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15 complex:Clathrin	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL:GRB2	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL:GRB2	component>
+EGF:Phospho-EGFR (Y1045) dimer:Phospho-CBL:GRB2	EGF:Phospho-EGFR (Y1045) dimer Ubiquitinated:Phospho-CBL:GRB2	component>
+EGF:Phospho-EGFR (Y1045) dimer	EGF:Phospho-EGFR (Y1045) dimer:CBL	component>
+UniProt:P22681 CBL	EGF:Phospho-EGFR (Y1045) dimer:CBL	component>

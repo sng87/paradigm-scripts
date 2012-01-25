@@ -1,0 +1,15 @@
+complex	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site
+complex	POL Beta-bound DNA strand break containing gap left by excised residue
+smallMolecule	Sugar phosphate
+complex	APE1-bound DNA strand break containing an incision 5' to an AP site
+complex	DNA containing an APE1-bound AP site
+protein	POLB
+protein	APEX1
+POLB	Sugar phosphate	component>
+APEX1	APE1-bound DNA strand break containing an incision 5' to an AP site	-a>
+POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	APEX1	component>
+POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	POL Beta-bound DNA strand break containing gap left by excised residue	component>
+POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	Sugar phosphate	component>
+APE1-bound DNA strand break containing an incision 5' to an AP site	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	component>
+POLB	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	component>
+DNA containing an APE1-bound AP site	APE1-bound DNA strand break containing an incision 5' to an AP site	-a>

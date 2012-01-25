@@ -1,0 +1,81 @@
+abstract	response to insulin stimulus
+abstract	tumor necrosis factor receptor activity
+abstract	epidermal growth factor receptor activity
+abstract	interleukin-1 receptor activity
+abstract	response to UV
+abstract	response to stress
+abstract	apoptosis
+abstract	positive regulation of innate immune response
+complex	RAC1-CDC42/GTP/PAK family
+complex	TRAF6/MEKK3
+complex	RIP/MEKK3
+complex	p38alpha-beta/MKP5
+complex	p38alpha-beta/MKP7
+smallMolecule	LPS
+protein	PAK family
+complex	PGK/cGMP/p38 alpha
+complex	RAC1/OSM/MEKK3/MKK3
+complex	p38alpha-beta/MKP1
+complex	RAC1-CDC42/GTP
+complex	PGK/cGMP
+protein	p38alpha-beta-active
+protein	Src Family Kinases-active
+complex	p38 alpha/TAB1
+protein	p38alpha-beta
+complex	RAL/GTP
+protein	TRAF6
+protein	RIPK1
+protein	MAPK14
+protein	MAPK11
+protein	MAP3K7IP1
+protein	MAP3K3
+protein	MAP3K12
+protein	MAP2K6
+protein	MAP2K4
+protein	MAP2K3
+protein	DUSP8
+protein	DUSP16
+protein	DUSP10
+protein	DUSP1
+tumor necrosis factor receptor activity	RIP/MEKK3	component>
+DUSP8	p38alpha-beta	-a>
+RAC1/OSM/MEKK3/MKK3	p38alpha-beta-active	-a>
+interleukin-1 receptor activity	RAC1-CDC42/GTP/PAK family	component>
+RAL/GTP	p38alpha-beta	-a>
+interleukin-1 receptor activity	TRAF6/MEKK3	component>
+LPS	TRAF6/MEKK3	component>
+response to UV	RAC1-CDC42/GTP/PAK family	component>
+MAP3K12	p38alpha-beta-active	-a>
+RAC1-CDC42/GTP/PAK family	p38alpha-beta-active	-a>
+TRAF6/MEKK3	p38alpha-beta-active	-a>
+response to stress	p38 alpha/TAB1	component>
+MAP2K6	MAPK14	-a>
+RIP/MEKK3	MAPK14	-a>
+MAP2K3	MAPK14	-a>
+response to insulin stimulus	p38alpha-beta	-a>
+MAP3K3	RIP/MEKK3	component>
+RIPK1	RIP/MEKK3	component>
+p38alpha-beta-active	p38alpha-beta	-a>
+epidermal growth factor receptor activity	p38alpha-beta	-a>
+DUSP10	p38alpha-beta/MKP5	component>
+p38alpha-beta-active	p38alpha-beta/MKP5	component>
+DUSP1	p38alpha-beta/MKP1	component>
+p38alpha-beta-active	p38alpha-beta/MKP1	component>
+MAP3K3	TRAF6/MEKK3	component>
+TRAF6	TRAF6/MEKK3	component>
+RAC1-CDC42/GTP	RAC1-CDC42/GTP/PAK family	component>
+PAK family	RAC1-CDC42/GTP/PAK family	component>
+DUSP16	p38alpha-beta/MKP7	component>
+p38alpha-beta-active	p38alpha-beta/MKP7	component>
+Src Family Kinases-active	p38alpha-beta	-a>
+MAP2K6	MAPK11	-a>
+p38 alpha/TAB1	apoptosis	-ap>
+MAP2K4	MAPK14	-a>
+p38alpha-beta	p38alpha-beta-active	-a>
+PGK/cGMP	PGK/cGMP/p38 alpha	component>
+PGK/cGMP	p38 alpha/TAB1	component>
+MAP3K7IP1	PGK/cGMP/p38 alpha	component>
+MAP3K7IP1	p38 alpha/TAB1	component>
+MAPK14	PGK/cGMP/p38 alpha	component>
+MAPK14	p38 alpha/TAB1	component>
+p38alpha-beta-active	positive regulation of innate immune response	-ap>

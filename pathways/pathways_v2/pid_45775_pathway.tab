@@ -1,0 +1,61 @@
+abstract	neutrophil chemotaxis
+abstract	negative regulation of cell adhesion
+complex	G-gamma/G-beta/GTP
+protein	ProANF
+protein	NPPA_0-0
+complex	NOS III/Caveolin-1
+complex	Ligand/B2AR/G-alpha-S
+complex	CaM/Ca ++
+complex	B2AR/G-alpha-s/G-gamma/G-beta/GDP
+complex	glucocorticoid/glucocorticoid receptor
+complex	RELA/p50
+complex	bradykinin/Bradykinin receptor B2
+smallMolecule	glucocorticoid
+complex	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor
+smallMolecule	PIP2
+abstract	vasodilation
+protein	Ligand
+smallMolecule	L-arginine
+smallMolecule	L-citrulline
+smallMolecule	NO
+complex	PI3K
+smallMolecule	PIP3
+protein	PDPK1
+protein	NR3C1
+protein	NOS3
+protein	HSPCA
+protein	CORIN
+protein	ANXA1
+protein	AKT1
+NOS3	L-citrulline	-a>
+PI3K	PIP3	-a>
+bradykinin/Bradykinin receptor B2	NOS3	-a|
+HSPCA	NOS3	-a>
+AKT1	NOS3	component>
+CaM/Ca ++	NOS3	component>
+CORIN	NPPA_0-0	-a>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	ProANF	-t>
+Ligand	Ligand/B2AR/G-alpha-S	component>
+Ligand	G-gamma/G-beta/GTP	component>
+B2AR/G-alpha-s/G-gamma/G-beta/GDP	Ligand/B2AR/G-alpha-S	component>
+B2AR/G-alpha-s/G-gamma/G-beta/GDP	G-gamma/G-beta/GTP	component>
+L-arginine	L-citrulline	-a>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	-a>
+NOS3	NO	-t>
+ANXA1	neutrophil chemotaxis	-ap>
+PIP2	PIP3	-a>
+G-gamma/G-beta/GTP	PI3K	-a>
+glucocorticoid/glucocorticoid receptor	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	component>
+NR3C1	glucocorticoid/glucocorticoid receptor	component>
+glucocorticoid	glucocorticoid/glucocorticoid receptor	component>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	ANXA1	-a>
+RELA/p50	negative regulation of cell adhesion	-ap>
+CaM/Ca ++	NOS3	-a>
+NOS III/Caveolin-1	NOS3	component>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	RELA/p50	-a>
+ProANF	NPPA_0-0	-a>
+PDPK1	AKT1	-a>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	PI3K	-a>
+AKT1	ProANF	-t>
+NO	vasodilation	-ap>
+PIP3	PDPK1	-a>

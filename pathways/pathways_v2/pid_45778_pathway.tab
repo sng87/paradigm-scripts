@@ -1,0 +1,11 @@
+protein	hTERC
+complex	NF-Y
+protein	SP3
+protein	SP1
+protein	RB1
+NF-Y	hTERC	-t>
+SP1	hTERC	-t>
+SP3	hTERC	-t|
+RB1	NF-Y	-a>
+RB1	SP1	-a>
+RB1	SP3	-a>

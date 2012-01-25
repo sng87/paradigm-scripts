@@ -1,0 +1,189 @@
+abstract	regulation of attachment of spindle microtubules to kinetochore
+abstract	regulation of mitotic centrosome separation
+abstract	interphase
+abstract	microtubule-based process
+abstract	G2/M transition DNA damage checkpoint
+abstract	microtubule cytoskeleton organization
+abstract	Golgi organization
+abstract	metaphase plate congression
+abstract	metaphase
+abstract	regulation of centriole-centriole cohesion
+abstract	positive regulation of microtubule depolymerization
+abstract	spindle stabilization
+abstract	chromosome segregation
+abstract	anaphase
+abstract	spindle elongation
+abstract	mitosis
+abstract	spindle assembly
+abstract	G2/M transition of mitotic cell cycle
+abstract	cytokinesis
+abstract	mitotic prometaphase
+abstract	DNA damage
+abstract	prophase
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+abstract	G2 phase of mitotic cell cycle
+protein	beta TrCP1-2
+protein	Cenexin 1
+complex	Aurora A/BORA
+complex	Hec1/SPC24
+protein	MAD2
+protein	Kizuna
+complex	GRASP65/GM130/RAB1/GTP
+complex	PICH/PLK1
+complex	NLP/gamma Tubulin
+protein	PRC1-2
+complex	PLK1/PRC1-2
+complex	GRASP65/GM130/RAB1/GTP/PLK1
+complex	PP2A-alpha B56
+complex	APC/C/HCDH1
+protein	BUBR1
+protein	CLASPIN
+complex	Cohesin/SA2
+complex	PPP1CB/MYPT1
+complex	MKLP2/PLK1
+complex	Cyclin B1/CDK1
+complex	PLK1/PBIP1
+complex	APC/C/CDC20
+complex	RhoA/GTP
+protein	Aurora A
+protein	WEE1
+protein	TUBG1
+protein	TPX2
+protein	TPT1
+protein	SGOL1
+protein	ROCK2
+protein	PLK1
+protein	PAK1
+protein	NUDC
+protein	NLP
+protein	MLF1IP
+protein	KIF2A
+protein	KIF20A
+protein	INCENP
+protein	FBXO5
+protein	ERCC6L
+protein	ECT2
+protein	CENPE
+protein	CDC25C
+protein	CDC25B
+protein	CDC14B
+protein	C13orf34
+protein	BUB1
+metaphase	PLK1	component>
+Cenexin 1	PLK1	-a>
+PLK1	CLASPIN	-a>
+G2 phase of mitotic cell cycle	CDC14B	-a>
+Aurora A	PLK1	-a>
+KIF20A	PLK1/PRC1-2	component>
+anaphase	PLK1/PRC1-2	component>
+PLK1	ECT2	-a>
+CDC14B	APC/C/HCDH1	-a>
+PLK1	NUDC	-a>
+INCENP	BUB1	-a>
+Cyclin B1/CDK1	FBXO5	-a>
+PLK1	FBXO5	-a>
+PLK1	NLP	component>
+mitosis	NLP	component>
+anaphase	MKLP2/PLK1	component>
+CDC25B	Cyclin B1/CDK1	-a>
+PLK1	TPX2	-a>
+APC/C/CDC20	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+mitosis	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+Cyclin B1/CDK1	GRASP65/GM130/RAB1/GTP	-a>
+mitosis	GRASP65/GM130/RAB1/GTP	-a>
+APC/C/HCDH1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+anaphase	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+Cyclin B1/CDK1	WEE1	-a>
+PLK1	Cohesin/SA2	-a>
+mitotic prometaphase	Cohesin/SA2	-a>
+beta TrCP1-2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+prophase	PLK1/PBIP1	component>
+PAK1	PLK1	-a>
+PLK1	Kizuna	-a>
+RhoA/GTP	ROCK2	-a>
+WEE1	Cyclin B1/CDK1	-a>
+PLK1	spindle elongation	-ap>
+PLK1	Aurora A	-a>
+PLK1	BUBR1	-a>
+PP2A-alpha B56	SGOL1	-a|
+PLK1	SGOL1	-a>
+Aurora A/BORA	PLK1	-a>
+Cyclin B1/CDK1	G2/M transition of mitotic cell cycle	-ap>
+PLK1/PBIP1	MLF1IP	component>
+PLK1/PBIP1	PLK1	component>
+MLF1IP	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+BUBR1	regulation of attachment of spindle microtubules to kinetochore	-ap>
+PLK1	regulation of mitotic centrosome separation	-ap>
+C13orf34	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+PLK1	Golgi organization	-ap>
+interphase	PLK1	-a>
+PPP1CB/MYPT1	PLK1	-a>
+G2/M transition DNA damage checkpoint	CLASPIN	-a>
+DNA damage	CDC14B	-a>
+mitosis	PLK1	-a>
+mitosis	TPT1	-a>
+PRC1-2	PLK1/PRC1-2	component>
+PLK1	PLK1/PRC1-2	component>
+GRASP65/GM130/RAB1/GTP/PLK1	G2/M transition of mitotic cell cycle	-ap|
+WEE1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+anaphase	ECT2	-a>
+PLK1/PRC1-2	cytokinesis	-ap>
+ROCK2	cytokinesis	-ap>
+APC/C/HCDH1	APC/C/HCDH1	-a>
+BUB1	PP2A-alpha B56	-a>
+mitotic prometaphase	NUDC	-a>
+CLASPIN	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+C13orf34	Aurora A/BORA	component>
+Aurora A	Aurora A/BORA	component>
+Cyclin B1/CDK1	BUB1	-a>
+PLK1	TPT1	-a>
+MKLP2/PLK1	microtubule-based process	-ap>
+NUDC	PLK1	-a>
+PLK1	GRASP65/GM130/RAB1/GTP/PLK1	component>
+GRASP65/GM130/RAB1/GTP	GRASP65/GM130/RAB1/GTP/PLK1	component>
+G2/M transition DNA damage checkpoint	PLK1	-a>
+mitosis	FBXO5	-a>
+NLP/gamma Tubulin	TUBG1	component>
+NLP/gamma Tubulin	NLP	component>
+BUB1	PLK1	-a>
+TPT1	microtubule cytoskeleton organization	-ap>
+PLK1	MKLP2/PLK1	component>
+KIF20A	MKLP2/PLK1	component>
+mitosis	TPX2	-a>
+PLK1	APC/C/CDC20	-a>
+NUDC	metaphase plate congression	-ap>
+GRASP65/GM130/RAB1/GTP	GRASP65/GM130/RAB1/GTP	-a>
+PLK1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TUBG1	spindle assembly	-ap>
+MKLP2/PLK1	cytokinesis	-ap>
+PLK1	WEE1	-a>
+PLK1	spindle assembly	-ap>
+Cohesin/SA2	Cohesin/SA2	-a>
+FBXO5	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MLF1IP	PLK1/PBIP1	component>
+PLK1	PLK1/PBIP1	component>
+metaphase	PLK1	-a>
+mitosis	Kizuna	-a>
+SGOL1	regulation of centriole-centriole cohesion	-ap|
+Cyclin B1/CDK1	BUBR1	-a>
+PLK1	ROCK2	-a>
+Cyclin B1/CDK1	Cyclin B1/CDK1	-a>
+prophase	CDC25C	-a>
+Cyclin B1/CDK1	ERCC6L	-a>
+PLK1/PBIP1	MAD2	-a>
+KIF2A	positive regulation of microtubule depolymerization	-ap>
+Kizuna	spindle stabilization	-ap>
+PLK1	CENPE	-a>
+PLK1/PBIP1	chromosome segregation	-ap>
+anaphase	spindle elongation	-ap>
+PLK1	C13orf34	-a>
+PLK1	PICH/PLK1	component>
+ERCC6L	PICH/PLK1	component>
+PLK1	CDC25C	-a>
+mitosis	SGOL1	-a>
+mitosis	Aurora A	-a>
+PLK1	KIF2A	-a>
+PLK1	Hec1/SPC24	-a>
+mitotic prometaphase	BUBR1	-a>
+prophase	SGOL1	-a>
+G2 phase of mitotic cell cycle	PLK1	-a>

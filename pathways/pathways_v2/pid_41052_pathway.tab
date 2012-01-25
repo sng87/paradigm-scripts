@@ -1,0 +1,29 @@
+complex	MBD4 glycosylase:uracil complex
+complex	hNTH1 glycosylase:cytosine glycol complex
+complex	hNTH1 glycosylase:thymine glycol
+complex	hNTH1 glycosylase:dihydrouracil complex
+complex	TDG glycosylase:thymine complex
+complex	UNG2 glycosylase:5-hydroxyuracil complex
+complex	UNG2 glycosylase:uracil complex
+complex	TDG glycosylase:ethenocytosine complex
+protein	UniProt:O95243-1 MBD4
+complex	MBD4 glycosylase:thymine complex
+complex	TDG glycosylase:uracil complex
+complex	hSMUG1glycosylase:uracil complex
+complex	hNTH1 glycosylase: foramidopyrimidine complex
+protein	TDG
+protein	SMUG1
+protein	NTHL1
+protein	CCNO
+TDG	TDG glycosylase:uracil complex	component>
+CCNO	UNG2 glycosylase:uracil complex	component>
+NTHL1	hNTH1 glycosylase: foramidopyrimidine complex	component>
+TDG	TDG glycosylase:thymine complex	component>
+NTHL1	hNTH1 glycosylase:thymine glycol	component>
+NTHL1	hNTH1 glycosylase:cytosine glycol complex	component>
+UniProt:O95243-1 MBD4	MBD4 glycosylase:thymine complex	component>
+NTHL1	hNTH1 glycosylase:dihydrouracil complex	component>
+SMUG1	hSMUG1glycosylase:uracil complex	component>
+CCNO	UNG2 glycosylase:5-hydroxyuracil complex	component>
+UniProt:O95243-1 MBD4	MBD4 glycosylase:uracil complex	component>
+TDG	TDG glycosylase:ethenocytosine complex	component>

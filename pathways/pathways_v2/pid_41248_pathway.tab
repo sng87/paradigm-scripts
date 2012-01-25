@@ -1,0 +1,21 @@
+smallMolecule	D-Glyceraldehyde 3-phosphate
+smallMolecule	D-Fructose 1-phosphate
+smallMolecule	Glycerone phosphate
+smallMolecule	D-fructose
+smallMolecule	D-Glyceraldehyde
+smallMolecule	K+
+smallMolecule	ATP
+smallMolecule	ADP
+protein	KHK
+ADP	D-Fructose 1-phosphate	-a|
+K+	D-Fructose 1-phosphate	-a>
+KHK	D-Fructose 1-phosphate	-a>
+D-Fructose 1-phosphate	Glycerone phosphate	-a>
+D-Fructose 1-phosphate	D-Glyceraldehyde	-a>
+D-fructose	ADP	-a>
+D-fructose	D-Fructose 1-phosphate	-a>
+ATP	D-Fructose 1-phosphate	-a>
+ATP	D-Glyceraldehyde 3-phosphate	-a>
+ATP	ADP	-a>
+D-Glyceraldehyde	D-Glyceraldehyde 3-phosphate	-a>
+D-Glyceraldehyde	ADP	-a>

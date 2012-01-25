@@ -1,0 +1,16 @@
+complex	vRNP Export Complex
+complex	Nuclear Pore Complex (NPC)
+complex	vRNP:M1:NEP
+complex	Ran-GTP
+complex	Crm1:Ran GTPase:GDP
+smallMolecule	phosphate
+protein	XPO1
+Nuclear Pore Complex (NPC)	phosphate	-a>
+Ran-GTP	Crm1:Ran GTPase:GDP	-a>
+Ran-GTP	vRNP:M1:NEP	-a>
+Ran-GTP	phosphate	-a>
+vRNP Export Complex	Crm1:Ran GTPase:GDP	-a>
+vRNP Export Complex	vRNP:M1:NEP	-a>
+vRNP Export Complex	phosphate	-a>
+XPO1	vRNP Export Complex	component>
+vRNP:M1:NEP	vRNP Export Complex	component>

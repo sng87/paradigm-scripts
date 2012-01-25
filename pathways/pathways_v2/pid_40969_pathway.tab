@@ -1,0 +1,10 @@
+complex	Connexin 43 connexon
+complex	Connexin 26:Connexin 32 connexon
+complex	Connexin 32 connexon
+protein	GJB2
+protein	GJB1
+protein	GJA1
+GJB1	Connexin 26:Connexin 32 connexon	component>
+GJB2	Connexin 26:Connexin 32 connexon	component>
+GJB1	Connexin 32 connexon	component>
+GJA1	Connexin 43 connexon	component>

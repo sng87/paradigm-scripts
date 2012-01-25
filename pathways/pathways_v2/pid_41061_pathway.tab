@@ -1,0 +1,19 @@
+complex	incision complex for GG-NER
+complex	Incision complex  with 3'-incised damaged DNA
+complex	RPA heterotrimer
+complex	ERCC1:XPF complex
+complex	XPC:HR23B complex
+complex	TFIIH
+protein	XPA
+protein	ERCC5
+protein	DDB2
+protein	DDB1
+incision complex for GG-NER	Incision complex  with 3'-incised damaged DNA	-a>
+Incision complex  with 3'-incised damaged DNA	RPA heterotrimer	component>
+Incision complex  with 3'-incised damaged DNA	XPA	component>
+Incision complex  with 3'-incised damaged DNA	DDB1	component>
+Incision complex  with 3'-incised damaged DNA	DDB2	component>
+Incision complex  with 3'-incised damaged DNA	TFIIH	component>
+Incision complex  with 3'-incised damaged DNA	XPC:HR23B complex	component>
+Incision complex  with 3'-incised damaged DNA	ERCC1:XPF complex	component>
+Incision complex  with 3'-incised damaged DNA	ERCC5	component>

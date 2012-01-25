@@ -1,0 +1,245 @@
+abstract	aging
+abstract	S phase of mitotic cell cycle
+abstract	cell growth
+abstract	response to hypoxia
+abstract	G2/M transition of mitotic cell cycle
+abstract	G1 phase of mitotic cell cycle
+abstract	G1/S transition of mitotic cell cycle
+abstract	histone deacetylase activity
+abstract	DNA damage
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	E2F4/DP2/TRRAP
+complex	RB1/E2F1-3/DP/HDAC1/RBBP4
+complex	E2F3/DP/RYBP/YY1
+complex	E2F4/DP2/p107-p130/HDAC1
+complex	CEBPA/BRM/RB1/E2F4
+protein	E2F7-8
+complex	E2F1/DP/TopBP1
+complex	CEBPA/CDK2
+complex	CDK2/Cyclin E1
+complex	E2F1/DP/HDAC1
+protein	carboxylesterase
+complex	E2F1-3/DP
+complex	E2F3/DP
+protein	MAD2
+complex	E2F1/DP/PCAF
+protein	uPA
+complex	E2F3/DP/TFE3
+complex	E2F4/DP2/GCN5
+protein	BRM
+complex	CEBPA/BRM
+complex	E2F4/DP2
+complex	E2F5/DP
+protein	Cyclin E
+protein	p14ARF
+complex	RB1/E2F1-3/DP
+complex	RB1/E2F1/DP
+protein	p107-p130
+complex	E2F4/DP2/p107-p130
+complex	E2F2/DP/RYBP/YY1
+complex	RYBP/YY1
+complex	E2F6/DP
+complex	E2F1/DP
+protein	E2F1-3
+protein	DP
+protein	Cbp/p300
+complex	E2F5/DP/Cbp/p300
+protein	XRCC1
+protein	WASF1
+protein	UXT
+protein	TYMS
+protein	TRIM28
+protein	TP73
+protein	TOPBP1
+protein	TK1
+protein	TFE3
+protein	TFDP2
+protein	SULT2A1
+protein	SP1
+protein	SIRT1
+protein	SERPINE1
+protein	RRM2
+protein	RRM1
+protein	RBL1
+protein	RBBP8
+protein	RBBP4
+protein	RB1
+protein	RANBP1
+protein	PRMT5
+protein	POLA1
+protein	ORC1L
+protein	MYC
+protein	MYBL2
+protein	MCM3
+protein	MCL1
+protein	KAT2B
+protein	HIC1
+protein	HDAC1
+protein	HBP1
+protein	E2F7
+protein	E2F4
+protein	E2F2
+protein	E2F1
+protein	DHFR
+protein	CDKN2C
+protein	CDKN1B
+protein	CDKN1A
+protein	CDK2
+protein	CDC6
+protein	CDC25A
+protein	CDC2
+protein	CCND3
+protein	CCNA2
+protein	CBX5
+protein	CASP7
+protein	BRCA1
+protein	ATM
+protein	APAF1
+SP1	RANBP1	-t>
+E2F1/DP	RANBP1	-t>
+E2F1/DP	HIC1	-t>
+E2F1-3/DP	MCM3	-t>
+RB1/E2F1-3/DP	MAD2	-t|
+RB1/E2F1/DP	p14ARF	-t|
+PRMT5	Cyclin E	-t|
+RB1/E2F1-3/DP/HDAC1/RBBP4	Cyclin E	-t|
+p14ARF	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+E2F4/DP2/p107-p130	CDC2	-t|
+MYBL2	CDC2	-t>
+E2F1-3/DP	CDC2	-t>
+E2F1/DP	E2F2	-t>
+E2F4/DP2/p107-p130	DHFR	-t|
+E2F4/DP2	DHFR	-t>
+E2F7	Cyclin E	-t|
+E2F1-3/DP	Cyclin E	-t>
+E2F1/DP	CCNA2	-t>
+RB1/E2F1-3/DP	CASP7	-t|
+E2F1/DP	CASP7	-t>
+RB1/E2F1-3/DP	RBL1	-t|
+E2F6/DP	TK1	-t|
+SP1	TK1	-t>
+E2F1/DP	TK1	-t>
+E2F4/DP2/p107-p130	BRCA1	-t|
+E2F5/DP/Cbp/p300	Cyclin E	-t>
+aging	CEBPA/BRM	-a>
+E2F7-8	E2F1	-t|
+SIRT1	E2F1	-t|
+histone deacetylase activity	E2F1	-t>
+CEBPA/BRM/RB1/E2F4	MYC	-t|
+DNA damage	E2F1/DP/PCAF	component>
+RBL1	RBL1	-t|
+E2F1/DP	RBL1	-t>
+SP1	CDKN2C	-t>
+E2F1/DP	CDKN2C	-t>
+TRIM28	SIRT1	-t|
+E2F1/DP	SIRT1	-t>
+E2F4/DP2/p107-p130	CDC25A	-t|
+E2F1/DP	CDC25A	-t>
+E2F1/DP/TopBP1	p14ARF	-t|
+E2F7-8	APAF1	-t|
+E2F3/DP/TFE3	POLA1	-t>
+TRIM28	CDKN1B	-t|
+E2F7	CDC6	-t|
+SP1	DHFR	-t>
+E2F1/DP	DHFR	-t>
+TRIM28	CCND3	-t|
+E2F1-3/DP	CCND3	-t>
+CDK2/Cyclin E1	E2F5/DP	-a>
+E2F3/DP/RYBP/YY1	CDC6	-t>
+ATM	E2F1/DP	-a>
+DNA damage	E2F1/DP	-a>
+E2F4/DP2/p107-p130	MYBL2	-t|
+E2F4/DP2/p107-p130	MAD2	-t|
+E2F1/DP	MAD2	-t>
+HBP1	CDKN1A	-t|
+SP1	CDKN1A	-t>
+E2F4/DP2/p107-p130/HDAC1	E2F1	-t|
+E2F1-3/DP	ORC1L	-t>
+E2F6/DP	E2F1	-t|
+SP1	E2F1	-t>
+E2F1/DP	E2F1	-t>
+E2F1/DP	XRCC1	-t>
+TRIM28	E2F1/DP/HDAC1	component>
+E2F2/DP/RYBP/YY1	CDC6	-t>
+G1/S transition of mitotic cell cycle	RANBP1	-t>
+E2F4/DP2/TRRAP	MYC	-t>
+DNA damage	HIC1	-t>
+TFDP2	E2F4/DP2	component>
+E2F4	E2F4/DP2	component>
+E2F4/DP2/GCN5	MYC	-t>
+E2F1/DP/PCAF	TP73	-t>
+E2F1-3/DP	uPA	-t|
+E2F1/DP	WASF1	-t>
+TFE3	E2F3/DP/TFE3	component>
+E2F3/DP	E2F3/DP/TFE3	component>
+Cbp/p300	E2F5/DP/Cbp/p300	component>
+E2F5/DP	E2F5/DP/Cbp/p300	component>
+G1 phase of mitotic cell cycle	MCM3	-t>
+E2F1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+S phase of mitotic cell cycle	CDC2	-t>
+cell growth	E2F2	-t>
+DP	E2F1-3/DP	component>
+E2F1-3	E2F1-3/DP	component>
+E2F6/DP	RBBP8	-t|
+E2F4	CEBPA/BRM/RB1/E2F4	component>
+RB1	CEBPA/BRM/RB1/E2F4	component>
+CEBPA/BRM	CEBPA/BRM/RB1/E2F4	component>
+G1 phase of mitotic cell cycle	Cyclin E	-t>
+S phase of mitotic cell cycle	CCNA2	-t>
+E2F6/DP	CBX5	-t|
+S phase of mitotic cell cycle	CASP7	-t>
+G1/S transition of mitotic cell cycle	TK1	-t>
+response to hypoxia	BRCA1	-t>
+HDAC1	E2F4/DP2/p107-p130/HDAC1	component>
+E2F4/DP2/p107-p130	E2F4/DP2/p107-p130/HDAC1	component>
+G1/S transition of mitotic cell cycle	Cyclin E	-t>
+BRM	CDK2	-a>
+BRM	CEBPA/BRM	-a>
+CEBPA/CDK2	CDK2	-a>
+CEBPA/CDK2	CEBPA/BRM	-a>
+E2F6/DP	UXT	-t|
+E2F1/DP	carboxylesterase	-t>
+E2F1-3/DP	SERPINE1	-t|
+E2F6/DP	BRCA1	-t|
+E2F3/DP	p14ARF	-t|
+E2F1-3/DP	MYC	-t>
+KAT2B	E2F1/DP/PCAF	component>
+E2F1/DP	E2F1/DP/PCAF	component>
+G1 phase of mitotic cell cycle	RBL1	-t>
+E2F6/DP	RBBP4	-t|
+E2F3/DP	TK1	-t>
+G1 phase of mitotic cell cycle	CDKN2C	-t>
+DNA damage	SIRT1	-t>
+E2F3/DP/TFE3	RRM2	-t>
+G1 phase of mitotic cell cycle	CDC25A	-t>
+E2F1/DP	p14ARF	-t>
+E2F1/DP	APAF1	-t>
+E2F1/DP	TP73	-t>
+G1/S transition of mitotic cell cycle	POLA1	-t>
+E2F1/DP	MCL1	-t|
+E2F1/DP	CDKN1B	-t>
+E2F3/DP/TFE3	RRM1	-t>
+E2F3/DP	TYMS	-t>
+G1/S transition of mitotic cell cycle	DHFR	-t>
+S phase of mitotic cell cycle	CCND3	-t>
+E2F5/DP	E2F5/DP	-a>
+E2F1/DP	E2F1/DP	-a>
+E2F1/DP	SULT2A1	-t>
+E2F4/DP2/GCN5	E2F1	-t>
+S phase of mitotic cell cycle	MYBL2	-t>
+G2/M transition of mitotic cell cycle	MAD2	-t>
+E2F1/DP	CDKN1A	-t>
+TOPBP1	E2F1/DP/TopBP1	component>
+E2F1/DP	E2F1/DP/TopBP1	component>
+cell growth	ORC1L	-t>
+p107-p130	E2F4/DP2/p107-p130	component>
+TFDP2	E2F4/DP2/p107-p130	component>
+E2F4	E2F4/DP2/p107-p130	component>
+RYBP/YY1	E2F3/DP/RYBP/YY1	component>
+E2F3/DP	E2F3/DP/RYBP/YY1	component>
+G1 phase of mitotic cell cycle	E2F1	-t>
+DNA damage	XRCC1	-t>
+HDAC1	E2F1/DP/HDAC1	component>
+E2F1/DP	E2F1/DP/HDAC1	component>
+G1/S transition of mitotic cell cycle	CDC6	-t>
+E2F1/DP	RB1	-t>

@@ -1,0 +1,111 @@
+abstract	chromatin remodeling
+complex	DHT/AR/FOXA1
+complex	DHT/AR
+protein	Cyclin D1
+protein	Probasin
+complex	AP1
+protein	NFI
+protein	Spermine binding protein
+complex	E2/ERA
+protein	SFTPA
+protein	FOXA
+protein	PSA
+smallMolecule	9cRA
+protein	Cbp/p300
+protein	XBP1
+protein	VTN
+protein	TFF1
+protein	SP1
+protein	SOD1
+protein	SHH
+protein	SFTPD
+protein	SERPINA1
+protein	SCGB1A1
+protein	POU2F1
+protein	PISD
+protein	NRIP1
+protein	NR2F2
+protein	NKX3-1
+protein	NDUFV3
+protein	NCOA3
+protein	INS
+protein	GCG
+protein	FOXA2
+protein	FOXA1
+protein	DSCAM
+protein	CYP2C18
+protein	COL18A1
+protein	CEBPB
+protein	CDKN1B
+protein	C4BPB
+protein	BRCA1
+protein	ATP5J
+protein	APOB
+protein	AP1B1
+DHT/AR	PSA	-t>
+FOXA2	GCG	-t|
+DHT/AR	Probasin	-t>
+NFI	C4BPB	-t>
+NR2F2	APOB	-t|
+SP1	APOB	-t>
+NCOA3	NRIP1	-t>
+E2/ERA	NRIP1	-t>
+NCOA3	XBP1	-t>
+E2/ERA	XBP1	-t>
+E2/ERA	PISD	-t>
+BRCA1	CDKN1B	-t>
+NFI	Cyclin D1	-t|
+AP1	Cyclin D1	-t>
+POU2F1	Cyclin D1	-t>
+SP1	Cyclin D1	-t>
+Cbp/p300	Cyclin D1	-t>
+E2/ERA	Cyclin D1	-t>
+FOXA1	Cyclin D1	-t>
+E2/ERA	AP1B1	-t>
+E2/ERA	ATP5J	-t>
+FOXA1	VTN	-t>
+FOXA2	SCGB1A1	-t|
+NCOA3	SOD1	-t>
+NCOA3	TFF1	-t>
+E2/ERA	TFF1	-t>
+E2/ERA	NDUFV3	-t>
+NCOA3	DSCAM	-t>
+E2/ERA	DSCAM	-t>
+CEBPB	SERPINA1	-t>
+E2/ERA	COL18A1	-t>
+INS	FOXA1	-t|
+E2/ERA	SOD1	-t>
+FOXA1	PSA	-t>
+FOXA1	GCG	-t>
+FOXA1	Probasin	-t>
+FOXA1	chromatin remodeling	-ap>
+FOXA	C4BPB	-t>
+FOXA1	APOB	-t>
+FOXA1	NRIP1	-t>
+FOXA1	XBP1	-t>
+FOXA1	SHH	-t>
+FOXA1	PISD	-t>
+FOXA1	CDKN1B	-t>
+FOXA1	INS	-t>
+chromatin remodeling	Cyclin D1	-t>
+FOXA1	AP1B1	-t>
+FOXA1	ATP5J	-t>
+9cRA	VTN	-t>
+E2/ERA	FOXA1	-t>
+FOXA1	SCGB1A1	-t>
+FOXA1	TFF1	-t>
+FOXA1	CYP2C18	-t>
+FOXA1	NDUFV3	-t>
+FOXA1	SFTPD	-t>
+FOXA1	DSCAM	-t>
+FOXA1	NKX3-1	-t>
+FOXA1	SERPINA1	-t>
+FOXA1	Spermine binding protein	-t>
+FOXA1	SFTPA	-t>
+FOXA1	COL18A1	-t>
+FOXA2	FOXA1	-t>
+9cRA	FOXA1	-t>
+FOXA1	SOD1	-t>
+FOXA1	DHT/AR/FOXA1	component>
+DHT/AR	DHT/AR/FOXA1	component>
+FOXA1	FOXA2	-t>

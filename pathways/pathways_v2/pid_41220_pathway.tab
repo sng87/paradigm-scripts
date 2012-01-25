@@ -1,0 +1,44 @@
+protein	UniProt:P08567 PLEK_subunit_1_350_1-350
+protein	UniProt:Q9JKS5 Habp4_subunit_1_411_1-411
+protein	UniProt:Q8WZ42 TTN_subunit_1_34350_1-34350
+protein	WDR1
+protein	VCL
+protein	TUBA4A
+protein	TLN1
+protein	TF
+protein	SOD1
+protein	SCG3
+protein	PSAP
+protein	PPIA
+protein	POTEE
+protein	PFN1
+protein	HSPA5
+protein	FLNA
+protein	CFL1
+protein	CAP1
+protein	CALU
+protein	CALM1
+protein	BRPF3
+protein	APOA1
+BRPF3	BRPF3	-a>
+TUBA4A	TUBA4A	-a>
+CALU	CALU	-a>
+TF	TF	-a>
+PPIA	PPIA	-a>
+SOD1	SOD1	-a>
+PFN1	PFN1	-a>
+CALM1	CALM1	-a>
+POTEE	POTEE	-a>
+CFL1	CFL1	-a>
+SCG3	SCG3	-a>
+UniProt:Q8WZ42 TTN_subunit_1_34350_1-34350	UniProt:Q8WZ42 TTN_subunit_1_34350_1-34350	-a>
+CAP1	CAP1	-a>
+APOA1	APOA1	-a>
+UniProt:P08567 PLEK_subunit_1_350_1-350	UniProt:P08567 PLEK_subunit_1_350_1-350	-a>
+HSPA5	HSPA5	-a>
+FLNA	FLNA	-a>
+PSAP	PSAP	-a>
+UniProt:Q9JKS5 Habp4_subunit_1_411_1-411	UniProt:Q9JKS5 Habp4_subunit_1_411_1-411	-a>
+WDR1	WDR1	-a>
+TLN1	TLN1	-a>
+VCL	VCL	-a>

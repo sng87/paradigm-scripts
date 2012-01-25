@@ -1,0 +1,12 @@
+complex	Activated AMPK heterotrimer
+complex	AMPK heterotrimer (inactive)
+smallMolecule	AMP
+complex	AMPK heterotrimer:AMP
+protein	STK11
+protein	MLXIPL
+AMP	MLXIPL	-a|
+STK11	Activated AMPK heterotrimer	-a>
+AMP	AMPK heterotrimer:AMP	-a>
+AMPK heterotrimer (inactive)	AMPK heterotrimer:AMP	-a>
+Activated AMPK heterotrimer	MLXIPL	-a>
+AMPK heterotrimer:AMP	Activated AMPK heterotrimer	-a>

@@ -1,0 +1,39 @@
+abstract	positive regulation of natural killer cell mediated cytotoxicity
+complex	Class I MHC/CD94/NKG2
+complex	Class I MHC
+complex	CD94/NKG2
+complex	AR ligand/Activating receptors
+complex	Class I MHC/Ig-superfamily Inhibitory Receptors
+protein	Ig-superfamily Inhibitory Receptors
+protein	AR ligand
+protein	Activating receptors
+complex	PI3K
+protein	VAV1
+protein	SYK
+protein	RAC1
+protein	PTPN6
+protein	PAK1
+protein	MAPK3
+protein	MAP2K1
+protein	LAT
+protein	IL18
+PTPN6	PI3K	-a|
+Activating receptors	AR ligand/Activating receptors	component>
+AR ligand	AR ligand/Activating receptors	component>
+VAV1	RAC1	-a>
+Ig-superfamily Inhibitory Receptors	Class I MHC/Ig-superfamily Inhibitory Receptors	component>
+Class I MHC	Class I MHC/Ig-superfamily Inhibitory Receptors	component>
+PAK1	MAP2K1	-a>
+PI3K	VAV1	-a>
+MAPK3	positive regulation of natural killer cell mediated cytotoxicity	-ap>
+SYK	LAT	-a>
+MAP2K1	MAPK3	-a>
+MAPK3	IL18	-a>
+LAT	PAK1	-a>
+AR ligand/Activating receptors	PI3K	-a>
+RAC1	PAK1	-a>
+Class I MHC/Ig-superfamily Inhibitory Receptors	PTPN6	-a>
+CD94/NKG2	Class I MHC/CD94/NKG2	component>
+Class I MHC	Class I MHC/CD94/NKG2	component>
+Class I MHC/CD94/NKG2	PTPN6	-a>
+AR ligand/Activating receptors	SYK	-a>

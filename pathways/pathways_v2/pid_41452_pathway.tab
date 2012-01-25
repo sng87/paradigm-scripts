@@ -1,0 +1,127 @@
+complex	RNA polymerase II (phosphorylated):TFIIF complex
+complex	Cleavage and Polyadenylation Complex
+complex	Ligated exon containing complex
+complex	Spliceosomal Active C Complex
+complex	capped, methylated pre-mRNP:CBC complex
+complex	Spliceosomal active C complex with lariat containing, 5'-end cleaved pre-mRNP:CBC complex
+complex	Magoh-Y14 complex
+complex	Spliceosomal E Complex
+complex	U2 snRNP
+complex	Exon Junction Complex
+complex	U4:U5:U6 trisnRNP complex
+complex	U4 snRNP
+complex	U1 snRNP
+complex	Spliceosomal B Complex
+complex	intron-containing complex
+protein	UniProt:P14866 HNRNPL
+protein	UniProt:O43831 NFX.1
+protein	UniProt:Q00839 HNRNPU
+protein	UniProt:Q15365 PCBP1
+complex	Spliceosomal A Complex
+protein	YBX1
+protein	UPF3B
+protein	U2AF2
+protein	U2AF1
+protein	THOC4
+protein	SRRM1
+protein	SMC1A
+protein	SFRS9
+protein	SFRS7
+protein	SFRS6
+protein	SFRS5
+protein	SFRS4
+protein	SFRS3
+protein	SFRS2
+protein	SFRS11
+protein	SFRS1
+protein	SF4
+protein	RNPS1
+protein	RBMX
+protein	RBM5
+protein	PTBP1
+protein	PCBP2
+protein	HNRNPUL1
+protein	HNRNPR
+protein	HNRNPM
+protein	HNRNPK
+protein	HNRNPH2
+protein	HNRNPH1
+protein	HNRNPF
+protein	HNRNPD
+protein	HNRNPC
+protein	HNRNPA3
+protein	HNRNPA2B1
+protein	HNRNPA1
+protein	HNRNPA0
+protein	FUS
+protein	DNAJC8
+protein	DHX9
+protein	DHX38
+protein	CDC40
+protein	CD2BP2
+protein	CCAR1
+Magoh-Y14 complex	Exon Junction Complex	component>
+Spliceosomal active C complex with lariat containing, 5'-end cleaved pre-mRNP:CBC complex	Exon Junction Complex	component>
+Exon Junction Complex	HNRNPC	component>
+Exon Junction Complex	HNRNPH2	component>
+Exon Junction Complex	HNRNPF	component>
+Exon Junction Complex	UniProt:Q00839 HNRNPU	component>
+Exon Junction Complex	RNA polymerase II (phosphorylated):TFIIF complex	component>
+Exon Junction Complex	HNRNPA0	component>
+Exon Junction Complex	HNRNPA1	component>
+Exon Junction Complex	HNRNPA3	component>
+Exon Junction Complex	HNRNPR	component>
+Exon Junction Complex	UniProt:Q15365 PCBP1	component>
+Exon Junction Complex	PCBP2	component>
+Exon Junction Complex	intron-containing complex	component>
+Exon Junction Complex	UniProt:P14866 HNRNPL	component>
+Exon Junction Complex	HNRNPD	component>
+Exon Junction Complex	HNRNPK	component>
+Exon Junction Complex	HNRNPM	component>
+Exon Junction Complex	RBMX	component>
+Exon Junction Complex	HNRNPA2B1	component>
+Exon Junction Complex	HNRNPH1	component>
+Exon Junction Complex	PTBP1	component>
+Exon Junction Complex	Ligated exon containing complex	component>
+DHX38	Spliceosomal A Complex	component>
+Spliceosomal E Complex	Spliceosomal A Complex	component>
+DNAJC8	Spliceosomal A Complex	component>
+U2 snRNP	Spliceosomal A Complex	component>
+CDC40	Spliceosomal A Complex	component>
+SFRS11	Spliceosomal A Complex	component>
+SFRS4	Spliceosomal A Complex	component>
+Spliceosomal A Complex	Spliceosomal B Complex	component>
+U4:U5:U6 trisnRNP complex	Spliceosomal B Complex	component>
+Spliceosomal Active C Complex	Spliceosomal Active C Complex	-a>
+Cleavage and Polyadenylation Complex	U4 snRNP	component>
+Cleavage and Polyadenylation Complex	U1 snRNP	component>
+Cleavage and Polyadenylation Complex	Spliceosomal Active C Complex	component>
+Spliceosomal B Complex	U4 snRNP	component>
+Spliceosomal B Complex	U1 snRNP	component>
+Spliceosomal B Complex	Spliceosomal Active C Complex	component>
+SFRS6	Spliceosomal E Complex	component>
+SFRS2	Spliceosomal E Complex	component>
+UniProt:O43831 NFX.1	Spliceosomal E Complex	component>
+U2AF2	Spliceosomal E Complex	component>
+capped, methylated pre-mRNP:CBC complex	Spliceosomal E Complex	component>
+CD2BP2	Spliceosomal E Complex	component>
+RBM5	Spliceosomal E Complex	component>
+FUS	Spliceosomal E Complex	component>
+THOC4	Spliceosomal E Complex	component>
+SRRM1	Spliceosomal E Complex	component>
+HNRNPUL1	Spliceosomal E Complex	component>
+SFRS5	Spliceosomal E Complex	component>
+SFRS1	Spliceosomal E Complex	component>
+DHX9	Spliceosomal E Complex	component>
+RNPS1	Spliceosomal E Complex	component>
+SFRS9	Spliceosomal E Complex	component>
+SF4	Spliceosomal E Complex	component>
+U2AF1	Spliceosomal E Complex	component>
+CCAR1	Spliceosomal E Complex	component>
+U1 snRNP	Spliceosomal E Complex	component>
+SMC1A	Spliceosomal E Complex	component>
+YBX1	Spliceosomal E Complex	component>
+SFRS7	Spliceosomal E Complex	component>
+SFRS3	Spliceosomal E Complex	component>
+Spliceosomal Active C Complex	Spliceosomal active C complex with lariat containing, 5'-end cleaved pre-mRNP:CBC complex	component>
+UPF3B	Spliceosomal active C complex with lariat containing, 5'-end cleaved pre-mRNP:CBC complex	component>

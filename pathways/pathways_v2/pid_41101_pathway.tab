@@ -1,0 +1,66 @@
+smallMolecule	TPNH
+smallMolecule	Progesterone
+smallMolecule	Androstenedione
+smallMolecule	17alpha-Hydroxyprogesterone
+smallMolecule	Pregnenolone
+smallMolecule	H2O
+smallMolecule	DHA
+smallMolecule	Ethanal
+smallMolecule	TPN
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	ChEBI:28750
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	testosterone
+protein	HSD17B3
+protein	CYP17A1
+CYP17A1	17alpha-Hydroxyprogesterone	-a>
+HSD17B3	testosterone	-a>
+CYP17A1	ChEBI:28750	-a>
+CYP17A1	TPN	-a>
+O2	17alpha-Hydroxyprogesterone	-a>
+Progesterone	H2O	-a>
+Progesterone	TPN	-a>
+Progesterone	17alpha-Hydroxyprogesterone	-a>
+H+	17alpha-Hydroxyprogesterone	-a>
+TPNH	17alpha-Hydroxyprogesterone	-a>
+DHA	H+	-a>
+DHA	Androstenedione	-a>
+DHA	NADH	-a>
+DPN	H+	-a>
+DPN	Androstenedione	-a>
+DPN	NADH	-a>
+Androstenedione	TPN	-a>
+Androstenedione	testosterone	-a>
+TPNH	testosterone	-a>
+H+	testosterone	-a>
+O2	Androstenedione	-a>
+TPNH	Androstenedione	-a>
+H+	Androstenedione	-a>
+17alpha-Hydroxyprogesterone	H2O	-a>
+17alpha-Hydroxyprogesterone	Ethanal	-a>
+17alpha-Hydroxyprogesterone	Androstenedione	-a>
+17alpha-Hydroxyprogesterone	TPN	-a>
+H+	ChEBI:28750	-a>
+Pregnenolone	H2O	-a>
+Pregnenolone	TPN	-a>
+Pregnenolone	ChEBI:28750	-a>
+TPNH	ChEBI:28750	-a>
+O2	ChEBI:28750	-a>
+ChEBI:28750	H2O	-a>
+ChEBI:28750	DHA	-a>
+ChEBI:28750	Ethanal	-a>
+ChEBI:28750	TPN	-a>
+O2	H2O	-a>
+O2	DHA	-a>
+O2	Ethanal	-a>
+O2	TPN	-a>
+TPNH	H2O	-a>
+TPNH	DHA	-a>
+TPNH	Ethanal	-a>
+TPNH	TPN	-a>
+H+	H2O	-a>
+H+	DHA	-a>
+H+	Ethanal	-a>
+H+	TPN	-a>

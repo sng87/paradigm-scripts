@@ -1,0 +1,9 @@
+abstract	RNA fragment catabolic process
+complex	RISC
+rna	dsRNA
+rna	siRNA
+protein	DICER1
+DICER1	siRNA	-a>
+RISC	RNA fragment catabolic process	-ap>
+dsRNA	siRNA	-a>
+siRNA	RNA fragment catabolic process	-ap>

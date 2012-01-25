@@ -1,0 +1,134 @@
+abstract	clathrin coat assembly
+abstract	degradation
+complex	CDC42/GDP
+complex	CBL
+complex	RAB5/GTP
+complex	RAS family/GTP
+complex	CBL/Ubc4-5 family
+complex	CIN85/Endophilin
+complex	RAS family/GDP
+complex	DMN1/GTP
+protein	EPS15b
+complex	PI3K Class IA family
+complex	GRB2/SOS1
+complex	CBL/Sprouty2
+protein	Ubc4-5 family
+complex	CDC42/GTP
+complex	GRB2/CBL
+complex	AP-2 adaptor complex
+complex	EGFR/EGFR/EGF/EGF/p52 SHC
+complex	EGFR/EGFR/EGF/EGF/GRB2/CBL
+complex	EGFR/EGFR/EGF/EGF/p46 SHC/GRB2/SOS1
+complex	EGFR/EGFR/EGF/EGF/p46 SHC
+protein	p52 SHC
+complex	EGFR/EGFR/EGF/EGF/p52 SHC/GRB2/SOS1
+complex	betaPIX/CDC42/GTP/CBL
+complex	EGFR/EGFR/EGF/EGF
+protein	FAK
+complex	EGFR/EGFR/EGF/EGF/GRB2/SOS1
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ZFYVE28
+protein	VPS24
+protein	USP8
+protein	TSG101
+protein	SYNJ1
+protein	STAMBP
+protein	SRC
+protein	SPRY2
+protein	SOS1
+protein	SHC1
+protein	RAF1
+protein	LRIG1
+protein	ITSN1
+protein	HGS
+protein	GRB2
+protein	EPS15
+protein	EPN1
+protein	EGFR
+protein	EGF
+protein	CBLB
+protein	CBL
+protein	ARHGEF7
+protein	AMPH
+CBL/Ubc4-5 family	EGFR/EGFR/EGF/EGF	-a>
+ARHGEF7	CDC42/GTP	-a>
+EGFR/EGFR/EGF/EGF/p46 SHC/GRB2/SOS1	RAS family/GTP	-a>
+CBLB	EGFR/EGFR/EGF/EGF	-a>
+Ubc4-5 family	EGFR/EGFR/EGF/EGF	-a>
+CBL	EGFR/EGFR/EGF/EGF	-a>
+SYNJ1	EGFR/EGFR/EGF/EGF	-a>
+AMPH	EGFR/EGFR/EGF/EGF	-a>
+DMN1/GTP	EGFR/EGFR/EGF/EGF	-a>
+EGFR/EGFR/EGF/EGF/p52 SHC/GRB2/SOS1	RAS family/GTP	-a>
+CBL	CIN85/Endophilin	-a>
+AP-2 adaptor complex	EGFR/EGFR/EGF/EGF/GRB2/CBL	-a>
+EPS15	EGFR/EGFR/EGF/EGF/GRB2/CBL	-a>
+EPN1	EGFR/EGFR/EGF/EGF	-a>
+USP8	EGFR/EGFR/EGF/EGF	-a>
+TSG101	EGFR/EGFR/EGF/EGF	-a>
+VPS24	EGFR/EGFR/EGF/EGF	-a>
+ZFYVE28	EGFR/EGFR/EGF/EGF	-a>
+TSG101	EGFR/EGFR/EGF/EGF/GRB2/SOS1	-a>
+VPS24	EGFR/EGFR/EGF/EGF/GRB2/SOS1	-a>
+ZFYVE28	EGFR/EGFR/EGF/EGF/GRB2/SOS1	-a>
+EGFR/EGFR/EGF/EGF/GRB2/SOS1	RAS family/GTP	-a>
+STAMBP	EGFR/EGFR/EGF/EGF	-a>
+EGFR/EGFR/EGF/EGF/GRB2/SOS1	SOS1	component>
+EGFR/EGFR/EGF/EGF/GRB2/SOS1	GRB2	component>
+EGFR/EGFR/EGF/EGF/GRB2/SOS1	EGF	component>
+EGFR/EGFR/EGF/EGF/GRB2/SOS1	EGFR	component>
+FAK	ARHGEF7	-a>
+RAS family/GTP	RAF1	-a>
+EGFR/EGFR/EGF/EGF	EPS15	-a>
+ITSN1	CBL	-a>
+EGFR/EGFR/EGF/EGF	EPS15b	-a>
+GTP	CDC42/GTP	-a>
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+EGFR/EGFR/EGF/EGF/GRB2/CBL	GRB2/CBL	component>
+EGFR/EGFR/EGF/EGF/GRB2/CBL	EGFR/EGFR/EGF/EGF	component>
+GRB2/SOS1	EGFR/EGFR/EGF/EGF/GRB2/SOS1	component>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF/GRB2/SOS1	component>
+EGFR/EGFR/EGF/EGF	CBL/Ubc4-5 family	-a>
+CBL	ARHGEF7	-a>
+EGFR/EGFR/EGF/EGF	CBL	-a>
+LRIG1	CBL	-a>
+CIN85/Endophilin	EGFR/EGFR/EGF/EGF	-a>
+RAB5/GTP	EGFR/EGFR/EGF/EGF	-a>
+EGFR/EGFR/EGF/EGF/GRB2/CBL	EGFR/EGFR/EGF/EGF/GRB2/CBL	-a>
+EPS15b	HGS	-a>
+SOS1	degradation	-ap>
+CIN85/Endophilin	CIN85/Endophilin	-a>
+GRB2/SOS1	EGFR/EGFR/EGF/EGF/p46 SHC/GRB2/SOS1	component>
+EGFR/EGFR/EGF/EGF/p46 SHC	EGFR/EGFR/EGF/EGF/p46 SHC/GRB2/SOS1	component>
+p52 SHC	EGFR/EGFR/EGF/EGF/p52 SHC	component>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF/p52 SHC	component>
+GRB2/SOS1	EGFR/EGFR/EGF/EGF/p52 SHC/GRB2/SOS1	component>
+EGFR/EGFR/EGF/EGF/p52 SHC	EGFR/EGFR/EGF/EGF/p52 SHC/GRB2/SOS1	component>
+clathrin coat assembly	EGFR/EGFR/EGF/EGF/GRB2/CBL	-a>
+EPS15	EGFR/EGFR/EGF/EGF	-a>
+GRB2	degradation	-ap>
+ARHGEF7	degradation	-ap>
+CBL	betaPIX/CDC42/GTP/CBL	component>
+ARHGEF7	betaPIX/CDC42/GTP/CBL	component>
+CDC42/GTP	betaPIX/CDC42/GTP/CBL	component>
+SHC1	EGFR/EGFR/EGF/EGF/p46 SHC	component>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF/p46 SHC	component>
+SPRY2	CBL/Sprouty2	component>
+CBL	CBL/Sprouty2	component>
+EGF	degradation	-ap>
+HGS	EGFR/EGFR/EGF/EGF	-a>
+HGS	EGFR/EGFR/EGF/EGF/GRB2/SOS1	-a>
+EGFR/EGFR/EGF/EGF	PI3K Class IA family	-a>
+GRB2/CBL	EGFR/EGFR/EGF/EGF/GRB2/CBL	component>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF/GRB2/CBL	component>
+EGFR	degradation	-ap>
+GTP	GDP	-a>
+GTP	RAS family/GTP	-a>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+EGFR/EGFR/EGF/EGF	EGFR/EGFR/EGF/EGF	-a>
+SRC	FAK	-a>
+EGFR/EGFR/EGF/EGF	EGF	component>
+EGFR/EGFR/EGF/EGF	EGFR	component>

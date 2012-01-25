@@ -1,0 +1,24 @@
+protein	_1-76
+complex	multi-ubiquitinated phospho-(T286) Cyclin D1
+complex	Cyclin D1:Cdk4
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	phospho(T286)-Cyclin D1:Cdk4
+complex	26S Proteasome
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CCND1
+26S Proteasome	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+multi-ubiquitinated phospho-(T286) Cyclin D1	_1-76	component>
+multi-ubiquitinated phospho-(T286) Cyclin D1	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	component>
+multi-ubiquitinated phospho-(T286) Cyclin D1	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+CCND1	CCND1	-a>
+CCND1	multi-ubiquitinated phospho-(T286) Cyclin D1	component>
+_1-76	multi-ubiquitinated phospho-(T286) Cyclin D1	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	multi-ubiquitinated phospho-(T286) Cyclin D1	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	multi-ubiquitinated phospho-(T286) Cyclin D1	component>
+phospho(T286)-Cyclin D1:Cdk4	phospho(T286)-Cyclin D1:Cdk4	-a>
+Cyclin D1:Cdk4	ADP	-a>
+Cyclin D1:Cdk4	phospho(T286)-Cyclin D1:Cdk4	-a>
+ATP	ADP	-a>
+ATP	phospho(T286)-Cyclin D1:Cdk4	-a>

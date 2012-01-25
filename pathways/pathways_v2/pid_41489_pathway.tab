@@ -1,0 +1,26 @@
+smallMolecule	Arachidonate
+protein	UniProt:P24557 TBXAS1_subunit_1_533_1-533
+smallMolecule	H2O
+smallMolecule	Thromboxane A2
+smallMolecule	electron
+smallMolecule	Prostaglandin H2
+smallMolecule	Prostaglandin E2
+complex	PGHS2 homodimer
+smallMolecule	PGG2
+smallMolecule	O2
+smallMolecule	PGI2
+protein	PTGIS
+protein	PTGES3
+PGHS2 homodimer	H2O	-a>
+PTGIS	PGI2	-a>
+PTGES3	Prostaglandin E2	-a>
+UniProt:P24557 TBXAS1_subunit_1_533_1-533	Thromboxane A2	-a>
+PGG2	Prostaglandin H2	-a>
+PGG2	H2O	-a>
+O2	PGG2	-a>
+Arachidonate	PGG2	-a>
+Prostaglandin H2	PGI2	-a>
+electron	PGI2	-a>
+Prostaglandin H2	Prostaglandin E2	-a>
+electron	Thromboxane A2	-a>
+Prostaglandin H2	Thromboxane A2	-a>

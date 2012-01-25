@@ -1,0 +1,56 @@
+abstract	lamellipodium assembly
+abstract	cell adhesion
+complex	alpha4/beta1 Integrin/Paxillin/Talin
+complex	alpha4/beta1 Integrin/Paxillin/VCAM1
+complex	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton
+complex	alphaL/beta2 Integrin
+complex	ARF6/GTP
+complex	alpha4/beta7 Integrin/Paxillin
+complex	alpha4/beta1 Integrin/Paxillin/GIT1
+complex	ARF6/GDP
+complex	p130Cas/Crk/Dock1
+complex	RAC1/GDP
+complex	alpha4/beta1 Integrin/Paxillin
+complex	PAK1
+complex	alpha4/beta7 Integrin
+complex	actin cytoskeleton
+complex	CRKL/CBL
+complex	alpha4/beta1 Integrin
+complex	PI3K
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VCAM1
+protein	TLN1
+protein	PXN
+protein	PRKACA
+protein	GIT1
+alpha4/beta1 Integrin/Paxillin/GIT1	PAK1	-a|
+ARF6/GTP	PAK1	-a>
+p130Cas/Crk/Dock1	PAK1	-a>
+CRKL/CBL	PAK1	-a>
+PI3K	PAK1	-a>
+alpha4/beta1 Integrin/Paxillin/GIT1	ARF6/GTP	-a|
+PRKACA	alpha4/beta1 Integrin	component>
+RAC1/GDP	PAK1	-a>
+TLN1	alpha4/beta1 Integrin/Paxillin/Talin	component>
+alpha4/beta1 Integrin/Paxillin	alpha4/beta1 Integrin/Paxillin/Talin	component>
+PXN	alpha4/beta1 Integrin/Paxillin	component>
+alpha4/beta1 Integrin	alpha4/beta1 Integrin/Paxillin	component>
+PXN	alpha4/beta7 Integrin/Paxillin	component>
+alpha4/beta7 Integrin	alpha4/beta7 Integrin/Paxillin	component>
+VCAM1	alpha4/beta1 Integrin/Paxillin/VCAM1	component>
+alpha4/beta7 Integrin/Paxillin	alpha4/beta1 Integrin/Paxillin/VCAM1	component>
+actin cytoskeleton	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	component>
+alpha4/beta1 Integrin/Paxillin/Talin	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	component>
+alphaL/beta2 Integrin	cell adhesion	-ap>
+alpha4/beta1 Integrin/Paxillin/VCAM1	cell adhesion	-ap>
+GTP	GDP	-a>
+GTP	ARF6/GTP	-a>
+ARF6/GDP	GDP	-a>
+ARF6/GDP	ARF6/GTP	-a>
+alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	cell adhesion	-ap>
+alpha4/beta1 Integrin/Paxillin	PXN	component>
+alpha4/beta1 Integrin/Paxillin	alpha4/beta1 Integrin	component>
+PAK1	lamellipodium assembly	-ap>
+GIT1	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+alpha4/beta1 Integrin/Paxillin	alpha4/beta1 Integrin/Paxillin/GIT1	component>

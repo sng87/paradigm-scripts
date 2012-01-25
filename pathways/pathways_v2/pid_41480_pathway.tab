@@ -1,0 +1,141 @@
+complex	pyruvate carboxylase holoenzyme
+protein	UniProt:Q16822 PCK2_subunit_33_640_33-640
+smallMolecule	Oxaloacetate
+complex	malate dehydrogenase 2 dimer
+smallMolecule	2-Phospho-D-glycerate
+smallMolecule	3-Phospho-D-glycerate
+smallMolecule	2-Oxoglutarate
+smallMolecule	Neuberg ester
+smallMolecule	D-Fructose 2,6-bisphosphate
+smallMolecule	D-Glyceraldehyde 3-phosphate
+smallMolecule	alpha-D-Glucose
+complex	phosphoglycerate kinase 1 complex
+protein	mitochondrial aspartate glutamate carrier
+complex	triosephosphate isomerase dimer
+complex	aspartate aminotransferase, cytoplasmic, holoenzyme
+smallMolecule	Citrate
+complex	malate dehydrogenase 1 dimer
+smallMolecule	L-Aspartate
+complex	glucose 6-phosphate isomerase dimer
+smallMolecule	Pyruvate
+complex	SLC25A11 homodimer
+smallMolecule	H2O
+smallMolecule	L-Malate
+smallMolecule	Glycerone phosphate
+smallMolecule	CO2
+complex	aspartate aminotransferase, mitochondrial, holoenzyme
+smallMolecule	DPN
+smallMolecule	alpha-D-Glucose 6-phosphate
+smallMolecule	NADH
+smallMolecule	D-Fructose 1,6-bisphosphate
+smallMolecule	1,3-Bisphospho-D-glycerate
+smallMolecule	PEP
+smallMolecule	L-Glutamate
+smallMolecule	Acetyl-CoA
+smallMolecule	AMP
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SLC37A4
+protein	SLC25A10
+protein	SLC25A1
+protein	PCK1
+protein	G6PC
+protein	FBP2
+SLC25A11 homodimer	2-Oxoglutarate	-a>
+glucose 6-phosphate isomerase dimer	alpha-D-Glucose 6-phosphate	-a>
+D-Fructose 2,6-bisphosphate	Neuberg ester	-a|
+AMP	Neuberg ester	-a|
+FBP2	Neuberg ester	-a>
+mitochondrial aspartate glutamate carrier	L-Glutamate	-a>
+pyruvate carboxylase holoenzyme	Oxaloacetate	-a>
+Acetyl-CoA	Oxaloacetate	-a>
+malate dehydrogenase 2 dimer	DPN	-a>
+G6PC	phosphate	-a>
+malate dehydrogenase 1 dimer	Oxaloacetate	-a>
+phosphoglycerate kinase 1 complex	ADP	-a>
+aspartate aminotransferase, mitochondrial, holoenzyme	L-Aspartate	-a>
+aspartate aminotransferase, cytoplasmic, holoenzyme	Oxaloacetate	-a>
+PCK1	CO2	-a>
+triosephosphate isomerase dimer	Glycerone phosphate	-a>
+UniProt:Q16822 PCK2_subunit_33_640_33-640	GDP	-a>
+2-Oxoglutarate	L-Malate	-a>
+2-Oxoglutarate	2-Oxoglutarate	-a>
+L-Malate	L-Malate	-a>
+L-Malate	2-Oxoglutarate	-a>
+Neuberg ester	alpha-D-Glucose 6-phosphate	-a>
+phosphate	phosphate	-a>
+phosphate	L-Malate	-a>
+L-Malate	phosphate	-a>
+SLC25A10	L-Malate	-a>
+H+	phosphate	-a>
+H+	D-Glyceraldehyde 3-phosphate	-a>
+NADH	phosphate	-a>
+NADH	D-Glyceraldehyde 3-phosphate	-a>
+1,3-Bisphospho-D-glycerate	DPN	-a>
+1,3-Bisphospho-D-glycerate	phosphate	-a>
+1,3-Bisphospho-D-glycerate	D-Glyceraldehyde 3-phosphate	-a>
+D-Fructose 1,6-bisphosphate	phosphate	-a>
+D-Fructose 1,6-bisphosphate	Neuberg ester	-a>
+H2O	Neuberg ester	-a>
+D-Fructose 2,6-bisphosphate	phosphate	-a>
+D-Fructose 2,6-bisphosphate	Neuberg ester	-a>
+L-Glutamate	L-Glutamate	-a>
+L-Aspartate	L-Aspartate	-a>
+CO2	phosphate	-a>
+CO2	ADP	-a>
+CO2	Oxaloacetate	-a>
+Pyruvate	phosphate	-a>
+Pyruvate	ADP	-a>
+Pyruvate	Oxaloacetate	-a>
+ATP	phosphate	-a>
+ATP	Oxaloacetate	-a>
+H+	L-Malate	-a>
+H+	DPN	-a>
+Oxaloacetate	L-Malate	-a>
+Oxaloacetate	DPN	-a>
+NADH	L-Malate	-a>
+NADH	DPN	-a>
+2-Phospho-D-glycerate	3-Phospho-D-glycerate	-a>
+alpha-D-Glucose 6-phosphate	alpha-D-Glucose	-a>
+alpha-D-Glucose 6-phosphate	phosphate	-a>
+H2O	alpha-D-Glucose	-a>
+H2O	phosphate	-a>
+L-Malate	NADH	-a>
+L-Malate	H+	-a>
+L-Malate	Oxaloacetate	-a>
+DPN	NADH	-a>
+DPN	H+	-a>
+DPN	Oxaloacetate	-a>
+SLC37A4	alpha-D-Glucose 6-phosphate	-a>
+3-Phospho-D-glycerate	1,3-Bisphospho-D-glycerate	-a>
+3-Phospho-D-glycerate	ADP	-a>
+ATP	1,3-Bisphospho-D-glycerate	-a>
+ATP	ADP	-a>
+Oxaloacetate	2-Oxoglutarate	-a>
+Oxaloacetate	L-Aspartate	-a>
+L-Glutamate	2-Oxoglutarate	-a>
+L-Glutamate	L-Aspartate	-a>
+2-Oxoglutarate	L-Glutamate	-a>
+2-Oxoglutarate	Oxaloacetate	-a>
+L-Aspartate	L-Glutamate	-a>
+L-Aspartate	Oxaloacetate	-a>
+D-Glyceraldehyde 3-phosphate	D-Fructose 1,6-bisphosphate	-a>
+Glycerone phosphate	D-Fructose 1,6-bisphosphate	-a>
+Citrate	Citrate	-a>
+Citrate	PEP	-a>
+PEP	Citrate	-a>
+SLC25A1	PEP	-a>
+D-Glyceraldehyde 3-phosphate	Glycerone phosphate	-a>
+Oxaloacetate	PEP	-a>
+Oxaloacetate	CO2	-a>
+Oxaloacetate	GDP	-a>
+GTP	PEP	-a>
+GTP	CO2	-a>
+GTP	GDP	-a>
+alpha-D-Glucose	alpha-D-Glucose	-a>
+H2O	2-Phospho-D-glycerate	-a>
+PEP	2-Phospho-D-glycerate	-a>

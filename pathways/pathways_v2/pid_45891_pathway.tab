@@ -1,0 +1,12 @@
+abstract	removal of superoxide radicals
+protein	PDCD8
+abstract	DNA fragmentation during apoptosis
+abstract	DNA damage
+protein	PARP1
+protein	BCL2L1
+DNA damage	PARP1	-a>
+PDCD8	DNA fragmentation during apoptosis	-ap>
+PARP1	PARP1	-a>
+PDCD8	removal of superoxide radicals	-ap>
+PARP1	PDCD8	-a>
+BCL2L1	PDCD8	-a|

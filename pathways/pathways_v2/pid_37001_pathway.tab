@@ -1,0 +1,47 @@
+abstract	activation-induced cell death of T cells
+abstract	CD4-positive CD25-positive alpha-beta regulatory T cell lineage commitment
+abstract	G1/S transition of mitotic cell cycle
+abstract	cell proliferation
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K
+complex	STAT5 (dimer)-active
+protein	SP1
+protein	PRF1
+protein	MYC
+protein	LTA
+protein	IL4
+protein	IL2RA
+protein	FOXP3
+protein	FASLG
+protein	ELF1
+protein	CDK6
+protein	CCND3
+protein	CCND2
+protein	CCNA2
+protein	BCL2L1
+protein	BCL2
+ELF1	IL2RA	-t>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	CCND3	-t>
+SP1	CCND2	-t>
+STAT5 (dimer)-active	FOXP3	-t>
+STAT5 (dimer)-active	MYC	-t>
+STAT5 (dimer)-active	BCL2	-t>
+STAT5 (dimer)-active	PRF1	-t>
+STAT5 (dimer)-active	CDK6	-t>
+STAT5 (dimer)-active	IL4	-t>
+CCNA2	G1/S transition of mitotic cell cycle	-ap>
+MYC	cell proliferation	-ap>
+BCL2L1	activation-induced cell death of T cells	-ap|
+STAT5 (dimer)-active	IL2RA	-t>
+STAT5 (dimer)-active	BCL2L1	-t>
+STAT5 (dimer)-active	CCND3	-t>
+STAT5 (dimer)-active	CD4-positive CD25-positive alpha-beta regulatory T cell lineage commitment	-ap>
+STAT5 (dimer)-active	LTA	-t>
+STAT5 (dimer)-active	FASLG	-t>
+STAT5 (dimer)-active	CCND2	-t>
+STAT5 (dimer)-active	activation-induced cell death of T cells	-ap|
+CCND3	G1/S transition of mitotic cell cycle	-ap>
+CDK6	G1/S transition of mitotic cell cycle	-ap>
+STAT5 (dimer)-active	CCNA2	-t>
+CCND2	G1/S transition of mitotic cell cycle	-ap>
+BCL2	activation-induced cell death of T cells	-ap|
+CD4-positive CD25-positive alpha-beta regulatory T cell lineage commitment	FOXP3	-t>

@@ -1,0 +1,87 @@
+complex	beta-catenin/ubiquitin
+complex	CtBP1/CBP/TCF/TLE1
+protein	NAKED
+complex	beta-catenin/beta-TRCP
+complex	beta-catenin/TCF/CtBP1/CBP/TLE1/SMAD4
+protein	CK-1
+complex	LRP6/FRIZZLED
+complex	AXIN/APC/beta-catenin
+complex	DKK1/LRP6/KRM2
+complex	DKK2/LRP6/KRM2
+complex	WNT/LRP6/FRIZZLED
+abstract	protein ubiquitination
+abstract	degradation
+protein	WNT1
+protein	WIF1
+protein	PROC
+protein	PPP2R5D
+protein	PPARD
+protein	NLK
+protein	MYC
+protein	MAP3K7IP1
+protein	MAP3K7
+protein	LRP6
+protein	KREMEN2
+protein	HDAC1
+protein	GSK3B
+protein	FZD1
+protein	FRAT1
+protein	DVL1
+protein	DKK2
+protein	DKK1
+protein	CTNNB1
+protein	CSNK2A1
+protein	CCND1
+protein	BTRC
+protein	AXIN1
+CtBP1/CBP/TCF/TLE1	CCND1	-t|
+CtBP1/CBP/TCF/TLE1	PPARD	-t|
+NLK	beta-catenin/TCF/CtBP1/CBP/TLE1/SMAD4	component>
+FRAT1	AXIN1	component>
+NAKED	DVL1	-a|
+WNT/LRP6/FRIZZLED	DVL1	-a>
+WIF1	WNT/LRP6/FRIZZLED	component>
+DVL1	AXIN1	component>
+GSK3B	AXIN1	component>
+CtBP1/CBP/TCF/TLE1	MYC	-t|
+PROC	AXIN/APC/beta-catenin	component>
+AXIN1	AXIN/APC/beta-catenin	component>
+CTNNB1	AXIN/APC/beta-catenin	component>
+KREMEN2	DKK2/LRP6/KRM2	component>
+LRP6	DKK2/LRP6/KRM2	component>
+DKK2	DKK2/LRP6/KRM2	component>
+beta-catenin/ubiquitin	degradation	-ap>
+CTNNB1	PROC	-a>
+CTNNB1	AXIN1	-a>
+PROC	CTNNB1	-a>
+PROC	PROC	-a>
+PROC	AXIN1	-a>
+AXIN1	CTNNB1	-a>
+AXIN1	PROC	-a>
+PPP2R5D	AXIN1	-a>
+beta-catenin/TCF/CtBP1/CBP/TLE1/SMAD4	CCND1	-t>
+CK-1	DVL1	-a>
+beta-catenin/TCF/CtBP1/CBP/TLE1/SMAD4	PPARD	-t>
+CTNNB1	CTNNB1	-a>
+CTNNB1	beta-catenin/TCF/CtBP1/CBP/TLE1/SMAD4	component>
+CtBP1/CBP/TCF/TLE1	beta-catenin/TCF/CtBP1/CBP/TLE1/SMAD4	component>
+CSNK2A1	DVL1	-a>
+MAP3K7	NLK	-a>
+DVL1	PPP2R5D	-a>
+HDAC1	CtBP1/CBP/TCF/TLE1	-a>
+WNT1	WNT/LRP6/FRIZZLED	component>
+LRP6/FRIZZLED	WNT/LRP6/FRIZZLED	component>
+BTRC	beta-catenin/beta-TRCP	component>
+CTNNB1	beta-catenin/beta-TRCP	component>
+MAP3K7IP1	NLK	-a>
+KREMEN2	DKK1/LRP6/KRM2	component>
+LRP6	DKK1/LRP6/KRM2	component>
+DKK1	DKK1/LRP6/KRM2	component>
+AXIN/APC/beta-catenin	CTNNB1	component>
+AXIN/APC/beta-catenin	PROC	component>
+AXIN/APC/beta-catenin	AXIN1	component>
+FZD1	LRP6/FRIZZLED	component>
+LRP6	LRP6/FRIZZLED	component>
+beta-catenin/TCF/CtBP1/CBP/TLE1/SMAD4	MYC	-t>
+beta-catenin/ubiquitin	protein ubiquitination	-ap>
+beta-catenin/beta-TRCP	protein ubiquitination	-ap>

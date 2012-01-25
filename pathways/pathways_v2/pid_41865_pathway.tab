@@ -1,0 +1,31 @@
+protein	UniProt:P10635 CYP2D6
+smallMolecule	Sparteine
+smallMolecule	TPNH
+smallMolecule	2-Dehydrosparteine
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	6-Dehydrotestosterone
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	testosterone
+protein	CYP3A4
+CYP3A4	TPN	-a>
+UniProt:P10635 CYP2D6	H2O	-a>
+TPNH	6-Dehydrotestosterone	-a>
+O2	6-Dehydrotestosterone	-a>
+H+	6-Dehydrotestosterone	-a>
+testosterone	6-Dehydrotestosterone	-a>
+testosterone	H2O	-a>
+testosterone	TPN	-a>
+Sparteine	2-Dehydrosparteine	-a>
+Sparteine	TPN	-a>
+Sparteine	H2O	-a>
+H+	2-Dehydrosparteine	-a>
+H+	TPN	-a>
+H+	H2O	-a>
+TPNH	2-Dehydrosparteine	-a>
+TPNH	TPN	-a>
+TPNH	H2O	-a>
+O2	2-Dehydrosparteine	-a>
+O2	TPN	-a>
+O2	H2O	-a>

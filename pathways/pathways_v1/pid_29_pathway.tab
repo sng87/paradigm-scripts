@@ -1,0 +1,183 @@
+protein	GIT1
+protein	GULP1
+protein	FBXO8
+protein	KIF13B
+protein	CYTH2
+protein	ARAP2
+protein	PIP3-E
+protein	IQSEC1
+protein	ACAP2
+protein	ACAP1
+protein	ARF6
+protein	GNAQ
+protein	ARRB1
+protein	PXN
+protein	USP6
+protein	ARRB2
+protein	GNA15
+protein	AGTR1
+protein	GNA11
+protein	EPHA2
+protein	LHCGR
+protein	EFNA1
+protein	TSHR
+protein	NCK1
+protein	HGF
+protein	SRC
+protein	MET
+protein	ITGA2B
+protein	ADRB2
+protein	ITGB3
+protein	EGF
+protein	EGFR
+protein	GNA14
+protein	ADAP1
+protein	CYTH3
+complex	alphaIIb/beta3 Integrin/paxillin/GIT1
+complex	alphaIIb/beta3 Integrin
+complex	LHCGR/beta Arrestin2
+complex	IPCEF1/ARNO
+complex	HGF/MET
+complex	GNAQ/ARNO
+complex	Ephrin A1/EPHA2/NCK1/GIT1
+complex	EGFR/EGFR/EGF/EGF/ARFGEP100
+complex	EGFR/EGFR/EGF/EGF
+complex	EFA6/PI-4-5-P2
+complex	CENTA1/KIF3B
+complex	ARNO/beta Arrestin1-2
+complex	ARF6/GTP
+complex	ARF6/GDP/GULP/ACAP1
+complex	ARF6/GDP
+chemical	mol:Phosphatidic acid
+chemical	mol:PI-4-5-P2
+chemical	mol:PI-3-4-5-P3
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	somatostatin receptor activity
+abstract	receptor agonist activity
+abstract	microtubule-based process
+abstract	fibronectin binding
+abstract	endosomal lumen acidification
+abstract	desensitization of G-protein coupled receptor protein signaling pathway
+abstract	actin filament binding
+somatostatin receptor activity	mol:GDP	-ap>
+somatostatin receptor activity	ARF6/GTP	-ap>
+receptor agonist activity	mol:GDP	-ap>
+receptor agonist activity	ARRB2	-ap>
+receptor agonist activity	ARNO/beta Arrestin1-2	-ap>
+receptor agonist activity	ARF6/GTP	-ap>
+mol:Phosphatidic acid	mol:GTP	-a>
+mol:Phosphatidic acid	ARF6/GDP	-a>
+mol:PI-4-5-P2	mol:GTP	-a>
+mol:PI-4-5-P2	mol:GDP	-a>
+mol:PI-4-5-P2	EFA6/PI-4-5-P2	component>
+mol:PI-4-5-P2	ARF6/GTP	-a>
+mol:PI-4-5-P2	ARF6/GDP	-a>
+mol:PI-3-4-5-P3	mol:GTP	-a>
+mol:PI-3-4-5-P3	CYTH2	-a>
+mol:PI-3-4-5-P3	CYTH3	-a>
+mol:PI-3-4-5-P3	ARF6/GDP	-a>
+mol:GTP	ARF6/GTP	component>
+mol:GDP	ARF6/GDP/GULP/ACAP1	component>
+mol:GDP	ARF6/GDP	component>
+microtubule-based process	CENTA1/KIF3B	-ap>
+fibronectin binding	mol:GDP	-ap>
+fibronectin binding	ARF6/GTP	-ap>
+endosomal lumen acidification	mol:GDP	-ap>
+endosomal lumen acidification	ARF6/GTP	-ap>
+alphaIIb/beta3 Integrin/paxillin/GIT1	mol:GDP	-a|
+alphaIIb/beta3 Integrin/paxillin/GIT1	ARF6/GTP	-a|
+alphaIIb/beta3 Integrin	mol:GDP	-a>
+alphaIIb/beta3 Integrin	ARF6/GTP	-a>
+actin filament binding	EFA6/PI-4-5-P2	-ap>
+GIT1	mol:GTP	-a>
+GIT1	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+GIT1	Ephrin A1/EPHA2/NCK1/GIT1	component>
+GIT1	ARF6/GDP	-a>
+GULP1	ARF6/GDP/GULP/ACAP1	component>
+FBXO8	ARF6/GDP	-a>
+KIF13B	CENTA1/KIF3B	component>
+CYTH2	mol:GDP	-a>
+CYTH2	IPCEF1/ARNO	component>
+CYTH2	GNAQ/ARNO	component>
+CYTH2	ARNO/beta Arrestin1-2	component>
+CYTH2	ARF6/GTP	-a>
+CYTH2	ARF6/GDP	-a>
+ARAP2	mol:GTP	-a>
+ARAP2	ARF6/GDP	-a>
+PIP3-E	IPCEF1/ARNO	component>
+IQSEC1	mol:GDP	-a>
+IQSEC1	EGFR/EGFR/EGF/EGF/ARFGEP100	component>
+IQSEC1	ARF6/GTP	-a>
+ACAP2	mol:GTP	-a>
+ACAP2	ARF6/GDP	-a>
+ACAP1	mol:GTP	-a>
+ACAP1	ARF6/GDP/GULP/ACAP1	component>
+ACAP1	ARF6/GDP	-a>
+ARF6	ARF6/GTP	component>
+ARF6	ARF6/GDP/GULP/ACAP1	component>
+ARF6	ARF6/GDP	component>
+GNAQ	mol:GDP	-a>
+GNAQ	GNAQ/ARNO	component>
+GNAQ	ARF6/GTP	-a>
+ARRB1	ARNO/beta Arrestin1-2	component>
+PXN	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+USP6	ARF6/GDP	-a>
+ARRB2	LHCGR/beta Arrestin2	component>
+ARRB2	ARNO/beta Arrestin1-2	component>
+GNA15	mol:GDP	-a>
+GNA15	ARF6/GTP	-a>
+AGTR1	mol:GDP	-a>
+AGTR1	ARF6/GTP	-a>
+GNA11	mol:GDP	-a>
+GNA11	ARF6/GTP	-a>
+EPHA2	Ephrin A1/EPHA2/NCK1/GIT1	component>
+LHCGR	mol:GDP	-a>
+LHCGR	ARRB2	-a>
+LHCGR	LHCGR/beta Arrestin2	component>
+LHCGR	ARF6/GTP	-a>
+EFNA1	Ephrin A1/EPHA2/NCK1/GIT1	component>
+TSHR	mol:GDP	-a>
+TSHR	ARF6/GTP	-a>
+NCK1	Ephrin A1/EPHA2/NCK1/GIT1	component>
+HGF	HGF/MET	component>
+SRC	mol:GDP	-a>
+SRC	ARF6/GTP	-a>
+MET	HGF/MET	component>
+ITGA2B	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+ITGA2B	alphaIIb/beta3 Integrin	component>
+ADRB2	mol:GDP	-a>
+ADRB2	ARNO/beta Arrestin1-2	-a>
+ADRB2	ARF6/GTP	-a>
+ITGB3	alphaIIb/beta3 Integrin/paxillin/GIT1	component>
+ITGB3	alphaIIb/beta3 Integrin	component>
+EGF	EGFR/EGFR/EGF/EGF/ARFGEP100	component>
+EGF	EGFR/EGFR/EGF/EGF	component>
+EGFR	EGFR/EGFR/EGF/EGF/ARFGEP100	component>
+EGFR	EGFR/EGFR/EGF/EGF	component>
+GNA14	mol:GDP	-a>
+GNA14	ARF6/GTP	-a>
+ADAP1	mol:GTP	-a>
+ADAP1	CENTA1/KIF3B	component>
+ADAP1	ARF6/GDP	-a>
+CYTH3	mol:GDP	-a>
+CYTH3	ARF6/GTP	-a>
+LHCGR/beta Arrestin2	desensitization of G-protein coupled receptor protein signaling pathway	-ap>
+IPCEF1/ARNO	mol:GDP	-a>
+IPCEF1/ARNO	ARF6/GTP	-a>
+HGF/MET	mol:GDP	-a>
+HGF/MET	ARF6/GTP	-a>
+GNAQ/ARNO	mol:GDP	-a>
+GNAQ/ARNO	ARF6/GTP	-a>
+Ephrin A1/EPHA2/NCK1/GIT1	mol:GTP	-a>
+Ephrin A1/EPHA2/NCK1/GIT1	ARF6/GDP	-a>
+EGFR/EGFR/EGF/EGF/ARFGEP100	mol:GDP	-a>
+EGFR/EGFR/EGF/EGF/ARFGEP100	ARF6/GTP	-a>
+EGFR/EGFR/EGF/EGF	IPCEF1/ARNO	-a>
+EFA6/PI-4-5-P2	mol:GDP	-a>
+EFA6/PI-4-5-P2	ARF6/GTP	-a>
+CENTA1/KIF3B	mol:GTP	-a|
+CENTA1/KIF3B	ARF6/GDP	-a|
+ARF6/GTP	CYTH2	-a>
+ARF6/GDP/GULP/ACAP1	mol:GTP	-a|
+ARF6/GDP/GULP/ACAP1	ARF6/GDP	-a|

@@ -1,0 +1,87 @@
+protein	IKBKG
+protein	TRAF6
+protein	FBXW11
+protein	MALT1
+protein	CYLD
+protein	NOD2
+protein	ERC1
+protein	BIRC2
+protein	ATM
+protein	RELA
+protein	RAN
+protein	UBE2D3
+protein	NFKBIA
+protein	NFKB1
+protein	TNFRSF1A
+protein	PRKCA
+protein	TNF
+protein	BCL10
+protein	RIPK2
+protein	CHUK
+protein	XPO1
+protein	IKBKB
+complex	cIAP1/UbcH5C
+complex	beta TrCP1/SCF ubiquitin ligase complex
+complex	TNF/TNFR1A
+complex	RIP2/NOD2
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+complex	NF kappa B1 p50/RelA
+complex	NEMO/ATM
+complex	NEMO/A20/RIP2
+complex	IKK complex/PKC alpha
+complex	IKK complex/ELKS
+complex	IKK complex/A20
+complex	IKK complex
+complex	Exportin 1/RanGTP
+complex	BCL10/MALT1/TRAF6
+chemical	mol:GTP
+abstract	tumor necrosis factor receptor activity
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+tumor necrosis factor receptor activity	IKK complex/ELKS	-ap>
+mol:GTP	Exportin 1/RanGTP	component>
+cIAP1/UbcH5C	IKBKG	-a>
+beta TrCP1/SCF ubiquitin ligase complex	NFKBIA	-a>
+beta TrCP1/SCF ubiquitin ligase complex	NF kappa B1 p50/RelA	-a>
+IKBKG	NEMO/ATM	component>
+IKBKG	IKK complex/PKC alpha	component>
+IKBKG	IKK complex/ELKS	component>
+IKBKG	IKK complex/A20	component>
+IKBKG	IKK complex	component>
+TRAF6	BCL10/MALT1/TRAF6	component>
+FBXW11	beta TrCP1/SCF ubiquitin ligase complex	component>
+MALT1	BCL10/MALT1/TRAF6	component>
+CYLD	IKBKG	-a>
+NOD2	RIP2/NOD2	component>
+ERC1	IKK complex/ELKS	component>
+BIRC2	cIAP1/UbcH5C	component>
+ATM	NEMO/ATM	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+RELA	NF kappa B1 p50/RelA	component>
+RAN	Exportin 1/RanGTP	component>
+UBE2D3	cIAP1/UbcH5C	component>
+NFKBIA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKB1	NF kappa B1 p50/RelA	component>
+TNFRSF1A	TNF/TNFR1A	component>
+PRKCA	IKK complex/PKC alpha	component>
+TNF	TNF/TNFR1A	component>
+BCL10	BCL10/MALT1/TRAF6	component>
+RIPK2	RIP2/NOD2	component>
+RIPK2	NEMO/A20/RIP2	component>
+CHUK	IKK complex/PKC alpha	component>
+CHUK	IKK complex/ELKS	component>
+CHUK	IKK complex	component>
+XPO1	Exportin 1/RanGTP	component>
+IKBKB	IKK complex/PKC alpha	component>
+IKBKB	IKK complex/ELKS	component>
+IKBKB	IKK complex/A20	component>
+IKBKB	IKK complex	component>
+TNF/TNFR1A	IKK complex/A20	-a>
+RIP2/NOD2	IKBKG	-a>
+NF kappa B1 p50/RelA	NFKBIA	-t>
+IKK complex/PKC alpha	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+IKK complex/ELKS	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+IKK complex	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+Exportin 1/RanGTP	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+BCL10/MALT1/TRAF6	IKBKG	-a>

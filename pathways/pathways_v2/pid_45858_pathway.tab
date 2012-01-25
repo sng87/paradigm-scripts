@@ -1,0 +1,36 @@
+abstract	translation
+complex	43s Ribosome subunit
+complex	40s Ribosome subunit/eIF3
+complex	40s Ribosome subunit/60s Ribosome Subunit/RNA strand
+protein	ITGB4BP
+complex	40s Ribosome subunit/RNA strand
+complex	48s Ribosome subunit
+complex	EIF-2
+protein	60s Ribosome Subunit
+complex	eIF4F/mRNA
+protein	40s Ribosome subunit
+protein	EIF3S10
+protein	EIF5B
+protein	EIF5
+protein	EIF1AX
+protein	EIF1
+EIF1AX	43s Ribosome subunit	component>
+EIF5B	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>
+EIF1	40s Ribosome subunit/RNA strand	component>
+ITGB4BP	40s Ribosome subunit	component>
+EIF1	43s Ribosome subunit	component>
+EIF5	43s Ribosome subunit	component>
+40s Ribosome subunit/60s Ribosome Subunit/RNA strand	translation	-ap>
+eIF4F/mRNA	48s Ribosome subunit	component>
+43s Ribosome subunit	48s Ribosome subunit	component>
+60s Ribosome Subunit	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>
+40s Ribosome subunit/RNA strand	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>
+48s Ribosome subunit	EIF3S10	component>
+48s Ribosome subunit	EIF-2	component>
+48s Ribosome subunit	40s Ribosome subunit/RNA strand	component>
+40s Ribosome subunit/60s Ribosome Subunit/RNA strand	60s Ribosome Subunit	component>
+40s Ribosome subunit/60s Ribosome Subunit/RNA strand	40s Ribosome subunit	component>
+EIF3S10	40s Ribosome subunit/eIF3	component>
+40s Ribosome subunit	40s Ribosome subunit/eIF3	component>
+EIF-2	43s Ribosome subunit	component>
+40s Ribosome subunit/eIF3	43s Ribosome subunit	component>

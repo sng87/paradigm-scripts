@@ -1,0 +1,12 @@
+protein	UniProt:P24557 TBXAS1_subunit_1_533_1-533
+smallMolecule	Thromboxane A2
+smallMolecule	electron
+smallMolecule	Prostaglandin H2
+smallMolecule	PGI2
+protein	PTGIS
+PTGIS	PGI2	-a>
+UniProt:P24557 TBXAS1_subunit_1_533_1-533	Thromboxane A2	-a>
+Prostaglandin H2	PGI2	-a>
+electron	PGI2	-a>
+electron	Thromboxane A2	-a>
+Prostaglandin H2	Thromboxane A2	-a>

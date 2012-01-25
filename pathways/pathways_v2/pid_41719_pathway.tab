@@ -1,0 +1,30 @@
+protein	UniProt:Q15149 PLEC1_subunit_2396_4684_2396-4684
+protein	UniProt:Q15149 PLEC1
+protein	UniProt:Q15149 PLEC1_subunit_1_2395_1-2395
+complex	Caspase-8 dimer
+complex	active caspase-6
+complex	active caspase-3
+protein	VIM
+protein	SPTAN1
+protein	MAPT
+protein	GSN
+protein	GAS2
+protein	DBNL
+protein	ADD1
+active caspase-3	MAPT	-a>
+active caspase-3	ADD1	-a>
+active caspase-3	GSN	-a>
+Caspase-8 dimer	UniProt:Q15149 PLEC1_subunit_2396_4684_2396-4684	-a>
+active caspase-6	VIM	-a>
+active caspase-3	DBNL	-a>
+Caspase-8 dimer	VIM	-a>
+active caspase-3	SPTAN1	-a>
+MAPT	MAPT	-a>
+ADD1	ADD1	-a>
+GAS2	GAS2	-a>
+GSN	GSN	-a>
+UniProt:Q15149 PLEC1	UniProt:Q15149 PLEC1_subunit_1_2395_1-2395	-a>
+UniProt:Q15149 PLEC1	UniProt:Q15149 PLEC1_subunit_2396_4684_2396-4684	-a>
+DBNL	DBNL	-a>
+SPTAN1	SPTAN1	-a>
+VIM	VIM	-a>

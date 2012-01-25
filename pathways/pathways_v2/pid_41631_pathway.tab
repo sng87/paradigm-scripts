@@ -1,0 +1,13 @@
+complex	TRAIL:TRAIL receptor-2:FADD complex
+complex	FASL:FAS Receptor Trimer:FADD complex
+complex	TRAF2:TRADD:RIP1:FADD
+complex	TRADD:TRAF2:RIP1:FADD:Capase-8 Complex
+complex	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC
+complex	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-8 precursor complex
+protein	CASP8
+TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-8 precursor complex	CASP8	component>
+TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-8 precursor complex	TRAIL:TRAIL receptor-2:FADD complex	component>
+FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	CASP8	component>
+FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	FASL:FAS Receptor Trimer:FADD complex	component>
+TRADD:TRAF2:RIP1:FADD:Capase-8 Complex	CASP8	component>
+TRADD:TRAF2:RIP1:FADD:Capase-8 Complex	TRAF2:TRADD:RIP1:FADD	component>

@@ -1,0 +1,58 @@
+complex	P2Y1 receptor:ADP
+complex	P2Y10 receptor:LPA
+complex	GPR17:UDP
+complex	P2Y12 receptor:ADP
+complex	P2Y11 receptor:ATP
+complex	P2Y9 receptor:LPA
+complex	P2Y8 receptor:ATP
+complex	P2Y13 receptor:ADP
+complex	P2Y14 receptor:UDP-glucose
+smallMolecule	UDPglucose
+smallMolecule	UDP
+complex	P2Y6 receptor:UDP
+protein	UniProt:Q9BPV8 P2RY13_subunit_1_354_1-354
+complex	P2Y2 receptor:ATP
+complex	P2Y5 receptor:LPA
+smallMolecule	UTP
+complex	P2Y4 receptor:UTP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	LPA
+protein	P2RY8
+protein	P2RY6
+protein	P2RY5
+protein	P2RY4
+protein	P2RY2
+protein	P2RY14
+protein	P2RY12
+protein	P2RY11
+protein	P2RY10
+protein	P2RY1
+protein	LPAR4
+protein	GPR17
+P2RY14	P2Y14 receptor:UDP-glucose	component>
+UDPglucose	P2Y14 receptor:UDP-glucose	component>
+P2RY5	P2Y5 receptor:LPA	component>
+LPA	P2Y5 receptor:LPA	component>
+P2RY2	P2Y2 receptor:ATP	component>
+ATP	P2Y2 receptor:ATP	component>
+P2RY1	P2Y1 receptor:ADP	component>
+ADP	P2Y1 receptor:ADP	component>
+ATP	P2Y11 receptor:ATP	component>
+P2RY11	P2Y11 receptor:ATP	component>
+LPA	P2Y10 receptor:LPA	component>
+P2RY10	P2Y10 receptor:LPA	component>
+P2RY12	P2Y12 receptor:ADP	component>
+ADP	P2Y12 receptor:ADP	component>
+UniProt:Q9BPV8 P2RY13_subunit_1_354_1-354	P2Y13 receptor:ADP	component>
+ADP	P2Y13 receptor:ADP	component>
+LPA	P2Y9 receptor:LPA	component>
+LPAR4	P2Y9 receptor:LPA	component>
+P2RY6	P2Y6 receptor:UDP	component>
+UDP	P2Y6 receptor:UDP	component>
+P2RY8	P2Y8 receptor:ATP	component>
+ATP	P2Y8 receptor:ATP	component>
+UDP	GPR17:UDP	component>
+GPR17	GPR17:UDP	component>
+P2RY4	P2Y4 receptor:UTP	component>
+UTP	P2Y4 receptor:UTP	component>

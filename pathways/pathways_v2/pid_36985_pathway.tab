@@ -1,0 +1,208 @@
+abstract	T-Lymphocyte
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	SKI/SIN3a/NCoR1/TIF1B
+complex	Myb/GATA1
+complex	SKI/SIN3a/NCoR1/TIF1B/Myb
+complex	RAS family/GTP
+complex	Myb/MAF
+complex	CDK6/Cyclin D1
+protein	TCR-delta
+complex	Myb/PAX5/LEF1
+complex	PIM1/p100/Myb
+protein	CEBP
+complex	BRM/CEBP
+complex	Myb/Cbp
+protein	MIM-1
+protein	ATBF1-A
+complex	MYOD/Cbp/p300
+protein	BRM
+complex	Myb/CYP-40
+protein	p16INK4a
+complex	TAK1/TAB family
+protein	hPC2
+protein	GRP78
+complex	CDK6/Cyclin D1/Myb
+complex	HES1/Myb
+protein	ETS
+smallMolecule	ATRA
+protein	PMCA1
+complex	MYOD/Cbp/p300/Myb
+protein	Cbp/p300
+protein	ZFPM1
+protein	YEATS4
+protein	WNT1
+protein	UBE2I
+protein	TOM1
+protein	TFEC
+protein	SPI1
+protein	SP1
+protein	SND1
+protein	SLC25A3
+protein	SLC1A5
+protein	RAG2
+protein	PTGS2
+protein	PTCRA
+protein	PRTN3
+protein	PPP3CA
+protein	PPID
+protein	PIM1
+protein	PIAS3
+protein	PAX5
+protein	NRAS
+protein	NLK
+protein	MYF6
+protein	MYC
+protein	MYB
+protein	MPO
+protein	MCM4
+protein	MAT2A
+protein	MAF
+protein	MAD1L1
+protein	LYZ
+protein	LEF1
+protein	KITLG
+protein	KIT
+protein	IQGAP1
+protein	HSPA8
+protein	HIPK2
+protein	HES1
+protein	H2AFZ
+protein	GSTM1
+protein	GATA3
+protein	GATA1
+protein	ETS2
+protein	ETS1
+protein	ELA2
+protein	CSF1R
+protein	CREBBP
+protein	COPA
+protein	COL1A2
+protein	CLTA
+protein	CEBPB
+protein	CEBPA
+protein	CDKN1B
+protein	CDKN1A
+protein	CD4
+protein	CD34
+protein	CCNB1
+protein	CCNA1
+protein	CASP6
+protein	CA1
+protein	BIRC3
+protein	BCL2
+protein	ANPEP
+protein	ADORA2B
+protein	ADA
+SPI1	LYZ	-t>
+CEBPA	LYZ	-t>
+MYB	RAG2	-t>
+SPI1	ELA2	-t>
+CEBP	ELA2	-t>
+ETS2	KIT	-t>
+MYB	CSF1R	-t|
+SPI1	CSF1R	-t>
+CEBPB	CEBPB	-t>
+Myb/MAF	ANPEP	-t|
+ETS1	ANPEP	-t>
+CEBP	TOM1	-t>
+SKI/SIN3a/NCoR1/TIF1B/Myb	MYC	-t|
+ZFPM1	MYB	-t|
+HES1/Myb	CD4	-t|
+SP1	MAT2A	-t>
+WNT1	TAK1/TAB family	-a>
+ATBF1-A	MYF6	-t|
+MYOD/Cbp/p300/Myb	MYF6	-t|
+GATA1	CA1	-t>
+Myb/GATA1	GATA1	-t|
+SPI1	PRTN3	-t>
+CEBP	PRTN3	-t>
+MYB	MIM-1	-t|
+BRM/CEBP	MIM-1	-t>
+PPID	Myb/CYP-40	component>
+MYB	Myb/CYP-40	component>
+CREBBP	Myb/Cbp	component>
+MYB	Myb/Cbp	component>
+p16INK4a	CDK6/Cyclin D1	-a>
+PIM1/p100/Myb	MIM-1	-t>
+MYB	LYZ	-t>
+T-Lymphocyte	RAG2	-t>
+MAF	Myb/MAF	component>
+MYB	Myb/MAF	component>
+MYB	BCL2	-t>
+MYB	COL1A2	-t>
+MYB	PTGS2	-t>
+CEBP	BRM/CEBP	component>
+BRM	BRM/CEBP	component>
+MYB	MAD1L1	-t>
+MYB	ELA2	-t>
+MYB	GATA3	-t>
+CDKN1A	CDK6/Cyclin D1	-a>
+MYB	ADA	-t>
+TAK1/TAB family	HIPK2	-a>
+MYB	KIT	-t>
+ETS	CSF1R	-t>
+MYB	CEBPB	-t>
+RAS family/GTP	PIM1	-a>
+MYB	PPP3CA	-t>
+CDKN1B	CDK6/Cyclin D1	-a>
+MYB	COPA	-t>
+MYB	CDK6/Cyclin D1/Myb	component>
+CDK6/Cyclin D1	CDK6/Cyclin D1/Myb	component>
+ATRA	MYB	-a>
+MYB	NRAS	-t|
+MYB	SLC1A5	-t>
+MYB	HES1/Myb	component>
+HES1	HES1/Myb	component>
+Myb/Cbp	MIM-1	-t>
+MYB	KITLG	-t>
+MYB	BIRC3	-t>
+MYB	HSPA8	-t>
+MYB	CCNA1	-t>
+MYB	PTCRA	-t>
+MYB	SLC25A3	-t>
+MYB	TFEC	-t>
+MYB	ANPEP	-t>
+MYB	TCR-delta	-t>
+LEF1	Myb/PAX5/LEF1	component>
+PAX5	Myb/PAX5/LEF1	component>
+MYB	Myb/PAX5/LEF1	component>
+MYB	GRP78	-t>
+MYB	CASP6	-t>
+MYB	H2AFZ	-t>
+MYB	TOM1	-t>
+GATA1	Myb/GATA1	component>
+MYB	Myb/GATA1	component>
+PIAS3	MYB	-a>
+MYB	GSTM1	-t>
+MYB	CD34	-t>
+MYB	PIM1/p100/Myb	component>
+SND1	PIM1/p100/Myb	component>
+PIM1	PIM1/p100/Myb	component>
+MYB	PMCA1	-t|
+MYB	MYC	-t>
+MYB	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+GATA1	MYB	-t|
+MYB	MCM4	-t>
+MYB	CD4	-t>
+MYB	SKI/SIN3a/NCoR1/TIF1B/Myb	component>
+SKI/SIN3a/NCoR1/TIF1B	SKI/SIN3a/NCoR1/TIF1B/Myb	component>
+UBE2I	MYB	-a>
+MYB	MAT2A	-t>
+MYB	IQGAP1	-t>
+NLK	MYB	-a>
+MYB	ADORA2B	-t>
+Myb/PAX5/LEF1	RAG2	-t>
+TAK1/TAB family	TAK1/TAB family	-a>
+MYOD/Cbp/p300	MYF6	-t>
+MYB	CA1	-t>
+MYB	MPO	-t>
+MYB	CLTA	-t>
+MYB	hPC2	-t>
+HIPK2	NLK	-a>
+Cbp/p300	GATA1	-t>
+MYB	YEATS4	-t>
+MYB	PRTN3	-t>
+MYB	MYOD/Cbp/p300/Myb	component>
+MYOD/Cbp/p300	MYOD/Cbp/p300/Myb	component>
+MYB	CCNB1	-t>
+MYB	MIM-1	-t>

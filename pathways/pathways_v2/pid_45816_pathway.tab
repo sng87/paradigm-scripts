@@ -1,0 +1,84 @@
+protein	PBP
+protein	SITPEC
+complex	IKK2/IKK3/IKK1
+complex	p50/RELA/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs
+complex	RELA/p50
+protein	IRAKs
+complex	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs
+protein	TGF-beta
+abstract	protein ubiquitination
+abstract	degradation
+complex	AP-1
+complex	TAK1/TAB1/TAB2
+protein	TRAF6
+protein	TOLLIP
+protein	TNF
+protein	MYD88
+protein	MAPK8
+protein	MAPK14
+protein	MAP4K4
+protein	MAP3K1
+protein	MAP2K6
+protein	MAP2K3
+protein	IL6
+protein	IL1RN
+protein	IL1RAP
+protein	IL1R1
+protein	IL1B
+protein	IL1A
+protein	IFNB1
+protein	IFNA1
+PBP	MAP2K3	-a|
+PBP	protein ubiquitination	-ap|
+IKK2/IKK3/IKK1	protein ubiquitination	-ap>
+IL1RN	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+MAP2K6	MAPK8	-a>
+MAP2K6	MAPK14	-a>
+IL1RN	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+PBP	IKK2/IKK3/IKK1	-a|
+RELA/p50	TGF-beta	-t>
+SITPEC	MAP3K1	-a>
+AP-1	TNF	-t>
+MAP3K1	MAP2K3	-a>
+IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	TRAF6	-a>
+MAPK14	AP-1	-a>
+TRAF6	SITPEC	-a>
+MAP2K6	MAP2K6	-a>
+MAP2K6	MAP2K3	-a>
+MAP2K3	MAP2K6	-a>
+TAK1/TAB1/TAB2	MAP2K3	-a>
+TRAF6	TAK1/TAB1/TAB2	-a>
+AP-1	IFNA1	-t>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+RELA/p50	IFNB1	-t>
+RELA/p50	IL6	-t>
+IRAKs	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+MYD88	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+TOLLIP	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+IL1RAP	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+IL1R1	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+IL1B	IL-1-beta/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	TRAF6	-a>
+MAP2K3	MAPK8	-a>
+RELA/p50	IFNA1	-t>
+MAP2K3	MAPK14	-a>
+RELA/p50	TNF	-t>
+IRAKs	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+MYD88	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+TOLLIP	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+IL1RAP	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+IL1R1	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+IL1A	IL-1-alpha/IL-1RI/IL-1RAcP/TOLLIP/MYD88/IRAKs	component>
+AP-1	TGF-beta	-t>
+TAK1/TAB1/TAB2	MAP4K4	-a>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+MAP3K1	IKK2/IKK3/IKK1	-a>
+AP-1	IFNB1	-t>
+MAPK8	AP-1	-a>
+RELA/p50	RELA/p50	-a>
+MAP4K4	IKK2/IKK3/IKK1	-a>
+AP-1	IL6	-t>

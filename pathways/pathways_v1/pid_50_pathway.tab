@@ -1,0 +1,153 @@
+protein	WIF1
+protein	AXIN2
+protein	MACF1
+protein	FZD1
+protein	FBXW11
+protein	LEF1
+protein	DKK2
+protein	NLK
+protein	RANBP3
+protein	NKD1
+protein	FRAT1
+protein	CREBBP
+protein	KREMEN2
+protein	PPP2R5D
+protein	HDAC1
+protein	SMAD4
+protein	CTBP1
+protein	AES
+protein	TLE1
+protein	CSNK2A1
+protein	RAN
+protein	GSK3B
+protein	GSK3A
+protein	CSNK1A1
+protein	CTNNB1
+protein	APC
+protein	CCND1
+protein	HNF1A
+protein	TCF3
+protein	TCF4
+protein	WNT1
+protein	MYC
+protein	DKK1
+protein	LRP6
+protein	AXIN1
+protein	DVL1
+complex	beta catenin/beta TrCP1
+complex	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4
+complex	beta catenin/TCF/CtBP/CBP/TLE1/AES
+complex	beta catenin/RanBP3
+complex	WNT1/LRP6/FZD1/Axin1
+complex	WNT1/LRP6/FZD1
+complex	Ran/GTP
+complex	LRP6/FZD1
+complex	DKK2/LRP6/Kremen 2
+complex	DKK1/LRP6/Kremen 2
+complex	CtBP/CBP/TCF/TLE1/AES
+complex	Axin1/APC/GSK3/beta catenin/Macf1
+complex	Axin1/APC/GSK3/beta catenin
+complex	Axin1/APC/GSK3
+chemical	mol:GTP
+mol:GTP	Ran/GTP	component>
+beta catenin/TCF/CtBP/CBP/TLE1/AES	AXIN2	-t>
+beta catenin/TCF/CtBP/CBP/TLE1/AES	CCND1	-t>
+beta catenin/TCF/CtBP/CBP/TLE1/AES	MYC	-t>
+beta catenin/RanBP3	AXIN2	-t|
+beta catenin/RanBP3	CCND1	-t|
+beta catenin/RanBP3	MYC	-t|
+WNT1/LRP6/FZD1/Axin1	APC	-a>
+WNT1/LRP6/FZD1/Axin1	Axin1/APC/GSK3/beta catenin/Macf1	-a>
+WNT1/LRP6/FZD1/Axin1	Axin1/APC/GSK3/beta catenin	-a|
+WNT1/LRP6/FZD1	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	-a>
+WNT1/LRP6/FZD1	beta catenin/TCF/CtBP/CBP/TLE1/AES	-a>
+WNT1/LRP6/FZD1	CTNNB1	-a>
+WNT1/LRP6/FZD1	DVL1	-a>
+WIF1	WNT1/LRP6/FZD1	-a|
+MACF1	Axin1/APC/GSK3/beta catenin/Macf1	component>
+FZD1	WNT1/LRP6/FZD1/Axin1	component>
+FZD1	WNT1/LRP6/FZD1	component>
+FZD1	LRP6/FZD1	component>
+FBXW11	beta catenin/beta TrCP1	component>
+LEF1	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+LEF1	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+LEF1	CtBP/CBP/TCF/TLE1/AES	component>
+DKK2	DKK2/LRP6/Kremen 2	component>
+NLK	beta catenin/TCF/CtBP/CBP/TLE1/AES	-a>
+RANBP3	beta catenin/RanBP3	component>
+NKD1	PPP2R5D	-a|
+FRAT1	CTNNB1	-a|
+FRAT1	Axin1/APC/GSK3	-a|
+CREBBP	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+CREBBP	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+CREBBP	CtBP/CBP/TCF/TLE1/AES	component>
+KREMEN2	DKK2/LRP6/Kremen 2	component>
+KREMEN2	DKK1/LRP6/Kremen 2	component>
+PPP2R5D	CTNNB1	-a>
+PPP2R5D	Axin1/APC/GSK3	-a>
+HDAC1	CtBP/CBP/TCF/TLE1/AES	component>
+SMAD4	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+CTBP1	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+CTBP1	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+CTBP1	CtBP/CBP/TCF/TLE1/AES	component>
+AES	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+AES	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+AES	CtBP/CBP/TCF/TLE1/AES	component>
+TLE1	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+TLE1	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+TLE1	CtBP/CBP/TCF/TLE1/AES	component>
+CSNK2A1	DVL1	-a>
+RAN	Ran/GTP	component>
+GSK3B	WNT1/LRP6/FZD1	-a>
+GSK3B	Axin1/APC/GSK3/beta catenin/Macf1	component>
+GSK3B	Axin1/APC/GSK3/beta catenin	component>
+GSK3B	Axin1/APC/GSK3	component>
+GSK3A	WNT1/LRP6/FZD1	-a>
+GSK3A	Axin1/APC/GSK3/beta catenin/Macf1	component>
+GSK3A	Axin1/APC/GSK3/beta catenin	component>
+GSK3A	Axin1/APC/GSK3	component>
+CSNK1A1	WNT1/LRP6/FZD1	-a>
+CSNK1A1	CTNNB1	-a>
+CSNK1A1	DVL1	-a>
+CSNK1A1	CtBP/CBP/TCF/TLE1/AES	-a>
+CSNK1A1	Axin1/APC/GSK3/beta catenin	-a>
+CTNNB1	beta catenin/beta TrCP1	component>
+CTNNB1	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+CTNNB1	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+CTNNB1	beta catenin/RanBP3	component>
+CTNNB1	Axin1/APC/GSK3/beta catenin/Macf1	component>
+CTNNB1	Axin1/APC/GSK3/beta catenin	component>
+APC	Axin1/APC/GSK3/beta catenin/Macf1	component>
+APC	Axin1/APC/GSK3/beta catenin	component>
+APC	Axin1/APC/GSK3	component>
+HNF1A	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+HNF1A	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+HNF1A	CtBP/CBP/TCF/TLE1/AES	component>
+TCF3	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+TCF3	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+TCF3	CtBP/CBP/TCF/TLE1/AES	component>
+TCF4	beta catenin/TCF/CtBP/CBP/TLE1/AES/SMAD4	component>
+TCF4	beta catenin/TCF/CtBP/CBP/TLE1/AES	component>
+TCF4	CtBP/CBP/TCF/TLE1/AES	component>
+WNT1	WNT1/LRP6/FZD1/Axin1	component>
+WNT1	WNT1/LRP6/FZD1	component>
+DKK1	DKK1/LRP6/Kremen 2	component>
+LRP6	WNT1/LRP6/FZD1/Axin1	component>
+LRP6	WNT1/LRP6/FZD1	component>
+LRP6	LRP6/FZD1	component>
+LRP6	DKK2/LRP6/Kremen 2	component>
+LRP6	DKK1/LRP6/Kremen 2	component>
+AXIN1	WNT1/LRP6/FZD1/Axin1	component>
+AXIN1	Axin1/APC/GSK3/beta catenin/Macf1	component>
+AXIN1	Axin1/APC/GSK3/beta catenin	component>
+AXIN1	Axin1/APC/GSK3	component>
+DVL1	PPP2R5D	-a>
+DVL1	CTNNB1	-a>
+DVL1	Axin1/APC/GSK3	-a>
+Ran/GTP	beta catenin/RanBP3	-a>
+DKK2/LRP6/Kremen 2	CTNNB1	-a>
+DKK1/LRP6/Kremen 2	CTNNB1	-a>
+CtBP/CBP/TCF/TLE1/AES	AXIN2	-t|
+CtBP/CBP/TCF/TLE1/AES	CCND1	-t|
+CtBP/CBP/TCF/TLE1/AES	MYC	-t|
+Axin1/APC/GSK3/beta catenin/Macf1	CTNNB1	-a>

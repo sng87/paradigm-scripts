@@ -1,0 +1,15 @@
+protein	BAI proteins
+protein	BAI receptors
+complex	BAI receptors:BAI proteins
+protein	Parathyroid hormone-type ligands
+complex	Parathyroid hormone receptors:parathyroid hormone-type ligands
+protein	Parathyroid hormone receptors
+protein	CRHR
+complex	CRH receptor:CRH
+protein	CRH
+BAI receptors	BAI receptors:BAI proteins	component>
+BAI proteins	BAI receptors:BAI proteins	component>
+CRHR	CRH receptor:CRH	component>
+CRH	CRH receptor:CRH	component>
+Parathyroid hormone-type ligands	Parathyroid hormone receptors:parathyroid hormone-type ligands	component>
+Parathyroid hormone receptors	Parathyroid hormone receptors:parathyroid hormone-type ligands	component>

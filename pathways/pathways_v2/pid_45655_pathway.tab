@@ -1,0 +1,26 @@
+abstract	overnight exposure
+smallMolecule	ionomycin
+smallMolecule	Phorbol Esters
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PRKCB1
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	PRKCA
+protein	PLCG1
+protein	P2RY2
+PLCG1	DAG	-a>
+Ca2+	PRKCB1	-a>
+Ca2+	PRKCA	-a>
+P2RY2	PLCG1	-a>
+Phorbol Esters	PRKCB1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+DAG	PRKCB1	-a>
+Phorbol Esters	PRKCA	-a>
+ionomycin	Ca2+	-a>
+DAG	PRKCA	-a>
+PRKCB1	PRKCB1	-a>
+PRKCB1	PRKCA	-a>
+PRKCA	PRKCB1	-a>
+overnight exposure	PRKCA	-a>

@@ -1,0 +1,43 @@
+complex	BCL-XL/BCL-2/APAF-1
+protein	Porin/VDAC
+protein	IAP
+protein	PDCD8
+complex	BAX/BCL-2/BCL-XL
+complex	BCL-XL/BCL-2/BIK
+complex	BCL-XL/BCL-2/BAK
+abstract	apoptosis
+complex	APAF-1/Caspase 9
+protein	DIABLO
+protein	CYCS
+protein	CASP9
+protein	BIK
+protein	BID
+protein	BCL2L1
+protein	BCL2
+protein	BAX
+protein	BAK1
+protein	APAF1
+BCL-XL/BCL-2/BAK	CYCS	-a>
+BCL2	BAX/BCL-2/BCL-XL	component>
+BCL2L1	BAX/BCL-2/BCL-XL	component>
+BAX	BAX/BCL-2/BCL-XL	component>
+PDCD8	apoptosis	-ap>
+BCL-XL/BCL-2/BAK	DIABLO	-a>
+BCL2	BCL-XL/BCL-2/BAK	component>
+BCL2L1	BCL-XL/BCL-2/BAK	component>
+BAK1	BCL-XL/BCL-2/BAK	component>
+CASP9	APAF-1/Caspase 9	component>
+APAF1	APAF-1/Caspase 9	component>
+BID	BAX	-a>
+BID	BAK1	-a>
+BAX/BCL-2/BCL-XL	APAF1	-a>
+PDCD8	PDCD8	-a>
+BCL-XL/BCL-2/BAK	APAF1	-a>
+Porin/VDAC	apoptosis	-ap>
+DIABLO	IAP	-a>
+BIK	APAF1	-a>
+BIK	BCL-XL/BCL-2/BIK	-a>
+BCL-XL/BCL-2/APAF-1	APAF1	-a>
+BCL-XL/BCL-2/APAF-1	BCL-XL/BCL-2/BIK	-a>
+BAX/BCL-2/BCL-XL	CYCS	-a>
+BAX/BCL-2/BCL-XL	DIABLO	-a>

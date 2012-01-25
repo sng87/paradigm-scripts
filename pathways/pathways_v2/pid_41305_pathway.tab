@@ -1,0 +1,7 @@
+smallMolecule	1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+smallMolecule	1,2-Diacylglycerol
+smallMolecule	IP3
+protein	PLCG2
+PLCG2	1,2-Diacylglycerol	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	IP3	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	1,2-Diacylglycerol	-a>

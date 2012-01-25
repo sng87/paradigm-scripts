@@ -1,0 +1,15 @@
+complex	glycogen synthase 1 tetramer, I form
+complex	glycogen synthase 2 tetramer, I form
+smallMolecule	UDPglucose
+smallMolecule	UDP
+protein	GYG2
+protein	GYG1
+glycogen synthase 2 tetramer, I form	UDP	-a>
+glycogen synthase 1 tetramer, I form	GYG1	-a>
+UDPglucose	GYG2	-a>
+GYG2	GYG2	-a>
+GYG2	UDP	-a>
+GYG1	UDP	-a>
+GYG1	GYG1	-a>
+UDPglucose	UDP	-a>
+UDPglucose	GYG1	-a>

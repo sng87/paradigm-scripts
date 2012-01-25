@@ -1,0 +1,65 @@
+abstract	viral genome replication
+smallMolecule	CMV
+complex	NF-kappa-B
+smallMolecule	PIP2
+complex	PI3K
+smallMolecule	PIP3
+protein	SP1
+protein	RB1
+protein	PDPK1
+protein	MAPK3
+protein	MAPK14
+protein	MAPK1
+protein	MAP3K1
+protein	MAP2K6
+protein	MAP2K3
+protein	MAP2K2
+protein	MAP2K1
+protein	CREB1
+protein	AKT1
+MAPK1	SP1	-a>
+PI3K	PIP3	-a>
+MAPK1	CREB1	-a>
+MAP2K6	MAPK14	-a>
+MAPK1	NF-kappa-B	-a>
+MAP2K2	MAPK3	-a>
+PI3K	NF-kappa-B	-a>
+MAP2K6	MAP2K6	-a>
+MAP2K6	MAP2K3	-a>
+MAP2K3	MAP2K6	-a>
+CMV	MAP2K3	-a>
+MAPK3	SP1	-a>
+MAP3K1	NF-kappa-B	-a>
+MAPK14	RB1	-a>
+MAPK1	viral genome replication	-ap>
+MAPK3	viral genome replication	-ap>
+PIP2	PIP3	-a>
+MAPK3	CREB1	-a>
+PI3K	CREB1	-a>
+CMV	MAP3K1	-a>
+MAP3K1	MAPK14	-a>
+MAPK14	SP1	-a>
+RB1	viral genome replication	-ap>
+CMV	PI3K	-a>
+MAPK14	CREB1	-a>
+MAP2K3	MAPK14	-a>
+PDPK1	AKT1	-a>
+MAPK14	viral genome replication	-ap>
+NF-kappa-B	viral genome replication	-ap>
+PI3K	SP1	-a>
+CMV	CMV	-a>
+MAPK3	NF-kappa-B	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+CREB1	viral genome replication	-ap>
+MAP3K1	SP1	-a>
+SP1	viral genome replication	-ap>
+PIP3	PDPK1	-a>
+MAPK14	NF-kappa-B	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+CMV	MAP2K1	-a>
+MAP3K1	CREB1	-a>

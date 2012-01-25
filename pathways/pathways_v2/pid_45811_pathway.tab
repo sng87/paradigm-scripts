@@ -1,0 +1,34 @@
+abstract	initiation of viral infection
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1
+complex	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II
+complex	IFN-beta nucleosome
+complex	hSWI/SNF
+complex	RELA/p50
+protein	PCAF
+protein	IRF
+complex	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF
+abstract	histone acetylation
+protein	JUN
+protein	IFNB1
+protein	HMGB1
+protein	CREBBP
+protein	ATF2
+histone acetylation	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+initiation of viral infection	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+hSWI/SNF	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	component>
+CREBBP	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP	component>
+RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	histone acetylation	-ap>
+PCAF	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+RELA/p50/ATF-2/IRF/c-JUN/HMG1	RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF	component>
+HMGB1	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+JUN	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+IRF	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+ATF2	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+RELA/p50	RELA/p50/ATF-2/IRF/c-JUN/HMG1	component>
+TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	IFN-beta nucleosome	component>
+RELA/p50/ATF-2/IRF/c-JUN/HMG1/PCAF/CBP/hSWI/SNF	IFN-beta nucleosome	component>
+IFN-beta nucleosome	IFNB1	-t>

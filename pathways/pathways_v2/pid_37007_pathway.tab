@@ -1,0 +1,36 @@
+abstract	glutamate secretion
+abstract	regulation of calcium ion transport via voltage-gated calcium channel activity
+abstract	adrenocorticotropin secretion
+abstract	vasopressin secretion
+abstract	G-protein coupled receptor activity
+protein	JNK1-2-active
+protein	JNK1-2
+protein	p38alpha-beta-active
+complex	Gs family/GDP/Gbeta gamma
+complex	Gs family/GTP
+smallMolecule	cortisol
+protein	p38alpha-beta
+complex	GNB1/GNG2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	CRH
+cortisol	glutamate secretion	-ap|
+cortisol	regulation of calcium ion transport via voltage-gated calcium channel activity	-ap|
+cortisol	p38alpha-beta-active	-a>
+G-protein coupled receptor activity	p38alpha-beta-active	-a>
+cortisol	adrenocorticotropin secretion	-ap|
+cortisol	JNK1-2-active	-a>
+G-protein coupled receptor activity	JNK1-2-active	-a>
+cortisol	Gs family/GTP	component>
+Gs family/GTP	glutamate secretion	-ap|
+G-protein coupled receptor activity	regulation of calcium ion transport via voltage-gated calcium channel activity	-ap>
+p38alpha-beta	p38alpha-beta-active	-a>
+CRH	adrenocorticotropin secretion	-ap>
+JNK1-2	JNK1-2-active	-a>
+cortisol	vasopressin secretion	-ap|
+GTP	GDP	component>
+GTP	GNB1/GNG2	component>
+GTP	Gs family/GTP	component>
+Gs family/GDP/Gbeta gamma	GDP	component>
+Gs family/GDP/Gbeta gamma	GNB1/GNG2	component>
+Gs family/GDP/Gbeta gamma	Gs family/GTP	component>

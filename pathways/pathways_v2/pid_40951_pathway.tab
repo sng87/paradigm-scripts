@@ -1,0 +1,15 @@
+complex	MPG glycosylase:hypoxanthine complex
+complex	MPG glycosylase:ethenoadenine complex
+complex	MYH glycosylase:adenine complex
+complex	MPG glycosylase:3-methyladenine complex
+complex	hOGG1 glycosylase: formamidopyrimidine complex
+protein	UniProt:P29372 MPG
+complex	hOGG1 glycosylase:8-oxo guanine complex
+protein	OGG1
+protein	MUTYH
+OGG1	hOGG1 glycosylase: formamidopyrimidine complex	component>
+MUTYH	MYH glycosylase:adenine complex	component>
+UniProt:P29372 MPG	MPG glycosylase:hypoxanthine complex	component>
+UniProt:P29372 MPG	MPG glycosylase:ethenoadenine complex	component>
+UniProt:P29372 MPG	MPG glycosylase:3-methyladenine complex	component>
+OGG1	hOGG1 glycosylase:8-oxo guanine complex	component>

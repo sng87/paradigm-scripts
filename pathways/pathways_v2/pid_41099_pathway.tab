@@ -1,0 +1,21 @@
+complex	G-protein with G(s) alpha:GDP
+complex	G-beta:G-gamma dimer
+complex	Activated adenylate cyclase
+protein	UniProt:P47871 GCGR_subunit_26_477_26-477
+complex	Glucagon:GCGR
+protein	Adenylate cyclase
+complex	G-protein alpha (s):GTP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	GCG
+Glucagon:GCGR	GDP	component>
+Adenylate cyclase	Activated adenylate cyclase	component>
+G-protein alpha (s):GTP	Activated adenylate cyclase	component>
+GCG	Glucagon:GCGR	component>
+UniProt:P47871 GCGR_subunit_26_477_26-477	Glucagon:GCGR	component>
+G-protein with G(s) alpha:GDP	G-protein alpha (s):GTP	component>
+G-protein with G(s) alpha:GDP	G-beta:G-gamma dimer	component>
+G-protein with G(s) alpha:GDP	GDP	component>
+GTP	G-protein alpha (s):GTP	component>
+GTP	G-beta:G-gamma dimer	component>
+GTP	GDP	component>

@@ -1,0 +1,22 @@
+smallMolecule	Cori ester
+complex	UDP-galactose 4-epimerase holoenzyme
+smallMolecule	D-Galactose
+smallMolecule	UDPglucose
+smallMolecule	UDPgalactose
+smallMolecule	alpha-D-Galactose 1-phosphate
+smallMolecule	ATP
+smallMolecule	ADP
+protein	GALT
+protein	GALK1
+GALK1	ADP	-a>
+GALT	Cori ester	-a>
+UDP-galactose 4-epimerase holoenzyme	UDPglucose	-a>
+D-Galactose	alpha-D-Galactose 1-phosphate	-a>
+D-Galactose	ADP	-a>
+ATP	alpha-D-Galactose 1-phosphate	-a>
+ATP	ADP	-a>
+UDPglucose	UDPgalactose	-a>
+UDPglucose	Cori ester	-a>
+alpha-D-Galactose 1-phosphate	UDPgalactose	-a>
+alpha-D-Galactose 1-phosphate	Cori ester	-a>
+UDPgalactose	UDPglucose	-a>

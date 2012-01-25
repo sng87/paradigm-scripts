@@ -1,0 +1,53 @@
+complex	GABA receptor/gephyrin
+protein	clathrin
+complex	GABA receptor
+complex	GABA receptor/GABARAP/NSF/PLIC-1/PLIC-1
+complex	GABA/GABA receptor
+complex	GABA/GABA receptor/ubiquitin
+complex	GABA/GABA receptor/PLIC-1/PLIC-1
+protein	UBE1
+complex	GABA receptor/GABARAP/NSF
+smallMolecule	GABA
+abstract	protein ubiquitination
+abstract	degradation
+protein	UBQLN1
+protein	UBE3A
+protein	UBE2A
+protein	SRC
+protein	NSF
+protein	GPHN
+protein	GABARAP
+protein	DNM1
+UBE3A	protein ubiquitination	-ap>
+UBE2A	protein ubiquitination	-ap>
+UBE1	protein ubiquitination	-ap>
+DNM1	GABA/GABA receptor	-a>
+clathrin	GABA/GABA receptor	-a>
+GPHN	GABA receptor/gephyrin	component>
+GABA receptor	GABA receptor/gephyrin	component>
+GABA receptor/GABARAP/NSF	GABA receptor/GABARAP/NSF	-a>
+GABA/GABA receptor/ubiquitin	degradation	-ap>
+GABA	GPHN	component>
+GABA	GABA/GABA receptor	component>
+GABA receptor/gephyrin	GPHN	component>
+GABA receptor/gephyrin	GABA/GABA receptor	component>
+UBQLN1	GABA receptor/GABARAP/NSF/PLIC-1/PLIC-1	component>
+GABA receptor/GABARAP/NSF	GABA receptor/GABARAP/NSF/PLIC-1/PLIC-1	component>
+GABA	degradation	-ap>
+UBQLN1	GABA/GABA receptor/PLIC-1/PLIC-1	component>
+GABA/GABA receptor	GABA/GABA receptor/PLIC-1/PLIC-1	component>
+GABA receptor/GABARAP/NSF/PLIC-1/PLIC-1	UBQLN1	component>
+GABA receptor/GABARAP/NSF/PLIC-1/PLIC-1	NSF	component>
+GABA receptor/GABARAP/NSF/PLIC-1/PLIC-1	GABARAP	component>
+GABA receptor/GABARAP/NSF/PLIC-1/PLIC-1	GABA receptor	component>
+SRC	clathrin	-a>
+GABA/GABA receptor/PLIC-1/PLIC-1	GABA	component>
+GABA/GABA receptor/PLIC-1/PLIC-1	UBQLN1	component>
+GABA/GABA receptor/PLIC-1/PLIC-1	GABA receptor	component>
+GABA receptor	GABA receptor	-a>
+GABARAP	GABA receptor/GABARAP/NSF	component>
+NSF	GABA receptor/GABARAP/NSF	component>
+GABA receptor	GABA receptor/GABARAP/NSF	component>
+GABA/GABA receptor/ubiquitin	protein ubiquitination	-ap>
+GABA/GABA receptor	protein ubiquitination	-ap>
+GABA/GABA receptor	GABA/GABA receptor	-a>

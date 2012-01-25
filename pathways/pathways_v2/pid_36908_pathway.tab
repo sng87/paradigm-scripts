@@ -1,0 +1,145 @@
+abstract	response to oxidative stress
+abstract	cell proliferation
+complex	T-DHT/AR/TIF2/CARM1
+protein	ARA60
+protein	TZF
+complex	T-DHT/AR/CyclinD1
+complex	T-DHT/AR/Cyclin D3/CDK11 p58
+complex	Cyclin D3/CDK11 p58
+complex	T-DHT/AR/SNURF
+complex	T-DHT/AR/Caspase 8
+complex	T-DHT/AR
+complex	DNA-PK
+protein	E6AP
+protein	TGIF
+complex	T-DHT/AR/PRX1
+complex	T-DHT/AR/Ubc9
+protein	p16INK4a
+complex	T-DHT/AR/CDK6
+complex	T-DHT/AR/ARA70
+protein	PSA
+protein	BPM90
+protein	TZF-L
+protein	ZMIZ1
+protein	VAV3
+protein	UBE2I
+protein	UBA3
+protein	TMPRSS2
+protein	TGFB1I1
+protein	TCF4
+protein	SVIL
+protein	SRF
+protein	SNURF
+protein	RPS6KA3
+protein	PTK2B
+protein	PRDX1
+protein	PIAS4
+protein	PIAS3
+protein	PIAS1
+protein	PELP1
+protein	PAWR
+protein	PATZ1
+protein	PA2G4
+protein	NRIP1
+protein	NKX3-1
+protein	NCOA6
+protein	NCOA4
+protein	MED1
+protein	MAK
+protein	LATS2
+protein	KLK2
+protein	JMJD2C
+protein	JMJD1A
+protein	HNRNPA1
+protein	HIP1
+protein	GSN
+protein	FKBP4
+protein	FHL2
+protein	CTNNB1
+protein	CTDSP2
+protein	CTDSP1
+protein	CMTM2
+protein	CDK6
+protein	CCND1
+protein	BRCA1
+protein	APPL1
+protein	AOF2
+protein	AKT1
+PIAS3	PSA	-t>
+TZF-L	PSA	-t>
+FKBP4	PSA	-t>
+p16INK4a	PSA	-t|
+CTDSP2	PSA	-t|
+LATS2	PSA	-t|
+JMJD1A	NKX3-1	-t>
+CTNNB1	PSA	-t>
+NRIP1	PSA	-t>
+PELP1	PSA	-t>
+FHL2	PSA	-t>
+BRCA1	PSA	-t>
+PA2G4	PSA	-t|
+PAWR	PSA	-t>
+TZF	PSA	-t|
+DNA-PK	PSA	-t>
+NCOA6	PSA	-t>
+MAK	cell proliferation	-ap>
+ZMIZ1	T-DHT/AR	-a>
+MAK	PSA	-t>
+response to oxidative stress	T-DHT/AR/PRX1	component>
+GSN	PSA	-t>
+JMJD2C	KLK2	-t>
+RPS6KA3	PSA	-t>
+CTDSP1	PSA	-t|
+SVIL	PSA	-t>
+AOF2	PSA	-t>
+HIP1	PSA	-t>
+PIAS4	PSA	-t|
+HNRNPA1	PSA	-t|
+CMTM2	PSA	-t|
+JMJD1A	PSA	-t>
+T-DHT/AR/CyclinD1	PSA	-t|
+TCF4	PSA	-t|
+TGIF	PSA	-t|
+JMJD1A	TMPRSS2	-t>
+JMJD2C	PSA	-t>
+UBA3	PSA	-t|
+PTK2B	PSA	-t|
+TGFB1I1	PSA	-t>
+MED1	PSA	-t>
+PATZ1	PSA	-t|
+E6AP	PSA	-t>
+APPL1	PSA	-t|
+BPM90	PSA	-t>
+T-DHT/AR/Caspase 8	PSA	-t|
+T-DHT/AR/Cyclin D3/CDK11 p58	PSA	-t|
+PIAS1	PSA	-t>
+VAV3	PSA	-t>
+ARA60	PSA	-t>
+SRF	FHL2	-t>
+T-DHT/AR	NKX3-1	-t>
+CCND1	T-DHT/AR/CyclinD1	component>
+T-DHT/AR	T-DHT/AR/CyclinD1	component>
+T-DHT/AR/Cyclin D3/CDK11 p58	cell proliferation	-ap|
+T-DHT/AR	cell proliferation	-ap>
+SNURF	T-DHT/AR/SNURF	component>
+T-DHT/AR	T-DHT/AR/SNURF	component>
+T-DHT/AR	T-DHT/AR	-a>
+T-DHT/AR	T-DHT/AR/PRX1	component>
+PRDX1	T-DHT/AR/PRX1	component>
+AKT1	APPL1	-a>
+NCOA4	T-DHT/AR/ARA70	component>
+T-DHT/AR	T-DHT/AR/ARA70	component>
+T-DHT/AR	KLK2	-t>
+UBE2I	T-DHT/AR/Ubc9	component>
+T-DHT/AR	T-DHT/AR/Ubc9	component>
+CDK6	T-DHT/AR/CDK6	component>
+T-DHT/AR	T-DHT/AR/CDK6	component>
+T-DHT/AR/CDK6	PSA	-t>
+T-DHT/AR	TMPRSS2	-t>
+T-DHT/AR	T-DHT/AR/Cyclin D3/CDK11 p58	component>
+Cyclin D3/CDK11 p58	T-DHT/AR/Cyclin D3/CDK11 p58	component>
+T-DHT/AR/TIF2/CARM1	PSA	-t>
+T-DHT/AR/PRX1	PSA	-t>
+T-DHT/AR	PSA	-t>
+T-DHT/AR/ARA70	PSA	-t>
+T-DHT/AR	FHL2	-t>

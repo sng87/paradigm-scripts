@@ -1,0 +1,26 @@
+abstract	regulation of DNA replication initiation
+complex	Mcm2-7
+complex	ORC/CDC6/CDT1/Mcm2-7
+complex	ORC
+complex	ORC/CDC6/CDT1/Cyclin E/CDK2/p27
+complex	ORC/CDC6/CDT1/Mcm2-7/SCF
+complex	ORC/CDC6/CDT1
+complex	Cyclin E/CDK2
+complex	Cyclin E/CDK2/p27
+protein	KITLG
+protein	CDT1
+protein	CDKN1B
+protein	CDC6
+ORC/CDC6/CDT1/Cyclin E/CDK2/p27	regulation of DNA replication initiation	-ap|
+ORC/CDC6/CDT1/Mcm2-7/SCF	regulation of DNA replication initiation	-ap>
+CDKN1B	Cyclin E/CDK2/p27	component>
+Cyclin E/CDK2	Cyclin E/CDK2/p27	component>
+Cyclin E/CDK2/p27	ORC/CDC6/CDT1/Cyclin E/CDK2/p27	component>
+ORC/CDC6/CDT1	ORC/CDC6/CDT1/Cyclin E/CDK2/p27	component>
+Mcm2-7	ORC/CDC6/CDT1/Mcm2-7	component>
+ORC/CDC6/CDT1	ORC/CDC6/CDT1/Mcm2-7	component>
+KITLG	ORC/CDC6/CDT1/Mcm2-7/SCF	component>
+ORC/CDC6/CDT1/Mcm2-7	ORC/CDC6/CDT1/Mcm2-7/SCF	component>
+CDT1	ORC/CDC6/CDT1	component>
+CDC6	ORC/CDC6/CDT1	component>
+ORC	ORC/CDC6/CDT1	component>

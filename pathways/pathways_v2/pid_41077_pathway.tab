@@ -1,0 +1,14 @@
+complex	Substance K receptor:Neurokinin A peptide
+complex	Neuromedin K receptor:Neurokinin B peptide
+protein	UniProt:P21452 TACR2_subunit_1_398_1-398
+complex	Substance P receptor:Substance P peptide
+protein	TACR3
+protein	TACR1
+protein	TAC3
+protein	TAC1
+TAC3	Neuromedin K receptor:Neurokinin B peptide	component>
+TACR3	Neuromedin K receptor:Neurokinin B peptide	component>
+UniProt:P21452 TACR2_subunit_1_398_1-398	Substance K receptor:Neurokinin A peptide	component>
+TAC1	Substance K receptor:Neurokinin A peptide	component>
+TAC1	Substance P receptor:Substance P peptide	component>
+TACR1	Substance P receptor:Substance P peptide	component>

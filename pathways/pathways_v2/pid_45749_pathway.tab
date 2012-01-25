@@ -1,0 +1,39 @@
+complex	IL-7/IL-7Ra/IL-2R-gamma/JAK1
+complex	IL-7Ra/JAK1/IL-7
+complex	IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3
+complex	STAT5/STAT5/Nmi/p300/CBP
+complex	STAT5/STAT5
+complex	IL-7Ra/JAK1
+complex	Nmi/p300/CBP
+abstract	cell survival
+abstract	cell proliferation
+protein	STAT5
+complex	PI3K
+protein	PTK2B
+protein	LCK
+protein	JAK3
+protein	ITGA2B
+protein	IL2RG
+protein	FYN
+protein	BCL2
+JAK3	IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	-a>
+IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	LCK	-a>
+STAT5/STAT5	STAT5/STAT5	-a>
+IL-7/IL-7Ra/IL-2R-gamma/JAK1	IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	-a>
+PTK2B	cell survival	-ap>
+PI3K	cell proliferation	-ap>
+IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	FYN	-a>
+IL-7Ra/JAK1	IL-7Ra/JAK1/IL-7	component>
+ITGA2B	IL-7Ra/JAK1/IL-7	component>
+IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	PI3K	-a>
+IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	STAT5	-a>
+IL-7Ra/JAK1/IL-7	IL-7/IL-7Ra/IL-2R-gamma/JAK1	component>
+IL2RG	IL-7/IL-7Ra/IL-2R-gamma/JAK1	component>
+LCK	cell proliferation	-ap>
+IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	BCL2	-a>
+Nmi/p300/CBP	STAT5/STAT5/Nmi/p300/CBP	component>
+STAT5/STAT5	STAT5/STAT5/Nmi/p300/CBP	component>
+STAT5	STAT5/STAT5	component>
+FYN	cell proliferation	-ap>
+BCL2	cell survival	-ap>
+IL-7/IL-7Ra/IL-2R-gamma/JAK1/JAK3	PTK2B	-a>

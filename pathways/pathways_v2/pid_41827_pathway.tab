@@ -1,0 +1,53 @@
+complex	cholesterol:StAR-related protein
+smallMolecule	22beta-Hydroxycholesterol
+smallMolecule	TPNH
+complex	cholesterol:STAR
+smallMolecule	Pregnenolone
+smallMolecule	Isohexanal
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	20alpha,22beta-Dihydroxycholesterol
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Cholesterol
+protein	STARD5
+protein	STAR
+protein	CYP11A1
+CYP11A1	20alpha,22beta-Dihydroxycholesterol	-a>
+CYP11A1	H2O	-a>
+CYP11A1	TPN	-a>
+O2	20alpha,22beta-Dihydroxycholesterol	-a>
+TPNH	20alpha,22beta-Dihydroxycholesterol	-a>
+H+	20alpha,22beta-Dihydroxycholesterol	-a>
+22beta-Hydroxycholesterol	TPN	-a>
+22beta-Hydroxycholesterol	H2O	-a>
+22beta-Hydroxycholesterol	20alpha,22beta-Dihydroxycholesterol	-a>
+H+	Pregnenolone	-a>
+H+	Isohexanal	-a>
+O2	Pregnenolone	-a>
+O2	Isohexanal	-a>
+TPNH	Pregnenolone	-a>
+TPNH	Isohexanal	-a>
+20alpha,22beta-Dihydroxycholesterol	TPN	-a>
+20alpha,22beta-Dihydroxycholesterol	Pregnenolone	-a>
+20alpha,22beta-Dihydroxycholesterol	Isohexanal	-a>
+20alpha,22beta-Dihydroxycholesterol	H2O	-a>
+STAR	STARD5	-a>
+STAR	cholesterol:STAR	-a>
+cholesterol:StAR-related protein	STARD5	-a>
+cholesterol:StAR-related protein	cholesterol:STAR	-a>
+Cholesterol	H2O	-a>
+Cholesterol	22beta-Hydroxycholesterol	-a>
+Cholesterol	TPN	-a>
+TPNH	H2O	-a>
+TPNH	22beta-Hydroxycholesterol	-a>
+TPNH	TPN	-a>
+O2	H2O	-a>
+O2	22beta-Hydroxycholesterol	-a>
+O2	TPN	-a>
+H+	H2O	-a>
+H+	22beta-Hydroxycholesterol	-a>
+H+	TPN	-a>
+cholesterol:STAR	STAR	component>
+cholesterol:STAR	Cholesterol	component>
+Pregnenolone	Pregnenolone	-a>

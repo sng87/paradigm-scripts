@@ -1,0 +1,334 @@
+abstract	filopodium assembly
+abstract	tight junction assembly
+abstract	translational initiation
+abstract	ruffle organization
+abstract	lamellipodium assembly
+abstract	cytoskeleton organization
+abstract	cell migration
+abstract	cell proliferation
+abstract	degradation
+abstract	apoptosis
+rna	FOS
+complex	CDC42/GDP
+complex	Eps8/ABI1/SOS1
+complex	STAT1/STAT3
+complex	ABI1/N-WASP
+smallMolecule	DAG
+complex	RAB5/GDP
+complex	CaM/NHE1
+complex	PP2A
+complex	RAB5/GTP
+complex	WAVE2/Nap1/Sra1/AbI1
+complex	PPP2R1A/PPP2CA
+protein	JNK1-2-active
+complex	RAS family/GTP
+complex	RIN1/GDP
+protein	MSK1-2
+complex	RAS family/GDP
+smallMolecule	Phosphatidylcholine
+complex	RALA/GTP
+protein	ERK1-2-active
+complex	STAT3 (dimer)
+complex	RIN1/GTP
+complex	PI3K Class IA family
+protein	ERK1-2
+complex	YWHAZ/YWHAZ
+protein	JNK1-2
+complex	KSR/14-3-3
+complex	SOS1/Eps8/AbI1
+complex	Eps8/RNTRE
+complex	MEKK2/TsAd
+protein	TsAd
+complex	RAC1/GDP
+complex	ARF4/GDP
+protein	MSK1-2-active
+complex	CDC42/GTP
+complex	mTORC2
+complex	PAK1
+complex	RKIP/RAF1
+protein	KSR
+complex	ARF4/GTP
+protein	BCL-X(L)
+complex	BAD/BCL-XL
+smallMolecule	PI-3-4-5-P3
+protein	MEKK1
+complex	WAVE2/Nap1/Sra1/AbI1/HSPC300
+smallMolecule	Phosphatidic acid
+complex	Arp2/3 complex
+complex	RALA/GDP
+smallMolecule	PI-4-5-P2
+complex	ELK1/SRF
+smallMolecule	Ca2+
+smallMolecule	IP3
+complex	RAF1/BRAF
+complex	EGFR/EGFR/EGF/EGF
+protein	PKC delta
+complex	MEK1/MEK2
+protein	14-3-3 family
+protein	ERK5
+smallMolecule	Choline
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ZFP36
+protein	WASL
+protein	VAV2
+protein	USP6NL
+protein	STAT3
+protein	STAT1
+protein	SRF
+protein	SRC
+protein	SOS1
+protein	SMAD1
+protein	SLC9A1
+protein	RPS6KA3
+protein	RPS6
+protein	RALGDS
+protein	RAF1
+protein	PRKCZ
+protein	PRKCA
+protein	PPP5C
+protein	PPP2R2A
+protein	PLD2
+protein	PLD1
+protein	PEBP1
+protein	PDPK1
+protein	MYLPF
+protein	MYC
+protein	MEF2C
+protein	MAP3K2
+protein	MAP2K5
+protein	MAP2K4
+protein	MAP2K2
+protein	MAP2K1
+protein	JUN
+protein	IQGAP1
+protein	GRB2
+protein	GAB1
+protein	FOS
+protein	F2RL2
+protein	ELK1
+protein	EGR1
+protein	DUSP6
+protein	DUSP1
+protein	DIAPH3
+protein	CREB1
+protein	CHN2
+protein	CAPN2
+protein	CALM1
+protein	BRAF
+protein	BAIAP2
+protein	BAD
+protein	ATF2
+protein	ATF1
+protein	AKT1
+protein	ABI1
+PI-3-4-5-P3	SOS1/Eps8/AbI1	-a>
+PI3K Class IA family	SOS1/Eps8/AbI1	-a>
+GRB2	STAT3	-a|
+ZFP36	degradation	-ap>
+ERK1-2-active	MSK1-2-active	-a>
+EGFR/EGFR/EGF/EGF	Eps8/ABI1/SOS1	component>
+EGFR/EGFR/EGF/EGF	PP2A	component>
+EGFR/EGFR/EGF/EGF	ARF4/GTP	-a>
+Ca2+	PRKCA	-a>
+IQGAP1	BRAF	-a>
+Eps8/RNTRE	RAB5/GDP	-a>
+KSR	MAP2K1	-a>
+CREB1	FOS	-t>
+KSR	BRAF	-a>
+VAV2	CDC42/GTP	-a>
+PLD1	Phosphatidic acid	-a>
+CREB1	FOS	-t>
+RIN1/GTP	RAB5/GTP	-a>
+ERK1-2-active	BAD	component>
+RAF1	MEK1/MEK2	-a>
+PLD2	Phosphatidic acid	-a>
+AKT1	BAD	component>
+KSR	MAP2K2	-a>
+PI-3-4-5-P3	WAVE2/Nap1/Sra1/AbI1/HSPC300	-a>
+BAIAP2	WAVE2/Nap1/Sra1/AbI1/HSPC300	-a>
+PAK1	WAVE2/Nap1/Sra1/AbI1/HSPC300	-a>
+MAP2K4	JNK1-2-active	-a>
+PDPK1	RALGDS	-a>
+RAS family/GTP	RIN1/GTP	-a>
+ERK1-2-active	MEK1/MEK2	-a>
+KSR	ERK1-2-active	-a>
+MAP2K2	ERK1-2-active	-a>
+VAV2	PAK1	-a>
+PDPK1	AKT1	-a>
+YWHAZ/YWHAZ	RAF1	-a>
+KSR	RAF1	-a>
+EGFR/EGFR/EGF/EGF	CaM/NHE1	component>
+PI3K Class IA family	PI-3-4-5-P3	-a>
+SOS1	RAS family/GTP	-a>
+DUSP1	ERK1-2	-a>
+SOS1/Eps8/AbI1	PAK1	-a>
+JNK1-2-active	JUN	-t>
+RALGDS	RALA/GTP	-a>
+MEK1/MEK2	ERK1-2-active	-a>
+CHN2	RAC1/GDP	-a>
+IQGAP1	ERK1-2-active	-a>
+MAP2K1	ERK1-2-active	-a>
+PP2A	KSR	component>
+IQGAP1	MAP2K1	-a>
+ERK1-2-active	RAF1/BRAF	-a>
+PRKCZ	PEBP1	component>
+DUSP6	ERK1-2	-a>
+SRC	MAP3K2	component>
+ERK1-2-active	RAF1	-a>
+Eps8/ABI1/SOS1	SOS1/Eps8/AbI1	-a>
+STAT1/STAT3	cell proliferation	-ap>
+DIAPH3	filopodium assembly	-ap>
+ERK1-2-active	KSR	-a>
+MAP2K5	ERK5	-a>
+PRKCA	PLD1	-a>
+EGFR/EGFR/EGF/EGF	STAT3	-a>
+PI-3-4-5-P3	GAB1	-a>
+FOS	degradation	-ap>
+MSK1-2	MSK1-2-active	-a>
+ERK1-2-active	ATF2	-a>
+PPP5C	RAF1	-a>
+BCL-X(L)	apoptosis	-ap|
+Eps8/RNTRE	USP6NL	component>
+Eps8/RNTRE	Eps8/ABI1/SOS1	component>
+SOS1	USP6NL	component>
+SOS1	Eps8/ABI1/SOS1	component>
+ABI1	USP6NL	component>
+ABI1	Eps8/ABI1/SOS1	component>
+PPP2R2A	PP2A	component>
+PPP2R1A/PPP2CA	PP2A	component>
+GTP	ARF4/GTP	-a>
+ARF4/GDP	GDP	-a>
+ARF4/GDP	ARF4/GTP	-a>
+ERK1-2-active	JUN	-a>
+DAG	PRKCA	-a>
+PKC delta	MYLPF	-a>
+STAT3	STAT1/STAT3	component>
+STAT1	STAT1/STAT3	component>
+WAVE2/Nap1/Sra1/AbI1	DIAPH3	-a|
+ERK1-2-active	BRAF	-a>
+STAT3 (dimer)	STAT3 (dimer)	-a>
+GDP	RAB5/GDP	-a>
+RAB5/GTP	GTP	-a>
+RAB5/GTP	RAB5/GDP	-a>
+ERK5	cell proliferation	-ap>
+DAG	CHN2	-a>
+ELK1/SRF	FOS	-t>
+PP2A	RAF1	-a>
+DAG	PKC delta	-a>
+STAT1/STAT3	STAT1/STAT3	-a>
+WAVE2/Nap1/Sra1/AbI1/HSPC300	Arp2/3 complex	-a>
+JNK1-2-active	JUN	-a>
+FOS	cell proliferation	-ap>
+RAS family/GTP	BRAF	-a>
+PI-3-4-5-P3	PDPK1	-a>
+RPS6KA3	PDPK1	-a>
+GTP	CDC42/GTP	-a>
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+CaM/NHE1	lamellipodium assembly	-ap>
+RPS6KA3	RPS6KA3	-a>
+RAF1	MAP2K2	-a>
+ERK5	MEF2C	-a>
+STAT1/STAT3	cell migration	-ap>
+ELK1/SRF	FOS	-t>
+ARF4/GTP	PLD2	-a>
+ERK1-2-active	DUSP1	-t>
+JNK1-2-active	JNK1-2-active	-a>
+CDC42/GTP	cytoskeleton organization	-ap>
+RALA/GTP	SRC	-a>
+MSK1-2-active	ATF1	-a>
+ERK1-2-active	RPS6KA3	-a>
+ERK1-2-active	ZFP36	-t>
+F2RL2	tight junction assembly	-ap>
+GTP	RAB5/GTP	-a>
+RAB5/GDP	GDP	-a>
+RAB5/GDP	RAB5/GTP	-a>
+RAF1	MAP2K1	-a>
+RPS6KA3	SRF	-a>
+Phosphatidylcholine	Choline	-a>
+Phosphatidylcholine	Phosphatidic acid	-a>
+BAD/BCL-XL	BCL-X(L)	component>
+BAD/BCL-XL	BAD	component>
+EGR1	cell proliferation	-ap>
+RAF1/BRAF	MAP2K2	-a>
+BRAF	MAP2K2	-a>
+RAS family/GTP	RALGDS	-a>
+PI3K Class IA family	PRKCZ	-a>
+JUN	cell proliferation	-ap>
+SRF	ELK1/SRF	component>
+ELK1	ELK1/SRF	component>
+ERK1-2-active	MYC	-t>
+PI-3-4-5-P3	VAV2	-a>
+WAVE2/Nap1/Sra1/AbI1/HSPC300	WAVE2/Nap1/Sra1/AbI1/HSPC300	-a>
+JNK1-2	JNK1-2-active	-a>
+AKT1	RALGDS	-a>
+STAT3 (dimer)	cell proliferation	-ap>
+GTP	RIN1/GTP	-a>
+RIN1/GDP	GDP	-a>
+RIN1/GDP	RIN1/GTP	-a>
+ERK1-2-active	SMAD1	-a>
+ELK1	EGR1	-t>
+RAF1/BRAF	MAP2K1	-a>
+PI-3-4-5-P3	AKT1	-a>
+BAD	apoptosis	-ap|
+RPS6	translational initiation	-ap>
+Arp2/3 complex	ruffle organization	-ap>
+MAP3K2	MAP2K5	-a>
+RAS family/GTP	RAF1	-a>
+SLC9A1	CaM/NHE1	component>
+CALM1	CaM/NHE1	component>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+GTP	RAS family/GTP	-a>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+ERK1-2-active	CAPN2	-a>
+PDPK1	RPS6KA3	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+MEKK1	MAP2K4	-a>
+ERK1-2-active	ERK1-2-active	-a>
+PAK1	MEKK1	-a>
+ATF1	JUN	-t>
+mTORC2	AKT1	-a>
+RPS6KA3	RPS6	-a>
+BRAF	RAF1/BRAF	component>
+RAF1	RAF1/BRAF	component>
+GTP	GDP	-a>
+GTP	RALA/GTP	-a>
+RALA/GDP	GDP	-a>
+RALA/GDP	RALA/GTP	-a>
+IP3	Ca2+	-a>
+GDP	GTP	-a>
+GDP	RAC1/GDP	-a>
+PAK1	GTP	-a>
+PAK1	RAC1/GDP	-a>
+STAT3	STAT3 (dimer)	component>
+ABI1/N-WASP	Arp2/3 complex	-a>
+CAPN2	cell migration	-ap>
+ERK1-2-active	DUSP6	-t>
+RAS family/GTP	PI3K Class IA family	-a>
+Phosphatidic acid	SOS1	-a>
+ERK1-2	ERK1-2-active	-a>
+MYC	cell proliferation	-ap>
+ERK1-2-active	ELK1	-a>
+RPS6KA3	CREB1	-a>
+KSR/14-3-3	14-3-3 family	component>
+KSR/14-3-3	KSR	component>
+BRAF	MAP2K1	-a>
+SRC	F2RL2	-a>
+RAF1/BRAF	RAF1/BRAF	-a>
+RALA/GTP	lamellipodium assembly	-ap>
+ERK5	ERK5	-a>
+CDC42/GTP	MEKK1	-a>
+MYLPF	cell migration	-ap>
+RKIP/RAF1	RAF1	component>
+RKIP/RAF1	PEBP1	component>
+ERK1-2-active	ERK1-2	-a>
+EGFR/EGFR/EGF/EGF	STAT1	-a>
+MEKK2/TsAd	TsAd	component>
+MEKK2/TsAd	MAP3K2	component>
+WASL	ABI1/N-WASP	component>
+ABI1	ABI1/N-WASP	component>
+MEK1/MEK2	MEK1/MEK2	-a>

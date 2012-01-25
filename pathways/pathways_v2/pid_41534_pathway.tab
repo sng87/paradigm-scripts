@@ -1,0 +1,35 @@
+complex	Dopamine loaded synaptic vesicle
+complex	SNARE complex
+complex	Rab3-RIM complex
+complex	Docked dopamine loaded synaptic vesicle
+protein	UniProt:P60880-1 SNAP25
+protein	UniProt:P61764-1 STXBP1
+protein	UniProt:Q16623-3 STX1A
+smallMolecule	H+
+smallMolecule	Dopamine
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SYT1
+protein	SLC18A2
+protein	RIMS1
+protein	RAB3A
+protein	CPLX1
+Rab3-RIM complex	Docked dopamine loaded synaptic vesicle	component>
+CPLX1	Docked dopamine loaded synaptic vesicle	component>
+UniProt:P60880-1 SNAP25	Docked dopamine loaded synaptic vesicle	component>
+UniProt:P61764-1 STXBP1	Docked dopamine loaded synaptic vesicle	component>
+UniProt:Q16623-3 STX1A	Docked dopamine loaded synaptic vesicle	component>
+Dopamine loaded synaptic vesicle	Docked dopamine loaded synaptic vesicle	component>
+Docked dopamine loaded synaptic vesicle	RAB3A	component>
+Docked dopamine loaded synaptic vesicle	CPLX1	component>
+Docked dopamine loaded synaptic vesicle	RIMS1	component>
+Docked dopamine loaded synaptic vesicle	SNARE complex	component>
+Docked dopamine loaded synaptic vesicle	SLC18A2	component>
+Docked dopamine loaded synaptic vesicle	Dopamine	component>
+Docked dopamine loaded synaptic vesicle	SYT1	component>
+Docked dopamine loaded synaptic vesicle	UniProt:P61764-1 STXBP1	component>
+SLC18A2	Dopamine	-a>
+ATP	ADP	-a>
+ATP	H+	-a>
+H+	ADP	-a>
+H+	H+	-a>

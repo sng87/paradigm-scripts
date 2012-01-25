@@ -1,0 +1,49 @@
+abstract	cell growth and/or maintenance
+smallMolecule	phosphatidate
+protein	MLLT7
+smallMolecule	PIP2
+abstract	apoptosis
+smallMolecule	Lecithin
+protein	Rac GEFs
+complex	PI3K
+smallMolecule	PIP3
+protein	RHOA
+protein	RALGDS
+protein	RALBP1
+protein	RALA
+protein	RAF1
+protein	RAC1
+protein	PLD1
+protein	PDPK1
+protein	HRAS
+protein	CHUK
+protein	CDC42
+protein	CASP9
+protein	BCL2L1
+protein	BAD
+protein	AKT1
+PI3K	PIP3	-a>
+PLD1	phosphatidate	-a>
+AKT1	CASP9	-a>
+RALA	PLD1	-a>
+AKT1	MLLT7	-a>
+PIP2	PIP3	-a>
+RALBP1	RAC1	-a>
+AKT1	BAD	-a>
+RHOA	PLD1	-a>
+Lecithin	phosphatidate	-a>
+RALA	RALBP1	-a>
+HRAS	RAF1	-a>
+CASP9	apoptosis	-ap>
+PIP3	Rac GEFs	-a>
+BCL2L1	cell growth and/or maintenance	-ap>
+RALBP1	CDC42	-a>
+Rac GEFs	RAC1	-a>
+AKT1	CHUK	-a>
+PDPK1	AKT1	-a>
+HRAS	PI3K	-a>
+HRAS	RALGDS	-a>
+BAD	BCL2L1	-a>
+RALGDS	RALA	-a>
+PIP3	PDPK1	-a>
+MLLT7	apoptosis	-ap>

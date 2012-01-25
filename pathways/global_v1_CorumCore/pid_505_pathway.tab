@@ -1,0 +1,25 @@
+complex	EEA1/RAB5A/VPS11/VPS16/VPS18/VPS39 (complex)
+complex	VPS11/VPS16/VPS18 (complex)
+protein	RAB5A
+protein	VPS18
+protein	EEA1
+protein	VPS16
+protein	VPS11
+protein	VPS39
+protein	STX7
+complex	STX7/VPS11/VPS18 (complex)
+abstract	Golgi vesicle transport (abstract)
+RAB5A	EEA1	-a>
+RAB5A	EEA1/RAB5A/VPS11/VPS16/VPS18/VPS39 (complex)	component>
+VPS18	STX7/VPS11/VPS18 (complex)	component>
+VPS18	EEA1/RAB5A/VPS11/VPS16/VPS18/VPS39 (complex)	component>
+VPS18	VPS11/VPS16/VPS18 (complex)	component>
+EEA1	EEA1/RAB5A/VPS11/VPS16/VPS18/VPS39 (complex)	component>
+EEA1	Golgi vesicle transport (abstract)	-ap>
+VPS16	EEA1/RAB5A/VPS11/VPS16/VPS18/VPS39 (complex)	component>
+VPS16	VPS11/VPS16/VPS18 (complex)	component>
+VPS11	STX7/VPS11/VPS18 (complex)	component>
+VPS11	EEA1/RAB5A/VPS11/VPS16/VPS18/VPS39 (complex)	component>
+VPS11	VPS11/VPS16/VPS18 (complex)	component>
+VPS39	EEA1/RAB5A/VPS11/VPS16/VPS18/VPS39 (complex)	component>
+STX7	STX7/VPS11/VPS18 (complex)	component>

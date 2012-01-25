@@ -1,0 +1,32 @@
+complex	CBP/p300/ACTR/RXR/CARM1/RAR/retinoids
+complex	p300/CBP
+protein	Steroid receptor activated factors
+complex	PKA
+complex	RXR/RAR
+complex	RXR/RAR/Retinoid
+complex	CBP/p300/CREB
+protein	Retinoids
+abstract	histone methylation
+abstract	histone acetylation
+protein	SST
+protein	NCOA3
+protein	CREB1
+protein	CARM1
+protein	BCL2
+CARM1	p300/CBP	-a>
+RXR/RAR	RXR/RAR/Retinoid	component>
+Retinoids	RXR/RAR/Retinoid	component>
+p300/CBP	CBP/p300/CREB	component>
+CREB1	CBP/p300/CREB	component>
+p300/CBP	p300/CBP	-a>
+CBP/p300/CREB	SST	-t>
+CARM1	CBP/p300/ACTR/RXR/CARM1/RAR/retinoids	component>
+NCOA3	CBP/p300/ACTR/RXR/CARM1/RAR/retinoids	component>
+p300/CBP	CBP/p300/ACTR/RXR/CARM1/RAR/retinoids	component>
+RXR/RAR/Retinoid	CBP/p300/ACTR/RXR/CARM1/RAR/retinoids	component>
+PKA	CREB1	-a>
+CBP/p300/ACTR/RXR/CARM1/RAR/retinoids	histone methylation	-ap>
+CBP/p300/CREB	histone acetylation	-ap>
+CBP/p300/ACTR/RXR/CARM1/RAR/retinoids	Steroid receptor activated factors	-t>
+CBP/p300/CREB	BCL2	-t>
+CBP/p300/ACTR/RXR/CARM1/RAR/retinoids	histone acetylation	-ap>

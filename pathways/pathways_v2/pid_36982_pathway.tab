@@ -1,0 +1,89 @@
+abstract	positive regulation of JUN kinase activity
+abstract	macrophage chemotaxis
+abstract	oligodendrocyte development
+abstract	JAK-STAT cascade
+abstract	Ras protein signal transduction
+abstract	actin cytoskeleton reorganization
+abstract	cell proliferation
+complex	PDGF/PDGFRA/Crk
+complex	Interferon-gamma receptor/IFN-gamma
+smallMolecule	DAG
+complex	PDGF/PDGFRA/alphav Integrin
+complex	PDGF/PDGFRA/Caveolin-1
+complex	PDGF/PDGFRA/Shf
+protein	PKC
+complex	PDGF/PDGFRA/SHB
+complex	PDGF/PDGFRA
+complex	PDGF/PDGFRA/Caveolin-3
+complex	PDGF/PDGFRA/CRKL
+complex	AP1
+complex	SHC/GRB2/SOS1
+complex	PDGFA-B-C
+complex	PDGF/PDGFRA/Crk/C3G
+smallMolecule	PI-4-5-P2
+complex	PI3K
+complex	ELK1/SRF
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	alphav Integrin
+protein	SRF
+protein	SHF
+protein	SHB
+protein	RAPGEF1
+protein	PLCG1
+protein	PDGFRA
+protein	JUN
+protein	JAK1
+protein	FOS
+protein	ELK1
+protein	CSNK2A1
+protein	CRKL
+protein	CRK
+protein	CAV3
+protein	CAV1
+Ca2+	PKC	-a>
+PLCG1	DAG	-a>
+SHC/GRB2/SOS1	Ras protein signal transduction	-ap>
+SHC/GRB2/SOS1	positive regulation of JUN kinase activity	-ap>
+CRK	PDGF/PDGFRA/Crk	component>
+PDGF/PDGFRA	PDGF/PDGFRA/Crk	component>
+DAG	PKC	-a>
+RAPGEF1	PDGF/PDGFRA/Crk/C3G	component>
+PDGF/PDGFRA/Crk	PDGF/PDGFRA/Crk/C3G	component>
+CSNK2A1	JUN	-a|
+PDGF/PDGFRA	PDGF/PDGFRA/SHB	component>
+SHB	PDGF/PDGFRA/SHB	component>
+FOS	AP1	component>
+JUN	AP1	component>
+CAV3	PDGF/PDGFRA/Caveolin-3	component>
+PDGF/PDGFRA	PDGF/PDGFRA/Caveolin-3	component>
+IP3	Ca2+	-a>
+PKC	ELK1	-a>
+PDGF/PDGFRA	macrophage chemotaxis	-ap>
+Interferon-gamma receptor/IFN-gamma	macrophage chemotaxis	-ap>
+JAK1	JAK-STAT cascade	-ap>
+PDGF/PDGFRA/alphav Integrin	oligodendrocyte development	-ap>
+CAV1	PDGF/PDGFRA/Caveolin-1	component>
+PDGF/PDGFRA	PDGF/PDGFRA/Caveolin-1	component>
+ELK1	FOS	-a>
+PDGF/PDGFRA	PLCG1	-a>
+PDGF/PDGFRA/Shf	cell proliferation	-ap>
+PDGF/PDGFRA	PDGF/PDGFRA/Shf	component>
+SHF	PDGF/PDGFRA/Shf	component>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PDGFRA	PDGF/PDGFRA	component>
+PDGFA-B-C	PDGF/PDGFRA	component>
+PDGF/PDGFRA	JAK1	-a>
+CRKL	PDGF/PDGFRA/CRKL	component>
+PDGF/PDGFRA	PDGF/PDGFRA/CRKL	component>
+CSNK2A1	SRF	-a>
+PDGF/PDGFRA	SHC/GRB2/SOS1	-a>
+AP1	FOS	-t>
+alphav Integrin	PDGF/PDGFRA/alphav Integrin	component>
+PDGF/PDGFRA	PDGF/PDGFRA/alphav Integrin	component>
+ELK1	Ras protein signal transduction	-ap>
+PDGF/PDGFRA/SHB	actin cytoskeleton reorganization	-ap>
+PDGF/PDGFRA	PI3K	-a>
+SRF	ELK1/SRF	component>
+ELK1	ELK1/SRF	component>

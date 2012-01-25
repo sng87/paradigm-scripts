@@ -1,0 +1,14 @@
+complex	Activated EGFR:PLC-gamma1
+complex	Activated EGFR:Phospho-PLC-gamma1
+complex	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PLCG1
+PLCG1	Activated EGFR:PLC-gamma1	component>
+EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	Activated EGFR:PLC-gamma1	component>
+Activated EGFR:PLC-gamma1	ADP	-a>
+Activated EGFR:PLC-gamma1	Activated EGFR:Phospho-PLC-gamma1	-a>
+ATP	ADP	-a>
+ATP	Activated EGFR:Phospho-PLC-gamma1	-a>
+Activated EGFR:Phospho-PLC-gamma1	PLCG1	component>
+Activated EGFR:Phospho-PLC-gamma1	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	component>

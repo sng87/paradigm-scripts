@@ -1,0 +1,110 @@
+protein	Myosin-Va
+complex	Core SNARE Complex
+complex	Proinsulin-Zinc-Calcium Complex (golgi)
+complex	SRP Receptor Complex
+protein	ZnT5
+complex	Preproinsulin-SRP-SRP Receptor Complex
+complex	G-protein alpha i/o:GTP Complex
+complex	Preproinsulin-Translocon Complex
+complex	SNARE complex
+protein	ZnT6
+protein	SNAP-25
+complex	Signal Peptidase Complex
+protein	Unc18-1
+complex	Syntaxin-1A-Unc18-1 Complex
+complex	Insulin-Zinc-Calcium Complex
+complex	Signal Recognition Particle Complex
+smallMolecule	PPi
+complex	Preproinsulin-SRP Complex
+protein	UniProt:P63027 VAMP2
+complex	Translocon Complex
+smallMolecule	Zn2+
+smallMolecule	Ca2+
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SYT5
+protein	SLC30A7
+protein	RAB27A
+protein	PDX1
+protein	PCSK2
+protein	PCSK1
+protein	PAX6
+protein	NKX2-2
+protein	MAFA
+protein	KIF5B
+protein	INS
+protein	ERO1L
+protein	CPE
+NKX2-2	INS	-t>
+PDX1	INS	-t>
+PAX6	INS	-t>
+SRP Receptor Complex	Preproinsulin-Translocon Complex	component>
+ZnT5	Proinsulin-Zinc-Calcium Complex (golgi)	-a>
+SLC30A7	Proinsulin-Zinc-Calcium Complex (golgi)	-a>
+CPE	Insulin-Zinc-Calcium Complex	-a>
+PCSK1	Insulin-Zinc-Calcium Complex	-a>
+PCSK2	Insulin-Zinc-Calcium Complex	-a>
+Signal Peptidase Complex	INS	component>
+RAB27A	Insulin-Zinc-Calcium Complex	-a>
+Core SNARE Complex	Insulin-Zinc-Calcium Complex	-a>
+G-protein alpha i/o:GTP Complex	INS	component>
+Core SNARE Complex	INS	component>
+MAFA	INS	-t>
+KIF5B	Insulin-Zinc-Calcium Complex	-a>
+Preproinsulin-SRP-SRP Receptor Complex	SRP Receptor Complex	component>
+Preproinsulin-SRP-SRP Receptor Complex	Signal Recognition Particle Complex	component>
+Preproinsulin-SRP-SRP Receptor Complex	GDP	component>
+Preproinsulin-SRP-SRP Receptor Complex	PPi	component>
+Preproinsulin-SRP-SRP Receptor Complex	Preproinsulin-Translocon Complex	component>
+Translocon Complex	SRP Receptor Complex	component>
+Translocon Complex	Signal Recognition Particle Complex	component>
+Translocon Complex	GDP	component>
+Translocon Complex	PPi	component>
+Translocon Complex	Preproinsulin-Translocon Complex	component>
+GTP	SRP Receptor Complex	component>
+GTP	Signal Recognition Particle Complex	component>
+GTP	GDP	component>
+GTP	PPi	component>
+GTP	Preproinsulin-Translocon Complex	component>
+ZnT6	Proinsulin-Zinc-Calcium Complex (golgi)	-a>
+Proinsulin-Zinc-Calcium Complex (golgi)	Insulin-Zinc-Calcium Complex	-a>
+INS	INS	-a>
+Preproinsulin-Translocon Complex	Translocon Complex	component>
+Preproinsulin-Translocon Complex	INS	component>
+Signal Recognition Particle Complex	Preproinsulin-SRP Complex	component>
+INS	Preproinsulin-SRP Complex	component>
+Zn2+	Proinsulin-Zinc-Calcium Complex (golgi)	component>
+Ca2+	Proinsulin-Zinc-Calcium Complex (golgi)	component>
+INS	Proinsulin-Zinc-Calcium Complex (golgi)	component>
+Myosin-Va	Insulin-Zinc-Calcium Complex	-a>
+ERO1L	INS	-a>
+INS	SNARE complex	component>
+INS	Unc18-1	component>
+INS	Insulin-Zinc-Calcium Complex	component>
+INS	INS	component>
+SNAP-25	SNARE complex	component>
+SNAP-25	Unc18-1	component>
+SNAP-25	Insulin-Zinc-Calcium Complex	component>
+SNAP-25	INS	component>
+Syntaxin-1A-Unc18-1 Complex	SNARE complex	component>
+Syntaxin-1A-Unc18-1 Complex	Unc18-1	component>
+Syntaxin-1A-Unc18-1 Complex	Insulin-Zinc-Calcium Complex	component>
+Syntaxin-1A-Unc18-1 Complex	INS	component>
+Insulin-Zinc-Calcium Complex	SNARE complex	component>
+Insulin-Zinc-Calcium Complex	Unc18-1	component>
+Insulin-Zinc-Calcium Complex	Insulin-Zinc-Calcium Complex	component>
+Insulin-Zinc-Calcium Complex	INS	component>
+SYT5	SNARE complex	component>
+SYT5	Unc18-1	component>
+SYT5	Insulin-Zinc-Calcium Complex	component>
+SYT5	INS	component>
+Ca2+	SNARE complex	component>
+Ca2+	Unc18-1	component>
+Ca2+	Insulin-Zinc-Calcium Complex	component>
+Ca2+	INS	component>
+UniProt:P63027 VAMP2	SNARE complex	component>
+UniProt:P63027 VAMP2	Unc18-1	component>
+UniProt:P63027 VAMP2	Insulin-Zinc-Calcium Complex	component>
+UniProt:P63027 VAMP2	INS	component>
+SRP Receptor Complex	Preproinsulin-SRP-SRP Receptor Complex	component>
+Preproinsulin-SRP Complex	Preproinsulin-SRP-SRP Receptor Complex	component>

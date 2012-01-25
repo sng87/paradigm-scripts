@@ -1,0 +1,99 @@
+abstract	response to radiation
+abstract	G2/M transition of mitotic cell cycle
+complex	FOXM1B/Cbp/p300
+complex	FOXM1B/HNF6
+complex	Cyclin D1/CDK4
+complex	FOXM1B/p14ARF
+complex	Cyclin A-E1/CDK1-2
+protein	p14ARF
+complex	Cyclin B1/CDK1
+complex	RB1/FOXM1C
+protein	FOXM1C
+complex	FOXM1C/SP1
+protein	Cbp/p300
+protein	XRCC1
+protein	TGFA
+protein	SP1
+protein	SKP2
+protein	RB1
+protein	PLK1
+protein	ONECUT1
+protein	NFATC3
+protein	NEK2
+protein	MYC
+protein	MMP2
+protein	MAP2K1
+protein	LAMA4
+protein	HSPA1B
+protein	HIST1H2BA
+protein	GSK3A
+protein	GAS1
+protein	FOXM1
+protein	FOS
+protein	ETV5
+protein	ESR1
+protein	CKS1B
+protein	CHEK2
+protein	CENPF
+protein	CENPB
+protein	CENPA
+protein	CDC25B
+protein	CDC2
+protein	CCND1
+protein	CCNB2
+protein	CCNB1
+protein	BRCA2
+protein	BIRC5
+protein	AURKB
+Cyclin D1/CDK4	RB1	component>
+FOXM1B/p14ARF	BIRC5	-t|
+Cyclin A-E1/CDK1-2	RB1	component>
+FOXM1B/p14ARF	AURKB	-t|
+CHEK2	FOXM1	-a>
+MAP2K1	FOXM1C	-a>
+FOXM1B/p14ARF	PLK1	-t|
+FOXM1	BRCA2	-t>
+FOXM1	CDC2	-t>
+ONECUT1	FOXM1B/HNF6	component>
+FOXM1	FOXM1B/HNF6	component>
+FOXM1C	HIST1H2BA	-t>
+FOXM1	CCNB2	-t>
+FOXM1C/SP1	MYC	-t>
+GSK3A	FOXM1C	-a>
+FOXM1C	ESR1	-t>
+FOXM1B/HNF6	ONECUT1	-t>
+FOXM1	MMP2	-t>
+FOXM1C	CDC25B	-t>
+FOXM1	LAMA4	-t>
+SP1	FOXM1C/SP1	component>
+FOXM1C	FOXM1C/SP1	component>
+FOXM1	BIRC5	-t>
+RB1/FOXM1C	FOXM1C	component>
+RB1/FOXM1C	RB1	component>
+Cbp/p300	FOXM1B/Cbp/p300	component>
+FOXM1	FOXM1B/Cbp/p300	component>
+FOXM1	ETV5	-t>
+FOXM1	CDC25B	-t>
+FOXM1	CENPB	-t>
+FOXM1C	CCNB1	-t>
+FOXM1C	HSPA1B	-t>
+FOXM1B/HNF6	TGFA	-t>
+FOXM1	XRCC1	-t>
+FOXM1	AURKB	-t>
+FOXM1C	FOS	-t>
+p14ARF	FOXM1B/p14ARF	component>
+FOXM1	FOXM1B/p14ARF	component>
+FOXM1	SKP2	-t>
+response to radiation	FOXM1	-a>
+FOXM1	NFATC3	-t>
+FOXM1	CENPF	-t>
+FOXM1	NEK2	-t>
+FOXM1	CENPA	-t>
+FOXM1B/HNF6	CCND1	-t>
+G2/M transition of mitotic cell cycle	FOXM1C	-a>
+FOXM1	CKS1B	-t>
+FOXM1	CCNB1	-t>
+FOXM1	GAS1	-t>
+Cyclin B1/CDK1	FOXM1	-a>
+FOXM1C	FOXM1C	-a>
+FOXM1	PLK1	-t>

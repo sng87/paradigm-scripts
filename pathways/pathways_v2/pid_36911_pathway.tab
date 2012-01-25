@@ -1,0 +1,158 @@
+abstract	epidermal growth factor receptor activity
+abstract	positive regulation of transcription
+abstract	cell proliferation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	T-DHT/AR/TIF2/CARM1
+complex	T-DHT/AR/TIP60
+complex	T-DHT/AR/Hsp90
+complex	RXRs/9cRA
+complex	BRM/BAF57
+complex	T-DHT/AR/RACK1/Src
+complex	T-DHT/AR
+protein	Filamin A C-terminal fragment
+complex	T-DHT/AR/DAX-1
+protein	SRG3
+complex	T-DHT/AR/TIF2
+complex	AR/RACK1/Src
+complex	AR/GR
+protein	PKN
+smallMolecule	T-DHT
+protein	PSA
+protein	Cbp/p300
+protein	ZMIZ2
+protein	TRIM24
+protein	TMPRSS2
+protein	SRY
+protein	SRC
+protein	SPDEF
+protein	SIRT1
+protein	SENP1
+protein	REL
+protein	RCHY1
+protein	POU2F1
+protein	PDE9A
+protein	NR3C1
+protein	NR2C2
+protein	NR2C1
+protein	NR0B1
+protein	NCOA2
+protein	NCOA1
+protein	MYST2
+protein	MDM2
+protein	MAPK8
+protein	MAPK14
+protein	MAP2K6
+protein	MAP2K4
+protein	KLK2
+protein	KAT5
+protein	KAT2B
+protein	JUN
+protein	HSP90AA1
+protein	HOXB13
+protein	HDAC7
+protein	HDAC1
+protein	GSK3B
+protein	GNB2L1
+protein	GATA2
+protein	FOXO1
+protein	EHMT2
+protein	EGR1
+protein	DNAJA1
+protein	CEBPA
+protein	CARM1
+protein	AR
+protein	APPBP2
+FOXO1	PSA	-t|
+JUN	PSA	-t>
+FOXO1	cell proliferation	-ap|
+POU2F1	cell proliferation	-ap>
+T-DHT/AR/TIF2	cell proliferation	-ap>
+MAPK14	T-DHT	component>
+KAT2B	T-DHT/AR/TIF2	-a>
+RCHY1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+epidermal growth factor receptor activity	AR/RACK1/Src	component>
+NR2C1	PSA	-t|
+TRIM24	PSA	-t>
+EHMT2	PSA	-t>
+Cbp/p300	T-DHT/AR/TIF2	-a>
+MDM2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+PKN	T-DHT/AR/TIF2	component>
+EGR1	PSA	-t>
+NCOA1	PSA	-t>
+SRG3	PSA	-t>
+Filamin A C-terminal fragment	PSA	-t|
+SRY	PSA	-t|
+NCOA1	SRG3	-t>
+SRG3	SRG3	-t>
+BRM/BAF57	cell proliferation	-ap>
+RXRs/9cRA	PSA	-t|
+HDAC7	PSA	-t|
+DNAJA1	T-DHT/AR	component>
+REL	PSA	-t|
+POU2F1	PSA	-t>
+ZMIZ2	PSA	-t>
+BRM/BAF57	PSA	-t>
+MAPK8	T-DHT	component>
+CEBPA	PSA	-t|
+POU2F1	TMPRSS2	-t>
+T-DHT/AR	TMPRSS2	-t>
+MYST2	PSA	-t|
+HOXB13	PSA	-t|
+SIRT1	T-DHT/AR/TIF2	-a>
+NR2C2	PSA	-t|
+POU2F1	PDE9A	-t>
+T-DHT/AR	PDE9A	-t>
+MDM2	PSA	-t|
+HDAC1	PSA	-t|
+T-DHT/AR/RACK1/Src	PSA	-t|
+SPDEF	PSA	-t>
+SENP1	HDAC1	-a>
+KAT5	T-DHT/AR/TIP60	component>
+T-DHT/AR	T-DHT/AR/TIP60	component>
+GATA2	cell proliferation	-ap>
+MAP2K6	MAPK14	-a>
+HDAC1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+NR3C1	AR/GR	component>
+AR	AR/GR	component>
+SRC	AR/RACK1/Src	component>
+GNB2L1	AR/RACK1/Src	component>
+AR	AR/RACK1/Src	component>
+AR/RACK1/Src	KLK2	-t>
+T-DHT/AR	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+GSK3B	AR	-a>
+AR/RACK1/Src	PSA	-t>
+NCOA2	T-DHT/AR/TIF2	component>
+T-DHT/AR	T-DHT/AR/TIF2	component>
+T-DHT/AR/TIF2/CARM1	KLK2	-t>
+MAP2K4	MAPK8	-a>
+CARM1	T-DHT/AR/TIF2/CARM1	component>
+T-DHT/AR/TIF2	T-DHT/AR/TIF2/CARM1	component>
+T-DHT/AR/TIF2	PSA	-t>
+SRC	T-DHT/AR/RACK1/Src	component>
+GNB2L1	T-DHT/AR/RACK1/Src	component>
+T-DHT/AR	T-DHT/AR/RACK1/Src	component>
+T-DHT/AR	SRG3	-t>
+T-DHT/AR	cell proliferation	-ap>
+GATA2	positive regulation of transcription	-ap>
+HSP90AA1	T-DHT/AR/Hsp90	component>
+T-DHT/AR	T-DHT/AR/Hsp90	component>
+AR	T-DHT/AR	component>
+T-DHT	T-DHT/AR	component>
+T-DHT/AR	HDAC7	-a>
+positive regulation of transcription	PSA	-t>
+AR/RACK1/Src	cell proliferation	-ap>
+T-DHT/AR	AR	component>
+T-DHT/AR	T-DHT	component>
+APPBP2	T-DHT/AR	-a|
+positive regulation of transcription	TMPRSS2	-t>
+T-DHT/AR/RACK1/Src	cell proliferation	-ap>
+NR0B1	T-DHT/AR/DAX-1	component>
+T-DHT/AR	T-DHT/AR/DAX-1	component>
+T-DHT/AR/TIF2	T-DHT/AR/TIF2	-a>
+AR	AR	-a>
+T-DHT/AR	PSA	-t>
+positive regulation of transcription	PDE9A	-t>
+T-DHT	SRC	-a>
+T-DHT/AR/TIP60	PSA	-t>
+T-DHT/AR/TIF2/CARM1	PSA	-t>
+AR	PSA	-t>

@@ -1,0 +1,21 @@
+complex	EGF:EGFR dimer
+complex	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer
+complex	ADAM metalloprotease:Zinc cofactor
+complex	EGF:EGFR
+protein	UniProt:P12931-1 SRC_subunit_2_536_2-536
+smallMolecule	ATP
+smallMolecule	ADP
+protein	LRIG1
+protein	EGFR
+protein	EGF
+ADAM metalloprotease:Zinc cofactor	EGF	-a>
+UniProt:P12931-1 SRC_subunit_2_536_2-536	ADP	-a>
+LRIG1	EGF:EGFR	component>
+EGF	EGF	-a>
+ATP	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	-a>
+ATP	ADP	-a>
+EGF:EGFR dimer	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	-a>
+EGF:EGFR dimer	ADP	-a>
+EGF:EGFR	EGF:EGFR dimer	component>
+EGF	EGF:EGFR	component>
+EGFR	EGF:EGFR	component>

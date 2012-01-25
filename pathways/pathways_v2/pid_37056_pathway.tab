@@ -1,0 +1,29 @@
+abstract	positive regulation of transcription
+abstract	cAMP biosynthetic process
+abstract	MAPKKK cascade
+smallMolecule	DAG
+smallMolecule	cAMP
+protein	Adenylyl Cyclase
+protein	Gs family
+smallMolecule	LPA
+complex	LPA/LPA4
+protein	RPS6KA5
+protein	PRKCE
+protein	PRKACA
+protein	LPAR4
+protein	CREB1
+Adenylyl Cyclase	cAMP biosynthetic process	-ap>
+LPA/LPA4	RPS6KA5	-a>
+PRKACA	CREB1	-a>
+cAMP	PRKACA	-a>
+cAMP	cAMP biosynthetic process	-ap>
+MAPKKK cascade	RPS6KA5	-a>
+LPA/LPA4	Gs family	-a>
+RPS6KA5	CREB1	-a>
+cAMP	positive regulation of transcription	-ap>
+CREB1	positive regulation of transcription	-ap>
+LPA	LPA/LPA4	component>
+LPAR4	LPA/LPA4	component>
+DAG	PRKCE	-a>
+PRKCE	Adenylyl Cyclase	-a>
+Gs family	cAMP	-t>

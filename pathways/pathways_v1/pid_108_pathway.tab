@@ -1,0 +1,201 @@
+protein	ANGPT4
+protein	TNIP2
+protein	MAPK14
+protein	ELF2
+protein	ANGPT1
+protein	GRB7
+protein	GRB14
+protein	PAK1
+protein	FOXO1
+protein	PTPN11
+protein	PTK2
+protein	RELA
+protein	TEK
+protein	RAC1
+protein	GRB2
+protein	BMX
+protein	PXN
+protein	CRK
+protein	MAPK8
+protein	PIK3CA
+protein	STAT5A
+protein	CDKN1A
+protein	ELF1
+protein	AKT1
+protein	AGTR1
+protein	NOS3
+protein	SHC1
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	RPS6KB1
+protein	RASA1
+protein	NFKB1
+protein	ELK1
+protein	NCK1
+protein	ETS1
+protein	FGF2
+protein	ITGA5
+protein	MMP2
+protein	FES
+protein	FYN
+protein	ITGB1
+protein	FN1
+protein	TNF
+protein	PLG
+protein	F2
+protein	DOK2
+protein	ANGPT2
+protein	PLD2
+complex	alpha5/beta1 Integrin
+complex	Tie2/SHP2
+complex	Tie2/Ang2
+complex	Tie2/Ang1/alpha5/beta1 Integrin
+complex	Tie2/Ang1/Shc
+complex	Tie2/Ang1/GRB7
+complex	Tie2/Ang1/GRB2
+complex	Tie2/Ang1/GRB14
+complex	Tie2/Ang1/ABIN2
+complex	Tie2/Ang1
+complex	STAT5A (dimer)
+complex	RasGAP/Dok-R
+complex	Rac1/GTP
+complex	Rac/GDP
+complex	PI3K
+complex	NF kappa B/RelA
+complex	NCK1/PAK1/Dok-R
+complex	NCK1/Dok-R
+complex	Crk/Dok-R
+complex	Angiotensin II/AT1
+chemical	mol:beta2-estradiol
+chemical	mol:ROS
+chemical	mol:Phosphatidic acid
+chemical	mol:NO
+chemical	mol:NADP
+chemical	mol:L-citrulline
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Choline
+chemical	mol:Angiotensin II
+abstract	vasculogenesis
+abstract	tube development
+abstract	response to hypoxia
+abstract	negative regulation of cell cycle
+abstract	negative regulation of caspase activity
+abstract	chemokinesis
+abstract	cell migration
+abstract	blood circulation
+abstract	MAPKKK cascade
+response to hypoxia	ANGPT1	-ap>
+response to hypoxia	ANGPT2	-ap>
+mol:beta2-estradiol	ANGPT1	-t|
+mol:ROS	NCK1/PAK1/Dok-R	-a>
+mol:NO	vasculogenesis	-ap>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	Rac/GDP	component>
+mol:Angiotensin II	Angiotensin II/AT1	component>
+blood circulation	Tie2/SHP2	-ap>
+ANGPT4	ANGPT2	-t|
+TNIP2	Tie2/Ang1/ABIN2	component>
+ELF2	TEK	-t>
+ANGPT1	ANGPT2	-t|
+ANGPT1	Tie2/Ang1/alpha5/beta1 Integrin	component>
+ANGPT1	Tie2/Ang1/Shc	component>
+ANGPT1	Tie2/Ang1/GRB7	component>
+ANGPT1	Tie2/Ang1/GRB2	component>
+ANGPT1	Tie2/Ang1/GRB14	component>
+ANGPT1	Tie2/Ang1/ABIN2	component>
+ANGPT1	Tie2/Ang1	component>
+GRB7	Tie2/Ang1/GRB7	component>
+GRB14	Tie2/Ang1/GRB14	component>
+PAK1	NCK1/PAK1/Dok-R	component>
+FOXO1	ANGPT2	-t>
+PTPN11	Tie2/SHP2	component>
+PTK2	PXN	-a>
+RELA	NF kappa B/RelA	component>
+TEK	Tie2/SHP2	component>
+TEK	Tie2/Ang2	component>
+TEK	Tie2/Ang1/alpha5/beta1 Integrin	component>
+TEK	Tie2/Ang1/Shc	component>
+TEK	Tie2/Ang1/GRB7	component>
+TEK	Tie2/Ang1/GRB2	component>
+TEK	Tie2/Ang1/GRB14	component>
+TEK	Tie2/Ang1/ABIN2	component>
+TEK	Tie2/Ang1	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac/GDP	component>
+GRB2	Tie2/Ang1/GRB2	component>
+CRK	Crk/Dok-R	component>
+PIK3CA	PI3K	component>
+STAT5A	STAT5A (dimer)	component>
+CDKN1A	negative regulation of cell cycle	-ap>
+ELF1	TEK	-t>
+AKT1	negative regulation of caspase activity	-ap>
+AKT1	FOXO1	-a>
+AKT1	NOS3	-a>
+AGTR1	Angiotensin II/AT1	component>
+NOS3	mol:NO	-a>
+NOS3	mol:NADP	-a>
+NOS3	mol:L-citrulline	-a>
+SHC1	Tie2/Ang1/Shc	component>
+MAPK1	ELK1	-a>
+PIK3R1	PI3K	component>
+MAPK3	ELK1	-a>
+RASA1	RasGAP/Dok-R	component>
+NFKB1	NF kappa B/RelA	component>
+NCK1	NCK1/PAK1/Dok-R	component>
+NCK1	NCK1/Dok-R	component>
+ETS1	ANGPT1	-t>
+ETS1	ANGPT2	-t>
+FGF2	ANGPT2	-t>
+ITGA5	alpha5/beta1 Integrin	component>
+ITGA5	Tie2/Ang1/alpha5/beta1 Integrin	component>
+FES	PI3K	-a>
+FYN	tube development	-ap>
+ITGB1	alpha5/beta1 Integrin	component>
+ITGB1	Tie2/Ang1/alpha5/beta1 Integrin	component>
+FN1	Tie2/Ang1/alpha5/beta1 Integrin	-a>
+TNF	ANGPT1	-t>
+F2	ANGPT1	-t|
+F2	ANGPT2	-t|
+DOK2	RasGAP/Dok-R	component>
+DOK2	NCK1/PAK1/Dok-R	component>
+DOK2	NCK1/Dok-R	component>
+DOK2	Crk/Dok-R	component>
+ANGPT2	Tie2/Ang2	component>
+PLD2	mol:Phosphatidic acid	-a>
+PLD2	mol:Choline	-a>
+PLD2	MAPK1	-a>
+PLD2	MAPK3	-a>
+PLD2	MAPKKK cascade	-ap>
+Tie2/Ang2	MAPK14	-a>
+Tie2/Ang2	CDKN1A	-t>
+Tie2/Ang2	FES	-a>
+Tie2/Ang2	FYN	-a>
+Tie2/Ang2	STAT5A (dimer)	-a>
+Tie2/Ang2	PI3K	-a>
+Tie2/Ang1/alpha5/beta1 Integrin	cell migration	-ap>
+Tie2/Ang1/Shc	chemokinesis	-ap>
+Tie2/Ang1/Shc	PI3K	-a>
+Tie2/Ang1/ABIN2	NF kappa B/RelA	-a>
+Tie2/Ang1	MAPK14	-a>
+Tie2/Ang1	ELF2	-t>
+Tie2/Ang1	BMX	-a>
+Tie2/Ang1	MAPK8	-a>
+Tie2/Ang1	MMP2	-a>
+Tie2/Ang1	FES	-a>
+Tie2/Ang1	PLG	-a>
+Tie2/Ang1	PLD2	-a>
+Tie2/Ang1	RasGAP/Dok-R	-a>
+Tie2/Ang1	PI3K	-a>
+Tie2/Ang1	NCK1/Dok-R	-a>
+Tie2/Ang1	Crk/Dok-R	-a>
+STAT5A (dimer)	CDKN1A	-t>
+Rac1/GTP	chemokinesis	-ap>
+Rac1/GTP	NCK1/PAK1/Dok-R	-a>
+PI3K	PTK2	-a>
+PI3K	AKT1	-a>
+PI3K	RPS6KB1	-a>
+PI3K	Rac1/GTP	-a>
+NCK1/PAK1/Dok-R	cell migration	-ap>
+Angiotensin II/AT1	ANGPT2	-t>

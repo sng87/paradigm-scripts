@@ -1,0 +1,220 @@
+abstract	Macrophage
+abstract	mast cell activation
+abstract	T-helper 2 cell differentiation
+abstract	Keratinocyte
+abstract	T cell proliferation
+abstract	T-Lymphocyte
+abstract	B-Lymphocyte
+abstract	mitosis
+abstract	T-helper 1 cell differentiation
+abstract	Fibroblast
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	MAPKKK cascade
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2
+complex	IL4/IL4R/JAK1
+protein	MHC II antigens
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP
+complex	IRF4/BCL6
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1
+protein	IgHG3
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1
+protein	a-cMyb
+complex	IL2R gamma/JAK3
+complex	STAT6 (dimer)/PARP14
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2
+complex	STAT6 (dimer)
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R
+protein	BCL-XL
+protein	SHIP
+protein	STAT5
+smallMolecule	PI-3-4-5-P3
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES
+complex	STAT6 (dimer)/ETS1
+complex	IL4/IL4R/JAK1/IL13RA1/JAK2
+complex	IL4R/JAK1
+complex	STAT5 (dimer)-active
+complex	STAT6 (cleaved dimer)
+smallMolecule	PI-4-5-P2
+complex	PI3K
+complex	IL13RA1/JAK2
+protein	PSEL
+protein	THY1
+protein	TFF3
+protein	STAT6
+protein	SPI1
+protein	SP1
+protein	SOCS5
+protein	SOCS3
+protein	SOCS1
+protein	SHC1
+protein	RPS6KB1
+protein	RETNLB
+protein	PTPN6
+protein	PIGR
+protein	OPRM1
+protein	MAPK14
+protein	LTA
+protein	ITGB3
+protein	IRS2
+protein	IRS1
+protein	IRF4
+protein	IL5
+protein	IL4R
+protein	IL4
+protein	IL13RA2
+protein	IL10
+protein	IGHG1
+protein	IGHE
+protein	HMGA1
+protein	GTF3A
+protein	GRB2
+protein	FRAP1
+protein	FES
+protein	FCER2
+protein	ETS1
+protein	EGR2
+protein	DOK2
+protein	COL1A2
+protein	COL1A1
+protein	CEBPB
+protein	CD40LG
+protein	CCL26
+protein	CCL17
+protein	CCL11
+protein	CBL
+protein	BCL6
+protein	ARG1
+protein	ALOX15
+protein	AKT1
+protein	AICDA
+SOCS1	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+HMGA1	IGHE	-t|
+BCL6	IGHE	-t|
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT5 (dimer)-active	component>
+positive regulation of NF-kappaB transcription factor activity	STAT5 (dimer)-active	component>
+T-Lymphocyte	STAT5 (dimer)-active	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	PI3K	-a>
+SOCS1	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+STAT6 (cleaved dimer)	IL4	-t|
+STAT6 (dimer)	EGR2	-t>
+STAT6 (dimer)	THY1	-t>
+a-cMyb	IGHE	-t|
+CEBPB	IGHE	-t>
+STAT6 (dimer)	IGHE	-t>
+positive regulation of NF-kappaB transcription factor activity	IGHE	-t>
+PI3K	PI-3-4-5-P3	-a>
+STAT6 (dimer)	MHC II antigens	-t>
+STAT6 (dimer)	IgHG3	-t>
+GTF3A	COL1A1	-t>
+STAT6 (dimer)	COL1A1	-t>
+SPI1	ARG1	-t>
+CEBPB	ARG1	-t>
+STAT6 (dimer)	ARG1	-t>
+SOCS5	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+B-Lymphocyte	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+STAT6 (dimer)	CCL11	-t>
+SP1	COL1A2	-t>
+STAT6 (dimer)	COL1A2	-t>
+positive regulation of NF-kappaB transcription factor activity	COL1A2	-t>
+IRF4/BCL6	FCER2	-t|
+IRF4	FCER2	-t>
+EGR2	FCER2	-t>
+STAT6 (dimer)/PARP14	FCER2	-t>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6 (cleaved dimer)	-a>
+mast cell activation	STAT6 (cleaved dimer)	-a>
+BCL6	T-helper 2 cell differentiation	-ap|
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	T-helper 2 cell differentiation	-ap>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	PI3K	-a>
+B-Lymphocyte	PI3K	-a>
+CEBPB	IGHG1	-t>
+STAT6 (dimer)	IGHG1	-t>
+FRAP1	mitosis	-ap>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	PI3K	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6 (dimer)/ETS1	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	STAT6	-a|
+PI-3-4-5-P3	AKT1	-a>
+CBL	PI3K	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	MAPKKK cascade	-ap>
+STAT6 (dimer)	BCL-XL	-t>
+CD40LG	IRF4	-t>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IRF4	-t>
+STAT6 (dimer)	LTA	-t>
+STAT6 (dimer)	AICDA	-t>
+PI-3-4-5-P3	FRAP1	-a>
+STAT6 (dimer)/ETS1	SOCS1	-t>
+STAT6 (dimer)	TFF3	-t>
+STAT6 (dimer)	ITGB3	-t>
+STAT6 (dimer)	PSEL	-t>
+STAT6 (dimer)	RETNLB	-t>
+STAT5	STAT5 (dimer)-active	component>
+FRAP1	RPS6KB1	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	MAPK14	-a>
+IL13RA1/JAK2	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+IL4/IL4R/JAK1	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+STAT6 (dimer)	IL4	-t>
+STAT6 (dimer)	IL5	-t>
+STAT6 (dimer)	T cell proliferation	-ap>
+B-Lymphocyte	EGR2	-t>
+IRS2	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+STAT6 (dimer)	ALOX15	-t>
+STAT6 (dimer)	T-helper 1 cell differentiation	-ap|
+STAT6 (dimer)	IL4R	-t>
+IL4R/JAK1	IL4/IL4R/JAK1	component>
+IL4	IL4/IL4R/JAK1	component>
+FES	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+STAT6 (dimer)	CCL26	-t>
+B-Lymphocyte	THY1	-t>
+STAT6 (dimer)	CCL17	-t>
+B-Lymphocyte	IGHE	-t>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+B-Lymphocyte	MHC II antigens	-t>
+positive regulation of NF-kappaB transcription factor activity	IgHG3	-t>
+Fibroblast	COL1A1	-t>
+Macrophage	ARG1	-t>
+IRS1	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	T cell proliferation	-ap>
+IL2R gamma/JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+IL4/IL4R/JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+SHIP	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+SHC1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+positive regulation of NF-kappaB transcription factor activity	CCL11	-t>
+STAT6 (dimer)	IL13RA2	-t>
+Fibroblast	COL1A2	-t>
+B-Lymphocyte	FCER2	-t>
+STAT6 (dimer)	OPRM1	-t>
+STAT6 (dimer)	STAT6 (cleaved dimer)	-a>
+STAT6 (dimer)	T-helper 2 cell differentiation	-ap>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	CBL	-a>
+GRB2	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+B-Lymphocyte	IGHG1	-t>
+T-Lymphocyte	mitosis	-ap>
+MAPK14	SOCS3	-t>
+ETS1	STAT6 (dimer)/ETS1	component>
+STAT6 (dimer)	STAT6 (dimer)/ETS1	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6	-a>
+SHIP	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+PI3K	AKT1	-a>
+PI3K	PI3K	-a>
+Keratinocyte	MAPKKK cascade	-ap>
+B-Lymphocyte	BCL-XL	-t>
+STAT6 (dimer)	PIGR	-t>
+B-Lymphocyte	IRF4	-t>
+PTPN6	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+STAT6	STAT6 (dimer)	component>
+B-Lymphocyte	LTA	-t>
+IL4/IL4R/JAK1/IL13RA1/JAK2	STAT6	-a>
+positive regulation of NF-kappaB transcription factor activity	AICDA	-t>
+STAT6 (dimer)	IL10	-t>
+PI3K	FRAP1	-a>
+DOK2	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/Dok-R	component>
+STAT6 (dimer)	STAT6 (dimer)	-a>

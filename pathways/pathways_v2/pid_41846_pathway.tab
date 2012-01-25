@@ -1,0 +1,48 @@
+smallMolecule	L-3-Amino-isobutyrate
+smallMolecule	3-Ureidopropionate
+smallMolecule	3-Ureidoisobutyrate
+smallMolecule	Thymine
+smallMolecule	Dihydrothymine
+smallMolecule	TPNH
+smallMolecule	beta-Alanine
+complex	DHUdehydrogenase-Fe-2FAD-2FMN complex
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	CO2
+smallMolecule	Hydrouracil
+smallMolecule	Uracil
+complex	Dihydropyriminidase-Zn complex
+smallMolecule	NH3
+complex	3-ureidopropionase-Zn complex
+smallMolecule	H+
+protein	DPYD
+3-ureidopropionase-Zn complex	NH3	-a>
+Dihydropyriminidase-Zn complex	3-Ureidopropionate	-a>
+DPYD	TPN	-a>
+Dihydropyriminidase-Zn complex	3-Ureidoisobutyrate	-a>
+3-ureidopropionase-Zn complex	L-3-Amino-isobutyrate	-a>
+DHUdehydrogenase-Fe-2FAD-2FMN complex	Hydrouracil	-a>
+H2O	beta-Alanine	-a>
+3-Ureidopropionate	beta-Alanine	-a>
+3-Ureidopropionate	CO2	-a>
+3-Ureidopropionate	NH3	-a>
+H2O	3-Ureidopropionate	-a>
+Hydrouracil	3-Ureidopropionate	-a>
+Thymine	Dihydrothymine	-a>
+Thymine	TPN	-a>
+TPNH	Dihydrothymine	-a>
+H+	Dihydrothymine	-a>
+Dihydrothymine	3-Ureidoisobutyrate	-a>
+H2O	3-Ureidoisobutyrate	-a>
+H2O	NH3	-a>
+H2O	CO2	-a>
+H2O	L-3-Amino-isobutyrate	-a>
+3-Ureidoisobutyrate	NH3	-a>
+3-Ureidoisobutyrate	CO2	-a>
+3-Ureidoisobutyrate	L-3-Amino-isobutyrate	-a>
+Uracil	TPN	-a>
+Uracil	Hydrouracil	-a>
+H+	TPN	-a>
+H+	Hydrouracil	-a>
+TPNH	TPN	-a>
+TPNH	Hydrouracil	-a>

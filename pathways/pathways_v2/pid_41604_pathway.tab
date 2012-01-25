@@ -1,0 +1,40 @@
+complex	NGF ligand:p75NTR
+complex	NGF ligand:p75NTR:IRAK1:MYD88
+complex	IKK-beta homdimer
+complex	NGF ligand:p75NTR:Phospho-IRAK1:polyubiquitinated TRAF6:p62
+complex	IRAK1:MYD88
+complex	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi
+complex	MYD88 homodimer
+complex	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6
+complex	NGF ligand:p75NTR:RIP2
+complex	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62
+complex	NGF ligand:p75NTR:Phospho-IRAK1:MYD88
+complex	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta
+complex	NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+smallMolecule	ATP
+smallMolecule	ADP
+protein	TRAF6
+protein	SQSTM1
+protein	RIPK2
+protein	PRKCI
+TRAF6	NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	component>
+NGF ligand:p75NTR:Phospho-IRAK1:MYD88	NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	component>
+NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	component>
+IKK-beta homdimer	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	component>
+NGF ligand:p75NTR:Phospho-IRAK1:TRAF6	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	component>
+SQSTM1	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	component>
+IRAK1:MYD88	NGF ligand:p75NTR:IRAK1:MYD88	component>
+NGF ligand:p75NTR	NGF ligand:p75NTR:IRAK1:MYD88	component>
+NGF ligand:p75NTR	NGF ligand:p75NTR:RIP2	component>
+RIPK2	NGF ligand:p75NTR:RIP2	component>
+ATP	ADP	-a>
+ATP	NGF ligand:p75NTR:Phospho-IRAK1:MYD88	-a>
+NGF ligand:p75NTR:IRAK1:MYD88	ADP	-a>
+NGF ligand:p75NTR:IRAK1:MYD88	NGF ligand:p75NTR:Phospho-IRAK1:MYD88	-a>
+NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi	component>
+PRKCI	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	NGF ligand:p75NTR:Phospho-IRAK1:polyubiquitinated TRAF6:p62	component>
+NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	NGF ligand:p75NTR:Phospho-IRAK1:polyubiquitinated TRAF6:p62	component>
+NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	MYD88 homodimer	component>
+NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6	component>

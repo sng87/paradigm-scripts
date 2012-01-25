@@ -1,0 +1,254 @@
+protein	SMG5
+protein	PARP2
+protein	ZNFX1
+protein	TERF2IP
+protein	RAD9A
+protein	SIN3A
+protein	PINX1
+protein	RAD50
+protein	HDAC2
+protein	SMG6
+protein	PIF1
+protein	RBBP7
+protein	TERF2
+protein	PTGES3
+protein	WRN
+protein	HDAC1
+protein	ATM
+protein	RBBP4
+protein	MXD1
+protein	UBE3A
+protein	SP3
+protein	E2F1
+protein	SMAD3
+protein	YWHAE
+protein	MAX
+protein	IL2
+protein	BLM
+protein	MRE11A
+protein	IFNAR2
+protein	CDKN1B
+protein	FRAP1
+protein	AKT1
+protein	MAPK1
+protein	MAPK3
+protein	NR2F2
+protein	CCND1
+protein	RPS6KB1
+protein	NFKB1
+protein	WT1
+protein	NCL
+protein	XRCC5
+protein	XRCC6
+protein	IRF1
+protein	SP1
+protein	HNRNPC
+protein	HSP90AA1
+protein	JUN
+protein	ESR1
+protein	E6
+protein	IFNG
+protein	TGFB1
+protein	EGF
+protein	MYC
+protein	FOS
+protein	EGFR
+protein	ABL1
+protein	SAP30
+protein	SIN3B
+protein	NBN
+protein	HUS1
+protein	DKC1
+protein	RAD1
+protein	TERT
+protein	TERT
+protein	SAP18
+complex	Telomerase/hnRNP C1/C2
+complex	Telomerase/PinX1
+complex	Telomerase/Nucleolin
+complex	Telomerase/EST1B
+complex	Telomerase/EST1A
+complex	Telomerase/AKT1/mTOR/p70S6K
+complex	Telomerase/911
+complex	Telomerase catalytic core complex
+complex	Telomerase
+complex	TRF2/WRN
+complex	TRF2/PARP2
+complex	TRF2/BLM
+complex	TGFB1/TGF beta receptor Type II
+complex	TERT/c-Abl
+complex	TERT/NF kappa B1/14-3-3
+complex	Smad3/Myc
+complex	SP3/HDAC2
+complex	SP1/HDAC2
+complex	NFX1/SIN3/HDAC complex
+complex	Mad/Max
+complex	MRN complex/TRF2/Rap1
+complex	MRN complex
+complex	KU/TERT
+complex	KU/TER
+complex	KU
+complex	IFN-gamma/IRF1
+complex	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex
+complex	HPV-16 E6/E6AP
+complex	ER alpha/Oestrogen
+complex	EGF/EGFR
+complex	ATM/TRF2
+complex	AP1
+complex	911 complex
+chemical	mol:Oestrogen
+abstract	ubiquitin-dependent protein catabolic process
+abstract	telomeric DNA binding
+abstract	response to DNA damage stimulus
+abstract	DNA damage response signal transduction by p53 class mediator resulting in induction of apoptosis
+telomeric DNA binding	Telomerase	-ap>
+response to DNA damage stimulus	ATM	-ap>
+response to DNA damage stimulus	TERT/c-Abl	-ap>
+mol:Oestrogen	ER alpha/Oestrogen	component>
+SMG5	Telomerase/EST1B	component>
+PARP2	TRF2/PARP2	component>
+ZNFX1	NFX1/SIN3/HDAC complex	component>
+ZNFX1	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+TERF2IP	MRN complex/TRF2/Rap1	component>
+RAD9A	Telomerase/911	component>
+RAD9A	911 complex	component>
+SIN3A	NFX1/SIN3/HDAC complex	component>
+SIN3A	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+PINX1	Telomerase/PinX1	component>
+RAD50	MRN complex/TRF2/Rap1	component>
+RAD50	MRN complex	component>
+HDAC2	SP3/HDAC2	component>
+HDAC2	SP1/HDAC2	component>
+HDAC2	NFX1/SIN3/HDAC complex	component>
+HDAC2	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+SMG6	Telomerase/EST1A	component>
+PIF1	Telomerase	-a>
+RBBP7	NFX1/SIN3/HDAC complex	component>
+RBBP7	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+TERF2	TRF2/WRN	component>
+TERF2	TRF2/PARP2	component>
+TERF2	TRF2/BLM	component>
+TERF2	MRN complex/TRF2/Rap1	component>
+TERF2	ATM/TRF2	component>
+PTGES3	Telomerase/hnRNP C1/C2	component>
+PTGES3	Telomerase/PinX1	component>
+PTGES3	Telomerase/Nucleolin	component>
+PTGES3	Telomerase/EST1B	component>
+PTGES3	Telomerase/EST1A	component>
+PTGES3	Telomerase/AKT1/mTOR/p70S6K	component>
+PTGES3	Telomerase/911	component>
+PTGES3	Telomerase	component>
+WRN	TRF2/WRN	component>
+HDAC1	NFX1/SIN3/HDAC complex	component>
+HDAC1	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+ATM	DNA damage response signal transduction by p53 class mediator resulting in induction of apoptosis	-ap>
+ATM	ATM/TRF2	component>
+RBBP4	NFX1/SIN3/HDAC complex	component>
+RBBP4	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+MXD1	Mad/Max	component>
+UBE3A	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+UBE3A	HPV-16 E6/E6AP	component>
+SP3	SP3/HDAC2	component>
+E2F1	TERT	-t|
+SMAD3	Smad3/Myc	component>
+YWHAE	TERT/NF kappa B1/14-3-3	component>
+MAX	Mad/Max	component>
+IL2	AKT1	-a>
+IL2	MAPK1	-a>
+IL2	MAPK3	-a>
+IL2	TERT	-t>
+IL2	Telomerase/AKT1/mTOR/p70S6K	-a>
+BLM	TRF2/BLM	component>
+MRE11A	MRN complex/TRF2/Rap1	component>
+MRE11A	MRN complex	component>
+IFNAR2	TERT	-t|
+CDKN1B	Telomerase	-a|
+FRAP1	Telomerase/AKT1/mTOR/p70S6K	component>
+AKT1	TERT	-t>
+AKT1	Telomerase/AKT1/mTOR/p70S6K	component>
+AKT1	TERT/NF kappa B1/14-3-3	-a>
+NR2F2	TERT	-t|
+RPS6KB1	Telomerase/AKT1/mTOR/p70S6K	component>
+NFKB1	TERT/NF kappa B1/14-3-3	component>
+WT1	TERT	-t|
+NCL	Telomerase/Nucleolin	component>
+XRCC5	KU/TERT	component>
+XRCC5	KU/TER	component>
+XRCC5	KU	component>
+XRCC6	KU/TERT	component>
+XRCC6	KU/TER	component>
+XRCC6	KU	component>
+IRF1	IFN-gamma/IRF1	component>
+SP1	TERT	-t>
+SP1	SP1/HDAC2	component>
+HNRNPC	Telomerase/hnRNP C1/C2	component>
+HSP90AA1	Telomerase/hnRNP C1/C2	component>
+HSP90AA1	Telomerase/PinX1	component>
+HSP90AA1	Telomerase/Nucleolin	component>
+HSP90AA1	Telomerase/EST1B	component>
+HSP90AA1	Telomerase/EST1A	component>
+HSP90AA1	Telomerase/AKT1/mTOR/p70S6K	component>
+HSP90AA1	Telomerase/911	component>
+HSP90AA1	Telomerase	component>
+JUN	AP1	component>
+ESR1	ER alpha/Oestrogen	component>
+E6	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+E6	HPV-16 E6/E6AP	component>
+IFNG	IFN-gamma/IRF1	component>
+TGFB1	TGFB1/TGF beta receptor Type II	component>
+EGF	EGF/EGFR	component>
+MYC	TERT	-t>
+MYC	Smad3/Myc	component>
+FOS	AP1	component>
+EGFR	EGF/EGFR	component>
+ABL1	TERT/c-Abl	component>
+SAP30	NFX1/SIN3/HDAC complex	component>
+SAP30	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+SIN3B	NFX1/SIN3/HDAC complex	component>
+SIN3B	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+NBN	MRN complex/TRF2/Rap1	component>
+NBN	MRN complex	component>
+HUS1	Telomerase/911	component>
+HUS1	911 complex	component>
+DKC1	Telomerase/hnRNP C1/C2	component>
+DKC1	Telomerase/PinX1	component>
+DKC1	Telomerase/Nucleolin	component>
+DKC1	Telomerase/EST1B	component>
+DKC1	Telomerase/EST1A	component>
+DKC1	Telomerase/AKT1/mTOR/p70S6K	component>
+DKC1	Telomerase/911	component>
+DKC1	Telomerase	component>
+RAD1	Telomerase/911	component>
+RAD1	911 complex	component>
+TERT	Telomerase	component>
+TERT	CCND1	-t>
+TERT	Telomerase/hnRNP C1/C2	component>
+TERT	Telomerase/PinX1	component>
+TERT	Telomerase/Nucleolin	component>
+TERT	Telomerase/EST1B	component>
+TERT	Telomerase/EST1A	component>
+TERT	Telomerase/AKT1/mTOR/p70S6K	component>
+TERT	Telomerase/911	component>
+TERT	Telomerase catalytic core complex	component>
+TERT	Telomerase	component>
+TERT	TERT/c-Abl	component>
+TERT	TERT/NF kappa B1/14-3-3	component>
+TERT	KU/TERT	component>
+SAP18	NFX1/SIN3/HDAC complex	component>
+SAP18	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+TGFB1/TGF beta receptor Type II	SMAD3	-a>
+Smad3/Myc	TERT	-t|
+SP3/HDAC2	TERT	-t|
+SP1/HDAC2	TERT	-t|
+NFX1/SIN3/HDAC complex	TERT	-t|
+Mad/Max	TERT	-t|
+IFN-gamma/IRF1	CDKN1B	-t>
+IFN-gamma/IRF1	TERT	-t|
+IFN-gamma/IRF1	Telomerase	-a|
+HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	ubiquitin-dependent protein catabolic process	-ap>
+HPV-16 E6/E6AP	TERT	-t>
+HPV-16 E6/E6AP	Telomerase	-a>
+ER alpha/Oestrogen	AKT1	-a>
+EGF/EGFR	TERT	-t>
+ATM/TRF2	ATM	-a|
+AP1	TERT	-t|

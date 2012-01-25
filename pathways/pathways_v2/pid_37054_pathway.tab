@@ -1,0 +1,115 @@
+abstract	Golgi organization
+abstract	focal adhesion formation
+abstract	actin filament depolymerization
+abstract	stress fiber formation
+abstract	cell adhesion mediated by integrin
+abstract	actin cytoskeleton organization
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	degradation
+complex	SRF(dimer)
+complex	MAL(dimer)
+protein	LIMK1-LIMK2
+protein	MKK3-MKK6-active
+protein	PI5K Type 1 family
+complex	SRF(dimer)/MAL(dimer)
+protein	MKK3-MKK6
+complex	PKC zeta/Par3/Par6/CDC42/GTP
+protein	Citron
+smallMolecule	PI-4-P
+complex	myosin II complex
+complex	Actin/MAL
+complex	PKC zeta/Par6/CDC42/GTP
+complex	Vinculin/Talin
+protein	ERM family
+complex	ATF2/JUN
+protein	PKN
+protein	ROCK1-ROCK2
+smallMolecule	PI-4-5-P2
+complex	myosin phosphatase complex
+complex	RhoA/GTP
+protein	Dia
+protein	VCL
+protein	TLN1
+protein	SRF
+protein	SLC9A3
+protein	SLC9A1
+protein	SH3GL2
+protein	PTEN
+protein	PLD2
+protein	PKN2
+protein	MYL2
+protein	MKL1
+protein	MAPK8
+protein	MAPK12
+protein	MAP2K4
+protein	JUN
+protein	FOS
+protein	F2RL2
+protein	CYR61
+protein	CIT
+protein	CFL1
+protein	CDKN1B
+protein	ATF2
+protein	ACTA1
+PKN	MKK3-MKK6-active	-a>
+PI5K Type 1 family	PI-4-5-P2	-a>
+myosin phosphatase complex	myosin II complex	-a>
+ROCK1-ROCK2	myosin II complex	-a>
+ROCK1-ROCK2	F2RL2	component>
+ROCK1-ROCK2	myosin phosphatase complex	-a>
+PI-4-5-P2	Vinculin/Talin	component>
+Dia	MKL1	component>
+CFL1	MKL1	component>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+MAPK8	JUN	-a>
+MAPK8	ATF2	-a>
+myosin II complex	stress fiber formation	-ap>
+RhoA/GTP	ROCK1-ROCK2	-a>
+SRF(dimer)/MAL(dimer)	VCL	-t>
+SLC9A1	cell adhesion mediated by integrin	-ap>
+SRF(dimer)/MAL(dimer)	FOS	-t>
+RhoA/GTP	Dia	-a>
+ERM family	focal adhesion formation	-ap>
+ROCK1-ROCK2	LIMK1-LIMK2	-a>
+MKL1	MAL(dimer)	component>
+ROCK1-ROCK2	SLC9A1	-a>
+ROCK1-ROCK2	MAP2K4	-a>
+ATF2	ATF2/JUN	component>
+JUN	ATF2/JUN	component>
+ROCK1-ROCK2	SLC9A3	-a>
+Citron	MYL2	-a>
+PI-4-P	PI-4-5-P2	-a>
+CDKN1B	degradation	-ap>
+LIMK1-LIMK2	CFL1	-a>
+RhoA/GTP	CIT	-a>
+RhoA/GTP	CDKN1B	-a>
+ATF2/JUN	JUN	-t>
+MKK3-MKK6-active	MAPK12	-a>
+CIT	Golgi organization	-ap>
+CFL1	actin filament depolymerization	-ap|
+ROCK1-ROCK2	SH3GL2	-a>
+SRF(dimer)/MAL(dimer)	SRF	-t>
+MAP2K4	MAPK8	-a>
+Vinculin/Talin	focal adhesion formation	-ap>
+Dia	stress fiber formation	-ap>
+myosin II complex	myosin II complex	-a>
+ROCK1-ROCK2	ERM family	-a>
+RhoA/GTP	PKN	-a>
+RhoA/GTP	Citron	-a>
+SRF(dimer)/MAL(dimer)	CYR61	-t>
+ROCK1-ROCK2	PTEN	-a>
+RhoA/GTP	PKN2	-a>
+ROCK1-ROCK2	PI5K Type 1 family	-a>
+PKC zeta/Par3/Par6/CDC42/GTP	PKC zeta/Par6/CDC42/GTP	component>
+PKC zeta/Par3/Par6/CDC42/GTP	F2RL2	component>
+myosin phosphatase complex	myosin phosphatase complex	-a>
+MAPK12	ATF2	-a>
+PKN2	actin cytoskeleton organization	-ap>
+MAL(dimer)	SRF(dimer)/MAL(dimer)	component>
+SRF(dimer)	SRF(dimer)/MAL(dimer)	component>
+RhoA/GTP	PLD2	-a>
+RhoA/GTP	positive regulation of NF-kappaB transcription factor activity	-ap>
+TLN1	Vinculin/Talin	component>
+VCL	Vinculin/Talin	component>
+Actin/MAL	ACTA1	component>
+Actin/MAL	MKL1	component>

@@ -1,0 +1,164 @@
+abstract	Hepatocyte
+abstract	release of cytochrome c from mitochondria
+abstract	Lymphocyte
+abstract	necroptosis
+abstract	actin filament polymerization
+abstract	endocytosis
+abstract	cell cycle
+abstract	B-Lymphocyte
+abstract	neuron projection development
+abstract	receptor clustering
+abstract	cell migration
+abstract	MAPKKK cascade
+complex	FASLG/FAS (trimer)
+complex	Caspase 3 (tetramer)
+protein	MEKK1 (cleaved)_0-0
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP10 p23/17/c-FLIPL p43
+complex	FAS (trimer)
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS
+complex	Caspase 8 (tetramer)/FADD/FADD
+complex	IKK complex
+complex	FASLG/FAS (trimer)/Btk
+complex	FASLG (trimer)
+protein	JNK family-active
+protein	FAP1
+complex	PI3K Class IA family
+complex	FADD/FADD/CASP8/CASP8
+complex	FASLG/FAS (trimer)/FADD/FADD
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8
+complex	FASLG/FAS (trimer)/Src/Syk
+protein	ASM
+complex	FASLG/FAS (trimer)/FADD/FADD/CFLIP
+smallMolecule	sphingomyelin
+protein	JNK family
+protein	c-FLIPL p12
+protein	p38alpha-beta-active
+complex	AP-2 adaptor complex
+complex	FASLG/FAS (trimer)/FADD/FADD/CASP8 p43/c-FLIP p43
+smallMolecule	PI-3-4-5-P3
+smallMolecule	ceramide
+protein	MEKK1
+complex	FAS (trimer)/LFG
+complex	FASLG/FAS (trimer)/FADD/FADD/RIP
+protein	c-FLIPS
+protein	p38alpha-beta
+smallMolecule	PI-4-5-P2
+complex	Caspase 10 (tetramer)/FADD/FADD
+protein	cIAP1-2
+protein	SYK
+protein	SRC
+protein	RIPK1
+protein	RFC1
+protein	PDPK1
+protein	MAP2K7
+protein	MAP2K6
+protein	FAS
+protein	FAIM2
+protein	FADD
+protein	EZR
+protein	CLTC
+protein	CFLAR
+protein	CASP8
+protein	CASP3
+protein	CASP10
+protein	BTK
+protein	BID
+protein	AKT1
+Caspase 8 (tetramer)/FADD/FADD	Caspase 3 (tetramer)	component>
+MAP2K6	p38alpha-beta-active	-a>
+B-Lymphocyte	FASLG/FAS (trimer)/FADD/FADD	component>
+Caspase 8 (tetramer)/FADD/FADD	BID	-a>
+MAP2K7	JNK family-active	-a>
+Hepatocyte	FASLG/FAS (trimer)	component>
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+Caspase 3 (tetramer)	MEKK1 (cleaved)_0-0	-a>
+FAP1	FAS (trimer)	component>
+Lymphocyte	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	-a>
+cIAP1-2	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+PI3K Class IA family	PI-3-4-5-P3	-a>
+Caspase 3 (tetramer)	RFC1	-a>
+PDPK1	AKT1	-a>
+CLTC	FASLG/FAS (trimer)	component>
+AP-2 adaptor complex	FASLG/FAS (trimer)	component>
+EZR	FASLG/FAS (trimer)	component>
+actin filament polymerization	FASLG/FAS (trimer)	component>
+endocytosis	FASLG/FAS (trimer)	component>
+cIAP1-2	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+FASLG/FAS (trimer)	neuron projection development	-ap>
+ASM	ceramide	-a>
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	Caspase 8 (tetramer)/FADD/FADD	-a|
+CFLAR	CASP10	component>
+CFLAR	c-FLIPL p12	component>
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/CASP10 p23/17/c-FLIPL p43	component>
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	component>
+CASP10	CASP10	component>
+CASP10	c-FLIPL p12	component>
+CASP10	FASLG/FAS (trimer)/FADD/FADD/CASP10 p23/17/c-FLIPL p43	component>
+CASP10	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	component>
+FASLG/FAS (trimer)/FADD/FADD	CASP10	component>
+FASLG/FAS (trimer)/FADD/FADD	c-FLIPL p12	component>
+FASLG/FAS (trimer)/FADD/FADD	FASLG/FAS (trimer)/FADD/FADD/CASP10 p23/17/c-FLIPL p43	component>
+FASLG/FAS (trimer)/FADD/FADD	FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	component>
+CASP3	Caspase 3 (tetramer)	component>
+FASLG/FAS (trimer)/FADD/FADD	ASM	-a>
+FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	Caspase 10 (tetramer)/FADD/FADD	component>
+FASLG/FAS (trimer)/FADD/FADD/CASP10/CASP10	FASLG/FAS (trimer)	component>
+BID	release of cytochrome c from mitochondria	-ap>
+p38alpha-beta	p38alpha-beta-active	-a>
+FASLG/FAS (trimer)/FADD/FADD/RIP	IKK complex	-a>
+FAS (trimer)	FASLG/FAS (trimer)	component>
+FASLG (trimer)	FASLG/FAS (trimer)	component>
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	IKK complex	-a>
+FAIM2	FAS (trimer)/LFG	component>
+FAS (trimer)	FAS (trimer)/LFG	component>
+FADD	FASLG/FAS (trimer)/Btk	component>
+BTK	FASLG/FAS (trimer)/Btk	component>
+BTK	FASLG/FAS (trimer)/FADD/FADD	component>
+FASLG/FAS (trimer)	FASLG/FAS (trimer)/Btk	component>
+BID	BID	-a>
+SYK	FASLG/FAS (trimer)/Src/Syk	component>
+SRC	FASLG/FAS (trimer)/Src/Syk	component>
+FASLG/FAS (trimer)	FASLG/FAS (trimer)/Src/Syk	component>
+JNK family	JNK family-active	-a>
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	Caspase 8 (tetramer)/FADD/FADD	component>
+FASLG/FAS (trimer)/Src/Syk	PI3K Class IA family	-a>
+c-FLIPS	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+CASP8	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+FASLG/FAS (trimer)/FADD/FADD	FASLG/FAS (trimer)/FADD/FADD/CASP8/c-FLIPS	component>
+FASLG/FAS (trimer)	MAP2K6	-a>
+MEKK1	MEKK1 (cleaved)_0-0	-a>
+FAS	FAS (trimer)	component>
+receptor clustering	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	-a>
+AKT1	cell migration	-ap>
+RIPK1	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+FADD	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+FASLG/FAS (trimer)	FASLG/FAS (trimer)/FADD/FADD/RIP	component>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+FADD	FASLG/FAS (trimer)/FADD/FADD	component>
+FASLG/FAS (trimer)	FASLG/FAS (trimer)/FADD/FADD	component>
+FASLG/FAS (trimer)/FADD/FADD/RIP	necroptosis	-ap>
+RFC1	RFC1	-a>
+PI-3-4-5-P3	AKT1	-a>
+FASLG/FAS (trimer)	MAP2K7	-a>
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	FADD/FADD/CASP8/CASP8	component>
+FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	FASLG/FAS (trimer)	component>
+CFLAR	CASP8	component>
+CFLAR	CFLAR	component>
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/CASP8 p43/c-FLIP p43	component>
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/CFLIP	component>
+CFLAR	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+CASP8	CASP8	component>
+CASP8	CFLAR	component>
+CASP8	FASLG/FAS (trimer)/FADD/FADD/CASP8 p43/c-FLIP p43	component>
+CASP8	FASLG/FAS (trimer)/FADD/FADD/CFLIP	component>
+CASP8	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+FASLG/FAS (trimer)/FADD/FADD	CASP8	component>
+FASLG/FAS (trimer)/FADD/FADD	CFLAR	component>
+FASLG/FAS (trimer)/FADD/FADD	FASLG/FAS (trimer)/FADD/FADD/CASP8 p43/c-FLIP p43	component>
+FASLG/FAS (trimer)/FADD/FADD	FASLG/FAS (trimer)/FADD/FADD/CFLIP	component>
+FASLG/FAS (trimer)/FADD/FADD	FASLG/FAS (trimer)/FADD/FADD/CASP8/CASP8	component>
+RFC1	cell cycle	-ap|
+MAPKKK cascade	neuron projection development	-ap>
+sphingomyelin	ceramide	-a>
+FADD/FADD/CASP8/CASP8	Caspase 8 (tetramer)/FADD/FADD	-a>

@@ -1,0 +1,209 @@
+protein	DAPP1
+protein	PLEKHA1
+protein	PLEKHA2
+protein	CYTH2
+protein	ARAP3
+protein	BLNK
+protein	PREX1
+protein	CYTH1
+protein	ARHGEF6
+protein	ARHGEF7
+protein	TIAM1
+protein	ITK
+protein	SOS1
+protein	BTK
+protein	ARF5
+protein	ARF1
+protein	RAC1
+protein	RAP1A
+protein	ARF6
+protein	RHOA
+protein	PTEN
+protein	BLK
+protein	SYK
+protein	ZAP70
+protein	PLCG1
+protein	PLCG2
+protein	VAV1
+protein	SRC
+protein	FGR
+protein	HCK
+protein	LYN
+protein	YES1
+protein	HSP90AA1
+protein	FYN
+protein	LCK
+protein	KRAS
+protein	KRAS
+protein	HRAS
+protein	NRAS
+protein	ADAP1
+protein	CYTH3
+protein	LAT
+protein	FOXO3
+protein	PDPK1
+protein	INPPL1
+protein	INPP5D
+protein	SGK1
+protein	GO:0030676
+complex	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma
+complex	Src family/SYK family/BLNK-LAT/BTK-ITK
+complex	Src family/SYK family/BLNK-LAT
+complex	RhoA/GTP
+complex	RhoA/GDP
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	RAS family/GTP/PI3K Class I
+complex	RAP1A/GTP
+complex	PDK1/Src/Hsp90
+complex	ARF6/GTP
+complex	ARF6/GDP
+complex	ARF5/GTP
+complex	ARF5/GDP
+complex	ARF1/GTP
+complex	ARF1/GDP
+complex	ARAP3/RAP1A/GTP
+chemical	mol:PI-3-4-P2
+chemical	mol:PI-3-4-5-P3
+chemical	mol:IP4
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	actin cytoskeleton reorganization
+mol:PI-3-4-P2	DAPP1	-a>
+mol:PI-3-4-P2	PLEKHA1	-a>
+mol:PI-3-4-P2	PLEKHA2	-a>
+mol:PI-3-4-5-P3	CYTH2	-a>
+mol:PI-3-4-5-P3	ARAP3	-a>
+mol:PI-3-4-5-P3	CYTH1	-a>
+mol:PI-3-4-5-P3	ITK	-a>
+mol:PI-3-4-5-P3	BTK	-a>
+mol:PI-3-4-5-P3	ADAP1	-a>
+mol:PI-3-4-5-P3	CYTH3	-a>
+mol:PI-3-4-5-P3	SGK1	-a>
+mol:IP4	mol:GDP	-a|
+mol:IP4	ARF1/GTP	-a|
+mol:IP3	mol:Ca2+	-a>
+mol:GTP	RhoA/GTP	component>
+mol:GTP	Rac1/GTP	component>
+mol:GTP	RAS family/GTP/PI3K Class I	component>
+mol:GTP	RAP1A/GTP	component>
+mol:GTP	ARF6/GTP	component>
+mol:GTP	ARF5/GTP	component>
+mol:GTP	ARF1/GTP	component>
+mol:GTP	ARAP3/RAP1A/GTP	component>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Rac1/GDP	component>
+mol:GDP	ARF6/GDP	component>
+mol:GDP	ARF5/GDP	component>
+mol:GDP	ARF1/GDP	component>
+CYTH2	mol:GDP	-a>
+CYTH2	ARF6/GTP	-a>
+CYTH2	ARF1/GTP	-a>
+ARAP3	mol:GTP	-a>
+ARAP3	ARF6/GDP	-a>
+ARAP3	ARAP3/RAP1A/GTP	component>
+BLNK	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+BLNK	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+BLNK	Src family/SYK family/BLNK-LAT	component>
+PREX1	mol:GDP	-a>
+PREX1	Rac1/GTP	-a>
+CYTH1	mol:GDP	-a>
+CYTH1	ARF1/GTP	-a>
+ARHGEF6	mol:GDP	-a>
+ARHGEF6	Rac1/GTP	-a>
+ARHGEF7	mol:GDP	-a>
+ARHGEF7	Rac1/GTP	-a>
+TIAM1	mol:GDP	-a>
+TIAM1	Rac1/GTP	-a>
+ITK	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+ITK	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+SOS1	mol:GDP	-a>
+SOS1	Rac1/GTP	-a>
+BTK	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+BTK	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+ARF5	ARF5/GTP	component>
+ARF5	ARF5/GDP	component>
+ARF1	ARF1/GTP	component>
+ARF1	ARF1/GDP	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RAP1A	RAP1A/GTP	component>
+RAP1A	ARAP3/RAP1A/GTP	component>
+ARF6	ARF6/GTP	component>
+ARF6	ARF6/GDP	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+PTEN	mol:PI-3-4-5-P3	-a|
+PTEN	mol:IP3	-a>
+BLK	DAPP1	-a>
+BLK	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+BLK	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+BLK	Src family/SYK family/BLNK-LAT	component>
+SYK	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+SYK	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+SYK	Src family/SYK family/BLNK-LAT	component>
+ZAP70	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+ZAP70	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+ZAP70	Src family/SYK family/BLNK-LAT	component>
+PLCG1	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+PLCG2	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+VAV1	mol:GDP	-a>
+VAV1	Rac1/GTP	-a>
+SRC	DAPP1	-a>
+SRC	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+SRC	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+SRC	Src family/SYK family/BLNK-LAT	component>
+SRC	PDK1/Src/Hsp90	component>
+FGR	DAPP1	-a>
+FGR	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+FGR	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+FGR	Src family/SYK family/BLNK-LAT	component>
+HCK	DAPP1	-a>
+HCK	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+HCK	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+HCK	Src family/SYK family/BLNK-LAT	component>
+LYN	DAPP1	-a>
+LYN	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+LYN	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+LYN	Src family/SYK family/BLNK-LAT	component>
+YES1	DAPP1	-a>
+YES1	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+YES1	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+YES1	Src family/SYK family/BLNK-LAT	component>
+HSP90AA1	PDK1/Src/Hsp90	component>
+FYN	DAPP1	-a>
+FYN	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+FYN	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+FYN	Src family/SYK family/BLNK-LAT	component>
+LCK	DAPP1	-a>
+LCK	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+LCK	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+LCK	Src family/SYK family/BLNK-LAT	component>
+KRAS	RAS family/GTP/PI3K Class I	component>
+KRAS	RAS family/GTP/PI3K Class I	component>
+HRAS	RAS family/GTP/PI3K Class I	component>
+NRAS	RAS family/GTP/PI3K Class I	component>
+CYTH3	mol:GDP	-a>
+CYTH3	ARF5/GTP	-a>
+CYTH3	ARF1/GTP	-a>
+LAT	Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	component>
+LAT	Src family/SYK family/BLNK-LAT/BTK-ITK	component>
+LAT	Src family/SYK family/BLNK-LAT	component>
+PDPK1	PDK1/Src/Hsp90	component>
+INPPL1	mol:PI-3-4-P2	-a>
+INPP5D	mol:PI-3-4-P2	-a>
+SGK1	FOXO3	-a>
+Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	mol:IP3	-a>
+Src family/SYK family/BLNK-LAT/BTK-ITK/PLC-gamma	mol:DAG	-a>
+RhoA/GDP	actin cytoskeleton reorganization	-ap>
+Rac1/GTP	actin cytoskeleton reorganization	-ap>
+RAS family/GTP/PI3K Class I	mol:PI-3-4-5-P3	-a>
+PDK1/Src/Hsp90	SGK1	-a>
+GO:0030676	mol:GDP	-a>
+GO:0030676	Rac1/GTP	-a>
+ARF6/GDP	actin cytoskeleton reorganization	-ap>
+ARAP3/RAP1A/GTP	mol:GTP	-a>
+ARAP3/RAP1A/GTP	RhoA/GDP	-a>

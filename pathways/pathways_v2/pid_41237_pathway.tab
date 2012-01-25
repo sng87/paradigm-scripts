@@ -1,0 +1,37 @@
+smallMolecule	Arachidonate
+smallMolecule	TPNH
+smallMolecule	H2O
+smallMolecule	ChEBI:37248
+smallMolecule	TPN
+smallMolecule	ChEBI:31697
+smallMolecule	Indole
+smallMolecule	Retin A
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	testosterone
+protein	CYP4F11
+protein	CYP3A43
+protein	CYP2W1
+CYP4F11	TPN	-a>
+CYP2W1	H2O	-a>
+CYP3A43	H2O	-a>
+ChEBI:37248	H2O	-a>
+ChEBI:37248	TPN	-a>
+Indole	ChEBI:31697	-a>
+Indole	TPN	-a>
+Indole	H2O	-a>
+H+	ChEBI:31697	-a>
+TPNH	ChEBI:31697	-a>
+O2	ChEBI:31697	-a>
+testosterone	TPN	-a>
+testosterone	H2O	-a>
+Retin A	TPN	-a>
+Retin A	H2O	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+H+	TPN	-a>
+H+	H2O	-a>
+TPNH	TPN	-a>
+TPNH	H2O	-a>
+Arachidonate	TPN	-a>
+Arachidonate	H2O	-a>

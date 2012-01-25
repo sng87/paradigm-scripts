@@ -1,0 +1,18 @@
+complex	C5b:C6:C7:C8: 12xC9 membrane attack complex
+complex	C5b
+complex	C8
+complex	C5b:C6 complex
+complex	C5b:C6:C7:C8 complex
+complex	C5b:C6:C7 complex
+protein	C9
+protein	C7
+protein	C6
+C5b:C6:C7 complex	C5b:C6:C7 complex	-a>
+C5b:C6:C7:C8 complex	C5b:C6:C7:C8: 12xC9 membrane attack complex	component>
+C9	C5b:C6:C7:C8: 12xC9 membrane attack complex	component>
+C8	C5b:C6:C7:C8 complex	component>
+C5b:C6:C7 complex	C5b:C6:C7:C8 complex	component>
+C5b:C6 complex	C5b:C6:C7 complex	component>
+C7	C5b:C6:C7 complex	component>
+C5b	C5b:C6 complex	component>
+C6	C5b:C6 complex	component>

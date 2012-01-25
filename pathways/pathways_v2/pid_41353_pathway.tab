@@ -1,0 +1,10 @@
+smallMolecule	Acetate
+smallMolecule	Arterenol
+smallMolecule	O-acetylcholine
+smallMolecule	Choline
+protein	SLC22A2
+protein	ACHE
+ACHE	Choline	-a>
+SLC22A2	Arterenol	-a>
+O-acetylcholine	Acetate	-a>
+O-acetylcholine	Choline	-a>

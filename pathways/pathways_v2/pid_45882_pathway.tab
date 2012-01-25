@@ -1,0 +1,32 @@
+complex	CDC25/14-3-3
+complex	RB/E2F-1
+abstract	DNA damage
+protein	YWHAH
+protein	WEE1
+protein	TP53
+protein	RB1
+protein	RASGRF1
+protein	MYT1
+protein	E2F1
+protein	CHEK1
+protein	CDKN1A
+protein	CDK4
+protein	CDK2
+protein	CDC2
+protein	ATM
+CDK2	RB1	component>
+CDK4	RB1	component>
+CHEK1	CDC25/14-3-3	component>
+RASGRF1	CDC2	-a>
+CDKN1A	CDC2	-a>
+TP53	CDKN1A	-t>
+RB/E2F-1	E2F1	component>
+RB/E2F-1	RB1	component>
+ATM	TP53	-a>
+WEE1	CDC2	-a>
+RASGRF1	CDC25/14-3-3	component>
+YWHAH	CDC25/14-3-3	component>
+DNA damage	ATM	-a>
+CDKN1A	CDK2	-a>
+ATM	CHEK1	-a>
+MYT1	CDC2	-a>

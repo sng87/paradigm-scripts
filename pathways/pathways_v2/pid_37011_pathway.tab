@@ -1,0 +1,129 @@
+abstract	microtubule-based movement
+abstract	negative regulation of microtubule depolymerization
+abstract	anaphase
+abstract	actin polymerization or depolymerization
+complex	RELN/VLDLR/DAB1
+complex	LIS1/IQGAP1
+complex	MAP1B/LIS1/Dynein heavy chain
+complex	microtubule organizing center
+complex	LIS1/NudC/Dynein intermediate chain/microtubule organizing center
+complex	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain
+complex	NDEL1/Katanin 60/Dynein heavy chain
+complex	NDEL1/Katanin 60
+protein	Dynein intermediate chain
+complex	RELN/VLDLR
+smallMolecule	PP1
+complex	RELN/VLDLR/DAB1/LIS1
+complex	RELN/LRP8
+complex	IQGAP1/CaM
+complex	LIS1/CLIP170
+complex	CaM/Ca2+
+complex	NDEL1/14-3-3 E
+complex	p35/CDK5
+complex	PAFAH/LIS1
+complex	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3
+smallMolecule	Ca2+
+protein	nonstructural protein 3A precursor_1455-1541
+complex	LIS1/Poliovirus Protein 3A
+complex	LRPAP1/LRP8
+protein	Dynein Complex
+protein	Dynactin Complex
+complex	LIS1/CLIP170/Dynein Complex/Dynactin Complex
+complex	P39/CDK5
+protein	YWHAE
+protein	VLDLR
+protein	RHOA
+protein	RELN
+protein	RAC1
+protein	PPP2R5D
+protein	PLA2G7
+protein	PAFAH1B3
+protein	PAFAH1B2
+protein	PAFAH1B1
+protein	NUDC
+protein	NDEL1
+protein	MAP1B
+protein	LRP8
+protein	KATNA1
+protein	DYNLT1
+protein	DYNC1H1
+protein	DCX
+protein	CSNK2A1
+protein	CLIP1
+protein	CDK5R2
+protein	CDK5R1
+protein	CDK5
+protein	CDC42
+protein	ABL1
+P39/CDK5	NDEL1	-a>
+Ca2+	RAC1	-a>
+PPP2R5D	MAP1B	-a|
+PP1	MAP1B	-a|
+DCX	negative regulation of microtubule depolymerization	-ap>
+Ca2+	RHOA	-a>
+Ca2+	CDC42	-a>
+LRPAP1/LRP8	RELN/VLDLR	component>
+p35/CDK5	NDEL1	-a>
+DYNC1H1	NDEL1/Katanin 60/Dynein heavy chain	component>
+NDEL1/Katanin 60	NDEL1/Katanin 60/Dynein heavy chain	component>
+Dynactin Complex	LIS1/CLIP170/Dynein Complex/Dynactin Complex	component>
+Dynein Complex	LIS1/CLIP170/Dynein Complex/Dynactin Complex	component>
+LIS1/CLIP170	LIS1/CLIP170/Dynein Complex/Dynactin Complex	component>
+LIS1/IQGAP1	RAC1	-a>
+NDEL1	NDEL1/14-3-3 E	component>
+YWHAE	NDEL1/14-3-3 E	component>
+NDEL1	NDEL1/Katanin 60	component>
+KATNA1	NDEL1/Katanin 60	component>
+CDK5R2	P39/CDK5	component>
+CDK5	P39/CDK5	component>
+LIS1/CLIP170/Dynein Complex/Dynactin Complex	anaphase	-ap>
+microtubule organizing center	LIS1/NudC/Dynein intermediate chain/microtubule organizing center	component>
+Dynein intermediate chain	LIS1/NudC/Dynein intermediate chain/microtubule organizing center	component>
+NUDC	LIS1/NudC/Dynein intermediate chain/microtubule organizing center	component>
+PAFAH1B1	LIS1/NudC/Dynein intermediate chain/microtubule organizing center	component>
+NDEL1/Katanin 60/Dynein heavy chain	microtubule-based movement	-ap>
+PLA2G7	PAFAH/LIS1	component>
+PAFAH1B1	PAFAH/LIS1	component>
+CDK5R1	p35/CDK5	component>
+CDK5	p35/CDK5	component>
+NDEL1/Katanin 60/Dynein heavy chain	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+PAFAH1B1	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+DYNLT1	LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	component>
+CSNK2A1	MAP1B	-a>
+nonstructural protein 3A precursor_1455-1541	LIS1/Poliovirus Protein 3A	component>
+PAFAH1B1	LIS1/Poliovirus Protein 3A	component>
+CLIP1	LIS1/CLIP170	component>
+PAFAH1B1	LIS1/CLIP170	component>
+PAFAH1B3	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+PAFAH1B2	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+RELN/VLDLR/DAB1/LIS1	RELN/VLDLR/DAB1/LIS1/PAFAH1B2/PAFAH1B3	component>
+CSNK2A1	PAFAH1B1	-a>
+Ca2+	CaM/Ca2+	component>
+Ca2+	LIS1/IQGAP1	component>
+IQGAP1/CaM	CaM/Ca2+	component>
+IQGAP1/CaM	LIS1/IQGAP1	component>
+PAFAH1B1	CaM/Ca2+	component>
+PAFAH1B1	LIS1/IQGAP1	component>
+DYNC1H1	MAP1B/LIS1/Dynein heavy chain	component>
+PAFAH1B1	MAP1B/LIS1/Dynein heavy chain	component>
+MAP1B	MAP1B/LIS1/Dynein heavy chain	component>
+LIS1/NDEL1/Katanin 60/Dynein Light chain/Dynein heavy chain	negative regulation of microtubule depolymerization	-ap>
+CDC42	actin polymerization or depolymerization	-ap>
+RAC1	actin polymerization or depolymerization	-ap>
+LIS1/CLIP170/Dynein Complex/Dynactin Complex	Dynactin Complex	component>
+LIS1/CLIP170/Dynein Complex/Dynactin Complex	Dynein Complex	component>
+LIS1/CLIP170/Dynein Complex/Dynactin Complex	LIS1/CLIP170	component>
+RELN/VLDLR/DAB1	RELN/VLDLR/DAB1/LIS1	component>
+PAFAH1B1	RELN/VLDLR/DAB1/LIS1	component>
+LIS1/IQGAP1	RHOA	-a>
+LIS1/CLIP170	PAFAH1B1	component>
+LIS1/CLIP170	CLIP1	component>
+LIS1/IQGAP1	CDC42	-a>
+ABL1	CDK5	-a>
+RELN/LRP8	ABL1	-a>
+LRP8	RELN/LRP8	component>
+LRP8	RELN/VLDLR	component>
+VLDLR	RELN/LRP8	component>
+VLDLR	RELN/VLDLR	component>
+RELN	RELN/LRP8	component>
+RELN	RELN/VLDLR	component>

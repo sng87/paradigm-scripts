@@ -1,0 +1,10 @@
+smallMolecule	AMP
+smallMolecule	ATP
+smallMolecule	ADP
+protein	AK2
+AK2	ADP	-a>
+AK2	AMP	-a>
+ATP	ADP	-a>
+AMP	ADP	-a>
+ADP	ATP	-a>
+ADP	AMP	-a>

@@ -1,0 +1,61 @@
+complex	ICAD/CAD
+complex	DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10/APO-3L
+protein	CASP7_0-0
+protein	CASP3_0-0
+complex	DR4/5/Caspase 8/Caspase 10
+protein	ACTA1 (cleaved)_0-0
+protein	ADPRT (cleaved)_0-0
+protein	LMNA (cleaved)_0-0
+protein	CASP6_0-0
+complex	DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10
+complex	DR4/5/Caspase 8/Caspase 10/APO-2L
+protein	GAS2 (cleaved)_0-0
+protein	SPTAN1 (cleaved)_0-0
+abstract	DNA repair
+abstract	degradation
+abstract	apoptosis
+protein	TNFSF12
+protein	TNFSF10
+protein	SPTAN1
+protein	PARP1
+protein	MAP3K14
+protein	LMNA
+protein	GAS2
+protein	DFFB
+protein	CASP7
+protein	CASP6
+protein	CASP3
+protein	BID
+protein	ACTA1
+CASP3_0-0	GAS2 (cleaved)_0-0	-a>
+CASP7_0-0	ADPRT (cleaved)_0-0	-a>
+CASP3_0-0	ACTA1 (cleaved)_0-0	-a>
+CASP3_0-0	CASP6_0-0	-a>
+DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10/APO-3L	CASP3_0-0	-a>
+CASP3_0-0	CASP7_0-0	-a>
+CASP6_0-0	LMNA (cleaved)_0-0	-a>
+CASP3_0-0	SPTAN1 (cleaved)_0-0	-a>
+DR4/5/Caspase 8/Caspase 10/APO-2L	CASP3_0-0	-a>
+CASP3_0-0	degradation	-ap>
+GAS2	GAS2 (cleaved)_0-0	-a>
+DR4/5/Caspase 8/Caspase 10	DR4/5/Caspase 8/Caspase 10/APO-2L	component>
+TNFSF10	DR4/5/Caspase 8/Caspase 10/APO-2L	component>
+DR4/5/Caspase 8/Caspase 10/APO-2L	BID	-a>
+PARP1	ADPRT (cleaved)_0-0	-a>
+DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10/APO-3L	MAP3K14	-a>
+ACTA1	ACTA1 (cleaved)_0-0	-a>
+CASP6	CASP6_0-0	-a>
+CASP7	CASP7_0-0	-a>
+ACTA1 (cleaved)_0-0	apoptosis	-ap>
+LMNA	LMNA (cleaved)_0-0	-a>
+DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10/APO-3L	BID	-a>
+SPTAN1	SPTAN1 (cleaved)_0-0	-a>
+DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10	DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10/APO-3L	component>
+TNFSF12	DR3/TRADD/FADD/TRAF2/RIP/Caspase 8/Caspase 10/APO-3L	component>
+GAS2 (cleaved)_0-0	apoptosis	-ap>
+LMNA (cleaved)_0-0	apoptosis	-ap>
+PARP1	DNA repair	-ap>
+CASP3	CASP3_0-0	-a>
+SPTAN1 (cleaved)_0-0	apoptosis	-ap>
+DFFB	degradation	-ap>
+ICAD/CAD	degradation	-ap>

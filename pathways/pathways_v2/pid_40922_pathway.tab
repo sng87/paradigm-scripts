@@ -1,0 +1,10 @@
+complex	palmitoylated, myristoylated eNOS dimer
+complex	APT1 homodimer
+complex	myristoylated eNOS dimer
+protein	UniProt:P29474 NOS3
+protein	ZDHHC21
+APT1 homodimer	myristoylated eNOS dimer	-a>
+ZDHHC21	UniProt:P29474 NOS3	-a>
+UniProt:P29474 NOS3	palmitoylated, myristoylated eNOS dimer	component>
+myristoylated eNOS dimer	myristoylated eNOS dimer	-a>
+palmitoylated, myristoylated eNOS dimer	myristoylated eNOS dimer	-a>

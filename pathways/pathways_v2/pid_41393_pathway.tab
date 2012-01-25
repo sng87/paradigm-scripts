@@ -1,0 +1,41 @@
+complex	eIF4F:mRNP
+complex	eIF4E:4E-BP
+complex	mRNA:eIF4F:eIF4B:eIF4H
+protein	UniProt:P23588 EIF4B_subunit_2_118_2-118
+complex	mRNP
+complex	eIF4A subunits complex
+protein	UniProt:Q04637 EIF4G1
+complex	eIF4F
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	EIF4H
+protein	EIF4EBP1
+protein	EIF4E
+eIF4E:4E-BP	EIF4EBP1	component>
+eIF4E:4E-BP	EIF4E	component>
+ATP	phosphate	component>
+ATP	mRNA:eIF4F:eIF4B:eIF4H	component>
+ATP	eIF4A subunits complex	component>
+ATP	ADP	component>
+eIF4A subunits complex	phosphate	component>
+eIF4A subunits complex	mRNA:eIF4F:eIF4B:eIF4H	component>
+eIF4A subunits complex	eIF4A subunits complex	component>
+eIF4A subunits complex	ADP	component>
+EIF4H	phosphate	component>
+EIF4H	mRNA:eIF4F:eIF4B:eIF4H	component>
+EIF4H	eIF4A subunits complex	component>
+EIF4H	ADP	component>
+UniProt:P23588 EIF4B_subunit_2_118_2-118	phosphate	component>
+UniProt:P23588 EIF4B_subunit_2_118_2-118	mRNA:eIF4F:eIF4B:eIF4H	component>
+UniProt:P23588 EIF4B_subunit_2_118_2-118	eIF4A subunits complex	component>
+UniProt:P23588 EIF4B_subunit_2_118_2-118	ADP	component>
+eIF4F:mRNP	phosphate	component>
+eIF4F:mRNP	mRNA:eIF4F:eIF4B:eIF4H	component>
+eIF4F:mRNP	eIF4A subunits complex	component>
+eIF4F:mRNP	ADP	component>
+UniProt:Q04637 EIF4G1	eIF4F	component>
+eIF4A subunits complex	eIF4F	component>
+EIF4E	eIF4F	component>
+mRNP	eIF4F:mRNP	component>
+eIF4F	eIF4F:mRNP	component>

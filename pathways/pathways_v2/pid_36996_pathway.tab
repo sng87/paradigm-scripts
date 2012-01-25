@@ -1,0 +1,202 @@
+abstract	positive regulation of dendritic cell cytokine production
+abstract	regulation of stress fiber formation
+abstract	positive regulation of mitosis
+abstract	stress fiber formation
+abstract	contractile ring contraction involved in cytokinesis
+abstract	positive regulation of microtubule depolymerization
+abstract	lamellipodium assembly
+abstract	arachidonic acid secretion
+abstract	cell migration
+abstract	JNK cascade
+abstract	cAMP biosynthetic process
+abstract	endothelial cell migration
+abstract	MAPKKK cascade
+complex	Caspase 3 (tetramer)
+protein	PKC (alpha/beta/epsilon/zeta)
+complex	G12/G13
+smallMolecule	DAG
+smallMolecule	cAMP
+protein	Adenylyl Cyclase
+complex	TRIP6/p130 Cas/FAK1/Paxillin
+complex	HB-EGF/EGFR
+complex	LPA/LPA2/MAGI-3
+complex	LPA/LPA1-2-3
+protein	MMP9_107-707
+complex	LPA/LPA2
+complex	LPA/LPA1
+protein	MAGI-3
+complex	RhoA/GDP
+complex	LPA/LPA3
+smallMolecule	Arachidonic acid
+complex	RAC1/GDP
+complex	EGFR/PI3K-beta/Gab1
+complex	LPA/LPA2/NHERF2
+complex	Gi(beta/gamma)
+complex	HRAS/GDP
+complex	HRAS/GTP
+complex	PAK1
+complex	AP1
+complex	PI3K-beta
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+protein	PKD
+smallMolecule	PI-4-5-P2
+smallMolecule	LPA
+smallMolecule	Ca2+
+smallMolecule	Ca ++
+smallMolecule	IP3
+smallMolecule	PIP3
+complex	GNB1/GNG2
+protein	LPA1-2-3
+protein	PKC delta
+complex	RhoA/GTP
+protein	FAK
+complex	NF kappa B1 p50/RelA
+protein	p130 Cas
+protein	Gq family
+smallMolecule	H2O2
+smallMolecule	GDP
+protein	Gi family
+smallMolecule	GTP
+protein	TRIP6
+protein	TIAM1
+protein	SRC
+protein	SLC9A3R2
+protein	PXN
+protein	PTK2B
+protein	PTK2
+protein	PRKCE
+protein	PLD2
+protein	PLCG1
+protein	PLCB3
+protein	NFKBIA
+protein	MMP2
+protein	MAPT
+protein	LYN
+protein	LPAR3
+protein	LPAR2
+protein	LPAR1
+protein	IL8
+protein	IL6
+protein	HBEGF
+protein	GSK3B
+protein	GAB1
+protein	EGFR
+protein	CRK
+protein	CASP3
+protein	ARHGEF1
+protein	AKT1
+protein	ADRA1B
+LPA/LPA1-2-3	positive regulation of dendritic cell cytokine production	-ap>
+Adenylyl Cyclase	cAMP biosynthetic process	-ap|
+Gi family	HRAS/GTP	-a>
+GNB1/GNG2	HRAS/GTP	-a>
+EGFR/PI3K-beta/Gab1	PIP3	-a>
+HRAS/GTP	arachidonic acid secretion	-ap>
+TIAM1	PAK1	-a>
+LPA/LPA1-2-3	EGFR/PI3K-beta/Gab1	component>
+LPA/LPA2/MAGI-3	RhoA/GTP	-a>
+SRC	TRIP6	-a>
+PKC delta	NFKBIA	component>
+LPA/LPA1-2-3	NFKBIA	component>
+MMP9_107-707	HBEGF	-a>
+LPA/LPA1	Gi family	component>
+PLCG1	DAG	-a>
+PKC delta	LYN	-a>
+LPA/LPA3	Caspase 3 (tetramer)	component>
+Ca ++	PTK2B	-a>
+Ca2+	PTK2B	-a>
+LPA/LPA1-2-3	AP1	-a>
+PRKCE	TIAM1	-a>
+TIAM1	RhoA/GTP	-a|
+ARHGEF1	RhoA/GTP	-a>
+PLCB3	DAG	-a>
+LPA/LPA1	Caspase 3 (tetramer)	component>
+IL6	positive regulation of dendritic cell cytokine production	-ap>
+LPAR3	LPA/LPA3	component>
+LPA	LPA/LPA3	component>
+cAMP	cAMP biosynthetic process	-ap>
+HRAS/GTP	MAPKKK cascade	-ap>
+MMP2	endothelial cell migration	-ap>
+HRAS/GDP	HRAS/GTP	-a>
+Gi family	Adenylyl Cyclase	-a>
+PKC (alpha/beta/epsilon/zeta)	PKD	-a>
+PAK1	cell migration	-ap>
+PI-4-5-P2	PIP3	-a>
+Arachidonic acid	arachidonic acid secretion	-ap>
+H2O2	regulation of stress fiber formation	-ap>
+LPA/LPA1-2-3	FAK	-a>
+HBEGF	HB-EGF/EGFR	component>
+EGFR	HB-EGF/EGFR	component>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+MAPT	positive regulation of microtubule depolymerization	-ap>
+LPAR1	LPA/LPA1	component>
+LPA	LPA/LPA1	component>
+GAB1	EGFR/PI3K-beta/Gab1	component>
+PI3K-beta	EGFR/PI3K-beta/Gab1	component>
+EGFR	EGFR/PI3K-beta/Gab1	component>
+G12/G13	ARHGEF1	-a>
+IP3	Ca2+	-a>
+FAK	PXN	-a>
+HRAS/GTP	positive regulation of mitosis	-ap>
+NF kappa B1 p50/RelA	IL8	-t>
+PKC (alpha/beta/epsilon/zeta)	ADRA1B	-a>
+LPA/LPA1-2-3	PLD2	-a>
+LPA/LPA1	G12/G13	-a>
+LPA1-2-3	LPA/LPA1-2-3	component>
+LPA	LPA/LPA1-2-3	component>
+LPA/LPA3	Gq family	-a>
+LPA/LPA2	TRIP6	-a>
+NF kappa B1 p50/RelA	NF kappa B1 p50/RelA	-a>
+GNB1/GNG2	PI3K-beta	-a>
+RhoA/GTP	PI3K-beta	-a>
+PTK2B	GSK3B	-a>
+PTK2	cell migration	-ap>
+PXN	cell migration	-ap>
+TRIP6/p130 Cas/FAK1/Paxillin	cell migration	-ap>
+LPA/LPA2	Gq family	-a>
+Gq family	PLCG1	-a>
+NF kappa B1 p50/RelA/I kappa B alpha	NF kappa B1 p50/RelA	component>
+NF kappa B1 p50/RelA/I kappa B alpha	NFKBIA	component>
+HBEGF	HBEGF	-a>
+LPA/LPA2/NHERF2	PLCB3	-a>
+Gi(beta/gamma)	GNB1/GNG2	component>
+Gi(beta/gamma)	Gi family	component>
+GSK3B	MAPT	-a>
+CRK	TRIP6/p130 Cas/FAK1/Paxillin	component>
+PTK2	TRIP6/p130 Cas/FAK1/Paxillin	component>
+PXN	TRIP6/p130 Cas/FAK1/Paxillin	component>
+p130 Cas	TRIP6/p130 Cas/FAK1/Paxillin	component>
+TRIP6	TRIP6/p130 Cas/FAK1/Paxillin	component>
+PTK2B	PXN	-a>
+LPA/LPA1	MMP2	-t>
+LPA/LPA1-2-3	LYN	-a>
+SLC9A3R2	LPA/LPA2/NHERF2	component>
+LPA/LPA2	LPA/LPA2/NHERF2	component>
+LPA/LPA1-2-3	IL8	-a>
+PXN	stress fiber formation	-ap>
+HB-EGF/EGFR	IL8	-t>
+LPA/LPA2	LPA/LPA2/MAGI-3	component>
+MAGI-3	LPA/LPA2/MAGI-3	component>
+LPA/LPA2	PTK2B	-a>
+LPA/LPA1	PTK2B	-a>
+RhoA/GTP	contractile ring contraction involved in cytokinesis	-ap>
+JNK cascade	AP1	-a>
+RhoA/GTP	H2O2	component>
+PLD2	H2O2	component>
+PI3K-beta	AKT1	-a>
+PI3K-beta	TIAM1	-a>
+PAK1	lamellipodium assembly	-ap>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+LPAR2	LPA/LPA2	component>
+LPA	LPA/LPA2	component>
+DAG	PKC (alpha/beta/epsilon/zeta)	-a>
+AP1	IL8	-t>
+DAG	PKC delta	-a>
+CASP3	Caspase 3 (tetramer)	component>

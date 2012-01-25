@@ -1,0 +1,11 @@
+complex	LDL:LDLR complex
+complex	LDL
+protein	LDLRAP1
+protein	LDLR
+LDL	LDL:LDLR complex	component>
+LDLR	LDL:LDLR complex	component>
+LDLRAP1	LDL:LDLR complex	-a>
+LDL:LDLR complex	LDL	component>
+LDL:LDLR complex	LDLR	component>
+LDLR	LDLR	-a>
+LDL:LDLR complex	LDL:LDLR complex	-a>

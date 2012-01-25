@@ -1,0 +1,37 @@
+protein	CDK inhibitor
+protein	UniProt:P49815-1 TSC2
+complex	PIP3:PDK1:AKT
+protein	Phospho-CDK inhibitor
+protein	UniProt:Q00987 MDM2
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CHUK
+protein	CASP9
+protein	BAD
+protein	AKT1S1
+PIP3:PDK1:AKT	UniProt:Q00987 MDM2	-a>
+PIP3:PDK1:AKT	BAD	-a>
+PIP3:PDK1:AKT	Phospho-CDK inhibitor	-a>
+PIP3:PDK1:AKT	ADP	-a>
+CHUK	CHUK	-a>
+CHUK	ADP	-a>
+ATP	CHUK	-a>
+UniProt:Q00987 MDM2	ADP	-a>
+UniProt:Q00987 MDM2	UniProt:Q00987 MDM2	-a>
+ATP	UniProt:Q00987 MDM2	-a>
+ATP	CASP9	-a>
+CASP9	CASP9	-a>
+CASP9	ADP	-a>
+BAD	ADP	-a>
+BAD	BAD	-a>
+ATP	BAD	-a>
+UniProt:P49815-1 TSC2	UniProt:P49815-1 TSC2	-a>
+UniProt:P49815-1 TSC2	ADP	-a>
+ATP	UniProt:P49815-1 TSC2	-a>
+ATP	Phospho-CDK inhibitor	-a>
+CDK inhibitor	ADP	-a>
+CDK inhibitor	Phospho-CDK inhibitor	-a>
+ATP	AKT1S1	-a>
+ATP	ADP	-a>
+AKT1S1	AKT1S1	-a>
+AKT1S1	ADP	-a>

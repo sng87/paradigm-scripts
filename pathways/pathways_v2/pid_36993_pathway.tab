@@ -1,0 +1,76 @@
+abstract	natural killer cell mediated cytotoxicity
+abstract	negative regulation of transcription
+abstract	T-helper 1 cell lineage commitment
+abstract	T-helper 2 cell differentiation
+abstract	T-helper 1 cell differentiation
+abstract	natural killer cell activation
+abstract	apoptosis
+complex	IL18R
+protein	JNK1-2-active
+complex	STAT4 (dimer)/JUN
+complex	STAT3 (dimer)
+protein	JNK1-2
+complex	JUN/Cbp
+protein	PIASxBeta
+complex	STAT4 (dimer)/PIASxBeta
+complex	STAT4 (dimer)/JUN/Cbp
+complex	TCR/CD3/MHC II/CD4
+complex	STAT4 (dimer)
+complex	IL18/IL18R
+complex	B7 family/CD28
+complex	AP-1/NFAT1-c-4
+complex	Calcineurin A alpha-beta B1
+protein	TGFB1
+protein	TBX21
+protein	PRF1
+protein	JUN
+protein	IRF1
+protein	IL2RA
+protein	IL2
+protein	IL18RAP
+protein	IL18R1
+protein	IL18
+protein	IL13
+protein	IFNG
+protein	ETV5
+STAT4 (dimer)	IL2	-t|
+AP-1/NFAT1-c-4	IL2	-t>
+TGFB1	IFNG	-t|
+IL2	IFNG	-t>
+Calcineurin A alpha-beta B1	IFNG	-t|
+IL18/IL18R	JNK1-2-active	-a>
+B7 family/CD28	IFNG	-t>
+STAT4 (dimer)	ETV5	-t>
+TBX21	IFNG	-t>
+STAT4 (dimer)	PRF1	-t>
+IL18/IL18R	IL13	-t>
+T-helper 1 cell differentiation	IL2	-t>
+IL18R	IL18/IL18R	component>
+IL18	IL18/IL18R	component>
+STAT4 (dimer)	IL18RAP	-t>
+STAT4 (dimer)	IFNG	-t>
+TCR/CD3/MHC II/CD4	IFNG	-t>
+JNK1-2	JNK1-2-active	-a>
+STAT4 (dimer)	IRF1	-t>
+natural killer cell activation	IFNG	-t>
+STAT4 (dimer)/JUN/Cbp	IL2RA	-t>
+STAT3 (dimer)	IFNG	-t>
+STAT4 (dimer)	natural killer cell mediated cytotoxicity	-ap>
+JUN/Cbp	STAT4 (dimer)/JUN/Cbp	component>
+STAT4 (dimer)	STAT4 (dimer)/JUN/Cbp	component>
+IL18RAP	IL18R	component>
+IL18R1	IL18R	component>
+STAT4 (dimer)/PIASxBeta	negative regulation of transcription	-ap>
+STAT4 (dimer)	T-helper 1 cell differentiation	-ap>
+PIASxBeta	STAT4 (dimer)/PIASxBeta	component>
+STAT4 (dimer)	STAT4 (dimer)/PIASxBeta	component>
+T-helper 1 cell lineage commitment	ETV5	-t>
+STAT4 (dimer)/JUN	IFNG	-t>
+STAT4 (dimer)	T-helper 2 cell differentiation	-ap|
+natural killer cell activation	PRF1	-t>
+IFNG	apoptosis	-ap|
+JNK1-2-active	JUN	-a>
+STAT4 (dimer)	IL18R1	-t>
+STAT4 (dimer)	IL13	-t>
+JUN	STAT4 (dimer)/JUN	component>
+STAT4 (dimer)	STAT4 (dimer)/JUN	component>

@@ -1,0 +1,26 @@
+complex	PA/cellular receptor
+protein	Protective Antigen
+protein	Cellular receptor
+complex	PrePore
+abstract	inflammatory response
+abstract	necrosis
+protein	Lethal factor
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	Edema factor
+protein	MAP2K2
+protein	MAP2K1
+Edema factor	cAMP	-a>
+MAP2K2	necrosis	-ap>
+Lethal factor	MAP2K2	-a>
+Lethal factor	Lethal factor	-a>
+Lethal factor	Edema factor	-a>
+Edema factor	Lethal factor	-a>
+PrePore	Edema factor	-a>
+Cellular receptor	PA/cellular receptor	component>
+Protective Antigen	PA/cellular receptor	component>
+ATP	cAMP	-a>
+cAMP	inflammatory response	-ap>
+Lethal factor	MAP2K1	-a>
+MAP2K1	necrosis	-ap>
+PA/cellular receptor	PrePore	-a>

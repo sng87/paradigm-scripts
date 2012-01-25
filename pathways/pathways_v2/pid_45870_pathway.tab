@@ -1,0 +1,57 @@
+abstract	blood coagulation
+protein	PLG_0-0
+protein	Plasminogen
+complex	Thrombin/Thrombin receptor
+complex	Thrombin/Fibrin
+protein	F2_0-0
+smallMolecule	Clot
+protein	ATIII
+protein	alpha-2 antiplasmin
+complex	Fibrin E2
+complex	F XIII
+protein	E
+protein	DD
+complex	Fibrin E1
+protein	F XIIIa_0-0
+complex	Fibrinogen
+smallMolecule	Ca2+
+protein	SERPINE1
+protein	SERPINB2
+protein	PLAU
+protein	PLAT
+protein	F2R
+protein	CPB2
+alpha-2 antiplasmin	DD	component>
+PLG_0-0	DD	component>
+PLAU	PLG_0-0	-a>
+SERPINB2	PLG_0-0	-a|
+SERPINE1	PLG_0-0	-a|
+PLAT	PLG_0-0	-a>
+Thrombin/Thrombin receptor	F XIIIa_0-0	component>
+ATIII	Thrombin/Fibrin	component>
+alpha-2 antiplasmin	Fibrin E1	component>
+PLG_0-0	Fibrin E1	component>
+Ca2+	blood coagulation	-ap>
+F XIIIa_0-0	blood coagulation	-ap>
+alpha-2 antiplasmin	Fibrin E2	-a|
+PLG_0-0	Fibrin E2	-a>
+CPB2	DD	component>
+Fibrin E1	PLAT	-a>
+Plasminogen	PLG_0-0	-a>
+F XIII	F XIIIa_0-0	component>
+F2_0-0	Thrombin/Fibrin	component>
+Fibrinogen	Thrombin/Fibrin	component>
+Clot	Fibrin E1	component>
+Clot	blood coagulation	-ap>
+Thrombin/Fibrin	blood coagulation	-ap>
+Thrombin/Fibrin	PLAT	-a>
+F2R	Thrombin/Thrombin receptor	component>
+F2_0-0	Thrombin/Thrombin receptor	component>
+Fibrin E2	PLAT	-a>
+Fibrin E1	PLAU	-a>
+Fibrin E1	Fibrin E2	-a>
+Thrombin/Fibrin	PLAU	-a>
+Fibrin E2	E	component>
+Fibrin E2	DD	component>
+Thrombin/Thrombin receptor	CPB2	-a>
+Fibrin E2	PLAU	-a>

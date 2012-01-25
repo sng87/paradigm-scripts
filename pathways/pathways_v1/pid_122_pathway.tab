@@ -1,0 +1,136 @@
+protein	GBL
+protein	MKNK1
+protein	MAP3K5
+protein	TSC1
+protein	EIF4B
+protein	KIAA1303
+protein	RHEB
+protein	PDK2
+protein	PPP2R5D
+protein	EIF3A
+protein	EIF4EBP1
+protein	EIF4G1
+protein	FKBP1A
+protein	RPS6
+protein	EIF4A1
+protein	PTEN
+protein	PPP5C
+protein	TSC2
+protein	FRAP1
+protein	PIK3CA
+protein	IRS1
+protein	AKT1
+protein	PIK3R1
+protein	RPS6KB1
+protein	EEF2
+protein	EIF4E
+protein	INSR
+protein	INS
+protein	PDPK1
+complex	mTOR/RHEB/GTP/Raptor/GBL/eIF4E
+complex	mTOR/RHEB/GTP/Raptor/GBL
+complex	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA/eIF3/40s Ribosomal subunit
+complex	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA
+complex	eIF4E/eIF4G1/eIF4A1
+complex	eIF4E/4E-BP1
+complex	TSC1/TSC2
+complex	RHEB/GTP
+complex	RHEB/GDP
+complex	PI3K
+complex	Insulin Receptor/Insulin
+complex	Insulin Receptor/IRS1
+complex	FKBP12/Rapamycin
+complex	ASK1/PP5C
+complex	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3
+chemical	mol:Rapamycin
+chemical	mol:PIP3
+chemical	mol:LY294002
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Amino Acids
+abstract	tumor necrosis factor receptor activity
+abstract	peptide biosynthetic process
+abstract	apoptosis
+tumor necrosis factor receptor activity	IRS1	-ap>
+mol:Rapamycin	MAP3K5	-a>
+mol:Rapamycin	FRAP1	-a>
+mol:Rapamycin	FKBP12/Rapamycin	component>
+mol:Rapamycin	ASK1/PP5C	-a|
+mol:PIP3	PDK2	-a>
+mol:PIP3	PDPK1	-a>
+mol:LY294002	IRS1	-a|
+mol:GTP	mTOR/RHEB/GTP/Raptor/GBL/eIF4E	component>
+mol:GTP	mTOR/RHEB/GTP/Raptor/GBL	component>
+mol:GTP	RHEB/GTP	component>
+mol:GDP	RHEB/GDP	component>
+mol:Amino Acids	IRS1	-a|
+mol:Amino Acids	Insulin Receptor/Insulin	-a|
+mTOR/RHEB/GTP/Raptor/GBL	RPS6KB1	-a>
+GBL	mTOR/RHEB/GTP/Raptor/GBL/eIF4E	component>
+GBL	mTOR/RHEB/GTP/Raptor/GBL	component>
+MKNK1	eIF4E/eIF4G1/eIF4A1	-a>
+MAP3K5	apoptosis	-ap>
+MAP3K5	ASK1/PP5C	component>
+TSC1	TSC1/TSC2	component>
+EIF4B	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA/eIF3/40s Ribosomal subunit	component>
+EIF4B	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA	component>
+KIAA1303	mTOR/RHEB/GTP/Raptor/GBL/eIF4E	component>
+KIAA1303	mTOR/RHEB/GTP/Raptor/GBL	component>
+RHEB	mTOR/RHEB/GTP/Raptor/GBL/eIF4E	component>
+RHEB	mTOR/RHEB/GTP/Raptor/GBL	component>
+RHEB	RHEB/GTP	component>
+RHEB	RHEB/GDP	component>
+PDK2	AKT1	-a>
+PPP2R5D	eIF4E/eIF4G1/eIF4A1	-a>
+PPP2R5D	EIF4EBP1	-a>
+PPP2R5D	RPS6KB1	-a>
+EIF3A	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA/eIF3/40s Ribosomal subunit	component>
+EIF3A	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	component>
+EIF4EBP1	eIF4E/4E-BP1	component>
+EIF4G1	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA/eIF3/40s Ribosomal subunit	component>
+EIF4G1	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA	component>
+EIF4G1	eIF4E/eIF4G1/eIF4A1	component>
+FKBP1A	FKBP12/Rapamycin	component>
+RPS6	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	component>
+EIF4A1	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA/eIF3/40s Ribosomal subunit	component>
+EIF4A1	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA	component>
+EIF4A1	eIF4E/eIF4G1/eIF4A1	component>
+PTEN	mol:PIP3	-a|
+PPP5C	ASK1/PP5C	component>
+TSC2	FRAP1	-a|
+TSC2	TSC1/TSC2	component>
+FRAP1	mTOR/RHEB/GTP/Raptor/GBL/eIF4E	component>
+FRAP1	mTOR/RHEB/GTP/Raptor/GBL	component>
+FRAP1	MAP3K5	-a|
+FRAP1	PPP2R5D	-a>
+FRAP1	IRS1	-a>
+FRAP1	ASK1/PP5C	-a>
+PIK3CA	PI3K	component>
+IRS1	PI3K	-a>
+IRS1	Insulin Receptor/IRS1	component>
+AKT1	FRAP1	-a>
+AKT1	RPS6KB1	-a>
+AKT1	TSC1/TSC2	-a>
+PIK3R1	PI3K	component>
+RPS6KB1	EIF4B	-a>
+RPS6KB1	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	-a>
+EEF2	peptide biosynthetic process	-ap>
+EIF4E	mTOR/RHEB/GTP/Raptor/GBL/eIF4E	component>
+EIF4E	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA/eIF3/40s Ribosomal subunit	component>
+EIF4E	eIF4E/eIF4G1/eIF4A1/eIF4B/RNA	component>
+EIF4E	eIF4E/eIF4G1/eIF4A1	component>
+EIF4E	eIF4E/4E-BP1	component>
+INSR	Insulin Receptor/Insulin	component>
+INSR	Insulin Receptor/IRS1	component>
+INS	Insulin Receptor/Insulin	component>
+PDPK1	AKT1	-a>
+TSC1/TSC2	mol:GTP	-a>
+TSC1/TSC2	mTOR/RHEB/GTP/Raptor/GBL/eIF4E	-a|
+TSC1/TSC2	EIF4EBP1	-a|
+TSC1/TSC2	RPS6KB1	-a|
+TSC1/TSC2	RHEB/GDP	-a>
+RHEB/GTP	FRAP1	-a>
+PI3K	mol:PIP3	-a>
+Insulin Receptor/Insulin	EEF2	-a>
+FKBP12/Rapamycin	mTOR/RHEB/GTP/Raptor/GBL	-a|
+FKBP12/Rapamycin	FRAP1	-a>

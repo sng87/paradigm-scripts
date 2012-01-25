@@ -1,0 +1,9 @@
+complex	Activated mTORC1
+smallMolecule	ATP
+smallMolecule	ADP
+protein	RPS6KB1
+Activated mTORC1	RPS6KB1	-a>
+RPS6KB1	ADP	-a>
+RPS6KB1	RPS6KB1	-a>
+ATP	ADP	-a>
+ATP	RPS6KB1	-a>

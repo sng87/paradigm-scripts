@@ -1,0 +1,37 @@
+complex	FP receptor:PGF2-alpha
+complex	DP2 receptor:PGD2
+complex	EP3 receptor:PGE2
+smallMolecule	PGF2a
+smallMolecule	Thromboxane A2
+protein	UniProt:P21731 TBXA2R_subunit_1_369_1-369
+complex	TP receptor:Thromboxane A2
+complex	EP2/4 receptor:PGE2
+protein	EP2/EP4 receptors
+smallMolecule	Prostaglandin E2
+complex	EP1 receptor:PGE2
+complex	IP receptor:Prostacyclin
+smallMolecule	Prostaglandin D2
+complex	DP1 receptor:PGD2
+smallMolecule	PGI2
+protein	PTGIR
+protein	PTGFR
+protein	PTGER3
+protein	PTGER1
+protein	PTGDR
+protein	GPR44
+PGI2	IP receptor:Prostacyclin	component>
+PTGIR	IP receptor:Prostacyclin	component>
+PTGDR	DP1 receptor:PGD2	component>
+Prostaglandin D2	DP1 receptor:PGD2	component>
+PTGFR	FP receptor:PGF2-alpha	component>
+PGF2a	FP receptor:PGF2-alpha	component>
+Prostaglandin E2	EP3 receptor:PGE2	component>
+PTGER3	EP3 receptor:PGE2	component>
+EP2/EP4 receptors	EP2/4 receptor:PGE2	component>
+Prostaglandin E2	EP2/4 receptor:PGE2	component>
+Prostaglandin E2	EP1 receptor:PGE2	component>
+PTGER1	EP1 receptor:PGE2	component>
+GPR44	DP2 receptor:PGD2	component>
+Prostaglandin D2	DP2 receptor:PGD2	component>
+Thromboxane A2	TP receptor:Thromboxane A2	component>
+UniProt:P21731 TBXA2R_subunit_1_369_1-369	TP receptor:Thromboxane A2	component>

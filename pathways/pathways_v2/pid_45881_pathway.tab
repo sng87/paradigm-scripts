@@ -1,0 +1,26 @@
+complex	WAVE1-3/HSPC
+complex	NCK/PIR/Abl2/Nap
+complex	WAVE1-3/Nap/PIR/Abl2/HSPC
+complex	ARP2/3/WASP
+complex	ARP2/3/WAVE1-3/HSPC
+complex	ARP2/3
+complex	RAC1/PIR/Abl2/Nap
+abstract	lamellipodium assembly
+protein	WASL
+protein	RAC1
+protein	NCK1
+protein	CDC42
+ARP2/3/WAVE1-3/HSPC	lamellipodium assembly	-ap>
+RAC1	WAVE1-3/HSPC	component>
+RAC1	RAC1/PIR/Abl2/Nap	component>
+WAVE1-3/Nap/PIR/Abl2/HSPC	RAC1/PIR/Abl2/Nap	component>
+ARP2/3/WASP	lamellipodium assembly	-ap>
+NCK1	WAVE1-3/HSPC	component>
+NCK1	NCK/PIR/Abl2/Nap	component>
+WAVE1-3/Nap/PIR/Abl2/HSPC	WAVE1-3/HSPC	component>
+WAVE1-3/Nap/PIR/Abl2/HSPC	NCK/PIR/Abl2/Nap	component>
+CDC42	WASL	-a>
+WASL	ARP2/3/WASP	component>
+ARP2/3	ARP2/3/WASP	component>
+WAVE1-3/HSPC	ARP2/3/WAVE1-3/HSPC	component>
+ARP2/3	ARP2/3/WAVE1-3/HSPC	component>

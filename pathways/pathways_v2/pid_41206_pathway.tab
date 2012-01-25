@@ -1,0 +1,7 @@
+protein	UniProt:Q9Y4Z2 NEUROG3
+protein	NKX2-2
+protein	NEUROD1
+protein	INSM1
+UniProt:Q9Y4Z2 NEUROG3	INSM1	-t>
+UniProt:Q9Y4Z2 NEUROG3	NEUROD1	-t>
+UniProt:Q9Y4Z2 NEUROG3	NKX2-2	-t>

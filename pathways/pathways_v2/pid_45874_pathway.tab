@@ -1,0 +1,35 @@
+complex	G-alpha-s/GTP
+complex	Ligand/GPCR(+)/Arrestin
+complex	g-gamma/g-beta
+complex	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2
+complex	Ligand/GPCR/g-beta/g-gamma
+complex	Ligand/GPCR(+)/g-beta/g-gamma
+complex	G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP
+complex	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)
+protein	Ligand
+protein	RAF1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	DNM1
+protein	ARRB1
+protein	ADRBK1
+ADRBK1	Ligand/GPCR(+)/g-beta/g-gamma	-a>
+DNM1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	-a>
+ARRB1	g-gamma/g-beta	component>
+ARRB1	Ligand/GPCR(+)/Arrestin	component>
+Ligand/GPCR(+)/g-beta/g-gamma	g-gamma/g-beta	component>
+Ligand/GPCR(+)/g-beta/g-gamma	Ligand/GPCR(+)/Arrestin	component>
+Ligand/GPCR/g-beta/g-gamma	Ligand/GPCR(+)/g-beta/g-gamma	-a>
+Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2(cy)	-a>
+Ligand	G-alpha-s/GTP	component>
+Ligand	Ligand/GPCR/g-beta/g-gamma	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	G-alpha-s/GTP	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	Ligand/GPCR/g-beta/g-gamma	component>
+MAPK1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+MAPK3	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+MAP2K2	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+MAP2K1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+RAF1	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>
+Ligand/GPCR(+)/Arrestin	Ligand/GPCR(+)/Arrestin/RAF1/MEK1/MEK2/ERK1/ERK2	component>

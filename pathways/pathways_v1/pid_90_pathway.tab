@@ -1,0 +1,13 @@
+protein	AURKC
+protein	INCENP
+protein	AURKB
+protein	H3F3B
+complex	Aurora C/Aurora B/INCENP
+abstract	mitosis
+abstract	metaphase
+mitosis	H3F3B	-ap>
+metaphase	Aurora C/Aurora B/INCENP	-ap>
+AURKC	Aurora C/Aurora B/INCENP	component>
+INCENP	Aurora C/Aurora B/INCENP	component>
+AURKB	Aurora C/Aurora B/INCENP	component>
+Aurora C/Aurora B/INCENP	H3F3B	-a>

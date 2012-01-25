@@ -1,0 +1,25 @@
+smallMolecule	Na butyrate
+smallMolecule	Suberoylanilide hydroxamic acid
+complex	CBP/Mutant Huntingtin
+protein	HD
+smallMolecule	TSA
+complex	CBP/CREB/CREB
+abstract	histone deacetylation
+abstract	necrosis
+abstract	histone acetylation
+abstract	cell survival
+protein	HDAC1
+protein	CREBBP
+protein	CREB1
+Suberoylanilide hydroxamic acid	histone deacetylation	-ap|
+TSA	histone deacetylation	-ap|
+Na butyrate	histone deacetylation	-ap|
+HDAC1	histone deacetylation	-ap>
+HD	CBP/Mutant Huntingtin	component>
+CREBBP	CBP/Mutant Huntingtin	component>
+histone acetylation	cell survival	-ap>
+CBP/CREB/CREB	histone acetylation	-ap>
+CREB1	CBP/CREB/CREB	component>
+CREBBP	CBP/CREB/CREB	component>
+histone deacetylation	necrosis	-ap>
+CBP/Mutant Huntingtin	CBP/Mutant Huntingtin	-a>

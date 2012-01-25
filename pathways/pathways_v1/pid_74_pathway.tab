@@ -1,0 +1,138 @@
+protein	GAB2
+protein	SGMS1
+protein	UGCG
+protein	EIF3A
+protein	SOS1
+protein	BCL2L1
+protein	PTPN11
+protein	PRKCZ
+protein	RELA
+protein	E2F1
+protein	RAC1
+protein	GRB2
+protein	RPS6
+protein	CALM1
+protein	IL2
+protein	JAK3
+protein	FRAP1
+protein	PIK3CA
+protein	IL2RG
+protein	AKT1
+protein	SHC1
+protein	PIK3R1
+protein	JAK1
+protein	RPS6KB1
+protein	NFKB1
+protein	SMPD1
+protein	IL2RB
+protein	BCL2
+protein	MYB
+protein	HSP90AA1
+protein	LCK
+protein	IL2RA
+protein	MYC
+protein	FOXO3
+protein	TERT
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PI3K
+complex	NF kappa B1 p50/RelA
+complex	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	AKT1/mTOR/p70S6K/Hsp90/TERT
+complex	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3
+chemical	mol:sphingomyelin
+chemical	mol:glucosylceramide
+chemical	mol:cAMP
+chemical	mol:PI-3-4-5-P3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	positive regulation of cyclin-dependent protein kinase activity
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	natural killer cell activation
+abstract	cell proliferation
+abstract	actin cytoskeleton organization
+abstract	T cell proliferation
+positive regulation of cyclin-dependent protein kinase activity	E2F1	-ap>
+positive regulation of NF-kappaB transcription factor activity	MYB	-ap>
+natural killer cell activation	mol:GDP	-ap>
+natural killer cell activation	SGMS1	-ap>
+natural killer cell activation	UGCG	-ap>
+natural killer cell activation	AKT1	-ap>
+natural killer cell activation	SMPD1	-ap>
+natural killer cell activation	Rac1/GTP	-ap>
+natural killer cell activation	AKT1/mTOR/p70S6K/Hsp90/TERT	-ap>
+mol:sphingomyelin	cell proliferation	-ap>
+mol:glucosylceramide	cell proliferation	-ap>
+mol:cAMP	RPS6KB1	-a|
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	Rac1/GDP	component>
+mol:Ca2+	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+SGMS1	mol:sphingomyelin	-a>
+SGMS1	mol:DAG	-a>
+UGCG	mol:glucosylceramide	-a>
+EIF3A	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	component>
+SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PTPN11	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PRKCZ	actin cytoskeleton organization	-ap>
+PRKCZ	T cell proliferation	-ap>
+RELA	NF kappa B1 p50/RelA	component>
+E2F1	MYB	-t>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+GRB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+RPS6	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	component>
+CALM1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+IL2	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+JAK3	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+FRAP1	RPS6KB1	-a>
+FRAP1	BCL2	-t>
+FRAP1	NF kappa B1 p50/RelA	-a>
+FRAP1	CaM/Ca2+/Calcineurin A alpha-beta B1	-a>
+FRAP1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+PIK3CA	PI3K	component>
+PIK3CA	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+PIK3CA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RG	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+IL2RG	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+AKT1	FRAP1	-a>
+AKT1	MYC	-t>
+AKT1	FOXO3	-a>
+AKT1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+PIK3R1	PI3K	component>
+PIK3R1	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+PIK3R1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+JAK1	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+JAK1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+RPS6KB1	E2F1	-a>
+RPS6KB1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+RPS6KB1	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	-a>
+NFKB1	NF kappa B1 p50/RelA	component>
+SMPD1	mol:sphingomyelin	-a|
+SMPD1	mol:DAG	-a|
+IL2RB	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+IL2RB	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+HSP90AA1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+LCK	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+MYC	cell proliferation	-ap>
+TERT	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+Rac1/GTP	AKT1	-a>
+PI3K	mol:GDP	-a>
+PI3K	Rac1/GTP	-a>
+IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	BCL2L1	-t>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	mol:PI-3-4-5-P3	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	SGMS1	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	UGCG	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	PRKCZ	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	AKT1	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	SMPD1	-a>

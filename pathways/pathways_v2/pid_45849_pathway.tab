@@ -1,0 +1,25 @@
+complex	PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350
+complex	PKAc/RII-alpha
+smallMolecule	fatty acid
+complex	RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350
+complex	PKAc/RII-alpha/RII-beta
+abstract	mitosis
+protein	RHOA
+protein	PRKCE
+protein	PPP2R5D
+protein	PPP1CA
+protein	PKN1
+protein	CDC2
+protein	AKAP9
+CDC2	PKAc/RII-alpha	component>
+mitosis	PKAc/RII-alpha	component>
+AKAP9	PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	component>
+PPP2R5D	PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	component>
+PRKCE	PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	component>
+PPP1CA	PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	component>
+PKN1	PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	component>
+PKAc/RII-alpha/RII-beta	PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	component>
+PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	component>
+PKAc/RII-alpha/RII-beta/PKN/PPP1CA/PKC-epsilon/PP2A/AKAP350	PKAc/RII-alpha	component>
+fatty acid	PKN1	-a>
+RHOA	PKN1	-a>

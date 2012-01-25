@@ -1,0 +1,38 @@
+complex	Estrogen/ER alpha
+complex	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)
+complex	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)
+protein	Estrogen receptor activators
+complex	Estrogen/Estrogen/ER alpha/ER alpha
+complex	TF2A/TAFs/TBP/TF2F/TF2H/RNA Pol II/TF2E
+complex	p300/CBP
+protein	Steroid receptor activated factors
+protein	Estrogen receptor inhibitors
+smallMolecule	estrogen
+abstract	histone methylation
+abstract	histone acetylation
+protein	MEF2C
+protein	GRIP1
+protein	ESR1
+protein	CREBBP
+protein	CARM1
+CARM1	p300/CBP	-a>
+Estrogen receptor inhibitors	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	component>
+Estrogen receptor activators	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	component>
+Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	Steroid receptor activated factors	-a>
+MEF2C	Steroid receptor activated factors	-a>
+Estrogen/ER alpha	Estrogen/Estrogen/ER alpha/ER alpha	component>
+p300/CBP	p300/CBP	-a>
+p300/CBP	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	component>
+CARM1	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	component>
+GRIP1	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	component>
+Estrogen/Estrogen/ER alpha/ER alpha	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	component>
+ESR1	Estrogen/ER alpha	component>
+estrogen	Estrogen/ER alpha	component>
+Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	CREBBP	component>
+Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)	component>
+TF2A/TAFs/TBP/TF2F/TF2H/RNA Pol II/TF2E	Steroid receptor activated factors	-a>
+CREBBP	CREBBP	-a>
+Estrogen/Estrogen/ER alpha/ER alpha	Estrogen/Estrogen/ER alpha/ER alpha	-a>
+estrogen	estrogen	-a>
+Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	histone methylation	-ap>
+Estrogen/ER alpha/Estrogen/ER alpha/GRIP1/CARM1/p300(Me)/CBP(Me)	histone acetylation	-ap>

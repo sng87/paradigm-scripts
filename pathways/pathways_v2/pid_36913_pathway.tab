@@ -1,0 +1,48 @@
+abstract	regulation of mRNA stability
+abstract	G2/M transition checkpoint
+abstract	actin cytoskeleton reorganization
+abstract	chemotaxis
+complex	p38alpha-beta/MAPKAPK3
+protein	ER81
+complex	p38alpha-beta/MAPKAPK2
+complex	14-3-3 family/TSC2
+complex	YWHAZ (dimer)/RAF1
+complex	YWHAZ (dimer)
+complex	CDC25B/14-3-3 family
+complex	p38alpha-beta/MAPKAPK2/TCF3
+protein	14-3-3 family
+protein	YWHAZ
+protein	TSC2
+protein	TH
+protein	TCF3
+protein	SRF
+protein	RAF1
+protein	MAPK14
+protein	LSP1
+protein	HSPB1
+protein	CREB1
+protein	CDC25B
+p38alpha-beta/MAPKAPK2	LSP1	-a>
+p38alpha-beta/MAPKAPK3	HSPB1	-a>
+p38alpha-beta/MAPKAPK2	ER81	-a>
+HSPB1	actin cytoskeleton reorganization	-ap>
+YWHAZ	YWHAZ (dimer)	component>
+p38alpha-beta/MAPKAPK2	TSC2	-a>
+p38alpha-beta/MAPKAPK2	CREB1	-a>
+p38alpha-beta/MAPKAPK2	MAPK14	-a>
+p38alpha-beta/MAPKAPK2	TH	-a>
+TSC2	14-3-3 family/TSC2	component>
+14-3-3 family	14-3-3 family/TSC2	component>
+RAF1	YWHAZ (dimer)/RAF1	component>
+YWHAZ (dimer)	YWHAZ (dimer)/RAF1	component>
+p38alpha-beta/MAPKAPK2	regulation of mRNA stability	-ap>
+p38alpha-beta/MAPKAPK2	HSPB1	-a>
+CDC25B/14-3-3 family	G2/M transition checkpoint	-ap>
+LSP1	chemotaxis	-ap>
+p38alpha-beta/MAPKAPK2	YWHAZ	-a>
+TCF3	p38alpha-beta/MAPKAPK2/TCF3	component>
+p38alpha-beta/MAPKAPK2	p38alpha-beta/MAPKAPK2/TCF3	component>
+14-3-3 family	CDC25B/14-3-3 family	component>
+CDC25B	CDC25B/14-3-3 family	component>
+p38alpha-beta/MAPKAPK2	SRF	-a>
+p38alpha-beta/MAPKAPK2	CDC25B	-a>

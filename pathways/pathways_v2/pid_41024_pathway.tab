@@ -1,0 +1,13 @@
+complex	GINS complex
+complex	Unwinding complex at replication fork
+complex	Mcm2-7 complex
+protein	GINS4
+protein	GINS2
+protein	GINS1
+protein	CDC45L
+CDC45L	Unwinding complex at replication fork	component>
+GINS complex	Unwinding complex at replication fork	component>
+Mcm2-7 complex	Unwinding complex at replication fork	component>
+GINS1	GINS complex	component>
+GINS4	GINS complex	component>
+GINS2	GINS complex	component>

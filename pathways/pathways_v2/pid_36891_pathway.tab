@@ -1,0 +1,165 @@
+abstract	regulation of action potential
+abstract	negative regulation of muscle contraction
+abstract	muscle contraction
+abstract	acidic pH
+abstract	degradation
+complex	STX1A/SNAP25 fragment 1/VAMP2
+protein	VAMP2 fragments
+complex	STXIA/STXBP1
+protein	BoNT C1 (Light/Heavy)
+protein	VAMP2 fragment 3_0-0
+protein	VAMP2 fragment 4_0-0
+protein	BoNT C1 precursor
+protein	BoNT A Heavy Chain
+smallMolecule	3-4 diaminopyridine
+complex	RIMS1/UNC13B
+protein	BoNT G Heavy Chain
+complex	STX1A/SNAP25/VAMP2
+protein	Gangliosides (gt1B) and protein receptor (synaptotagmin I and II)
+protein	BoNT D Heavy Chain
+protein	BoNT D Light Chain
+protein	BoNT E (Light/Heavy)
+protein	BoNT B precursor
+protein	BoNT B Light Chain
+protein	VAMP2 and STX1A fragments
+protein	BoNT E Light Chain
+protein	BoNT C1 Heavy Chain
+protein	BoNT A Light Chain
+protein	BoNT B (Light/Heavy)
+complex	voltage-gated calcium channel complex
+protein	BoNT F (Light/Heavy)
+protein	BoNT F precursor
+protein	BoNT A (Light/Heavy)
+protein	BoNT E Heavy Chain
+protein	BoNT C1 Light Chain
+complex	ACh/CHRNA1
+protein	Digestive enzymes
+smallMolecule	ACh
+complex	ACh/Synaptotagmin 1
+protein	Gangliosides and protein receptor (synaptotagmin I and II)
+protein	BoNT E precursor
+protein	BoNT F Light Chain
+protein	BoNT G precursor
+protein	BoNT G Light Chain
+protein	VAMP2 fragment 5_0-0
+protein	VAMP2 fragment 1_0-0
+protein	BoNT D (Light/Heavy)
+protein	BoNT G (Light/Heavy)
+complex	RAB3GAP2/RIMS1/UNC13B
+protein	BoNT F Heavy Chain
+protein	BoNT C1 (Light /Heavy)
+protein	BoNT B Heavy Chain
+protein	BoNT A precursor
+smallMolecule	Ca2+
+protein	VAMP2 fragment 6_0-0
+protein	BoNT D precursor
+protein	Gangliosides and protein receptor (synaptotagmin I)
+protein	VAMP2 fragment 2_0-0
+protein	VAMP2
+protein	SYT1
+protein	STXBP1
+protein	STX1A
+protein	SNAP25
+protein	RAB3GAP2
+protein	CHRNA1
+Gangliosides and protein receptor (synaptotagmin I and II)	BoNT F Light Chain	-a>
+acidic pH	BoNT F Light Chain	-a>
+Digestive enzymes	BoNT F (Light/Heavy)	-a>
+BoNT F Light Chain	VAMP2 fragment 1_0-0	-a>
+Gangliosides and protein receptor (synaptotagmin I and II)	BoNT E Light Chain	-a>
+acidic pH	BoNT E Light Chain	-a>
+Digestive enzymes	BoNT D (Light/Heavy)	-a>
+BoNT D Light Chain	VAMP2 fragment 1_0-0	-a>
+Gangliosides and protein receptor (synaptotagmin I and II)	BoNT D Light Chain	-a>
+acidic pH	BoNT D Light Chain	-a>
+Digestive enzymes	BoNT E (Light/Heavy)	-a>
+BoNT B Light Chain	VAMP2 fragment 5_0-0	-a>
+Gangliosides and protein receptor (synaptotagmin I and II)	BoNT C1 Light Chain	-a>
+acidic pH	BoNT C1 Light Chain	-a>
+STX1A	voltage-gated calcium channel complex	-a|
+BoNT G Light Chain	VAMP2 fragment 3_0-0	-a>
+3-4 diaminopyridine	negative regulation of muscle contraction	-ap>
+STXIA/STXBP1	STX1A/SNAP25 fragment 1/VAMP2	component>
+VAMP2 and STX1A fragments	STX1A/SNAP25 fragment 1/VAMP2	component>
+RAB3GAP2/RIMS1/UNC13B	STX1A/SNAP25 fragment 1/VAMP2	component>
+BoNT E Light Chain	SNAP25	-a>
+Digestive enzymes	BoNT A (Light/Heavy)	-a>
+BoNT A Light Chain	SNAP25	-a>
+Gangliosides (gt1B) and protein receptor (synaptotagmin I and II)	BoNT B Light Chain	-a>
+acidic pH	BoNT B Light Chain	-a>
+Digestive enzymes	BoNT B (Light/Heavy)	-a>
+Gangliosides and protein receptor (synaptotagmin I)	BoNT A Light Chain	-a>
+acidic pH	BoNT A Light Chain	-a>
+Digestive enzymes	BoNT C1 (Light/Heavy)	-a>
+BoNT C1 Light Chain	SNAP25	-a>
+VAMP2 fragments	ACh	component>
+STX1A	ACh	component>
+SNAP25	ACh	component>
+Ca2+	ACh	component>
+STX1A/SNAP25 fragment 1/VAMP2	ACh	component>
+STX1A/SNAP25/VAMP2	ACh	component>
+Gangliosides and protein receptor (synaptotagmin I and II)	BoNT G Light Chain	-a>
+acidic pH	BoNT G Light Chain	-a>
+Digestive enzymes	BoNT G (Light/Heavy)	-a>
+BoNT F (Light/Heavy)	BoNT F Heavy Chain	-a>
+BoNT F (Light/Heavy)	BoNT F Light Chain	-a>
+BoNT F precursor	BoNT F (Light/Heavy)	-a>
+CHRNA1	ACh/CHRNA1	component>
+ACh	ACh/CHRNA1	component>
+voltage-gated calcium channel complex	Ca2+	-a>
+ACh/CHRNA1	muscle contraction	-ap>
+BoNT F Light Chain	BoNT F Light Chain	-a>
+BoNT E (Light/Heavy)	BoNT E Heavy Chain	-a>
+BoNT E (Light/Heavy)	BoNT E Light Chain	-a>
+BoNT D Light Chain	BoNT D Light Chain	-a>
+STXBP1	STXIA/STXBP1	component>
+STX1A	STXIA/STXBP1	component>
+BoNT D precursor	BoNT D (Light/Heavy)	-a>
+VAMP2	VAMP2 fragment 2_0-0	-a>
+VAMP2	VAMP2 fragment 1_0-0	-a>
+BoNT E Light Chain	BoNT E Light Chain	-a>
+BoNT D (Light/Heavy)	BoNT D Heavy Chain	-a>
+BoNT D (Light/Heavy)	BoNT D Light Chain	-a>
+BoNT E precursor	BoNT E (Light/Heavy)	-a>
+BoNT D Heavy Chain	degradation	-ap>
+VAMP2	VAMP2 fragment 6_0-0	-a>
+VAMP2	VAMP2 fragment 5_0-0	-a>
+BoNT C1 Light Chain	STX1A	-a>
+BoNT C1 Heavy Chain	degradation	-ap>
+RIMS1/UNC13B	RAB3GAP2/RIMS1/UNC13B	component>
+RAB3GAP2	RAB3GAP2/RIMS1/UNC13B	component>
+BoNT C1 (Light /Heavy)	BoNT C1 Heavy Chain	-a>
+BoNT C1 (Light /Heavy)	BoNT C1 Light Chain	-a>
+BoNT C1 Light Chain	BoNT C1 Light Chain	-a>
+regulation of action potential	voltage-gated calcium channel complex	-a>
+VAMP2	VAMP2 fragment 4_0-0	-a>
+VAMP2	VAMP2 fragment 3_0-0	-a>
+BoNT A Light Chain	negative regulation of muscle contraction	-ap>
+VAMP2	STX1A/SNAP25/VAMP2	component>
+VAMP2	STX1A/SNAP25 fragment 1/VAMP2	component>
+SNAP25	STX1A/SNAP25/VAMP2	component>
+SNAP25	STX1A/SNAP25 fragment 1/VAMP2	component>
+STX1A	STX1A/SNAP25/VAMP2	component>
+STX1A	STX1A/SNAP25 fragment 1/VAMP2	component>
+BoNT B Heavy Chain	degradation	-ap>
+BoNT E Heavy Chain	degradation	-ap>
+BoNT B Light Chain	BoNT B Light Chain	-a>
+BoNT A precursor	BoNT A (Light/Heavy)	-a>
+SYT1	ACh/Synaptotagmin 1	component>
+ACh	ACh/Synaptotagmin 1	component>
+BoNT B (Light/Heavy)	BoNT B Heavy Chain	-a>
+BoNT B (Light/Heavy)	BoNT B Light Chain	-a>
+BoNT A Heavy Chain	degradation	-ap>
+BoNT G Heavy Chain	degradation	-ap>
+BoNT B precursor	BoNT B (Light/Heavy)	-a>
+BoNT A (Light/Heavy)	BoNT A Heavy Chain	-a>
+BoNT A (Light/Heavy)	BoNT A Light Chain	-a>
+BoNT A Light Chain	BoNT A Light Chain	-a>
+BoNT G Light Chain	BoNT G Light Chain	-a>
+BoNT C1 precursor	BoNT C1 (Light/Heavy)	-a>
+SNAP25	SNAP25	-a>
+BoNT F Heavy Chain	degradation	-ap>
+ACh/Synaptotagmin 1	ACh	component>
+BoNT G (Light/Heavy)	BoNT G Heavy Chain	-a>
+BoNT G (Light/Heavy)	BoNT G Light Chain	-a>
+BoNT G precursor	BoNT G (Light/Heavy)	-a>

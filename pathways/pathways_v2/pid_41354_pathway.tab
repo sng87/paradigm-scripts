@@ -1,0 +1,20 @@
+complex	Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GDP complex
+complex	G alpha-olf:GDP complex
+complex	Gi alpha1:GDP
+complex	Gi alpha1:GDP:Adenylate cyclase:G alpha-olf:GDP complex
+complex	Gi alpha1:GTP:Adenylate cyclase complex
+complex	Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GTP complex
+complex	Adenylate cyclase (Mg2+ cofactor)
+complex	G alpha-olf:GTP complex
+smallMolecule	phosphate
+protein	GNAI1
+Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GTP complex	Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GDP complex	-a>
+G alpha-olf:GTP complex	Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GTP complex	component>
+Gi alpha1:GTP:Adenylate cyclase complex	Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GTP complex	component>
+GNAI1	Gi alpha1:GTP:Adenylate cyclase complex	component>
+Adenylate cyclase (Mg2+ cofactor)	Gi alpha1:GTP:Adenylate cyclase complex	component>
+Gi alpha1:GDP:Adenylate cyclase:G alpha-olf:GDP complex	G alpha-olf:GDP complex	component>
+Gi alpha1:GDP:Adenylate cyclase:G alpha-olf:GDP complex	Adenylate cyclase (Mg2+ cofactor)	component>
+Gi alpha1:GDP:Adenylate cyclase:G alpha-olf:GDP complex	Gi alpha1:GDP	component>
+Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GTP complex	Gi alpha1:GDP:Adenylate cyclase:G alpha-olf:GDP complex	-a>
+Gi alpha1:GTP:Adenylate cyclase:G alpha-olf:GTP complex	phosphate	-a>

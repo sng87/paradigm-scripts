@@ -1,0 +1,70 @@
+protein	HPSE
+protein	BSG
+protein	MAPK1
+protein	MAPK3
+protein	PPIB
+protein	SDC1
+protein	PRKACA
+protein	MMP9
+protein	HGF
+protein	CCL5
+protein	MMP7
+protein	MET
+protein	MMP1
+protein	TGFB1
+protein	LAMA5
+protein	RP11-540L11.1
+protein	SDCBP
+complex	TGFB1/TGF beta receptor Type II
+complex	Syndecan-1/Syntenin/PIP2
+complex	Syndecan-1/Syntenin
+complex	Syndecan-1/RANTES
+complex	Syndecan-1/Laminin-5
+complex	Syndecan-1/HGF/MET
+complex	Syndecan-1/Collagen
+complex	Syndecan-1/CD147
+complex	Syndecan-1/CASK
+complex	HGF/MET
+complex	FGFR/FGF2/Syndecan-1
+chemical	mol:PI-4-5-P2
+abstract	regulation of cell adhesion
+abstract	positive regulation of cell-cell adhesion
+abstract	positive regulation of cell migration
+abstract	keratinocyte migration
+abstract	homophilic cell adhesion
+mol:PI-4-5-P2	Syndecan-1/Syntenin/PIP2	component>
+HPSE	SDC1	-a>
+BSG	Syndecan-1/CD147	component>
+MAPK1	regulation of cell adhesion	-ap>
+MAPK3	regulation of cell adhesion	-ap>
+PPIB	Syndecan-1/CD147	-a>
+SDC1	positive regulation of cell migration	-ap>
+SDC1	Syndecan-1/Syntenin/PIP2	component>
+SDC1	Syndecan-1/Syntenin	component>
+SDC1	Syndecan-1/RANTES	component>
+SDC1	Syndecan-1/Laminin-5	component>
+SDC1	Syndecan-1/HGF/MET	component>
+SDC1	Syndecan-1/Collagen	component>
+SDC1	Syndecan-1/CD147	component>
+SDC1	Syndecan-1/CASK	component>
+SDC1	FGFR/FGF2/Syndecan-1	component>
+PRKACA	SDC1	-a>
+MMP9	SDC1	-a>
+HGF	Syndecan-1/HGF/MET	component>
+HGF	HGF/MET	component>
+CCL5	Syndecan-1/RANTES	component>
+MMP7	SDC1	-a>
+MET	Syndecan-1/HGF/MET	component>
+MET	HGF/MET	component>
+MMP1	SDC1	-a>
+TGFB1	TGFB1/TGF beta receptor Type II	component>
+LAMA5	Syndecan-1/Laminin-5	component>
+RP11-540L11.1	Syndecan-1/CASK	component>
+SDCBP	Syndecan-1/Syntenin/PIP2	component>
+SDCBP	Syndecan-1/Syntenin	component>
+TGFB1/TGF beta receptor Type II	SDC1	-a>
+Syndecan-1/Syntenin/PIP2	positive regulation of cell-cell adhesion	-ap>
+Syndecan-1/Laminin-5	keratinocyte migration	-ap>
+Syndecan-1/Collagen	homophilic cell adhesion	-ap>
+Syndecan-1/CD147	MAPK1	-a>
+Syndecan-1/CD147	MAPK3	-a>

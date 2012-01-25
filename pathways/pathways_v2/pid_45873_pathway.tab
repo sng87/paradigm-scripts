@@ -1,0 +1,34 @@
+complex	Insulin/Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb
+complex	SHC/GRB2/SOS-1
+complex	SHP-2/GRB2/SOS-1
+smallMolecule	nucleoside diphosphate
+smallMolecule	guanosine 5`-triphosphate
+complex	Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb
+smallMolecule	PIP2
+complex	PI3K
+smallMolecule	PIP3
+protein	SOS1
+protein	SLC2A14
+protein	PTPN11
+protein	IRS1
+protein	INS
+protein	HRAS
+protein	GRB2
+PI3K	PIP3	-a>
+PIP3	SLC2A14	-a>
+SOS1	SHP-2/GRB2/SOS-1	component>
+PTPN11	SHP-2/GRB2/SOS-1	component>
+GRB2	SHP-2/GRB2/SOS-1	component>
+PIP2	PIP3	-a>
+Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	Insulin/Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	component>
+INS	Insulin/Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	component>
+IRS1	GRB2	-a>
+IRS1	PTPN11	-a>
+SHP-2/GRB2/SOS-1	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+IRS1	PI3K	-a>
+Insulin/Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	IRS1	-a>
+Insulin/Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	SHC/GRB2/SOS-1	-a>

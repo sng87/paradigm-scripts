@@ -1,0 +1,41 @@
+abstract	regulation of transcription
+complex	ICAD/CAD
+protein	CASP3_0-0
+complex	SET/NME1/HMG2/Ape1/pp32
+abstract	DNA repair
+abstract	DNA fragmentation during apoptosis
+abstract	degradation
+protein	SET
+protein	PRF1
+protein	NME1
+protein	HMGB2
+protein	GZMB
+protein	GZMA
+protein	DFFB
+protein	CASP3
+protein	APEX1
+protein	ANP32A
+ANP32A	regulation of transcription	-ap>
+SET	regulation of transcription	-ap>
+GZMB	CASP3_0-0	-a>
+ANP32A	DNA repair	-ap>
+SET	DNA repair	-ap>
+CASP3_0-0	degradation	-ap>
+APEX1	regulation of transcription	-ap>
+GZMA	SET/NME1/HMG2/Ape1/pp32	-a>
+CASP3	CASP3_0-0	-a>
+NME1	DNA fragmentation during apoptosis	-ap>
+GZMA	GZMA	-a>
+GZMA	GZMB	-a>
+GZMB	GZMA	-a>
+PRF1	GZMB	-a>
+DFFB	DFFB	-a>
+APEX1	DNA repair	-ap>
+SET/NME1/HMG2/Ape1/pp32	ANP32A	component>
+SET/NME1/HMG2/Ape1/pp32	APEX1	component>
+SET/NME1/HMG2/Ape1/pp32	HMGB2	component>
+SET/NME1/HMG2/Ape1/pp32	NME1	component>
+SET/NME1/HMG2/Ape1/pp32	SET	component>
+DFFB	DNA fragmentation during apoptosis	-ap>
+DFFB	degradation	-ap>
+ICAD/CAD	degradation	-ap>

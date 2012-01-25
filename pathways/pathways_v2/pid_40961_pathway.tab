@@ -1,0 +1,17 @@
+complex	BiP:unfolded protein complex
+complex	PERK Homodimer
+protein	UniProt:Q9NZJ5 EIF2AK3
+complex	PERK:BiP Heterodimer
+smallMolecule	ATP
+smallMolecule	ADP
+protein	EIF2S1
+protein	ATF4
+PERK Homodimer	ADP	-a>
+EIF2S1	ATF4	-t>
+PERK:BiP Heterodimer	BiP:unfolded protein complex	component>
+PERK:BiP Heterodimer	UniProt:Q9NZJ5 EIF2AK3	component>
+UniProt:Q9NZJ5 EIF2AK3	PERK Homodimer	component>
+ATP	EIF2S1	-a>
+ATP	ADP	-a>
+EIF2S1	EIF2S1	-a>
+EIF2S1	ADP	-a>

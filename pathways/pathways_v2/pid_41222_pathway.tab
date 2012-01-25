@@ -1,0 +1,27 @@
+complex	SCF(Skp2):Cks1 complex
+complex	Cyclin E/A:Cdk2
+complex	Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex
+complex	Cyclin E/A:Cdk2:phospho-p27/p21
+complex	Cyclin E/A:Cdk2:phospho-p27/p21:SCF(Skp2):Cks1 complex
+complex	Cyclin E/A:Cdk2:p27/p21 complex
+complex	SCF(Skp2) complex
+protein	UniProt:P62988 RPS27A
+complex	26S Proteasome
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CKS1B
+Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex	Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex	component>
+26S Proteasome	UniProt:P62988 RPS27A	component>
+ATP	Cyclin E/A:Cdk2:phospho-p27/p21	-a>
+ATP	ADP	-a>
+Cyclin E/A:Cdk2:p27/p21 complex	Cyclin E/A:Cdk2:phospho-p27/p21	-a>
+Cyclin E/A:Cdk2:p27/p21 complex	ADP	-a>
+Cyclin E/A:Cdk2:phospho-p27/p21	Cyclin E/A:Cdk2:phospho-p27/p21:SCF(Skp2):Cks1 complex	component>
+SCF(Skp2):Cks1 complex	Cyclin E/A:Cdk2:phospho-p27/p21:SCF(Skp2):Cks1 complex	component>
+SCF(Skp2) complex	SCF(Skp2):Cks1 complex	component>
+CKS1B	SCF(Skp2):Cks1 complex	component>
+Cyclin E/A:Cdk2:phospho-p27/p21:SCF(Skp2):Cks1 complex	Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex	component>
+UniProt:P62988 RPS27A	Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex	component>
+Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex	Cyclin E/A:Cdk2	component>
+Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex	SCF(Skp2):Cks1 complex	component>
+Cyclin E/A:Cdk2:multiubiquitinated phospho-p27/p21:SCF(Skp2):Cks1 complex	UniProt:P62988 RPS27A	component>

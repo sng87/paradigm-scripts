@@ -1,0 +1,84 @@
+smallMolecule	nifedipine
+smallMolecule	SB203580
+complex	Cd/Cd binding protein
+smallMolecule	Cd
+smallMolecule	Xestospongin C
+smallMolecule	Chelerythrin
+complex	p50/RELA/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+smallMolecule	BAY 11-7082
+smallMolecule	PD98059
+complex	RELA/p50
+smallMolecule	pga1
+smallMolecule	manumycin
+protein	Cd binding protein
+smallMolecule	U73122
+smallMolecule	U0126
+smallMolecule	PIP2
+abstract	cell proliferation
+abstract	degradation
+smallMolecule	DAG
+protein	PKC
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TNF
+protein	RAF1
+protein	PLCB1
+protein	MYC
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	JUN
+protein	HRAS
+protein	FOS
+protein	CUZD1
+U73122	DAG	-a|
+PLCB1	DAG	-a>
+PKC	I-kappa-B-alpha/RELA/p50/ubiquitin	-a>
+Chelerythrin	PKC	-a|
+DAG	PKC	-a>
+manumycin	GDP	-a|
+PKC	GDP	-a>
+SB203580	cell proliferation	-ap|
+PD98059	cell proliferation	-ap|
+U0126	MAPK3	-a|
+MAP2K2	MAPK3	-a>
+Xestospongin C	Ca2+	-a|
+pga1	RELA/p50	-a|
+RELA/p50	FOS	-t>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+p50/RELA/I-kappa-B-alpha	I-kappa-B-alpha/RELA/p50/ubiquitin	-a>
+RELA/p50	CUZD1	-t>
+Cd binding protein	Cd/Cd binding protein	component>
+Cd	Cd/Cd binding protein	component>
+MAPK3	cell proliferation	-ap>
+RELA/p50	JUN	-t>
+Ca2+	PKC	-a>
+HRAS	RAF1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+MAPK1	cell proliferation	-ap>
+Cd/Cd binding protein	PLCB1	-a>
+Cd	Ca2+	-a>
+RELA/p50	TNF	-t>
+RELA/p50	MYC	-t>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+RELA/p50	cell proliferation	-ap>
+nifedipine	Cd	-a|
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+IP3	Ca2+	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+BAY 11-7082	RELA/p50	-a|

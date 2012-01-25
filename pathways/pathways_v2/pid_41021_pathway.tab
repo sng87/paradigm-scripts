@@ -1,0 +1,78 @@
+protein	Alpha actinins
+protein	UniProt:P00488 F13A1_subunit_1_731_1-731
+complex	Insulin-like growth factor
+protein	Thrombospondin
+protein	UniProt:P16109 SELP
+complex	GPIb-IX-V complex
+protein	UniProt:P12259 F5_subunit_29_2224_29-2224
+protein	TGF beta
+complex	Hepatocyte growth factor
+complex	Alpha IIb Beta 3 Integrin
+protein	UniProt:P02751 FN1_subunit_32_2386_32-2386
+protein	UniProt:P10124 SRGN_subunit_28_158_28-158
+complex	Fibrinogen
+protein	VWF
+protein	TMSB4X
+protein	TIMP1
+protein	SPARC
+protein	SERPING1
+protein	SERPINF2
+protein	SERPINE1
+protein	SERPINA1
+protein	PROS1
+protein	PPBP
+protein	PLG
+protein	PF4
+protein	PECAM1
+protein	MMRN1
+protein	KNG1
+protein	HRG
+protein	F8
+protein	EGF
+protein	CLU
+protein	CFD
+protein	CD9
+protein	CD36
+protein	APP
+protein	ALDOA
+protein	ALB
+protein	A2M
+SERPINA1	SERPINA1	-a>
+UniProt:P02751 FN1_subunit_32_2386_32-2386	UniProt:P02751 FN1_subunit_32_2386_32-2386	-a>
+UniProt:P10124 SRGN_subunit_28_158_28-158	UniProt:P10124 SRGN_subunit_28_158_28-158	-a>
+Alpha actinins	Alpha actinins	-a>
+A2M	A2M	-a>
+SERPINF2	SERPINF2	-a>
+HRG	HRG	-a>
+CLU	CLU	-a>
+SERPINE1	SERPINE1	-a>
+APP	APP	-a>
+PLG	PLG	-a>
+PROS1	PROS1	-a>
+UniProt:P00488 F13A1_subunit_1_731_1-731	UniProt:P00488 F13A1_subunit_1_731_1-731	-a>
+TIMP1	TIMP1	-a>
+Insulin-like growth factor	Insulin-like growth factor	-a>
+PF4	PF4	-a>
+PECAM1	PECAM1	-a>
+UniProt:P16109 SELP	UniProt:P16109 SELP	-a>
+GPIb-IX-V complex	GPIb-IX-V complex	-a>
+CD9	CD9	-a>
+UniProt:P12259 F5_subunit_29_2224_29-2224	UniProt:P12259 F5_subunit_29_2224_29-2224	-a>
+Fibrinogen	Fibrinogen	-a>
+SPARC	SPARC	-a>
+EGF	EGF	-a>
+Hepatocyte growth factor	Hepatocyte growth factor	-a>
+ALDOA	ALDOA	-a>
+PPBP	PPBP	-a>
+CD36	CD36	-a>
+F8	F8	-a>
+KNG1	KNG1	-a>
+MMRN1	MMRN1	-a>
+ALB	ALB	-a>
+VWF	VWF	-a>
+TMSB4X	TMSB4X	-a>
+SERPING1	SERPING1	-a>
+CFD	CFD	-a>
+TGF beta	TGF beta	-a>
+Alpha IIb Beta 3 Integrin	Alpha IIb Beta 3 Integrin	-a>
+Thrombospondin	Thrombospondin	-a>

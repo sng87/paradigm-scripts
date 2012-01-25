@@ -1,0 +1,14 @@
+complex	Vasopressin receptor type 2:AVP
+complex	Oxytocin:Oxytocin receptor
+protein	Vasopressin receptor type 1
+complex	Vasopressin receptor type 1:AVP
+protein	OXTR
+protein	OXT
+protein	AVPR2
+protein	AVP
+OXT	Oxytocin:Oxytocin receptor	component>
+OXTR	Oxytocin:Oxytocin receptor	component>
+AVP	Vasopressin receptor type 2:AVP	component>
+AVPR2	Vasopressin receptor type 2:AVP	component>
+Vasopressin receptor type 1	Vasopressin receptor type 1:AVP	component>
+AVP	Vasopressin receptor type 1:AVP	component>

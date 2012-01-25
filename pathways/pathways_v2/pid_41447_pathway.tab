@@ -1,0 +1,86 @@
+complex	IP3 receptor homotetramer
+complex	Core SNARE Complex
+smallMolecule	1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+complex	Phospholipase C Beta: G(q) Complex
+complex	Muscarinic Receptor: Heterotrimeric G(q) Complex
+complex	IP3 receptor:IP3 complex
+complex	Protein Kinase C, alpha type: Diacylglycerol Complex
+complex	G-protein alpha i/o:GTP Complex
+complex	Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GTP Complex
+complex	SNARE complex
+smallMolecule	1,2-Diacylglycerol
+smallMolecule	H2O
+protein	SNAP-25
+complex	G(q): GTP Complex (pancreatic beta cell)
+complex	Beta G protein:Gamma G protein Complex
+protein	Unc18-1
+complex	Syntaxin-1A-Unc18-1 Complex
+complex	Insulin-Zinc-Calcium Complex
+complex	Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GDP Complex
+smallMolecule	O-acetylcholine
+protein	UniProt:P63027 VAMP2
+complex	G(q):GTP: G beta: G gamma Complex (pancreatic beta cell)
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SYT5
+protein	PRKCA
+protein	MARCKS
+protein	INS
+PRKCA	ADP	-a>
+Phospholipase C Beta: G(q) Complex	1,2-Diacylglycerol	-a>
+G-protein alpha i/o:GTP Complex	INS	component>
+Core SNARE Complex	INS	component>
+Muscarinic Receptor: Heterotrimeric G(q) Complex	Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GDP Complex	-a>
+O-acetylcholine	Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GDP Complex	-a>
+IP3 receptor:IP3 complex	Ca2+	-a>
+MARCKS	MARCKS	-a>
+MARCKS	ADP	-a>
+ATP	MARCKS	-a>
+ATP	ADP	-a>
+IP3 receptor homotetramer	IP3 receptor:IP3 complex	-a>
+IP3	IP3 receptor:IP3 complex	-a>
+G(q): GTP Complex (pancreatic beta cell)	Phospholipase C Beta: G(q) Complex	-a>
+Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GDP Complex	GDP	-a>
+Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GDP Complex	Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GTP Complex	-a>
+GTP	GDP	-a>
+GTP	Acetylcholine: Muscarinic Receptor: Heterotrimeric G(q): GTP Complex	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	IP3	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	1,2-Diacylglycerol	-a>
+H2O	IP3	-a>
+H2O	1,2-Diacylglycerol	-a>
+1,2-Diacylglycerol	Protein Kinase C, alpha type: Diacylglycerol Complex	component>
+PRKCA	Protein Kinase C, alpha type: Diacylglycerol Complex	component>
+INS	SNARE complex	component>
+INS	Unc18-1	component>
+INS	Insulin-Zinc-Calcium Complex	component>
+INS	INS	component>
+SNAP-25	SNARE complex	component>
+SNAP-25	Unc18-1	component>
+SNAP-25	Insulin-Zinc-Calcium Complex	component>
+SNAP-25	INS	component>
+Syntaxin-1A-Unc18-1 Complex	SNARE complex	component>
+Syntaxin-1A-Unc18-1 Complex	Unc18-1	component>
+Syntaxin-1A-Unc18-1 Complex	Insulin-Zinc-Calcium Complex	component>
+Syntaxin-1A-Unc18-1 Complex	INS	component>
+Insulin-Zinc-Calcium Complex	SNARE complex	component>
+Insulin-Zinc-Calcium Complex	Unc18-1	component>
+Insulin-Zinc-Calcium Complex	Insulin-Zinc-Calcium Complex	component>
+Insulin-Zinc-Calcium Complex	INS	component>
+SYT5	SNARE complex	component>
+SYT5	Unc18-1	component>
+SYT5	Insulin-Zinc-Calcium Complex	component>
+SYT5	INS	component>
+Ca2+	SNARE complex	component>
+Ca2+	Unc18-1	component>
+Ca2+	Insulin-Zinc-Calcium Complex	component>
+Ca2+	INS	component>
+UniProt:P63027 VAMP2	SNARE complex	component>
+UniProt:P63027 VAMP2	Unc18-1	component>
+UniProt:P63027 VAMP2	Insulin-Zinc-Calcium Complex	component>
+UniProt:P63027 VAMP2	INS	component>
+G(q):GTP: G beta: G gamma Complex (pancreatic beta cell)	G(q): GTP Complex (pancreatic beta cell)	component>
+G(q):GTP: G beta: G gamma Complex (pancreatic beta cell)	Beta G protein:Gamma G protein Complex	component>

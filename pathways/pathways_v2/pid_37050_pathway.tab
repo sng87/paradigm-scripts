@@ -1,0 +1,145 @@
+abstract	forebrain development
+abstract	embryonic limb morphogenesis
+abstract	neural tube patterning
+abstract	embryonic digit morphogenesis
+abstract	catabolic process
+complex	Su(fu)/PIAS1
+complex	GLI2/Su(fu)
+protein	Polaris
+complex	MIM/GLI2A
+complex	Su(fu)/Galectin3
+complex	MIM/GLI1
+protein	Galectin3
+complex	GLI3/Su(fu)
+complex	SHH Np/Cholesterol
+complex	Gi family/GNB1/GNG2/GDP
+complex	Su(fu)/SIN3/HDAC complex
+complex	beta TrCP1/SCF ubiquitin ligase complex
+complex	SMO/beta Arrestin2
+protein	CK1 family
+complex	Gi family/GTP
+protein	GLI family-active
+complex	GLI3A/Cbp
+complex	GLI1/Su(fu)
+complex	GLI2/SPOP
+protein	GLI family
+protein	GLI3R
+complex	SIN3/HDAC complex
+complex	beta TrCP1/SCF
+protein	GLI2A
+complex	GNB1/GNG2
+protein	PKC delta
+complex	GLI3/SPOP
+protein	GLI3A
+protein	GLI2R
+smallMolecule	GDP
+smallMolecule	GTP
+protein	XPO1
+protein	SUFU
+protein	STK36
+protein	SPOP
+protein	SMO
+protein	RAB23
+protein	PTCH1
+protein	PRKACA
+protein	PIAS1
+protein	MTSS1
+protein	MAP2K1
+protein	KIF3A
+protein	IFT172
+protein	GSK3B
+protein	GLI3
+protein	GLI2
+protein	GLI1
+protein	FOXA2
+protein	CREBBP
+protein	AKT1
+IFT172	GLI2A	-a>
+GLI2A	forebrain development	-ap>
+beta TrCP1/SCF	GLI3R	-a>
+CK1 family	GLI2	-a>
+GLI3R	GLI1	-a|
+Su(fu)/SIN3/HDAC complex	GLI1	-a|
+PKC delta	GLI2A	-a>
+GLI3R	embryonic limb morphogenesis	-ap>
+GLI2A	embryonic limb morphogenesis	-ap>
+MAP2K1	GLI2A	-a>
+SMO/beta Arrestin2	GLI1	component>
+STK36	GLI1	component>
+SMO/beta Arrestin2	GLI family-active	-a>
+SMO	Gi family/GTP	component>
+Polaris	GLI2A	-a>
+SMO	GLI3A	-a>
+AKT1	GLI2A	-a>
+SMO	GLI3	-a|
+RAB23	GLI2A	-a|
+SMO/beta Arrestin2	GLI2A	-a>
+SMO/beta Arrestin2	GLI2A	component>
+STK36	GLI2A	component>
+beta TrCP1/SCF ubiquitin ligase complex	GLI2R	-a>
+KIF3A	GLI2A	-a>
+SHH Np/Cholesterol	PKC delta	-a>
+SUFU	GLI1/Su(fu)	component>
+GLI1	GLI1/Su(fu)	component>
+GLI1	forebrain development	-ap>
+GLI3	GLI3R	-a>
+Su(fu)/SIN3/HDAC complex	GLI3	-a>
+SPOP	GLI3/SPOP	component>
+GLI3	GLI3/SPOP	component>
+PRKACA	GLI2	-a>
+SMO/beta Arrestin2	GLI1	-a>
+GLI2A	MIM/GLI2A	component>
+MTSS1	MIM/GLI2A	component>
+GLI3A/Cbp	GLI1	-t>
+GLI1	embryonic limb morphogenesis	-ap>
+GSK3B	GLI2	-a>
+SHH Np/Cholesterol	MAP2K1	-a>
+GSK3B	GLI3	-a>
+RAB23	GLI3	-a>
+CREBBP	GLI3A/Cbp	component>
+GLI3A	GLI3A/Cbp	component>
+Polaris	embryonic digit morphogenesis	-ap>
+GLI family-active	neural tube patterning	-ap>
+GLI1/Su(fu)	SUFU	component>
+GLI1/Su(fu)	GLI1	component>
+Galectin3	Su(fu)/Galectin3	component>
+SUFU	Su(fu)/Galectin3	component>
+GLI family	GLI family-active	-a>
+GTP	GDP	component>
+GTP	GNB1/GNG2	component>
+GTP	Gi family/GTP	component>
+Gi family/GNB1/GNG2/GDP	GDP	component>
+Gi family/GNB1/GNG2/GDP	GNB1/GNG2	component>
+Gi family/GNB1/GNG2/GDP	Gi family/GTP	component>
+GLI2A	PTCH1	-t>
+MIM/GLI1	FOXA2	-t>
+KIF3A	GLI3	-a>
+XPO1	GLI1	-a>
+Gi family/GTP	GLI1	-a>
+SUFU	GLI3/Su(fu)	component>
+GLI3	GLI3/Su(fu)	component>
+GLI3	GLI3A	-a>
+GLI2/SPOP	catabolic process	-ap>
+GLI2A	GLI1	-t>
+GLI1	MIM/GLI1	component>
+MTSS1	MIM/GLI1	component>
+GLI1	GLI1	-a>
+SPOP	GLI2/SPOP	component>
+GLI2	GLI2/SPOP	component>
+PRKACA	GLI3	-a>
+PIAS1	Su(fu)/PIAS1	component>
+SUFU	Su(fu)/PIAS1	component>
+GLI2/Su(fu)	SUFU	component>
+GLI2/Su(fu)	GLI2A	component>
+Polaris	GLI3	-a>
+GLI1	PTCH1	-t>
+SIN3/HDAC complex	Su(fu)/SIN3/HDAC complex	component>
+SUFU	Su(fu)/SIN3/HDAC complex	component>
+GLI3/SPOP	catabolic process	-ap>
+MIM/GLI2A	FOXA2	-t>
+GLI2	GLI2R	-a>
+GLI2	GLI2A	-a>
+IFT172	GLI3	-a>
+GLI2A	GLI2A	-a>
+SUFU	GLI2/Su(fu)	component>
+GLI2	GLI2/Su(fu)	component>

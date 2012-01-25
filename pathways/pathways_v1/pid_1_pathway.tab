@@ -1,0 +1,60 @@
+protein	SPHK1
+protein	SPHK2
+protein	S1PR5
+protein	S1PR3
+protein	GNA13
+protein	GNA12
+protein	GNAI1
+protein	GNAQ
+protein	ABCC1
+protein	GNA15
+protein	GNA11
+protein	GNAO1
+protein	EDG1
+protein	GNAZ
+protein	GNAO1
+protein	GNAI3
+protein	GNAI2
+protein	S1PR4
+protein	GNA14
+protein	S1PR2
+complex	S1P1/S1P
+complex	S1P/S1P5/G12
+complex	S1P/S1P4/Gi
+complex	S1P/S1P3/Gq
+complex	S1P/S1P2/G12/G13
+complex	G12/G13
+chemical	mol:Sphinganine-1-P
+chemical	mol:S1P
+abstract	growth factor activity
+mol:S1P	S1P1/S1P	component>
+mol:S1P	S1P/S1P5/G12	component>
+mol:S1P	S1P/S1P4/Gi	component>
+mol:S1P	S1P/S1P3/Gq	component>
+mol:S1P	S1P/S1P2/G12/G13	component>
+growth factor activity	mol:S1P	-ap>
+SPHK1	mol:Sphinganine-1-P	-a>
+SPHK1	mol:S1P	-a>
+SPHK2	mol:Sphinganine-1-P	-a>
+SPHK2	mol:S1P	-a>
+S1PR5	S1P/S1P5/G12	component>
+S1PR3	S1P/S1P3/Gq	component>
+GNA13	S1P/S1P2/G12/G13	component>
+GNA13	G12/G13	component>
+GNA12	S1P/S1P5/G12	component>
+GNA12	S1P/S1P2/G12/G13	component>
+GNA12	G12/G13	component>
+GNAI1	S1P/S1P4/Gi	component>
+GNAQ	S1P/S1P3/Gq	component>
+ABCC1	mol:S1P	-a>
+GNA15	S1P/S1P3/Gq	component>
+GNA11	S1P/S1P3/Gq	component>
+GNAO1	S1P/S1P4/Gi	component>
+EDG1	S1P1/S1P	component>
+GNAZ	S1P/S1P4/Gi	component>
+GNAO1	S1P/S1P4/Gi	component>
+GNAI3	S1P/S1P4/Gi	component>
+GNAI2	S1P/S1P4/Gi	component>
+S1PR4	S1P/S1P4/Gi	component>
+GNA14	S1P/S1P3/Gq	component>
+S1PR2	S1P/S1P2/G12/G13	component>

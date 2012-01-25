@@ -1,0 +1,59 @@
+abstract	Sinus Bradycardia
+abstract	angiogenesis
+abstract	endothelial cell migration
+complex	G12/G13
+complex	S1P1/S1P/Gi
+complex	S1P/S1P2/Gi
+complex	S1P/S1P3/Gi
+protein	ERK1-2-active
+complex	S1P/S1P3/G12/G13
+protein	ERK1-2
+complex	RhoA/GDP
+complex	RAC1/GDP
+complex	PAK1
+smallMolecule	Ca2+
+complex	PDGFB-D/PDGFRB
+complex	VEGFR1 homodimer/VEGFA homodimer
+complex	RhoA/GTP
+complex	alphaV/beta3 Integrin
+complex	S1P/S1P3/Gq
+protein	Gq family
+smallMolecule	S1P
+protein	Gi family
+protein	SRC
+protein	S1PR3
+protein	JAK2
+protein	CXCR4
+protein	AKT3
+protein	AKT1
+S1P/S1P3/Gi	PAK1	-a>
+S1P/S1P3/Gi	RhoA/GTP	-a>
+VEGFR1 homodimer/VEGFA homodimer	AKT3	-t>
+SRC	JAK2	-a>
+PDGFB-D/PDGFRB	AKT1	-a>
+S1P/S1P3/Gi	ERK1-2-active	-a>
+S1P/S1P3/Gi	Sinus Bradycardia	-ap>
+S1P/S1P3/Gi	CXCR4	-a>
+S1P1/S1P/Gi	angiogenesis	-ap>
+S1P/S1P2/Gi	angiogenesis	-ap>
+S1P/S1P3/Gi	angiogenesis	-ap>
+Gq family	S1P/S1P3/Gq	component>
+S1P	S1P/S1P3/Gq	component>
+S1PR3	S1P/S1P3/Gq	component>
+RAC1/GDP	PAK1	-a>
+Gi family	S1P/S1P3/Gi	component>
+S1P	S1P/S1P3/Gi	component>
+S1PR3	S1P/S1P3/Gi	component>
+RhoA/GDP	RhoA/GTP	-a>
+G12/G13	S1P/S1P3/G12/G13	component>
+S1P	S1P/S1P3/G12/G13	component>
+S1PR3	S1P/S1P3/G12/G13	component>
+S1P/S1P3/Gi	AKT3	-t>
+S1P/S1P3/Gi	SRC	-a>
+S1P/S1P3/Gi	Ca2+	-a>
+CXCR4	JAK2	-a>
+RhoA/GTP	endothelial cell migration	-ap>
+PAK1	endothelial cell migration	-ap>
+alphaV/beta3 Integrin	endothelial cell migration	-ap>
+S1P/S1P3/Gi	AKT1	-a>
+ERK1-2	ERK1-2-active	-a>

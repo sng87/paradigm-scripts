@@ -1,0 +1,88 @@
+protein	CD2AP
+protein	TRPC6
+protein	NPHS2
+protein	KIRREL
+protein	TJP1
+protein	GRB2
+protein	ARRB2
+protein	PLCG1
+protein	NCK1
+protein	FYN
+protein	NPHS1
+protein	NCK2
+protein	WASL
+protein	ChemicalAbstracts:57-88-5
+complex	Nephrin/NEPH1Par3/Par6/Atypical PKCs
+complex	Nephrin/NEPH1/podocin/PLCgamma1
+complex	Nephrin/NEPH1/podocin/NCK1-2/N-WASP
+complex	Nephrin/NEPH1/podocin/NCK1-2
+complex	Nephrin/NEPH1/podocin/GRB2
+complex	Nephrin/NEPH1/podocin/Cholesterol
+complex	Nephrin/NEPH1/podocin/CD2AP
+complex	Nephrin/NEPH1/podocin
+complex	Nephrin/NEPH1/beta Arrestin2
+complex	Nephrin/NEPH1/ZO-1
+complex	Nephrin/NEPH1
+chemical	mol:IP3
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	regulation of endocytosis
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	homophilic cell adhesion
+abstract	heterophilic cell adhesion
+abstract	establishment of cell polarity
+abstract	cytoskeleton organization
+mol:IP3	mol:Ca2+	-a>
+homophilic cell adhesion	Nephrin/NEPH1	-ap>
+heterophilic cell adhesion	Nephrin/NEPH1	-ap>
+CD2AP	Nephrin/NEPH1/podocin/CD2AP	component>
+NPHS2	Nephrin/NEPH1/podocin/PLCgamma1	component>
+NPHS2	Nephrin/NEPH1/podocin/NCK1-2/N-WASP	component>
+NPHS2	Nephrin/NEPH1/podocin/NCK1-2	component>
+NPHS2	Nephrin/NEPH1/podocin/GRB2	component>
+NPHS2	Nephrin/NEPH1/podocin/Cholesterol	component>
+NPHS2	Nephrin/NEPH1/podocin/CD2AP	component>
+NPHS2	Nephrin/NEPH1/podocin	component>
+KIRREL	Nephrin/NEPH1Par3/Par6/Atypical PKCs	component>
+KIRREL	Nephrin/NEPH1/podocin/PLCgamma1	component>
+KIRREL	Nephrin/NEPH1/podocin/NCK1-2/N-WASP	component>
+KIRREL	Nephrin/NEPH1/podocin/NCK1-2	component>
+KIRREL	Nephrin/NEPH1/podocin/GRB2	component>
+KIRREL	Nephrin/NEPH1/podocin/Cholesterol	component>
+KIRREL	Nephrin/NEPH1/podocin/CD2AP	component>
+KIRREL	Nephrin/NEPH1/podocin	component>
+KIRREL	Nephrin/NEPH1/beta Arrestin2	component>
+KIRREL	Nephrin/NEPH1/ZO-1	component>
+KIRREL	Nephrin/NEPH1	component>
+TJP1	Nephrin/NEPH1/ZO-1	component>
+GRB2	Nephrin/NEPH1/podocin/GRB2	component>
+ARRB2	Nephrin/NEPH1/beta Arrestin2	component>
+PLCG1	Nephrin/NEPH1/podocin/PLCgamma1	component>
+NCK1	Nephrin/NEPH1/podocin/NCK1-2/N-WASP	component>
+NCK1	Nephrin/NEPH1/podocin/NCK1-2	component>
+FYN	Nephrin/NEPH1/podocin	-a>
+FYN	Nephrin/NEPH1/beta Arrestin2	-a|
+NPHS1	Nephrin/NEPH1Par3/Par6/Atypical PKCs	component>
+NPHS1	Nephrin/NEPH1/podocin/PLCgamma1	component>
+NPHS1	Nephrin/NEPH1/podocin/NCK1-2/N-WASP	component>
+NPHS1	Nephrin/NEPH1/podocin/NCK1-2	component>
+NPHS1	Nephrin/NEPH1/podocin/GRB2	component>
+NPHS1	Nephrin/NEPH1/podocin/Cholesterol	component>
+NPHS1	Nephrin/NEPH1/podocin/CD2AP	component>
+NPHS1	Nephrin/NEPH1/podocin	component>
+NPHS1	Nephrin/NEPH1/beta Arrestin2	component>
+NPHS1	Nephrin/NEPH1/ZO-1	component>
+NPHS1	Nephrin/NEPH1	component>
+NCK2	Nephrin/NEPH1/podocin/NCK1-2/N-WASP	component>
+NCK2	Nephrin/NEPH1/podocin/NCK1-2	component>
+WASL	Nephrin/NEPH1/podocin/NCK1-2/N-WASP	component>
+Nephrin/NEPH1Par3/Par6/Atypical PKCs	positive regulation of NF-kappaB transcription factor activity	-ap|
+Nephrin/NEPH1Par3/Par6/Atypical PKCs	establishment of cell polarity	-ap>
+Nephrin/NEPH1/podocin/PLCgamma1	mol:IP3	-a>
+Nephrin/NEPH1/podocin/PLCgamma1	mol:DAG	-a>
+Nephrin/NEPH1/podocin/NCK1-2/N-WASP	cytoskeleton organization	-ap>
+Nephrin/NEPH1/podocin/GRB2	cytoskeleton organization	-ap>
+Nephrin/NEPH1/podocin/Cholesterol	TRPC6	-a>
+Nephrin/NEPH1/podocin	FYN	-a>
+Nephrin/NEPH1/beta Arrestin2	regulation of endocytosis	-ap>
+ChemicalAbstracts:57-88-5	Nephrin/NEPH1/podocin/Cholesterol	component>

@@ -1,0 +1,31 @@
+abstract	T-helper 1 type immune response
+complex	ERM/c-JUN
+complex	IL-12/IL-12R/TYK2/JAK2
+protein	IL-12
+complex	IL-12R/TYK2/JAK2
+protein	STAT4
+protein	MAPK8
+protein	MAPK14
+protein	MAP2K6
+protein	JUN
+protein	IL18R1
+protein	IFNG
+protein	ETV5
+protein	CCR5
+IL18R1	IL18R1	-a>
+ERM/c-JUN	IFNG	-t>
+JUN	JUN	-a>
+STAT4	STAT4	-a>
+ERM/c-JUN	CCR5	-t>
+MAP2K6	MAPK14	-a>
+IL-12	IL-12/IL-12R/TYK2/JAK2	component>
+IL-12R/TYK2/JAK2	IL-12/IL-12R/TYK2/JAK2	component>
+MAPK8	JUN	-a>
+MAPK14	STAT4	-a>
+ERM/c-JUN	IL18R1	-t>
+ETV5	ETV5	-a>
+ETV5	ERM/c-JUN	component>
+JUN	ERM/c-JUN	component>
+STAT4	ETV5	-t>
+IL-12/IL-12R/TYK2/JAK2	STAT4	-a>
+IL18R1	T-helper 1 type immune response	-ap>

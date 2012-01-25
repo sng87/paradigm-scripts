@@ -1,0 +1,97 @@
+complex	GH/GH R
+complex	SHC/GRB2/SOS-1
+protein	CASP7_0-0
+protein	CASP3_0-0
+protein	CASP6_0-0
+complex	p50/RELA/I-kappa-B-alpha
+complex	ErbB1/ERBB2
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+protein	TFFs
+complex	TFFs/ErbB1/ERBB2
+complex	RELA/p50
+smallMolecule	PIP2
+abstract	cell-cell adhesion
+abstract	protein ubiquitination
+abstract	degradation
+abstract	apoptosis
+complex	APAF-1/Caspase 9
+protein	IKKs
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RPS6KA1
+protein	RHOA
+protein	RAF1
+protein	PDPK1
+protein	MUC2
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	GHR
+protein	GH1
+protein	CYCS
+protein	CTNNB1
+protein	CASP7
+protein	CASP6
+protein	CASP3
+protein	BAD
+protein	AKT1
+APAF-1/Caspase 9	CASP7_0-0	-a>
+IKKs	protein ubiquitination	-ap>
+MAPK1	RHOA	-a>
+MAP2K2	MAPK3	-a>
+PI3K	PIP3	-a>
+APAF-1/Caspase 9	CASP3_0-0	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+MAPK1	RPS6KA1	-a>
+TFFs	GH/GH R	component>
+APAF-1/Caspase 9	CASP6_0-0	-a>
+CASP7	CASP7_0-0	-a>
+TFFs	cell-cell adhesion	-ap|
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+MAPK3	RHOA	-a>
+MAP2K1	MAPK3	-a>
+TFFs	TFFs/ErbB1/ERBB2	component>
+ErbB1/ERBB2	TFFs/ErbB1/ERBB2	component>
+AKT1	BAD	-a>
+PIP2	PIP3	-a>
+CASP3_0-0	apoptosis	-ap>
+TFFs	TFFs	-a>
+CASP3	CASP3_0-0	-a>
+MAPK3	MAPK3	-a>
+RELA/p50	MUC2	-t>
+HRAS	RAF1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+GH/GH R	PI3K	-a>
+CYCS	APAF-1/Caspase 9	-a>
+BAD	CYCS	-a>
+RPS6KA1	IKKs	-a>
+RELA/p50	TFFs	-t>
+TFFs/ErbB1/ERBB2	SHC/GRB2/SOS-1	-a>
+MAPK3	RPS6KA1	-a>
+PDPK1	AKT1	-a>
+CASP6_0-0	apoptosis	-ap>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+TFFs/ErbB1/ERBB2	CTNNB1	-a>
+GHR	GH/GH R	component>
+GH1	GH/GH R	component>
+CASP7_0-0	apoptosis	-ap>
+RELA/p50	RELA/p50	-a>
+PIP3	PDPK1	-a>
+CASP6	CASP6_0-0	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+RHOA	MAPK3	-a>

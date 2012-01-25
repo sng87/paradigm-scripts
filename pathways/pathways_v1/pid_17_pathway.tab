@@ -1,0 +1,175 @@
+protein	WWOX
+protein	MAP3K7IP2
+protein	WWP1
+protein	HBEGF
+protein	LRIG1
+protein	ITCH
+protein	NRG4
+protein	ERBB4
+protein	ERBB4
+protein	ERBB4
+protein	GRIN2B
+protein	NRG1
+protein	MDM2
+protein	ADAM17
+protein	DLG4
+protein	GRB2
+protein	NRG3
+protein	STAT5B
+protein	YAP1
+protein	NEDD4
+protein	STAT5A
+protein	STAT1
+protein	BTC
+protein	SHC1
+protein	MAPK1
+protein	MAPK3
+protein	PTPRZ1
+protein	PRLR
+protein	FYN
+protein	ERBB2
+protein	PRL
+protein	EGFR
+protein	NCOR1
+protein	CBFA2T3
+protein	JAK2
+protein	EREG
+protein	NRG2
+complex	WWOX/E4ICDs
+complex	STAT5B (dimer)
+complex	STAT5A (dimer)
+complex	STAT1 (dimer)
+complex	Prolactin receptor/Prolactin receptor/Prolactin
+complex	GRB2/SHC
+complex	ErbB4/ErbB4/neuregulin 3/neuregulin 3
+complex	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta
+complex	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC
+complex	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn
+complex	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta
+complex	ErbB4/ErbB4/betacellulin/betacellulin
+complex	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2
+complex	ErbB4/ErbB4/HBEGF/HBEGF
+complex	ErbB4/ErbB4
+complex	ErbB4/ErbB2/neuregulin 4
+complex	ErbB4/ErbB2/neuregulin 1 beta
+complex	ErbB4/ErbB2/epiregulin
+complex	ErbB4/ErbB2/betacellulin
+complex	ErbB4/ErbB2/HBEGF
+complex	ErbB4/EGFR/neuregulin 4
+complex	ErbB4/EGFR/neuregulin 1 beta
+complex	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta
+complex	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta
+complex	E4ICDs/TAB2/NCoR1
+complex	E4ICDs/ETO2
+abstract	neuron projection morphogenesis
+abstract	neural crest cell migration
+abstract	heart development
+abstract	glial cell differentiation
+abstract	epithelial cell differentiation
+abstract	cell proliferation
+abstract	axon guidance
+abstract	apoptosis
+WWOX/E4ICDs	YAP1	-a|
+WWOX	WWOX/E4ICDs	component>
+MAP3K7IP2	E4ICDs/TAB2/NCoR1	component>
+WWP1	ERBB4	-a>
+WWP1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	-a>
+HBEGF	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+HBEGF	ErbB4/ErbB4/HBEGF/HBEGF	component>
+HBEGF	ErbB4/ErbB2/HBEGF	component>
+LRIG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	-a>
+ITCH	ERBB4	-a>
+ITCH	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	-a>
+ITCH	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	-a>
+NRG4	ErbB4/ErbB2/neuregulin 4	component>
+NRG4	ErbB4/EGFR/neuregulin 4	component>
+ERBB4	MDM2	-a>
+ERBB4	STAT5A (dimer)	-a>
+ERBB4	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	component>
+ERBB4	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	component>
+ERBB4	WWOX/E4ICDs	component>
+ERBB4	WWP1	-t>
+ERBB4	YAP1	-a>
+ERBB4	STAT5A (dimer)	-a>
+ERBB4	ErbB4/ErbB4/neuregulin 3/neuregulin 3	component>
+ERBB4	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta	component>
+ERBB4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+ERBB4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	component>
+ERBB4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	component>
+ERBB4	ErbB4/ErbB4/betacellulin/betacellulin	component>
+ERBB4	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+ERBB4	ErbB4/ErbB4/HBEGF/HBEGF	component>
+ERBB4	ErbB4/ErbB4	component>
+ERBB4	ErbB4/ErbB2/neuregulin 4	component>
+ERBB4	ErbB4/ErbB2/neuregulin 1 beta	component>
+ERBB4	ErbB4/ErbB2/epiregulin	component>
+ERBB4	ErbB4/ErbB2/betacellulin	component>
+ERBB4	ErbB4/ErbB2/HBEGF	component>
+ERBB4	ErbB4/EGFR/neuregulin 4	component>
+ERBB4	ErbB4/EGFR/neuregulin 1 beta	component>
+ERBB4	E4ICDs/TAB2/NCoR1	component>
+ERBB4	E4ICDs/ETO2	component>
+NRG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+NRG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	component>
+NRG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	component>
+NRG1	ErbB4/ErbB2/neuregulin 1 beta	component>
+NRG1	ErbB4/EGFR/neuregulin 1 beta	component>
+NRG1	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	component>
+NRG1	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	component>
+ADAM17	ERBB4	-a>
+ADAM17	ERBB4	-a>
+ADAM17	NRG1	-a>
+ADAM17	ERBB2	-a>
+DLG4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	-a>
+GRB2	GRB2/SHC	component>
+GRB2	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+NRG3	ErbB4/ErbB4/neuregulin 3/neuregulin 3	component>
+STAT5B	STAT5B (dimer)	component>
+NEDD4	ERBB4	-a>
+STAT5A	STAT5A (dimer)	component>
+STAT1	STAT1 (dimer)	component>
+BTC	ErbB4/ErbB4/betacellulin/betacellulin	component>
+BTC	ErbB4/ErbB2/betacellulin	component>
+SHC1	GRB2/SHC	component>
+SHC1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	component>
+MAPK1	neuron projection morphogenesis	-ap>
+MAPK3	neuron projection morphogenesis	-ap>
+PTPRZ1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	-a|
+PRLR	Prolactin receptor/Prolactin receptor/Prolactin	component>
+PRLR	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+FYN	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	component>
+ERBB2	ErbB4/ErbB2/neuregulin 4	component>
+ERBB2	ErbB4/ErbB2/neuregulin 1 beta	component>
+ERBB2	ErbB4/ErbB2/epiregulin	component>
+ERBB2	ErbB4/ErbB2/betacellulin	component>
+ERBB2	ErbB4/ErbB2/HBEGF	component>
+PRL	Prolactin receptor/Prolactin receptor/Prolactin	component>
+PRL	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+EGFR	ErbB4/EGFR/neuregulin 4	component>
+EGFR	ErbB4/EGFR/neuregulin 1 beta	component>
+NCOR1	E4ICDs/TAB2/NCoR1	component>
+CBFA2T3	E4ICDs/ETO2	component>
+JAK2	ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	component>
+EREG	ErbB4/ErbB2/epiregulin	component>
+NRG2	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta	component>
+STAT5A (dimer)	epithelial cell differentiation	-ap>
+ErbB4/ErbB4/neuregulin 3/neuregulin 3	apoptosis	-ap|
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	MAPK1	-a>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/GRB2/SHC	MAPK3	-a>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta/Fyn	GRIN2B	-a>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	heart development	-ap>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	cell proliferation	-ap>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	axon guidance	-ap>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	STAT5A	-a>
+ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	STAT5B (dimer)	-a>
+ErbB4/ErbB4/betacellulin/betacellulin	cell proliferation	-ap>
+ErbB4/ErbB4/HBEGF/HBEGF/Prolactin receptor/Prolactin receptor/Prolactin/JAK2	STAT5A (dimer)	-a>
+ErbB4/ErbB4	STAT1 (dimer)	-a>
+ErbB4/ErbB2/neuregulin 4	cell proliferation	-ap>
+ErbB4/ErbB2/neuregulin 1 beta	neural crest cell migration	-ap>
+ErbB4/ErbB2/neuregulin 1 beta	cell proliferation	-ap>
+ErbB4/ErbB2/epiregulin	apoptosis	-ap|
+ErbB4/ErbB2/betacellulin	cell proliferation	-ap>
+ErbB4/ErbB2/HBEGF	cell proliferation	-ap>
+ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	cell proliferation	-ap>
+E4ICDs/TAB2/NCoR1	glial cell differentiation	-ap|

@@ -1,0 +1,51 @@
+complex	G-alpha-s/GTP
+complex	Ligand/GPCR/g-beta/g-gamma
+complex	NOS III/Caveolin-1
+complex	G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP
+complex	CaM/Ca ++
+protein	CNG/HCN channel
+protein	SOC/RACC channel
+protein	SGC
+complex	bradykinin/Bradykinin receptor B2
+protein	PKG
+protein	CaM
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	Ligand
+smallMolecule	L-arginine
+smallMolecule	L-citrulline
+smallMolecule	cGMP
+smallMolecule	NO
+smallMolecule	Ca2+
+smallMolecule	GTP
+protein	NOS3
+protein	HSPCA
+protein	AKT1
+protein	ADCY1
+NOS3	L-citrulline	-a>
+SGC	cGMP	-a>
+AKT1	NOS3	component>
+CaM/Ca ++	NOS3	component>
+PKG	Ca2+	-a|
+CNG/HCN channel	Ca2+	-a|
+bradykinin/Bradykinin receptor B2	NOS3	-a|
+HSPCA	NOS3	-a>
+ADCY1	cAMP	-a>
+L-arginine	L-citrulline	-a>
+GTP	cGMP	-a>
+NOS3	NO	-t>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+cGMP	CNG/HCN channel	-a>
+cAMP	CNG/HCN channel	-a>
+NOS III/Caveolin-1	NOS3	component>
+NO	SGC	-a>
+G-alpha-s/GTP	ADCY1	-a>
+SOC/RACC channel	Ca2+	-a>
+CaM/Ca ++	NOS3	-a>
+ATP	cAMP	-a>
+cGMP	PKG	-a>
+Ligand	G-alpha-s/GTP	component>
+Ligand	Ligand/GPCR/g-beta/g-gamma	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	G-alpha-s/GTP	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	Ligand/GPCR/g-beta/g-gamma	component>

@@ -1,0 +1,40 @@
+complex	beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C
+complex	Cofactor D:GTP:beta tubulin
+complex	alpha-beta heterodimer
+complex	beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E
+complex	tubulin-GTP folding intermediate
+complex	GTP:beta-tubulin folding intermediate
+complex	Cofactor E:GTP-alpha tubulin folding
+complex	Cofactor B:GTP-alpha tubulin
+complex	cofactor A:GTP:beta-tubulin folding intermediate
+smallMolecule	phosphate
+protein	TBCE
+protein	TBCD
+protein	TBCC
+protein	TBCB
+protein	TBCA
+TBCA	cofactor A:GTP:beta-tubulin folding intermediate	component>
+GTP:beta-tubulin folding intermediate	cofactor A:GTP:beta-tubulin folding intermediate	component>
+tubulin-GTP folding intermediate	Cofactor E:GTP-alpha tubulin folding	component>
+TBCE	Cofactor E:GTP-alpha tubulin folding	component>
+Cofactor B:GTP-alpha tubulin	Cofactor E:GTP-alpha tubulin folding	-a>
+Cofactor B:GTP-alpha tubulin	TBCB	-a>
+TBCE	Cofactor E:GTP-alpha tubulin folding	-a>
+TBCE	TBCB	-a>
+Cofactor D:GTP:beta tubulin	beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E	component>
+Cofactor E:GTP-alpha tubulin folding	beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E	component>
+beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	TBCE	component>
+beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	alpha-beta heterodimer	component>
+beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	phosphate	component>
+beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	TBCD	component>
+beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	TBCC	component>
+TBCB	Cofactor B:GTP-alpha tubulin	component>
+tubulin-GTP folding intermediate	Cofactor B:GTP-alpha tubulin	component>
+TBCC	beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	component>
+beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E	beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	component>
+TBCD	Cofactor D:GTP:beta tubulin	component>
+GTP:beta-tubulin folding intermediate	Cofactor D:GTP:beta tubulin	component>
+cofactor A:GTP:beta-tubulin folding intermediate	TBCA	-a>
+cofactor A:GTP:beta-tubulin folding intermediate	Cofactor D:GTP:beta tubulin	-a>
+TBCD	TBCA	-a>
+TBCD	Cofactor D:GTP:beta tubulin	-a>

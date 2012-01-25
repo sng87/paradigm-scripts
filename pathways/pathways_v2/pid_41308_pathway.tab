@@ -1,0 +1,8 @@
+protein	GLUT7/11
+smallMolecule	Urate
+smallMolecule	D-fructose
+protein	SLC2A9
+protein	SLC2A5
+SLC2A9	Urate	-a>
+SLC2A5	D-fructose	-a>
+GLUT7/11	D-fructose	-a>

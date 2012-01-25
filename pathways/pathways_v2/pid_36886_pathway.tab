@@ -1,0 +1,143 @@
+abstract	response to oxidative stress
+abstract	JNK cascade
+abstract	MAPKKK cascade
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	sTNF-alpha/TNFR1A/MADD
+complex	Caspase 8 (tetramer)
+complex	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/cIAP1/cIAP2
+complex	RelA/NF kappa B1
+complex	sTNF-alpha
+complex	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2
+complex	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2
+complex	IKK complex
+complex	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2/cIAP1/cIAP2
+complex	sTNF-alpha/TNFR1A/TRADD/STAT1 (dimer)
+complex	TNF-alpha
+complex	sTNF-alpha/TNFR1A/TRADD/TRAF2
+complex	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family
+complex	TNFR2
+complex	TRAF1/TRAF2
+complex	sTNF-alpha/TNFR1A
+complex	TRX/ASK1
+complex	sTNF-alpha/TNFR1A/TRADD/TRAF2/FADD
+protein	ASM
+smallMolecule	sphingomyelin
+complex	sTNF-alpha/TNFR1A/TRADD
+smallMolecule	ceramide
+complex	TAK1/TAB family
+protein	MEKK1
+complex	TNF-alpha/TNFR2 (cleaved)
+complex	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family/MEKK3
+complex	TNFR1A/BAG4
+protein	Group I GCKs
+complex	TNFR2 (cleaved)
+protein	Atypical PKCs
+complex	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/p62/Atypical PKCs
+complex	NF kappa B1 p50/RelA
+complex	sTNF-alpha/TNFR1A/FAN/NSMASE
+protein	FAN
+complex	sTNF-alpha/TNFR1A/FAN/NSMASE/RACK1
+protein	TXN
+protein	TRAF2
+protein	TRADD
+protein	TNFAIP3
+protein	STAT1
+protein	SQSTM1
+protein	SMPD2
+protein	RIPK1
+protein	RFFL
+protein	MAP3K5
+protein	MAP3K3
+protein	MAP2K7
+protein	MAP2K3
+protein	MADD
+protein	GNB2L1
+protein	FADD
+protein	CYLD
+protein	CAV1
+protein	CASP8
+protein	BIRC3
+protein	BIRC2
+protein	BAG4
+protein	ADAM17
+TNFAIP3	sTNF-alpha/TNFR1A/TRADD/TRAF2	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/p62/Atypical PKCs	NF kappa B1 p50/RelA	-a>
+CYLD	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	component>
+sTNF-alpha/TNFR1A/TRADD/STAT1 (dimer)	sTNF-alpha/TNFR1A/TRADD/TRAF2/FADD	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/cIAP1/cIAP2	Caspase 8 (tetramer)	component>
+sTNF-alpha/TNFR1A/TRADD/TRAF2/FADD	Caspase 8 (tetramer)	component>
+ADAM17	TNFR2 (cleaved)	-a>
+RFFL	sTNF-alpha/TNFR1A/TRADD/TRAF2	component>
+ADAM17	sTNF-alpha	-a>
+sTNF-alpha/TNFR1A/TRADD/TRAF2	TXN	component>
+response to oxidative stress	TXN	component>
+ASM	ceramide	-a>
+TRADD	sTNF-alpha/TNFR1A/TRADD	component>
+sTNF-alpha/TNFR1A	sTNF-alpha/TNFR1A/TRADD	component>
+GNB2L1	sTNF-alpha/TNFR1A/FAN/NSMASE/RACK1	component>
+sTNF-alpha/TNFR1A/FAN/NSMASE	sTNF-alpha/TNFR1A/FAN/NSMASE/RACK1	component>
+TNFR2 (cleaved)	TNF-alpha/TNFR2 (cleaved)	component>
+TNF-alpha	TNF-alpha/TNFR2 (cleaved)	component>
+sTNF-alpha/TNFR1A/TRADD/TRAF2	Group I GCKs	-a>
+RelA/NF kappa B1	NF kappa B1 p50/RelA	-a>
+TRAF2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+STAT1	sTNF-alpha/TNFR1A/TRADD/STAT1 (dimer)	component>
+STAT1	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	component>
+TRAF2	sTNF-alpha/TNFR1A/TRADD/STAT1 (dimer)	component>
+TRAF2	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	component>
+RIPK1	sTNF-alpha/TNFR1A/TRADD/STAT1 (dimer)	component>
+RIPK1	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	component>
+sTNF-alpha/TNFR1A/TRADD	sTNF-alpha/TNFR1A/TRADD/STAT1 (dimer)	component>
+sTNF-alpha/TNFR1A/TRADD	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	component>
+FADD	sTNF-alpha/TNFR1A/TRADD/TRAF2/FADD	component>
+sTNF-alpha/TNFR1A/TRADD/TRAF2	sTNF-alpha/TNFR1A/TRADD/TRAF2/FADD	component>
+TNFR1A/BAG4	BAG4	component>
+TNFR1A/BAG4	sTNF-alpha/TNFR1A	component>
+sTNF-alpha	BAG4	component>
+sTNF-alpha	sTNF-alpha/TNFR1A	component>
+Group I GCKs	MEKK1	-a>
+Atypical PKCs	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/p62/Atypical PKCs	component>
+SQSTM1	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/p62/Atypical PKCs	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/p62/Atypical PKCs	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	MAP2K3	-a>
+MAP2K7	JNK cascade	-ap>
+TRAF1/TRAF2	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2	component>
+TNF-alpha/TNFR2 (cleaved)	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2	component>
+CASP8	Caspase 8 (tetramer)	component>
+TNFR2	TNFR2 (cleaved)	-a>
+TAK1/TAB family	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family	component>
+MEKK1	MAP2K7	-a>
+sTNF-alpha/TNFR1A/MADD	MAPKKK cascade	-ap>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family/MEKK3	IKK complex	-a>
+BIRC3	TRAF2	component>
+BIRC3	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2/cIAP1/cIAP2	component>
+BIRC3	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/cIAP1/cIAP2	component>
+BIRC2	TRAF2	component>
+BIRC2	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2/cIAP1/cIAP2	component>
+BIRC2	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/cIAP1/cIAP2	component>
+TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2	TRAF2	component>
+TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2/cIAP1/cIAP2	component>
+TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/cIAP1/cIAP2	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	TRAF2	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	TNF-alpha/TNFR2 (cleaved)/TRAF1/TRAF2/cIAP1/cIAP2	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/cIAP1/cIAP2	component>
+SMPD2	sTNF-alpha/TNFR1A/FAN/NSMASE	component>
+FAN	sTNF-alpha/TNFR1A/FAN/NSMASE	component>
+sTNF-alpha/TNFR1A	sTNF-alpha/TNFR1A/FAN/NSMASE	component>
+sTNF-alpha/TNFR1A/TRADD/TRAF2/FADD	ASM	-a>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	RIPK1	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	sTNF-alpha/TNFR1A/TRADD/TRAF2	component>
+CAV1	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2	-a>
+MAP3K5	MAP2K3	-a>
+MAP3K5	MAP2K7	-a>
+sTNF-alpha/TNFR1A/MADD	JNK cascade	-ap>
+TNF-alpha	sTNF-alpha	-a>
+RIPK1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MAP3K3	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family/MEKK3	component>
+sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family	sTNF-alpha/TNFR1A/TRADD/RIP/TRAF2/TAK1/TAB family/MEKK3	component>
+MADD	sTNF-alpha/TNFR1A/MADD	component>
+sTNF-alpha/TNFR1A	sTNF-alpha/TNFR1A/MADD	component>
+TRX/ASK1	MAP3K5	component>
+TRX/ASK1	TXN	component>
+sphingomyelin	ceramide	-a>

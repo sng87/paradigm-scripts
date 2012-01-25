@@ -1,0 +1,13 @@
+protein	MAM
+protein	NICD
+protein	CSL
+complex	CSL NICD coactivator complex
+protein	SNW1
+protein	KAT2B
+protein	CREBBP
+MAM	CSL NICD coactivator complex	component>
+KAT2B	CSL NICD coactivator complex	component>
+NICD	CSL NICD coactivator complex	component>
+CSL	CSL NICD coactivator complex	component>
+CREBBP	CSL NICD coactivator complex	component>
+SNW1	CSL NICD coactivator complex	component>

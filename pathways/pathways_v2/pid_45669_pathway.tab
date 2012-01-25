@@ -1,0 +1,57 @@
+abstract	cell-matrix adhesion
+abstract	actin filament stabilization
+complex	Rho-Kinase Dia/Profilin
+complex	PIP2/Gelsolin
+complex	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin
+complex	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp
+smallMolecule	PIP2
+abstract	actin filament polymerization
+smallMolecule	DAG
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	PIP3
+protein	SRC
+protein	ROCK1
+protein	RHOA
+protein	PLCG1
+protein	PFN1
+protein	MYLK
+protein	MLC1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K1
+protein	GSN
+protein	DIAPH1
+protein	ARHGAP5
+PI3K	PIP3	-a>
+PLCG1	DAG	-a>
+Rho-Kinase Dia/Profilin	actin filament polymerization	-ap>
+PIP2/Gelsolin	actin filament polymerization	-ap>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	cell-matrix adhesion	-ap>
+DIAPH1	Rho-Kinase Dia/Profilin	component>
+PFN1	Rho-Kinase Dia/Profilin	component>
+PIP2	PIP3	-a>
+MAP2K1	MAPK3	-a>
+PI3K	MAP2K1	-a>
+SRC	ARHGAP5	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+ARHGAP5	RHOA	-a>
+ROCK1	MLC1	-a>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	PI3K	-a>
+MAPK1	actin filament stabilization	-ap>
+GSN	PIP2/Gelsolin	component>
+PIP2	PIP2/Gelsolin	component>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	SRC	-a>
+MAP2K1	MAPK1	-a>
+MLC1	cell-matrix adhesion	-ap>
+IP3	Ca2+	-a>
+MYLK	MLC1	-a>
+RHOA	ROCK1	-a>
+MAPK3	MYLK	-a>
+MAPK1	MYLK	-a>
+RHOA	DIAPH1	-a>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	actin filament polymerization	-ap>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	actin filament polymerization	-ap>
+MAPK3	actin filament stabilization	-ap>

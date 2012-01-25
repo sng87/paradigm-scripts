@@ -1,0 +1,112 @@
+abstract	response to starvation
+abstract	chromatin remodeling
+protein	FOXA2-3
+protein	SUR1
+protein	PREF1
+protein	FOXA1-2
+protein	KIR6.2
+protein	CEBP
+protein	CPT1
+protein	SP1/3
+complex	HNF1
+complex	HNF1A (dimer)
+protein	UCP2
+protein	TTR
+protein	TFRC
+protein	TAT
+protein	SP1
+protein	SLC2A2
+protein	PKLR
+protein	PDX1
+protein	PCK1
+protein	NR3C1
+protein	NKX2-1
+protein	NF1
+protein	LPL
+protein	INS
+protein	IGFBP1
+protein	HNF4A
+protein	HMGCS1
+protein	HADH
+protein	GCK
+protein	G6PC
+protein	FOXF1
+protein	FOXA3
+protein	FOXA2
+protein	FOXA1
+protein	F2
+protein	CREB1
+protein	BDH1
+protein	APOA1
+protein	ALDOB
+protein	ALB
+protein	ALAS1
+protein	AKT1
+protein	AFP
+protein	ACADVL
+protein	ACADM
+FOXA2	HNF4A	-t>
+HNF1A (dimer)	SLC2A2	-t>
+CEBP	G6PC	-t>
+CREB1	G6PC	-t>
+HNF1A (dimer)	G6PC	-t>
+SP1/3	F2	-t>
+HNF4A	F2	-t>
+FOXA2	ACADVL	-t>
+FOXA2	GCK	-t>
+FOXA2	HMGCS1	-t>
+FOXA1-2	ALB	-t>
+FOXA2	ACADM	-t>
+CEBP	TTR	-t>
+HNF4A	TTR	-t>
+FOXA2	PKLR	-t>
+NR3C1	TAT	-t>
+FOXA2-3	TAT	-t>
+HNF4A	APOA1	-t>
+FOXA1	NKX2-1	-t|
+INS	ALAS1	-t|
+NF1	ALAS1	-t>
+FOXA1-2	AFP	-t>
+FOXA2	UCP2	-t>
+FOXA2	BDH1	-t>
+FOXA2	CPT1	-t>
+FOXF1	NKX2-1	-t|
+INS	IGFBP1	-t|
+NR3C1	IGFBP1	-t>
+FOXA2	IGFBP1	-t>
+SP1	PDX1	-t>
+HNF1A (dimer)	PDX1	-t>
+HNF1	ALDOB	-t>
+CREB1	PCK1	-t>
+FOXA2-3	PCK1	-t>
+response to starvation	HNF4A	-t>
+FOXA2	SLC2A2	-t>
+FOXA2	KIR6.2	-t>
+FOXA3	G6PC	-t>
+FOXA2	F2	-t>
+response to starvation	ACADVL	-t>
+response to starvation	GCK	-t>
+response to starvation	HMGCS1	-t>
+chromatin remodeling	ALB	-t>
+response to starvation	ACADM	-t>
+FOXA1-2	TTR	-t>
+FOXA2	HADH	-t>
+response to starvation	PKLR	-t>
+response to starvation	TAT	-t>
+FOXA2	APOA1	-t>
+FOXA2	FOXA2	-a>
+FOXA2	ALAS1	-t>
+chromatin remodeling	AFP	-t>
+response to starvation	UCP2	-t>
+response to starvation	BDH1	-t>
+FOXA2	SUR1	-t>
+response to starvation	CPT1	-t>
+FOXA2	NKX2-1	-t>
+response to starvation	IGFBP1	-t>
+FOXA2	PDX1	-t>
+FOXA2	LPL	-t>
+FOXA2	ALDOB	-t>
+response to starvation	PCK1	-t>
+FOXA2	PREF1	-t>
+FOXA2-3	TFRC	-t>
+AKT1	FOXA2	-a>

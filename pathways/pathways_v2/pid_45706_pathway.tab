@@ -1,0 +1,19 @@
+abstract	cholesterol biosynthetic process
+protein	SREBP
+smallMolecule	sterols
+abstract	lipid biosynthetic process
+protein	SCAP
+protein	MBTPS2
+protein	MBTPS1
+protein	LDLR
+protein	HMGCS1
+sterols	MBTPS1	-a|
+HMGCS1	lipid biosynthetic process	-ap>
+SCAP	MBTPS1	-a>
+SREBP	HMGCS1	-t>
+SREBP	cholesterol biosynthetic process	-ap>
+SREBP	LDLR	-t>
+LDLR	lipid biosynthetic process	-ap>
+MBTPS1	SREBP	-a>
+MBTPS2	SREBP	-a>
+SREBP	SREBP	-a>

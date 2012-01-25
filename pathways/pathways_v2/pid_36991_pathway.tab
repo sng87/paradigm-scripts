@@ -1,0 +1,68 @@
+abstract	response to stress
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	Fbw7-alpha/USP28
+complex	MYC/Max/p14ARF
+complex	MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53
+complex	TRRAP/GCN5
+complex	MYC/Max/P-TEFb
+complex	TIP49A/TIP49B
+complex	MYC/Max/PML4
+complex	TRRAP/TIP60
+complex	MYC/Max/MIZ-1
+complex	core mediator complex
+complex	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator
+protein	PML4
+complex	Axin1/GSK3beta/PIN1/PP2A-B56alpha
+complex	MYC/Max/HBP1
+complex	MYC/Max/DNA replication preinitiation complex
+protein	p14ARF
+complex	positive transcription elongation factor complex b
+complex	DNA replication preinitiation complex
+complex	MYC/Max
+protein	SPT3
+protein	ZBTB17
+protein	TAF9
+protein	TAF12
+protein	TAF10
+protein	SUPT7L
+protein	SKP2
+protein	PAK2
+protein	MYC
+protein	MAX
+protein	HBP1
+protein	FBXW7
+protein	ACTL6A
+Axin1/GSK3beta/PIN1/PP2A-B56alpha	MYC/Max	-a>
+FBXW7	MYC/Max	-a>
+PAK2	MYC	component>
+response to stress	MYC	component>
+SKP2	MYC/Max	-a>
+Fbw7-alpha/USP28	MYC/Max	-a>
+positive transcription elongation factor complex b	MYC/Max/P-TEFb	component>
+MYC/Max	MYC/Max/P-TEFb	component>
+DNA replication preinitiation complex	MYC/Max/DNA replication preinitiation complex	component>
+MYC/Max	MYC/Max/DNA replication preinitiation complex	component>
+ZBTB17	MYC/Max/MIZ-1	component>
+MYC/Max	MYC/Max/MIZ-1	component>
+ACTL6A	MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	component>
+TIP49A/TIP49B	MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	component>
+TRRAP/TIP60	MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	component>
+MYC/Max	MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	component>
+p14ARF	MYC/Max/p14ARF	component>
+MYC/Max	MYC/Max/p14ARF	component>
+PML4	MYC/Max/PML4	component>
+MYC/Max	MYC/Max/PML4	component>
+MYC/Max	MAX	component>
+MYC/Max	MYC	component>
+HBP1	MYC/Max/HBP1	component>
+MYC/Max	MYC/Max/HBP1	component>
+core mediator complex	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+TAF12	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+TAF10	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+TAF9	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+SPT3	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+SUPT7L	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+TRRAP/GCN5	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+MYC/Max	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	component>
+MYC/Max	MYC/Max	-a>
+MYC/Max	proteasomal ubiquitin-dependent protein catabolic process	-ap>

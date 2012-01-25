@@ -1,0 +1,40 @@
+complex	CaMKI/CaM/Ca ++
+complex	14-3-3/HDAC5
+complex	CaM/Ca ++
+complex	MEF2/MYOD
+complex	HDAC5/MEF2
+protein	CaM
+protein	MEF2
+smallMolecule	PIP2
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	PIP3
+protein	YWHAH
+protein	PDPK1
+protein	MYOD1
+protein	MAPK14
+protein	HDAC5
+protein	CABIN1
+protein	AVP
+protein	AKT1
+CaMKI/CaM/Ca ++	HDAC5	component>
+PI3K	PIP3	-a>
+CABIN1	MEF2/MYOD	component>
+AKT1	MEF2/MYOD	-a>
+HDAC5/MEF2	MEF2	component>
+HDAC5/MEF2	HDAC5	component>
+MEF2	HDAC5/MEF2	component>
+HDAC5	HDAC5/MEF2	component>
+PIP2	PIP3	-a>
+YWHAH	14-3-3/HDAC5	component>
+HDAC5	14-3-3/HDAC5	component>
+HDAC5	HDAC5	-a>
+MAPK14	MEF2/MYOD	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+MYOD1	MEF2/MYOD	component>
+MEF2	MEF2/MYOD	component>
+PDPK1	AKT1	-a>
+CaM/Ca ++	CABIN1	-a>
+AVP	Ca2+	-a>
+PIP3	PDPK1	-a>

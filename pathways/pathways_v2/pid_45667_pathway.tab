@@ -1,0 +1,19 @@
+complex	CAF1
+abstract	G1/S transition of mitotic cell cycle
+protein	TP53
+protein	RB1
+protein	HRMT1L2
+protein	HOXB9
+protein	CCND1
+protein	BTG2
+protein	BTG1
+RB1	G1/S transition of mitotic cell cycle	-ap>
+BTG1	HRMT1L2	-a>
+TP53	BTG2	-t>
+CAF1	G1/S transition of mitotic cell cycle	-ap>
+BTG2	CCND1	-a>
+BTG2	CAF1	-a>
+BTG2	HOXB9	-a>
+CCND1	RB1	-a>
+BTG2	HRMT1L2	-a>
+BTG1	CAF1	-a>

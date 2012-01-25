@@ -1,0 +1,9 @@
+smallMolecule	Glycine
+smallMolecule	H+
+protein	SLC36A2
+protein	SLC36A1
+SLC36A2	Glycine	-a>
+H+	H+	-a>
+H+	Glycine	-a>
+Glycine	H+	-a>
+SLC36A1	Glycine	-a>

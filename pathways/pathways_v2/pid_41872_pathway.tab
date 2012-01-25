@@ -1,0 +1,35 @@
+complex	Sar1p:GTP:Sec23p:Sec24p:Sec13p:Sec31p Complex
+complex	Sec23p:Sec24p Complex
+complex	Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex
+complex	Sar1p:GTP Complex
+complex	Sar1p:GDP Complex
+protein	Sec24
+complex	Sar1p:GTP:Sec23p:Sec24p
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SEC31A
+protein	SEC23A
+protein	SEC13
+protein	SAR1B
+protein	PREB
+PREB	GDP	-a>
+Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex	SAR1B	component>
+Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex	Sec24	component>
+Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex	SEC13	component>
+Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex	SEC23A	component>
+Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex	phosphate	component>
+Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex	SEC31A	component>
+Sar1p:GTP:Sec23p:Sec24p:Sec13p:Sec31p Complex	Sar1p:Sec23p:Sec24p:Sec13p:Sec31p Complex	-a>
+SEC31A	Sar1p:GTP:Sec23p:Sec24p:Sec13p:Sec31p Complex	component>
+Sar1p:GTP:Sec23p:Sec24p	Sar1p:GTP:Sec23p:Sec24p:Sec13p:Sec31p Complex	component>
+SEC13	Sar1p:GTP:Sec23p:Sec24p:Sec13p:Sec31p Complex	component>
+Sar1p:GTP:Sec23p:Sec24p	phosphate	component>
+Sar1p:GTP:Sec23p:Sec24p	Sec23p:Sec24p Complex	component>
+Sar1p:GTP:Sec23p:Sec24p	Sar1p:GDP Complex	component>
+Sar1p:GDP Complex	Sar1p:GTP Complex	-a>
+Sar1p:GDP Complex	GDP	-a>
+GTP	Sar1p:GTP Complex	-a>
+GTP	GDP	-a>
+Sar1p:GTP Complex	Sar1p:GTP:Sec23p:Sec24p	component>
+Sec23p:Sec24p Complex	Sar1p:GTP:Sec23p:Sec24p	component>

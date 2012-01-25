@@ -1,0 +1,32 @@
+protein	UniProt:P24557 TBXAS1_subunit_1_533_1-533
+smallMolecule	TPNH
+smallMolecule	H2O
+smallMolecule	Thromboxane A2
+smallMolecule	TPN
+smallMolecule	electron
+smallMolecule	Leukotriene B4
+smallMolecule	Prostaglandin H2
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	PGI2
+protein	PTGIS
+protein	CYP4F3
+protein	CYP4F2
+CYP4F2	TPN	-a>
+PTGIS	PGI2	-a>
+CYP4F3	TPN	-a>
+UniProt:P24557 TBXAS1_subunit_1_533_1-533	Thromboxane A2	-a>
+Prostaglandin H2	PGI2	-a>
+electron	PGI2	-a>
+Leukotriene B4	H2O	-a>
+Leukotriene B4	TPN	-a>
+Prostaglandin H2	H2O	-a>
+Prostaglandin H2	TPN	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+electron	Thromboxane A2	-a>
+Prostaglandin H2	Thromboxane A2	-a>

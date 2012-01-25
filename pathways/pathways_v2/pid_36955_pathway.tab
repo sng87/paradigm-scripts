@@ -1,0 +1,89 @@
+abstract	chromatin modification
+abstract	absorption of UV light
+abstract	histone modification
+abstract	S phase of mitotic cell cycle
+abstract	degradation
+abstract	DNA damage
+complex	PER1-2 / CRY1-2
+complex	PER1-2 / WDR5
+smallMolecule	FREE Fe
+smallMolecule	CO
+smallMolecule	BILIVERDIN
+smallMolecule	NADPH
+protein	HEME OXIDASE
+complex	TIMELESS/CHEK1/ATR
+complex	PER1/TIMELESS
+smallMolecule	HEME
+protein	CRY1-2
+complex	PER1-2 / CRY1-2 / CK1 epsilon
+complex	TIMELESS/CRY2
+complex	BMAL/CLOCK/NPAS2
+complex	DEC1/BMAL1
+protein	PER1-2
+complex	PER1-2 /NONO
+complex	BMAL1/CLOCK
+protein	WDR5
+protein	TIMELESS
+protein	PER1
+protein	NR1D1
+protein	NPAS2
+protein	NONO
+protein	CSNK1E
+protein	CRY2
+protein	CHEK1
+protein	BHLHE40
+protein	ATR
+protein	ARNTL
+CO	NR1D1	-t|
+BMAL/CLOCK/NPAS2	NR1D1	-t>
+NADPH	NR1D1	-t>
+HEME OXIDASE	BILIVERDIN	-a>
+TIMELESS/CHEK1/ATR	S phase of mitotic cell cycle	-ap>
+NR1D1	BMAL1/CLOCK	-a>
+PER1/TIMELESS	BMAL1/CLOCK	-a>
+PER1-2 / CRY1-2	BMAL1/CLOCK	-a>
+CO	PER1-2	-t|
+BMAL/CLOCK/NPAS2	PER1-2	-t>
+NADPH	PER1-2	-t>
+DNA damage	TIMELESS/CHEK1/ATR	component>
+CO	CRY1-2	-t|
+BMAL/CLOCK/NPAS2	CRY1-2	-t>
+NADPH	CRY1-2	-t>
+CO	TIMELESS	-t|
+BMAL/CLOCK/NPAS2	TIMELESS	-t>
+NADPH	TIMELESS	-t>
+PER1-2	degradation	-ap>
+HEME	NR1D1	-t>
+ARNTL	DEC1/BMAL1	component>
+BHLHE40	DEC1/BMAL1	component>
+PER1-2 / CRY1-2	BMAL1/CLOCK	-t>
+TIMELESS/CHEK1/ATR	chromatin modification	-ap>
+CRY1-2	PER1-2 / CRY1-2	component>
+PER1-2	PER1-2 / CRY1-2	component>
+NONO	PER1-2 /NONO	component>
+PER1-2	PER1-2 /NONO	component>
+HEME	CO	-a>
+HEME	FREE Fe	-a>
+HEME	BILIVERDIN	-a>
+absorption of UV light	S phase of mitotic cell cycle	-ap>
+DEC1/BMAL1	BMAL1/CLOCK	-a>
+CSNK1E	PER1-2 / CRY1-2 / CK1 epsilon	component>
+PER1-2 / CRY1-2	PER1-2 / CRY1-2 / CK1 epsilon	component>
+PER1-2 / CRY1-2 / CK1 epsilon	PER1-2 / CRY1-2 / CK1 epsilon	-a>
+PER1-2 / WDR5	histone modification	-ap>
+HEME	PER1-2	-t>
+ATR	TIMELESS/CHEK1/ATR	component>
+CHEK1	TIMELESS/CHEK1/ATR	component>
+TIMELESS	TIMELESS/CHEK1/ATR	component>
+PER1-2 / CRY1-2	PER1-2 / CRY1-2	-a>
+WDR5	PER1-2 / WDR5	component>
+PER1-2	PER1-2 / WDR5	component>
+HEME	CRY1-2	-t>
+NPAS2	BMAL/CLOCK/NPAS2	component>
+BMAL1/CLOCK	BMAL/CLOCK/NPAS2	component>
+CRY2	TIMELESS/CRY2	component>
+TIMELESS	TIMELESS/CRY2	component>
+CSNK1E	PER1-2	-a>
+TIMELESS	PER1/TIMELESS	component>
+PER1	PER1/TIMELESS	component>
+HEME	TIMELESS	-t>

@@ -1,0 +1,9 @@
+complex	60S ribosomal complex
+complex	phospho-L13a associated wth the  3' UTR GAIT element of ceruloplasmin mRNA within  the translation initiation complex
+complex	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP
+complex	60s ribosomal complex lacking L13a subunit
+protein	RPL13A
+60S ribosomal complex	RPL13A	component>
+60S ribosomal complex	60s ribosomal complex lacking L13a subunit	component>
+RPL13A	phospho-L13a associated wth the  3' UTR GAIT element of ceruloplasmin mRNA within  the translation initiation complex	component>
+43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	phospho-L13a associated wth the  3' UTR GAIT element of ceruloplasmin mRNA within  the translation initiation complex	component>

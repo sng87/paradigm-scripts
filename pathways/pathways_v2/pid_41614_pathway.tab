@@ -1,0 +1,20 @@
+smallMolecule	2-Oxoglutarate
+smallMolecule	Methanal
+smallMolecule	Succinate
+smallMolecule	Ethanal
+smallMolecule	CO2
+smallMolecule	Fe++
+smallMolecule	O2
+protein	ALKBH3
+ALKBH3	Methanal	-a>
+Fe++	Methanal	-a>
+Fe++	CO2	-a>
+ALKBH3	CO2	-a>
+O2	Ethanal	-a>
+2-Oxoglutarate	Ethanal	-a>
+2-Oxoglutarate	Methanal	-a>
+2-Oxoglutarate	Succinate	-a>
+2-Oxoglutarate	CO2	-a>
+O2	Methanal	-a>
+O2	Succinate	-a>
+O2	CO2	-a>

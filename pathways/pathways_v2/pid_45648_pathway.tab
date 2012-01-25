@@ -1,0 +1,49 @@
+protein	PPAR kinases
+complex	PPAR-alpha/PPAR ligands/RXR
+protein	PPAR phosphatases
+protein	PPRE-Regulated proteins
+protein	GF R
+complex	GF/GF R
+protein	Co-Repressors
+complex	PPAR-alpha/Co-Repressors
+complex	PPAR-alpha/PPAR chaperone
+protein	GF
+complex	PPAR-alpha/PPAR ligands
+smallMolecule	PPAR ligands
+complex	PPAR-alpha/PPAR ligands/RXR/Co-Activators
+protein	Nuclear receptors
+complex	PPAR-alpha/Nuclear receptors
+protein	Co-Activators
+protein	PPAR chaperone
+protein	Non-PPRE-Regulated proteins
+protein	Transcription factors
+complex	PPAR-alpha/Transcription factors
+protein	RXRA
+protein	PPARA
+PPAR-alpha/Transcription factors	PPRE-Regulated proteins	-t|
+PPAR-alpha/Transcription factors	Non-PPRE-Regulated proteins	-t|
+PPAR phosphatases	PPAR-alpha/PPAR ligands	component>
+PPAR kinases	PPAR-alpha/PPAR ligands	component>
+PPAR-alpha/PPAR ligands/RXR/Co-Activators	PPRE-Regulated proteins	-t>
+Nuclear receptors	PPAR-alpha/Nuclear receptors	component>
+PPARA	PPAR-alpha/Nuclear receptors	component>
+GF R	GF/GF R	component>
+GF	GF/GF R	component>
+PPAR-alpha/Co-Repressors	Co-Repressors	component>
+PPAR-alpha/Co-Repressors	PPAR-alpha/PPAR ligands	component>
+PPAR ligands	Co-Repressors	component>
+RXRA	PPAR-alpha/PPAR ligands/RXR	component>
+PPAR-alpha/PPAR ligands	PPAR-alpha/PPAR ligands/RXR	component>
+PPAR-alpha/Nuclear receptors	Non-PPRE-Regulated proteins	-t>
+PPARA	PPAR-alpha/PPAR ligands	component>
+Transcription factors	PPAR-alpha/Transcription factors	component>
+PPARA	PPAR-alpha/Transcription factors	component>
+PPAR-alpha/PPAR ligands	PPAR-alpha/PPAR ligands	-a>
+PPAR-alpha/PPAR chaperone	PPAR chaperone	component>
+PPAR-alpha/PPAR chaperone	PPAR-alpha/PPAR ligands	component>
+PPAR ligands	PPAR chaperone	component>
+PPAR ligands	PPAR-alpha/PPAR ligands	component>
+Co-Activators	PPAR-alpha/PPAR ligands/RXR/Co-Activators	component>
+PPAR-alpha/PPAR ligands/RXR	PPAR-alpha/PPAR ligands/RXR/Co-Activators	component>
+GF/GF R	PPAR kinases	-a>
+GF/GF R	PPAR phosphatases	-a>

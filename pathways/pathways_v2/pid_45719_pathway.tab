@@ -1,0 +1,70 @@
+abstract	cytolysis
+complex	C4b/C2a/C3b/C5b
+complex	C4b/C2a/C3b/C5b/C6
+complex	C1 complex
+complex	C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9
+complex	C1q
+complex	C4b/C2a/C3b
+complex	C1r/C1r/C1s/C1s
+protein	C5a_0-0
+protein	C2a_0-0
+complex	C4b/C2a
+protein	C4b_0-0
+protein	C3a_0-0
+complex	Complement activator/C1 complex
+complex	C5b/C6/C7/C8
+protein	C3b_0-0
+protein	C2b_0-0
+protein	C4a_0-0
+protein	C5b_0-0
+complex	C5b/C6/C7
+smallMolecule	Complement activator
+complex	C4
+complex	C8
+smallMolecule	Mg2+
+smallMolecule	Ca2+
+protein	C9
+protein	C7
+protein	C6
+protein	C5
+protein	C3
+protein	C2
+protein	C1S
+protein	C1R
+Ca2+	C1r/C1r/C1s/C1s	component>
+Complement activator/C1 complex	C4a_0-0	component>
+Mg2+	C2a_0-0	-a>
+C4a_0-0	C2a_0-0	-a>
+C2b_0-0	C3a_0-0	-a>
+C3a_0-0	C5a_0-0	-a>
+C1S	C1r/C1r/C1s/C1s	component>
+C1R	C1r/C1r/C1s/C1s	component>
+C4	C4b_0-0	component>
+C4	C4a_0-0	component>
+C3b_0-0	C4b/C2a/C3b	component>
+C4b/C2a	C4b/C2a/C3b	component>
+C2	C2b_0-0	-a>
+C2	C2a_0-0	-a>
+C3	C3b_0-0	-a>
+C3	C3a_0-0	-a>
+C1 complex	Complement activator/C1 complex	-a>
+Complement activator	Complement activator/C1 complex	-a>
+C6	C4b/C2a/C3b/C5b/C6	component>
+C4b/C2a/C3b/C5b	C4b/C2a/C3b/C5b/C6	component>
+C8	C5b/C6/C7/C8	component>
+C5b/C6/C7	C5b/C6/C7/C8	component>
+C1q	C1 complex	component>
+C1r/C1r/C1s/C1s	C1 complex	component>
+C4b_0-0	C4b/C2a	component>
+C2a_0-0	C4b/C2a	component>
+C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9	cytolysis	-ap>
+C5b_0-0	C4b/C2a/C3b/C5b	component>
+C4b/C2a/C3b	C4b/C2a/C3b/C5b	component>
+C7	C4b/C2a/C3b	component>
+C7	C5b/C6/C7	component>
+C4b/C2a/C3b/C5b/C6	C4b/C2a/C3b	component>
+C4b/C2a/C3b/C5b/C6	C5b/C6/C7	component>
+C9	C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9	component>
+C5b/C6/C7/C8	C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9	component>
+C5	C5b_0-0	-a>
+C5	C5a_0-0	-a>

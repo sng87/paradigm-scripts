@@ -1,0 +1,100 @@
+abstract	translational elongation
+complex	GH/GH R
+complex	RPS6(+)/eIF3/40s Ribosome subunit
+complex	RPS6/eIF3/40s Ribosome subunit
+complex	FKBP12/Rapamycin
+complex	40s Ribosome subunit/60s Ribosome Subunit/RNA strand
+complex	EIF-4E/EIF-4G/EIF-4A
+complex	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit
+complex	GH R/IRS-1
+complex	EIF-4E/EIF4EBP
+protein	60s Ribosome Subunit
+smallMolecule	CCI-779
+protein	EIF3S10
+rna	RNA strand
+complex	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand
+smallMolecule	PIP2
+complex	TSC1/TSC2
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RPS6KB1
+protein	RPS6
+protein	RHEB
+protein	PTEN
+protein	PPP2R5D
+protein	PDPK1
+protein	PDK2
+protein	MKNK1
+protein	IRS1
+protein	GH1
+protein	FRAP1
+protein	EIF4G1
+protein	EIF4EBP1
+protein	EIF4E
+protein	EIF4B
+protein	EIF4A1
+protein	AKT1
+PTEN	PIP2	-a>
+PI3K	PIP3	-a>
+PPP2R5D	EIF-4E/EIF-4G/EIF-4A	component>
+PDK2	AKT1	-a>
+FRAP1	EIF4E	component>
+RPS6KB1	RPS6(+)/eIF3/40s Ribosome subunit	-a>
+MKNK1	EIF-4E/EIF-4G/EIF-4A	component>
+PIP3	PIP2	-a>
+RPS6KB1	EIF4B	-a>
+GTP	GDP	-a>
+GTP	RHEB	-a>
+RHEB	GDP	-a>
+TSC1/TSC2	RHEB	-a>
+EIF4E	EIF-4E/EIF4EBP	component>
+EIF4EBP1	EIF-4E/EIF4EBP	component>
+40s Ribosome subunit/60s Ribosome Subunit/RNA strand	translational elongation	-ap>
+PIP2	PIP3	-a>
+CCI-779	FRAP1	-a>
+AKT1	FRAP1	-a>
+RHEB	FRAP1	-a>
+PPP2R5D	EIF4EBP1	-a>
+PDK2	PDK2	-a>
+PDK2	PDPK1	-a>
+PDPK1	PDK2	-a>
+PIP3	PDPK1	-a>
+AKT1	RPS6KB1	-a>
+FRAP1	RPS6KB1	-a>
+GH1	IRS1	-a>
+GH1	GH/GH R	-a>
+GH R/IRS-1	IRS1	-a>
+GH R/IRS-1	GH/GH R	-a>
+FKBP12/Rapamycin	FRAP1	-a>
+PDPK1	AKT1	-a>
+PPP2R5D	RPS6KB1	-a>
+EIF-4E/EIF4EBP	EIF4EBP1	component>
+EIF-4E/EIF4EBP	EIF4E	component>
+RPS6/eIF3/40s Ribosome subunit	RPS6(+)/eIF3/40s Ribosome subunit	-a>
+RPS6(+)/eIF3/40s Ribosome subunit	RPS6	component>
+RPS6(+)/eIF3/40s Ribosome subunit	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	RPS6	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	component>
+IRS1	PI3K	-a>
+RNA strand	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+EIF4B	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+EIF-4E/EIF-4G/EIF-4A	EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand	component>
+FRAP1	PPP2R5D	-a>
+AKT1	TSC1/TSC2	-a>
+EIF4A1	EIF-4E/EIF-4G/EIF-4A	component>
+EIF4G1	EIF-4E/EIF-4G/EIF-4A	component>
+EIF4E	EIF-4E/EIF-4G/EIF-4A	component>
+60s Ribosome Subunit	EIF4B	component>
+60s Ribosome Subunit	EIF4A1	component>
+60s Ribosome Subunit	EIF3S10	component>
+60s Ribosome Subunit	EIF4G1	component>
+60s Ribosome Subunit	EIF4E	component>
+60s Ribosome Subunit	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	EIF4B	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	EIF4A1	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	EIF3S10	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	EIF4G1	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	EIF4E	component>
+EIF-4E/EIF-4G/EIF-4A/eIF-4B/RNA strand/eIF3/40s Ribosome subunit	40s Ribosome subunit/60s Ribosome Subunit/RNA strand	component>

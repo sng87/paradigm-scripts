@@ -1,0 +1,18 @@
+complex	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4
+complex	phospho tyrosine ZAP-70
+complex	ZAP-70 bound to phosphorylated ITAM motifs
+complex	Activated ZAP-70
+complex	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394
+smallMolecule	ATP
+smallMolecule	ADP
+protein	ZAP70
+Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	phospho tyrosine ZAP-70	-a>
+Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	ZAP-70 bound to phosphorylated ITAM motifs	component>
+ZAP70	ZAP-70 bound to phosphorylated ITAM motifs	component>
+ATP	Activated ZAP-70	-a>
+phospho tyrosine ZAP-70	ADP	-a>
+phospho tyrosine ZAP-70	Activated ZAP-70	-a>
+ATP	ADP	-a>
+ATP	phospho tyrosine ZAP-70	-a>
+ZAP-70 bound to phosphorylated ITAM motifs	ADP	-a>
+ZAP-70 bound to phosphorylated ITAM motifs	phospho tyrosine ZAP-70	-a>

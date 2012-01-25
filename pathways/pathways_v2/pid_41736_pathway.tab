@@ -1,0 +1,19 @@
+complex	Glycerol-3-phosphate dehydrogenase homodimer
+smallMolecule	Glycerone phosphate
+smallMolecule	DPN
+smallMolecule	Glycerol
+smallMolecule	sn-Gro-1-P
+smallMolecule	NADH
+smallMolecule	ATP
+smallMolecule	ADP
+protein	GK
+GK	ADP	-a>
+Glycerol-3-phosphate dehydrogenase homodimer	DPN	-a>
+ATP	sn-Gro-1-P	-a>
+ATP	ADP	-a>
+Glycerol	sn-Gro-1-P	-a>
+Glycerol	ADP	-a>
+NADH	sn-Gro-1-P	-a>
+NADH	DPN	-a>
+Glycerone phosphate	sn-Gro-1-P	-a>
+Glycerone phosphate	DPN	-a>

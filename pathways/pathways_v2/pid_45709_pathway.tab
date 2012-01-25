@@ -1,0 +1,33 @@
+complex	IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1/HSP70
+complex	TIP1/VELI1/TAX/TRX
+complex	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/JAK2
+complex	p50/RELA/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1
+complex	TID1/HSP70
+abstract	protein ubiquitination
+abstract	apoptosis
+protein	IKKs
+protein	WT1
+protein	TP53
+protein	RB1
+protein	IFNG
+protein	HSPA1A
+protein	DNAJA3
+DNAJA3	protein ubiquitination	-ap|
+IKKs	protein ubiquitination	-ap>
+TIP1/VELI1/TAX/TRX	apoptosis	-ap|
+IFNG	HSPA1A	-a>
+IFNG	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1	-a>
+IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1/HSP70	HSPA1A	-a>
+IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1/HSP70	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1	-a>
+DNAJA3	RB1	-a>
+DNAJA3	TP53	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1	DNAJA3	component>
+IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/JAK2/TID1	IFN-gamma/IFN-gamma R-alpha/IFN-gamma R-beta/JAK2	component>
+TID1/HSP70	HSPA1A	component>
+TID1/HSP70	DNAJA3	component>
+DNAJA3	WT1	-a>
+TID1/HSP70	apoptosis	-ap>

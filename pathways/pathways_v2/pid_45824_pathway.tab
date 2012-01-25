@@ -1,0 +1,76 @@
+complex	Paxillin/FAK/Talin/Actin/Integrin-alpha/Integrin-beta/ECM
+complex	SHC/GRB2/SOS-1
+protein	Paxillin (cleaved)_0-0
+complex	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM
+complex	PKA
+complex	Calpain1
+complex	Calpain2
+complex	EGF/EGF-R
+protein	Talin (cleaved)_0-0
+protein	FAK (cleaved)_0-0
+complex	Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM
+protein	VIL2
+complex	Integrin-alpha/Integrin-beta/ECM
+abstract	cell migration
+abstract	degradation
+smallMolecule	Ca2+
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RAC1
+protein	MYLK
+protein	MLC1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	EGFR
+protein	EGF
+protein	CAST
+protein	ACTA1
+MAP2K2	MAPK3	-a>
+PKA	Integrin-alpha/Integrin-beta/ECM	component>
+Calpain2	Integrin-alpha/Integrin-beta/ECM	component>
+VIL2	Integrin-alpha/Integrin-beta/ECM	component>
+SHC/GRB2/SOS-1	GDP	-a>
+MYLK	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	-a>
+CAST	Integrin-alpha/Integrin-beta/ECM	component>
+Calpain1	Integrin-alpha/Integrin-beta/ECM	component>
+MAPK1	Calpain2	-a>
+MAPK1	MYLK	-a>
+Ca2+	Calpain1	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	FAK (cleaved)_0-0	component>
+Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	Talin (cleaved)_0-0	component>
+Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	Paxillin (cleaved)_0-0	component>
+Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	MLC1	component>
+Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	Integrin-alpha/Integrin-beta/ECM	component>
+EGF/EGF-R	SHC/GRB2/SOS-1	-a>
+FAK (cleaved)_0-0	degradation	-ap>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	cell migration	-ap>
+Ca2+	Ca2+	-a>
+HRAS	RAC1	-a>
+Paxillin/FAK/Talin/MLC/Integrin-alpha/Integrin-beta/ECM	Paxillin/FAK/Talin/MLC(+)/Integrin-alpha/Integrin-beta/ECM	-a>
+Paxillin/FAK/Talin/Actin/Integrin-alpha/Integrin-beta/ECM	FAK (cleaved)_0-0	component>
+Paxillin/FAK/Talin/Actin/Integrin-alpha/Integrin-beta/ECM	Talin (cleaved)_0-0	component>
+Paxillin/FAK/Talin/Actin/Integrin-alpha/Integrin-beta/ECM	Paxillin (cleaved)_0-0	component>
+Paxillin/FAK/Talin/Actin/Integrin-alpha/Integrin-beta/ECM	ACTA1	component>
+Paxillin/FAK/Talin/Actin/Integrin-alpha/Integrin-beta/ECM	Integrin-alpha/Integrin-beta/ECM	component>
+EGFR	EGF/EGF-R	component>
+EGF	EGF/EGF-R	component>
+Talin (cleaved)_0-0	degradation	-ap>
+MAPK3	Calpain2	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAC1	MAP2K1	-a>
+Calpain1	VIL2	-a>
+Paxillin (cleaved)_0-0	degradation	-ap>
+MAPK3	MYLK	-a>

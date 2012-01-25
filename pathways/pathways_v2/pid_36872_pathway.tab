@@ -1,0 +1,227 @@
+abstract	muscle contraction
+abstract	glial cell fate commitment
+abstract	cell morphogenesis
+abstract	platelet activation
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	actin cytoskeleton reorganization
+abstract	muscle cell differentiation
+abstract	JNK cascade
+abstract	cAMP biosynthetic process
+abstract	chemotaxis
+abstract	cell proliferation
+abstract	MAPKKK cascade
+protein	GRK2-3
+complex	G12 family/GTP
+smallMolecule	DAG
+smallMolecule	O2
+complex	PGI2/IP
+complex	TGM2/GTP
+complex	TP beta/GNAI2/GDP/G beta/gamma
+complex	TXA2-R family/G12 family/GDP/G beta/gamma
+complex	GNAI2/GTP
+protein	Src Family Kinases
+complex	RAB11/GDP
+smallMolecule	L-arginine
+complex	RhoA/GDP
+smallMolecule	L-citrulline
+smallMolecule	NADPH
+complex	PGD2/DP
+complex	Gq family/GTP
+complex	TXA2/TP beta/beta Arrestin3
+complex	TXA2/TXA2-R family
+complex	Gq family/GTP/EBP50
+complex	PAK1
+complex	TP alpha/Gq family/GDP/G beta5/gamma2
+complex	TXA2/TP beta/beta Arrestin2/RAB11/GDP
+complex	PGK/cGMP
+protein	p38alpha-beta-active
+smallMolecule	cGMP
+complex	TXA2/TP beta/beta Arrestin2
+complex	TP alpha/TGM2/GDP/G beta/gamma
+protein	Src Family Kinases-active
+complex	TXA2/TP beta
+protein	Typical PKCs
+complex	TXA2/TP beta/beta Arrestin3/RAB11/GDP
+smallMolecule	NO
+protein	eNOS
+smallMolecule	NADP
+complex	PI3K Class IB family
+complex	Gq family/GDP/G beta5/gamma2
+complex	RhoA/GTP/ROCK1
+complex	G beta5/gamma2
+protein	p38alpha-beta
+smallMolecule	PI-4-5-P2
+smallMolecule	Ca2+
+complex	EGF/EGFR
+smallMolecule	IP3
+complex	GNB1/GNG2
+complex	RhoA/GTP
+complex	PI3K Class IA
+smallMolecule	TXA2
+complex	TXA2/TP alpha
+complex	TP beta/Gq family/GDP/G beta5/gamma2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VCAM1
+protein	TBXA2R
+protein	SYK
+protein	SLC9A3R1
+protein	SELE
+protein	ROCK1
+protein	PRKG1
+protein	PRKCZ
+protein	PRKACA
+protein	PLCB2
+protein	ICAM1
+protein	DNM1
+protein	ARRB2
+protein	ARR3
+protein	ARHGEF1
+protein	AKT1
+RhoA/GTP	AKT1	-a>
+PI3K Class IA	MAPKKK cascade	-ap>
+Typical PKCs	MAPKKK cascade	-ap>
+PRKACA	MAPKKK cascade	-ap>
+Src Family Kinases-active	EGF/EGFR	-a>
+TXA2/TP alpha	TXA2/TP alpha	component>
+ARHGEF1	RhoA/GTP	-a>
+eNOS	L-citrulline	-a>
+Typical PKCs	ICAM1	-t>
+PRKACA	TBXA2R	component>
+GNAI2/GTP	Src Family Kinases-active	-a>
+p38alpha-beta-active	muscle contraction	-ap>
+RhoA/GTP/ROCK1	muscle contraction	-ap>
+PAK1	TXA2/TP beta/beta Arrestin3	component>
+Gq family/GTP/EBP50	TXA2/TP beta/beta Arrestin3	component>
+DNM1	TXA2/TP beta/beta Arrestin3	component>
+PLCB2	DAG	-a>
+Typical PKCs	SELE	-t>
+TXA2/TP beta	TXA2/TP beta	component>
+SYK	p38alpha-beta-active	-a>
+RhoA/GTP	MAPKKK cascade	-ap>
+NO	PGK/cGMP	component>
+PAK1	TXA2/TP beta/beta Arrestin2	component>
+Gq family/GTP/EBP50	TXA2/TP beta/beta Arrestin2	component>
+DNM1	TXA2/TP beta/beta Arrestin2	component>
+actin cytoskeleton reorganization	TXA2/TP beta/beta Arrestin2	component>
+Typical PKCs	TXA2/TXA2-R family	-a>
+Typical PKCs	VCAM1	-t>
+GNAI2/GTP	platelet activation	-ap>
+Typical PKCs	TXA2/TP alpha	-a>
+PGK/cGMP	TXA2/TP alpha	-a>
+TXA2/TXA2-R family	TXA2/TXA2-R family	component>
+GRK2-3	TXA2/TP beta	-a>
+TXA2/TXA2-R family	JNK cascade	-ap>
+TXA2/TP alpha	cAMP biosynthetic process	-ap>
+PGI2/IP	PRKACA	-a>
+PRKCZ	AKT1	-a>
+GTP	Gq family/GTP/EBP50	component>
+SLC9A3R1	GDP	component>
+SLC9A3R1	G beta5/gamma2	component>
+SLC9A3R1	Gq family/GTP/EBP50	component>
+SLC9A3R1	Gq family/GTP	component>
+SLC9A3R1	TXA2/TP alpha	component>
+TP alpha/Gq family/GDP/G beta5/gamma2	GDP	component>
+TP alpha/Gq family/GDP/G beta5/gamma2	G beta5/gamma2	component>
+TP alpha/Gq family/GDP/G beta5/gamma2	Gq family/GTP/EBP50	component>
+TP alpha/Gq family/GDP/G beta5/gamma2	Gq family/GTP	component>
+TP alpha/Gq family/GDP/G beta5/gamma2	TXA2/TP alpha	component>
+TXA2	Gq family/GTP/EBP50	component>
+muscle cell differentiation	MAPKKK cascade	-ap>
+PI3K Class IB family	platelet activation	-ap>
+G12 family/GTP	ARHGEF1	-a>
+TXA2/TXA2-R family	PRKCZ	-a>
+Typical PKCs	chemotaxis	-ap>
+GTP	G beta5/gamma2	component>
+GTP	Gq family/GTP	component>
+TP beta/Gq family/GDP/G beta5/gamma2	GDP	component>
+TP beta/Gq family/GDP/G beta5/gamma2	G beta5/gamma2	component>
+TP beta/Gq family/GDP/G beta5/gamma2	Gq family/GTP	component>
+TP beta/Gq family/GDP/G beta5/gamma2	TXA2/TP beta	component>
+TXA2	G beta5/gamma2	component>
+TXA2	Gq family/GTP	component>
+EGF/EGFR	EGF/EGFR	-a>
+GTP	TGM2/GTP	component>
+GTP	TXA2/TP alpha	component>
+TP alpha/TGM2/GDP/G beta/gamma	GDP	component>
+TP alpha/TGM2/GDP/G beta/gamma	GNB1/GNG2	component>
+TP alpha/TGM2/GDP/G beta/gamma	TGM2/GTP	component>
+TP alpha/TGM2/GDP/G beta/gamma	TXA2/TP alpha	component>
+TXA2	TGM2/GTP	component>
+TXA2	TXA2/TP alpha	component>
+DAG	Typical PKCs	-a>
+GNB1/GNG2	PI3K Class IB family	-a>
+PGD2/DP	PRKACA	-a>
+TGM2/GTP	PLCB2	-a>
+IP3	Ca2+	-a>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+TXA2/TXA2-R family	SYK	-a>
+O2	NADP	-a>
+O2	NO	-a>
+O2	L-citrulline	-a>
+NADPH	NADP	-a>
+NADPH	NO	-a>
+NADPH	L-citrulline	-a>
+L-arginine	NADP	-a>
+L-arginine	NO	-a>
+L-arginine	L-citrulline	-a>
+G beta5/gamma2	PLCB2	-a>
+positive regulation of NF-kappaB transcription factor activity	ICAM1	-t>
+TXA2/TXA2-R family	PI3K Class IA	-a>
+ROCK1	RhoA/GTP/ROCK1	component>
+RhoA/GTP	RhoA/GTP/ROCK1	component>
+TP alpha/Gq family/GDP/G beta5/gamma2	Gq family/GDP/G beta5/gamma2	component>
+TP alpha/Gq family/GDP/G beta5/gamma2	TBXA2R	component>
+Src Family Kinases	Src Family Kinases-active	-a>
+Typical PKCs	muscle contraction	-ap>
+p38alpha-beta-active	platelet activation	-ap>
+ARR3	TXA2/TP beta/beta Arrestin3	component>
+TXA2/TP beta	TXA2/TP beta/beta Arrestin3	component>
+MAPKKK cascade	cell proliferation	-ap>
+DAG	MAPKKK cascade	-ap>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+positive regulation of NF-kappaB transcription factor activity	SELE	-t>
+GTP	GNAI2/GTP	component>
+GTP	TXA2/TP beta	component>
+TP beta/GNAI2/GDP/G beta/gamma	GDP	component>
+TP beta/GNAI2/GDP/G beta/gamma	GNB1/GNG2	component>
+TP beta/GNAI2/GDP/G beta/gamma	GNAI2/GTP	component>
+TP beta/GNAI2/GDP/G beta/gamma	TXA2/TP beta	component>
+TXA2	GNAI2/GTP	component>
+TXA2	TXA2/TP beta	component>
+p38alpha-beta	p38alpha-beta-active	-a>
+glial cell fate commitment	MAPKKK cascade	-ap>
+PRKG1	PGK/cGMP	component>
+cGMP	PGK/cGMP	component>
+GNAI2/GTP	cAMP biosynthetic process	-ap|
+ARRB2	TXA2/TP beta/beta Arrestin2	component>
+TXA2/TP beta	TXA2/TP beta/beta Arrestin2	component>
+TXA2/TXA2-R family	TXA2/TXA2-R family	-a>
+positive regulation of NF-kappaB transcription factor activity	VCAM1	-t>
+RAB11/GDP	TXA2/TP beta/beta Arrestin3/RAB11/GDP	component>
+TXA2/TP beta/beta Arrestin3	TXA2/TP beta/beta Arrestin3/RAB11/GDP	component>
+RhoA/GTP/ROCK1	cell morphogenesis	-ap>
+G12 family/GTP	platelet activation	-ap>
+TXA2/TP alpha	TXA2/TP alpha	-a>
+GTP	GDP	component>
+GTP	GNB1/GNG2	component>
+GTP	G12 family/GTP	component>
+GTP	TXA2/TXA2-R family	component>
+TXA2-R family/G12 family/GDP/G beta/gamma	GDP	component>
+TXA2-R family/G12 family/GDP/G beta/gamma	GNB1/GNG2	component>
+TXA2-R family/G12 family/GDP/G beta/gamma	G12 family/GTP	component>
+TXA2-R family/G12 family/GDP/G beta/gamma	TXA2/TXA2-R family	component>
+TXA2	GDP	component>
+TXA2	GNB1/GNG2	component>
+TXA2	G12 family/GTP	component>
+TXA2	TXA2/TXA2-R family	component>
+RAB11/GDP	TXA2/TP beta/beta Arrestin2/RAB11/GDP	component>
+TXA2/TP beta/beta Arrestin2	TXA2/TP beta/beta Arrestin2/RAB11/GDP	component>
+RhoA/GTP/ROCK1	actin cytoskeleton reorganization	-ap>
+Ca2+	platelet activation	-ap>
+TXA2/TP beta	TXA2/TP beta	-a>
+muscle cell differentiation	JNK cascade	-ap>

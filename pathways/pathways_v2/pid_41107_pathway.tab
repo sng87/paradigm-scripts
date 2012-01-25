@@ -1,0 +1,9 @@
+protein	UniProt:Q13164 MAPK7_subunit_1_815_1-815
+smallMolecule	ATP
+smallMolecule	ADP
+protein	MAP2K5
+ATP	ADP	-a>
+ATP	UniProt:Q13164 MAPK7_subunit_1_815_1-815	-a>
+UniProt:Q13164 MAPK7_subunit_1_815_1-815	ADP	-a>
+MAP2K5	UniProt:Q13164 MAPK7_subunit_1_815_1-815	-a>
+UniProt:Q13164 MAPK7_subunit_1_815_1-815	UniProt:Q13164 MAPK7_subunit_1_815_1-815	-a>

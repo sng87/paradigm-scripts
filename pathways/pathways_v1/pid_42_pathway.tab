@@ -1,0 +1,283 @@
+protein	IKBKG
+protein	TRAF6
+protein	MALT1
+protein	PAG1
+protein	TRPV6
+protein	CARD11
+protein	MAP3K14
+protein	ORAI1
+protein	RASSF5
+protein	RASGRP2
+protein	STIM1
+protein	LCP2
+protein	SOS1
+protein	PRKCQ
+protein	PRKCE
+protein	GRB2
+protein	RAP1A
+protein	B2M
+protein	ZAP70
+protein	CD86
+protein	MAP3K8
+protein	CSK
+protein	CD80
+protein	AKT1
+protein	SHC1
+protein	PTPN6
+protein	CBL
+protein	CD247
+protein	PLCG1
+protein	PRKCA
+protein	VAV1
+protein	PRF1
+protein	CD8B
+protein	CD28
+protein	CD3G
+protein	PTPRC
+protein	CD3E
+protein	FYN
+protein	LCK
+protein	PRKCB
+protein	HLA-A
+protein	CD3D
+protein	CD8A
+protein	KRAS
+protein	KRAS
+protein	HRAS
+protein	NRAS
+protein	BCL10
+protein	RASGRP1
+protein	GRAP2
+protein	LAT
+protein	PDPK1
+protein	CHUK
+protein	IKBKB
+protein	GO:0035030
+protein	EntrezGene:6957
+protein	EntrezGene:6955
+complex	peptide-MHC class I
+complex	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin
+complex	TCR/CD3/MHC I/CD8/LCK/ZAP-70
+complex	TCR/CD3/MHC I/CD8/LCK
+complex	TCR/CD3/MHC I/CD8/Fyn
+complex	TCR/CD3/MHC I/CD8
+complex	RAS family/GTP
+complex	RAS family/GDP
+complex	RAP1A/GTP/RAPL
+complex	RAP1A/GTP
+complex	RAP1A/GDP
+complex	PDK1/PKC theta
+complex	PDK1/CARD11/BCL10/MALT1/TRAF6
+complex	PDK1/CARD11/BCL10/MALT1
+complex	Monovalent TCR/CD3
+complex	LAT/GRAP2/SLP76/VAV1/PLCgamma1
+complex	LAT/GRAP2/SLP76/VAV1/PI3K Class IA
+complex	LAT/GRAP2/SLP76/VAV1
+complex	LAT/GRAP2/SLP76
+complex	IKK complex
+complex	GRB2/SOS1/SHC
+complex	GRB2/SOS1
+complex	GRAP2/SLP76
+complex	CSK/PAG1
+complex	COT/AKT1
+complex	CD8 heterodimer
+complex	CD28
+complex	B7 family/CD28
+chemical	mol:PI-3-4-5-P3
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	regulation of survival gene product expression
+abstract	receptor internalization
+abstract	integrin-mediated signaling pathway
+abstract	cytotoxic T cell degranulation
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:PI-3-4-5-P3	PDPK1	-a>
+mol:IP3	mol:Ca2+	-a>
+mol:GTP	RAS family/GTP	component>
+mol:GTP	RAP1A/GTP/RAPL	component>
+mol:GTP	RAP1A/GTP	component>
+mol:GDP	RAS family/GDP	component>
+mol:GDP	RAP1A/GDP	component>
+mol:DAG	RASGRP2	-a>
+mol:DAG	PRKCQ	-a>
+mol:DAG	PRKCE	-a>
+mol:DAG	PRKCA	-a>
+mol:DAG	PRKCB	-a>
+mol:DAG	RASGRP1	-a>
+mol:Ca2+	TRPV6	-a|
+mol:Ca2+	RASGRP2	-a>
+mol:Ca2+	STIM1	-a|
+IKBKG	IKK complex	component>
+TRAF6	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+MALT1	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+MALT1	PDK1/CARD11/BCL10/MALT1	component>
+PAG1	CSK/PAG1	component>
+TRPV6	mol:Ca2+	-a>
+CARD11	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+CARD11	PDK1/CARD11/BCL10/MALT1	component>
+ORAI1	mol:Ca2+	-a>
+RASSF5	RAP1A/GTP/RAPL	component>
+RASGRP2	mol:GDP	-a>
+RASGRP2	RAP1A/GTP	-a>
+STIM1	ORAI1	-a>
+LCP2	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+LCP2	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+LCP2	LAT/GRAP2/SLP76/VAV1	component>
+LCP2	LAT/GRAP2/SLP76	component>
+LCP2	GRAP2/SLP76	component>
+SOS1	GRB2/SOS1/SHC	component>
+SOS1	GRB2/SOS1	component>
+PRKCQ	RASGRP1	-a>
+PRKCQ	PDK1/PKC theta	component>
+PRKCE	IKK complex	-a>
+GRB2	GRB2/SOS1/SHC	component>
+GRB2	GRB2/SOS1	component>
+RAP1A	RAP1A/GTP/RAPL	component>
+RAP1A	RAP1A/GTP	component>
+RAP1A	RAP1A/GDP	component>
+B2M	peptide-MHC class I	component>
+B2M	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+B2M	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+B2M	TCR/CD3/MHC I/CD8/LCK	component>
+B2M	TCR/CD3/MHC I/CD8/Fyn	component>
+B2M	TCR/CD3/MHC I/CD8	component>
+ZAP70	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+ZAP70	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD86	B7 family/CD28	component>
+MAP3K8	COT/AKT1	component>
+CSK	CSK/PAG1	component>
+CD80	B7 family/CD28	component>
+AKT1	regulation of survival gene product expression	-ap>
+AKT1	COT/AKT1	component>
+SHC1	GRB2/SOS1/SHC	component>
+PTPN6	FYN	-a>
+PTPN6	LCK	-a>
+CBL	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD247	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD247	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD247	TCR/CD3/MHC I/CD8/LCK	component>
+CD247	TCR/CD3/MHC I/CD8/Fyn	component>
+CD247	TCR/CD3/MHC I/CD8	component>
+CD247	Monovalent TCR/CD3	component>
+PLCG1	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+PRKCA	IKK complex	-a>
+VAV1	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+VAV1	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+VAV1	LAT/GRAP2/SLP76/VAV1	component>
+PRF1	cytotoxic T cell degranulation	-ap>
+CD8B	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD8B	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD8B	TCR/CD3/MHC I/CD8/LCK	component>
+CD8B	TCR/CD3/MHC I/CD8/Fyn	component>
+CD8B	TCR/CD3/MHC I/CD8	component>
+CD8B	CD8 heterodimer	component>
+CD28	CD28	component>
+CD28	B7 family/CD28	component>
+CD3G	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD3G	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD3G	TCR/CD3/MHC I/CD8/LCK	component>
+CD3G	TCR/CD3/MHC I/CD8/Fyn	component>
+CD3G	TCR/CD3/MHC I/CD8	component>
+CD3G	Monovalent TCR/CD3	component>
+PTPRC	FYN	-a>
+PTPRC	LCK	-a>
+CD3E	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD3E	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD3E	TCR/CD3/MHC I/CD8/LCK	component>
+CD3E	TCR/CD3/MHC I/CD8/Fyn	component>
+CD3E	TCR/CD3/MHC I/CD8	component>
+CD3E	Monovalent TCR/CD3	component>
+FYN	TCR/CD3/MHC I/CD8/Fyn	component>
+LCK	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+LCK	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+LCK	TCR/CD3/MHC I/CD8/LCK	component>
+PRKCB	IKK complex	-a>
+HLA-A	peptide-MHC class I	component>
+HLA-A	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+HLA-A	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+HLA-A	TCR/CD3/MHC I/CD8/LCK	component>
+HLA-A	TCR/CD3/MHC I/CD8/Fyn	component>
+HLA-A	TCR/CD3/MHC I/CD8	component>
+CD3D	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD3D	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD3D	TCR/CD3/MHC I/CD8/LCK	component>
+CD3D	TCR/CD3/MHC I/CD8/Fyn	component>
+CD3D	TCR/CD3/MHC I/CD8	component>
+CD3D	Monovalent TCR/CD3	component>
+CD8A	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+CD8A	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+CD8A	TCR/CD3/MHC I/CD8/LCK	component>
+CD8A	TCR/CD3/MHC I/CD8/Fyn	component>
+CD8A	TCR/CD3/MHC I/CD8	component>
+CD8A	CD8 heterodimer	component>
+KRAS	RAS family/GTP	component>
+KRAS	RAS family/GDP	component>
+KRAS	RAS family/GTP	component>
+KRAS	RAS family/GDP	component>
+HRAS	RAS family/GTP	component>
+HRAS	RAS family/GDP	component>
+NRAS	RAS family/GTP	component>
+NRAS	RAS family/GDP	component>
+BCL10	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+BCL10	PDK1/CARD11/BCL10/MALT1	component>
+RASGRP1	mol:GDP	-a>
+RASGRP1	RAS family/GTP	-a>
+GRAP2	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+GRAP2	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+GRAP2	LAT/GRAP2/SLP76/VAV1	component>
+GRAP2	LAT/GRAP2/SLP76	component>
+GRAP2	GRAP2/SLP76	component>
+LAT	LAT/GRAP2/SLP76/VAV1/PLCgamma1	component>
+LAT	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+LAT	LAT/GRAP2/SLP76/VAV1	component>
+LAT	LAT/GRAP2/SLP76	component>
+PDPK1	AKT1	-a>
+PDPK1	PDK1/PKC theta	component>
+PDPK1	PDK1/CARD11/BCL10/MALT1/TRAF6	component>
+PDPK1	PDK1/CARD11/BCL10/MALT1	component>
+CHUK	IKK complex	component>
+IKBKB	IKK complex	component>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	receptor internalization	-ap>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	PAG1	-a>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	PRKCQ	-a>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	CSK	-a>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	SHC1	-a>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	VAV1	-a>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	LAT	-a>
+TCR/CD3/MHC I/CD8/LCK/ZAP-70	GRAP2/SLP76	-a>
+TCR/CD3/MHC I/CD8/LCK	PTPN6	-a>
+TCR/CD3/MHC I/CD8/LCK	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	-a>
+TCR/CD3/MHC I/CD8/LCK	B7 family/CD28	-a>
+TCR/CD3/MHC I/CD8	PRF1	-t>
+RAP1A/GTP/RAPL	integrin-mediated signaling pathway	-ap>
+PDK1/PKC theta	IKK complex	-a>
+PDK1/CARD11/BCL10/MALT1/TRAF6	IKBKG	-a>
+LAT/GRAP2/SLP76/VAV1/PLCgamma1	mol:IP3	-a>
+LAT/GRAP2/SLP76/VAV1/PLCgamma1	mol:DAG	-a>
+LAT/GRAP2/SLP76/VAV1/PI3K Class IA	mol:PI-3-4-5-P3	-a>
+LAT/GRAP2/SLP76/VAV1/PI3K Class IA	PRKCQ	-a>
+GRB2/SOS1/SHC	mol:GDP	-a>
+GRB2/SOS1/SHC	RAS family/GTP	-a>
+GO:0035030	LAT/GRAP2/SLP76/VAV1/PI3K Class IA	component>
+EntrezGene:6957	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+EntrezGene:6957	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+EntrezGene:6957	TCR/CD3/MHC I/CD8/LCK	component>
+EntrezGene:6957	TCR/CD3/MHC I/CD8/Fyn	component>
+EntrezGene:6957	TCR/CD3/MHC I/CD8	component>
+EntrezGene:6957	Monovalent TCR/CD3	component>
+EntrezGene:6955	TCR/CD3/MHC I/CD8/LCK/ZAP-70/CBL/ubiquitin	component>
+EntrezGene:6955	TCR/CD3/MHC I/CD8/LCK/ZAP-70	component>
+EntrezGene:6955	TCR/CD3/MHC I/CD8/LCK	component>
+EntrezGene:6955	TCR/CD3/MHC I/CD8/Fyn	component>
+EntrezGene:6955	TCR/CD3/MHC I/CD8	component>
+EntrezGene:6955	Monovalent TCR/CD3	component>
+CSK/PAG1	FYN	-a>
+CSK/PAG1	LCK	-a>
+COT/AKT1	MAP3K14	-a>
+B7 family/CD28	PRF1	-t>
+B7 family/CD28	TCR/CD3/MHC I/CD8/LCK/ZAP-70	-a>
+B7 family/CD28	TCR/CD3/MHC I/CD8/LCK	-a>
+B7 family/CD28	GO:0035030	-a>

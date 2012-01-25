@@ -1,0 +1,10 @@
+complex	preRC
+complex	ORC:origin
+complex	CDT1:CDC6:ORC:origin complex
+complex	ORC complex bound to origin
+complex	Mcm2-7 complex
+protein	MCM8
+ORC complex bound to origin	ORC:origin	component>
+MCM8	ORC:origin	component>
+CDT1:CDC6:ORC:origin complex	preRC	component>
+Mcm2-7 complex	preRC	component>

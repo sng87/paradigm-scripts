@@ -1,0 +1,10 @@
+protein	UniProt:P02545-1 LMNA
+protein	UniProt:P02545-1 LMNA_subunit_1_230_1-230
+protein	UniProt:P02545-1 LMNA_subunit_231_664_231-664
+complex	active caspase-6
+protein	LMNB1
+active caspase-6	LMNB1	-a>
+active caspase-6	UniProt:P02545-1 LMNA_subunit_231_664_231-664	-a>
+LMNB1	LMNB1	-a>
+UniProt:P02545-1 LMNA	UniProt:P02545-1 LMNA_subunit_1_230_1-230	-a>
+UniProt:P02545-1 LMNA	UniProt:P02545-1 LMNA_subunit_231_664_231-664	-a>

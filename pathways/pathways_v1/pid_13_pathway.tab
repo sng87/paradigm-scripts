@@ -1,0 +1,113 @@
+protein	FAF1
+protein	CASP10
+protein	RB1
+protein	CASP8
+protein	SPTAN1
+protein	RIPK1
+protein	MAP3K1
+protein	PAK2
+protein	FADD
+protein	PTPN13
+protein	PRKDC
+protein	BID
+protein	CASP6
+protein	CASP7
+protein	ARHGDIB
+protein	FASLG
+protein	MAP2K4
+protein	MAPK8
+protein	CASP3
+protein	RFC1
+protein	FAS
+protein	NFKB1
+protein	HGF
+protein	BCL2
+protein	PARP1
+protein	MET
+protein	GSN
+protein	IL6
+protein	LMNA
+protein	DFFB
+protein	FAIM3
+protein	MAP3K7
+protein	CFLAR
+protein	CHUK
+protein	DFFA
+complex	ICAD/CAD
+complex	HGF/MET
+complex	FASLG/FAS/FADD/FAF1/Caspase 8
+complex	FASLG/FAS/FADD/FAF1/Caspase 10
+complex	FASLG/FAS/FADD/FAF1
+complex	FAS/FADD/MET
+complex	FAS/FADD
+complex	CFLAR/RIP1
+chemical	mol:ceramide
+abstract	activation of caspase activity by cytochrome c
+abstract	actin filament polymerization
+abstract	DNA fragmentation during apoptosis
+mol:ceramide	MAP3K1	-a>
+FAF1	FASLG/FAS/FADD/FAF1/Caspase 8	component>
+FAF1	FASLG/FAS/FADD/FAF1/Caspase 10	component>
+FAF1	FASLG/FAS/FADD/FAF1	component>
+CASP10	FASLG/FAS/FADD/FAF1/Caspase 10	component>
+CASP8	BID	-a>
+CASP8	CASP7	-a>
+CASP8	CASP3	-a>
+CASP8	FASLG/FAS/FADD/FAF1/Caspase 8	component>
+RIPK1	CFLAR/RIP1	component>
+MAP3K1	MAP2K4	-a|
+MAP3K1	MAP2K4	-a>
+PAK2	MAP3K1	-a>
+FADD	FASLG/FAS/FADD/FAF1/Caspase 8	component>
+FADD	FASLG/FAS/FADD/FAF1/Caspase 10	component>
+FADD	FASLG/FAS/FADD/FAF1	component>
+FADD	FAS/FADD/MET	component>
+FADD	FAS/FADD	component>
+PTPN13	HGF/MET	-a|
+PTPN13	FASLG/FAS/FADD/FAF1/Caspase 8	-a|
+PTPN13	FASLG/FAS/FADD/FAF1	-a|
+BID	activation of caspase activity by cytochrome c	-ap>
+CASP6	LMNA	-a>
+CASP7	MAP3K1	-a>
+FASLG	FASLG/FAS/FADD/FAF1/Caspase 8	component>
+FASLG	FASLG/FAS/FADD/FAF1/Caspase 10	component>
+FASLG	FASLG/FAS/FADD/FAF1	component>
+MAP2K4	MAPK8	-a>
+MAPK8	IL6	-t>
+CASP3	RB1	-a>
+CASP3	SPTAN1	-a>
+CASP3	PAK2	-a>
+CASP3	PRKDC	-a>
+CASP3	CASP6	-a>
+CASP3	ARHGDIB	-a>
+CASP3	RFC1	-a>
+CASP3	PARP1	-a>
+CASP3	GSN	-a>
+CASP3	DFFB	-a>
+CASP3	DFFA	-a>
+FAS	FASLG/FAS/FADD/FAF1/Caspase 8	component>
+FAS	FASLG/FAS/FADD/FAF1/Caspase 10	component>
+FAS	FASLG/FAS/FADD/FAF1	component>
+FAS	FAS/FADD/MET	component>
+FAS	FAS/FADD	component>
+NFKB1	IL6	-t>
+NFKB1	CHUK	-a>
+HGF	HGF/MET	component>
+BCL2	CASP3	-a|
+MET	HGF/MET	component>
+MET	FAS/FADD/MET	component>
+GSN	actin filament polymerization	-ap|
+DFFB	ICAD/CAD	component>
+DFFB	DNA fragmentation during apoptosis	-ap>
+FAIM3	CASP8	-a|
+FAIM3	FASLG/FAS/FADD/FAF1	-a|
+MAP3K7	MAP2K4	-a>
+CFLAR	CFLAR/RIP1	component>
+DFFA	ICAD/CAD	component>
+FASLG/FAS/FADD/FAF1/Caspase 10	mol:ceramide	-a>
+FASLG/FAS/FADD/FAF1/Caspase 10	CASP7	-a>
+FASLG/FAS/FADD/FAF1/Caspase 10	MAP2K4	-a>
+FASLG/FAS/FADD/FAF1/Caspase 10	NFKB1	-a>
+CFLAR/RIP1	NFKB1	-a|
+CFLAR/RIP1	FASLG/FAS/FADD/FAF1/Caspase 8	-a>
+CFLAR/RIP1	FASLG/FAS/FADD/FAF1/Caspase 10	-a>

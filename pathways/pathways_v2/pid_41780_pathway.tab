@@ -1,0 +1,35 @@
+complex	NCAM-1:Collagen complex
+complex	Polysialylated NCAM
+complex	NCAM-1:Neurocan
+complex	NCAM-1:Major prion protein
+complex	NCAM1:GFRalpha-1
+protein	GDNF family ligands (GFLs)
+complex	NCAM1:GFRalpha-1:GDNF
+complex	NCAM-1:Agrin
+complex	NCAM-1:ATP
+protein	alpha 2-8 polysialyltransferases
+complex	NCAM1-Contactin-2
+smallMolecule	ATP
+protein	PRNP
+protein	NCAN
+protein	NCAM1
+protein	GFRA1
+protein	CNTN2
+protein	AGRN
+alpha 2-8 polysialyltransferases	Polysialylated NCAM	component>
+GDNF family ligands (GFLs)	NCAM1:GFRalpha-1:GDNF	component>
+NCAM1:GFRalpha-1	NCAM1:GFRalpha-1:GDNF	component>
+NCAM1	NCAM1-Contactin-2	component>
+CNTN2	NCAM1-Contactin-2	component>
+GFRA1	NCAM1:GFRalpha-1	component>
+NCAM1	NCAM1:GFRalpha-1	component>
+ATP	NCAM-1:ATP	component>
+NCAM1	NCAM-1:ATP	component>
+NCAM1	Polysialylated NCAM	component>
+NCAM1	NCAM-1:Major prion protein	component>
+PRNP	NCAM-1:Major prion protein	component>
+AGRN	NCAM-1:Agrin	component>
+NCAM1	NCAM-1:Agrin	component>
+NCAM1	NCAM-1:Neurocan	component>
+NCAN	NCAM-1:Neurocan	component>
+NCAM1	NCAM-1:Collagen complex	component>

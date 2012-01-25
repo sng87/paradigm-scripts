@@ -1,0 +1,90 @@
+abstract	neuron fate commitment
+abstract	retrograde axon cargo transport
+abstract	neuron projection morphogenesis
+abstract	receptor internalization
+abstract	neuron apoptosis
+complex	Rap1/GTP
+complex	RIT1/GTP
+complex	RAS family/GTP
+protein	MKK3-MKK6-active
+protein	ERK1-2-active
+protein	ERK1-2
+protein	MKK3-MKK6
+complex	RIN/GTP
+protein	sELK1
+complex	ELK1/sELK1
+complex	CDK5R1/CDK5
+protein	PKC delta
+protein	ERK5
+protein	TRPV1
+protein	SRF
+protein	RUSC1
+protein	RPS6KA5
+protein	RPS6KA1
+protein	RAF1
+protein	NTF3
+protein	MEF2C
+protein	MAPKAPK2
+protein	MAPK14
+protein	MAP3K2
+protein	MAP2K5
+protein	MAP2K1
+protein	FOS
+protein	ELK1
+protein	EHD4
+protein	EGR1
+protein	CREB1
+protein	CDK5R1
+protein	CDK5
+protein	BRAF
+BRAF	MKK3-MKK6-active	-a>
+CREB1	NTF3	-t>
+SRF	FOS	-t>
+EHD4	retrograde axon cargo transport	-ap>
+MEF2C	neuron apoptosis	-ap|
+MAP2K1	ERK1-2-active	-a>
+MAP2K5	ERK5	-a>
+CDK5	CDK5R1/CDK5	component>
+CDK5R1	CDK5R1/CDK5	component>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+RIN/GTP	BRAF	-a>
+ERK1-2-active	neuron projection morphogenesis	-ap>
+MEF2C	NTF3	-t>
+MKK3-MKK6-active	MAPK14	-a>
+ELK1	FOS	-t>
+MAPK14	MAPKAPK2	-a>
+ERK5	RPS6KA1	-a>
+receptor internalization	retrograde axon cargo transport	-ap>
+EGR1	CDK5R1	-t>
+ERK1-2-active	RPS6KA5	-a>
+RPS6KA1	CREB1	-a>
+ERK1-2-active	RPS6KA1	-a>
+MAP3K2	MAP2K5	-a>
+Rap1/GTP	BRAF	-a>
+ERK5	ERK5	-a>
+RAF1	MAP2K1	-a>
+ERK1-2-active	EGR1	-t>
+Rap1/GTP	MAP3K2	-a>
+CREB1	neuron apoptosis	-ap|
+MAPKAPK2	CREB1	-a>
+sELK1	neuron projection morphogenesis	-ap>
+neuron fate commitment	neuron apoptosis	-ap>
+ERK1-2-active	ELK1	-a>
+sELK1	ELK1/sELK1	component>
+ELK1	ELK1/sELK1	component>
+BRAF	MAP2K1	-a>
+ERK1-2	ERK1-2-active	-a>
+RPS6KA5	CREB1	-a>
+RAS family/GTP	BRAF	-a>
+RAS family/GTP	RAF1	-a>
+retrograde axon cargo transport	ERK5	-a>
+MAPK14	TRPV1	-t>
+CDK5R1/CDK5	neuron projection morphogenesis	-ap>
+RUSC1	neuron projection morphogenesis	-ap>
+MAP2K1	RUSC1	-a>
+ERK1-2-active	sELK1	-a>
+MAP2K1	MAPK14	-a>
+MAPK14	RPS6KA5	-a>
+ERK5	MEF2C	-a>
+RIT1/GTP	BRAF	-a>
+PKC delta	MAP2K1	-a>

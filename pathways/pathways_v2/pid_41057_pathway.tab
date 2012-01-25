@@ -1,0 +1,15 @@
+protein	UniProt:P49327 FASN_subunit_1_2511_1-2511
+smallMolecule	PAP
+smallMolecule	CoA
+smallMolecule	Pantothenate
+smallMolecule	Na+
+protein	SLC5A6
+protein	AASDHPPT
+CoA	PAP	-a>
+CoA	UniProt:P49327 FASN_subunit_1_2511_1-2511	-a>
+UniProt:P49327 FASN_subunit_1_2511_1-2511	PAP	-a>
+AASDHPPT	UniProt:P49327 FASN_subunit_1_2511_1-2511	-a>
+Na+	Na+	-a>
+Na+	Pantothenate	-a>
+Pantothenate	Na+	-a>
+SLC5A6	Pantothenate	-a>

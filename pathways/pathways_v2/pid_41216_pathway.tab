@@ -1,0 +1,17 @@
+smallMolecule	IMP
+smallMolecule	inosine
+complex	5'-nucleotidase cytosolic II holoenzyme
+smallMolecule	H2O
+smallMolecule	adenosine
+smallMolecule	NH3
+smallMolecule	phosphate
+protein	ADA
+5'-nucleotidase cytosolic II holoenzyme	phosphate	-a>
+ADA	NH3	-a>
+H2O	phosphate	-a>
+IMP	inosine	-a>
+IMP	phosphate	-a>
+adenosine	inosine	-a>
+adenosine	NH3	-a>
+H2O	inosine	-a>
+H2O	NH3	-a>

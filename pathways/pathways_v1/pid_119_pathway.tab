@@ -1,0 +1,140 @@
+protein	PELP1
+protein	PTK2
+protein	MAP2K1
+protein	GNAI1
+protein	RAC1
+protein	GNB1
+protein	CDC42
+protein	GNG2
+protein	PIK3CA
+protein	MAP2K2
+protein	AKT1
+protein	GNAO1
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	GNAZ
+protein	CREB1
+protein	SRC
+protein	AR
+protein	GNAO1
+protein	GNAI3
+protein	GNAI2
+protein	SHBG
+protein	RAF1
+protein	GNRH1
+protein	HRAS
+protein	FOS
+complex	T-DHT/AR/PELP1/Src/PI3K
+complex	T-DHT/AR/PELP1/Src
+complex	T-DHT/AR/PELP1
+complex	T-DHT/AR
+complex	SHBG/T-DHT
+complex	RAC1-CDC42/GTP
+complex	RAC1-CDC42/GDP
+complex	PI3K
+complex	HRAS/GTP
+complex	HRAS/GDP
+complex	Gi family/GTP
+complex	Gi family/GNB1/GNG2/GDP
+complex	GNB1/GNG2
+chemical	mol:T-DHT
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Ca2+
+abstract	voltage-gated calcium channel activity
+abstract	regulation of S phase of mitotic cell cycle
+abstract	potassium channel inhibitor activity
+abstract	cell proliferation
+abstract	cAMP biosynthetic process
+abstract	apoptosis
+abstract	actin cytoskeleton reorganization
+abstract	G-protein coupled receptor activity
+voltage-gated calcium channel activity	mol:Ca2+	-ap>
+potassium channel inhibitor activity	mol:Ca2+	-ap>
+mol:T-DHT	mol:GDP	-a>
+mol:T-DHT	PTK2	-a>
+mol:T-DHT	AKT1	-a|
+mol:T-DHT	MAPK1	-a|
+mol:T-DHT	GNRH1	-a>
+mol:T-DHT	T-DHT/AR/PELP1/Src/PI3K	component>
+mol:T-DHT	T-DHT/AR/PELP1/Src	component>
+mol:T-DHT	T-DHT/AR/PELP1	component>
+mol:T-DHT	T-DHT/AR	component>
+mol:T-DHT	SHBG/T-DHT	component>
+mol:T-DHT	PI3K	-a>
+mol:T-DHT	Gi family/GTP	-a>
+mol:T-DHT	GNB1/GNG2	-a>
+mol:IP3	mol:Ca2+	-a>
+mol:GTP	RAC1-CDC42/GTP	component>
+mol:GTP	HRAS/GTP	component>
+mol:GTP	Gi family/GTP	component>
+mol:GDP	RAC1-CDC42/GDP	component>
+mol:GDP	HRAS/GDP	component>
+mol:GDP	Gi family/GNB1/GNG2/GDP	component>
+mol:Ca2+	mol:Ca2+	-a|
+mol:Ca2+	MAPK1	-a>
+mol:Ca2+	MAPK3	-a>
+PELP1	T-DHT/AR/PELP1/Src/PI3K	component>
+PELP1	T-DHT/AR/PELP1/Src	component>
+PELP1	T-DHT/AR/PELP1	component>
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+GNAI1	Gi family/GTP	component>
+GNAI1	Gi family/GNB1/GNG2/GDP	component>
+RAC1	RAC1-CDC42/GTP	component>
+RAC1	RAC1-CDC42/GDP	component>
+GNB1	Gi family/GNB1/GNG2/GDP	component>
+GNB1	GNB1/GNG2	component>
+CDC42	RAC1-CDC42/GTP	component>
+CDC42	RAC1-CDC42/GDP	component>
+GNG2	Gi family/GNB1/GNG2/GDP	component>
+GNG2	GNB1/GNG2	component>
+PIK3CA	T-DHT/AR/PELP1/Src/PI3K	component>
+PIK3CA	PI3K	component>
+MAP2K2	MAPK1	-a>
+MAP2K2	MAPK3	-a>
+GNAO1	Gi family/GTP	component>
+GNAO1	Gi family/GNB1/GNG2/GDP	component>
+MAPK1	cell proliferation	-ap>
+MAPK1	CREB1	-a>
+PIK3R1	T-DHT/AR/PELP1/Src/PI3K	component>
+PIK3R1	PI3K	component>
+MAPK3	cell proliferation	-ap>
+MAPK3	CREB1	-a>
+GNAZ	Gi family/GTP	component>
+GNAZ	Gi family/GNB1/GNG2/GDP	component>
+CREB1	apoptosis	-ap|
+CREB1	FOS	-t>
+SRC	T-DHT/AR/PELP1/Src/PI3K	component>
+SRC	T-DHT/AR/PELP1/Src	component>
+AR	T-DHT/AR/PELP1/Src/PI3K	component>
+AR	T-DHT/AR/PELP1/Src	component>
+AR	T-DHT/AR/PELP1	component>
+AR	T-DHT/AR	component>
+GNAO1	Gi family/GTP	component>
+GNAO1	Gi family/GNB1/GNG2/GDP	component>
+GNAI3	Gi family/GTP	component>
+GNAI3	Gi family/GNB1/GNG2/GDP	component>
+GNAI2	Gi family/GTP	component>
+GNAI2	Gi family/GNB1/GNG2/GDP	component>
+SHBG	SHBG/T-DHT	component>
+RAF1	MAP2K1	-a>
+RAF1	MAP2K2	-a>
+HRAS	HRAS/GTP	component>
+HRAS	HRAS/GDP	component>
+T-DHT/AR/PELP1/Src/PI3K	regulation of S phase of mitotic cell cycle	-ap>
+T-DHT/AR/PELP1/Src	mol:GDP	-a>
+T-DHT/AR/PELP1/Src	HRAS/GTP	-a>
+T-DHT/AR	mol:GDP	-a>
+T-DHT/AR	Gi family/GTP	-a>
+T-DHT/AR	GNB1/GNG2	-a>
+SHBG/T-DHT	cAMP biosynthetic process	-ap>
+RAC1-CDC42/GTP	actin cytoskeleton reorganization	-ap>
+PI3K	mol:GDP	-a>
+PI3K	RAC1-CDC42/GTP	-a>
+HRAS/GTP	RAF1	-a>
+Gi family/GTP	mol:Ca2+	-a>
+Gi family/GTP	cAMP biosynthetic process	-ap|
+G-protein coupled receptor activity	SHBG/T-DHT	-ap>

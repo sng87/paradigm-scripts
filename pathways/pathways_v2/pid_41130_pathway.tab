@@ -1,0 +1,22 @@
+complex	AZIN1 bound OAZ:ODC complex
+smallMolecule	L-Ornithine
+complex	ODC:OAZ complex
+complex	ornithine decarboxylase holoenzyme
+complex	ODC:NQO1 complex
+smallMolecule	CO2
+protein	OAZ
+smallMolecule	Putrescine
+complex	26S Proteasome
+protein	NQO1
+protein	AZIN1
+ornithine decarboxylase holoenzyme	Putrescine	-a>
+26S Proteasome	OAZ	component>
+AZIN1	AZIN1 bound OAZ:ODC complex	component>
+ODC:OAZ complex	AZIN1 bound OAZ:ODC complex	component>
+L-Ornithine	CO2	-a>
+L-Ornithine	Putrescine	-a>
+NQO1	ODC:NQO1 complex	component>
+ornithine decarboxylase holoenzyme	ODC:NQO1 complex	component>
+ornithine decarboxylase holoenzyme	ODC:OAZ complex	component>
+OAZ	ODC:OAZ complex	component>
+ODC:OAZ complex	OAZ	component>

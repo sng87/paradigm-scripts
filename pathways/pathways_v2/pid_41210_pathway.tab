@@ -1,0 +1,22 @@
+complex	glycogen phosphorylase, muscle form, tetramer b
+complex	glycogen phosphorylase, liver form, tetramer b
+smallMolecule	Cori ester
+complex	glycogen phosphorylase, liver form, tetramer a
+complex	glycogen phosphorylase, muscle form, tetramer a
+smallMolecule	AMP
+smallMolecule	phosphate
+protein	GYG2
+protein	GYG1
+AMP	GYG2	-a>
+glycogen phosphorylase, liver form, tetramer a	Cori ester	-a>
+AMP	GYG1	-a>
+glycogen phosphorylase, muscle form, tetramer b	GYG1	-a>
+glycogen phosphorylase, muscle form, tetramer a	Cori ester	-a>
+glycogen phosphorylase, liver form, tetramer b	GYG2	-a>
+phosphate	GYG2	-a>
+GYG2	GYG2	-a>
+GYG2	Cori ester	-a>
+phosphate	GYG1	-a>
+phosphate	Cori ester	-a>
+GYG1	GYG1	-a>
+GYG1	Cori ester	-a>

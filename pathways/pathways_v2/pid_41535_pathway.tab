@@ -1,0 +1,216 @@
+smallMolecule	3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestanoyl-CoA
+protein	UniProt:Q9UHK6 AMACR
+smallMolecule	3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane
+smallMolecule	7alpha-hydroxycholest-4-en-3-one
+smallMolecule	(25S)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA
+smallMolecule	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate
+smallMolecule	CoA
+smallMolecule	Chenodeoxycholoyl-CoA
+protein	UniProt:P22307-1 SCP2
+smallMolecule	3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestanoyl-CoA
+smallMolecule	7alpha,12alpha-dihydroxycholest-4-en-3-one
+smallMolecule	TPNH
+smallMolecule	7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one
+smallMolecule	taurochenodeoxycholate
+smallMolecule	5beta-Cholestane-3alpha,7alpha,26-triol
+smallMolecule	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al
+smallMolecule	3alpha,7alpha-Dihydroxy-5beta-cholestanate
+smallMolecule	H2O
+smallMolecule	Propionyl-CoA
+smallMolecule	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA
+complex	HSD17B4 dimer
+smallMolecule	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA
+smallMolecule	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al
+smallMolecule	TPN
+smallMolecule	choloyl-CoA
+smallMolecule	3alpha,7alpha,12alpha-Trihydroxycoprostane
+smallMolecule	DPN
+smallMolecule	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA
+complex	Acyl-CoA oxidase 2 (FAD cofactor)
+smallMolecule	bile salts
+smallMolecule	NADH
+smallMolecule	7alpha-Hydroxy-5beta-cholestan-3-one
+smallMolecule	3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA
+smallMolecule	Glycine
+smallMolecule	taurocholate
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	cholate
+smallMolecule	5beta-cholestane-3alpha,7alpha-diol
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	7alpha-Hydroxycholesterol
+smallMolecule	H2O2
+smallMolecule	Cholesterol
+protein	SLC27A5
+protein	SLC27A2
+protein	HSD3B7
+protein	CYP8B1
+protein	CYP7A1
+protein	CYP27A1
+protein	BAAT
+protein	AKR1D1
+protein	AKR1C4
+protein	ACOT8
+protein	ABCB11
+SLC27A2	H2O	-a>
+UniProt:Q9UHK6 AMACR	(25S)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	-a>
+SLC27A2	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	-a>
+UniProt:P22307-1 SCP2	Chenodeoxycholoyl-CoA	-a>
+UniProt:P22307-1 SCP2	Propionyl-CoA	-a>
+CYP7A1	H2O	-a>
+ACOT8	cholate	-a>
+AKR1D1	7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one	-a>
+CYP27A1	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	-a>
+ABCB11	bile salts	-a>
+CYP27A1	5beta-Cholestane-3alpha,7alpha,26-triol	-a>
+Acyl-CoA oxidase 2 (FAD cofactor)	H2O2	-a>
+CYP27A1	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	-a>
+SLC27A5	H2O	-a>
+AKR1D1	TPN	-a>
+HSD3B7	7alpha-hydroxycholest-4-en-3-one	-a>
+CYP27A1	H2O	-a>
+BAAT	CoA	-a>
+SLC27A5	PPi	-a>
+HSD17B4 dimer	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	-a>
+AKR1C4	TPN	-a>
+CYP8B1	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+HSD17B4 dimer	NADH	-a>
+AKR1C4	3alpha,7alpha,12alpha-Trihydroxycoprostane	-a>
+(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	(25S)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	-a>
+O2	3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestanate	H2O	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestanate	AMP	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestanate	PPi	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestanate	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	-a>
+3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestanoyl-CoA	Propionyl-CoA	-a>
+3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestanoyl-CoA	Chenodeoxycholoyl-CoA	-a>
+CoA	Chenodeoxycholoyl-CoA	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	TPN	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	H2O	-a>
+TPNH	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	-a>
+O2	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	-a>
+H+	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	-a>
+3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestanoyl-CoA	choloyl-CoA	-a>
+3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestanoyl-CoA	Propionyl-CoA	-a>
+CoA	choloyl-CoA	-a>
+CoA	Propionyl-CoA	-a>
+O2	7alpha-Hydroxycholesterol	-a>
+TPNH	7alpha-Hydroxycholesterol	-a>
+H+	7alpha-Hydroxycholesterol	-a>
+Cholesterol	7alpha-Hydroxycholesterol	-a>
+Cholesterol	TPN	-a>
+Cholesterol	H2O	-a>
+H2O	CoA	-a>
+H2O	cholate	-a>
+choloyl-CoA	cholate	-a>
+7alpha,12alpha-dihydroxycholest-4-en-3-one	TPN	-a>
+7alpha,12alpha-dihydroxycholest-4-en-3-one	7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one	-a>
+TPNH	7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one	-a>
+H+	7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one	-a>
+O2	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	-a>
+5beta-Cholestane-3alpha,7alpha,26-triol	H2O	-a>
+5beta-Cholestane-3alpha,7alpha,26-triol	TPN	-a>
+5beta-Cholestane-3alpha,7alpha,26-triol	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	-a>
+H+	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	-a>
+TPNH	3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	-a>
+ATP	phosphate	-a>
+ATP	ADP	-a>
+ATP	bile salts	-a>
+bile salts	phosphate	-a>
+bile salts	ADP	-a>
+bile salts	bile salts	-a>
+O2	5beta-Cholestane-3alpha,7alpha,26-triol	-a>
+H+	5beta-Cholestane-3alpha,7alpha,26-triol	-a>
+TPNH	5beta-Cholestane-3alpha,7alpha,26-triol	-a>
+5beta-cholestane-3alpha,7alpha-diol	TPN	-a>
+5beta-cholestane-3alpha,7alpha-diol	H2O	-a>
+5beta-cholestane-3alpha,7alpha-diol	5beta-Cholestane-3alpha,7alpha,26-triol	-a>
+3alpha,7alpha,12alpha-Trihydroxycoprostane	TPN	-a>
+3alpha,7alpha,12alpha-Trihydroxycoprostane	3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane	-a>
+3alpha,7alpha,12alpha-Trihydroxycoprostane	H2O	-a>
+O2	3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane	-a>
+H+	3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane	-a>
+TPNH	3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane	-a>
+O2	H2O2	-a>
+(25S)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	H2O2	-a>
+H+	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	-a>
+3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane	TPN	-a>
+3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane	H2O	-a>
+3alpha,7alpha,12alpha,26-Tetrahydroxy-5beta-cholestane	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	-a>
+O2	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	-a>
+TPNH	3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al	-a>
+ATP	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	-a>
+CoA	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	-a>
+TPNH	7alpha-Hydroxy-5beta-cholestan-3-one	-a>
+7alpha-hydroxycholest-4-en-3-one	7alpha-Hydroxy-5beta-cholestan-3-one	-a>
+H+	7alpha-Hydroxy-5beta-cholestan-3-one	-a>
+DPN	7alpha-hydroxycholest-4-en-3-one	-a>
+7alpha-Hydroxycholesterol	H+	-a>
+7alpha-Hydroxycholesterol	NADH	-a>
+7alpha-Hydroxycholesterol	7alpha-hydroxycholest-4-en-3-one	-a>
+Glycine	taurocholate	-a>
+choloyl-CoA	taurocholate	-a>
+choloyl-CoA	CoA	-a>
+5beta-cholestane-3alpha,7alpha-diol	5beta-cholestane-3alpha,7alpha-diol	-a>
+O2	3alpha,7alpha-Dihydroxy-5beta-cholestanate	-a>
+TPNH	3alpha,7alpha-Dihydroxy-5beta-cholestanate	-a>
+H+	3alpha,7alpha-Dihydroxy-5beta-cholestanate	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	TPN	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	3alpha,7alpha-Dihydroxy-5beta-cholestanate	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al	H2O	-a>
+Glycine	taurochenodeoxycholate	-a>
+Glycine	CoA	-a>
+Chenodeoxycholoyl-CoA	taurochenodeoxycholate	-a>
+Chenodeoxycholoyl-CoA	CoA	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	AMP	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	H2O	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	-a>
+3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestanoate	PPi	-a>
+CoA	AMP	-a>
+CoA	H2O	-a>
+CoA	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	-a>
+CoA	PPi	-a>
+ATP	AMP	-a>
+ATP	H2O	-a>
+ATP	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	-a>
+ATP	PPi	-a>
+3alpha,7alpha,12alpha-Trihydroxycoprostane	3alpha,7alpha,12alpha-Trihydroxycoprostane	-a>
+3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	-a>
+H2O	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	-a>
+DPN	3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestanoyl-CoA	-a>
+TPNH	5beta-cholestane-3alpha,7alpha-diol	-a>
+7alpha-Hydroxy-5beta-cholestan-3-one	5beta-cholestane-3alpha,7alpha-diol	-a>
+7alpha-Hydroxy-5beta-cholestan-3-one	TPN	-a>
+H+	5beta-cholestane-3alpha,7alpha-diol	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestanate	3alpha,7alpha-Dihydroxy-5beta-cholestanate	-a>
+(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA	-a>
+cholate	cholate	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+O2	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+H+	H2O	-a>
+H+	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+TPNH	H2O	-a>
+TPNH	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+7alpha-hydroxycholest-4-en-3-one	H2O	-a>
+7alpha-hydroxycholest-4-en-3-one	TPN	-a>
+7alpha-hydroxycholest-4-en-3-one	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	3alpha,7alpha-Dihydroxy-5beta-cholestanoyl-CoA	-a>
+DPN	H+	-a>
+DPN	3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestanoyl-CoA	-a>
+DPN	NADH	-a>
+3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	H+	-a>
+3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestanoyl-CoA	-a>
+3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	NADH	-a>
+7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one	TPN	-a>
+7alpha,12alpha-Dihydroxy-5beta-cholestan-3-one	3alpha,7alpha,12alpha-Trihydroxycoprostane	-a>
+TPNH	TPN	-a>
+TPNH	3alpha,7alpha,12alpha-Trihydroxycoprostane	-a>
+H+	TPN	-a>
+H+	3alpha,7alpha,12alpha-Trihydroxycoprostane	-a>

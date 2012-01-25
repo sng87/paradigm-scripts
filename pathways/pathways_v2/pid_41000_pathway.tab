@@ -1,0 +1,10 @@
+protein	UniProt:O00186 STXBP3
+smallMolecule	ATP
+smallMolecule	ADP
+protein	STX4
+ATP	STX4	-a>
+STX4	ADP	-a>
+UniProt:O00186 STXBP3	ADP	-a>
+UniProt:O00186 STXBP3	UniProt:O00186 STXBP3	-a>
+ATP	ADP	-a>
+ATP	UniProt:O00186 STXBP3	-a>

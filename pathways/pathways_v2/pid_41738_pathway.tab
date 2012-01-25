@@ -1,0 +1,27 @@
+complex	Fyn:Nef Complex
+complex	Lck:Nef
+complex	DOCK2:ELMO1:RAC1:Nef Complex
+complex	Hck-1:Nef
+protein	UniProt:P63000-1 RAC1
+protein	UniProt:P20963-1 CD247
+complex	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex
+protein	myristoylated Nef Protein (numerous variants)
+protein	PAK2
+protein	LCK
+protein	HCK
+protein	FYN
+protein	ELMO1
+protein	DOCK2
+LCK	Lck:Nef	component>
+myristoylated Nef Protein (numerous variants)	Lck:Nef	component>
+ELMO1	DOCK2:ELMO1:RAC1:Nef Complex	component>
+UniProt:P63000-1 RAC1	DOCK2:ELMO1:RAC1:Nef Complex	component>
+DOCK2	DOCK2:ELMO1:RAC1:Nef Complex	component>
+myristoylated Nef Protein (numerous variants)	DOCK2:ELMO1:RAC1:Nef Complex	component>
+HCK	Hck-1:Nef	component>
+myristoylated Nef Protein (numerous variants)	Hck-1:Nef	component>
+FYN	Fyn:Nef Complex	component>
+myristoylated Nef Protein (numerous variants)	Fyn:Nef Complex	component>
+myristoylated Nef Protein (numerous variants)	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex	component>
+PAK2	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex	component>
+UniProt:P20963-1 CD247	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex	component>

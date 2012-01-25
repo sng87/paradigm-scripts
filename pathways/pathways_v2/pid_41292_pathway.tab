@@ -1,0 +1,11 @@
+protein	PTF1A
+protein	PDX1
+protein	ONECUT3
+protein	ONECUT1
+protein	NKX6-1
+protein	FGF10
+FGF10	PDX1	-t>
+ONECUT1	ONECUT3	-t>
+ONECUT1	PDX1	-t>
+PDX1	NKX6-1	-t>
+FGF10	PTF1A	-t>

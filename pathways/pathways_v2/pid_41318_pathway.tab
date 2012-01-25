@@ -1,0 +1,5 @@
+complex	MAD2*CDC20 complex
+protein	MAD2L1
+protein	CDC20
+MAD2L1	MAD2*CDC20 complex	component>
+CDC20	MAD2*CDC20 complex	component>

@@ -1,0 +1,31 @@
+protein	NT transporter
+complex	NT/GPCR/g-alpha/g-beta/g-gamma
+complex	g-alpha/g-beta/g-gamma
+complex	GPCR/g-alpha-s/g-beta/g-gamma
+complex	PKA
+complex	NT/GPCR (cytoplasm)
+complex	NT/GPCR
+protein	NT (neurotransmitter)
+abstract	degradation
+protein	PKC
+protein	GRK4
+protein	GPCR
+protein	ARRB1
+PKC	NT/GPCR	component>
+GRK4	NT/GPCR	component>
+ARRB1	NT/GPCR	component>
+PKA	NT/GPCR	component>
+NT/GPCR	NT/GPCR (cytoplasm)	-a>
+GPCR	degradation	-ap>
+NT/GPCR (cytoplasm)	GPCR	component>
+NT/GPCR (cytoplasm)	NT (neurotransmitter)	component>
+GPCR	GPCR/g-alpha-s/g-beta/g-gamma	component>
+g-alpha/g-beta/g-gamma	GPCR/g-alpha-s/g-beta/g-gamma	component>
+NT (neurotransmitter)	degradation	-ap>
+NT transporter	NT (neurotransmitter)	-a>
+GPCR/g-alpha-s/g-beta/g-gamma	NT/GPCR/g-alpha/g-beta/g-gamma	component>
+NT (neurotransmitter)	NT/GPCR/g-alpha/g-beta/g-gamma	component>
+GPCR	GPCR	-a>
+NT (neurotransmitter)	NT (neurotransmitter)	-a>
+NT/GPCR/g-alpha/g-beta/g-gamma	g-alpha/g-beta/g-gamma	component>
+NT/GPCR/g-alpha/g-beta/g-gamma	NT/GPCR	component>

@@ -1,0 +1,29 @@
+smallMolecule	SB203580
+protein	MEK3/MEK6
+complex	NF-kappa-B
+complex	4-1BB/TRAF2
+complex	4-1BBL/4-1BB/TRAF2
+protein	TNFSF9
+protein	MAPK14
+protein	MAP3K5
+protein	JUN
+protein	IL4
+protein	IL2
+protein	IFNG
+protein	ATF2
+NF-kappa-B	IL4	-a>
+ATF2	IL4	-a>
+JUN	IL4	-a>
+4-1BBL/4-1BB/TRAF2	MAP3K5	-a>
+MAPK14	ATF2	-a>
+4-1BB/TRAF2	4-1BBL/4-1BB/TRAF2	component>
+TNFSF9	4-1BBL/4-1BB/TRAF2	component>
+SB203580	MAPK14	-a>
+MEK3/MEK6	MAPK14	-a>
+NF-kappa-B	IFNG	-a>
+ATF2	IFNG	-a>
+JUN	IFNG	-a>
+MAP3K5	MEK3/MEK6	-a>
+NF-kappa-B	IL2	-a>
+ATF2	IL2	-a>
+JUN	IL2	-a>

@@ -1,0 +1,36 @@
+complex	RhoA/B/C:GTP
+complex	G-protein alpha (12/13):LARG:Plexin B1
+complex	G-protein alpha (13):GTP
+protein	ROCK
+complex	Activated ROCK:RhoA/B/C:GTP
+complex	Rac1-GTP
+complex	G13-activated p115-RhoGEF
+complex	PI3K alpha
+complex	Activated Rac1:PI3K alpha
+protein	UniProt:O43157-1 PLXNB1_subunit_20_2135_20-2135
+complex	Rac1-GDP
+complex	RhoA,B,C:GDP
+protein	UniProt:Q9NZN5-1 ARHGEF12
+protein	G-protein alpha (12/13) subunit
+complex	G-protein alpha (12/13):LARG
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ARHGEF1
+G13-activated p115-RhoGEF	Rac1-GTP	-a>
+ARHGEF1	G13-activated p115-RhoGEF	component>
+G-protein alpha (13):GTP	G13-activated p115-RhoGEF	component>
+G-protein alpha (12/13):LARG	G-protein alpha (12/13):LARG:Plexin B1	component>
+UniProt:O43157-1 PLXNB1_subunit_20_2135_20-2135	G-protein alpha (12/13):LARG:Plexin B1	component>
+ROCK	Activated ROCK:RhoA/B/C:GTP	component>
+RhoA/B/C:GTP	Activated ROCK:RhoA/B/C:GTP	component>
+GTP	RhoA/B/C:GTP	-a>
+RhoA,B,C:GDP	GDP	-a>
+RhoA,B,C:GDP	RhoA/B/C:GTP	-a>
+PI3K alpha	Activated Rac1:PI3K alpha	component>
+Rac1-GTP	Activated Rac1:PI3K alpha	component>
+UniProt:Q9NZN5-1 ARHGEF12	G-protein alpha (12/13):LARG	component>
+G-protein alpha (12/13) subunit	G-protein alpha (12/13):LARG	component>
+Rac1-GDP	GDP	-a>
+Rac1-GDP	Rac1-GTP	-a>
+GTP	GDP	-a>
+GTP	Rac1-GTP	-a>

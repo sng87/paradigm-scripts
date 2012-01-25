@@ -1,0 +1,106 @@
+abstract	substrate adhesion-dependent cell spreading
+abstract	protein tyrosine phosphatase activity
+abstract	cell-cell adhesion
+abstract	neuron projection morphogenesis
+abstract	endocytosis
+abstract	cell adhesion mediated by integrin
+abstract	cell-cell signaling
+abstract	angiogenesis
+abstract	endothelial cell migration
+abstract	MAPKKK cascade
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+protein	p190RhoGAP
+complex	Ephrin A1/EPHA2/PI3K
+complex	RhoA/GDP
+complex	RAC1/GDP
+complex	Ephrin A1/EPHA2/VAV2-VAV3
+complex	PAK1
+complex	Ephrin A1/EPHA2/p52 SHC
+smallMolecule	PI-3-4-5-P3
+complex	Ephrin A1/EPHA2/LMW-PTP
+protein	VAV2-VAV3
+smallMolecule	PI-3-4-P2
+complex	Ephrin A1/EPHA2/p52 SHC/GRB2
+complex	Ephrin A1/EPHA2/Tiam1
+smallMolecule	PI-4-5-P2
+complex	PI3K
+protein	p52 SHC
+complex	Ephrin A1/EPHA2
+complex	RhoA/GTP
+protein	FAK
+complex	Ephrin A1/EPHA2/Src
+protein	p130 Cas
+smallMolecule	GDP
+smallMolecule	S1P
+smallMolecule	GTP
+protein	TIAM1
+protein	SRC
+protein	PAK1
+protein	INPPL1
+protein	GRB2
+protein	EPHA2
+protein	EFNA1
+protein	CBL
+protein	ACP1
+Ephrin A1/EPHA2/PI3K	PI-3-4-5-P3	-a>
+Ephrin A1/EPHA2/VAV2-VAV3	PAK1	-a>
+p130 Cas	substrate adhesion-dependent cell spreading	-ap>
+FAK	substrate adhesion-dependent cell spreading	-ap>
+cell-cell signaling	Ephrin A1/EPHA2	component>
+PI-3-4-5-P3	PAK1	-a>
+Ephrin A1/EPHA2/Tiam1	PAK1	-a>
+RAC1/GDP	PAK1	-a|
+S1P	RAC1/GDP	-a>
+Ephrin A1/EPHA2	RAC1/GDP	-a>
+Ephrin A1/EPHA2	RhoA/GTP	-a>
+p190RhoGAP	RhoA/GDP	-a>
+PAK1	endocytosis	-ap>
+INPPL1	PI-3-4-P2	-a>
+CBL	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+Ephrin A1/EPHA2/VAV2-VAV3	angiogenesis	-ap>
+TIAM1	Ephrin A1/EPHA2/Tiam1	component>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2/Tiam1	component>
+Ephrin A1/EPHA2	FAK	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+PAK1	substrate adhesion-dependent cell spreading	-ap|
+PAK1	endothelial cell migration	-ap>
+Ephrin A1/EPHA2/p52 SHC/GRB2	MAPKKK cascade	-ap>
+Ephrin A1/EPHA2/LMW-PTP	p190RhoGAP	-a>
+RhoA/GTP	substrate adhesion-dependent cell spreading	-ap>
+PAK1	neuron projection morphogenesis	-ap>
+SRC	Ephrin A1/EPHA2/Src	component>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2/Src	component>
+GRB2	Ephrin A1/EPHA2/p52 SHC/GRB2	component>
+Ephrin A1/EPHA2/p52 SHC	Ephrin A1/EPHA2/p52 SHC/GRB2	component>
+p52 SHC	Ephrin A1/EPHA2/p52 SHC	component>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2/p52 SHC	component>
+EPHA2	Ephrin A1/EPHA2	component>
+EFNA1	Ephrin A1/EPHA2	component>
+RhoA/GTP	cell-cell adhesion	-ap|
+Ephrin A1/EPHA2/Src	cell-cell adhesion	-ap|
+VAV2-VAV3	Ephrin A1/EPHA2/VAV2-VAV3	component>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2/VAV2-VAV3	component>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+PAK1	PAK1	-a>
+PI3K	Ephrin A1/EPHA2/PI3K	component>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2/PI3K	component>
+GDP	GTP	-a>
+GDP	RAC1/GDP	-a>
+PAK1	GTP	-a>
+PAK1	RAC1/GDP	-a>
+protein tyrosine phosphatase activity	FAK	-a>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+RhoA/GTP	RhoA/GDP	-a>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2	component>
+Ephrin A1/EPHA2	endocytosis	-ap>
+FAK	cell adhesion mediated by integrin	-ap|
+Ephrin A1/EPHA2	p130 Cas	-a>
+ACP1	Ephrin A1/EPHA2/LMW-PTP	component>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2/LMW-PTP	component>
+PI-3-4-5-P3	PI-3-4-P2	-a>
+Ephrin A1/EPHA2	proteasomal ubiquitin-dependent protein catabolic process	-ap>

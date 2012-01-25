@@ -1,0 +1,21 @@
+complex	incision complex for GG-NER
+complex	pre-incision complex in GG-NER
+complex	RPA heterotrimer
+complex	pre-incision complex with open DNA bubble
+complex	ERCC1:XPF complex
+complex	XPC:HR23B:damaged DNA complex
+complex	TFIIH
+protein	XPA
+protein	ERCC5
+protein	DDB2
+protein	DDB1
+pre-incision complex with open DNA bubble	incision complex for GG-NER	component>
+ERCC1:XPF complex	incision complex for GG-NER	component>
+pre-incision complex in GG-NER	pre-incision complex with open DNA bubble	-a>
+RPA heterotrimer	pre-incision complex in GG-NER	component>
+TFIIH	pre-incision complex in GG-NER	component>
+DDB2	pre-incision complex in GG-NER	component>
+ERCC5	pre-incision complex in GG-NER	component>
+DDB1	pre-incision complex in GG-NER	component>
+XPC:HR23B:damaged DNA complex	pre-incision complex in GG-NER	component>
+XPA	pre-incision complex in GG-NER	component>

@@ -1,0 +1,46 @@
+smallMolecule	glucose
+complex	Insulin responsive Vesicles
+smallMolecule	Glycogen
+complex	PP1-C/PP-1G/Glycogen
+complex	TC10/GTP/CIP4/Exocyst
+complex	AS160/CaM/Ca2+
+complex	PP1-C/PP-1G
+complex	AS160/14-3-3
+protein	PP-1G
+complex	SNARE/Synip
+complex	CaM/Ca2+
+protein	Atypical PKCs
+complex	Insulin Receptor/Insulin
+protein	14-3-3 family
+protein	TBC1D4
+protein	SLC2A4
+protein	PPP1CC
+protein	GYS1
+protein	GSK3B
+protein	ASIP
+protein	AKT2
+protein	AKT1
+AS160/CaM/Ca2+	SLC2A4	component>
+SNARE/Synip	SLC2A4	component>
+TC10/GTP/CIP4/Exocyst	SLC2A4	component>
+ASIP	SLC2A4	component>
+Atypical PKCs	SLC2A4	component>
+Insulin Receptor/Insulin	PP1-C/PP-1G	component>
+TBC1D4	SLC2A4	component>
+AS160/14-3-3	SLC2A4	component>
+AKT2	GSK3B	-a>
+CaM/Ca2+	AS160/CaM/Ca2+	component>
+TBC1D4	AS160/CaM/Ca2+	component>
+AKT1	TBC1D4	-a>
+GSK3B	GYS1	-a>
+Glycogen	PP1-C/PP-1G/Glycogen	-a>
+PP1-C/PP-1G	PP1-C/PP-1G/Glycogen	-a>
+PP-1G	PP1-C/PP-1G	component>
+PPP1CC	PP1-C/PP-1G	component>
+SLC2A4	glucose	-a>
+Insulin responsive Vesicles	SLC2A4	component>
+14-3-3 family	AS160/14-3-3	component>
+TBC1D4	AS160/14-3-3	component>
+PP1-C/PP-1G/Glycogen	Glycogen	component>
+GSK3B	Glycogen	component>
+AKT1	GSK3B	-a>

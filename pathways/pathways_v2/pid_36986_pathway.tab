@@ -1,0 +1,142 @@
+abstract	regulation of germinal center formation
+abstract	regulation of isotype switching to IgG isotypes
+abstract	Monocyte
+abstract	B cell proliferation
+abstract	B cell affinity maturation
+abstract	plasma cell differentiation
+abstract	B-Lymphocyte
+abstract	regulation of isotype switching to IgE isotypes
+abstract	degradation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	cIAP1/cIAP2/TRAF2
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)
+complex	RelA/NF kappa B1
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1
+complex	PI3K Class I family/CBL-b
+complex	TRAF2/CBL-b
+protein	JNK family-active
+complex	cIAP1/cIAP2/TRAF2/TRAF3
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2
+complex	C4BPA/CD40
+complex	CD40/CD40L (trimer)/TTRAP
+smallMolecule	Zn2+
+complex	cIAP1/cIAP2
+protein	JNK family
+complex	CD40/CD40L (trimer)/JAK3 (trimer)
+complex	STAT5A (dimer)
+complex	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b
+protein	p38alpha-beta-active
+complex	CD40L (trimer)
+protein	BCL-X(L)
+complex	CD40/CD40L (trimer)/TRAF3 (trimer)
+protein	MEKK1
+complex	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1
+complex	CD40/CD40L (trimer)/TRAF6
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+protein	NIK
+protein	p38alpha-beta
+complex	CD40/CD40L (trimer)
+complex	CD40/JAK3
+protein	TTRAP
+protein	TRAF6
+protein	TRAF3
+protein	TRAF2
+protein	TRAF1
+protein	TNFAIP3
+protein	STAT5A
+protein	NFKBIA
+protein	MYC
+protein	MAP2K4
+protein	JUN
+protein	IL4
+protein	FCAMR
+protein	CD40
+protein	CBLB
+protein	C4BPA
+protein	AKT1
+C4BPA/CD40	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+CD40/CD40L (trimer)/TRAF3 (trimer)	JNK family	-a>
+B-Lymphocyte	JNK family	-a>
+B-Lymphocyte	CD40/CD40L (trimer)/TRAF2 (trimer)	component>
+Zn2+	CD40/CD40L (trimer)/TRAF2 (trimer)	-a>
+CD40/CD40L (trimer)/TRAF2 (trimer)	regulation of germinal center formation	-ap>
+CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	p38alpha-beta-active	-a>
+B-Lymphocyte	p38alpha-beta-active	-a>
+TRAF1	proteasomal ubiquitin-dependent protein catabolic process	-ap|
+CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+B-Lymphocyte	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+MAP2K4	JNK family-active	-a>
+B-Lymphocyte	JNK family-active	-a>
+CD40/CD40L (trimer)/TRAF6	p38alpha-beta-active	-a>
+CD40/CD40L (trimer)/TTRAP	NF kappa B1 p50/RelA/I kappa B alpha	-a|
+CD40/CD40L (trimer)/TRAF6	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	regulation of isotype switching to IgG isotypes	-ap>
+IL4	regulation of isotype switching to IgG isotypes	-ap>
+Monocyte	CD40/CD40L (trimer)/JAK3 (trimer)	component>
+CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	proteasomal ubiquitin-dependent protein catabolic process	-ap|
+B-Lymphocyte	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+CD40/CD40L (trimer)/TRAF2 (trimer)	JNK family-active	-a>
+CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	B cell proliferation	-ap>
+CD40/CD40L (trimer)/TRAF2 (trimer)	regulation of isotype switching to IgE isotypes	-ap>
+IL4	regulation of isotype switching to IgE isotypes	-ap>
+NFKBIA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TRAF6	CD40/CD40L (trimer)/TRAF2 (trimer)	component>
+CD40/CD40L (trimer)/TRAF2 (trimer)	CD40/CD40L (trimer)/TRAF2 (trimer)	component>
+JNK family-active	JNK family	-a>
+RelA/NF kappa B1	BCL-X(L)	-t>
+CBLB	TRAF2/CBL-b	component>
+CBLB	CD40/CD40L (trimer)/TRAF2 (trimer)	component>
+TRAF2	TRAF2/CBL-b	component>
+CD40/CD40L (trimer)	TRAF2/CBL-b	component>
+TRAF2	CD40/CD40L (trimer)/TRAF2 (trimer)	component>
+CD40/CD40L (trimer)	CD40/CD40L (trimer)/TRAF2 (trimer)	component>
+B-Lymphocyte	CD40/CD40L (trimer)/TRAF2 (trimer)	-a>
+RelA/NF kappa B1	RelA/NF kappa B1	-a>
+CD40	C4BPA/CD40	component>
+C4BPA	C4BPA/CD40	component>
+B-Lymphocyte	regulation of germinal center formation	-ap>
+TRAF6	CD40/CD40L (trimer)/TRAF6	component>
+CD40/CD40L (trimer)	CD40/CD40L (trimer)/TRAF6	component>
+NIK	degradation	-ap>
+CD40	CD40/CD40L (trimer)	component>
+CD40L (trimer)	CD40/CD40L (trimer)	component>
+TRAF3	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+STAT5A	STAT5A (dimer)	component>
+NF kappa B1 p50/RelA/I kappa B alpha	RelA/NF kappa B1	component>
+NF kappa B1 p50/RelA/I kappa B alpha	NFKBIA	component>
+CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	MAP2K4	-a>
+p38alpha-beta	p38alpha-beta-active	-a>
+NF kappa B1 p50/RelA/I kappa B alpha	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+TRAF1	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	component>
+CD40/CD40L (trimer)/TRAF2 (trimer)	CD40/CD40L (trimer)/TRAF2 (trimer)/TRAF1	component>
+TTRAP	CD40/CD40L (trimer)/TTRAP	component>
+CD40/CD40L (trimer)	CD40/CD40L (trimer)/TTRAP	component>
+MEKK1	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	component>
+CD40/CD40L (trimer)/TRAF2 (trimer)	CD40/CD40L (trimer)/TRAF2 (trimer)/MEKK1	component>
+JNK family-active	JUN	-a>
+TRAF3	CD40/CD40L (trimer)/TRAF3 (trimer)	component>
+CD40/CD40L (trimer)	CD40/CD40L (trimer)/TRAF3 (trimer)	component>
+RelA/NF kappa B1	MYC	-t>
+CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	TRAF3	-a>
+B-Lymphocyte	regulation of isotype switching to IgG isotypes	-ap>
+CD40/JAK3	CD40/CD40L (trimer)/JAK3 (trimer)	component>
+CD40L (trimer)	CD40/CD40L (trimer)/JAK3 (trimer)	component>
+STAT5A (dimer)	STAT5A (dimer)	-a>
+cIAP1/cIAP2	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	component>
+CD40/CD40L (trimer)/TRAF2 (trimer)	CD40/CD40L (trimer)/TRAF2 (trimer)/cIAP1/cIAP2	component>
+TRAF2/CBL-b	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+JNK family	JNK family-active	-a>
+FCAMR	B cell proliferation	-ap>
+cIAP1/cIAP2/TRAF2	cIAP1/cIAP2/TRAF2/TRAF3	component>
+TRAF3	cIAP1/cIAP2/TRAF2/TRAF3	component>
+CD40/CD40L (trimer)/TRAF6	B cell affinity maturation	-ap>
+PI3K Class I family/CBL-b	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	component>
+CD40/CD40L (trimer)/TRAF6	CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	component>
+cIAP1/cIAP2/TRAF2/TRAF3	NIK	-a>
+RelA/NF kappa B1	TNFAIP3	-t>
+CD40/CD40L (trimer)/TRAF6	plasma cell differentiation	-ap>
+TRAF2	cIAP1/cIAP2/TRAF2	component>
+cIAP1/cIAP2	cIAP1/cIAP2/TRAF2	component>
+B-Lymphocyte	regulation of isotype switching to IgE isotypes	-ap>
+CD40/CD40L (trimer)/JAK3 (trimer)	STAT5A	-a>
+CD40/CD40L (trimer)/TRAF6/PI3K Class I family/CBL-b	AKT1	-a>

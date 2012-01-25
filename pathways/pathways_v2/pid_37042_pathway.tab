@@ -1,0 +1,122 @@
+abstract	sprouting angiogenesis
+abstract	endothelial cell proliferation
+abstract	endothelial cell migration
+complex	Activin A/ACTR2/Endoglin (dimer)
+complex	FKBP12/ALK1 (dimer)
+complex	BMP9/BMPR2/Endoglin/ALK1 (dimer)
+complex	Activin A/ACTR2/Endoglin/ALK1 (dimer)
+complex	TGFB3/TGFBR2/Endoglin (dimer)
+complex	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CK2B
+complex	Endoglin (dimer)
+complex	BMP9/BMPR2/Endoglin/ALK1 (dimer)/CK2B
+complex	ACTR2 (dimer)
+protein	SMAD1-5-8
+complex	ALK2 (dimer)
+complex	Activin A/ACTR2A (dimer)
+complex	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CAV1
+protein	ERK1-2-active
+complex	TGFB1/TGFBR2/Endoglin (dimer)
+complex	CK2B/FKBP12/ALK1 (dimer)
+protein	ERK1-2
+complex	TGFB3 (dimer)
+complex	ACTR2A (dimer)
+complex	Activin A
+complex	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/PPP1CA
+complex	TGFBR2 (dimer)
+complex	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1
+complex	BMP9/ACTR2/Endoglin/ALK1 (dimer)
+protein	SMAD1-5-8-active
+complex	SMAD4/SMAD1-5-8 (dimer)
+complex	FKBP12/TGFBR1 (dimer)
+complex	BMPR2 (homodimer)
+complex	Endoglin (dimer)/beta Arrestin2
+complex	TGFB1 (dimer)
+complex	TGFB3/TGFBR2/Endoglin/TGFBR1/ALK1
+complex	BMP9 (dimer)
+complex	ALK2/ACTR2A (dimer)
+protein	TLX2
+protein	SMAD7
+protein	SMAD4
+protein	PPP1CA
+protein	ID1
+protein	FKBP1A
+protein	CAV1
+protein	ARRB2
+SMAD7	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/PPP1CA	component>
+TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CK2B	SMAD1-5-8-active	-a>
+BMP9/BMPR2/Endoglin/ALK1 (dimer)	SMAD1-5-8-active	-a>
+Endoglin (dimer)/beta Arrestin2	ERK1-2-active	-a|
+TGFB1 (dimer)	ERK1-2-active	-a>
+BMP9/ACTR2/Endoglin/ALK1 (dimer)	SMAD1-5-8-active	-a>
+BMP9/ACTR2/Endoglin/ALK1 (dimer)	endothelial cell proliferation	-ap|
+BMP9/BMPR2/Endoglin/ALK1 (dimer)/CK2B	SMAD1-5-8-active	-a>
+TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/PPP1CA	SMAD1-5-8-active	-a|
+TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CAV1	SMAD1-5-8-active	-a>
+BMP9/ACTR2/Endoglin/ALK1 (dimer)	endothelial cell migration	-ap|
+TGFB3/TGFBR2/Endoglin/TGFBR1/ALK1	SMAD1-5-8-active	-a>
+ID1	endothelial cell migration	-ap>
+TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1	sprouting angiogenesis	-ap|
+Activin A/ACTR2/Endoglin (dimer)	FKBP1A	component>
+Activin A/ACTR2/Endoglin (dimer)	Activin A/ACTR2/Endoglin/ALK1 (dimer)	component>
+FKBP12/ALK1 (dimer)	Activin A/ACTR2/Endoglin/ALK1 (dimer)	component>
+PPP1CA	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/PPP1CA	component>
+TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/PPP1CA	component>
+Endoglin (dimer)	BMP9/ACTR2/Endoglin/ALK1 (dimer)	component>
+ACTR2 (dimer)	FKBP1A	component>
+ACTR2 (dimer)	BMP9/ACTR2/Endoglin/ALK1 (dimer)	component>
+BMP9 (dimer)	BMP9/ACTR2/Endoglin/ALK1 (dimer)	component>
+FKBP12/ALK1 (dimer)	BMP9/ACTR2/Endoglin/ALK1 (dimer)	component>
+TGFB1/TGFBR2/Endoglin (dimer)	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CK2B	component>
+FKBP12/TGFBR1 (dimer)	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CK2B	component>
+CK2B/FKBP12/ALK1 (dimer)	FKBP1A	component>
+CK2B/FKBP12/ALK1 (dimer)	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CK2B	component>
+CAV1	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CAV1	component>
+TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1/CAV1	component>
+SMAD4/SMAD1-5-8 (dimer)	SMAD4/SMAD1-5-8 (dimer)	-a>
+Endoglin (dimer)	Activin A/ACTR2/Endoglin (dimer)	component>
+ACTR2 (dimer)	Activin A/ACTR2/Endoglin (dimer)	component>
+Activin A	Activin A/ACTR2/Endoglin (dimer)	component>
+Endoglin (dimer)	TGFB1/TGFBR2/Endoglin (dimer)	component>
+TGFBR2 (dimer)	TGFB1/TGFBR2/Endoglin (dimer)	component>
+TGFB1 (dimer)	TGFB1/TGFBR2/Endoglin (dimer)	component>
+Endoglin (dimer)	FKBP1A	component>
+Endoglin (dimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)	component>
+BMPR2 (homodimer)	FKBP1A	component>
+BMPR2 (homodimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)	component>
+BMP9 (dimer)	FKBP1A	component>
+BMP9 (dimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)	component>
+FKBP12/ALK1 (dimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)	component>
+ERK1-2	ERK1-2-active	-a>
+TGFB3/TGFBR2/Endoglin (dimer)	FKBP1A	component>
+TGFB3/TGFBR2/Endoglin (dimer)	TGFB3/TGFBR2/Endoglin/TGFBR1/ALK1	component>
+FKBP12/TGFBR1 (dimer)	TGFB3/TGFBR2/Endoglin/TGFBR1/ALK1	component>
+FKBP12/ALK1 (dimer)	TGFB3/TGFBR2/Endoglin/TGFBR1/ALK1	component>
+Endoglin (dimer)	TGFB3/TGFBR2/Endoglin (dimer)	component>
+TGFBR2 (dimer)	TGFB3/TGFBR2/Endoglin (dimer)	component>
+TGFB3 (dimer)	TGFB3/TGFBR2/Endoglin (dimer)	component>
+BMP9/BMPR2/Endoglin/ALK1 (dimer)	endothelial cell proliferation	-ap|
+SMAD4/SMAD1-5-8 (dimer)	TLX2	-t>
+TGFB1/TGFBR2/Endoglin (dimer)	FKBP1A	component>
+TGFB1/TGFBR2/Endoglin (dimer)	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1	component>
+FKBP12/TGFBR1 (dimer)	FKBP1A	component>
+FKBP12/TGFBR1 (dimer)	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1	component>
+FKBP12/ALK1 (dimer)	FKBP1A	component>
+FKBP12/ALK1 (dimer)	TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1	component>
+SMAD4	SMAD4/SMAD1-5-8 (dimer)	component>
+SMAD1-5-8-active	SMAD4/SMAD1-5-8 (dimer)	component>
+TGFB1/TGFBR2/Endoglin/TGFBR1/ALK1	endothelial cell proliferation	-ap>
+SMAD4/SMAD1-5-8 (dimer)	ID1	-t>
+BMP9/BMPR2/Endoglin/ALK1 (dimer)	endothelial cell migration	-ap|
+Endoglin (dimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)/CK2B	component>
+BMPR2 (homodimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)/CK2B	component>
+BMP9 (dimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)/CK2B	component>
+CK2B/FKBP12/ALK1 (dimer)	BMP9/BMPR2/Endoglin/ALK1 (dimer)/CK2B	component>
+ALK2 (dimer)	ALK2/ACTR2A (dimer)	component>
+ALK2 (dimer)	Activin A/ACTR2A (dimer)	component>
+ACTR2A (dimer)	ALK2/ACTR2A (dimer)	component>
+ACTR2A (dimer)	Activin A/ACTR2A (dimer)	component>
+Activin A	ALK2/ACTR2A (dimer)	component>
+Activin A	Activin A/ACTR2A (dimer)	component>
+SMAD1-5-8	SMAD1-5-8-active	-a>
+ARRB2	Endoglin (dimer)/beta Arrestin2	component>
+Endoglin (dimer)	Endoglin (dimer)/beta Arrestin2	component>

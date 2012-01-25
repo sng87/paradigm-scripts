@@ -1,0 +1,84 @@
+complex	TLR2/MYD88
+complex	TGF-beta-R1/TGF-beta-R2
+complex	NTHI/TLR2/MYD88
+complex	Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor
+complex	p300/CBP
+complex	p50/RELA/I-kappa-B-alpha
+complex	p300/CBP/RELA/p50
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+smallMolecule	decadron (tn)
+complex	Dexamethasone/glucocorticoid receptor
+complex	RELA/p50
+smallMolecule	NTHI
+protein	TGF-beta
+complex	TGF-beta/TGF-beta-R1/TGF-beta-R2
+abstract	inflammatory response
+abstract	protein ubiquitination
+abstract	degradation
+protein	IKKs
+complex	SMAD3/SMAD4
+protein	TNF
+protein	SMAD4
+protein	SMAD3
+protein	NR3C1
+protein	MUC5AC
+protein	MUC2
+protein	MAPK14
+protein	MAPK11
+protein	MAP4K4
+protein	MAP3K7
+protein	MAP2K6
+protein	MAP2K3
+protein	IL8
+protein	IL1B
+protein	DUSP1
+MAP2K6	MAPK14	-a>
+IKKs	protein ubiquitination	-ap>
+p300/CBP/RELA/p50	MUC2	-t>
+MAPK11	IL1B	-t|
+MAPK14	IL1B	-t|
+MAPK11	IL8	-t|
+MAPK14	IL8	-t|
+p300/CBP/RELA/p50	MUC5AC	-t>
+MAPK11	TNF	-t|
+MAPK14	TNF	-t|
+Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	DUSP1	-t>
+SMAD4	SMAD3/SMAD4	component>
+SMAD3	SMAD3/SMAD4	component>
+MAP2K3	MAPK14	-a>
+NR3C1	Dexamethasone/glucocorticoid receptor	component>
+decadron (tn)	Dexamethasone/glucocorticoid receptor	component>
+p300/CBP	p300/CBP/RELA/p50	component>
+RELA/p50	p300/CBP/RELA/p50	component>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+MAP4K4	IKKs	-a>
+SMAD3/SMAD4	SMAD3/SMAD4	-a>
+SMAD3/SMAD4	MUC2	-t>
+p300/CBP/RELA/p50	IL1B	-t>
+IL1B	inflammatory response	-ap>
+TGF-beta/TGF-beta-R1/TGF-beta-R2	SMAD3	-a>
+MAP2K6	MAP2K6	-a>
+MAP2K6	MAP2K3	-a>
+MAP2K3	MAP2K6	-a>
+MAP3K7	MAP2K3	-a>
+MAP3K7	MAP4K4	-a>
+Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	-a>
+IL8	inflammatory response	-ap>
+NTHI/TLR2/MYD88	MAP3K7	-a>
+TNF	inflammatory response	-ap>
+p300/CBP/RELA/p50	IL8	-t>
+TGF-beta	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGF-beta-R1/TGF-beta-R2	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+SMAD3/SMAD4	MUC5AC	-t>
+TLR2/MYD88	NTHI/TLR2/MYD88	-a>
+NTHI	NTHI/TLR2/MYD88	-a>
+p300/CBP/RELA/p50	TNF	-t>
+MAPK11	MAPK11	-a>
+MAPK11	MAPK14	-a>
+MAPK14	MAPK11	-a>
+DUSP1	MAPK14	-a>
+Dexamethasone/glucocorticoid receptor	Dexamethasone/glucocorticoid receptor/Dexamethasone/glucocorticoid receptor	component>
+RELA/p50	RELA/p50	-a>

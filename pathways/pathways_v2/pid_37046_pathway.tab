@@ -1,0 +1,69 @@
+abstract	positive regulation of leukocyte migration
+abstract	Rheumatoid Arthritis
+abstract	Schwann Cell
+abstract	Food Intake and Energy Homeostasis Pathway
+abstract	neuron projection morphogenesis
+abstract	Mesoderm Cell
+abstract	limb bud formation
+abstract	long-term memory
+complex	Syndecan-3/IL8
+complex	Fyn/Cortactin
+complex	alpha-MSH/MC4R
+complex	Src/Cortactin
+complex	Syndecan-3/CASK
+complex	FGFR/FGF/Syndecan-3
+complex	Syndecan-3/EGFR
+protein	PKC
+complex	Syndecan-3/Neurocan
+complex	Syndecan-3/AgRP
+complex	Syndecan-3/Src/Cortactin
+complex	Syndecan-3/AgRP/MC4R
+protein	MMPs
+complex	Gamma Secretase
+complex	FGFR/FGF
+complex	Syndecan-3/Fyn/Cortactin
+protein	SDC3
+protein	PTN
+protein	POMC
+protein	NCAN
+protein	MC4R
+protein	IL8
+protein	EGFR
+protein	CASK
+protein	AGRP
+Rheumatoid Arthritis	Syndecan-3/IL8	component>
+PTN	Syndecan-3/Src/Cortactin	component>
+MMPs	SDC3	-a>
+Schwann Cell	SDC3	-a>
+FGFR/FGF/Syndecan-3	limb bud formation	-ap>
+Gamma Secretase	SDC3	-a>
+Syndecan-3/IL8	positive regulation of leukocyte migration	-ap>
+IL8	Syndecan-3/IL8	component>
+SDC3	Syndecan-3/IL8	component>
+Src/Cortactin	Syndecan-3/Src/Cortactin	component>
+SDC3	Syndecan-3/Src/Cortactin	component>
+Fyn/Cortactin	Syndecan-3/Fyn/Cortactin	component>
+SDC3	Syndecan-3/Fyn/Cortactin	component>
+EGFR	Syndecan-3/EGFR	component>
+SDC3	Syndecan-3/EGFR	component>
+Syndecan-3/AgRP/MC4R	Food Intake and Energy Homeostasis Pathway	-ap>
+Syndecan-3/Neurocan	neuron projection morphogenesis	-ap>
+CASK	Syndecan-3/CASK	component>
+SDC3	Syndecan-3/CASK	component>
+POMC	alpha-MSH/MC4R	component>
+POMC	Syndecan-3/AgRP/MC4R	component>
+MC4R	alpha-MSH/MC4R	component>
+MC4R	Syndecan-3/AgRP/MC4R	component>
+Syndecan-3/AgRP	alpha-MSH/MC4R	component>
+Syndecan-3/AgRP	Syndecan-3/AgRP/MC4R	component>
+FGFR/FGF	FGFR/FGF/Syndecan-3	component>
+SDC3	FGFR/FGF/Syndecan-3	component>
+AGRP	Syndecan-3/AgRP	component>
+SDC3	Syndecan-3/AgRP	component>
+NCAN	Syndecan-3/Neurocan	component>
+SDC3	Syndecan-3/Neurocan	component>
+Syndecan-3/Src/Cortactin	neuron projection morphogenesis	-ap>
+Mesoderm Cell	limb bud formation	-ap>
+SDC3	SDC3	-a>
+Syndecan-3/Fyn/Cortactin	long-term memory	-ap>
+PKC	SDC3	-a>

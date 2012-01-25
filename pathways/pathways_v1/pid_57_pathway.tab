@@ -1,0 +1,88 @@
+protein	TLN1
+protein	GIT1
+protein	DOCK1
+protein	RAC1
+protein	ARF6
+protein	BCAR1
+protein	PXN
+protein	CRKL
+protein	CRK
+protein	PIK3CA
+protein	PIK3R1
+protein	ITGB7
+protein	CBL
+protein	VCAM1
+protein	PRKACA
+protein	ITGA4
+protein	ITGB1
+complex	p130Cas/Crk/Dock1
+complex	alpha4/beta7 Integrin/Paxillin
+complex	alpha4/beta7 Integrin
+complex	alpha4/beta1 Integrin/Paxillin/VCAM1
+complex	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton
+complex	alpha4/beta1 Integrin/Paxillin/Talin
+complex	alpha4/beta1 Integrin/Paxillin/GIT1
+complex	alpha4/beta1 Integrin/Paxillin
+complex	alpha4/beta1 Integrin
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PI3K
+complex	CRKL/CBL
+complex	ARF6/GTP
+complex	ARF6/GDP
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	lamellipodium assembly
+abstract	cell adhesion
+p130Cas/Crk/Dock1	Rac1/GTP	-a>
+mol:GTP	Rac1/GTP	component>
+mol:GTP	ARF6/GTP	component>
+mol:GDP	Rac1/GDP	component>
+mol:GDP	ARF6/GDP	component>
+alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	cell adhesion	-ap>
+alpha4/beta1 Integrin/Paxillin/GIT1	mol:GDP	-a|
+alpha4/beta1 Integrin/Paxillin/GIT1	Rac1/GTP	-a|
+alpha4/beta1 Integrin/Paxillin/GIT1	ARF6/GTP	-a|
+TLN1	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	component>
+TLN1	alpha4/beta1 Integrin/Paxillin/Talin	component>
+GIT1	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+DOCK1	p130Cas/Crk/Dock1	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+ARF6	ARF6/GTP	component>
+ARF6	ARF6/GDP	component>
+BCAR1	p130Cas/Crk/Dock1	component>
+PXN	alpha4/beta7 Integrin/Paxillin	component>
+PXN	alpha4/beta1 Integrin/Paxillin/VCAM1	component>
+PXN	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	component>
+PXN	alpha4/beta1 Integrin/Paxillin/Talin	component>
+PXN	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+PXN	alpha4/beta1 Integrin/Paxillin	component>
+CRKL	CRKL/CBL	component>
+CRK	p130Cas/Crk/Dock1	component>
+PIK3CA	PI3K	component>
+PIK3R1	PI3K	component>
+ITGB7	alpha4/beta7 Integrin/Paxillin	component>
+ITGB7	alpha4/beta7 Integrin	component>
+CBL	CRKL/CBL	component>
+VCAM1	alpha4/beta1 Integrin/Paxillin/VCAM1	component>
+PRKACA	alpha4/beta1 Integrin	-a>
+PRKACA	PXN	-a>
+ITGA4	alpha4/beta7 Integrin/Paxillin	component>
+ITGA4	alpha4/beta7 Integrin	component>
+ITGA4	alpha4/beta1 Integrin/Paxillin/VCAM1	component>
+ITGA4	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	component>
+ITGA4	alpha4/beta1 Integrin/Paxillin/Talin	component>
+ITGA4	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+ITGA4	alpha4/beta1 Integrin/Paxillin	component>
+ITGA4	alpha4/beta1 Integrin	component>
+ITGB1	alpha4/beta1 Integrin/Paxillin/VCAM1	component>
+ITGB1	alpha4/beta1 Integrin/Paxillin/Talin/Actin Cytoskeleton	component>
+ITGB1	alpha4/beta1 Integrin/Paxillin/Talin	component>
+ITGB1	alpha4/beta1 Integrin/Paxillin/GIT1	component>
+ITGB1	alpha4/beta1 Integrin/Paxillin	component>
+ITGB1	alpha4/beta1 Integrin	component>
+Rac1/GTP	lamellipodium assembly	-ap>
+PI3K	Rac1/GTP	-a>
+CRKL/CBL	Rac1/GTP	-a>
+ARF6/GTP	Rac1/GTP	-a>

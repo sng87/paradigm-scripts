@@ -1,0 +1,23 @@
+complex	Nuclear Pore Complex (NPC)
+complex	Mature SLBP independent Histone mRNA:eIF4E complex
+complex	Mature intronless transcript derived Histone pre-mRNA:CBC complex
+complex	Cap Binding Complex (CBC)
+complex	Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex
+protein	THOC4
+protein	NXF1
+protein	EIF4E
+Nuclear Pore Complex (NPC)	THOC4	component>
+Nuclear Pore Complex (NPC)	Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	component>
+Nuclear Pore Complex (NPC)	Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	-a>
+Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	NXF1	component>
+Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	Mature SLBP independent Histone mRNA:eIF4E complex	component>
+Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	THOC4	component>
+EIF4E	NXF1	component>
+EIF4E	Mature SLBP independent Histone mRNA:eIF4E complex	component>
+EIF4E	THOC4	component>
+Mature intronless transcript derived Histone pre-mRNA:CBC complex	Cap Binding Complex (CBC)	component>
+Mature intronless transcript derived Histone pre-mRNA:CBC complex	Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	component>
+NXF1	Cap Binding Complex (CBC)	component>
+NXF1	Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	component>
+THOC4	Cap Binding Complex (CBC)	component>
+THOC4	Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex	component>

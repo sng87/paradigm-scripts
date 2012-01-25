@@ -1,0 +1,9 @@
+complex	MeCP1
+complex	Sin3/HDAC
+abstract	histone deacetylation
+abstract	negative regulation of transcription
+protein	MBD1
+MBD1	negative regulation of transcription	-ap>
+MeCP1	histone deacetylation	-ap>
+histone deacetylation	negative regulation of transcription	-ap>
+Sin3/HDAC	histone deacetylation	-ap>

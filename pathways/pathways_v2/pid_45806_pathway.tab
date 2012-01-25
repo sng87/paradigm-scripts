@@ -1,0 +1,66 @@
+complex	IL-3R
+complex	BAD/BCL-2
+complex	PKA
+complex	BCL-XL/BAX
+complex	IGF-1/IGF-1R
+complex	IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3
+smallMolecule	coleonol
+complex	SCF/SCF-R
+smallMolecule	Wortmannin
+smallMolecule	PIP2
+abstract	apoptosis
+smallMolecule	cAMP
+complex	BAD/14-3-3
+complex	BAD/BCL-XL
+smallMolecule	ceramide
+complex	PI3K
+smallMolecule	PIP3
+protein	YWHAH
+protein	PDPK1
+protein	KITLG
+protein	KIT
+protein	IL3
+protein	IGF1R
+protein	IGF1
+protein	BCL2L1
+protein	BCL2
+protein	BAX
+protein	BAD
+protein	AKT1
+protein	ADCY1
+ceramide	PIP3	-a|
+PI3K	PIP3	-a>
+PKA	BAD	component>
+AKT1	BAD	component>
+PKA	BAD	-a>
+YWHAH	BAD/14-3-3	component>
+BAD	BAD/14-3-3	component>
+BCL2L1	BAD/BCL-XL	component>
+BAD	BAD/BCL-XL	component>
+cAMP	PKA	-a>
+SCF/SCF-R	PI3K	-a>
+coleonol	ADCY1	-a>
+IGF1R	IGF-1/IGF-1R	component>
+IGF1	IGF-1/IGF-1R	component>
+IGF-1/IGF-1R	PI3K	-a>
+IL-3R	IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3	component>
+IL3	IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3	component>
+BAD/BCL-2	apoptosis	-ap>
+BAD/BCL-XL	BCL2L1	component>
+BAD/BCL-XL	BAD	component>
+ADCY1	cAMP	-a>
+PIP2	PIP3	-a>
+BAD/BCL-XL	apoptosis	-ap>
+BAD/BCL-2	BCL2	component>
+BAD/BCL-2	BAD	component>
+IL-3R-alpha/Colony stimulating factor 2 receptor beta/IL-3	PI3K	-a>
+Wortmannin	PI3K	-a>
+PDPK1	AKT1	-a>
+BCL2	BAD/BCL-2	component>
+BAD	BAD/BCL-2	component>
+AKT1	BAD	-a>
+BAX	BCL-XL/BAX	component>
+BCL2L1	BCL-XL/BAX	component>
+KIT	SCF/SCF-R	component>
+KITLG	SCF/SCF-R	component>
+PIP3	PDPK1	-a>

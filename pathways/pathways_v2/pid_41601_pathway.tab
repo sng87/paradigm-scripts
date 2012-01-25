@@ -1,0 +1,14 @@
+complex	Nuclear Pore Complex (NPC)
+complex	RNP Complex:Karyopherin alpha
+complex	RNP:Karyopherin alpha:Karyopherin beta complex
+complex	Ribonucleoprotein (RNP) Complex
+protein	KPNB1
+protein	KPNA1
+Nuclear Pore Complex (NPC)	RNP:Karyopherin alpha:Karyopherin beta complex	-a>
+KPNB1	RNP:Karyopherin alpha:Karyopherin beta complex	component>
+RNP Complex:Karyopherin alpha	RNP:Karyopherin alpha:Karyopherin beta complex	component>
+RNP:Karyopherin alpha:Karyopherin beta complex	KPNA1	component>
+RNP:Karyopherin alpha:Karyopherin beta complex	KPNB1	component>
+RNP:Karyopherin alpha:Karyopherin beta complex	Ribonucleoprotein (RNP) Complex	component>
+Ribonucleoprotein (RNP) Complex	RNP Complex:Karyopherin alpha	component>
+KPNA1	RNP Complex:Karyopherin alpha	component>

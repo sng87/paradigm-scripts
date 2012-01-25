@@ -1,0 +1,17 @@
+complex	RAF:MEK2
+complex	activated RAF complex
+complex	RAF:MEK1
+smallMolecule	ATP
+smallMolecule	ADP
+protein	MAP2K2
+protein	MAP2K1
+ATP	MAP2K1	component>
+RAF:MEK1	activated RAF complex	component>
+RAF:MEK1	ADP	component>
+RAF:MEK1	MAP2K1	component>
+ATP	ADP	component>
+ATP	MAP2K2	component>
+ATP	activated RAF complex	component>
+RAF:MEK2	ADP	component>
+RAF:MEK2	MAP2K2	component>
+RAF:MEK2	activated RAF complex	component>

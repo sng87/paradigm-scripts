@@ -1,0 +1,7 @@
+complex	Viral dsRNA bound to TLR3
+complex	Viral dsRNA:TLR3:TRIF complex
+protein	TLR3
+protein	TICAM1
+Viral dsRNA bound to TLR3	Viral dsRNA:TLR3:TRIF complex	component>
+TICAM1	Viral dsRNA:TLR3:TRIF complex	component>
+TLR3	Viral dsRNA bound to TLR3	component>

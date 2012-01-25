@@ -1,0 +1,163 @@
+protein	RNF41
+protein	ERBB2IP
+protein	DOCK7
+protein	BAD
+protein	NFATC4
+protein	SOS1
+protein	PTPN11
+protein	CHRNE
+protein	MAP2K1
+protein	NRG1
+protein	RAC1
+protein	GRB2
+protein	CDC42
+protein	MAPK10
+protein	MAPK9
+protein	MAPK8
+protein	FRAP1
+protein	USP8
+protein	STAT3
+protein	MAP2K2
+protein	NF2
+protein	AKT1
+protein	SHC1
+protein	MAPK1
+protein	MAPK3
+protein	ERBB3
+protein	PRKACA
+protein	PPP3CB
+protein	SRC
+protein	HSP90AA1
+protein	JUN
+protein	ERBB2
+protein	RAF1
+protein	CHRNA1
+protein	KRAS
+protein	KRAS
+protein	HRAS
+protein	NRAS
+protein	FOS
+protein	JAK2
+protein	NRG2
+complex	STAT3 (dimer)
+complex	RAS family/GTP
+complex	RAS family/GDP
+complex	RAC1-CDC42/GTP
+complex	RAC1-CDC42/GDP
+complex	HSP90 (dimer)
+complex	GRB2/SOS1
+complex	ErbB2/ErbB3/neuregulin 2
+complex	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1
+complex	ErbB2/ErbB3/neuregulin 1 beta/SHC
+complex	ErbB2/ErbB3/neuregulin 1 beta
+complex	ErbB2/ErbB2/HSP90 (dimer)
+chemical	mol:cAMP
+chemical	mol:PI-3-4-5-P3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Ca2+
+abstract	nervous system development
+abstract	myelination
+abstract	mammary gland morphogenesis
+abstract	heart morphogenesis
+abstract	cell proliferation
+abstract	cell migration
+abstract	apoptosis
+abstract	activation of caspase activity
+mol:cAMP	PRKACA	-a>
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:GTP	RAS family/GTP	component>
+mol:GTP	RAC1-CDC42/GTP	component>
+mol:GDP	RAS family/GDP	component>
+mol:GDP	RAC1-CDC42/GDP	component>
+mol:Ca2+	PPP3CB	-a>
+RNF41	ErbB2/ErbB3/neuregulin 1 beta	-a>
+ERBB2IP	ERBB2	-a|
+DOCK7	RAC1-CDC42/GTP	-a>
+BAD	apoptosis	-ap|
+NFATC4	myelination	-ap>
+SOS1	GRB2/SOS1	component>
+SOS1	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+PTPN11	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	-a|
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+NRG1	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+NRG1	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+NRG1	ErbB2/ErbB3/neuregulin 1 beta	component>
+RAC1	RAC1-CDC42/GTP	component>
+RAC1	RAC1-CDC42/GDP	component>
+GRB2	GRB2/SOS1	component>
+GRB2	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+CDC42	RAC1-CDC42/GTP	component>
+CDC42	RAC1-CDC42/GDP	component>
+MAPK10	cell migration	-ap>
+MAPK9	cell migration	-ap>
+MAPK8	cell migration	-ap>
+MAPK8	JUN	-a>
+FRAP1	myelination	-ap>
+USP8	RNF41	-a>
+STAT3	STAT3 (dimer)	component>
+MAP2K2	MAPK1	-a>
+MAP2K2	MAPK3	-a>
+NF2	cell proliferation	-ap>
+AKT1	apoptosis	-ap|
+AKT1	activation of caspase activity	-ap|
+AKT1	BAD	-a>
+AKT1	FRAP1	-a>
+AKT1	USP8	-a>
+SHC1	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+SHC1	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+MAPK1	cell proliferation	-ap>
+MAPK1	JUN	-t>
+MAPK1	CHRNA1	-t>
+MAPK1	FOS	-t>
+MAPK3	cell proliferation	-ap>
+MAPK3	JUN	-t>
+MAPK3	CHRNA1	-t>
+MAPK3	FOS	-t>
+ERBB3	ErbB2/ErbB3/neuregulin 2	component>
+ERBB3	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+ERBB3	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+ERBB3	ErbB2/ErbB3/neuregulin 1 beta	component>
+PRKACA	NF2	-a>
+PRKACA	ErbB2/ErbB3/neuregulin 1 beta	-a>
+PPP3CB	NFATC4	-a>
+SRC	STAT3	-a>
+HSP90AA1	HSP90 (dimer)	component>
+HSP90AA1	ErbB2/ErbB2/HSP90 (dimer)	component>
+JUN	CHRNE	-t>
+ERBB2	ErbB2/ErbB3/neuregulin 2	component>
+ERBB2	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+ERBB2	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+ERBB2	ErbB2/ErbB3/neuregulin 1 beta	component>
+ERBB2	ErbB2/ErbB2/HSP90 (dimer)	component>
+RAF1	MAP2K1	-a>
+RAF1	MAP2K2	-a>
+KRAS	RAS family/GTP	component>
+KRAS	RAS family/GDP	component>
+KRAS	RAS family/GTP	component>
+KRAS	RAS family/GDP	component>
+HRAS	RAS family/GTP	component>
+HRAS	RAS family/GDP	component>
+NRAS	RAS family/GTP	component>
+NRAS	RAS family/GDP	component>
+JAK2	STAT3	-a>
+NRG2	ErbB2/ErbB3/neuregulin 2	component>
+RAS family/GTP	RAF1	-a>
+RAC1-CDC42/GTP	MAPK10	-a>
+RAC1-CDC42/GTP	MAPK9	-a>
+RAC1-CDC42/GTP	MAPK8	-a>
+ErbB2/ErbB3/neuregulin 2	apoptosis	-ap|
+ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	mol:GDP	-a>
+ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	RAS family/GTP	-a>
+ErbB2/ErbB3/neuregulin 1 beta	nervous system development	-ap>
+ErbB2/ErbB3/neuregulin 1 beta	mol:Ca2+	-a>
+ErbB2/ErbB3/neuregulin 1 beta	mammary gland morphogenesis	-ap>
+ErbB2/ErbB3/neuregulin 1 beta	heart morphogenesis	-ap>
+ErbB2/ErbB3/neuregulin 1 beta	DOCK7	-a>
+ErbB2/ErbB3/neuregulin 1 beta	PTPN11	-a>
+ErbB2/ErbB3/neuregulin 1 beta	MAP2K1	-a>
+ErbB2/ErbB3/neuregulin 1 beta	MAPK8	-a>
+ErbB2/ErbB3/neuregulin 1 beta	PRKACA	-a>
+ErbB2/ErbB3/neuregulin 1 beta	FOS	-t>
+ErbB2/ErbB3/neuregulin 1 beta	JAK2	-a>

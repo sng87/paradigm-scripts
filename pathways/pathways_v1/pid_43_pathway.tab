@@ -1,0 +1,254 @@
+protein	IKBKG
+protein	GAB2
+protein	SPHK1
+protein	LAT2
+protein	DOK1
+protein	NFATC2
+protein	MAP3K1
+protein	CBLB
+protein	PAK2
+protein	LCP2
+protein	PTPN13
+protein	ITK
+protein	SOS1
+protein	BTK
+protein	PTPN11
+protein	PTK2
+protein	RELA
+protein	MAP2K1
+protein	MS4A2
+protein	GRB2
+protein	PXN
+protein	PLA2G4A
+protein	MAP2K4
+protein	MAPK8
+protein	SYK
+protein	PIK3CA
+protein	MAP2K2
+protein	FCGR2B
+protein	AKT1
+protein	FCER1G
+protein	SHC1
+protein	DUSP1
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	CBL
+protein	EDG1
+protein	RASA1
+protein	NFKB1
+protein	PLCG1
+protein	FER
+protein	VAV1
+protein	HCLS1
+protein	FCER1A
+protein	LYN
+protein	FYN
+protein	PRKCB
+protein	JUN
+protein	PLA2G1B
+protein	RAF1
+protein	IGHE
+protein	HRAS
+protein	FOS
+protein	KLRG1
+protein	LAT
+protein	WIPF1
+protein	CHUK
+protein	PLD2
+protein	IKBKB
+protein	MAP2K7
+protein	PPAP2A
+protein	INPP5D
+protein	GO:0007205
+complex	SHC/Grb2/SOS1
+complex	RasGAP/p62DOK
+complex	PI3K
+complex	NTAL/PLCgamma1/GRB2/SLP76/GADs
+complex	NF-kappa-B/RelA
+complex	LAT/PLCgamma1/GRB2/SLP76/GADs
+complex	KLRG1/SHP2
+complex	KLRG1/SHIP
+complex	IKK complex
+complex	GAB2/PI3K/SHP2
+complex	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK
+complex	Fc epsilon R1/FcgammaRIIB/SHIP
+complex	Fc epsilon R1/FcgammaRIIB
+complex	Fc epsilon R1
+complex	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP
+complex	Antigen/IgE/Fc epsilon R1/LYN/SYK
+complex	Antigen/IgE/Fc epsilon R1/Fyn
+complex	Antigen/IgE/Fc epsilon R1
+complex	AP1
+chemical	mol:Sphingosine-1-phosphate
+chemical	mol:Phosphatidic acid
+chemical	mol:PIP3
+chemical	mol:Glucocorticoid Dexamethasone
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Choline
+chemical	mol:Ca2+
+chemical	mol:Ca++
+abstract	regulation of mast cell degranulation
+abstract	positive regulation of cell migration
+abstract	negative regulation of mast cell degranulation
+abstract	cytokine secretion
+abstract	calcium-dependent protein kinase C activity
+abstract	actin cytoskeleton reorganization
+mol:Sphingosine-1-phosphate	mol:Ca2+	-a>
+mol:Sphingosine-1-phosphate	EDG1	-a>
+mol:PIP3	mol:Ca2+	-a>
+mol:Glucocorticoid Dexamethasone	RasGAP/p62DOK	-a>
+mol:DAG	PRKCB	-a>
+mol:Ca2+	PTK2	-a>
+mol:Ca2+	PRKCB	-a>
+mol:Ca++	NFATC2	-a>
+calcium-dependent protein kinase C activity	ITK	-ap>
+IKBKG	IKK complex	component>
+GAB2	GAB2/PI3K/SHP2	component>
+LAT2	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+DOK1	RasGAP/p62DOK	component>
+DOK1	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+MAP3K1	MAP2K4	-a>
+PAK2	MAP3K1	-a>
+LCP2	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+LCP2	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+SOS1	SHC/Grb2/SOS1	component>
+BTK	mol:GDP	-a>
+BTK	MAPK8	-a>
+BTK	PLCG1	-a>
+BTK	HRAS	-a>
+BTK	AP1	-a>
+PTPN11	KLRG1/SHP2	component>
+PTPN11	GAB2/PI3K/SHP2	component>
+PTK2	actin cytoskeleton reorganization	-ap>
+PTK2	PTPN13	-a>
+PTK2	PXN	-a>
+RELA	NF-kappa-B/RelA	component>
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+MS4A2	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+MS4A2	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+MS4A2	Fc epsilon R1/FcgammaRIIB	component>
+MS4A2	Fc epsilon R1	component>
+MS4A2	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+MS4A2	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+MS4A2	Antigen/IgE/Fc epsilon R1/Fyn	component>
+MS4A2	Antigen/IgE/Fc epsilon R1	component>
+GRB2	SHC/Grb2/SOS1	component>
+GRB2	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+GRB2	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+PXN	regulation of mast cell degranulation	-ap>
+MAP2K4	MAPK8	-a>
+MAPK8	AP1	-a>
+SYK	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+SYK	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+PIK3CA	PI3K	component>
+PIK3CA	GAB2/PI3K/SHP2	component>
+MAP2K2	MAPK1	-a>
+MAP2K2	MAPK3	-a>
+FCGR2B	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+FCGR2B	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+FCGR2B	Fc epsilon R1/FcgammaRIIB	component>
+AKT1	regulation of mast cell degranulation	-ap>
+FCER1G	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+FCER1G	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+FCER1G	Fc epsilon R1/FcgammaRIIB	component>
+FCER1G	Fc epsilon R1	component>
+FCER1G	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+FCER1G	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+FCER1G	Antigen/IgE/Fc epsilon R1/Fyn	component>
+FCER1G	Antigen/IgE/Fc epsilon R1	component>
+SHC1	SHC/Grb2/SOS1	component>
+DUSP1	RasGAP/p62DOK	-a>
+MAPK1	PLA2G1B	-a>
+PIK3R1	PI3K	component>
+PIK3R1	GAB2/PI3K/SHP2	component>
+MAPK3	PLA2G1B	-a>
+EDG1	positive regulation of cell migration	-ap>
+RASA1	RasGAP/p62DOK	component>
+RASA1	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+NFKB1	NF-kappa-B/RelA	component>
+PLCG1	mol:PIP3	-a>
+PLCG1	mol:DAG	-a>
+PLCG1	NTAL/PLCgamma1/GRB2/SLP76/GADs	component>
+PLCG1	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+VAV1	mol:GDP	-a>
+VAV1	PLCG1	-a>
+VAV1	HRAS	-a>
+VAV1	PI3K	-a>
+FCER1A	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+FCER1A	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+FCER1A	Fc epsilon R1/FcgammaRIIB	component>
+FCER1A	Fc epsilon R1	component>
+FCER1A	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+FCER1A	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+FCER1A	Antigen/IgE/Fc epsilon R1/Fyn	component>
+FCER1A	Antigen/IgE/Fc epsilon R1	component>
+LYN	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+LYN	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+FYN	Antigen/IgE/Fc epsilon R1/Fyn	component>
+PRKCB	IKBKG	-a>
+PRKCB	CHUK	-a>
+PRKCB	IKBKB	-a>
+JUN	AP1	component>
+RAF1	MAP2K1	-a>
+RAF1	MAP2K2	-a>
+IGHE	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+IGHE	Antigen/IgE/Fc epsilon R1/LYN/SYK	component>
+IGHE	Antigen/IgE/Fc epsilon R1/Fyn	component>
+IGHE	Antigen/IgE/Fc epsilon R1	component>
+HRAS	PAK2	-a>
+HRAS	RAF1	-a>
+HRAS	PI3K	-a>
+FOS	AP1	component>
+KLRG1	KLRG1/SHP2	component>
+KLRG1	KLRG1/SHIP	component>
+LAT	LAT/PLCgamma1/GRB2/SLP76/GADs	component>
+WIPF1	Antigen/IgE/Fc epsilon R1/LYN/SYK/WIP	component>
+CHUK	IKK complex	component>
+PLD2	mol:Phosphatidic acid	-a>
+PLD2	mol:Choline	-a>
+IKBKB	NF-kappa-B/RelA	-a>
+IKBKB	IKK complex	component>
+MAP2K7	MAP2K4	-a>
+PPAP2A	mol:DAG	-a>
+INPP5D	PRKCB	-a|
+INPP5D	KLRG1/SHIP	component>
+INPP5D	Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	component>
+INPP5D	Fc epsilon R1/FcgammaRIIB/SHIP	component>
+SHC/Grb2/SOS1	mol:GDP	-a>
+SHC/Grb2/SOS1	HRAS	-a>
+PI3K	BTK	-a>
+NTAL/PLCgamma1/GRB2/SLP76/GADs	mol:PIP3	-a>
+NTAL/PLCgamma1/GRB2/SLP76/GADs	mol:DAG	-a>
+NTAL/PLCgamma1/GRB2/SLP76/GADs	PLCG1	-a>
+NF-kappa-B/RelA	cytokine secretion	-ap>
+LAT/PLCgamma1/GRB2/SLP76/GADs	mol:PIP3	-a>
+LAT/PLCgamma1/GRB2/SLP76/GADs	mol:DAG	-a>
+KLRG1/SHP2	Antigen/IgE/Fc epsilon R1/LYN/SYK	-a>
+KLRG1/SHIP	negative regulation of mast cell degranulation	-ap>
+GO:0007205	ITK	-a>
+GAB2/PI3K/SHP2	AKT1	-a>
+Fc epsilon R1/FcgammaRIIB/SHIP/RasGAP/p62DOK	RAF1	-a|
+Antigen/IgE/Fc epsilon R1/LYN/SYK	SPHK1	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	LAT2	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	CBLB	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	ITK	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	BTK	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	PTK2	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	PLA2G4A	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	CBL	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	FER	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	VAV1	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	HCLS1	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	KLRG1	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	LAT	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	SHC/Grb2/SOS1	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	PI3K	-a>
+Antigen/IgE/Fc epsilon R1/LYN/SYK	AP1	-a|
+Antigen/IgE/Fc epsilon R1/Fyn	PLD2	-a>
+Antigen/IgE/Fc epsilon R1/Fyn	GAB2/PI3K/SHP2	-a>
+Antigen/IgE/Fc epsilon R1	NFATC2	-a>
+Antigen/IgE/Fc epsilon R1	NTAL/PLCgamma1/GRB2/SLP76/GADs	-a>
+Antigen/IgE/Fc epsilon R1	LAT/PLCgamma1/GRB2/SLP76/GADs	-a>

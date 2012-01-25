@@ -1,0 +1,80 @@
+smallMolecule	2-Hydroxyphytanoyl-CoA
+smallMolecule	2-Oxoglutarate
+smallMolecule	Pristanoyl-CoA
+smallMolecule	CoA
+smallMolecule	Isocitric acid
+smallMolecule	TPNH
+smallMolecule	Pristanic acid
+smallMolecule	Succinate
+complex	IDH1 homodimer
+smallMolecule	Formate
+smallMolecule	H2O
+smallMolecule	Pristanal
+smallMolecule	TPN
+smallMolecule	CO2
+smallMolecule	Formyl-CoA
+smallMolecule	DPN
+smallMolecule	Phytanoyl-CoA
+smallMolecule	NADH
+smallMolecule	Phytanate
+complex	phytanoyl-CoA dioxygenase:iron complex
+smallMolecule	PPi
+smallMolecule	AMP
+complex	HACL1 tetramer
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	ATP
+protein	SLC27A2
+protein	SLC25A17
+HACL1 tetramer	Formyl-CoA	-a>
+SLC27A2	Phytanoyl-CoA	-a>
+phytanoyl-CoA dioxygenase:iron complex	2-Hydroxyphytanoyl-CoA	-a>
+SLC25A17	ATP	-a>
+SLC27A2	Pristanoyl-CoA	-a>
+IDH1 homodimer	TPNH	-a>
+2-Hydroxyphytanoyl-CoA	Pristanal	-a>
+2-Hydroxyphytanoyl-CoA	Formyl-CoA	-a>
+H2O	Formate	-a>
+H2O	CoA	-a>
+Formyl-CoA	Formate	-a>
+Formyl-CoA	CoA	-a>
+ATP	Phytanoyl-CoA	-a>
+Phytanate	PPi	-a>
+Phytanate	AMP	-a>
+Phytanate	Phytanoyl-CoA	-a>
+CoA	Phytanoyl-CoA	-a>
+O2	Succinate	-a>
+O2	CO2	-a>
+O2	2-Hydroxyphytanoyl-CoA	-a>
+Phytanoyl-CoA	Succinate	-a>
+Phytanoyl-CoA	CO2	-a>
+Phytanoyl-CoA	2-Hydroxyphytanoyl-CoA	-a>
+2-Oxoglutarate	Succinate	-a>
+2-Oxoglutarate	CO2	-a>
+2-Oxoglutarate	2-Hydroxyphytanoyl-CoA	-a>
+ATP	ATP	-a>
+AMP	AMP	-a>
+AMP	ATP	-a>
+DPN	Pristanic acid	-a>
+DPN	NADH	-a>
+DPN	H+	-a>
+Pristanal	Pristanic acid	-a>
+Pristanal	NADH	-a>
+Pristanal	H+	-a>
+Pristanic acid	AMP	-a>
+Pristanic acid	PPi	-a>
+Pristanic acid	Pristanoyl-CoA	-a>
+ATP	AMP	-a>
+ATP	PPi	-a>
+ATP	Pristanoyl-CoA	-a>
+CoA	AMP	-a>
+CoA	PPi	-a>
+CoA	Pristanoyl-CoA	-a>
+Isocitric acid	H+	-a>
+Isocitric acid	2-Oxoglutarate	-a>
+Isocitric acid	CO2	-a>
+Isocitric acid	TPNH	-a>
+TPN	H+	-a>
+TPN	2-Oxoglutarate	-a>
+TPN	CO2	-a>
+TPN	TPNH	-a>

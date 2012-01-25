@@ -1,0 +1,35 @@
+complex	Active TrkA:Phospho-ARMS:Crk:C3G:Rap1:Phospho-B-Raf complex
+complex	Active TrkA receptor:ARMS:Crk complex
+complex	B-Raf complex
+complex	Active TrkA:Phospho-ARMS:Crk:C3G:Rap1-GTP complex
+complex	Active TrkA receptor:Phospho-ARMS:Crk complex
+complex	ARMS:Crk
+complex	Active TrkA receptor:Frs2 complex
+complex	Activated TrkA receptor complex
+complex	Rap1-GDP
+complex	Rap1-GTP
+protein	C3G
+complex	Active TrkA receptor:Phospho-ARMS:Crk:C3G complex
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	YWHAB
+Active TrkA receptor:Frs2 complex	Active TrkA receptor:Phospho-ARMS:Crk complex	-a>
+Active TrkA receptor:Phospho-ARMS:Crk:C3G complex	Rap1-GTP	-a>
+Active TrkA receptor:Phospho-ARMS:Crk complex	Active TrkA receptor:Phospho-ARMS:Crk:C3G complex	component>
+C3G	Active TrkA receptor:Phospho-ARMS:Crk:C3G complex	component>
+ATP	ADP	-a>
+ATP	Active TrkA receptor:Phospho-ARMS:Crk complex	-a>
+Active TrkA receptor:ARMS:Crk complex	ADP	-a>
+Active TrkA receptor:ARMS:Crk complex	Active TrkA receptor:Phospho-ARMS:Crk complex	-a>
+Activated TrkA receptor complex	Active TrkA receptor:ARMS:Crk complex	component>
+ARMS:Crk	Active TrkA receptor:ARMS:Crk complex	component>
+Active TrkA:Phospho-ARMS:Crk:C3G:Rap1-GTP complex	YWHAB	component>
+Active TrkA:Phospho-ARMS:Crk:C3G:Rap1-GTP complex	Active TrkA:Phospho-ARMS:Crk:C3G:Rap1:Phospho-B-Raf complex	component>
+B-Raf complex	YWHAB	component>
+B-Raf complex	Active TrkA:Phospho-ARMS:Crk:C3G:Rap1:Phospho-B-Raf complex	component>
+Rap1-GDP	GDP	-a>
+Rap1-GDP	Rap1-GTP	-a>
+GTP	GDP	-a>
+GTP	Rap1-GTP	-a>

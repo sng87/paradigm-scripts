@@ -1,0 +1,51 @@
+abstract	secretion
+protein	CPI-17 activating receptor ligand
+complex	CPI-17 Activating Receptor Ligand/GPCR/G-alpha-q/G-gamma/G-beta/G12/13-alpha/G-beta/G-
+protein	Rho GEFs
+smallMolecule	PMA
+complex	GPCR/G-alpha-q/G-gamma/G-beta/G-alpha12/13/G-beta/G-gamma
+complex	CaM/Ca ++
+smallMolecule	GF109203X
+smallMolecule	Y-27632
+protein	CaM
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PKC
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	ROCK1
+protein	PPP1R14A
+protein	PPP1R12B
+protein	PLCB1
+protein	PKN1
+protein	MYLK
+protein	MYL2
+protein	ARHGAP5
+DAG	PKC	-a>
+PLCB1	DAG	-a>
+Y-27632	ROCK1	-a>
+PMA	PKC	-a>
+GPCR/G-alpha-q/G-gamma/G-beta/G-alpha12/13/G-beta/G-gamma	CPI-17 Activating Receptor Ligand/GPCR/G-alpha-q/G-gamma/G-beta/G12/13-alpha/G-beta/G-	component>
+CPI-17 activating receptor ligand	CPI-17 Activating Receptor Ligand/GPCR/G-alpha-q/G-gamma/G-beta/G12/13-alpha/G-beta/G-	component>
+ARHGAP5	PKN1	-a>
+IP3	Ca2+	-a>
+CPI-17 Activating Receptor Ligand/GPCR/G-alpha-q/G-gamma/G-beta/G12/13-alpha/G-beta/G-	Rho GEFs	-a>
+ROCK1	PPP1R14A	-a>
+ROCK1	PPP1R12B	-a>
+MYL2	secretion	-ap>
+PPP1R12B	MYL2	-a>
+Rho GEFs	ARHGAP5	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+CaM/Ca ++	MYLK	-a>
+PKC	PPP1R14A	-a>
+CPI-17 Activating Receptor Ligand/GPCR/G-alpha-q/G-gamma/G-beta/G12/13-alpha/G-beta/G-	PLCB1	-a>
+PKN1	PPP1R14A	-a>
+Ca2+	PKC	-a>
+ROCK1	MYL2	-a>
+MYLK	MYL2	-a>
+ARHGAP5	ROCK1	-a>
+GF109203X	PKC	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+PPP1R14A	PPP1R12B	-a>

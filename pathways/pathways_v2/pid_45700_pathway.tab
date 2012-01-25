@@ -1,0 +1,47 @@
+abstract	replication fork arrest
+abstract	regulation of DNA replication
+abstract	DNA replication termination
+complex	ATR/ATRIP/ATM
+complex	NBS1/Rad50/Mre11
+complex	BRCA2/Rad51
+complex	FANCD2/ubiquitin
+complex	Hus1/Rad1/Rad9/Rad17
+abstract	protein ubiquitination
+complex	FA complex
+protein	TP53
+protein	RAD51
+protein	RAD50
+protein	NBN
+protein	MRE11A
+protein	FANCD2
+protein	CHEK2
+protein	CHEK1
+protein	BRCA2
+protein	BRCA1
+FA complex	protein ubiquitination	-ap>
+ATR/ATRIP/ATM	protein ubiquitination	-ap>
+BRCA1	protein ubiquitination	-ap>
+BRCA2/Rad51	regulation of DNA replication	-ap>
+FANCD2/ubiquitin	DNA replication termination	-ap>
+replication fork arrest	FA complex	-a>
+ATR/ATRIP/ATM	CHEK2	-a>
+Hus1/Rad1/Rad9/Rad17	ATR/ATRIP/ATM	-a>
+BRCA1	DNA replication termination	-ap>
+replication fork arrest	ATR/ATRIP/ATM	-a>
+ATR/ATRIP/ATM	CHEK1	-a>
+ATR/ATRIP/ATM	BRCA1	-a>
+FANCD2/ubiquitin	protein ubiquitination	-ap>
+FANCD2	protein ubiquitination	-ap>
+BRCA2	BRCA2/Rad51	component>
+RAD51	BRCA2/Rad51	component>
+ATR/ATRIP/ATM	Hus1/Rad1/Rad9/Rad17	-a>
+TP53	DNA replication termination	-ap>
+FANCD2/ubiquitin	regulation of DNA replication	-ap>
+NBS1/Rad50/Mre11	regulation of DNA replication	-ap>
+CHEK2	DNA replication termination	-ap>
+ATR/ATRIP/ATM	NBN	-a>
+MRE11A	NBS1/Rad50/Mre11	component>
+RAD50	NBS1/Rad50/Mre11	component>
+NBN	NBS1/Rad50/Mre11	component>
+CHEK1	TP53	-a>
+ATR/ATRIP/ATM	BRCA2	-a>

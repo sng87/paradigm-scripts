@@ -1,0 +1,97 @@
+abstract	negative regulation of caspase activity
+abstract	response to oxidative stress
+abstract	cell death
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	JNK cascade
+complex	TRAILR4 (trimer)
+complex	TRAIL (trimer)
+complex	Caspase 8 (tetramer)
+complex	TRAIL/TRAILR1/FADD/TRADD/RIP
+complex	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2
+complex	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2
+complex	TRAIL/TRAILR1/DAP3/GTP/FADD
+complex	IKK complex
+protein	ERK1-2-active
+complex	TRAIL/TRAILR3
+complex	TRAIL/TRAILR2/FADD/TRADD/RIP
+complex	PI3K Class IA family
+protein	ERK1-2
+protein	RIP (cleaved)
+complex	TRAIL/TRAILR4
+complex	TRAIL/TRAILR1/DAP3/GTP
+complex	TRAIL/TRAILR1/FADD
+protein	ASM
+complex	TRAILR3 (trimer)
+complex	TRAIL/TRAILR2
+smallMolecule	sphingomyelin
+complex	TRAIL/TRAILR2/FADD
+complex	TRAILR2 (trimer)
+complex	DAP3/GTP
+smallMolecule	ceramide
+protein	MEKK1
+complex	Caspase 10 (tetramer)
+complex	TRAIL/TRAILR1
+complex	TRAILR1 (trimer)
+protein	TRAF2
+protein	TRADD
+protein	RIPK1
+protein	MAPK8
+protein	MAP2K4
+protein	FADD
+protein	CFLAR
+protein	CASP8
+protein	CASP10
+TRAIL/TRAILR2/FADD	Caspase 8 (tetramer)	component>
+TRAIL/TRAILR2/FADD/TRADD/RIP	IKK complex	-a>
+TRAILR4 (trimer)	Caspase 10 (tetramer)	component>
+TRAIL/TRAILR2/FADD	Caspase 10 (tetramer)	component>
+TRAIL/TRAILR1/FADD/TRADD/RIP	IKK complex	-a>
+TRAIL (trimer)	ERK1-2-active	-a>
+Caspase 8 (tetramer)	RIP (cleaved)	-a>
+TRAIL/TRAILR2	ASM	-a>
+TRAIL/TRAILR1/FADD	Caspase 10 (tetramer)	component>
+ERK1-2-active	Caspase 8 (tetramer)	component>
+CFLAR	Caspase 8 (tetramer)	component>
+TRAIL/TRAILR1/DAP3/GTP/FADD	Caspase 8 (tetramer)	component>
+ASM	ceramide	-a>
+MAP2K4	MAPK8	-a>
+ceramide	cell death	-ap>
+TRAIL/TRAILR4	positive regulation of NF-kappaB transcription factor activity	-ap>
+TRAILR3 (trimer)	TRAIL/TRAILR3	component>
+TRAIL (trimer)	TRAIL/TRAILR3	component>
+negative regulation of caspase activity	IKK complex	-a>
+TRAIL (trimer)	PI3K Class IA family	-a>
+TRAIL/TRAILR4	JNK cascade	-ap>
+ERK1-2	ERK1-2-active	-a>
+TRAF2	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+TRAIL/TRAILR2/FADD/TRADD/RIP	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+FADD	TRAIL/TRAILR2/FADD	component>
+TRAIL/TRAILR2	TRAIL/TRAILR2/FADD	component>
+RIPK1	RIP (cleaved)	-a>
+MEKK1	MAP2K4	-a>
+FADD	TRAIL/TRAILR1/DAP3/GTP/FADD	component>
+TRAIL/TRAILR1/DAP3/GTP	TRAIL/TRAILR1/DAP3/GTP/FADD	component>
+DAP3/GTP	TRAIL/TRAILR1/DAP3/GTP	component>
+TRAIL/TRAILR1	TRAIL/TRAILR1/DAP3/GTP	component>
+response to oxidative stress	ASM	-a>
+TRAF2	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+TRAIL/TRAILR1/FADD/TRADD/RIP	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+TRAILR2 (trimer)	TRAIL/TRAILR2	component>
+TRAIL (trimer)	TRAIL/TRAILR2	component>
+CASP10	Caspase 10 (tetramer)	component>
+TRAILR1 (trimer)	TRAIL/TRAILR1	component>
+TRAIL (trimer)	TRAIL/TRAILR1	component>
+TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	MEKK1	-a>
+TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	MEKK1	-a>
+FADD	TRAIL/TRAILR1/FADD	component>
+TRAIL/TRAILR1	TRAIL/TRAILR1/FADD	component>
+CASP8	Caspase 8 (tetramer)	component>
+RIPK1	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+TRADD	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+TRAIL/TRAILR2/FADD	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+TRAILR4 (trimer)	TRAIL/TRAILR4	component>
+TRAIL (trimer)	TRAIL/TRAILR4	component>
+sphingomyelin	ceramide	-a>
+RIPK1	TRAIL/TRAILR1/FADD/TRADD/RIP	component>
+TRADD	TRAIL/TRAILR1/FADD/TRADD/RIP	component>
+TRAIL/TRAILR1/FADD	TRAIL/TRAILR1/FADD/TRADD/RIP	component>

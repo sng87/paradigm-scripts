@@ -1,0 +1,17 @@
+abstract	G1 phase of mitotic cell cycle
+abstract	DNA damage
+abstract	prophase
+protein	TP53
+protein	PLK3
+protein	CHEK2
+protein	CDC25C
+protein	CCNE1
+protein	ATM
+ATM	PLK3	-a>
+PLK3	CCNE1	-t>
+PLK3	TP53	-a>
+DNA damage	PLK3	-a>
+G1 phase of mitotic cell cycle	CCNE1	-t>
+PLK3	CDC25C	-a>
+prophase	CDC25C	-a>
+PLK3	CHEK2	-a>

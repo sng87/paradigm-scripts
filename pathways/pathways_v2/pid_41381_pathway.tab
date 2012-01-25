@@ -1,0 +1,41 @@
+complex	SCF-beta-TrCP1 complex associated with phosphorylated beta-catenin
+protein	_1-76
+complex	beta-catenin:Axin:GSK3:CK1alpha:APC:PP2A complex
+complex	phospho-(Ser45,Thr41,Ser37,Ser33):Axin:CK1alpha:GSK3B:phospho-APC (20 aa repeat region):PP2A complex
+complex	ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex
+complex	Phospho-(Ser45, Thr41, Ser37, Ser33) beta-catenin:Axin:GSK3:CK1alpha:APC:PP2A complex
+complex	Axin:GSK3:CK1alpha:APC:PP2A complex
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	SCF-beta-TrCP1 complex
+complex	PP2A
+complex	26S Proteasome
+smallMolecule	ATP
+smallMolecule	ADP
+protein	GSK3B
+protein	CSNK1A1
+protein	AXIN1
+protein	APC
+26S Proteasome	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	SCF-beta-TrCP1 complex	component>
+ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	phospho-(Ser45,Thr41,Ser37,Ser33):Axin:CK1alpha:GSK3B:phospho-APC (20 aa repeat region):PP2A complex	component>
+ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	_1-76	component>
+ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	component>
+ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+Axin:GSK3:CK1alpha:APC:PP2A complex	beta-catenin:Axin:GSK3:CK1alpha:APC:PP2A complex	-a>
+SCF-beta-TrCP1 complex associated with phosphorylated beta-catenin	ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	component>
+_1-76	ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	ubiquitinated phospho-beta-catenin:SCF:beta-TrCP1 complex	component>
+phospho-(Ser45,Thr41,Ser37,Ser33):Axin:CK1alpha:GSK3B:phospho-APC (20 aa repeat region):PP2A complex	SCF-beta-TrCP1 complex associated with phosphorylated beta-catenin	component>
+SCF-beta-TrCP1 complex	SCF-beta-TrCP1 complex associated with phosphorylated beta-catenin	component>
+phospho-(Ser45,Thr41,Ser37,Ser33):Axin:CK1alpha:GSK3B:phospho-APC (20 aa repeat region):PP2A complex	phospho-(Ser45,Thr41,Ser37,Ser33):Axin:CK1alpha:GSK3B:phospho-APC (20 aa repeat region):PP2A complex	-a>
+GSK3B	Axin:GSK3:CK1alpha:APC:PP2A complex	component>
+AXIN1	Axin:GSK3:CK1alpha:APC:PP2A complex	component>
+APC	Axin:GSK3:CK1alpha:APC:PP2A complex	component>
+CSNK1A1	Axin:GSK3:CK1alpha:APC:PP2A complex	component>
+PP2A	Axin:GSK3:CK1alpha:APC:PP2A complex	component>
+Phospho-(Ser45, Thr41, Ser37, Ser33) beta-catenin:Axin:GSK3:CK1alpha:APC:PP2A complex	ADP	-a>
+Phospho-(Ser45, Thr41, Ser37, Ser33) beta-catenin:Axin:GSK3:CK1alpha:APC:PP2A complex	phospho-(Ser45,Thr41,Ser37,Ser33):Axin:CK1alpha:GSK3B:phospho-APC (20 aa repeat region):PP2A complex	-a>
+ATP	ADP	-a>
+ATP	phospho-(Ser45,Thr41,Ser37,Ser33):Axin:CK1alpha:GSK3B:phospho-APC (20 aa repeat region):PP2A complex	-a>

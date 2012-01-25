@@ -1,0 +1,69 @@
+complex	CDC25/14-3-3
+complex	p53/MDM2
+complex	MDM2/p19
+complex	Cyclin B/CDC2
+protein	PIK4CA
+complex	14-3-3-sigma/CDC2/CYCLIN B
+abstract	DNA repair
+abstract	protein ubiquitination
+abstract	DNA damage
+protein	YWHAH
+protein	WEE1
+protein	TP53
+protein	SFN
+protein	RPS6KA1
+protein	RASGRF1
+protein	PRKDC
+protein	MYT1
+protein	GADD45A
+protein	EP300
+protein	CHEK2
+protein	CHEK1
+protein	CDKN2D
+protein	CDKN1A
+protein	CDC34
+protein	BRCA1
+protein	ATR
+protein	ATM
+PRKDC	TP53	-a>
+ATM	TP53	-a>
+EP300	GADD45A	-t>
+CDC34	protein ubiquitination	-ap>
+EP300	CDKN1A	-t>
+ATR	TP53	-a>
+CHEK2	TP53	-a>
+EP300	SFN	-t>
+RPS6KA1	MYT1	-a>
+ATM	CHEK2	-a>
+ATR	CHEK1	-a>
+YWHAH	CDC25/14-3-3	component>
+RASGRF1	CDC25/14-3-3	component>
+TP53	GADD45A	-t>
+CDKN1A	Cyclin B/CDC2	-a>
+CHEK2	RASGRF1	-a>
+RASGRF1	Cyclin B/CDC2	-a>
+Cyclin B/CDC2	RASGRF1	-a>
+Cyclin B/CDC2	14-3-3-sigma/CDC2/CYCLIN B	component>
+SFN	14-3-3-sigma/CDC2/CYCLIN B	component>
+WEE1	protein ubiquitination	-ap>
+GADD45A	Cyclin B/CDC2	-a>
+ATR	CHEK2	-a>
+TP53	CDKN1A	-t>
+ATM	BRCA1	-a>
+Cyclin B/CDC2	PIK4CA	-a>
+CDKN2D	MDM2/p19	-a>
+CDKN2D	TP53	-a>
+p53/MDM2	MDM2/p19	-a>
+p53/MDM2	TP53	-a>
+PIK4CA	MYT1	-a>
+DNA damage	ATM	-a>
+BRCA1	DNA repair	-ap>
+WEE1	Cyclin B/CDC2	-a>
+TP53	SFN	-t>
+ATM	CHEK1	-a>
+DNA damage	PRKDC	-a>
+ATR	BRCA1	-a>
+PIK4CA	RASGRF1	-a>
+MYT1	Cyclin B/CDC2	-a>
+CHEK1	RASGRF1	-a>
+DNA damage	ATR	-a>

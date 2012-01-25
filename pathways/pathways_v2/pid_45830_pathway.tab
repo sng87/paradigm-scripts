@@ -1,0 +1,23 @@
+complex	PKAc/RII-alpha/RII-beta/AKAP13
+complex	LPA/LPA R/G12-alpha
+complex	LPA R/G12-alpha
+complex	PKAc/RII-alpha/RII-beta
+abstract	actin filament polymerization
+smallMolecule	cAMP
+smallMolecule	LPA
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RHOA
+protein	AKAP13
+PKAc/RII-alpha/RII-beta/AKAP13	GDP	-a>
+AKAP13	PKAc/RII-alpha/RII-beta/AKAP13	component>
+PKAc/RII-alpha/RII-beta	PKAc/RII-alpha/RII-beta/AKAP13	component>
+LPA R/G12-alpha	LPA/LPA R/G12-alpha	-a>
+LPA	LPA/LPA R/G12-alpha	-a>
+RHOA	RHOA	-a>
+RHOA	GDP	-a>
+GTP	RHOA	-a>
+GTP	GDP	-a>
+RHOA	actin filament polymerization	-ap>
+LPA/LPA R/G12-alpha	AKAP13	-a>
+cAMP	PKAc/RII-alpha/RII-beta	-a>

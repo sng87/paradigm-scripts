@@ -1,0 +1,38 @@
+complex	NGF ligand:p75NTR
+protein	BIM
+complex	RAC:GDP
+complex	NGF ligand:p75NTR:NRAGE:CHE1
+protein	Phospho-BIM
+complex	NGF ligand:p75NTR:NRAGE
+complex	RAC:GTP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	MAPK8
+protein	MAGED1
+protein	BAD
+protein	AATF
+NGF ligand:p75NTR:NRAGE	ADP	-a>
+MAPK8	BAD	-a>
+NGF ligand:p75NTR:NRAGE	NGF ligand:p75NTR:NRAGE:CHE1	component>
+AATF	NGF ligand:p75NTR:NRAGE:CHE1	component>
+ATP	MAPK8	-a>
+MAPK8	ADP	-a>
+RAC:GTP	MAPK8	-a>
+MAPK8	MAPK8	-a>
+MAGED1	NGF ligand:p75NTR:NRAGE	component>
+NGF ligand:p75NTR	NGF ligand:p75NTR:NRAGE	component>
+BIM	Phospho-BIM	-a>
+BIM	ADP	-a>
+BIM	BAD	-a>
+ATP	Phospho-BIM	-a>
+ATP	ADP	-a>
+ATP	BAD	-a>
+BAD	Phospho-BIM	-a>
+BAD	ADP	-a>
+BAD	BAD	-a>
+GTP	GDP	-a>
+GTP	RAC:GTP	-a>
+RAC:GDP	GDP	-a>
+RAC:GDP	RAC:GTP	-a>

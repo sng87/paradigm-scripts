@@ -1,0 +1,17 @@
+smallMolecule	CoA
+smallMolecule	Acetoacetate
+smallMolecule	Acetoacetyl-CoA
+complex	acetyl-CoA acetyltransferase tetramer
+smallMolecule	HMG-CoA
+complex	hydroxymethylglutaryl-CoA lyase homodimer
+smallMolecule	Acetyl-CoA
+protein	HMGCS2
+hydroxymethylglutaryl-CoA lyase homodimer	Acetoacetyl-CoA	-a>
+HMGCS2	HMG-CoA	-a>
+acetyl-CoA acetyltransferase tetramer	CoA	-a>
+HMG-CoA	Acetoacetate	-a>
+HMG-CoA	Acetoacetyl-CoA	-a>
+Acetyl-CoA	HMG-CoA	-a>
+Acetoacetyl-CoA	HMG-CoA	-a>
+Acetyl-CoA	Acetoacetyl-CoA	-a>
+Acetyl-CoA	CoA	-a>

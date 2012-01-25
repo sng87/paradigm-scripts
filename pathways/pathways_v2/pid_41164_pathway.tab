@@ -1,0 +1,10 @@
+complex	Editosome for C to U editing
+complex	C to U edited ApoB RNA:Editosome complex
+smallMolecule	H2O
+smallMolecule	NH3
+protein	APOBEC1
+APOBEC1	NH3	-a>
+H2O	C to U edited ApoB RNA:Editosome complex	-a>
+H2O	NH3	-a>
+Editosome for C to U editing	C to U edited ApoB RNA:Editosome complex	-a>
+Editosome for C to U editing	NH3	-a>

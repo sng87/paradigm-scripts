@@ -1,0 +1,111 @@
+abstract	mRNA polyadenylation
+abstract	protein autoubiquitination
+abstract	DNA damage checkpoint
+abstract	DNA repair
+abstract	protein ubiquitination
+abstract	G1/S transition of mitotic cell cycle
+abstract	DNA damage
+complex	BRCA1/BACH1/BARD1
+complex	BARD1/DNA-PK/p53
+complex	BARD1/DNA-PK
+complex	BARD1/EWS
+complex	BARD1/CSTF1
+complex	BARD1/EWS-Fli1
+complex	CDK2/Cyclin E1
+complex	M/R/N Complex
+complex	BRCA1/BARD1/DNA-directed RNA polymerase II holoenzyme
+complex	DNA-PK
+protein	EWS-Fli1
+complex	FA complex
+complex	BRCA1/BARD1/UbcH5C
+complex	BRCA1/BARD1/p53
+complex	BRCA1/BARD1/Ubiquitin
+complex	BRCA1/BARD1/CTIP/M/R/N Complex
+complex	BRCA1/BARD1/UbcH7
+complex	BRCA1/BACH1
+complex	BRCA1/BARD1
+complex	FA complex/FANCD2/Ubiquitin
+complex	BARD1/CSTF1/BRCA1
+complex	DNA-directed RNA polymerase II holoenzyme
+complex	BRCA1/BARD1/CTIP
+complex	BRCA1/BACH1/BARD1/TopBP1
+complex	BRCA1/BARD1/RAD51/PCNA
+protein	UBE2L3
+protein	UBE2D3
+protein	TP53
+protein	TOPBP1
+protein	RBBP8
+protein	RAD51
+protein	PCNA
+protein	NPM1
+protein	FANCD2
+protein	EWSR1
+protein	CSTF1
+protein	BRCA1
+protein	BARD1
+protein	BACH1
+protein	ATR
+protein	ATM
+ATR	BRCA1/BARD1/p53	component>
+DNA damage	BRCA1/BARD1/p53	component>
+DNA damage	BRCA1/BACH1/BARD1/TopBP1	component>
+BRCA1/BARD1	protein ubiquitination	-ap>
+ATM	BRCA1/BARD1	component>
+CDK2/Cyclin E1	BRCA1/BARD1	-a>
+ATM	BRCA1/BARD1/CTIP/M/R/N Complex	component>
+DNA damage	BRCA1/BARD1/CTIP/M/R/N Complex	component>
+ATR	FA complex	-a>
+BARD1	BARD1	-a>
+DNA-PK	BARD1/DNA-PK	component>
+BARD1	BARD1/DNA-PK	component>
+BRCA1/BARD1/p53	G1/S transition of mitotic cell cycle	-ap|
+BARD1	BRCA1/BARD1	component>
+BRCA1	BRCA1/BARD1	component>
+TP53	BARD1/DNA-PK/p53	component>
+BARD1/DNA-PK	BARD1/DNA-PK/p53	component>
+EWS-Fli1	BARD1/EWS-Fli1	component>
+EWS-Fli1	BARD1/EWS	component>
+EWSR1	BARD1/EWS-Fli1	component>
+EWSR1	BARD1/EWS	component>
+BARD1	BARD1/EWS-Fli1	component>
+BARD1	BARD1/EWS	component>
+TP53	BRCA1/BARD1/p53	component>
+BRCA1/BARD1	BRCA1/BARD1/p53	component>
+TOPBP1	BRCA1/BACH1/BARD1/TopBP1	component>
+BRCA1/BACH1/BARD1	BRCA1/BACH1/BARD1/TopBP1	component>
+ATM	FANCD2	-a>
+NPM1	protein ubiquitination	-ap>
+BRCA1/BARD1/RAD51/PCNA	DNA repair	-ap>
+BACH1	BRCA1/BACH1	component>
+BRCA1	BRCA1/BACH1	component>
+ATR	FANCD2	-a>
+UBE2L3	BRCA1/BARD1/UbcH7	component>
+BRCA1/BARD1	BRCA1/BARD1/UbcH7	component>
+PCNA	BRCA1/BARD1/RAD51/PCNA	component>
+RAD51	BRCA1/BARD1/RAD51/PCNA	component>
+BRCA1/BARD1	BRCA1/BARD1/RAD51/PCNA	component>
+BARD1/CSTF1	mRNA polyadenylation	-ap|
+BRCA1/BARD1	FA complex/FANCD2/Ubiquitin	-a>
+BARD1	BRCA1/BACH1/BARD1	component>
+BRCA1/BACH1	BRCA1/BACH1/BARD1	component>
+FA complex	FA complex/FANCD2/Ubiquitin	component>
+FANCD2	FA complex/FANCD2/Ubiquitin	component>
+UBE2D3	BRCA1/BARD1/UbcH5C	component>
+BRCA1/BARD1	BRCA1/BARD1/UbcH5C	component>
+BRCA1	BARD1/CSTF1/BRCA1	component>
+BARD1/CSTF1	BARD1/CSTF1/BRCA1	component>
+BRCA1/BARD1/CTIP	RBBP8	component>
+BRCA1/BARD1/CTIP	BRCA1/BARD1	component>
+BRCA1/BARD1	BRCA1/BARD1/CTIP	component>
+RBBP8	BRCA1/BARD1/CTIP	component>
+BRCA1/BARD1/Ubiquitin	protein autoubiquitination	-ap>
+BRCA1/BARD1	protein autoubiquitination	-ap>
+FANCD2	DNA damage checkpoint	-ap>
+BRCA1/BARD1	BRCA1/BARD1	-a>
+M/R/N Complex	BRCA1/BARD1/CTIP/M/R/N Complex	component>
+BRCA1/BARD1/CTIP	BRCA1/BARD1/CTIP/M/R/N Complex	component>
+FA complex/FANCD2/Ubiquitin	DNA repair	-ap>
+DNA-directed RNA polymerase II holoenzyme	BRCA1/BARD1/DNA-directed RNA polymerase II holoenzyme	component>
+BRCA1/BARD1	BRCA1/BARD1/DNA-directed RNA polymerase II holoenzyme	component>
+CSTF1	BARD1/CSTF1	component>
+BARD1	BARD1/CSTF1	component>

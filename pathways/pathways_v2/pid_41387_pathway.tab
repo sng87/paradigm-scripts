@@ -1,0 +1,7 @@
+complex	TFAM:mitochondrial promoter complex
+complex	POLRMT:TFB2M complex
+complex	POLRMT:TFB2M:TFAM:mitochondrial promoter complex
+protein	TFAM
+POLRMT:TFB2M complex	POLRMT:TFB2M:TFAM:mitochondrial promoter complex	component>
+TFAM:mitochondrial promoter complex	POLRMT:TFB2M:TFAM:mitochondrial promoter complex	component>
+TFAM	TFAM:mitochondrial promoter complex	component>

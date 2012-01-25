@@ -1,0 +1,34 @@
+complex	IGF:IGFBP-5:ALS Complex
+complex	IGF:IGFBP-6 Complex
+complex	IGF:IGFBP-4 Complex
+protein	UniProt:P07288 KLK3_subunit_25_261_25-261
+complex	IGF:IGFBP-3:ALS Complex
+complex	activated thrombin (factor IIa)
+protein	MMP-1 and MMP-2
+complex	IGF:IGFBP-2 Complex
+complex	IGF:IGFBP-1 Complex
+protein	IGFBP6
+protein	IGFBP5
+protein	IGFBP4
+protein	IGFBP3
+protein	IGFBP2
+protein	IGFBP1
+protein	IGFALS
+protein	CTSL1
+MMP-1 and MMP-2	IGFBP3	component>
+CTSL1	IGFALS	component>
+activated thrombin (factor IIa)	IGFBP3	component>
+UniProt:P07288 KLK3_subunit_25_261_25-261	IGFBP3	component>
+IGFBP6	IGF:IGFBP-6 Complex	component>
+IGF:IGFBP-5:ALS Complex	IGFALS	component>
+IGF:IGFBP-5:ALS Complex	IGFBP5	component>
+IGFBP1	IGF:IGFBP-1 Complex	component>
+IGFALS	IGF:IGFBP-3:ALS Complex	component>
+IGFBP3	IGF:IGFBP-3:ALS Complex	component>
+IGFBP2	IGF:IGFBP-2 Complex	component>
+IGF:IGFBP-4 Complex	IGFBP4	component>
+IGFBP5	IGF:IGFBP-5:ALS Complex	component>
+IGFALS	IGF:IGFBP-5:ALS Complex	component>
+IGF:IGFBP-3:ALS Complex	IGFALS	component>
+IGF:IGFBP-3:ALS Complex	IGFBP3	component>
+IGFBP4	IGF:IGFBP-4 Complex	component>

@@ -1,0 +1,51 @@
+abstract	negative regulation of alpha-beta T cell activation
+complex	MHC II/TCR-CD3
+complex	CTLA-4/CD80
+complex	CD28/CD80
+complex	CD28/CD86
+complex	CTLA-4/CD86
+complex	TCR-CD3
+complex	B7-H/ICOS
+complex	MHC class II
+abstract	T cell activation
+complex	PI3K
+protein	PTPN11
+protein	LCK
+protein	ITK
+protein	ICOSLG
+protein	ICOS
+protein	GRB2
+protein	CTLA4
+protein	CD86
+protein	CD80
+protein	CD28
+PTPN11	T cell activation	-ap|
+LCK	T cell activation	-ap>
+ITK	T cell activation	-ap>
+PI3K	T cell activation	-ap>
+MHC class II	MHC II/TCR-CD3	component>
+TCR-CD3	MHC II/TCR-CD3	component>
+CTLA-4/CD86	PTPN11	-a>
+CD28/CD80	CD28	-a>
+CD28/CD80	CTLA-4/CD80	-a>
+CTLA4	CTLA-4/CD80	-a>
+CD28/CD80	PI3K	-a>
+CD80	CD28/CD80	component>
+CD28	CD28/CD80	component>
+CD28/CD86	CD28	-a>
+CD28/CD86	CTLA-4/CD86	-a>
+CTLA4	CD28	-a>
+CTLA4	CTLA-4/CD86	-a>
+CD28/CD86	GRB2	-a>
+ICOSLG	B7-H/ICOS	component>
+ICOS	B7-H/ICOS	component>
+CD28/CD80	GRB2	-a>
+CD28/CD86	PI3K	-a>
+CTLA-4/CD80	PTPN11	-a>
+CD28/CD80	LCK	-a>
+CD86	CD28/CD86	component>
+CD28	CD28/CD86	component>
+B7-H/ICOS	negative regulation of alpha-beta T cell activation	-ap>
+CD28/CD86	LCK	-a>
+MHC II/TCR-CD3	T cell activation	-ap>
+GRB2	ITK	-a>

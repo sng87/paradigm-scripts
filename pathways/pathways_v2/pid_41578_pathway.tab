@@ -1,0 +1,44 @@
+smallMolecule	Provitamin D3
+smallMolecule	TPNH
+complex	Cubilin:DBP:Calcidiol
+complex	DBP:Calcidiol
+smallMolecule	H2O
+protein	UniProt:O60494 CUBN_subunit_36_3623_36-3623
+smallMolecule	TPN
+protein	UniProt:P02774 GC_subunit_17_474_17-474
+complex	DBP:vitamin D3
+smallMolecule	Calcitriol
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Vitamin D3
+protein	LRP2
+protein	LGMN
+protein	CYP2R1
+protein	CYP27B1
+CYP27B1	Calcitriol	-a>
+LGMN	UniProt:O60494 CUBN_subunit_36_3623_36-3623	component>
+CYP2R1	TPN	-a>
+DBP:Calcidiol	Cubilin:DBP:Calcidiol	component>
+UniProt:O60494 CUBN_subunit_36_3623_36-3623	Cubilin:DBP:Calcidiol	component>
+O2	Calcitriol	-a>
+H+	Calcitriol	-a>
+TPNH	Calcitriol	-a>
+DBP:vitamin D3	Vitamin D3	component>
+DBP:vitamin D3	UniProt:P02774 GC_subunit_17_474_17-474	component>
+Vitamin D3	DBP:vitamin D3	component>
+UniProt:P02774 GC_subunit_17_474_17-474	DBP:vitamin D3	component>
+Provitamin D3	Vitamin D3	-a>
+Cubilin:DBP:Calcidiol	UniProt:O60494 CUBN_subunit_36_3623_36-3623	component>
+UniProt:P02774 GC_subunit_17_474_17-474	DBP:Calcidiol	component>
+Calcitriol	H2O	-a>
+Calcitriol	TPN	-a>
+LRP2	Cubilin:DBP:Calcidiol	-a>
+Vitamin D3	H2O	-a>
+Vitamin D3	TPN	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+Cubilin:DBP:Calcidiol	Cubilin:DBP:Calcidiol	-a>

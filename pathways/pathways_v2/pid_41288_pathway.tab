@@ -1,0 +1,21 @@
+complex	TRAIL:TRAIL receptor-2:FADD complex
+complex	TRAIL receptor-2:TRAIL complex
+complex	TRAIL receptor-2:TRAIL Trimer
+complex	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-10 precursor complex
+complex	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-8 precursor complex
+protein	TNFSF10
+protein	TNFRSF10B
+protein	FADD
+protein	CFLAR
+protein	CASP8
+protein	CASP10
+CFLAR	TRAIL:TRAIL receptor-2:FADD complex	component>
+TRAIL receptor-2:TRAIL complex	TRAIL receptor-2:TRAIL Trimer	component>
+TNFSF10	TRAIL receptor-2:TRAIL complex	component>
+TNFRSF10B	TRAIL receptor-2:TRAIL complex	component>
+CASP10	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-10 precursor complex	component>
+TRAIL:TRAIL receptor-2:FADD complex	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-10 precursor complex	component>
+TRAIL:TRAIL receptor-2:FADD complex	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-8 precursor complex	component>
+CASP8	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-8 precursor complex	component>
+TRAIL receptor-2:TRAIL Trimer	TRAIL:TRAIL receptor-2:FADD complex	component>
+FADD	TRAIL:TRAIL receptor-2:FADD complex	component>

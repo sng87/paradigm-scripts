@@ -1,0 +1,50 @@
+complex	Phospho-r-SMAD1/5/8:Co-SMAD:SKI
+complex	BMP type I receptor dimer
+complex	BMP2:BMP type II receptor:Phospho-BMP type I receptor:I-SMAD:SMURF
+complex	Phospho-r-SMAD1/5/8:Co-SMAD
+complex	I-SMAD:SMURF
+protein	Ligand Trap
+complex	Ligand Trap:BMP2
+protein	R-Smad1/5/8
+complex	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:R-SMAD1/5/9
+complex	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin
+complex	Dimeric BMP2:BMP type II receptor:Phospho-BMP type I receptor complex
+complex	I-Smad:Phospho-R-Smad1/5/8
+complex	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:Phospho-R-SMAD1/5/9
+complex	Dimeric BMP2
+complex	Dimeric BMP2:BMP type II:type I receptor complex
+protein	Phospho-R-SMAD1/5/9
+complex	BMP type II receptor dimer
+complex	Heteromeric BMP receptor complex
+smallMolecule	ATP
+smallMolecule	ADP
+protein	ZFYVE16
+protein	SMAD4
+protein	SKI
+Dimeric BMP2:BMP type II receptor:Phospho-BMP type I receptor complex	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:Phospho-R-SMAD1/5/9	-a>
+SMAD4	Phospho-r-SMAD1/5/8:Co-SMAD	component>
+Phospho-R-SMAD1/5/9	Phospho-r-SMAD1/5/8:Co-SMAD	component>
+Phospho-R-SMAD1/5/9	I-Smad:Phospho-R-Smad1/5/8	component>
+Phospho-r-SMAD1/5/8:Co-SMAD	Phospho-r-SMAD1/5/8:Co-SMAD	-a>
+ATP	Dimeric BMP2:BMP type II receptor:Phospho-BMP type I receptor complex	-a>
+Dimeric BMP2:BMP type II:type I receptor complex	ADP	-a>
+Dimeric BMP2:BMP type II:type I receptor complex	Dimeric BMP2:BMP type II receptor:Phospho-BMP type I receptor complex	-a>
+SKI	Phospho-r-SMAD1/5/8:Co-SMAD:SKI	component>
+Phospho-r-SMAD1/5/8:Co-SMAD	Phospho-r-SMAD1/5/8:Co-SMAD:SKI	component>
+Heteromeric BMP receptor complex	Dimeric BMP2:BMP type II:type I receptor complex	component>
+Dimeric BMP2	Dimeric BMP2:BMP type II:type I receptor complex	component>
+R-Smad1/5/8	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:R-SMAD1/5/9	component>
+Dimeric BMP2:BMP type II receptor:Phospho-BMP type I receptor complex	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:R-SMAD1/5/9	component>
+ZFYVE16	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:R-SMAD1/5/9	component>
+Ligand Trap	Ligand Trap:BMP2	component>
+Dimeric BMP2	Ligand Trap:BMP2	component>
+BMP type I receptor dimer	Heteromeric BMP receptor complex	component>
+BMP type II receptor dimer	Heteromeric BMP receptor complex	component>
+I-SMAD:SMURF	BMP2:BMP type II receptor:Phospho-BMP type I receptor:I-SMAD:SMURF	component>
+Dimeric BMP2:BMP type II receptor:Phospho-BMP type I receptor complex	BMP2:BMP type II receptor:Phospho-BMP type I receptor:I-SMAD:SMURF	component>
+ATP	ADP	-a>
+ATP	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:Phospho-R-SMAD1/5/9	-a>
+BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:R-SMAD1/5/9	ADP	-a>
+BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:R-SMAD1/5/9	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:Phospho-R-SMAD1/5/9	-a>
+BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:Phospho-R-SMAD1/5/9	BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin	component>
+BMP2:BMP type II receptor:Phospho-BMP type I receptor:Endofin:Phospho-R-SMAD1/5/9	Phospho-R-SMAD1/5/9	component>

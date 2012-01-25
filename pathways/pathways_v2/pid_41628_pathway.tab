@@ -1,0 +1,13 @@
+complex	eRF3-GTP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex
+complex	eRF3-GDP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex
+complex	GTP bound eRF3
+complex	elongating polypeptide chain
+complex	eRF3-GDP:eRF1:80S Ribosome:mRNA:tRNA Complex
+smallMolecule	phosphate
+protein	ETF1
+elongating polypeptide chain	eRF3-GTP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex	component>
+GTP bound eRF3	eRF3-GTP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex	component>
+ETF1	eRF3-GTP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex	component>
+eRF3-GDP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex	eRF3-GDP:eRF1:80S Ribosome:mRNA:tRNA Complex	-a>
+eRF3-GTP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex	eRF3-GDP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex	-a>
+eRF3-GTP:eRF1:80S Ribosome:mRNA:peptidyl-tRNA Complex	phosphate	-a>

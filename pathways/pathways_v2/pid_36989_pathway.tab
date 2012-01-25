@@ -1,0 +1,129 @@
+abstract	positive regulation of Ras protein signal transduction
+abstract	Granulosa Cell
+abstract	hemidesmosome assembly
+abstract	myelination in the peripheral nervous system
+abstract	Ligand binding
+abstract	Tumor Cell Invasion
+abstract	cell migration
+abstract	cell adhesion
+abstract	degradation
+abstract	apoptosis
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	alpha6/beta4 Integrin/Laminin/BP180
+complex	alpha6/beta4 Integrin/SHC
+complex	Rac1b/GDP
+complex	alpha6/beta4 (cleaved) Integrin/Laminin
+protein	Caspase 3 (cleaved)
+complex	RXRs/RXRs/DNA/9cRA
+complex	alpha6/beta4 Integrin
+complex	alpha6/beta4 Integrin/Met
+protein	Caspase 7 (cleaved)
+complex	Laminin
+complex	Ron/MSP/14-3-3 family
+complex	alpha6/beta1 Integrin
+complex	alpha6/beta4 Integrin/Laminin/PMP-22
+complex	alpha6/beta4 Integrin/Laminin
+complex	alpha6/beta1 Integrin/CD9
+complex	HRAS/GDP
+complex	alpha6/beta1 Integrin/Laminin
+complex	HRAS/GTP
+complex	alpha6/beta4 Integrin/SHC/GRB2
+complex	alpha6/beta4 Integrin/Met /SHC/PI3K
+complex	alpha6/beta4 Integrin/Laminin/14-3-3
+protein	beta1 Integrin
+complex	PI3K
+complex	EGF/EGFR
+protein	alpha6 Integrin
+complex	Rac1b/GTP
+protein	14-3-3 family
+protein	SHC1
+protein	RPS6KB1
+protein	PRKCA
+protein	PMP22
+protein	MST1R
+protein	MST1
+protein	MET
+protein	ITGB4
+protein	IL1A
+protein	GRB2
+protein	ERBB3
+protein	ERBB2
+protein	COL17A1
+protein	CDH1
+protein	CD9
+protein	AKT1
+Caspase 3 (cleaved)	alpha6/beta4 (cleaved) Integrin/Laminin	-a>
+ERBB3	AKT1	-a>
+Granulosa Cell	alpha6/beta1 Integrin/CD9	component>
+Ligand binding	alpha6/beta4 Integrin/Laminin	-a>
+PRKCA	alpha6/beta4 Integrin/Laminin/14-3-3	component>
+PI3K	Rac1b/GTP	-a>
+PRKCA	alpha6/beta4 Integrin/Laminin	-a>
+EGF/EGFR	alpha6/beta4 Integrin/Laminin	-a>
+cell adhesion	alpha6/beta4 Integrin/Laminin	-a>
+alpha6/beta1 Integrin	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+AKT1	Ron/MSP/14-3-3 family	component>
+Ligand binding	alpha6/beta4 Integrin	-a>
+ERBB2	HRAS/GTP	-a>
+EGF/EGFR	HRAS/GTP	-a>
+alpha6/beta4 Integrin	HRAS/GTP	-a>
+cell adhesion	HRAS/GTP	-a>
+Caspase 7 (cleaved)	alpha6/beta4 (cleaved) Integrin/Laminin	-a>
+apoptosis	alpha6/beta4 (cleaved) Integrin/Laminin	-a>
+alpha6/beta4 Integrin/Laminin	ERBB3	component>
+RXRs/RXRs/DNA/9cRA	alpha6 Integrin	-t>
+beta1 Integrin	alpha6/beta4 Integrin	component>
+beta1 Integrin	alpha6/beta1 Integrin	component>
+ITGB4	alpha6/beta4 Integrin	component>
+ITGB4	alpha6/beta1 Integrin	component>
+alpha6 Integrin	alpha6/beta4 Integrin	component>
+alpha6 Integrin	alpha6/beta1 Integrin	component>
+alpha6/beta4 Integrin/Laminin	AKT1	-a>
+alpha6/beta4 Integrin/SHC/GRB2	positive regulation of Ras protein signal transduction	-ap>
+Laminin	alpha6/beta4 Integrin/Laminin	component>
+alpha6/beta4 Integrin	alpha6/beta4 Integrin/Laminin	component>
+CD9	alpha6/beta1 Integrin/CD9	component>
+alpha6/beta1 Integrin	alpha6/beta1 Integrin/CD9	component>
+alpha6/beta4 Integrin/Laminin	CDH1	component>
+PI3K	CDH1	component>
+alpha6/beta4 Integrin/Laminin/14-3-3	cell migration	-ap>
+Ron/MSP/14-3-3 family	cell migration	-ap>
+14-3-3 family	alpha6/beta4 Integrin/Laminin/14-3-3	component>
+alpha6/beta4 Integrin/Laminin	alpha6/beta4 Integrin/Laminin/14-3-3	component>
+Rac1b/GDP	Rac1b/GTP	-a>
+alpha6/beta4 Integrin/Laminin/BP180	hemidesmosome assembly	-ap>
+alpha6/beta4 Integrin/Laminin	alpha6/beta4 Integrin/Laminin	-a>
+alpha6/beta4 Integrin/Laminin	PI3K	-a>
+ERBB2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+alpha6/beta4 Integrin/Laminin	alpha6/beta4 Integrin/SHC	component>
+MST1	Ron/MSP/14-3-3 family	component>
+14-3-3 family	Ron/MSP/14-3-3 family	component>
+MST1R	Ron/MSP/14-3-3 family	component>
+ERBB2	cell adhesion	-ap>
+CDH1	cell adhesion	-ap>
+Rac1b/GTP	cell adhesion	-ap>
+alpha6/beta4 Integrin/Met /SHC/PI3K	Tumor Cell Invasion	-ap>
+alpha6/beta4 Integrin	alpha6/beta4 Integrin	-a>
+alpha6/beta4 Integrin/Laminin/PMP-22	myelination in the peripheral nervous system	-ap>
+alpha6/beta4 Integrin/Laminin	cell migration	-ap>
+COL17A1	alpha6/beta4 Integrin/Laminin/BP180	component>
+alpha6/beta4 Integrin/Laminin	alpha6/beta4 Integrin/Laminin/BP180	component>
+PMP22	alpha6/beta4 Integrin/Laminin/PMP-22	component>
+alpha6/beta4 Integrin/Laminin	alpha6/beta4 Integrin/Laminin/PMP-22	component>
+HRAS/GDP	HRAS/GTP	-a>
+alpha6/beta1 Integrin	RPS6KB1	-a>
+MET	alpha6/beta4 Integrin/Met	component>
+alpha6/beta4 Integrin	alpha6/beta4 Integrin/Met	component>
+alpha6/beta4 (cleaved) Integrin/Laminin	apoptosis	-ap>
+Laminin	alpha6/beta1 Integrin/Laminin	component>
+alpha6/beta1 Integrin	alpha6/beta1 Integrin/Laminin	component>
+SHC1	alpha6/beta4 Integrin/SHC	component>
+alpha6/beta4 Integrin	alpha6/beta4 Integrin/SHC	component>
+PI3K	alpha6/beta4 Integrin/Met /SHC/PI3K	component>
+SHC1	alpha6/beta4 Integrin/Met /SHC/PI3K	component>
+alpha6/beta4 Integrin/Met	alpha6/beta4 Integrin/Met /SHC/PI3K	component>
+IL1A	alpha6 Integrin	-t>
+alpha6/beta4 Integrin/Laminin	alpha6/beta4 (cleaved) Integrin/Laminin	-a>
+GRB2	alpha6/beta4 Integrin/SHC/GRB2	component>
+alpha6/beta4 Integrin/SHC	alpha6/beta4 Integrin/SHC/GRB2	component>
+alpha6/beta4 (cleaved) Integrin/Laminin	degradation	-ap>

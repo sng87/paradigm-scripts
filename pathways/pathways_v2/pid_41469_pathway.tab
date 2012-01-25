@@ -1,0 +1,20 @@
+complex	RHO-GDI:p75NTR:NgR:myelin component
+complex	p75NTR:NgR:LINGO1:myelin component
+complex	p75NTR:NgR:LINGO1
+complex	p75NTR:NgR
+complex	RhoA (Mg cofactor):GTP
+complex	RhoA (Mg cofactor):GDP
+protein	Myelin component
+complex	RHOA:RHO-GDI:p75NTR:NgR:myelin component
+protein	NGFR
+protein	LINGO1
+protein	ARHGEF1
+ARHGEF1	RhoA (Mg cofactor):GTP	-a>
+RHOA:RHO-GDI:p75NTR:NgR:myelin component	RHO-GDI:p75NTR:NgR:myelin component	component>
+RHOA:RHO-GDI:p75NTR:NgR:myelin component	RhoA (Mg cofactor):GDP	component>
+p75NTR:NgR:LINGO1	p75NTR:NgR:LINGO1:myelin component	component>
+Myelin component	p75NTR:NgR:LINGO1:myelin component	component>
+LINGO1	p75NTR:NgR:LINGO1	component>
+p75NTR:NgR	p75NTR:NgR:LINGO1	component>
+RhoA (Mg cofactor):GDP	RhoA (Mg cofactor):GTP	-a>
+NGFR	p75NTR:NgR	component>

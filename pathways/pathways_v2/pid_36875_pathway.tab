@@ -1,0 +1,149 @@
+abstract	negative regulation of phagocytosis
+abstract	intracellular pH reduction
+abstract	regulation of endothelial cell proliferation
+abstract	inflammatory response
+abstract	cell killing
+abstract	necrosis
+abstract	monocyte activation
+abstract	negative regulation of myeloid dendritic cell antigen processing and presentation
+abstract	macrophage activation
+abstract	platelet activation
+abstract	MAPKKK cascade
+abstract	apoptosis
+abstract	negative regulation of macrophage activation
+protein	Lethal factor
+complex	Channel
+protein	MKK3 fragments
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	MEK1 fragments
+protein	Protective Antigen (PA)
+complex	PA/Cellular Receptors
+complex	Lethal toxin (unfolded)
+smallMolecule	LPS
+protein	ERK1-2-active
+protein	Glucocorticoid Receptor
+protein	ERK1-2
+smallMolecule	Peptidoglycan
+protein	MKK4 fragments
+complex	Caspase 1 (tetramer)
+protein	PA20_30-196
+protein	Estrogen receptor alpha
+protein	MEK2 fragments
+protein	Edema factor
+smallMolecule	NO
+smallMolecule	Epigallocatechin-3-gallate (EGCG)
+protein	MKK7 fragments
+protein	IL12p70
+protein	Edema factor (3 molecules)
+protein	PA63_197-764
+protein	PA Cellular Receptors
+complex	Edema toxin (unfolded)
+smallMolecule	Ca2+
+smallMolecule	Polyglutamate
+protein	Lethal factor (3 molecules)
+protein	MKK6 fragments
+protein	Furin or Furin like Endopeptidase
+protein	VCAM1
+protein	TNF
+protein	PGR
+protein	NLRP1
+protein	MAP2K7
+protein	MAP2K6
+protein	MAP2K4
+protein	MAP2K3
+protein	MAP2K2
+protein	MAP2K1
+protein	LOC728358
+protein	IL1B
+protein	IL18
+protein	CASP1
+protein	CALM1
+Lethal factor	MEK1 fragments	-a>
+CALM1	cAMP	-a>
+Ca2+	cAMP	-a>
+Edema factor	cAMP	-a>
+intracellular pH reduction	Channel	component>
+MKK3 fragments	TNF	-t|
+Epigallocatechin-3-gallate (EGCG)	MKK3 fragments	-a|
+Lethal factor	MKK3 fragments	-a>
+Epigallocatechin-3-gallate (EGCG)	MEK2 fragments	-a|
+Lethal factor	MEK2 fragments	-a>
+Lethal factor	MKK6 fragments	-a>
+Caspase 1 (tetramer)	IL18	-a>
+Caspase 1 (tetramer)	IL1B	-a>
+TNF	VCAM1	-a>
+Lethal factor	ERK1-2-active	-a>
+Lethal factor	MKK4 fragments	-a>
+NLRP1	Caspase 1 (tetramer)	component>
+Lethal factor	Caspase 1 (tetramer)	component>
+Channel	Edema factor	component>
+Furin or Furin like Endopeptidase	Channel	component>
+Furin or Furin like Endopeptidase	PA63_197-764	-a>
+MKK3 fragments	NO	-t|
+Lethal factor	MKK7 fragments	-a>
+Lethal factor	apoptosis	-ap>
+cAMP	negative regulation of phagocytosis	-ap>
+MAP2K1	MEK1 fragments	-a>
+Lethal factor	Estrogen receptor alpha	-a>
+MKK4 fragments	MAPKKK cascade	-ap|
+ATP	cAMP	-a>
+cAMP	platelet activation	-ap>
+PA Cellular Receptors	Channel	component>
+PA63_197-764	Channel	component>
+MKK3 fragments	MAPKKK cascade	-ap|
+Lethal factor	PGR	-a>
+Channel	Lethal toxin (unfolded)	component>
+Channel	Edema toxin (unfolded)	component>
+Channel	Channel	component>
+Lethal factor (3 molecules)	Lethal toxin (unfolded)	component>
+Lethal factor (3 molecules)	Edema toxin (unfolded)	component>
+Lethal factor (3 molecules)	Channel	component>
+Edema factor (3 molecules)	Lethal toxin (unfolded)	component>
+Edema factor (3 molecules)	Edema toxin (unfolded)	component>
+Edema factor (3 molecules)	Channel	component>
+MKK6 fragments	MAPKKK cascade	-ap|
+LPS	TNF	-t>
+Lethal factor	regulation of endothelial cell proliferation	-ap|
+LOC728358	Lethal factor	-a>
+MAP2K3	MKK3 fragments	-a>
+MAP2K2	MEK2 fragments	-a>
+Glucocorticoid Receptor	inflammatory response	-ap|
+Polyglutamate	necrosis	-ap>
+IL12p70	cell killing	-ap>
+TNF	cell killing	-ap>
+Lethal factor	cell killing	-ap>
+Edema factor	cell killing	-ap>
+Lethal factor	necrosis	-ap>
+Epigallocatechin-3-gallate (EGCG)	Lethal factor	-a>
+MAP2K6	MKK6 fragments	-a>
+Peptidoglycan	necrosis	-ap>
+IL18	IL18	-a>
+Lethal factor	Glucocorticoid Receptor	-a>
+IL1B	IL1B	-a>
+Lethal factor	VCAM1	-a>
+MKK7 fragments	MAPKKK cascade	-ap|
+ERK1-2	ERK1-2-active	-a>
+MAP2K4	MKK4 fragments	-a>
+PA20_30-196	Channel	-a|
+CASP1	Caspase 1 (tetramer)	component>
+Lethal toxin (unfolded)	Lethal factor	component>
+Lethal toxin (unfolded)	Edema factor	component>
+Edema toxin (unfolded)	Lethal factor	component>
+Edema toxin (unfolded)	Edema factor	component>
+Lethal factor	NLRP1	-a>
+VCAM1	monocyte activation	-ap>
+PA Cellular Receptors	PA/Cellular Receptors	component>
+Protective Antigen (PA)	PA/Cellular Receptors	component>
+ERK1-2-active	macrophage activation	-ap>
+MEK2 fragments	MAPKKK cascade	-ap|
+Lethal factor	negative regulation of myeloid dendritic cell antigen processing and presentation	-ap>
+PA/Cellular Receptors	PA20_30-196	component>
+PA/Cellular Receptors	Channel	component>
+Protective Antigen (PA)	PA20_30-196	-a>
+Protective Antigen (PA)	PA63_197-764	-a>
+LPS	NO	-t>
+MAP2K7	MKK7 fragments	-a>
+LPS	apoptosis	-ap>
+MEK1 fragments	MAPKKK cascade	-ap|
+Lethal factor	negative regulation of macrophage activation	-ap>

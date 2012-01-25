@@ -1,0 +1,5 @@
+complex	ChREBP:MLX
+protein	MLXIPL
+protein	MLX
+MLX	ChREBP:MLX	component>
+MLXIPL	ChREBP:MLX	component>

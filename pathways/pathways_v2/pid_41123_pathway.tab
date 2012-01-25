@@ -1,0 +1,21 @@
+smallMolecule	D-Xylulose 5-phosphate
+smallMolecule	Sedoheptulose 7-phosphate
+smallMolecule	Neuberg ester
+smallMolecule	D-Glyceraldehyde 3-phosphate
+complex	transketolase dimer
+smallMolecule	Ribose 5-phosphate
+smallMolecule	D-Erythrose 4-phosphate
+protein	TALDO1
+transketolase dimer	D-Xylulose 5-phosphate	-a>
+TALDO1	Sedoheptulose 7-phosphate	-a>
+D-Glyceraldehyde 3-phosphate	Ribose 5-phosphate	-a>
+Sedoheptulose 7-phosphate	Ribose 5-phosphate	-a>
+Sedoheptulose 7-phosphate	D-Xylulose 5-phosphate	-a>
+D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate	-a>
+D-Glyceraldehyde 3-phosphate	D-Xylulose 5-phosphate	-a>
+Neuberg ester	D-Erythrose 4-phosphate	-a>
+Neuberg ester	D-Xylulose 5-phosphate	-a>
+Neuberg ester	D-Glyceraldehyde 3-phosphate	-a>
+Neuberg ester	Sedoheptulose 7-phosphate	-a>
+D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate	-a>
+D-Erythrose 4-phosphate	Sedoheptulose 7-phosphate	-a>

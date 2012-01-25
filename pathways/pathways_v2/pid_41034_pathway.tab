@@ -1,0 +1,62 @@
+smallMolecule	L-Tryptophan
+smallMolecule	2-Aminomuconate
+complex	3-hydroxyanthranilate oxygenase holoenzyme
+smallMolecule	3-Hydroxy-L-kynurenine
+smallMolecule	TPNH
+smallMolecule	L-Kynurenine
+smallMolecule	Formate
+smallMolecule	2-Amino-3-carboxymuconate semialdehyde
+smallMolecule	H2O
+smallMolecule	3-Hydroxyanthranilate
+smallMolecule	2-Aminomuconate semialdehyde
+smallMolecule	TPN
+smallMolecule	CO2
+smallMolecule	DPN
+complex	2-amino-3-carboxymuconate-6-semialdehyde decarboxylase homodimer
+complex	kynureninase holoenzyme dimer
+smallMolecule	NADH
+complex	tryptophan 2,3-dioxygenase tetramer
+smallMolecule	Formylkynurenine
+smallMolecule	L-Alanine
+smallMolecule	H+
+smallMolecule	O2
+protein	KMO
+protein	AFMID
+3-hydroxyanthranilate oxygenase holoenzyme	2-Amino-3-carboxymuconate semialdehyde	-a>
+kynureninase holoenzyme dimer	L-Alanine	-a>
+KMO	TPN	-a>
+AFMID	L-Kynurenine	-a>
+tryptophan 2,3-dioxygenase tetramer	Formylkynurenine	-a>
+2-amino-3-carboxymuconate-6-semialdehyde decarboxylase homodimer	CO2	-a>
+DPN	2-Aminomuconate	-a>
+DPN	H+	-a>
+DPN	NADH	-a>
+2-Aminomuconate semialdehyde	2-Aminomuconate	-a>
+2-Aminomuconate semialdehyde	H+	-a>
+2-Aminomuconate semialdehyde	NADH	-a>
+O2	2-Amino-3-carboxymuconate semialdehyde	-a>
+3-Hydroxyanthranilate	2-Amino-3-carboxymuconate semialdehyde	-a>
+3-Hydroxy-L-kynurenine	3-Hydroxyanthranilate	-a>
+3-Hydroxy-L-kynurenine	L-Alanine	-a>
+H2O	3-Hydroxyanthranilate	-a>
+H2O	L-Alanine	-a>
+TPNH	3-Hydroxy-L-kynurenine	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+O2	3-Hydroxy-L-kynurenine	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+L-Kynurenine	3-Hydroxy-L-kynurenine	-a>
+L-Kynurenine	H2O	-a>
+L-Kynurenine	TPN	-a>
+H+	3-Hydroxy-L-kynurenine	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+H2O	Formate	-a>
+H2O	L-Kynurenine	-a>
+Formylkynurenine	Formate	-a>
+Formylkynurenine	L-Kynurenine	-a>
+L-Tryptophan	Formylkynurenine	-a>
+O2	Formylkynurenine	-a>
+2-Amino-3-carboxymuconate semialdehyde	2-Aminomuconate semialdehyde	-a>
+2-Amino-3-carboxymuconate semialdehyde	CO2	-a>

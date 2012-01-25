@@ -1,0 +1,251 @@
+protein	IRS2
+protein	CCL26
+protein	AICDA
+protein	RETNLB
+protein	GTF3A
+protein	CCL17
+protein	PARP14
+protein	MAPK14
+protein	IRF4
+protein	IL13RA2
+protein	BCL2L1
+protein	TFF3
+protein	IL13RA1
+protein	GRB2
+protein	JAK3
+protein	CCL11
+protein	FRAP1
+protein	PIK3CA
+protein	STAT6
+protein	BCL6
+protein	IRS1
+protein	OPRM1
+protein	IL2RG
+protein	AKT1
+protein	CD40LG
+protein	SHC1
+protein	PTPN6
+protein	PIK3R1
+protein	IL4R
+protein	JAK1
+protein	RPS6KB1
+protein	CBL
+protein	IL10
+protein	SPI1
+protein	CEBPB
+protein	HMGA1
+protein	SELP
+protein	ALOX15
+protein	ETS1
+protein	EGR2
+protein	MYBL1
+protein	MYB
+protein	COL1A2
+protein	SP1
+protein	FES
+protein	FCER2
+protein	IL5
+protein	IL4
+protein	ITGB3
+protein	ARG1
+protein	THY1
+protein	COL1A1
+protein	IGHG3
+protein	IGHG1
+protein	IGHE
+protein	PIGR
+protein	LTA
+protein	SOCS5
+protein	JAK2
+protein	DOK2
+protein	SOCS1
+protein	SOCS3
+protein	INPP5D
+complex	STAT6 (dimer)/PARP14
+complex	STAT6 (dimer)/ETS1
+complex	STAT6 (dimer)
+complex	STAT6 (cleaved dimer)
+complex	PI3K
+complex	IRF4/BCL6
+complex	IL4R/JAK1
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3/DOK2
+complex	IL4/IL4R/JAK1/IL2R gamma/JAK3
+complex	IL4/IL4R/JAK1/IL13RA1/JAK2
+complex	IL4/IL4R/JAK1
+complex	IL2R gamma/JAK3
+complex	IL13RA1/JAK2
+chemical	mol:PI-3-4-5-P3
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	mitosis
+abstract	mast cell activation
+abstract	T-helper 2 cell differentiation
+abstract	T-helper 1 cell differentiation
+abstract	T cell proliferation
+abstract	MAPKKK cascade
+positive regulation of NF-kappaB transcription factor activity	AICDA	-ap>
+positive regulation of NF-kappaB transcription factor activity	CCL11	-ap>
+positive regulation of NF-kappaB transcription factor activity	COL1A2	-ap>
+positive regulation of NF-kappaB transcription factor activity	IGHG3	-ap>
+positive regulation of NF-kappaB transcription factor activity	IGHE	-ap>
+mol:PI-3-4-5-P3	FRAP1	-a>
+mol:PI-3-4-5-P3	AKT1	-a>
+mast cell activation	STAT6 (cleaved dimer)	-ap>
+IRS2	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+GTF3A	COL1A1	-t>
+PARP14	STAT6 (dimer)/PARP14	component>
+MAPK14	SOCS3	-t>
+IRF4	FCER2	-t>
+IRF4	IRF4/BCL6	component>
+IL13RA1	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+IL13RA1	IL13RA1/JAK2	component>
+GRB2	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3/DOK2	component>
+JAK3	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+JAK3	IL2R gamma/JAK3	component>
+FRAP1	mitosis	-ap>
+FRAP1	RPS6KB1	-a>
+PIK3CA	PI3K	component>
+STAT6	STAT6 (dimer)/PARP14	component>
+STAT6	STAT6 (dimer)/ETS1	component>
+STAT6	STAT6 (dimer)	component>
+STAT6	STAT6 (cleaved dimer)	component>
+BCL6	IGHE	-t|
+BCL6	T-helper 2 cell differentiation	-ap|
+BCL6	IRF4/BCL6	component>
+IRS1	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3/DOK2	component>
+IL2RG	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+IL2RG	IL2R gamma/JAK3	component>
+CD40LG	IRF4	-t>
+SHC1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+SHC1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+PTPN6	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+PIK3R1	PI3K	component>
+IL4R	IL4R/JAK1	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3/DOK2	component>
+IL4R	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+IL4R	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+IL4R	IL4/IL4R/JAK1	component>
+JAK1	IL4R/JAK1	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3/DOK2	component>
+JAK1	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+JAK1	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+JAK1	IL4/IL4R/JAK1	component>
+CBL	PI3K	-a>
+SPI1	ARG1	-t>
+CEBPB	ARG1	-t>
+CEBPB	IGHG1	-t>
+CEBPB	IGHE	-t>
+HMGA1	IGHE	-t|
+ETS1	STAT6 (dimer)/ETS1	component>
+EGR2	FCER2	-t>
+MYBL1	IGHE	-t|
+MYB	IGHE	-t|
+SP1	COL1A2	-t>
+FES	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+FES	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/FES	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3/DOK2	component>
+IL4	IL4/IL4R/JAK1/IL2R gamma/JAK3	component>
+IL4	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+IL4	IL4/IL4R/JAK1	component>
+SOCS5	IL4/IL4R/JAK1/IL2R gamma/JAK3	-a|
+JAK2	IL4/IL4R/JAK1/IL13RA1/JAK2	component>
+JAK2	IL13RA1/JAK2	component>
+DOK2	IL4/IL4R/JAK1/IL2R gamma/JAK3/DOK2	component>
+SOCS1	IL4/IL4R/JAK1/IL2R gamma/JAK3	-a|
+SOCS1	IL4/IL4R/JAK1/IL13RA1/JAK2	-a|
+INPP5D	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHIP	component>
+INPP5D	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	component>
+INPP5D	IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP	component>
+STAT6 (dimer)/PARP14	FCER2	-t>
+STAT6 (dimer)/ETS1	SOCS1	-t>
+STAT6 (dimer)	CCL26	-t>
+STAT6 (dimer)	AICDA	-t>
+STAT6 (dimer)	RETNLB	-t>
+STAT6 (dimer)	CCL17	-t>
+STAT6 (dimer)	IL13RA2	-t>
+STAT6 (dimer)	BCL2L1	-t>
+STAT6 (dimer)	TFF3	-t>
+STAT6 (dimer)	CCL11	-t>
+STAT6 (dimer)	OPRM1	-t>
+STAT6 (dimer)	IL4R	-t>
+STAT6 (dimer)	IL10	-t>
+STAT6 (dimer)	SELP	-t>
+STAT6 (dimer)	ALOX15	-t>
+STAT6 (dimer)	EGR2	-t>
+STAT6 (dimer)	COL1A2	-t>
+STAT6 (dimer)	IL5	-t>
+STAT6 (dimer)	IL4	-t>
+STAT6 (dimer)	ITGB3	-t>
+STAT6 (dimer)	ARG1	-t>
+STAT6 (dimer)	THY1	-t>
+STAT6 (dimer)	COL1A1	-t>
+STAT6 (dimer)	IGHG3	-t>
+STAT6 (dimer)	IGHG1	-t>
+STAT6 (dimer)	IGHE	-t>
+STAT6 (dimer)	PIGR	-t>
+STAT6 (dimer)	LTA	-t>
+STAT6 (dimer)	T-helper 2 cell differentiation	-ap>
+STAT6 (dimer)	T-helper 1 cell differentiation	-ap|
+STAT6 (dimer)	T cell proliferation	-ap>
+STAT6 (cleaved dimer)	IL4	-t|
+PI3K	mol:PI-3-4-5-P3	-a>
+PI3K	FRAP1	-a>
+PI3K	AKT1	-a>
+IRF4/BCL6	FCER2	-t|
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	STAT6	-a|
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHP1	PI3K	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/SHC/SHIP/GRB2	MAPKKK cascade	-ap>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/IRS1	PI3K	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	T-helper 2 cell differentiation	-ap>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	T cell proliferation	-ap>
+IL4/IL4R/JAK1/IL2R gamma/JAK3/FES/IRS2	PI3K	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	MAPK14	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	IRF4	-t>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	CBL	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6 (dimer)/ETS1	-a>
+IL4/IL4R/JAK1/IL2R gamma/JAK3	STAT6 (cleaved dimer)	-a>
+IL4/IL4R/JAK1/IL13RA1/JAK2	STAT6	-a>

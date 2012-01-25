@@ -1,0 +1,53 @@
+abstract	viral genome replication
+smallMolecule	CGP37157
+complex	SHC/GRB2/SOS-1
+smallMolecule	neoral (tn)
+smallMolecule	valinomycin
+protein	HBX
+smallMolecule	BAPTA-AM
+complex	BAPTA-AM/Ca ++
+smallMolecule	thapsigargin
+complex	PYK2/SRC
+complex	CaM/Ca ++
+complex	CREB/CREB
+protein	CaM
+complex	AP-1
+smallMolecule	Ca2+
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RAF1
+protein	MAPK3
+protein	MAP2K1
+protein	JUN
+protein	HRAS
+protein	HBXIP
+protein	FOS
+protein	CSNK2A1
+SHC/GRB2/SOS-1	GDP	-a>
+CGP37157	Ca2+	-a|
+neoral (tn)	Ca2+	-a|
+thapsigargin	Ca2+	-a>
+CSNK2A1	JUN	-a|
+HBXIP	Ca2+	-a|
+PYK2/SRC	SHC/GRB2/SOS-1	-a>
+MAP2K1	MAPK3	-a>
+HRAS	RAF1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+valinomycin	Ca2+	-a>
+PYK2/SRC	viral genome replication	-ap>
+RAF1	MAP2K1	-a>
+MAPK3	JUN	-a>
+HBX	Ca2+	-a>
+HBXIP	HBX	-a|
+CaM/Ca ++	PYK2/SRC	-a>
+FOS	AP-1	component>
+JUN	AP-1	component>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+HBX	CREB/CREB	-a>
+Ca2+	BAPTA-AM/Ca ++	component>
+BAPTA-AM	BAPTA-AM/Ca ++	component>
+MAPK3	MAPK3	-a>

@@ -1,0 +1,20 @@
+protein	_1-76
+complex	multiubiquitinated Securin in complex with CDC20:phospho-APC/C
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76
+complex	Cdc20:phosph-APC/C:Securin complex
+complex	Cdc20:Phospho-APC/C
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	26S Proteasome
+protein	PTTG1
+Cdc20:Phospho-APC/C	multiubiquitinated Securin in complex with CDC20:phospho-APC/C	component>
+26S Proteasome	Cdc20:Phospho-APC/C	component>
+PTTG1	Cdc20:phosph-APC/C:Securin complex	component>
+Cdc20:Phospho-APC/C	Cdc20:phosph-APC/C:Securin complex	component>
+_1-76	multiubiquitinated Securin in complex with CDC20:phospho-APC/C	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	multiubiquitinated Securin in complex with CDC20:phospho-APC/C	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	multiubiquitinated Securin in complex with CDC20:phospho-APC/C	component>
+Cdc20:phosph-APC/C:Securin complex	multiubiquitinated Securin in complex with CDC20:phospho-APC/C	component>
+multiubiquitinated Securin in complex with CDC20:phospho-APC/C	_1-76	component>
+multiubiquitinated Securin in complex with CDC20:phospho-APC/C	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	component>
+multiubiquitinated Securin in complex with CDC20:phospho-APC/C	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+multiubiquitinated Securin in complex with CDC20:phospho-APC/C	Cdc20:Phospho-APC/C	component>

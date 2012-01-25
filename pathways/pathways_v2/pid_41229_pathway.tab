@@ -1,0 +1,38 @@
+complex	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats
+smallMolecule	dATP
+complex	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat
+complex	Telomerase RNP Bound to the Telomeric Chromosome End
+complex	Telomerase RNP
+smallMolecule	dCTP
+smallMolecule	TTP
+rna	EMBL:U86046 TERC
+smallMolecule	dGTP
+protein	WRAP53
+protein	TERT
+protein	RUVBL2
+protein	RUVBL1
+protein	NHP2
+protein	DKC1
+Telomerase RNP	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	-a>
+RUVBL2	Telomerase RNP	component>
+WRAP53	Telomerase RNP	component>
+RUVBL1	Telomerase RNP	component>
+NHP2	Telomerase RNP	component>
+Telomerase RNP	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	-a>
+dGTP	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	-a>
+dATP	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	-a>
+TTP	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	-a>
+Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	-a>
+dCTP	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	-a>
+Telomerase RNP Bound to the Telomeric Chromosome End	Telomerase RNP Bound to the Telomeric Chromosome End	-a>
+Telomerase RNP	Telomerase RNP Bound to the Telomeric Chromosome End	-a>
+TERT	Telomerase RNP	component>
+DKC1	Telomerase RNP	component>
+EMBL:U86046 TERC	Telomerase RNP	component>
+Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	-a>
+dCTP	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	-a>
+dGTP	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	-a>
+Telomerase RNP Bound to the Telomeric Chromosome End	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	-a>
+dATP	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	-a>
+TTP	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	-a>
+Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	Telomerase RNP	-a>

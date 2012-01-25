@@ -1,0 +1,29 @@
+complex	CAK
+complex	Rb-E2F:DP-1 complex
+complex	Cyclin D:Cdk4/6:p21/p27
+complex	DP-1:E2F complex
+protein	p21/p27
+smallMolecule	ATP
+smallMolecule	ADP
+protein	RB1
+protein	CDK4
+protein	CCND1
+Cyclin D:Cdk4/6:p21/p27	DP-1:E2F complex	component>
+CAK	ADP	-a>
+CCND1	Cyclin D:Cdk4/6:p21/p27	component>
+CCND1	ADP	component>
+p21/p27	Cyclin D:Cdk4/6:p21/p27	component>
+p21/p27	ADP	component>
+ATP	Cyclin D:Cdk4/6:p21/p27	component>
+CDK4	Cyclin D:Cdk4/6:p21/p27	component>
+CDK4	ADP	component>
+Rb-E2F:DP-1 complex	ADP	component>
+Rb-E2F:DP-1 complex	RB1	component>
+Rb-E2F:DP-1 complex	DP-1:E2F complex	component>
+ATP	ADP	component>
+ATP	RB1	component>
+ATP	DP-1:E2F complex	component>
+ATP	Cyclin D:Cdk4/6:p21/p27	-a>
+ATP	ADP	-a>
+Cyclin D:Cdk4/6:p21/p27	Cyclin D:Cdk4/6:p21/p27	-a>
+Cyclin D:Cdk4/6:p21/p27	ADP	-a>

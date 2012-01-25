@@ -1,0 +1,21 @@
+smallMolecule	N-Acetylbenzoquinineimine
+smallMolecule	H2
+smallMolecule	TPNH
+smallMolecule	Acetaminophen (TN TYLENOL)
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	O2
+protein	CYP2E1
+CYP2E1	H2O	-a>
+TPN	TPNH	-a>
+TPN	N-Acetylbenzoquinineimine	-a>
+TPN	H2O	-a>
+Acetaminophen (TN TYLENOL)	TPNH	-a>
+Acetaminophen (TN TYLENOL)	N-Acetylbenzoquinineimine	-a>
+Acetaminophen (TN TYLENOL)	H2O	-a>
+O2	TPNH	-a>
+O2	N-Acetylbenzoquinineimine	-a>
+O2	H2O	-a>
+H2	TPNH	-a>
+H2	N-Acetylbenzoquinineimine	-a>
+H2	H2O	-a>

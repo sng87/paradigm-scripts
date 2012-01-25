@@ -1,0 +1,25 @@
+complex	NTM-NEC1-Notch ligand complex
+complex	ADAM 10 metalloprotease (Zn cofactor)
+complex	NTM-NEC3-Notch ligand complex
+complex	Notch 2 ligand-bound fragment-Notch ligand complex
+complex	NTM-NEC4-Notch ligand complex
+complex	Notch 4 ligand-bound fragment-Notch ligand complex
+protein	UniProt:P46531 NOTCH1_subunit_1722_2556_1722-2556
+complex	Notch 1 ligand-bound fragment-Notch ligand complex
+complex	Notch 3 ligand-bound fragment-Notch ligand complex
+complex	NTM-NEC2-Notch ligand complex
+protein	NOTCH4
+protein	NOTCH3
+protein	NOTCH2
+ADAM 10 metalloprotease (Zn cofactor)	Notch 2 ligand-bound fragment-Notch ligand complex	component>
+ADAM 10 metalloprotease (Zn cofactor)	Notch 3 ligand-bound fragment-Notch ligand complex	component>
+ADAM 10 metalloprotease (Zn cofactor)	Notch 4 ligand-bound fragment-Notch ligand complex	component>
+ADAM 10 metalloprotease (Zn cofactor)	UniProt:P46531 NOTCH1_subunit_1722_2556_1722-2556	component>
+NTM-NEC2-Notch ligand complex	NOTCH2	component>
+NTM-NEC2-Notch ligand complex	Notch 2 ligand-bound fragment-Notch ligand complex	component>
+NTM-NEC3-Notch ligand complex	NOTCH3	component>
+NTM-NEC3-Notch ligand complex	Notch 3 ligand-bound fragment-Notch ligand complex	component>
+NTM-NEC4-Notch ligand complex	NOTCH4	component>
+NTM-NEC4-Notch ligand complex	Notch 4 ligand-bound fragment-Notch ligand complex	component>
+NTM-NEC1-Notch ligand complex	Notch 1 ligand-bound fragment-Notch ligand complex	component>
+NTM-NEC1-Notch ligand complex	UniProt:P46531 NOTCH1_subunit_1722_2556_1722-2556	component>

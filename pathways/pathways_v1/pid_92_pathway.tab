@@ -1,0 +1,167 @@
+protein	CSNK1G3
+protein	CSNK1G1
+protein	SIRT1
+protein	FBXO32
+protein	USP7
+protein	KAT2B
+protein	CREBBP
+protein	SKP2
+protein	FOXO1
+protein	EP300
+protein	RBL2
+protein	YWHAH
+protein	FOXO4
+protein	CSNK1G2
+protein	YWHAZ
+protein	RAN
+protein	YWHAE
+protein	YWHAG
+protein	MAPK10
+protein	PLK1
+protein	CSNK1E
+protein	CSNK1D
+protein	CSNK1A1
+protein	FASLG
+protein	CDKN1B
+protein	MAPK9
+protein	MAPK8
+protein	BCL6
+protein	G6PC
+protein	CTNNB1
+protein	SFN
+protein	YWHAB
+protein	AKT1
+protein	YWHAQ
+protein	MST1
+protein	CDK2
+protein	GADD45A
+protein	CCNB1
+protein	RALB
+protein	RALA
+protein	SOD2
+protein	CAT
+protein	ZFAND5
+protein	FOXO3
+protein	BCL2L11
+protein	CHUK
+protein	XPO1
+protein	IKBKB
+protein	SGK1
+complex	Ran/GTP/Exportin 1
+complex	Ran/GTP
+complex	RAL/GTP
+complex	RAL/GDP
+complex	FOXO4/14-3-3 family
+complex	FOXO3A/SIRT1
+complex	FOXO3A/14-3-3
+complex	FOXO1/SKP2
+complex	FOXO1/SIRT1
+complex	FOXO1/14-3-3 family
+complex	FOXO1-3a-4/beta catenin
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	response to oxidative stress
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+response to oxidative stress	mol:GDP	-ap>
+response to oxidative stress	FOXO1	-ap>
+response to oxidative stress	FOXO4	-ap>
+response to oxidative stress	FOXO3	-ap>
+response to oxidative stress	RAL/GTP	-ap>
+mol:GTP	Ran/GTP/Exportin 1	component>
+mol:GTP	Ran/GTP	component>
+mol:GTP	RAL/GTP	component>
+mol:GDP	RAL/GDP	component>
+CSNK1G3	FOXO1/14-3-3 family	-a>
+CSNK1G1	FOXO1/14-3-3 family	-a>
+SIRT1	FOXO3A/SIRT1	component>
+SIRT1	FOXO1/SIRT1	component>
+USP7	FOXO4	-a>
+KAT2B	FOXO3	-a>
+CREBBP	FOXO1	-a>
+SKP2	FOXO1/SKP2	component>
+FOXO1	G6PC	-t>
+FOXO1	FOXO1/SKP2	component>
+FOXO1	FOXO1/SIRT1	component>
+FOXO1	FOXO1/14-3-3 family	component>
+FOXO1	FOXO1-3a-4/beta catenin	component>
+EP300	FOXO1	-a>
+YWHAH	FOXO4/14-3-3 family	component>
+YWHAH	FOXO3A/14-3-3	component>
+YWHAH	FOXO1/14-3-3 family	component>
+FOXO4	RBL2	-t>
+FOXO4	BCL6	-t>
+FOXO4	GADD45A	-t>
+FOXO4	SOD2	-t>
+FOXO4	ZFAND5	-t>
+FOXO4	FOXO4/14-3-3 family	component>
+FOXO4	FOXO1-3a-4/beta catenin	component>
+CSNK1G2	FOXO1/14-3-3 family	-a>
+YWHAZ	FOXO4/14-3-3 family	component>
+YWHAZ	FOXO3A/14-3-3	component>
+YWHAZ	FOXO1/14-3-3 family	component>
+RAN	Ran/GTP/Exportin 1	component>
+RAN	Ran/GTP	component>
+YWHAE	FOXO4/14-3-3 family	component>
+YWHAE	FOXO3A/14-3-3	component>
+YWHAE	FOXO1/14-3-3 family	component>
+YWHAG	FOXO4/14-3-3 family	component>
+YWHAG	FOXO3A/14-3-3	component>
+YWHAG	FOXO1/14-3-3 family	component>
+MAPK10	FOXO4	-a>
+CSNK1E	FOXO1/14-3-3 family	-a>
+CSNK1D	FOXO1/14-3-3 family	-a>
+CSNK1A1	FOXO1/14-3-3 family	-a>
+CDKN1B	FOXO1	-a|
+MAPK9	FOXO4	-a>
+MAPK8	FOXO4	-a>
+CTNNB1	FOXO1-3a-4/beta catenin	component>
+SFN	FOXO4/14-3-3 family	component>
+SFN	FOXO3A/14-3-3	component>
+SFN	FOXO1/14-3-3 family	component>
+YWHAB	FOXO4/14-3-3 family	component>
+YWHAB	FOXO3A/14-3-3	component>
+YWHAB	FOXO1/14-3-3 family	component>
+AKT1	FOXO1	-a>
+AKT1	FOXO4	-a>
+AKT1	FOXO3	-a>
+YWHAQ	FOXO4/14-3-3 family	component>
+YWHAQ	FOXO3A/14-3-3	component>
+YWHAQ	FOXO1/14-3-3 family	component>
+MST1	FOXO3	-a>
+CDK2	FOXO1	-a>
+RALB	RAL/GTP	component>
+RALB	RAL/GDP	component>
+RALA	RAL/GTP	component>
+RALA	RAL/GDP	component>
+FOXO3	FBXO32	-t>
+FOXO3	RBL2	-t>
+FOXO3	PLK1	-t>
+FOXO3	FASLG	-t>
+FOXO3	BCL6	-t>
+FOXO3	CCNB1	-t>
+FOXO3	SOD2	-t>
+FOXO3	CAT	-t>
+FOXO3	BCL2L11	-t>
+FOXO3	FOXO3A/SIRT1	component>
+FOXO3	FOXO3A/14-3-3	component>
+FOXO3	FOXO1-3a-4/beta catenin	component>
+CHUK	FOXO3	-a>
+XPO1	Ran/GTP/Exportin 1	component>
+IKBKB	FOXO3	-a>
+SGK1	FOXO3	-a>
+Ran/GTP/Exportin 1	FOXO4	-a>
+Ran/GTP/Exportin 1	FOXO4/14-3-3 family	-a>
+Ran/GTP/Exportin 1	FOXO3A/14-3-3	-a>
+Ran/GTP/Exportin 1	FOXO1/14-3-3 family	-a>
+Ran/GTP	FOXO4	-a>
+RAL/GTP	MAPK10	-a>
+RAL/GTP	MAPK9	-a>
+RAL/GTP	MAPK8	-a>
+FOXO3A/SIRT1	FASLG	-t|
+FOXO3A/SIRT1	CDKN1B	-t>
+FOXO3A/SIRT1	GADD45A	-t>
+FOXO3A/SIRT1	BCL2L11	-t|
+FOXO1/SKP2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+FOXO1/SIRT1	CDKN1B	-t>
+FOXO1/SIRT1	SOD2	-t>
+FOXO1-3a-4/beta catenin	CDKN1B	-t>

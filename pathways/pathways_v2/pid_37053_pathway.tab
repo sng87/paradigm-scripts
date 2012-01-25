@@ -1,0 +1,258 @@
+abstract	prolactin receptor activity
+abstract	interferon-gamma receptor activity
+abstract	interleukin-1 receptor activity
+abstract	Pituitary Gland
+abstract	histone acetylation
+abstract	T-Lymphocyte
+abstract	regulation of protein stability
+abstract	response to UV
+abstract	chromatin remodeling
+abstract	response to hypoxia
+abstract	response to stress
+abstract	degradation
+abstract	MAPKKK cascade
+abstract	apoptosis
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	GR/PKAc
+complex	cortisol/GR alpha (monomer)/Hsp90/FKBP52/HSP90
+complex	TIF2/SUV420H1
+complex	cortisol/GR alpha (dimer)/Hsp90/FKBP52/HSP90
+complex	GR alpha/HSP90/FKBP51/HSP90/14-3-3
+complex	GR alpha/HSP90/FKBP51/HSP90/PP5C
+protein	JNK family-active
+complex	cortisol/GR alpha (dimer)/p53
+protein	ERK1-2-active
+complex	cortisol/GR alpha (dimer)/Src-1
+complex	JUN (dimer)
+complex	GR beta/TIF2
+complex	cortisol/GR alpha (monomer)/AP-1
+complex	cortisol/GR alpha (monomer)
+complex	AP-1
+complex	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A
+complex	cortisol/GR alpha (dimer)/TIF2
+complex	BRG1/BAF155/BAF170/BAF60A
+protein	PEPCK
+protein	p38alpha-beta-active
+complex	STAT1 (dimer)
+complex	AP-1/NFAT1-c-4
+complex	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2
+complex	STAT3 (dimer)-active
+protein	NFATc
+protein	FCGR1
+complex	cortisol/GR alpha (dimer)
+complex	STAT5 (dimer)-active
+complex	CDK5R1/CDK5
+smallMolecule	cortisol
+protein	GR beta
+complex	GR alpha/HSP90/FKBP51/HSP90
+protein	PKA Family-active
+complex	NF kappa B1 p50/RelA/PKAc
+complex	NF kappa B1 p50/RelA/Cbp
+complex	NF kappa B1 p50/RelA
+protein	Cbp/p300
+protein	YWHAH
+protein	VIPR1
+protein	TSG101
+protein	TP53
+protein	TBX21
+protein	TBP
+protein	TAT
+protein	SUV420H1
+protein	SUMO2
+protein	SPI1
+protein	SGK1
+protein	SFN
+protein	SELE
+protein	PRL
+protein	PPP5C
+protein	POU2F1
+protein	POU1F1
+protein	POMC
+protein	PBX1
+protein	NR4A1
+protein	NR3C1
+protein	NR1I3
+protein	NCOA2
+protein	NCOA1
+protein	MMP1
+protein	MDM2
+protein	MAPK8
+protein	KRT5
+protein	KRT17
+protein	KRT14
+protein	JUN
+protein	IRF1
+protein	IL8
+protein	IL6
+protein	IL5
+protein	IL4
+protein	IL2
+protein	IL13
+protein	IFNG
+protein	ICAM1
+protein	HSP90AA1
+protein	HDAC2
+protein	HDAC1
+protein	GSK3B
+protein	GATA3
+protein	FOS
+protein	FKBP5
+protein	FKBP4
+protein	FGG
+protein	EGR1
+protein	CSN2
+protein	CSF2
+protein	CREB1
+protein	CGA
+protein	CDKN1A
+protein	BGLAP
+protein	BAX
+protein	AKT1
+protein	AFP
+cortisol/GR alpha (monomer)	histone acetylation	-ap|
+cortisol/GR alpha (monomer)	BGLAP	-t|
+cortisol/GR alpha (monomer)	IL13	-t|
+GATA3	IL13	-t>
+cortisol/GR alpha (monomer)/AP-1	MMP1	-t|
+GSK3B	cortisol/GR alpha (dimer)	-a>
+cortisol/GR alpha (dimer)	BAX	-t|
+STAT1 (dimer)	IRF1	-t>
+cortisol/GR alpha (monomer)	CSN2	-t>
+STAT5 (dimer)-active	CSN2	-t>
+NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	CSF2	-t|
+cortisol	MDM2	-a>
+cortisol/GR alpha (monomer)	POMC	-t|
+cortisol/GR alpha (dimer)	POMC	-t|
+cortisol/GR alpha (monomer)	SELE	-t|
+cortisol/GR alpha (dimer)	CDKN1A	-t|
+interleukin-1 receptor activity	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+cortisol/GR alpha (monomer)	IL4	-t|
+POU2F1	PRL	-t>
+STAT3 (dimer)-active	FGG	-t>
+cortisol/GR alpha (dimer)	EGR1	-t>
+cortisol/GR alpha (monomer)	ICAM1	-t|
+cortisol/GR alpha (monomer)	IL5	-t|
+HDAC1	IL5	-t|
+GATA3	IL5	-t>
+SPI1	FCGR1	-t>
+cortisol/GR alpha (monomer)	FCGR1	-t>
+cortisol/GR alpha (monomer)	CGA	-t|
+cortisol/GR alpha (dimer)	SGK1	-t|
+Cbp/p300	SGK1	-t>
+cortisol/GR alpha (dimer)	MAPKKK cascade	-ap>
+SUMO2	cortisol/GR alpha (dimer)	-a>
+p38alpha-beta-active	cortisol/GR alpha (dimer)	-a>
+T-Lymphocyte	cortisol/GR alpha (dimer)	-a>
+CDK5R1/CDK5	cortisol/GR alpha (dimer)	-a>
+cortisol/GR alpha (monomer)	PRL	-t|
+POU1F1	PRL	-t>
+cortisol/GR alpha (monomer)	IL8	-t|
+Cbp/p300	KRT14	-t|
+cortisol/GR alpha (monomer)	IFNG	-t|
+JNK family-active	cortisol/GR alpha (dimer)	-a>
+response to UV	cortisol/GR alpha (dimer)	-a>
+YWHAH	proteasomal ubiquitin-dependent protein catabolic process	-ap|
+cortisol/GR alpha (monomer)	KRT17	-t|
+MDM2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+response to hypoxia	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+cortisol/GR alpha (monomer)/AP-1	AFP	-t|
+cortisol/GR alpha (dimer)	AFP	-t>
+cortisol/GR alpha (dimer)	TAT	-t|
+cortisol/GR alpha (monomer)	IL6	-t|
+cortisol/GR alpha (monomer)	KRT5	-t|
+TSG101	regulation of protein stability	-ap>
+AKT1	PEPCK	-t|
+cortisol/GR alpha (monomer)	IL2	-t|
+Cbp/p300	histone acetylation	-ap>
+NCOA2	GR beta/TIF2	component>
+NCOA2	cortisol/GR alpha (dimer)/TIF2	component>
+GR beta	GR beta/TIF2	component>
+GR beta	cortisol/GR alpha (dimer)/TIF2	component>
+cortisol/GR alpha (dimer)	GR beta/TIF2	component>
+cortisol/GR alpha (dimer)	cortisol/GR alpha (dimer)/TIF2	component>
+TBP	BGLAP	-t>
+AP-1/NFAT1-c-4	IL13	-t>
+cortisol/GR alpha (dimer)	apoptosis	-ap>
+AP-1	MMP1	-t>
+TP53	BAX	-t>
+cortisol/GR alpha (monomer)	IRF1	-t>
+prolactin receptor activity	CSN2	-t>
+histone acetylation	CSF2	-t>
+cortisol/GR alpha (dimer)/Hsp90/FKBP52/HSP90	FKBP4	component>
+cortisol/GR alpha (dimer)/Hsp90/FKBP52/HSP90	HSP90AA1	component>
+cortisol/GR alpha (dimer)/Hsp90/FKBP52/HSP90	cortisol/GR alpha (dimer)	component>
+response to hypoxia	MDM2	-a>
+FOS	AP-1	component>
+JUN	AP-1	component>
+NCOA1	cortisol/GR alpha (dimer)/Src-1	component>
+cortisol/GR alpha (dimer)	cortisol/GR alpha (dimer)/Src-1	component>
+NR4A1	POMC	-t>
+cortisol/GR alpha (dimer)	degradation	-ap>
+NF kappa B1 p50/RelA	SELE	-t>
+TP53	CDKN1A	-t>
+HDAC2	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+cortisol/GR alpha (monomer)	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+NF kappa B1 p50/RelA/Cbp	NF kappa B1 p50/RelA/Cbp/cortisol/GR alpha (monomer)/HDAC2	component>
+PKA Family-active	GR/PKAc	component>
+PKA Family-active	NF kappa B1 p50/RelA/PKAc	component>
+NR3C1	GR/PKAc	component>
+NR3C1	NF kappa B1 p50/RelA/PKAc	component>
+NF kappa B1 p50/RelA	GR/PKAc	component>
+NF kappa B1 p50/RelA	NF kappa B1 p50/RelA/PKAc	component>
+NFATc	IL4	-t>
+cortisol/GR alpha (monomer)	VIPR1	-t|
+PBX1	PRL	-t>
+cortisol/GR alpha (monomer)	FGG	-t>
+cortisol/GR alpha (monomer)	MAPK8	-a|
+cortisol/GR alpha (dimer)	NR1I3	-t>
+ERK1-2-active	cortisol/GR alpha (dimer)	-a>
+response to stress	EGR1	-t>
+NF kappa B1 p50/RelA	ICAM1	-t>
+AP-1/NFAT1-c-4	IL5	-t>
+interferon-gamma receptor activity	FCGR1	-t>
+SUV420H1	TIF2/SUV420H1	component>
+NCOA2	TIF2/SUV420H1	component>
+CREB1	CGA	-t>
+AP-1	cortisol/GR alpha (monomer)/AP-1	component>
+cortisol/GR alpha (monomer)	cortisol/GR alpha (monomer)/AP-1	component>
+SFN	GR alpha/HSP90/FKBP51/HSP90/14-3-3	component>
+GR alpha/HSP90/FKBP51/HSP90	GR alpha/HSP90/FKBP51/HSP90/14-3-3	component>
+cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	SGK1	-t>
+response to stress	MAPKKK cascade	-ap>
+PPP5C	GR alpha/HSP90/FKBP51/HSP90/PP5C	component>
+GR alpha/HSP90/FKBP51/HSP90	GR alpha/HSP90/FKBP51/HSP90/PP5C	component>
+FKBP4	FKBP5	component>
+FKBP4	cortisol/GR alpha (dimer)/Hsp90/FKBP52/HSP90	component>
+FKBP4	cortisol/GR alpha (monomer)/Hsp90/FKBP52/HSP90	component>
+GR alpha/HSP90/FKBP51/HSP90	FKBP5	component>
+GR alpha/HSP90/FKBP51/HSP90	cortisol/GR alpha (dimer)/Hsp90/FKBP52/HSP90	component>
+GR alpha/HSP90/FKBP51/HSP90	cortisol/GR alpha (monomer)/Hsp90/FKBP52/HSP90	component>
+cortisol	FKBP5	component>
+cortisol	cortisol/GR alpha (dimer)/Hsp90/FKBP52/HSP90	component>
+cortisol	cortisol/GR alpha (monomer)/Hsp90/FKBP52/HSP90	component>
+cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	chromatin remodeling	-ap>
+cortisol/GR alpha (monomer)/Hsp90/FKBP52/HSP90	FKBP4	component>
+cortisol/GR alpha (monomer)/Hsp90/FKBP52/HSP90	HSP90AA1	component>
+cortisol/GR alpha (monomer)/Hsp90/FKBP52/HSP90	cortisol/GR alpha (monomer)	component>
+Pituitary Gland	PRL	-t>
+NF kappa B1 p50/RelA	IL8	-t>
+cortisol/GR alpha (monomer)	KRT14	-t|
+AP-1	IFNG	-t>
+MAPK8	JUN	-a>
+cortisol/GR alpha (dimer)	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+AP-1	KRT17	-t>
+BRG1/BAF155/BAF170/BAF60A	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+cortisol/GR alpha (dimer)	cortisol/GR alpha/BRG1/BAF155/BAF170/BAF60A	component>
+cortisol/GR alpha (monomer)	TBX21	-t|
+cortisol/GR alpha (dimer)/p53	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+JUN (dimer)	AFP	-t>
+cortisol/GR alpha (dimer)	TAT	-t>
+NF kappa B1 p50/RelA	IL6	-t>
+AP-1	KRT5	-t>
+GR alpha/HSP90/FKBP51/HSP90	regulation of protein stability	-ap>
+cortisol/GR alpha (dimer)	cortisol/GR alpha (dimer)	-a>
+cortisol/GR alpha (dimer)/Src-1	PEPCK	-t>
+JUN	JUN (dimer)	component>
+AP-1/NFAT1-c-4	IL2	-t>
+TP53	cortisol/GR alpha (dimer)/p53	component>
+cortisol/GR alpha (dimer)	cortisol/GR alpha (dimer)/p53	component>

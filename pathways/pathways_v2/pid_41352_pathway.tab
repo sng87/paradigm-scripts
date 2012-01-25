@@ -1,0 +1,17 @@
+protein	_1-76
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76
+complex	Multiubiquitinated Nek2A
+complex	Nek2A:MCC:APC/C complex
+complex	MCC:APC/C complex
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+protein	NEK2
+Multiubiquitinated Nek2A	_1-76	component>
+Multiubiquitinated Nek2A	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	component>
+Multiubiquitinated Nek2A	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+Multiubiquitinated Nek2A	MCC:APC/C complex	component>
+Nek2A:MCC:APC/C complex	Multiubiquitinated Nek2A	component>
+_1-76	Multiubiquitinated Nek2A	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	Multiubiquitinated Nek2A	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	Multiubiquitinated Nek2A	component>
+MCC:APC/C complex	Nek2A:MCC:APC/C complex	component>
+NEK2	Nek2A:MCC:APC/C complex	component>

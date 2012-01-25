@@ -1,0 +1,36 @@
+complex	Sema3A:NRP-1:pPlexin-A:Fyn:Fes
+complex	Sema3A:NP-1:Plexin-A:Fes:CRMP
+complex	NRP-1:PlexinA:Fyn
+protein	UniProt:P49841-1 GSK3B
+complex	Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's
+complex	Sema3A:Nrp-1:PlexinA:Fyn
+complex	Sema3A:Nrp-1:PlexinA:Fyn:pCdk5
+complex	Cdk5:p35
+complex	Sema3A dimer
+complex	CRMP's tetramers
+smallMolecule	ATP
+smallMolecule	ADP
+protein	FES
+FES	Sema3A:NP-1:Plexin-A:Fes:CRMP	component>
+UniProt:P49841-1 GSK3B	Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	-a>
+ATP	Sema3A:NP-1:Plexin-A:Fes:CRMP	component>
+Sema3A:NRP-1:pPlexin-A:Fyn:Fes	ADP	component>
+Sema3A:NRP-1:pPlexin-A:Fyn:Fes	Sema3A:NP-1:Plexin-A:Fes:CRMP	component>
+CRMP's tetramers	Sema3A:NP-1:Plexin-A:Fes:CRMP	component>
+Sema3A dimer	Sema3A:Nrp-1:PlexinA:Fyn	component>
+NRP-1:PlexinA:Fyn	Sema3A:Nrp-1:PlexinA:Fyn	component>
+Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	ADP	-a>
+Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	-a>
+ATP	ADP	-a>
+ATP	Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	-a>
+ATP	Sema3A:Nrp-1:PlexinA:Fyn:pCdk5	component>
+Sema3A:Nrp-1:PlexinA:Fyn	Sema3A:Nrp-1:PlexinA:Fyn:pCdk5	component>
+Sema3A:Nrp-1:PlexinA:Fyn	ADP	component>
+Cdk5:p35	Sema3A:Nrp-1:PlexinA:Fyn:pCdk5	component>
+Cdk5:p35	ADP	component>
+CRMP's tetramers	ADP	component>
+CRMP's tetramers	Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	component>
+ATP	ADP	component>
+ATP	Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	component>
+Sema3A:Nrp-1:PlexinA:Fyn:pCdk5	ADP	component>
+Sema3A:Nrp-1:PlexinA:Fyn:pCdk5	Sema3A:Nrp-1:PlexinA:Fyn:Cdk5:pCRMP's	component>

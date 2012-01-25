@@ -1,0 +1,9 @@
+complex	Mcm4:Mcm6:Mcm7
+complex	Mcm2-7 complex
+protein	MCM5
+protein	MCM3
+protein	MCM2
+Mcm2-7 complex	MCM2	component>
+Mcm2-7 complex	Mcm4:Mcm6:Mcm7	component>
+Mcm2-7 complex	MCM5	component>
+Mcm2-7 complex	MCM3	component>

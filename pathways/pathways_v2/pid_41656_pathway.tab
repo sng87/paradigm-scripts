@@ -1,0 +1,104 @@
+smallMolecule	L-Tryptophan
+complex	NAD+ kinase homotetramer (Zn2+)
+complex	3-hydroxyanthranilate oxygenase holoenzyme
+complex	NMNAT3 tetramer
+smallMolecule	Nicotinate ribonucleotide
+complex	NMNAT2 (Mg2+)
+smallMolecule	3-Hydroxy-L-kynurenine
+smallMolecule	TPNH
+smallMolecule	L-Kynurenine
+smallMolecule	Formate
+smallMolecule	2-Amino-3-carboxymuconate semialdehyde
+smallMolecule	H2O
+smallMolecule	3-Hydroxyanthranilate
+complex	indoleamine 2,3-dioxygenase:heme
+smallMolecule	TPN
+smallMolecule	CO2
+smallMolecule	DPN
+complex	kynureninase holoenzyme dimer
+complex	tryptophan 2,3-dioxygenase tetramer
+complex	NMNAT1 hexamer
+smallMolecule	L-Glutamine
+smallMolecule	L-Glutamate
+smallMolecule	Quinolinate
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	Formylkynurenine
+smallMolecule	L-Alanine
+complex	NADSYN1 homohexamer
+smallMolecule	Deamido-NAD+
+smallMolecule	PRPP
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	ATP
+smallMolecule	ADP
+protein	QPRT
+protein	KMO
+protein	AFMID
+indoleamine 2,3-dioxygenase:heme	Formylkynurenine	-a>
+3-hydroxyanthranilate oxygenase holoenzyme	2-Amino-3-carboxymuconate semialdehyde	-a>
+NAD+ kinase homotetramer (Zn2+)	ADP	-a>
+kynureninase holoenzyme dimer	L-Alanine	-a>
+NADSYN1 homohexamer	L-Glutamate	-a>
+KMO	TPN	-a>
+AFMID	L-Kynurenine	-a>
+NMNAT2 (Mg2+)	Deamido-NAD+	-a>
+NMNAT3 tetramer	PPi	-a>
+tryptophan 2,3-dioxygenase tetramer	Formylkynurenine	-a>
+QPRT	CO2	-a>
+NMNAT1 hexamer	PPi	-a>
+O2	2-Amino-3-carboxymuconate semialdehyde	-a>
+3-Hydroxyanthranilate	2-Amino-3-carboxymuconate semialdehyde	-a>
+DPN	TPN	-a>
+DPN	ADP	-a>
+ATP	TPN	-a>
+ATP	ADP	-a>
+2-Amino-3-carboxymuconate semialdehyde	H2O	-a>
+2-Amino-3-carboxymuconate semialdehyde	Quinolinate	-a>
+3-Hydroxy-L-kynurenine	3-Hydroxyanthranilate	-a>
+3-Hydroxy-L-kynurenine	L-Alanine	-a>
+H2O	3-Hydroxyanthranilate	-a>
+H2O	L-Alanine	-a>
+L-Glutamine	PPi	-a>
+L-Glutamine	DPN	-a>
+L-Glutamine	AMP	-a>
+L-Glutamine	L-Glutamate	-a>
+Deamido-NAD+	PPi	-a>
+Deamido-NAD+	DPN	-a>
+Deamido-NAD+	AMP	-a>
+Deamido-NAD+	L-Glutamate	-a>
+ATP	DPN	-a>
+ATP	AMP	-a>
+ATP	L-Glutamate	-a>
+H2O	PPi	-a>
+H2O	DPN	-a>
+H2O	AMP	-a>
+H2O	L-Glutamate	-a>
+TPNH	3-Hydroxy-L-kynurenine	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+O2	3-Hydroxy-L-kynurenine	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+L-Kynurenine	3-Hydroxy-L-kynurenine	-a>
+L-Kynurenine	H2O	-a>
+L-Kynurenine	TPN	-a>
+H+	3-Hydroxy-L-kynurenine	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+H2O	Formate	-a>
+H2O	L-Kynurenine	-a>
+Formylkynurenine	Formate	-a>
+Formylkynurenine	L-Kynurenine	-a>
+L-Tryptophan	Formylkynurenine	-a>
+O2	Formylkynurenine	-a>
+PRPP	Nicotinate ribonucleotide	-a>
+PRPP	PPi	-a>
+PRPP	CO2	-a>
+Quinolinate	Nicotinate ribonucleotide	-a>
+Quinolinate	PPi	-a>
+Quinolinate	CO2	-a>
+Nicotinate ribonucleotide	Deamido-NAD+	-a>
+Nicotinate ribonucleotide	PPi	-a>
+ATP	Deamido-NAD+	-a>
+ATP	PPi	-a>

@@ -1,0 +1,48 @@
+complex	BRCA1/CTIP
+complex	p53/MDM2
+complex	ATR/ATRIP/ATM
+complex	NF-kappa-B
+complex	NF-kappa-B/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+abstract	DNA repair
+abstract	protein ubiquitination
+abstract	apoptosis
+protein	TP73
+protein	TP53
+protein	RPA1
+protein	RBBP8
+protein	RAD51
+protein	MDM2
+protein	MAPK8
+protein	JUN
+protein	GADD45A
+protein	CHEK2
+protein	CHEK1
+protein	BRCA1
+protein	ABL1
+CHEK1	TP53	component>
+ATR/ATRIP/ATM	RBBP8	component>
+ATR/ATRIP/ATM	protein ubiquitination	-ap>
+ATR/ATRIP/ATM	MDM2	component>
+ABL1	RAD51	-a>
+RAD51	DNA repair	-ap>
+GADD45A	DNA repair	-ap>
+ATR/ATRIP/ATM	CHEK2	-a>
+MAPK8	JUN	-a>
+p53/MDM2	TP53	component>
+ATR/ATRIP/ATM	ABL1	-a>
+TP53	apoptosis	-ap>
+BRCA1	GADD45A	-a>
+ATR/ATRIP/ATM	CHEK1	-a>
+BRCA1/CTIP	BRCA1	component>
+BRCA1/CTIP	RBBP8	component>
+NF-kappa-B	apoptosis	-ap|
+ABL1	MAPK8	-a>
+BRCA1	RAD51	-a>
+ATR/ATRIP/ATM	RPA1	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+NF-kappa-B/I-kappa-B-alpha	protein ubiquitination	-ap>
+TP73	apoptosis	-ap>
+ABL1	TP73	-a>
+ATR/ATRIP/ATM	TP53	-a>
+p53/MDM2	MDM2	component>

@@ -1,0 +1,285 @@
+protein	CYSLTR1
+protein	TRPC6
+protein	CYSLTR2
+protein	PLCB1
+protein	ADCY4
+protein	MAPK14
+protein	PTK2B
+protein	ADCY1
+protein	ADCY2
+protein	PRKCD
+protein	PRKCQ
+protein	GNA12
+protein	MAP2K1
+protein	PRKCE
+protein	PLCB2
+protein	GNAI1
+protein	RAC1
+protein	BCAR1
+protein	ADCY7
+protein	GNAQ
+protein	SLC9A3
+protein	PLA2G4A
+protein	CRK
+protein	MAPK8
+protein	ADCY8
+protein	GNAL
+protein	MAP2K2
+protein	AKT1
+protein	GNA15
+protein	GNA11
+protein	GNAO1
+protein	MAPK1
+protein	MAPK3
+protein	EDNRA
+protein	PRKCH
+protein	EDNRB
+protein	EDN2
+protein	SLC9A1
+protein	GNAZ
+protein	PRKCA
+protein	EDN3
+protein	SRC
+protein	GNAO1
+protein	GNAI3
+protein	COL1A2
+protein	PRKCB
+protein	PRKCB1
+protein	JUN
+protein	EDN1
+protein	PRKCG
+protein	GNAI2
+protein	RAF1
+protein	MMP1
+protein	COL3A1
+protein	HRAS
+protein	FOS
+protein	GNA14
+protein	ADCY5
+protein	JAK2
+protein	ADCY9
+protein	ADCY3
+protein	ADCY6
+protein	EntrezGene:2778
+complex	p130Cas/CRK/Src/PYK2
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	HRAS/GTP
+complex	HRAS/GDP
+complex	Gs family/GDP
+complex	Gq family/GDP
+complex	Gai/GDP
+complex	G12/GDP
+complex	ETB receptor/Endothelin-3
+complex	ETB receptor/Endothelin-2
+complex	ETB receptor/Endothelin-1/Gq/GTP/PLC beta
+complex	ETB receptor/Endothelin-1/Gq/GTP
+complex	ETB receptor/Endothelin-1/Gi/GTP
+complex	ETB receptor/Endothelin-1
+complex	ETA receptor/Endothelin-3
+complex	ETA receptor/Endothelin-2
+complex	ETA receptor/Endothelin-1/Gs/GTP
+complex	ETA receptor/Endothelin-1/Gq/GTP/PLC beta
+complex	ETA receptor/Endothelin-1/Gq/GTP
+complex	ETA receptor/Endothelin-1/G12/GTP
+complex	ETA receptor/Endothelin-1
+chemical	mol:K +
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Ca2+
+chemical	mol:Ca ++
+abstract	response to oxidative stress
+abstract	regulation of vascular smooth muscle contraction
+abstract	positive regulation of muscle contraction
+abstract	cAMP biosynthetic process
+abstract	arachidonic acid secretion
+response to oxidative stress	SLC9A1	-ap>
+p130Cas/CRK/Src/PYK2	MAPK8	-a>
+mol:K +	PLA2G4A	-a|
+mol:IP3	mol:Ca ++	-a>
+mol:GTP	Rac1/GTP	component>
+mol:GTP	HRAS/GTP	component>
+mol:GTP	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+mol:GTP	ETB receptor/Endothelin-1/Gq/GTP	component>
+mol:GTP	ETB receptor/Endothelin-1/Gi/GTP	component>
+mol:GTP	ETA receptor/Endothelin-1/Gs/GTP	component>
+mol:GTP	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+mol:GTP	ETA receptor/Endothelin-1/Gq/GTP	component>
+mol:GTP	ETA receptor/Endothelin-1/G12/GTP	component>
+mol:GDP	Rac1/GDP	component>
+mol:GDP	HRAS/GDP	component>
+mol:GDP	Gs family/GDP	component>
+mol:GDP	Gq family/GDP	component>
+mol:GDP	Gai/GDP	component>
+mol:GDP	G12/GDP	component>
+mol:DAG	PRKCD	-a>
+mol:DAG	PRKCQ	-a>
+mol:DAG	PRKCE	-a>
+mol:DAG	PRKCH	-a>
+mol:DAG	PRKCA	-a>
+mol:DAG	PRKCB	-a>
+mol:DAG	PRKCB1	-a>
+mol:DAG	PRKCG	-a>
+mol:Ca2+	p130Cas/CRK/Src/PYK2	-a>
+mol:Ca2+	SLC9A3	-a>
+mol:Ca2+	PLA2G4A	-a>
+mol:Ca ++	mol:Ca ++	-a|
+TRPC6	mol:Ca2+	-a>
+PLCB1	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+PLCB1	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+ADCY4	cAMP biosynthetic process	-ap>
+PTK2B	p130Cas/CRK/Src/PYK2	component>
+ADCY1	cAMP biosynthetic process	-ap>
+ADCY2	cAMP biosynthetic process	-ap>
+PRKCD	p130Cas/CRK/Src/PYK2	-a>
+PRKCD	mol:GDP	-a>
+PRKCD	HRAS/GTP	-a>
+PRKCQ	p130Cas/CRK/Src/PYK2	-a>
+PRKCQ	mol:GDP	-a>
+PRKCQ	HRAS/GTP	-a>
+GNA12	G12/GDP	component>
+GNA12	ETA receptor/Endothelin-1/G12/GTP	component>
+MAP2K1	PLA2G4A	-a>
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+PRKCE	p130Cas/CRK/Src/PYK2	-a>
+PRKCE	mol:GDP	-a>
+PRKCE	HRAS/GTP	-a>
+PLCB2	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+PLCB2	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNAI1	Gai/GDP	component>
+GNAI1	ETB receptor/Endothelin-1/Gi/GTP	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+BCAR1	p130Cas/CRK/Src/PYK2	component>
+ADCY7	cAMP biosynthetic process	-ap>
+GNAQ	Gq family/GDP	component>
+GNAQ	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNAQ	ETB receptor/Endothelin-1/Gq/GTP	component>
+GNAQ	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNAQ	ETA receptor/Endothelin-1/Gq/GTP	component>
+PLA2G4A	arachidonic acid secretion	-ap>
+CRK	p130Cas/CRK/Src/PYK2	component>
+MAPK8	TRPC6	-t>
+MAPK8	JUN	-t>
+ADCY8	cAMP biosynthetic process	-ap>
+GNAL	Gs family/GDP	component>
+GNAL	ETA receptor/Endothelin-1/Gs/GTP	component>
+MAP2K2	PLA2G4A	-a>
+MAP2K2	MAPK1	-a>
+MAP2K2	MAPK3	-a>
+AKT1	positive regulation of muscle contraction	-ap>
+GNA15	Gq family/GDP	component>
+GNA15	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNA15	ETB receptor/Endothelin-1/Gq/GTP	component>
+GNA15	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNA15	ETA receptor/Endothelin-1/Gq/GTP	component>
+GNA11	Gq family/GDP	component>
+GNA11	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNA11	ETB receptor/Endothelin-1/Gq/GTP	component>
+GNA11	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNA11	ETA receptor/Endothelin-1/Gq/GTP	component>
+GNAO1	Gai/GDP	component>
+GNAO1	ETB receptor/Endothelin-1/Gi/GTP	component>
+MAPK1	regulation of vascular smooth muscle contraction	-ap>
+MAPK1	FOS	-t>
+MAPK3	regulation of vascular smooth muscle contraction	-ap>
+MAPK3	FOS	-t>
+EDNRA	ETA receptor/Endothelin-3	component>
+EDNRA	ETA receptor/Endothelin-2	component>
+EDNRA	ETA receptor/Endothelin-1/Gs/GTP	component>
+EDNRA	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+EDNRA	ETA receptor/Endothelin-1/Gq/GTP	component>
+EDNRA	ETA receptor/Endothelin-1/G12/GTP	component>
+EDNRA	ETA receptor/Endothelin-1	component>
+PRKCH	p130Cas/CRK/Src/PYK2	-a>
+PRKCH	mol:GDP	-a>
+PRKCH	HRAS/GTP	-a>
+EDNRB	ETB receptor/Endothelin-3	component>
+EDNRB	ETB receptor/Endothelin-2	component>
+EDNRB	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+EDNRB	ETB receptor/Endothelin-1/Gq/GTP	component>
+EDNRB	ETB receptor/Endothelin-1/Gi/GTP	component>
+EDNRB	ETB receptor/Endothelin-1	component>
+EDN2	ETB receptor/Endothelin-2	component>
+EDN2	ETA receptor/Endothelin-2	component>
+GNAZ	Gai/GDP	component>
+GNAZ	ETB receptor/Endothelin-1/Gi/GTP	component>
+PRKCA	p130Cas/CRK/Src/PYK2	-a>
+PRKCA	mol:GDP	-a>
+PRKCA	HRAS/GTP	-a>
+EDN3	ETB receptor/Endothelin-3	component>
+EDN3	ETA receptor/Endothelin-3	component>
+SRC	p130Cas/CRK/Src/PYK2	component>
+GNAO1	Gai/GDP	component>
+GNAO1	ETB receptor/Endothelin-1/Gi/GTP	component>
+GNAI3	Gai/GDP	component>
+GNAI3	ETB receptor/Endothelin-1/Gi/GTP	component>
+PRKCB	p130Cas/CRK/Src/PYK2	-a>
+PRKCB	mol:GDP	-a>
+PRKCB	HRAS/GTP	-a>
+PRKCB1	p130Cas/CRK/Src/PYK2	-a>
+PRKCB1	mol:GDP	-a>
+PRKCB1	HRAS/GTP	-a>
+EDN1	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+EDN1	ETB receptor/Endothelin-1/Gq/GTP	component>
+EDN1	ETB receptor/Endothelin-1/Gi/GTP	component>
+EDN1	ETB receptor/Endothelin-1	component>
+EDN1	ETA receptor/Endothelin-1/Gs/GTP	component>
+EDN1	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+EDN1	ETA receptor/Endothelin-1/Gq/GTP	component>
+EDN1	ETA receptor/Endothelin-1/G12/GTP	component>
+EDN1	ETA receptor/Endothelin-1	component>
+PRKCG	p130Cas/CRK/Src/PYK2	-a>
+PRKCG	mol:GDP	-a>
+PRKCG	HRAS/GTP	-a>
+GNAI2	Gai/GDP	component>
+GNAI2	ETB receptor/Endothelin-1/Gi/GTP	component>
+RAF1	MAP2K1	-a>
+RAF1	MAP2K2	-a>
+HRAS	HRAS/GTP	component>
+HRAS	HRAS/GDP	component>
+GNA14	Gq family/GDP	component>
+GNA14	ETB receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNA14	ETB receptor/Endothelin-1/Gq/GTP	component>
+GNA14	ETA receptor/Endothelin-1/Gq/GTP/PLC beta	component>
+GNA14	ETA receptor/Endothelin-1/Gq/GTP	component>
+ADCY5	cAMP biosynthetic process	-ap>
+ADCY9	cAMP biosynthetic process	-ap>
+ADCY3	cAMP biosynthetic process	-ap>
+ADCY6	cAMP biosynthetic process	-ap>
+Rac1/GTP	positive regulation of muscle contraction	-ap>
+HRAS/GTP	RAF1	-a>
+EntrezGene:2778	Gs family/GDP	component>
+EntrezGene:2778	ETA receptor/Endothelin-1/Gs/GTP	component>
+ETB receptor/Endothelin-1/Gq/GTP/PLC beta	mol:IP3	-a>
+ETB receptor/Endothelin-1/Gq/GTP/PLC beta	mol:DAG	-a>
+ETB receptor/Endothelin-1/Gq/GTP/PLC beta	MAPK14	-a>
+ETB receptor/Endothelin-1/Gi/GTP	cAMP biosynthetic process	-ap|
+ETB receptor/Endothelin-1	SLC9A3	-a>
+ETB receptor/Endothelin-1	COL1A2	-t>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY4	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY1	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY2	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY7	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY8	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY5	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY9	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY3	-a>
+ETA receptor/Endothelin-1/Gs/GTP	ADCY6	-a>
+ETA receptor/Endothelin-1/Gq/GTP/PLC beta	mol:IP3	-a>
+ETA receptor/Endothelin-1/Gq/GTP/PLC beta	mol:DAG	-a>
+ETA receptor/Endothelin-1/Gq/GTP	MAPK8	-a>
+ETA receptor/Endothelin-1	mol:GDP	-a>
+ETA receptor/Endothelin-1	mol:Ca ++	-a>
+ETA receptor/Endothelin-1	CYSLTR1	-t>
+ETA receptor/Endothelin-1	CYSLTR2	-t>
+ETA receptor/Endothelin-1	AKT1	-a>
+ETA receptor/Endothelin-1	SLC9A1	-a>
+ETA receptor/Endothelin-1	COL1A2	-t>
+ETA receptor/Endothelin-1	MMP1	-t|
+ETA receptor/Endothelin-1	COL3A1	-t>
+ETA receptor/Endothelin-1	JAK2	-a>
+ETA receptor/Endothelin-1	Rac1/GTP	-a>

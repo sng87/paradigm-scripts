@@ -1,0 +1,12 @@
+complex	NRP1:VERGF165:VERGFR2
+protein	NRP-1
+complex	NRP-2:VEGFR1
+protein	VEGFR1
+protein	NRP-2
+protein	VEGFA
+protein	KDR
+KDR	NRP1:VERGF165:VERGFR2	component>
+VEGFA	NRP1:VERGF165:VERGFR2	component>
+NRP-1	NRP1:VERGF165:VERGFR2	component>
+VEGFR1	NRP-2:VEGFR1	component>
+NRP-2	NRP-2:VEGFR1	component>

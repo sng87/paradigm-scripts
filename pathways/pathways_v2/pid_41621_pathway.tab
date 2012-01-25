@@ -1,0 +1,27 @@
+complex	Inhibitor of KappaB kinase (IKK) Complex
+complex	Viral dsRNA:TLR3:TRIF:RIP1 complex
+complex	IkBs:NFkB Complex
+complex	NFkB Complex
+complex	Activated IKK Complex
+protein	Phospho-NF-kappaB Inhibitor
+complex	Viral dsRNA:TLR3:TRIF complex
+smallMolecule	ATP
+smallMolecule	ADP
+protein	RIPK1
+Activated IKK Complex	Phospho-NF-kappaB Inhibitor	component>
+RIPK1	ADP	-a>
+IkBs:NFkB Complex	NFkB Complex	component>
+IkBs:NFkB Complex	ADP	component>
+IkBs:NFkB Complex	Phospho-NF-kappaB Inhibitor	component>
+ATP	NFkB Complex	component>
+ATP	ADP	component>
+ATP	Phospho-NF-kappaB Inhibitor	component>
+ATP	Activated IKK Complex	-a>
+ATP	ADP	-a>
+Inhibitor of KappaB kinase (IKK) Complex	Activated IKK Complex	-a>
+Inhibitor of KappaB kinase (IKK) Complex	ADP	-a>
+Viral dsRNA:TLR3:TRIF:RIP1 complex	RIPK1	component>
+Viral dsRNA:TLR3:TRIF:RIP1 complex	Viral dsRNA:TLR3:TRIF complex	component>
+Viral dsRNA:TLR3:TRIF complex	Viral dsRNA:TLR3:TRIF:RIP1 complex	component>
+RIPK1	Viral dsRNA:TLR3:TRIF:RIP1 complex	component>
+NFkB Complex	NFkB Complex	-a>

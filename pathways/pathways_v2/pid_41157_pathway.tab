@@ -1,0 +1,32 @@
+complex	TFPI:TF:F7a:factor Xa
+complex	TF:F7a
+complex	TF:F7
+complex	factor IXa
+complex	factor Xa
+complex	factor VIIa
+complex	factor X
+smallMolecule	Ca2+
+protein	TFPI
+protein	F9
+protein	F7
+protein	F3
+protein	F10
+factor Xa	factor VIIa	component>
+TF:F7	factor Xa	component>
+TF:F7a	factor IXa	component>
+TF:F7a	factor Xa	component>
+F3	F3	-a>
+F7	factor VIIa	component>
+factor Xa	TFPI:TF:F7a:factor Xa	component>
+TFPI	TFPI:TF:F7a:factor Xa	component>
+TF:F7a	TFPI:TF:F7a:factor Xa	component>
+F9	F9	component>
+F9	factor IXa	component>
+Ca2+	F10	component>
+Ca2+	factor Xa	component>
+factor X	F10	component>
+factor X	factor Xa	component>
+F3	TF:F7a	component>
+factor VIIa	TF:F7a	component>
+F3	TF:F7	component>
+F7	TF:F7	component>

@@ -1,0 +1,37 @@
+complex	tBID:BCL-2
+complex	PUMA:Bcl-XL complex
+complex	PUMA:Bcl-2 complex
+complex	tBID:BCL-xl
+complex	BAD:BCL-xl
+complex	NOXA:BCL-xl
+complex	BIM:BCL-xl
+complex	BIM:BCL2
+complex	BAD:BCL-2
+complex	NOXA:BCL2
+protein	UniProt:O43521-1 BCL2L11
+protein	PMAIP1
+protein	BID
+protein	BCL2L1
+protein	BCL2
+protein	BBC3
+protein	BAD
+BCL2	tBID:BCL-2	component>
+BID	tBID:BCL-2	component>
+BCL2L1	NOXA:BCL-xl	component>
+PMAIP1	NOXA:BCL-xl	component>
+BCL2L1	PUMA:Bcl-XL complex	component>
+BBC3	PUMA:Bcl-XL complex	component>
+BCL2	PUMA:Bcl-2 complex	component>
+BBC3	PUMA:Bcl-2 complex	component>
+BCL2L1	tBID:BCL-xl	component>
+BID	tBID:BCL-xl	component>
+BCL2	NOXA:BCL2	component>
+PMAIP1	NOXA:BCL2	component>
+BAD	BAD:BCL-xl	component>
+BCL2L1	BAD:BCL-xl	component>
+UniProt:O43521-1 BCL2L11	BIM:BCL-xl	component>
+BCL2L1	BIM:BCL-xl	component>
+BAD	BAD:BCL-2	component>
+BCL2	BAD:BCL-2	component>
+UniProt:O43521-1 BCL2L11	BIM:BCL2	component>
+BCL2	BIM:BCL2	component>

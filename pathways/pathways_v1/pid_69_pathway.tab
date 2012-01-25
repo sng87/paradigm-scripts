@@ -1,0 +1,76 @@
+protein	FBXW11
+protein	MAPK14
+protein	REL
+protein	RELA
+protein	SYK
+protein	PIK3CA
+protein	ARRB2
+protein	PIK3R1
+protein	NFKBIA
+protein	BCL3
+protein	NFKB1
+protein	SRC
+protein	LCK
+protein	IKBKB
+complex	beta TrCP1/SCF ubiquitin ligase complex
+complex	PI3K
+complex	NF kappa B1 p50/c-Rel
+complex	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+complex	NF kappa B1 p50/RelA
+complex	NF kappa B1 p50 dimer
+complex	NF kappa B1 p105/p50
+complex	NF kappa B1 p105/c-Rel
+complex	NF kappa B1 p105/RelA
+complex	I kappa B alpha/PIK3R1
+complex	BCL3/RelA
+complex	BCL3/NF kappa B1 p50
+abstract	response to oxidative stress
+abstract	response to UV
+abstract	positive regulation of anti-apoptosis
+abstract	cell death
+response to oxidative stress	NFKBIA	-ap>
+response to oxidative stress	NF kappa B1 p50/RelA	-ap>
+response to UV	ARRB2	-ap>
+response to UV	NFKBIA	-ap>
+response to UV	NF kappa B1 p50/RelA	-ap>
+beta TrCP1/SCF ubiquitin ligase complex	NF kappa B1 p105/p50	-a>
+FBXW11	beta TrCP1/SCF ubiquitin ligase complex	component>
+MAPK14	ARRB2	-a>
+MAPK14	NFKBIA	-a>
+MAPK14	NF kappa B1 p50/RelA	-a>
+REL	NF kappa B1 p50/c-Rel	component>
+REL	NF kappa B1 p105/c-Rel	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+RELA	NF kappa B1 p50/RelA	component>
+RELA	NF kappa B1 p105/RelA	component>
+RELA	BCL3/RelA	component>
+SYK	NFKBIA	-a>
+SYK	NF kappa B1 p50/RelA	-a>
+PIK3CA	PI3K	component>
+ARRB2	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+PIK3R1	PI3K	component>
+PIK3R1	I kappa B alpha/PIK3R1	component>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKBIA	I kappa B alpha/PIK3R1	component>
+BCL3	BCL3/RelA	component>
+BCL3	BCL3/NF kappa B1 p50	component>
+NFKB1	NF kappa B1 p50/c-Rel	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKB1	NF kappa B1 p50/RelA	component>
+NFKB1	NF kappa B1 p50 dimer	component>
+NFKB1	NF kappa B1 p105/p50	component>
+NFKB1	NF kappa B1 p105/c-Rel	component>
+NFKB1	NF kappa B1 p105/RelA	component>
+NFKB1	BCL3/NF kappa B1 p50	component>
+SRC	NFKBIA	-a>
+SRC	NF kappa B1 p50/RelA	-a>
+LCK	NFKBIA	-a>
+LCK	NF kappa B1 p50/RelA	-a>
+IKBKB	NFKB1	-a>
+IKBKB	NF kappa B1 p50 dimer	-a>
+NF kappa B1 p50/RelA/I kappa B alpha/beta Arrestin2	cell death	-ap>
+NF kappa B1 p50/RelA	positive regulation of anti-apoptosis	-ap>

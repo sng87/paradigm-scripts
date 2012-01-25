@@ -1,0 +1,48 @@
+complex	transducin-beta/transducin-gamma
+protein	RCV1
+complex	all-trans retinal Rhodopsin/Arrestin
+protein	all-trans retinal Rhodopsin
+smallMolecule	GMP
+abstract	absorption of light
+complex	Transducin
+complex	PDE6
+smallMolecule	Na+
+smallMolecule	cGMP
+smallMolecule	Ca2+
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SLC25A22
+protein	SLC25A18
+protein	RHO
+protein	GUCA1A
+protein	GRK1
+protein	GNAT1
+protein	ARRB1
+absorption of light	all-trans retinal Rhodopsin	-a>
+GMP	Ca2+	-a|
+GMP	Na+	-a|
+SLC25A18	cGMP	-a>
+SLC25A22	cGMP	-a>
+RCV1	all-trans retinal Rhodopsin	-a>
+PDE6	GMP	-a>
+all-trans retinal Rhodopsin	GDP	component>
+RHO	all-trans retinal Rhodopsin	-a>
+cGMP	Ca2+	-a>
+cGMP	Na+	-a>
+GTP	cGMP	-a>
+GUCA1A	SLC25A18	-a>
+GRK1	all-trans retinal Rhodopsin	-a>
+GUCA1A	SLC25A22	-a>
+cGMP	GMP	-a>
+all-trans retinal Rhodopsin/Arrestin	RHO	component>
+all-trans retinal Rhodopsin/Arrestin	ARRB1	component>
+ARRB1	all-trans retinal Rhodopsin/Arrestin	component>
+all-trans retinal Rhodopsin	all-trans retinal Rhodopsin/Arrestin	component>
+Transducin	GNAT1	component>
+Transducin	transducin-beta/transducin-gamma	component>
+Transducin	GDP	component>
+GTP	GNAT1	component>
+GTP	transducin-beta/transducin-gamma	component>
+GTP	GDP	component>
+Ca2+	GUCA1A	-a>
+GNAT1	PDE6	-a>

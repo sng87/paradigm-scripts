@@ -1,0 +1,31 @@
+protein	PLG_0-0
+protein	Plasminogen
+protein	F2_0-0
+protein	F IXa_0-0
+complex	collagen IV
+protein	F XIa_0-0
+protein	amyloid-beta_0-0
+smallMolecule	Epinephrine
+abstract	platelet activation
+smallMolecule	ADP
+smallMolecule	Ca2+
+protein	SERPINE1
+protein	PLAU
+protein	PLAT
+protein	F9
+protein	APP
+PLAU	PLG_0-0	-a>
+ADP	platelet activation	-ap>
+SERPINE1	PLG_0-0	-a|
+PLAT	PLG_0-0	-a>
+collagen IV	platelet activation	-ap>
+F2_0-0	platelet activation	-ap>
+APP	F IXa_0-0	-a|
+Ca2+	F IXa_0-0	-a>
+F XIa_0-0	F IXa_0-0	-a>
+Epinephrine	platelet activation	-ap>
+Plasminogen	PLG_0-0	-a>
+F9	F IXa_0-0	-a>
+SERPINE1	platelet activation	-ap>
+amyloid-beta_0-0	platelet activation	-ap>
+APP	platelet activation	-ap>

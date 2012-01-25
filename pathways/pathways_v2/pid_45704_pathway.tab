@@ -1,0 +1,32 @@
+abstract	sensory perception of pain
+complex	PKA
+complex	c-FOS/c-JUN/CREB/CREB
+protein	Dynorphin
+complex	Dynorphin/Kappa opoid receptor
+complex	DREAM/DREAM/DREAM/DREAM
+smallMolecule	Ca2+
+protein	RPS6KA3
+protein	POLR2A
+protein	OPRK1
+protein	MAPK3
+protein	JUN
+protein	FOS
+protein	CREM
+protein	CREB1
+DREAM/DREAM/DREAM/DREAM	Dynorphin	-t|
+POLR2A	Dynorphin	-t>
+RPS6KA3	CREB1	-a>
+CREB1	c-FOS/c-JUN/CREB/CREB	component>
+JUN	c-FOS/c-JUN/CREB/CREB	component>
+FOS	c-FOS/c-JUN/CREB/CREB	component>
+PKA	CREB1	-a>
+c-FOS/c-JUN/CREB/CREB	Dynorphin	-t>
+Ca2+	DREAM/DREAM/DREAM/DREAM	-a>
+PKA	CREM	-a>
+CREM	DREAM/DREAM/DREAM/DREAM	-a>
+MAPK3	RPS6KA3	-a>
+OPRK1	Dynorphin/Kappa opoid receptor	component>
+Dynorphin	Dynorphin/Kappa opoid receptor	component>
+Ca2+	Ca2+	-a>
+CREM	CREM	-a>
+Dynorphin/Kappa opoid receptor	sensory perception of pain	-ap>

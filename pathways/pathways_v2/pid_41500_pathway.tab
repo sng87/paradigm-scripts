@@ -1,0 +1,6 @@
+complex	Melanospin:photon
+complex	Opsins:photon
+protein	Opsins
+protein	OPN4
+Opsins	Opsins:photon	component>
+OPN4	Melanospin:photon	component>

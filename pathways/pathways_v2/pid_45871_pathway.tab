@@ -1,0 +1,37 @@
+complex	anandamide/CB-1R
+smallMolecule	phosphatidate
+smallMolecule	anandamide
+complex	anandamide/CB-2R
+smallMolecule	phospholipid
+smallMolecule	NAPE
+smallMolecule	cephalin
+smallMolecule	ethanolamine
+smallMolecule	Arachidonate
+abstract	cAMP biosynthetic process
+abstract	vasodilation
+protein	PLD3
+protein	PLD2
+protein	PLD1
+protein	FAAH
+protein	CNR2
+protein	CNR1
+protein	BAAT
+BAAT	NAPE	-a>
+PLD1	phosphatidate	-a>
+FAAH	Arachidonate	-a>
+PLD3	phosphatidate	-a>
+PLD2	phosphatidate	-a>
+cephalin	NAPE	-a>
+anandamide/CB-2R	cAMP biosynthetic process	-ap|
+anandamide/CB-1R	vasodilation	-ap>
+CNR2	anandamide/CB-2R	component>
+anandamide	anandamide/CB-2R	component>
+anandamide/CB-1R	cAMP biosynthetic process	-ap|
+phospholipid	Arachidonate	-a>
+anandamide	Arachidonate	-a>
+NAPE	anandamide	-a>
+NAPE	phosphatidate	-a>
+ethanolamine	cephalin	-a>
+Arachidonate	cephalin	-a>
+CNR1	anandamide/CB-1R	component>
+anandamide	anandamide/CB-1R	component>

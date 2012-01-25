@@ -1,0 +1,34 @@
+smallMolecule	HCO3-
+complex	AMPK heterotrimer
+complex	Phosphorylated AMPK heterotrimer
+smallMolecule	Malonyl-CoA
+protein	UniProt:O00763 ACACB
+complex	AMPK heterotrimer (active)
+smallMolecule	Palmitoyl-CoA
+smallMolecule	Acetyl-CoA
+smallMolecule	AMP
+complex	LKB1:STRAD:MO25
+smallMolecule	Palmitate
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	ACSL1
+UniProt:O00763 ACACB	ADP	-a>
+ATP	Phosphorylated AMPK heterotrimer	-a|
+LKB1:STRAD:MO25	Phosphorylated AMPK heterotrimer	-a>
+AMP	Phosphorylated AMPK heterotrimer	-a>
+ACSL1	Palmitoyl-CoA	-a>
+Acetyl-CoA	phosphate	-a>
+Acetyl-CoA	Malonyl-CoA	-a>
+Acetyl-CoA	ADP	-a>
+ATP	phosphate	-a>
+ATP	Malonyl-CoA	-a>
+HCO3-	phosphate	-a>
+HCO3-	Malonyl-CoA	-a>
+HCO3-	ADP	-a>
+AMPK heterotrimer	ADP	-a>
+AMPK heterotrimer	Phosphorylated AMPK heterotrimer	-a>
+ATP	ADP	-a>
+ATP	Phosphorylated AMPK heterotrimer	-a>
+AMPK heterotrimer (active)	UniProt:O00763 ACACB	-a>
+Palmitate	Palmitoyl-CoA	-a>

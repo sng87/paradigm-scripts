@@ -1,0 +1,17 @@
+protein	Phospho-Ribosomal protein S6 kinase
+smallMolecule	ATP
+smallMolecule	ADP
+protein	RPS6KA5
+protein	MAPKAPK2
+protein	CREB1
+protein	ATF1
+Phospho-Ribosomal protein S6 kinase	CREB1	-a>
+MAPKAPK2	ADP	-a>
+RPS6KA5	CREB1	-a>
+ATP	ATF1	-a>
+ATF1	ADP	-a>
+RPS6KA5	ATF1	-a>
+CREB1	ADP	-a>
+CREB1	CREB1	-a>
+ATP	ADP	-a>
+ATP	CREB1	-a>

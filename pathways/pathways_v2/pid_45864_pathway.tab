@@ -1,0 +1,76 @@
+abstract	muscle development
+complex	EIF-4F
+smallMolecule	Rapamycin
+complex	PABP/EIF-4F
+complex	EIF-4E/EIF4EBP
+complex	IGF-1/IGF-1R
+complex	EIF-2-beta/EIF-2-gamma/EIF-2-alpha
+complex	48S/S6
+complex	43S Ribosome
+smallMolecule	PIP2
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RPS6KB1
+protein	RPS6
+protein	PTEN
+protein	PPP2R5D
+protein	PDPK1
+protein	PDK2
+protein	PABPC1
+protein	MKNK1
+protein	INPPL1
+protein	IGF1R
+protein	IGF1
+protein	GSK3B
+protein	FRAP1
+protein	EIF4G1
+protein	EIF4EBP1
+protein	EIF4E
+protein	EIF4A1
+protein	EIF2B5
+protein	AKT1
+EIF2B5	GDP	-a>
+PI3K	PIP3	-a>
+MKNK1	EIF-4F	component>
+FRAP1	EIF4E	component>
+PTEN	PIP2	-a>
+EIF4E	EIF-4E/EIF4EBP	component>
+EIF4EBP1	EIF-4E/EIF4EBP	component>
+PABPC1	PABP/EIF-4F	component>
+EIF-4F	PABP/EIF-4F	component>
+IGF1R	IGF-1/IGF-1R	component>
+IGF1	IGF-1/IGF-1R	component>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	GDP	-a>
+GTP	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+GTP	GDP	-a>
+PIP2	PIP3	-a>
+IGF-1/IGF-1R	PI3K	-a>
+AKT1	FRAP1	-a>
+PPP2R5D	EIF4EBP1	-a>
+PDK2	PDK2	-a>
+PDK2	PDPK1	-a>
+PDPK1	PDK2	-a>
+PIP3	PDPK1	-a>
+EIF4A1	EIF-4F	component>
+EIF4G1	EIF-4F	component>
+EIF4E	EIF-4F	component>
+FRAP1	RPS6KB1	-a>
+GSK3B	EIF2B5	-a>
+AKT1	GSK3B	-a>
+48S/S6	muscle development	-ap>
+EIF-4E/EIF4EBP	EIF4EBP1	component>
+EIF-4E/EIF4EBP	EIF4E	component>
+PDPK1	AKT1	-a>
+PDK2	AKT1	-a>
+RPS6	muscle development	-ap>
+PABP/EIF-4F	48S/S6	component>
+43S Ribosome	48S/S6	component>
+Rapamycin	FRAP1	-a>
+PIP3	PIP2	-a>
+INPPL1	AKT1	-a>
+FRAP1	PPP2R5D	-a>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	muscle development	-ap>
+RPS6KB1	RPS6	-a>

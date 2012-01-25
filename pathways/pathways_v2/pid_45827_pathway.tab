@@ -1,0 +1,36 @@
+smallMolecule	neoral (tn)
+complex	Ca++/CaM/MARCKS
+complex	CaM/Ca ++
+complex	SP1/SP3
+protein	CaM
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PKC
+complex	Calcineurin
+smallMolecule	FK506
+protein	NFATc
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	PLCG1
+protein	MARCKS
+protein	GNAQ
+protein	CDKN1A
+PLCG1	DAG	-a>
+DAG	PKC	-a>
+FK506	NFATc	-a|
+neoral (tn)	NFATc	-a|
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+CaM/Ca ++	Calcineurin	-a>
+MARCKS	Ca++/CaM/MARCKS	component>
+CaM/Ca ++	Ca++/CaM/MARCKS	component>
+SP1/SP3	CDKN1A	-t>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+NFATc	SP1/SP3	-a>
+PKC	MARCKS	-a>
+GNAQ	PLCG1	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+Calcineurin	NFATc	-a>
+NFATc	NFATc	-a>

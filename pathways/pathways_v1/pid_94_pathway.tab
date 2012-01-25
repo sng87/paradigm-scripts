@@ -1,0 +1,180 @@
+protein	SH2B3
+protein	STAP1
+protein	DOK1
+protein	BAD
+protein	MAP4K1
+protein	CREBBP
+protein	SPRED1
+protein	SPRED2
+protein	PTPRO
+protein	GAB1
+protein	GRB10
+protein	SOS1
+protein	PTPN11
+protein	MAP2K1
+protein	GRB2
+protein	PTEN
+protein	GSK3B
+protein	CRKL
+protein	MAPK8
+protein	TEC
+protein	MATK
+protein	PIK3CA
+protein	STAT5A
+protein	STAT1
+protein	STAT3
+protein	MAP2K2
+protein	AKT1
+protein	SHC1
+protein	PTPN6
+protein	PIK3R1
+protein	MAPK3
+protein	RPS6KB1
+protein	CBL
+protein	KITLG
+protein	EPOR
+protein	FER
+protein	VAV1
+protein	KIT
+protein	BCL2
+protein	LYN
+protein	RAF1
+protein	EPO
+protein	HRAS
+protein	GRAP2
+protein	JAK2
+protein	SNAI2
+protein	FOXO3
+protein	PDPK1
+protein	SOCS1
+protein	SH2B2
+protein	PIK3C2B
+protein	GO:0007205
+complex	STAT5A (dimer)
+complex	STAT3 (dimer)
+complex	STAT1 (dimer)
+complex	STAP1/STAT5A (dimer)
+complex	SHC/Grb2/SOS1
+complex	SHC/GRAP2
+complex	SCF/KIT/EPO/EPOR
+complex	SCF/KIT
+complex	PI3K
+complex	LYN/TEC/p62DOK
+complex	HRAS/SPRED2
+complex	HRAS/SPRED1
+complex	GRB2/SOCS1/VAV1
+complex	CBL/CRKL/GRB2
+complex	CBL/CRKL
+chemical	mol:PIP3
+chemical	mol:Gleevec
+chemical	mol:GDP
+abstract	response to radiation
+abstract	positive regulation of transcription
+abstract	positive regulation of cell proliferation
+abstract	megakaryocyte differentiation
+abstract	cell proliferation
+abstract	cell motility
+abstract	cell migration
+abstract	actin filament polymerization
+mol:PIP3	PDPK1	-a>
+mol:Gleevec	SCF/KIT	-a|
+STAP1	STAP1/STAT5A (dimer)	component>
+DOK1	LYN/TEC/p62DOK	component>
+CREBBP	EPOR	-t>
+CREBBP	KIT	-t>
+CREBBP	BCL2	-t>
+SPRED1	HRAS/SPRED1	component>
+SPRED2	HRAS/SPRED2	component>
+PTPRO	megakaryocyte differentiation	-ap>
+GAB1	mol:PIP3	-a|
+GAB1	CRKL	-a>
+GRB10	AKT1	-a>
+SOS1	SHC/Grb2/SOS1	component>
+PTPN11	SCF/KIT	-a|
+MAP2K1	MAPK3	-a>
+GRB2	SHC/Grb2/SOS1	component>
+GRB2	GRB2/SOCS1/VAV1	component>
+GRB2	CBL/CRKL/GRB2	component>
+PTEN	mol:PIP3	-a|
+CRKL	MAP4K1	-a>
+CRKL	CBL/CRKL/GRB2	component>
+CRKL	CBL/CRKL	component>
+MAPK8	cell proliferation	-ap>
+TEC	LYN/TEC/p62DOK	component>
+MATK	cell migration	-ap|
+PIK3CA	PI3K	component>
+STAT5A	STAT5A (dimer)	component>
+STAT5A	STAP1/STAT5A (dimer)	component>
+STAT1	STAT1 (dimer)	component>
+STAT3	STAT3 (dimer)	component>
+MAP2K2	MAPK3	-a>
+AKT1	BAD	-a>
+AKT1	GSK3B	-a>
+AKT1	RPS6KB1	-a>
+AKT1	FOXO3	-a>
+SHC1	SHC/Grb2/SOS1	component>
+SHC1	SHC/GRAP2	component>
+PTPN6	SCF/KIT	-a|
+PIK3R1	PI3K	component>
+MAPK3	positive regulation of transcription	-ap>
+RPS6KB1	PI3K	-a>
+CBL	CBL/CRKL/GRB2	component>
+CBL	CBL/CRKL	component>
+KITLG	SCF/KIT/EPO/EPOR	component>
+KITLG	SCF/KIT	component>
+EPOR	SCF/KIT/EPO/EPOR	component>
+FER	STAT5A	-a>
+VAV1	GRB2/SOCS1/VAV1	component>
+KIT	SCF/KIT/EPO/EPOR	component>
+KIT	SCF/KIT	component>
+LYN	LYN/TEC/p62DOK	component>
+RAF1	MAP2K1	-a>
+RAF1	MAP2K2	-a>
+EPO	SCF/KIT/EPO/EPOR	component>
+HRAS	RAF1	-a>
+HRAS	HRAS/SPRED2	component>
+HRAS	HRAS/SPRED1	component>
+GRAP2	SHC/GRAP2	component>
+JAK2	STAT5A	-a>
+JAK2	STAT1	-a>
+SNAI2	response to radiation	-ap>
+PDPK1	AKT1	-a>
+SOCS1	GRB2/SOCS1/VAV1	component>
+SH2B2	actin filament polymerization	-ap>
+PIK3C2B	mol:PIP3	-a>
+STAT5A (dimer)	positive regulation of cell proliferation	-ap>
+STAT5A (dimer)	cell motility	-ap>
+STAT3 (dimer)	positive regulation of cell proliferation	-ap>
+STAT3 (dimer)	cell motility	-ap>
+STAT1 (dimer)	positive regulation of cell proliferation	-ap>
+STAT1 (dimer)	cell motility	-ap>
+STAT1 (dimer)	EPOR	-t>
+STAT1 (dimer)	KIT	-t>
+STAT1 (dimer)	BCL2	-t>
+SHC/Grb2/SOS1	mol:GDP	-a>
+SHC/Grb2/SOS1	HRAS	-a>
+SHC/GRAP2	mol:GDP	-a>
+SHC/GRAP2	HRAS	-a>
+SCF/KIT/EPO/EPOR	JAK2	-a>
+SCF/KIT	SH2B3	-a>
+SCF/KIT	STAP1	-a>
+SCF/KIT	PTPRO	-a>
+SCF/KIT	GAB1	-a>
+SCF/KIT	GRB10	-a>
+SCF/KIT	MAPK8	-a>
+SCF/KIT	MATK	-a>
+SCF/KIT	STAT3	-a>
+SCF/KIT	RPS6KB1	-a>
+SCF/KIT	FER	-a>
+SCF/KIT	JAK2	-a>
+SCF/KIT	SNAI2	-a>
+SCF/KIT	SH2B2	-a>
+SCF/KIT	PIK3C2B	-a>
+SCF/KIT	SHC/Grb2/SOS1	-a>
+SCF/KIT	PI3K	-a>
+SCF/KIT	LYN/TEC/p62DOK	-a>
+SCF/KIT	GRB2/SOCS1/VAV1	-a>
+PI3K	mol:PIP3	-a>
+GRB2/SOCS1/VAV1	mol:GDP	-a>
+GRB2/SOCS1/VAV1	HRAS	-a>
+GO:0007205	SCF/KIT	-a|

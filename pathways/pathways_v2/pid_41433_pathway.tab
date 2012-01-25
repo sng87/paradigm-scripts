@@ -1,0 +1,14 @@
+complex	phospho-SHC: activated insulin receptor
+complex	activated insulin receptor
+complex	SHC:activated insulin receptor
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SHC1
+phospho-SHC: activated insulin receptor	activated insulin receptor	component>
+phospho-SHC: activated insulin receptor	SHC1	component>
+SHC:activated insulin receptor	phospho-SHC: activated insulin receptor	-a>
+SHC:activated insulin receptor	ADP	-a>
+ATP	phospho-SHC: activated insulin receptor	-a>
+ATP	ADP	-a>
+activated insulin receptor	SHC:activated insulin receptor	component>
+SHC1	SHC:activated insulin receptor	component>

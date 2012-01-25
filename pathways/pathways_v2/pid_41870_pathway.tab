@@ -1,0 +1,40 @@
+smallMolecule	L-Ornithine
+smallMolecule	L-Methionine
+smallMolecule	Spermidine
+smallMolecule	S-Adenosylmethioninamine
+smallMolecule	Acylcarnitine
+complex	ornithine decarboxylase holoenzyme
+smallMolecule	H2O
+smallMolecule	Methylthioadenosine
+smallMolecule	CO2
+smallMolecule	Putrescine
+smallMolecule	PPi
+smallMolecule	Spermine
+smallMolecule	ATP
+smallMolecule	phosphate
+protein	SRM
+protein	SMS
+protein	AMD1
+SMS	Methylthioadenosine	-a>
+ornithine decarboxylase holoenzyme	Putrescine	-a>
+SRM	Spermidine	-a>
+AMD1	S-Adenosylmethioninamine	-a>
+Spermidine	Spermine	-a>
+Spermidine	Methylthioadenosine	-a>
+S-Adenosylmethioninamine	Spermine	-a>
+L-Ornithine	CO2	-a>
+L-Ornithine	Putrescine	-a>
+Putrescine	Methylthioadenosine	-a>
+Putrescine	Spermidine	-a>
+S-Adenosylmethioninamine	Methylthioadenosine	-a>
+S-Adenosylmethioninamine	Spermidine	-a>
+ATP	PPi	-a>
+ATP	phosphate	-a>
+ATP	Acylcarnitine	-a>
+L-Methionine	PPi	-a>
+L-Methionine	phosphate	-a>
+L-Methionine	Acylcarnitine	-a>
+H2O	PPi	-a>
+H2O	phosphate	-a>
+H2O	Acylcarnitine	-a>
+Acylcarnitine	S-Adenosylmethioninamine	-a>

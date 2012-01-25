@@ -1,0 +1,21 @@
+complex	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF/NF1
+complex	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II
+complex	hSWI/SNF
+complex	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF
+complex	glucocorticoid/glucocorticoid receptor
+smallMolecule	glucocorticoid
+complex	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor
+abstract	chromatin remodeling
+protein	NR3C1
+protein	NF1
+chromatin remodeling	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF/NF1	component>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	-a>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF	chromatin remodeling	-ap>
+glucocorticoid/glucocorticoid receptor	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	component>
+NR3C1	glucocorticoid/glucocorticoid receptor	component>
+glucocorticoid	glucocorticoid/glucocorticoid receptor	component>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF/NF1	TAFs/TF2A/TBP/TF2F/TF2B/TF2H/TF2E/RNA POL II	component>
+NF1	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF/NF1	component>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF/NF1	component>
+hSWI/SNF	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF	component>
+glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor	glucocorticoid/glucocorticoid receptor/glucocorticoid/glucocorticoid receptor/hSWI/SNF	component>

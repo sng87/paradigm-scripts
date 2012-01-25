@@ -1,0 +1,20 @@
+protein	Tyrosine Phosphatase
+protein	F2_0-0
+protein	dbpB 20kD_0-0
+protein	dbpB 30kD_0-0
+protein	NSEP1
+complex	dbpB/RNA strand
+rna	RNA strand
+protein	PROCR
+protein	PDGFB
+F2_0-0	RNA strand	component>
+dbpB 30kD_0-0	PDGFB	-t>
+dbpB 30kD_0-0	dbpB 30kD_0-0	-a>
+NSEP1	NSEP1	-a>
+dbpB 30kD_0-0	PROCR	-t>
+RNA strand	dbpB/RNA strand	component>
+NSEP1	dbpB/RNA strand	component>
+dbpB/RNA strand	dbpB 20kD_0-0	component>
+dbpB/RNA strand	dbpB 30kD_0-0	component>
+dbpB/RNA strand	RNA strand	component>
+Tyrosine Phosphatase	dbpB 30kD_0-0	-a>

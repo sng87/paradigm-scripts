@@ -1,0 +1,121 @@
+complex	SHC/GRB2/SOS-1
+complex	E2F-1/DP-1
+protein	cyclins
+complex	Nmi/STAT5
+complex	IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3
+complex	IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3
+complex	RB/E2F-1
+smallMolecule	PIP2
+abstract	cell proliferation
+abstract	apoptosis
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ZNFN1A3
+protein	TFDP1
+protein	SOCS3
+protein	SOCS1
+protein	RPS6KB1
+protein	RB1
+protein	RAF1
+protein	PTPN6
+protein	PPIA
+protein	PDPK1
+protein	PCNA
+protein	MYC
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	IRS1
+protein	IL2RA
+protein	IL2
+protein	HRAS
+protein	FOS
+protein	FASLG
+protein	FAS
+protein	E2F1
+protein	CRKL
+protein	CBL
+protein	BCL2L1
+protein	BCL2
+protein	BAD
+protein	AKT1
+cyclins	cell proliferation	-ap>
+PCNA	cell proliferation	-ap>
+PTPN6	CRKL	-a|
+SOCS1	CRKL	-a|
+SOCS3	CRKL	-a|
+MAP2K2	MAPK3	-a>
+PI3K	PIP3	-a>
+PTPN6	Nmi/STAT5	-a|
+SOCS1	Nmi/STAT5	-a|
+SOCS3	Nmi/STAT5	-a|
+SHC/GRB2/SOS-1	GDP	-a>
+MAPK1	PPIA	-a>
+AKT1	E2F1	component>
+PTPN6	CBL	-a|
+SOCS1	CBL	-a|
+SOCS3	CBL	-a|
+MAPK1	FOS	-t>
+AKT1	apoptosis	-ap|
+PPIA	apoptosis	-ap|
+PTPN6	IRS1	-a|
+SOCS1	IRS1	-a|
+SOCS3	IRS1	-a|
+FOS	cell proliferation	-ap>
+MAPK1	ZNFN1A3	-a>
+TFDP1	E2F-1/DP-1	component>
+E2F1	E2F-1/DP-1	component>
+RPS6KB1	cell proliferation	-ap>
+IL2RA	cell proliferation	-ap>
+IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	CRKL	-a>
+BCL2	apoptosis	-ap|
+MAP2K1	MAPK3	-a>
+ZNFN1A3	BCL2	-t>
+Nmi/STAT5	BCL2L1	-t>
+E2F-1/DP-1	cyclins	-t>
+CRKL	PI3K	-a>
+PIP2	PIP3	-a>
+Nmi/STAT5	IL2RA	-t>
+PI3K	RPS6KB1	-a>
+E2F-1/DP-1	PCNA	-t>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	MAPK3	-a>
+HRAS	RAF1	-a>
+Nmi/STAT5	FAS	-t>
+IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	Nmi/STAT5	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+Nmi/STAT5	PCNA	-t>
+CBL	PI3K	-a>
+MAPK3	PPIA	-a>
+RB/E2F-1	RB1	component>
+RB/E2F-1	E2F1	component>
+IL2	IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	component>
+IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	component>
+IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	SHC/GRB2/SOS-1	-a>
+Nmi/STAT5	cyclins	-t>
+Nmi/STAT5	FASLG	-t>
+IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	CBL	-a>
+PDPK1	AKT1	-a>
+MAPK3	FOS	-t>
+BCL2L1	apoptosis	-ap|
+BAD	apoptosis	-ap>
+HRAS	PI3K	-a>
+Nmi/STAT5	Nmi/STAT5	-a>
+IRS1	PI3K	-a>
+IL-2/IL-2R-alpha/IL-2R-beta/IL-2R-gamma/JAK1/JAK3	IRS1	-a>
+PIP3	PDPK1	-a>
+MYC	cell proliferation	-ap>
+E2F-1/DP-1	IL2RA	-t>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+MAPK3	ZNFN1A3	-a>

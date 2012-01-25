@@ -1,0 +1,41 @@
+complex	Rad17-RFC complex bound to DNA
+complex	ATR-ATRIP
+complex	9-1-1 complex
+complex	Cdc45:CDK:DDK:Mcm10:pre-replicative complex
+complex	RPA-ssDNA complex
+complex	RPA heterotrimer
+complex	ATR-ATRIP-RPA-ssDNA signaling complex
+complex	Rad17-RFC complex
+protein	UniProt:O14757 CHEK1
+complex	Rad9-Hus1-Rad1 bound to DNA
+complex	claspin bound to DNA replication fork
+complex	Activated claspin bound to DNA replication fork
+protein	UniProt:Q9HAW4 CLSPN
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CDC25C
+protein	CDC25A
+ATR-ATRIP	ADP	-a>
+UniProt:O14757 CHEK1	CDC25C	-a>
+ATP	UniProt:O14757 CHEK1	-a>
+UniProt:O14757 CHEK1	UniProt:O14757 CHEK1	-a>
+UniProt:O14757 CHEK1	ADP	-a>
+ATP	Activated claspin bound to DNA replication fork	-a>
+claspin bound to DNA replication fork	Activated claspin bound to DNA replication fork	-a>
+claspin bound to DNA replication fork	ADP	-a>
+RPA-ssDNA complex	ATR-ATRIP-RPA-ssDNA signaling complex	component>
+ATR-ATRIP	ATR-ATRIP-RPA-ssDNA signaling complex	component>
+RPA heterotrimer	RPA-ssDNA complex	-a>
+UniProt:Q9HAW4 CLSPN	claspin bound to DNA replication fork	component>
+Cdc45:CDK:DDK:Mcm10:pre-replicative complex	claspin bound to DNA replication fork	component>
+Rad17-RFC complex bound to DNA	Rad9-Hus1-Rad1 bound to DNA	component>
+9-1-1 complex	Rad9-Hus1-Rad1 bound to DNA	component>
+Rad17-RFC complex	Rad17-RFC complex bound to DNA	component>
+RPA-ssDNA complex	Rad17-RFC complex bound to DNA	component>
+CDC25C	ADP	-a>
+CDC25C	CDC25C	-a>
+ATP	CDC25C	-a>
+CDC25A	CDC25A	-a>
+CDC25A	ADP	-a>
+ATP	CDC25A	-a>
+ATP	ADP	-a>

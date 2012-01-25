@@ -1,0 +1,22 @@
+smallMolecule	Serotonin
+smallMolecule	PPi
+smallMolecule	Mg2+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	Ca2+
+smallMolecule	GDP
+smallMolecule	GTP
+protein	LAMP2
+protein	CD63
+LAMP2	LAMP2	-a>
+ADP	ADP	-a>
+Mg2+	Mg2+	-a>
+GDP	GDP	-a>
+phosphate	phosphate	-a>
+CD63	CD63	-a>
+ATP	ATP	-a>
+GTP	GTP	-a>
+Serotonin	Serotonin	-a>
+Ca2+	Ca2+	-a>
+PPi	PPi	-a>

@@ -1,0 +1,7 @@
+complex	Robo1/Robo2:Robo3A.1
+protein	Robo1/ Robo2
+protein	UniProt:Q96MS0-1 ROBO3_subunit_21_1386_21-1386
+protein	SLIT2
+UniProt:Q96MS0-1 ROBO3_subunit_21_1386_21-1386	Robo1/Robo2:Robo3A.1	component>
+Robo1/ Robo2	Robo1/Robo2:Robo3A.1	component>
+SLIT2	SLIT2	-a>

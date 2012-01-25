@@ -1,0 +1,150 @@
+smallMolecule	phytoceramides
+protein	LASS proteins
+complex	multiphospho-CERT:PPM1L:VAPA/B trimer
+smallMolecule	Stearate
+protein	PPAP2
+complex	CERT:PPM1L:VAPA/B trimer
+complex	SGPL1:pyridoxal phosphate
+smallMolecule	Sphingoid
+smallMolecule	3-Dehydrosphinganine
+protein	SGPP
+smallMolecule	phytosphingosine
+protein	UniProt:Q15139 PRKD1
+smallMolecule	CoA
+complex	ceramide:CERT:PPM1L:VAPA/B trimer
+smallMolecule	dihydroceramides
+smallMolecule	TPNH
+smallMolecule	NAD+
+smallMolecule	trans-hexadec-2-enal
+smallMolecule	Sphinganine 1-phosphate
+smallMolecule	ceramides
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	CO2
+smallMolecule	L-Serine
+complex	PPM1L:VAPA/B dimer
+smallMolecule	Hexadecanal
+smallMolecule	NADH
+smallMolecule	Palmitoyl-CoA
+protein	UniProt:Q9NUN7 ACER3
+smallMolecule	Sphingosine 1-phosphate
+smallMolecule	diacylglycerols
+smallMolecule	sphingomyelins
+smallMolecule	Stearyl-CoA
+smallMolecule	H+
+smallMolecule	phosphoethanolamine
+smallMolecule	O2
+smallMolecule	ATP
+protein	SPHK
+smallMolecule	Lecithin
+smallMolecule	ADP
+smallMolecule	Sphinganine
+smallMolecule	phosphate
+protein	SGMS2
+protein	SGMS1
+protein	PPAP2A
+protein	OSBP
+protein	KDSR
+protein	DEGS2
+protein	DEGS1
+protein	CSNK1G2
+protein	COL4A3BP
+protein	ACER2
+protein	ACER1
+DEGS1	H2O	-a>
+OSBP	ceramides	-a>
+SGPL1:pyridoxal phosphate	Hexadecanal	-a>
+CSNK1G2	ADP	-a>
+DEGS2	phytoceramides	-a>
+SGPL1:pyridoxal phosphate	phosphoethanolamine	-a>
+ACER1	Stearate	-a>
+UniProt:Q15139 PRKD1	ADP	-a>
+PPAP2	phosphate	-a>
+PPAP2A	phosphate	-a>
+SGPP	phosphate	-a>
+ACER2	Sphingoid	-a>
+SGMS2	sphingomyelins	-a>
+SPHK	Sphinganine 1-phosphate	-a>
+UniProt:Q9NUN7 ACER3	phytosphingosine	-a>
+SGPP	Sphinganine	-a>
+SGMS1	diacylglycerols	-a>
+SPHK	Sphingosine 1-phosphate	-a>
+LASS proteins	CoA	-a>
+KDSR	Sphinganine	-a>
+multiphospho-CERT:PPM1L:VAPA/B trimer	phosphate	-a>
+multiphospho-CERT:PPM1L:VAPA/B trimer	CERT:PPM1L:VAPA/B trimer	-a>
+H2O	CERT:PPM1L:VAPA/B trimer	-a>
+COL4A3BP	multiphospho-CERT:PPM1L:VAPA/B trimer	component>
+PPM1L:VAPA/B dimer	multiphospho-CERT:PPM1L:VAPA/B trimer	component>
+NADH	ceramides	-a>
+NADH	NAD+	-a>
+NADH	H2O	-a>
+H+	ceramides	-a>
+H+	NAD+	-a>
+dihydroceramides	ceramides	-a>
+dihydroceramides	NAD+	-a>
+O2	ceramides	-a>
+O2	NAD+	-a>
+ceramide:CERT:PPM1L:VAPA/B trimer	CERT:PPM1L:VAPA/B trimer	-a>
+ceramide:CERT:PPM1L:VAPA/B trimer	ceramides	-a>
+Sphinganine 1-phosphate	phosphoethanolamine	-a>
+Sphinganine 1-phosphate	Hexadecanal	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+O2	phytoceramides	-a>
+TPNH	H2O	-a>
+TPNH	phytoceramides	-a>
+dihydroceramides	H2O	-a>
+dihydroceramides	TPN	-a>
+dihydroceramides	phytoceramides	-a>
+H+	H2O	-a>
+H+	phytoceramides	-a>
+Sphingosine 1-phosphate	trans-hexadec-2-enal	-a>
+Sphingosine 1-phosphate	phosphoethanolamine	-a>
+COL4A3BP	COL4A3BP	-a>
+COL4A3BP	ADP	-a>
+ATP	COL4A3BP	-a>
+CERT:PPM1L:VAPA/B trimer	COL4A3BP	component>
+CERT:PPM1L:VAPA/B trimer	PPM1L:VAPA/B dimer	component>
+Sphingosine 1-phosphate	Sphingoid	-a>
+Sphingosine 1-phosphate	phosphate	-a>
+L-Serine	CoA	-a>
+L-Serine	3-Dehydrosphinganine	-a>
+L-Serine	CO2	-a>
+Palmitoyl-CoA	CoA	-a>
+Palmitoyl-CoA	3-Dehydrosphinganine	-a>
+Palmitoyl-CoA	CO2	-a>
+H2O	Sphingoid	-a>
+ceramides	Stearate	-a>
+ceramides	Sphingoid	-a>
+ATP	Sphinganine 1-phosphate	-a>
+Sphinganine	ADP	-a>
+Sphinganine	Sphinganine 1-phosphate	-a>
+phytoceramides	Stearate	-a>
+phytoceramides	phytosphingosine	-a>
+H2O	Stearate	-a>
+H2O	phytosphingosine	-a>
+Sphinganine 1-phosphate	phosphate	-a>
+Sphinganine 1-phosphate	Sphinganine	-a>
+H2O	phosphate	-a>
+H2O	Sphinganine	-a>
+ceramides	sphingomyelins	-a>
+ceramides	diacylglycerols	-a>
+Lecithin	sphingomyelins	-a>
+Lecithin	diacylglycerols	-a>
+ATP	ADP	-a>
+ATP	Sphingosine 1-phosphate	-a>
+Sphingoid	ADP	-a>
+Sphingoid	Sphingosine 1-phosphate	-a>
+Stearyl-CoA	dihydroceramides	-a>
+Stearyl-CoA	CoA	-a>
+Sphinganine	dihydroceramides	-a>
+Sphinganine	CoA	-a>
+TPNH	TPN	-a>
+TPNH	Sphinganine	-a>
+H+	TPN	-a>
+H+	Sphinganine	-a>
+3-Dehydrosphinganine	TPN	-a>
+3-Dehydrosphinganine	Sphinganine	-a>
+CERT:PPM1L:VAPA/B trimer	ceramide:CERT:PPM1L:VAPA/B trimer	-a>
+ceramides	ceramide:CERT:PPM1L:VAPA/B trimer	-a>

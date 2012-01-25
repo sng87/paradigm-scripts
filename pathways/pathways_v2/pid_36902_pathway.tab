@@ -1,0 +1,209 @@
+abstract	JNK cascade
+abstract	degradation
+abstract	MAPKKK cascade
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	TGFB/TGFBR2/TGFBR1/SMAD7/YAP65
+complex	TGFB/TGFBR2/TGFBR1/SMAD7/GADD34
+complex	SMAD2/SMURF2
+complex	TGFB/TGFBR2/TGFBR1
+complex	TGFB/TGFBR2/TGFBR1/DAB2
+complex	PML/SARA/SMAD2-3
+complex	TGFB/TGFBR2/TGFBR1/Par6/occludin/SMURF1
+complex	SMAD7/SMURF1-2
+complex	ELF/SMAD3
+complex	betaglycan (dimer)
+complex	TGFB/TGFBR2/betaglycan
+complex	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7
+complex	TGFB/TGFBR2/TGFBR1/ENDOFIN
+complex	SMAD2-3/SMAD4
+complex	TAK1/XIAP
+complex	Axin/ARKADIA
+complex	TGFB/TGFBR2/TGFBR1/SMAD7/GADD34/PPP1CA
+complex	TGFB/TGFBR2/TGFBR1/Par6/occludin
+complex	TGFB/TGFBR2/TGFBR1/km23-1/SMAD2
+complex	Axin/SMAD3
+complex	TGFBR2 (dimer)
+complex	GRB2/SOS1
+complex	TGFB/TGFBR2/TGFBR1/STRAP
+complex	TRAP-1/SMAD4
+complex	SMAD7/GADD34
+complex	EIF2A/14-3-3 E
+complex	TGFB/TGFBR2/TGFBR1/DAXX
+complex	TGFB/TGFBR2/TGFBR1/km23-1
+protein	CaMKIIA
+complex	TGFB/TGFBR2/TGFBR1/WWP1/SMAD7
+complex	FKBP12/TGFBR1 (dimer)
+complex	TGFB/TGFBR2/TGFBR1/ENDOFIN/SMAD4
+complex	TRAP-1/TGFBR1 (dimer)
+complex	WWP1/SMAD7
+complex	TAK1/TAB family
+complex	SHC/GRB2/SOS1
+complex	TGFB/TGFBR2/TGFBR1/SMAD7/SMURF1-2/CAV1
+complex	km23-1 (dimer)
+complex	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7/NEDD4-2
+complex	BAMBI/TGFBR1
+complex	SMAD2/NEDD4-2
+protein	TRAP-1
+complex	SMAD2/SMAD4
+complex	TGFBR1 (dimer)/Par6/occludin
+complex	TGFB/TGFBR2/TGFBR1/PPP2R2A
+protein	SMAD2-3-active
+protein	AP2B2
+complex	TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2
+complex	TGFB family (dimer)
+complex	TGFB/TGFBR2/TGFBR1/PML/SARA
+complex	Axin/ARKADIA/SMAD7
+complex	betaglycan/beta Arrestin2
+protein	SMAD2-3
+protein	ZFYVE9
+protein	YWHAE
+protein	YAP1
+protein	XIAP
+protein	SPTBN1
+protein	SMURF2
+protein	SMURF1
+protein	SMAD7
+protein	SMAD4
+protein	SMAD3
+protein	SMAD2
+protein	SKIL
+protein	SHC1
+protein	RPS6KB1
+protein	RHOA
+protein	PPP2R2A
+protein	PPP2CB
+protein	PPP2CA
+protein	PPP1CA
+protein	PDPK1
+protein	NEDD4L
+protein	ITCH
+protein	FKBP1A
+protein	EIF2A
+protein	DACT2
+protein	CTNNB1
+protein	CTGF
+protein	CAV1
+protein	AXIN1
+protein	ARRB2
+TGFB/TGFBR2/TGFBR1	ELF/SMAD3	component>
+TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	SMAD3	-a|
+DACT2	degradation	-ap>
+FKBP1A	TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	component>
+PPP2CA	RPS6KB1	-a>
+PPP2CB	RPS6KB1	-a>
+ZFYVE9	TGFB/TGFBR2/TGFBR1/SMAD7/GADD34/PPP1CA	component>
+CaMKIIA	SMAD2	-a>
+TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	TAK1/TAB family	component>
+ITCH	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TGFB/TGFBR2/TGFBR1/Par6/occludin/SMURF1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+PDPK1	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	component>
+SMAD2/SMURF2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+CTGF	TGFB/TGFBR2/betaglycan	component>
+TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	component>
+TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	SMAD2	-a|
+BAMBI/TGFBR1	TGFB/TGFBR2/TGFBR1	component>
+TGFB/TGFBR2/TGFBR1/DAB2	SMAD2-3-active	-a>
+TGFB/TGFBR2/TGFBR1	SMAD3	component>
+YAP1	TGFB/TGFBR2/TGFBR1/SMAD7/YAP65	component>
+SMAD7	TGFB/TGFBR2/TGFBR1/SMAD7/YAP65	component>
+TGFB/TGFBR2/TGFBR1	TGFB/TGFBR2/TGFBR1/SMAD7/YAP65	component>
+SMAD3	ELF/SMAD3	component>
+SPTBN1	ELF/SMAD3	component>
+TGFB/TGFBR2/TGFBR1	EIF2A	-a>
+TGFB/TGFBR2/TGFBR1	SHC1	-a>
+TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	SMAD3	-a>
+SMAD4	TRAP-1/SMAD4	component>
+TRAP-1	TRAP-1/SMAD4	component>
+TAK1/TAB family	JNK cascade	-ap>
+TGFB/TGFBR2/TGFBR1	degradation	-ap>
+TGFB/TGFBR2/TGFBR1/km23-1/SMAD2	SMAD2	component>
+TGFB/TGFBR2/TGFBR1/km23-1/SMAD2	TGFB/TGFBR2/TGFBR1/km23-1	component>
+TGFB/TGFBR2/TGFBR1/km23-1	TGFB/TGFBR2/TGFBR1/km23-1/SMAD2	component>
+TGFB/TGFBR2/TGFBR1/km23-1	SMAD2/SMURF2	component>
+SMURF2	TGFB/TGFBR2/TGFBR1/km23-1/SMAD2	component>
+SMURF2	SMAD2/SMURF2	component>
+SMAD2	TGFB/TGFBR2/TGFBR1/km23-1/SMAD2	component>
+SMAD2	SMAD2/SMURF2	component>
+CAV1	TGFB/TGFBR2/TGFBR1/SMAD7/SMURF1-2/CAV1	component>
+CAV1	TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	component>
+AP2B2	TGFB/TGFBR2/TGFBR1/SMAD7/SMURF1-2/CAV1	component>
+AP2B2	TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	component>
+SMAD7/SMURF1-2	TGFB/TGFBR2/TGFBR1/SMAD7/SMURF1-2/CAV1	component>
+SMAD7/SMURF1-2	TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	component>
+PML/SARA/SMAD2-3	TGFB/TGFBR2/TGFBR1/SMAD7/SMURF1-2/CAV1	component>
+PML/SARA/SMAD2-3	TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	component>
+TGFB/TGFBR2/TGFBR1	TGFB/TGFBR2/TGFBR1/SMAD7/SMURF1-2/CAV1	component>
+TGFB/TGFBR2/TGFBR1	TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	component>
+TGFB/TGFBR2/TGFBR1/PPP2R2A	RPS6KB1	-a>
+PPP1CA	TGFB/TGFBR2/TGFBR1/SMAD7/GADD34/PPP1CA	component>
+TGFB/TGFBR2/TGFBR1/SMAD7/GADD34	TGFB/TGFBR2/TGFBR1/SMAD7/GADD34/PPP1CA	component>
+SMAD4	SMAD2-3/SMAD4	component>
+SMAD2-3-active	SMAD2-3/SMAD4	component>
+SHC/GRB2/SOS1	MAPKKK cascade	-ap>
+TAK1/XIAP	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+PPP2R2A	TGFB/TGFBR2/TGFBR1/PPP2R2A	component>
+TGFB/TGFBR2/TGFBR1	TGFB/TGFBR2/TGFBR1/PPP2R2A	component>
+TGFB/TGFBR2/TGFBR1/SMAD7/SMURF1-2/CAV1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TGFB/TGFBR2/TGFBR1/STRAP/SMAD7/NEDD4-2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TGFB/TGFBR2/TGFBR1	SMAD2	-a>
+TAK1/TAB family	TAK1/XIAP	component>
+TAK1/TAB family	TAK1/TAB family	component>
+XIAP	TAK1/XIAP	component>
+XIAP	TAK1/TAB family	component>
+SMAD7	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	CTNNB1	-a>
+NEDD4L	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7/NEDD4-2	component>
+TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7/NEDD4-2	component>
+RHOA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+ARRB2	betaglycan/beta Arrestin2	component>
+betaglycan (dimer)	betaglycan/beta Arrestin2	component>
+NEDD4L	SMAD2/NEDD4-2	component>
+SMAD2	SMAD2/NEDD4-2	component>
+TGFB/TGFBR2/TGFBR1/WWP1/SMAD7	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+SMAD7/GADD34	TGFB/TGFBR2/TGFBR1/SMAD7/GADD34	component>
+TGFB/TGFBR2/TGFBR1	TGFB/TGFBR2/TGFBR1/SMAD7/GADD34	component>
+SKIL	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+SMAD2/NEDD4-2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+Axin/ARKADIA/SMAD7	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+betaglycan (dimer)	TGFB/TGFBR2/betaglycan	component>
+TGFBR2 (dimer)	TGFB/TGFBR2/betaglycan	component>
+TGFB family (dimer)	TGFB/TGFBR2/betaglycan	component>
+SMAD7	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	component>
+TGFB/TGFBR2/TGFBR1/STRAP	TGFB/TGFBR2/TGFBR1/STRAP/SMAD7	component>
+TGFB/TGFBR2/TGFBR1/DAXX	JNK cascade	-ap>
+TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	SMAD2	-a>
+TGFBR1 (dimer)/Par6/occludin	betaglycan (dimer)	-a>
+TGFBR1 (dimer)/Par6/occludin	TGFB/TGFBR2/TGFBR1/Par6/occludin	-a>
+TGFB/TGFBR2/betaglycan	betaglycan (dimer)	-a>
+TGFB/TGFBR2/betaglycan	TGFB/TGFBR2/TGFBR1/Par6/occludin	-a>
+WWP1/SMAD7	TGFB/TGFBR2/TGFBR1/WWP1/SMAD7	component>
+TGFB/TGFBR2/TGFBR1	TGFB/TGFBR2/TGFBR1/WWP1/SMAD7	component>
+SMAD2	TGFB/TGFBR2/TGFBR1/ENDOFIN	component>
+SMAD2	SMAD2/SMAD4	component>
+TGFB/TGFBR2/TGFBR1/ENDOFIN/SMAD4	TGFB/TGFBR2/TGFBR1/ENDOFIN	component>
+TGFB/TGFBR2/TGFBR1/ENDOFIN/SMAD4	SMAD2/SMAD4	component>
+SMAD7	Axin/ARKADIA/SMAD7	component>
+Axin/ARKADIA	Axin/ARKADIA/SMAD7	component>
+TGFB/TGFBR2/betaglycan	FKBP1A	component>
+FKBP12/TGFBR1 (dimer)	FKBP1A	component>
+FKBP12/TGFBR1 (dimer)	betaglycan (dimer)	component>
+FKBP12/TGFBR1 (dimer)	TGFB/TGFBR2/TGFBR1	component>
+SMAD2-3	SMAD2-3-active	-a>
+GRB2/SOS1	SHC/GRB2/SOS1	component>
+SHC1	SHC/GRB2/SOS1	component>
+SMURF1	TGFB/TGFBR2/TGFBR1/Par6/occludin/SMURF1	component>
+TGFB/TGFBR2/TGFBR1/Par6/occludin	TGFB/TGFBR2/TGFBR1/Par6/occludin/SMURF1	component>
+YWHAE	EIF2A/14-3-3 E	component>
+EIF2A	EIF2A/14-3-3 E	component>
+TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	SMAD2-3-active	component>
+TGFB/TGFBR2/TGFBR1/PML/SARA/SMAD2-3/AP2B2	TGFB/TGFBR2/TGFBR1/PML/SARA	component>
+km23-1 (dimer)	TGFB/TGFBR2/TGFBR1/km23-1	component>
+TGFB/TGFBR2/TGFBR1	TGFB/TGFBR2/TGFBR1/km23-1	component>
+TRAP-1/TGFBR1 (dimer)	TRAP-1	component>
+TRAP-1/TGFBR1 (dimer)	betaglycan (dimer)	component>
+TRAP-1/TGFBR1 (dimer)	TGFB/TGFBR2/TGFBR1	component>
+TGFB/TGFBR2/betaglycan	TRAP-1	component>
+TGFB/TGFBR2/betaglycan	betaglycan (dimer)	component>
+TGFB/TGFBR2/betaglycan	TGFB/TGFBR2/TGFBR1	component>
+Axin/SMAD3	AXIN1	component>
+Axin/SMAD3	SMAD3	component>

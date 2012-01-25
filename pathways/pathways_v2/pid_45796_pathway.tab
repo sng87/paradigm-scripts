@@ -1,0 +1,24 @@
+complex	G-alpha-s/GTP
+complex	B2AR/G-alpha-s/G-gamma/G-beta/GDP
+complex	Ligand/B2AR/G-gamma/G-beta/PKA/CFTR/Ezrin/EBP50/EBP50
+smallMolecule	Cl -
+complex	Ligand/B2AR/G-gamma/G-beta
+complex	PKA/CFTR/Ezrin/EBP500/EBP50
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	Ligand
+protein	CFTR
+protein	ADCY1
+cAMP	Ligand/B2AR/G-gamma/G-beta/PKA/CFTR/Ezrin/EBP50/EBP50	component>
+ADCY1	cAMP	-a>
+CFTR	Cl -	-a>
+Ligand/B2AR/G-gamma/G-beta	CFTR	component>
+Ligand/B2AR/G-gamma/G-beta	Ligand/B2AR/G-gamma/G-beta/PKA/CFTR/Ezrin/EBP50/EBP50	component>
+PKA/CFTR/Ezrin/EBP500/EBP50	CFTR	component>
+PKA/CFTR/Ezrin/EBP500/EBP50	Ligand/B2AR/G-gamma/G-beta/PKA/CFTR/Ezrin/EBP50/EBP50	component>
+Ligand	G-alpha-s/GTP	component>
+Ligand	Ligand/B2AR/G-gamma/G-beta	component>
+B2AR/G-alpha-s/G-gamma/G-beta/GDP	G-alpha-s/GTP	component>
+B2AR/G-alpha-s/G-gamma/G-beta/GDP	Ligand/B2AR/G-gamma/G-beta	component>
+G-alpha-s/GTP	ADCY1	-a>
+ATP	cAMP	-a>

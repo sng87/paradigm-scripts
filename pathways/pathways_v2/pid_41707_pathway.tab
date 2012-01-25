@@ -1,0 +1,15 @@
+complex	phospho-ERK-2:MEK2
+complex	MEK2:ERK-2
+complex	phospho-ERK-2 dimer
+smallMolecule	ATP
+smallMolecule	ADP
+protein	MAPK1
+protein	MAP2K2
+phospho-ERK-2 dimer	phospho-ERK-2 dimer	-a>
+MAPK1	MEK2:ERK-2	component>
+MAP2K2	MEK2:ERK-2	component>
+MAPK1	phospho-ERK-2 dimer	component>
+MEK2:ERK-2	phospho-ERK-2:MEK2	-a>
+MEK2:ERK-2	ADP	-a>
+ATP	phospho-ERK-2:MEK2	-a>
+ATP	ADP	-a>

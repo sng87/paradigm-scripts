@@ -1,0 +1,177 @@
+protein	DDEF1
+protein	GGA3
+protein	PIP5K1A
+protein	CYTH2
+protein	AP2M1
+protein	GBF1
+protein	ARFGAP1
+protein	ARF1
+protein	RAC1
+protein	COPA
+protein	ARFIP2
+protein	CLTB
+protein	CLTA
+protein	CD4
+protein	AP2A1
+protein	USO1
+protein	PLD2
+protein	GOSR2
+protein	EntrezGene:79658
+protein	EntrezGene:1313
+complex	coatomer protein complex/ARF1/GTP/ER cargo protein
+complex	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein
+complex	coatomer protein complex/ARF1/GTP/ARF-GAP1
+complex	coatomer protein complex
+complex	Rac/GTP
+complex	Rac/GDP
+complex	KDEL Receptor/Ligand/ARF-GAP1
+complex	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP
+complex	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex
+complex	Arfaptin 2/Rac/GTP
+complex	Arfaptin 2/Rac/GDP
+complex	ARF1/GTP/coatomer protein complex
+complex	ARF1/GTP/Membrin/GBF1/p115
+complex	ARF1/GTP/Membrin
+complex	ARF1/GTP/GGA3/ARF-GAP1
+complex	ARF1/GTP/GGA3
+complex	ARF1/GTP/Arfaptin 2
+complex	ARF1/GTP/ARHGAP10
+complex	ARF1/GTP
+complex	ARF1/GDP/Membrin/GBF1/p115/Brefeldin A
+complex	ARF1/GDP/Membrin
+complex	ARF1/GDP
+complex	ARF-GAP1/v-SNARE
+complex	AP2
+chemical	mol:Phosphatidic acid
+chemical	mol:Phosphatic acid
+chemical	mol:PI-4-5-P2
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Choline
+chemical	mol:Brefeldin A
+chemical	mol:ATP
+abstract	actin filament polymerization
+mol:Phosphatidic acid	DDEF1	-a>
+mol:Phosphatidic acid	PIP5K1A	-a>
+mol:Phosphatic acid	GBF1	-a>
+mol:Phosphatic acid	USO1	-a>
+mol:Phosphatic acid	GOSR2	-a>
+mol:Phosphatic acid	ARF1/GTP/coatomer protein complex	-a>
+mol:PI-4-5-P2	DDEF1	-a>
+mol:PI-4-5-P2	GBF1	-a>
+mol:PI-4-5-P2	USO1	-a>
+mol:PI-4-5-P2	PLD2	-a>
+mol:PI-4-5-P2	GOSR2	-a>
+mol:PI-4-5-P2	ARF1/GTP/coatomer protein complex	-a>
+mol:PI-4-5-P2	ARF1/GTP	-a>
+mol:GTP	coatomer protein complex/ARF1/GTP/ER cargo protein	component>
+mol:GTP	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	component>
+mol:GTP	coatomer protein complex/ARF1/GTP/ARF-GAP1	component>
+mol:GTP	Rac/GTP	component>
+mol:GTP	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+mol:GTP	Arfaptin 2/Rac/GTP	component>
+mol:GTP	ARF1/GTP/coatomer protein complex	component>
+mol:GTP	ARF1/GTP/Membrin/GBF1/p115	component>
+mol:GTP	ARF1/GTP/Membrin	component>
+mol:GTP	ARF1/GTP/GGA3/ARF-GAP1	component>
+mol:GTP	ARF1/GTP/GGA3	component>
+mol:GTP	ARF1/GTP/Arfaptin 2	component>
+mol:GTP	ARF1/GTP/ARHGAP10	component>
+mol:GTP	ARF1/GTP	component>
+mol:GDP	Rac/GDP	component>
+mol:GDP	Arfaptin 2/Rac/GDP	component>
+mol:GDP	ARF1/GDP/Membrin/GBF1/p115/Brefeldin A	component>
+mol:GDP	ARF1/GDP/Membrin	component>
+mol:GDP	ARF1/GDP	component>
+mol:DAG	ARFGAP1	-a>
+mol:Brefeldin A	ARF1/GDP/Membrin/GBF1/p115/Brefeldin A	component>
+mol:ATP	ARF1/GTP/coatomer protein complex	-a>
+DDEF1	coatomer protein complex	-a>
+DDEF1	ARF1/GDP	-a>
+GGA3	ARF1/GTP/GGA3/ARF-GAP1	component>
+GGA3	ARF1/GTP/GGA3	component>
+PIP5K1A	mol:PI-4-5-P2	-a>
+CYTH2	ARF1/GTP	-a>
+AP2M1	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+AP2M1	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex	component>
+AP2M1	AP2	component>
+GBF1	ARF1/GTP/Membrin/GBF1/p115	component>
+GBF1	ARF1/GDP/Membrin/GBF1/p115/Brefeldin A	component>
+ARFGAP1	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	component>
+ARFGAP1	coatomer protein complex/ARF1/GTP/ARF-GAP1	component>
+ARFGAP1	coatomer protein complex	-a>
+ARFGAP1	KDEL Receptor/Ligand/ARF-GAP1	component>
+ARFGAP1	ARF1/GTP/GGA3/ARF-GAP1	component>
+ARFGAP1	ARF1/GDP	-a>
+ARFGAP1	ARF-GAP1/v-SNARE	component>
+ARF1	coatomer protein complex/ARF1/GTP/ER cargo protein	component>
+ARF1	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	component>
+ARF1	coatomer protein complex/ARF1/GTP/ARF-GAP1	component>
+ARF1	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+ARF1	ARF1/GTP/coatomer protein complex	component>
+ARF1	ARF1/GTP/Membrin/GBF1/p115	component>
+ARF1	ARF1/GTP/Membrin	component>
+ARF1	ARF1/GTP/GGA3/ARF-GAP1	component>
+ARF1	ARF1/GTP/GGA3	component>
+ARF1	ARF1/GTP/Arfaptin 2	component>
+ARF1	ARF1/GTP/ARHGAP10	component>
+ARF1	ARF1/GTP	component>
+ARF1	ARF1/GDP/Membrin/GBF1/p115/Brefeldin A	component>
+ARF1	ARF1/GDP/Membrin	component>
+ARF1	ARF1/GDP	component>
+RAC1	Rac/GTP	component>
+RAC1	Rac/GDP	component>
+RAC1	Arfaptin 2/Rac/GTP	component>
+RAC1	Arfaptin 2/Rac/GDP	component>
+COPA	coatomer protein complex/ARF1/GTP/ER cargo protein	component>
+COPA	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	component>
+COPA	coatomer protein complex/ARF1/GTP/ARF-GAP1	component>
+COPA	coatomer protein complex	component>
+COPA	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+COPA	ARF1/GTP/coatomer protein complex	component>
+ARFIP2	PLD2	-a|
+ARFIP2	Arfaptin 2/Rac/GTP	component>
+ARFIP2	Arfaptin 2/Rac/GDP	component>
+ARFIP2	ARF1/GTP/Arfaptin 2	component>
+CLTB	coatomer protein complex/ARF1/GTP/ER cargo protein	component>
+CLTB	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	component>
+CLTB	coatomer protein complex/ARF1/GTP/ARF-GAP1	component>
+CLTB	coatomer protein complex	component>
+CLTB	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+CLTB	ARF1/GTP/coatomer protein complex	component>
+CLTA	coatomer protein complex/ARF1/GTP/ER cargo protein	component>
+CLTA	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	component>
+CLTA	coatomer protein complex/ARF1/GTP/ARF-GAP1	component>
+CLTA	coatomer protein complex	component>
+CLTA	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+CLTA	ARF1/GTP/coatomer protein complex	component>
+CD4	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+CD4	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex	component>
+AP2A1	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+AP2A1	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex	component>
+AP2A1	AP2	component>
+USO1	ARF1/GTP/Membrin/GBF1/p115	component>
+USO1	ARF1/GDP/Membrin/GBF1/p115/Brefeldin A	component>
+PLD2	mol:Phosphatidic acid	-a>
+PLD2	mol:Choline	-a>
+GOSR2	ARF1/GTP/Membrin/GBF1/p115	component>
+GOSR2	ARF1/GTP/Membrin	component>
+GOSR2	ARF1/GDP/Membrin/GBF1/p115/Brefeldin A	component>
+GOSR2	ARF1/GDP/Membrin	component>
+Rac/GTP	actin filament polymerization	-ap>
+KDEL Receptor/Ligand/ARF-GAP1	coatomer protein complex	-a>
+KDEL Receptor/Ligand/ARF-GAP1	ARF1/GDP	-a>
+EntrezGene:79658	ARF1/GTP/ARHGAP10	component>
+EntrezGene:1313	coatomer protein complex/ARF1/GTP/ER cargo protein	component>
+EntrezGene:1313	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	component>
+EntrezGene:1313	coatomer protein complex/ARF1/GTP/ARF-GAP1	component>
+EntrezGene:1313	coatomer protein complex	component>
+EntrezGene:1313	CD4/HIV Nef/AP2/vacuolar proton-transporting V-type ATPase complex/Coatomer protein complex/ARF1/GTP	component>
+EntrezGene:1313	ARF1/GTP/coatomer protein complex	component>
+ARF1/GTP/GGA3/ARF-GAP1	coatomer protein complex	-a|
+ARF1/GTP/GGA3/ARF-GAP1	ARF1/GDP	-a|
+ARF1/GTP/ARHGAP10	actin filament polymerization	-ap>
+ARF1/GTP	PIP5K1A	-a>
+ARF1/GTP	PLD2	-a>
+ARF-GAP1/v-SNARE	coatomer protein complex/ARF1/GTP/ARF-GAP1/ER cargo protein	-a>

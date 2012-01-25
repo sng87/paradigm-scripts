@@ -1,0 +1,10 @@
+smallMolecule	HCO3-
+complex	PEX19:ABCD1/ABCD3
+protein	PEX3
+protein	PEX19
+protein	CFTR
+PEX3	PEX19	component>
+PEX3	PEX3	component>
+PEX19:ABCD1/ABCD3	PEX19	component>
+PEX19:ABCD1/ABCD3	PEX3	component>
+CFTR	HCO3-	-a>

@@ -1,0 +1,25 @@
+complex	Arf1:Nef:endosomal CD4
+complex	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase
+complex	CD4:Nef:AP-2 Complex:v-ATPase Complex
+complex	AP-2 Complex
+complex	CD4:Lck Complex
+protein	myristoylated Nef Protein (numerous variants)
+complex	CD4:Nef Complex
+protein	LCK
+protein	CD4
+protein	ATP6V1H
+protein	ARF1
+CD4:Nef:AP-2 Complex:v-ATPase Complex	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	-a>
+Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	myristoylated Nef Protein (numerous variants)	component>
+Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	AP-2 Complex	component>
+Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	ATP6V1H	component>
+ATP6V1H	CD4:Nef:AP-2 Complex:v-ATPase Complex	component>
+CD4:Nef Complex	CD4:Nef:AP-2 Complex:v-ATPase Complex	component>
+AP-2 Complex	CD4:Nef:AP-2 Complex:v-ATPase Complex	component>
+CD4:Lck Complex	LCK	-a>
+CD4:Lck Complex	CD4:Nef Complex	-a>
+myristoylated Nef Protein (numerous variants)	LCK	-a>
+myristoylated Nef Protein (numerous variants)	CD4:Nef Complex	-a>
+myristoylated Nef Protein (numerous variants)	Arf1:Nef:endosomal CD4	component>
+CD4	Arf1:Nef:endosomal CD4	component>
+ARF1	Arf1:Nef:endosomal CD4	component>

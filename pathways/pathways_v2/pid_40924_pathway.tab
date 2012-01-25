@@ -1,0 +1,25 @@
+smallMolecule	Benzoate
+smallMolecule	Gly
+smallMolecule	CoA
+protein	xenobiotic/medium-chain fatty acid:CoA ligases
+smallMolecule	Benzoyl-CoA
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	Hippurate
+smallMolecule	ATP
+protein	GLYAT
+GLYAT	CoA	-a>
+xenobiotic/medium-chain fatty acid:CoA ligases	Benzoyl-CoA	-a>
+Benzoyl-CoA	Hippurate	-a>
+Benzoyl-CoA	CoA	-a>
+Gly	Hippurate	-a>
+Gly	CoA	-a>
+ATP	AMP	-a>
+ATP	PPi	-a>
+ATP	Benzoyl-CoA	-a>
+Benzoate	AMP	-a>
+Benzoate	PPi	-a>
+Benzoate	Benzoyl-CoA	-a>
+CoA	AMP	-a>
+CoA	PPi	-a>
+CoA	Benzoyl-CoA	-a>

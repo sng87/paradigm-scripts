@@ -1,0 +1,62 @@
+protein	RAB3GAP2
+protein	RIMS1
+protein	UniProt:Q60393
+protein	STX1A
+protein	UniProt:Q00496
+protein	VAMP2
+protein	STXBP1
+protein	SNAP25
+protein	UniProt:P30996
+protein	SYT1
+protein	UniProt:P19321
+protein	CST086
+protein	UniProt:P10845
+protein	UniProt:P10844
+protein	CHRNA1
+protein	UNC13B
+complex	STXIA/STXBP1
+complex	STX1A/SNAP25/VAMP2
+complex	STX1A/SNAP25 fragment 1/VAMP2
+complex	RIMS1/UNC13B
+complex	RAB3GAP2/RIMS1/UNC13B
+complex	ACh/Synaptotagmin 1
+complex	ACh/CHRNA1
+chemical	mol:Ca2+
+chemical	mol:ACh
+abstract	muscle contraction
+mol:Ca2+	mol:ACh	-a>
+mol:ACh	ACh/Synaptotagmin 1	component>
+mol:ACh	ACh/CHRNA1	component>
+RAB3GAP2	RAB3GAP2/RIMS1/UNC13B	component>
+RIMS1	RIMS1/UNC13B	component>
+RIMS1	RAB3GAP2/RIMS1/UNC13B	component>
+UniProt:Q60393	VAMP2	-a>
+STX1A	mol:ACh	-a|
+STX1A	STXIA/STXBP1	component>
+STX1A	STX1A/SNAP25/VAMP2	component>
+STX1A	STX1A/SNAP25 fragment 1/VAMP2	component>
+UniProt:Q00496	SNAP25	-a>
+VAMP2	mol:ACh	-a|
+VAMP2	STX1A/SNAP25/VAMP2	component>
+VAMP2	STX1A/SNAP25 fragment 1/VAMP2	component>
+STXBP1	STXIA/STXBP1	component>
+SNAP25	mol:ACh	-a|
+SNAP25	STX1A/SNAP25/VAMP2	component>
+SNAP25	STX1A/SNAP25 fragment 1/VAMP2	component>
+UniProt:P30996	VAMP2	-a>
+SYT1	ACh/Synaptotagmin 1	component>
+UniProt:P19321	VAMP2	-a>
+CST086	STX1A	-a>
+CST086	SNAP25	-a>
+UniProt:P10845	SNAP25	-a>
+UniProt:P10844	VAMP2	-a>
+CHRNA1	ACh/CHRNA1	component>
+UNC13B	RIMS1/UNC13B	component>
+UNC13B	RAB3GAP2/RIMS1/UNC13B	component>
+STXIA/STXBP1	STX1A/SNAP25/VAMP2	-a|
+STXIA/STXBP1	STX1A/SNAP25 fragment 1/VAMP2	-a|
+STX1A/SNAP25/VAMP2	mol:ACh	-a>
+STX1A/SNAP25 fragment 1/VAMP2	mol:ACh	-a>
+RAB3GAP2/RIMS1/UNC13B	STX1A/SNAP25/VAMP2	-a>
+RAB3GAP2/RIMS1/UNC13B	STX1A/SNAP25 fragment 1/VAMP2	-a>
+ACh/CHRNA1	muscle contraction	-ap>

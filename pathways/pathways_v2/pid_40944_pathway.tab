@@ -1,0 +1,25 @@
+complex	pPF2K-Pase complex
+smallMolecule	Neuberg ester
+smallMolecule	D-Fructose 2,6-bisphosphate
+smallMolecule	H2O
+protein	PKA catalytic subunit
+complex	PF2K-Pase1 homodimer
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	MLXIPL
+PKA catalytic subunit	pPF2K-Pase complex	-a>
+PKA catalytic subunit	ADP	-a>
+pPF2K-Pase complex	phosphate	-a>
+ATP	pPF2K-Pase complex	-a>
+PF2K-Pase1 homodimer	ADP	-a>
+PF2K-Pase1 homodimer	pPF2K-Pase complex	-a>
+MLXIPL	MLXIPL	-a>
+MLXIPL	ADP	-a>
+ATP	MLXIPL	-a>
+ATP	ADP	-a>
+H2O	Neuberg ester	-a>
+H2O	phosphate	-a>
+D-Fructose 2,6-bisphosphate	Neuberg ester	-a>
+D-Fructose 2,6-bisphosphate	phosphate	-a>
+PKA catalytic subunit	PKA catalytic subunit	-a>

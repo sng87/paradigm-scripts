@@ -1,0 +1,33 @@
+complex	Cyclin E:Phosho-Cdk2 (Thr 160)
+complex	Cyclin E:Cdk2:p21/p27 complex
+complex	CAK
+complex	Cyclin E:Cdk2 complexes
+smallMolecule	H2O
+complex	Cyclin E:phospho-Cdk2 Complex
+protein	p21/p27
+complex	Cyclin E:Cdk2 complex
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	Cyclin E
+protein	WEE1
+protein	CDK2
+protein	CDC25A
+WEE1	Cyclin E:phospho-Cdk2 Complex	-a>
+CDC25A	Cyclin E:Cdk2 complexes	-a>
+CAK	Cyclin E:Phosho-Cdk2 (Thr 160)	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:Cdk2:p21/p27 complex	component>
+p21/p27	Cyclin E:Cdk2:p21/p27 complex	component>
+ATP	Cyclin E:phospho-Cdk2 Complex	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:phospho-Cdk2 Complex	-a>
+H2O	phosphate	-a>
+H2O	Cyclin E:Cdk2 complexes	-a>
+Cyclin E:phospho-Cdk2 Complex	phosphate	-a>
+Cyclin E:phospho-Cdk2 Complex	Cyclin E:Cdk2 complexes	-a>
+Cyclin E:Cdk2 complex	Cyclin E:Cdk2 complexes	-a>
+Cyclin E:Cdk2 complexes	ADP	-a>
+Cyclin E:Cdk2 complexes	Cyclin E:Phosho-Cdk2 (Thr 160)	-a>
+ATP	ADP	-a>
+ATP	Cyclin E:Phosho-Cdk2 (Thr 160)	-a>
+CDK2	Cyclin E:Cdk2 complex	component>
+Cyclin E	Cyclin E:Cdk2 complex	component>

@@ -1,0 +1,17 @@
+smallMolecule	TPNH
+smallMolecule	H2O
+smallMolecule	Ethanal
+smallMolecule	TPN
+smallMolecule	Ethanol
+smallMolecule	H+
+protein	CYP2E1
+CYP2E1	Ethanal	-a>
+H+	TPN	-a>
+H+	H2O	-a>
+H+	Ethanal	-a>
+TPNH	TPN	-a>
+TPNH	H2O	-a>
+TPNH	Ethanal	-a>
+Ethanol	TPN	-a>
+Ethanol	H2O	-a>
+Ethanol	Ethanal	-a>

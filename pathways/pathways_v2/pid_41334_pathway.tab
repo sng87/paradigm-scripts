@@ -1,0 +1,33 @@
+smallMolecule	TPNH
+smallMolecule	H2O
+smallMolecule	TPN
+protein	UniProt:O43174 CYP26A1_subunit_1_497_1-497
+smallMolecule	Calcitriol
+smallMolecule	Retin A
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Vitamin D3
+protein	CYP2R1
+protein	CYP27B1
+protein	CYP26C1
+protein	CYP26B1
+protein	CYP24A1
+CYP27B1	Calcitriol	-a>
+CYP24A1	H2O	-a>
+CYP26B1	TPN	-a>
+UniProt:O43174 CYP26A1_subunit_1_497_1-497	H2O	-a>
+CYP26C1	TPN	-a>
+CYP2R1	TPN	-a>
+O2	Calcitriol	-a>
+H+	Calcitriol	-a>
+TPNH	Calcitriol	-a>
+Retin A	TPN	-a>
+Retin A	H2O	-a>
+Vitamin D3	H2O	-a>
+Vitamin D3	TPN	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+O2	H2O	-a>
+O2	TPN	-a>

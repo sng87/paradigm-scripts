@@ -1,0 +1,28 @@
+complex	viral PIC proteins
+complex	RTC with integration competent viral DNA
+complex	linear duplex viral DNA
+complex	IN bound to sticky 3' ends of viral DNA in PIC
+complex	RT
+protein	HMG1/Y
+complex	PIC (PreIntegration Complex)
+protein	Integrase
+protein	PSIP1
+protein	PPIA
+protein	BANF1
+IN bound to sticky 3' ends of viral DNA in PIC	linear duplex viral DNA	component>
+IN bound to sticky 3' ends of viral DNA in PIC	viral PIC proteins	component>
+IN bound to sticky 3' ends of viral DNA in PIC	Integrase	component>
+RTC with integration competent viral DNA	RT	component>
+RTC with integration competent viral DNA	PIC (PreIntegration Complex)	component>
+RTC with integration competent viral DNA	PPIA	component>
+PSIP1	RT	component>
+PSIP1	PIC (PreIntegration Complex)	component>
+PSIP1	PPIA	component>
+BANF1	RT	component>
+BANF1	PIC (PreIntegration Complex)	component>
+BANF1	PPIA	component>
+HMG1/Y	RT	component>
+HMG1/Y	PIC (PreIntegration Complex)	component>
+HMG1/Y	PPIA	component>
+PIC (PreIntegration Complex)	PIC (PreIntegration Complex)	-a>
+PIC (PreIntegration Complex)	IN bound to sticky 3' ends of viral DNA in PIC	-a>

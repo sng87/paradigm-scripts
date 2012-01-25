@@ -1,0 +1,16 @@
+complex	gamma-secretase complex
+protein	UniProt:P46531 NOTCH1_subunit_1722_1754_1722-1754
+protein	UniProt:P46531 NOTCH1_subunit_1722_2556_1722-2556
+protein	UniProt:P46531 NOTCH1_subunit_1755_2556_1755-2556
+protein	NOTCH4
+protein	NOTCH3
+protein	NOTCH2
+gamma-secretase complex	NOTCH3	-a>
+gamma-secretase complex	NOTCH2	-a>
+gamma-secretase complex	UniProt:P46531 NOTCH1_subunit_1755_2556_1755-2556	-a>
+gamma-secretase complex	NOTCH4	-a>
+NOTCH3	NOTCH3	-a>
+NOTCH2	NOTCH2	-a>
+UniProt:P46531 NOTCH1_subunit_1722_2556_1722-2556	UniProt:P46531 NOTCH1_subunit_1722_1754_1722-1754	-a>
+UniProt:P46531 NOTCH1_subunit_1722_2556_1722-2556	UniProt:P46531 NOTCH1_subunit_1755_2556_1755-2556	-a>
+NOTCH4	NOTCH4	-a>

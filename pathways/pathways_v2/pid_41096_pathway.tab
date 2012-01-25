@@ -1,0 +1,19 @@
+protein	PDX1
+protein	PAX6
+protein	NKX6-1
+protein	NKX2-2
+protein	MAFA
+protein	INS
+protein	IAPP
+protein	FOXO1
+protein	FOXA2
+NKX2-2	INS	-t>
+PDX1	INS	-t>
+PAX6	INS	-t>
+FOXO1	PDX1	-t|
+PAX6	PDX1	-t>
+FOXA2	PDX1	-t>
+MAFA	INS	-t>
+MAFA	PDX1	-t>
+PDX1	NKX6-1	-t>
+PDX1	IAPP	-t>

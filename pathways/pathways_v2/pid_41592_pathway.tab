@@ -1,0 +1,7 @@
+smallMolecule	CoA
+smallMolecule	Fatty acyl CoA
+smallMolecule	Lysophosphatidic acid
+protein	AGPAT2
+AGPAT2	CoA	-a>
+Fatty acyl CoA	CoA	-a>
+Lysophosphatidic acid	CoA	-a>

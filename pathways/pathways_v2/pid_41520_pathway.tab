@@ -1,0 +1,11 @@
+complex	RPA-coated 3'-ends of DNA double strand break
+complex	RAD51:resected ends of DNA double-strand break
+complex	RAD51:RPA complex
+complex	RAD51:RAD52:DNA double strand break end  complex
+complex	RAD52:DNA double-strand break
+protein	RAD51
+RAD51	RAD51:RPA complex	component>
+RPA-coated 3'-ends of DNA double strand break	RAD51:RPA complex	component>
+RAD51	RAD51:RAD52:DNA double strand break end  complex	component>
+RAD52:DNA double-strand break	RAD51:RAD52:DNA double strand break end  complex	component>
+RAD51	RAD51:resected ends of DNA double-strand break	component>

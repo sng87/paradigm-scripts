@@ -1,0 +1,48 @@
+complex	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP
+protein	CASP3_0-0
+complex	Lamin A/C/Lamin B1/Lamin B2
+complex	TNF-alpha/TNF R1/SODD
+protein	CASP2_0-0
+complex	Lamin A/C/Lamin B1/Lamin B2 (cleaved)
+complex	TNF R1/SODD
+complex	FADD/Caspase 8
+protein	TRAF2
+protein	TRADD
+protein	TNF
+protein	RIPK1
+protein	MAP2K4
+protein	MADD
+protein	FADD
+protein	CRADD
+protein	CASP8
+protein	CASP3
+protein	CASP2
+protein	BIRC3
+protein	BAG4
+CASP8	CASP3_0-0	-a>
+TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	FADD	component>
+CASP2_0-0	Lamin A/C/Lamin B1/Lamin B2 (cleaved)	-a|
+CASP2_0-0	Lamin A/C/Lamin B1/Lamin B2 (cleaved)	-a>
+TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	CASP2_0-0	-a>
+TRAF2	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	component>
+TRAF2	BAG4	component>
+CRADD	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	component>
+CRADD	BAG4	component>
+RIPK1	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	component>
+RIPK1	BAG4	component>
+MADD	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	component>
+MADD	BAG4	component>
+TRADD	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	component>
+TRADD	BAG4	component>
+TNF-alpha/TNF R1/SODD	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	component>
+TNF-alpha/TNF R1/SODD	BAG4	component>
+BIRC3	TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	component>
+BIRC3	BAG4	component>
+CASP3	CASP3_0-0	-a>
+FADD/Caspase 8	CASP8	component>
+FADD/Caspase 8	FADD	component>
+TNF R1/SODD	TNF-alpha/TNF R1/SODD	component>
+TNF	TNF-alpha/TNF R1/SODD	component>
+Lamin A/C/Lamin B1/Lamin B2	Lamin A/C/Lamin B1/Lamin B2 (cleaved)	-a>
+TNF-alpha/TNF R1/RIP/RAIDD/MADD/TRADD/TRAF2/cIAP	MAP2K4	-a>
+CASP2	CASP2_0-0	-a>

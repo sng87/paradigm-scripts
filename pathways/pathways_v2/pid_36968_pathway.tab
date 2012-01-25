@@ -1,0 +1,86 @@
+abstract	establishment of polarity of embryonic epithelium
+abstract	actin cable formation
+abstract	homophilic cell adhesion
+abstract	keratinocyte differentiation
+abstract	adherens junction organization
+abstract	apoptosis
+complex	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin
+smallMolecule	DAG
+protein	AKT1-2
+protein	formin 1
+complex	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin
+complex	RhoA/GDP
+smallMolecule	PI-4-P
+complex	EGFR(dimer)
+complex	RAC1/GDP
+complex	E-cadherin/beta catenin-gamma catenin
+protein	AKT1-2-active
+complex	PAK1
+smallMolecule	PI-3-4-5-P3
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+complex	RhoA/GTP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ZYX
+protein	VASP
+protein	SRC
+protein	PLCG1
+protein	PIP5K1A
+protein	JUB
+protein	FYN
+protein	EGFR
+protein	CTNND1
+protein	CTNNA1
+protein	CASR
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	EGFR(dimer)	component>
+Ca2+	RhoA/GTP	-a>
+PLCG1	IP3	-a>
+EGFR(dimer)	PAK1	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	PI3K	-a>
+homophilic cell adhesion	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	-a>
+PIP5K1A	PI-4-5-P2	-a>
+PI3K	PI-3-4-5-P3	-a>
+SRC	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+FYN	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+PI-3-4-5-P3	AKT1-2-active	-a>
+EGFR	EGFR(dimer)	component>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+VASP	establishment of polarity of embryonic epithelium	-ap>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	IP3	-a>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+Ca2+	CASR	-a>
+IP3	Ca2+	-a>
+VASP	actin cable formation	-ap>
+PI3K	PI3K	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	PIP5K1A	-a>
+formin 1	adherens junction organization	-ap>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	JUB	-a>
+Ca2+	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	-a>
+E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	-a>
+PI-4-P	PI-4-5-P2	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+AKT1-2-active	apoptosis	-ap|
+JUB	adherens junction organization	-ap>
+CTNND1	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+E-cadherin/beta catenin-gamma catenin	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	VASP	-a>
+AKT1-2	AKT1-2-active	-a>
+PI-3-4-5-P3	PLCG1	-a>
+RhoA/GTP	FYN	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	ZYX	-a>
+Ca2+	keratinocyte differentiation	-ap>
+formin 1	actin cable formation	-ap>
+AKT1-2-active	keratinocyte differentiation	-ap>
+CASR	FYN	-a>
+VASP	adherens junction organization	-ap>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	formin 1	-a>

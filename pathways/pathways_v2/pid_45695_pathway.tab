@@ -1,0 +1,36 @@
+abstract	positive regulation of nuclear mRNA splicing via spliceosome
+complex	KHDRBS1
+complex	SRC/SAM68
+abstract	negative regulation of cell growth
+protein	SRC
+protein	RASA1
+protein	RAF1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	KHDRBS1
+protein	HRAS
+protein	CDC2
+MAPK1	KHDRBS1	component>
+MAPK3	KHDRBS1	component>
+CDC2	KHDRBS1	component>
+MAP2K2	MAPK3	-a>
+KHDRBS1	RASA1	component>
+KHDRBS1	KHDRBS1	component>
+SRC/SAM68	SRC	component>
+SRC/SAM68	KHDRBS1	component>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+HRAS	RAF1	-a>
+SRC	SRC/SAM68	component>
+KHDRBS1	SRC/SAM68	component>
+KHDRBS1	positive regulation of nuclear mRNA splicing via spliceosome	-ap>
+KHDRBS1	KHDRBS1	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+KHDRBS1	negative regulation of cell growth	-ap>

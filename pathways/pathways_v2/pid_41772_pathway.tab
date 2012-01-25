@@ -1,0 +1,5 @@
+complex	DNA containing unligated replacement-synthesized patch
+complex	Ligated patch-repaired DNA
+protein	LIG1
+LIG1	Ligated patch-repaired DNA	-a>
+DNA containing unligated replacement-synthesized patch	Ligated patch-repaired DNA	-a>

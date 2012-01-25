@@ -1,0 +1,55 @@
+complex	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen
+complex	urokinase plasminogen activator (one-chain):uPAR
+complex	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1
+protein	UniProt:P00749 PLAU_subunit_21_431_21-431
+complex	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)
+complex	urokinase plasminogen activator (two-chain):uPAR
+complex	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen
+complex	PAI-1:urokinase plasminogen activator (two-chain):uPAR
+complex	histidine-rich glycoprotein:plasminogen
+complex	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1
+complex	alpha-2-antiplasmin:plasmin
+complex	plasmin
+complex	PAI-2:urokinase plasminogen activator (two-chain):uPAR
+complex	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)
+smallMolecule	Zn2+
+protein	SERPINF2
+protein	SERPINE1
+protein	SERPINB2
+protein	PLG
+protein	PLAUR
+protein	PLAT
+protein	HRG
+Zn2+	histidine-rich glycoprotein:plasminogen	component>
+plasmin	urokinase plasminogen activator (two-chain):uPAR	-a>
+urokinase plasminogen activator (one-chain):uPAR	HRG	component>
+plasmin	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)	-a>
+urokinase plasminogen activator (two-chain):uPAR	HRG	component>
+PLAUR	urokinase plasminogen activator (one-chain):uPAR	component>
+UniProt:P00749 PLAU_subunit_21_431_21-431	urokinase plasminogen activator (one-chain):uPAR	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen	plasmin	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen	component>
+PLG	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen	component>
+HRG	histidine-rich glycoprotein:plasminogen	component>
+PLG	histidine-rich glycoprotein:plasminogen	component>
+urokinase plasminogen activator (one-chain):uPAR	urokinase plasminogen activator (two-chain):uPAR	-a>
+fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)	-a>
+histidine-rich glycoprotein:plasminogen	plasmin	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen	component>
+PLG	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen	component>
+PLAT	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1	component>
+SERPINE1	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen	plasmin	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain)	component>
+histidine-rich glycoprotein:plasminogen	PLG	component>
+histidine-rich glycoprotein:plasminogen	HRG	component>
+fibrin multimer, crosslinked:tissue plasminogen activator (one-chain)	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1	component>
+SERPINE1	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1	component>
+SERPINE1	PAI-1:urokinase plasminogen activator (two-chain):uPAR	component>
+urokinase plasminogen activator (two-chain):uPAR	PAI-1:urokinase plasminogen activator (two-chain):uPAR	component>
+plasmin	alpha-2-antiplasmin:plasmin	component>
+SERPINF2	alpha-2-antiplasmin:plasmin	component>
+SERPINB2	PAI-2:urokinase plasminogen activator (two-chain):uPAR	component>
+urokinase plasminogen activator (two-chain):uPAR	PAI-2:urokinase plasminogen activator (two-chain):uPAR	component>

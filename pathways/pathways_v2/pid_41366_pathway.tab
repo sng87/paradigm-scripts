@@ -1,0 +1,34 @@
+complex	protein C
+complex	pro-factor X
+complex	pro-protein C
+complex	factor X
+protein	UniProt:Q14393 GAS6_subunit_31_691_31-691
+protein	UniProt:Q14393 GAS6_subunit_39_691_39-691
+protein	UniProt:Q14393 GAS6_subunit_31_38_31-38
+protein	PROZ
+protein	PROS1
+protein	PROC
+protein	FURIN
+protein	F9
+protein	F7
+protein	F2
+protein	F10
+FURIN	factor X	component>
+FURIN	UniProt:Q14393 GAS6_subunit_31_38_31-38	-a>
+FURIN	F7	-a>
+FURIN	F2	-a>
+FURIN	F9	-a>
+FURIN	PROS1	-a>
+FURIN	protein C	component>
+FURIN	PROZ	-a>
+pro-factor X	F10	component>
+pro-factor X	factor X	component>
+UniProt:Q14393 GAS6_subunit_31_691_31-691	UniProt:Q14393 GAS6_subunit_39_691_39-691	-a>
+UniProt:Q14393 GAS6_subunit_31_691_31-691	UniProt:Q14393 GAS6_subunit_31_38_31-38	-a>
+F7	F7	-a>
+F2	F2	-a>
+F9	F9	-a>
+PROS1	PROS1	-a>
+pro-protein C	PROC	component>
+pro-protein C	protein C	component>
+PROZ	PROZ	-a>

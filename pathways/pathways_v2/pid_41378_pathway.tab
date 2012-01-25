@@ -1,0 +1,20 @@
+complex	Virion with gp41 exposed
+complex	Virion with gp41 forming hairpin structure
+complex	Virion with CD4:gp120 bound to CCR5/CXCR4
+complex	Viral core surrounded by Matrix layer
+complex	Mature infectious virion
+complex	CD4:Env gp120/gp41 hairpin complex:CCR5/CXCR4
+complex	Virion with exposed coreceptor binding sites
+complex	Virion with gp41 fusion peptide in insertion complex
+complex	Virion with CD4 bound to gp120
+protein	CD4
+Virion with CD4:gp120 bound to CCR5/CXCR4	Virion with gp41 exposed	-a>
+Virion with exposed coreceptor binding sites	Virion with CD4:gp120 bound to CCR5/CXCR4	-a>
+CD4	Virion with CD4 bound to gp120	component>
+Mature infectious virion	Virion with CD4 bound to gp120	component>
+Virion with gp41 exposed	Virion with gp41 fusion peptide in insertion complex	-a>
+Virion with CD4 bound to gp120	Virion with exposed coreceptor binding sites	-a>
+Virion with gp41 exposed	Virion with gp41 exposed	-a>
+Virion with gp41 forming hairpin structure	CD4:Env gp120/gp41 hairpin complex:CCR5/CXCR4	component>
+Virion with gp41 forming hairpin structure	Viral core surrounded by Matrix layer	component>
+Virion with gp41 fusion peptide in insertion complex	Virion with gp41 forming hairpin structure	-a>

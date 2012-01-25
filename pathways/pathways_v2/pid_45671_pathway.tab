@@ -1,0 +1,101 @@
+protein	PDCD8
+complex	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD
+complex	TNF/TNF R/SODD
+complex	p50/RELA/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	RELA/p50
+complex	TNF R/SODD
+abstract	response to heat
+abstract	response to hydrogen peroxide
+abstract	response to radiation
+abstract	protein ubiquitination
+abstract	response to UV
+abstract	degradation
+protein	IKKs
+complex	FADD/Caspase 8
+smallMolecule	sphingomyelin
+protein	KSR
+smallMolecule	ceramide
+protein	TRAF2
+protein	TRADD
+protein	TNF
+protein	SMPD1
+protein	RIPK1
+protein	RAF1
+protein	NSMAF
+protein	MAPK8
+protein	MAPK3
+protein	MAPK1
+protein	MAP4K4
+protein	MAP3K1
+protein	MAP2K4
+protein	MAP2K2
+protein	MAP2K1
+protein	MADD
+protein	FADD
+protein	CYCS
+protein	CRADD
+protein	CASP8
+protein	BIRC3
+protein	BCL2
+protein	BAX
+protein	BAG4
+protein	BAD
+IKKs	protein ubiquitination	-ap>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	CASP8	component>
+SMPD1	ceramide	-a>
+NSMAF	ceramide	-a>
+MAP2K2	MAPK3	-a>
+BCL2	CYCS	-a|
+response to radiation	SMPD1	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+BAX	PDCD8	-a>
+FADD/Caspase 8	FADD	component>
+FADD/Caspase 8	CASP8	component>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	NSMAF	-a>
+RIPK1	BAG4	component>
+RIPK1	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+MADD	BAG4	component>
+MADD	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+BIRC3	BAG4	component>
+BIRC3	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+TRAF2	BAG4	component>
+TRAF2	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+TRADD	BAG4	component>
+TRADD	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+CRADD	BAG4	component>
+CRADD	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+TNF/TNF R/SODD	BAG4	component>
+TNF/TNF R/SODD	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+response to UV	SMPD1	-a>
+sphingomyelin	ceramide	-a>
+ceramide	MAP3K1	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	SMPD1	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+BAX	CYCS	-a>
+ceramide	BAD	-a>
+BAD	PDCD8	-a>
+response to hydrogen peroxide	SMPD1	-a>
+KSR	RAF1	-a>
+MAP4K4	IKKs	-a>
+MAP3K1	MAP2K4	-a>
+ceramide	KSR	-a>
+response to heat	SMPD1	-a>
+TNF	TNF/TNF R/SODD	component>
+TNF R/SODD	TNF/TNF R/SODD	component>
+RELA/p50	CASP8	-a>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+ceramide	BAX	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	MAP4K4	-a>
+BAD	CYCS	-a>
+MAP2K4	MAPK8	-a>
+BCL2	PDCD8	-a|
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

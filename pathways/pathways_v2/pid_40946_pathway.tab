@@ -1,0 +1,13 @@
+complex	SMAC:XIAP:Caspase-9
+complex	XIAP:Caspase-9
+complex	SMAC:XIAP:Caspase-7
+complex	XIAP:Caspase-7
+complex	SMAC:XIAP:Caspase-3
+complex	XIAP:Caspase-3
+protein	DIABLO
+XIAP:Caspase-9	SMAC:XIAP:Caspase-9	component>
+DIABLO	SMAC:XIAP:Caspase-9	component>
+DIABLO	SMAC:XIAP:Caspase-7	component>
+XIAP:Caspase-7	SMAC:XIAP:Caspase-7	component>
+XIAP:Caspase-3	SMAC:XIAP:Caspase-3	component>
+DIABLO	SMAC:XIAP:Caspase-3	component>

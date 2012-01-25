@@ -1,0 +1,27 @@
+complex	48S complex
+complex	MP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	EIF5
+protein	EIF1AX
+ATP	48S complex	-a>
+ATP	phosphate	-a>
+ATP	ADP	-a>
+48S complex	phosphate	-a>
+48S complex	ADP	-a>
+EIF1AX	EIF1AX	-a>
+EIF1AX	MP	-a>
+EIF1AX	48S complex	-a>
+EIF1AX	EIF5	-a>
+MP	EIF1AX	-a>
+MP	MP	-a>
+MP	48S complex	-a>
+MP	EIF5	-a>
+48S complex	EIF1AX	-a>
+48S complex	MP	-a>
+48S complex	48S complex	-a>
+48S complex	EIF5	-a>
+EIF5	EIF1AX	-a>
+EIF5	MP	-a>
+EIF5	48S complex	-a>

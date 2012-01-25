@@ -1,0 +1,25 @@
+complex	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2
+complex	Processive complex loaded on telomere:Okazaki fragments:Remaining Flap
+complex	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments
+complex	RPA heterotrimer
+smallMolecule	CMP
+smallMolecule	UMP
+smallMolecule	GMP
+complex	Processive complex loaded on telomere:Okazaki fragment:Flap
+smallMolecule	AMP
+complex	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer
+protein	FEN1
+protein	DNA2
+FEN1	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments	-a>
+Processive complex loaded on telomere:Okazaki fragments:Remaining Flap	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments	-a>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	Processive complex loaded on telomere:Okazaki fragments:Remaining Flap	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	RPA heterotrimer	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	CMP	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	DNA2	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	AMP	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	GMP	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	UMP	component>
+DNA2	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	component>
+RPA heterotrimer	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer	component>
+Processive complex loaded on telomere:Okazaki fragment:Flap	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer	component>

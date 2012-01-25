@@ -1,0 +1,133 @@
+abstract	positive regulation of Wnt receptor signaling pathway
+abstract	cellular response to amino acid starvation
+abstract	Wnt receptor activity
+abstract	actin filament depolymerization
+abstract	actin filament polymerization
+abstract	positive regulation of NAD(P)H oxidase activity
+abstract	neuron projection development
+abstract	lamellipodium assembly
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	regulation of cell cycle
+complex	p47 Phox/p67 Phox/cytochrome b-245
+complex	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP
+complex	PAK1 (dimer)
+protein	MKK3-MKK6-active
+complex	STAT3 (dimer)
+complex	cytochrome b-245
+complex	RHOGDI/RAC1/GDP
+protein	MKK3-MKK6
+complex	p130 Cas/Crk
+complex	RAC1/GDP
+complex	NOX1/NOXA1/NOXO1
+complex	WAVE1/Sra1/Nap1/HSPC300/ABI2
+complex	STAT5A (dimer)
+complex	PAK1
+smallMolecule	PI-3-4-5-P3
+protein	MEKK1
+complex	WAVE2/Nap1/Sra1/AbI1/HSPC300
+complex	Arp2/3 complex
+complex	p47 Phox/p67 Phox
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin
+smallMolecule	Ca2+
+complex	E-cadherin/beta catenin/IQGAP1
+complex	RAC1/GTP/IQGAP1
+protein	p130 Cas
+complex	RAC1/GTP/NOX1/NOXA1/NOXO1
+protein	RACGAP1
+protein	PLCB2
+protein	PIP5K1C
+protein	PIP5K1B
+protein	PIP5K1A
+protein	PAK2
+protein	PAK1
+protein	MAPK9
+protein	MAPK8
+protein	MAPK14
+protein	MAP3K11
+protein	MAP2K7
+protein	MAP2K4
+protein	LIMK1
+protein	JUN
+protein	IQGAP3
+protein	IQGAP1
+protein	CTNNB1
+protein	CTNNA1
+protein	CRK
+protein	CFL1
+protein	BAIAP2
+protein	ATF2
+protein	ARHGDIA
+protein	ARHGAP5
+RACGAP1	STAT5A (dimer)	-a>
+PI-3-4-5-P3	WAVE1/Sra1/Nap1/HSPC300/ABI2	-a>
+PAK1	MKK3-MKK6-active	-a>
+MEKK1	MAP2K7	-a>
+PAK1	MAPK9	-a>
+RACGAP1	STAT3 (dimer)	-a>
+PAK1	PAK1	component>
+RAC1/GTP/IQGAP1	E-cadherin/beta catenin/IQGAP1	-a|
+PAK1	p130 Cas/Crk	component>
+PAK1	p47 Phox/p67 Phox	-a>
+PAK1	WAVE2/Nap1/Sra1/AbI1/HSPC300	-a>
+PI-3-4-5-P3	WAVE2/Nap1/Sra1/AbI1/HSPC300	-a>
+PAK1	RAC1/GDP	component>
+CTNNB1	positive regulation of Wnt receptor signaling pathway	-ap>
+PAK1	MAP3K11	-a>
+PAK1	positive regulation of NF-kappaB transcription factor activity	-ap>
+PAK1	STAT5A (dimer)	-a>
+MAPK8	ATF2	-a>
+PAK1	PIP5K1B	-a>
+PAK1	ARHGAP5	-a>
+Arp2/3 complex	lamellipodium assembly	-ap>
+PAK1	PIP5K1C	-a>
+PIP5K1A	actin filament polymerization	-ap>
+PAK1	WAVE1/Sra1/Nap1/HSPC300/ABI2	-a>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+IQGAP1	RAC1/GTP/IQGAP1	component>
+PAK1	RAC1/GTP/IQGAP1	component>
+PAK1	PAK2	-a>
+MAP3K11	MEKK1	-a>
+p130 Cas/Crk	MAP2K4	-a>
+PAK1	PIP5K1A	-a>
+WAVE2/Nap1/Sra1/AbI1/HSPC300	Arp2/3 complex	-a>
+PAK1	lamellipodium assembly	-ap>
+cellular response to amino acid starvation	MAP2K7	-a>
+Wnt receptor activity	MAPK9	-a>
+PAK1	STAT3 (dimer)	-a>
+CFL1	actin filament depolymerization	-ap|
+PAK1 (dimer)	PAK1	component>
+IQGAP1	Ca2+	-a>
+IQGAP1	CTNNA1	-a>
+IQGAP1	E-cadherin/beta catenin/IQGAP1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	Ca2+	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	CTNNA1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	E-cadherin/beta catenin/IQGAP1	-a>
+MAP2K4	MAPK8	-a>
+PAK1	IQGAP3	-a>
+PAK1	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+p47 Phox/p67 Phox/cytochrome b-245	p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	component>
+RAC1/GTP/NOX1/NOXA1/NOXO1	positive regulation of NAD(P)H oxidase activity	-ap>
+MAPK8	JUN	-a>
+p47 Phox/p67 Phox	p47 Phox/p67 Phox/cytochrome b-245	component>
+cytochrome b-245	p47 Phox/p67 Phox/cytochrome b-245	component>
+MAP2K7	MAPK9	-a>
+CRK	p130 Cas/Crk	component>
+p130 Cas	p130 Cas/Crk	component>
+PAK1	RAC1/GTP/NOX1/NOXA1/NOXO1	component>
+NOX1/NOXA1/NOXO1	RAC1/GTP/NOX1/NOXA1/NOXO1	component>
+MAPK9	ATF2	-a>
+p47 Phox/p67 Phox	p47 Phox/p67 Phox	-a>
+BAIAP2	WAVE2/Nap1/Sra1/AbI1/HSPC300	-a>
+WAVE1/Sra1/Nap1/HSPC300/ABI2	Arp2/3 complex	-a>
+MEKK1	MAP2K4	-a>
+RHOGDI/RAC1/GDP	ARHGDIA	component>
+RHOGDI/RAC1/GDP	RAC1/GDP	component>
+LIMK1	CFL1	-a>
+MKK3-MKK6-active	MAPK14	-a>
+PAK1	PLCB2	-a>
+MAPK14	regulation of cell cycle	-ap>
+MAPK9	CTNNB1	-a>
+p47 Phox/p67 Phox/cytochrome b-245/RAC1/GTP	positive regulation of NAD(P)H oxidase activity	-ap>
+IQGAP3	neuron projection development	-ap>
+PAK1	LIMK1	-a>
+CTNNB1	CTNNB1	-a>

@@ -1,0 +1,7 @@
+complex	XPC:HR23B:damaged DNA complex
+protein	UniProt:Q01831 XPC
+complex	XPC:HR23B complex
+protein	RAD23B
+UniProt:Q01831 XPC	XPC:HR23B complex	component>
+RAD23B	XPC:HR23B complex	component>
+XPC:HR23B complex	XPC:HR23B:damaged DNA complex	-a>

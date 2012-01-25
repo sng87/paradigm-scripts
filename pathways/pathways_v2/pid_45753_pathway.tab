@@ -1,0 +1,29 @@
+protein	MMP9_0-0
+protein	MMP2_0-0
+protein	ProMMP-2
+complex	TIMP2/ProMMP-2
+protein	ECM
+abstract	degradation
+protein	proMMP-9
+protein	TIMP4
+protein	TIMP3
+protein	TIMP2
+protein	TIMP1
+protein	RECK
+protein	MMP14
+RECK	MMP2_0-0	-a|
+TIMP3	degradation	-ap|
+TIMP2	degradation	-ap|
+TIMP4	degradation	-ap|
+TIMP1	degradation	-ap|
+MMP2_0-0	degradation	-ap>
+RECK	degradation	-ap|
+MMP9_0-0	degradation	-ap>
+RECK	ProMMP-2	component>
+MMP14	ProMMP-2	component>
+ProMMP-2	MMP2_0-0	-a>
+RECK	proMMP-9	-a|
+proMMP-9	MMP9_0-0	-a>
+ECM	degradation	-ap>
+TIMP2/ProMMP-2	TIMP2	component>
+TIMP2/ProMMP-2	ProMMP-2	component>

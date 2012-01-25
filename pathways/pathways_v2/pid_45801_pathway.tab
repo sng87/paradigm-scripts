@@ -1,0 +1,36 @@
+complex	IL-10R/JAK1
+complex	IL-10/IL-10R/JAK1
+smallMolecule	bilirubin
+smallMolecule	CO2
+abstract	inflammatory response
+smallMolecule	BILIVERDIN
+smallMolecule	HEME
+protein	TNF
+protein	MAPK14
+protein	MAP3K5
+protein	MAP2K6
+protein	IL6
+protein	IL1A
+protein	IL10
+protein	HMOX1
+protein	BLVRA
+CO2	TNF	-t|
+BLVRA	bilirubin	-a>
+HMOX1	BILIVERDIN	-a>
+CO2	IL1A	-t|
+CO2	IL6	-t|
+TNF	inflammatory response	-ap>
+bilirubin	TNF	-t|
+BILIVERDIN	bilirubin	-a>
+IL-10/IL-10R/JAK1	MAP3K5	-a>
+HEME	BILIVERDIN	-a>
+IL1A	inflammatory response	-ap>
+bilirubin	IL1A	-t|
+MAPK14	MAPK14	-a>
+IL10	IL-10/IL-10R/JAK1	component>
+IL-10R/JAK1	IL-10/IL-10R/JAK1	component>
+MAP3K5	MAP2K6	-a>
+MAPK14	HMOX1	-t>
+MAP2K6	MAPK14	-a>
+bilirubin	IL6	-t|
+IL6	inflammatory response	-ap>

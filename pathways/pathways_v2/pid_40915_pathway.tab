@@ -1,0 +1,14 @@
+complex	C4
+protein	UniProt:P0C0L4 C4A_subunit_20_675_20-675
+protein	UniProt:P0C0L4 C4A_subunit_680_756_680-756
+protein	UniProt:P0C0L4 C4A_subunit_757_1446_757-1446
+complex	C4b:C2b complex
+protein	UniProt:P0C0L4 C4A_subunit_1454_1744_1454-1744
+protein	C2
+UniProt:P0C0L4 C4A_subunit_757_1446_757-1446	C4b:C2b complex	component>
+C2	C4b:C2b complex	component>
+C2	C2	-a>
+C4	UniProt:P0C0L4 C4A_subunit_20_675_20-675	component>
+C4	UniProt:P0C0L4 C4A_subunit_1454_1744_1454-1744	component>
+C4	UniProt:P0C0L4 C4A_subunit_757_1446_757-1446	component>
+C4	UniProt:P0C0L4 C4A_subunit_680_756_680-756	component>

@@ -1,0 +1,8 @@
+complex	BMF sequestered to dynein (DLC2)
+complex	phospho-dynein(DLC2) on microtubules
+protein	MAPK8
+protein	BMF
+MAPK8	phospho-dynein(DLC2) on microtubules	component>
+BMF	BMF	-a>
+BMF sequestered to dynein (DLC2)	BMF	component>
+BMF sequestered to dynein (DLC2)	phospho-dynein(DLC2) on microtubules	component>

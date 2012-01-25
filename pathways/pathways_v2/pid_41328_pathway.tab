@@ -1,0 +1,15 @@
+complex	60S ribosomal complex
+complex	40S:eIF3:eIF1A
+complex	eIF3 subunits complex
+complex	40S ribosomal complex
+complex	80S monosome
+protein	EIF1AX
+40S ribosomal complex	40S:eIF3:eIF1A	component>
+eIF3 subunits complex	40S:eIF3:eIF1A	component>
+EIF1AX	40S:eIF3:eIF1A	component>
+EIF1AX	60S ribosomal complex	component>
+EIF1AX	40S ribosomal complex	component>
+EIF1AX	EIF1AX	component>
+80S monosome	60S ribosomal complex	component>
+80S monosome	40S ribosomal complex	component>
+80S monosome	EIF1AX	component>

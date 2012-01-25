@@ -1,0 +1,74 @@
+protein	PSENEN
+protein	APH1A
+protein	NCSTN
+protein	APH1B
+protein	CTTN
+protein	PSEN1
+protein	MC4R
+protein	PTN
+protein	SRC
+protein	IL8
+protein	FYN
+protein	POMC
+protein	EGFR
+protein	SDC3
+protein	RP11-540L11.1
+protein	NCAN
+protein	AGRP
+protein	GO:0007205
+complex	alpha-MSH/MC4R
+complex	Syndecan-3/Src/Cortactin
+complex	Syndecan-3/Neurocan
+complex	Syndecan-3/IL8
+complex	Syndecan-3/Fyn/Cortactin
+complex	Syndecan-3/EGFR
+complex	Syndecan-3/CASK
+complex	Syndecan-3/AgRP/MC4R
+complex	Syndecan-3/AgRP
+complex	Src/Cortactin
+complex	Gamma Secretase
+complex	Fyn/Cortactin
+complex	FGFR/FGF/Syndecan-3
+abstract	positive regulation of leukocyte migration
+abstract	neuron projection morphogenesis
+abstract	long-term memory
+abstract	limb bud formation
+PSENEN	Gamma Secretase	component>
+APH1A	Gamma Secretase	component>
+NCSTN	Gamma Secretase	component>
+APH1B	Gamma Secretase	component>
+CTTN	Syndecan-3/Src/Cortactin	component>
+CTTN	Syndecan-3/Fyn/Cortactin	component>
+CTTN	Src/Cortactin	component>
+CTTN	Fyn/Cortactin	component>
+PSEN1	Gamma Secretase	component>
+MC4R	alpha-MSH/MC4R	component>
+MC4R	Syndecan-3/AgRP/MC4R	component>
+PTN	Syndecan-3/Src/Cortactin	-a>
+SRC	Syndecan-3/Src/Cortactin	component>
+SRC	Src/Cortactin	component>
+IL8	Syndecan-3/IL8	component>
+FYN	Syndecan-3/Fyn/Cortactin	component>
+FYN	Fyn/Cortactin	component>
+POMC	alpha-MSH/MC4R	component>
+EGFR	Syndecan-3/EGFR	component>
+SDC3	Syndecan-3/Src/Cortactin	component>
+SDC3	Syndecan-3/Neurocan	component>
+SDC3	Syndecan-3/IL8	component>
+SDC3	Syndecan-3/Fyn/Cortactin	component>
+SDC3	Syndecan-3/EGFR	component>
+SDC3	Syndecan-3/CASK	component>
+SDC3	Syndecan-3/AgRP/MC4R	component>
+SDC3	Syndecan-3/AgRP	component>
+SDC3	FGFR/FGF/Syndecan-3	component>
+RP11-540L11.1	Syndecan-3/CASK	component>
+NCAN	Syndecan-3/Neurocan	component>
+AGRP	Syndecan-3/AgRP/MC4R	component>
+AGRP	Syndecan-3/AgRP	component>
+Syndecan-3/Src/Cortactin	neuron projection morphogenesis	-ap>
+Syndecan-3/Neurocan	neuron projection morphogenesis	-ap>
+Syndecan-3/IL8	positive regulation of leukocyte migration	-ap>
+Syndecan-3/Fyn/Cortactin	long-term memory	-ap>
+Gamma Secretase	SDC3	-a>
+GO:0007205	SDC3	-a>
+FGFR/FGF/Syndecan-3	limb bud formation	-ap>

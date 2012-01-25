@@ -1,0 +1,41 @@
+smallMolecule	TPNH
+smallMolecule	7alpha,26-dihydroxycholesterol
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	27-Hydroxycholesterol
+smallMolecule	Cholesterol
+protein	HSD3B7
+protein	CYP7B1
+protein	CYP27A1
+protein	AKR1D1
+AKR1D1	TPN	-a>
+CYP7B1	7alpha,26-dihydroxycholesterol	-a>
+CYP27A1	H2O	-a>
+HSD3B7	H+	-a>
+27-Hydroxycholesterol	H2O	-a>
+27-Hydroxycholesterol	TPN	-a>
+27-Hydroxycholesterol	7alpha,26-dihydroxycholesterol	-a>
+TPNH	7alpha,26-dihydroxycholesterol	-a>
+H+	7alpha,26-dihydroxycholesterol	-a>
+O2	7alpha,26-dihydroxycholesterol	-a>
+27-Hydroxycholesterol	27-Hydroxycholesterol	-a>
+TPNH	27-Hydroxycholesterol	-a>
+Cholesterol	27-Hydroxycholesterol	-a>
+Cholesterol	TPN	-a>
+Cholesterol	H2O	-a>
+H+	27-Hydroxycholesterol	-a>
+O2	27-Hydroxycholesterol	-a>
+7alpha,26-dihydroxycholesterol	NADH	-a>
+7alpha,26-dihydroxycholesterol	H+	-a>
+DPN	NADH	-a>
+DPN	H+	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+O2	H2O	-a>
+O2	TPN	-a>

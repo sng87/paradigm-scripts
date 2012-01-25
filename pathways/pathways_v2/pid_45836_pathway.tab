@@ -1,0 +1,57 @@
+complex	G-alpha-S/AC
+complex	G-alpha-i/G-beta/G-gamma
+smallMolecule	nucleoside diphosphate
+complex	CaM/Ca ++
+complex	PKA
+protein	CaM
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	PIP2
+smallMolecule	DAG
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	PKC
+complex	Calcineurin
+protein	NFATc
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	RPS6KA3
+protein	RAF1
+protein	PLCG1
+protein	MAPK3
+protein	MAP2K1
+protein	HRAS
+protein	GNAQ
+protein	ELK1
+protein	CREB1
+G-alpha-i/G-beta/G-gamma	HRAS	-a>
+PLCG1	DAG	-a>
+G-alpha-S/AC	cAMP	-a>
+DAG	PKC	-a>
+RPS6KA3	CREB1	-a>
+HRAS	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+PKA	CREB1	-a>
+Calcineurin	NFATc	-a>
+MAP2K1	MAPK3	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+cAMP	PKA	-a>
+RAF1	MAP2K1	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+ATP	cAMP	-a>
+CaM/Ca ++	Calcineurin	-a>
+MAPK3	ELK1	-a>
+G-alpha-i/G-beta/G-gamma	G-alpha-S/AC	-a>
+GNAQ	PLCG1	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+MAPK3	RPS6KA3	-a>
+NFATc	NFATc	-a>
+PKC	RAF1	-a>
+nucleoside diphosphate	HRAS	-a>
+nucleoside diphosphate	guanosine 5`-triphosphate	-a>
+HRAS	HRAS	-a>
+HRAS	guanosine 5`-triphosphate	-a>

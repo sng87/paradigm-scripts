@@ -1,0 +1,23 @@
+protein	UniProt:Q13315 ATM
+smallMolecule	ATP
+smallMolecule	ADP
+protein	NBN
+protein	MDC1
+protein	H2AFX
+protein	BRCA1
+MDC1	BRCA1	-a>
+UniProt:Q13315 ATM	BRCA1	-a>
+UniProt:Q13315 ATM	ADP	-a>
+BRCA1	ADP	-a>
+BRCA1	BRCA1	-a>
+ATP	BRCA1	-a>
+H2AFX	H2AFX	-a>
+H2AFX	ADP	-a>
+ATP	H2AFX	-a>
+ATP	MDC1	-a>
+MDC1	MDC1	-a>
+MDC1	ADP	-a>
+ATP	NBN	-a>
+ATP	ADP	-a>
+NBN	NBN	-a>
+NBN	ADP	-a>

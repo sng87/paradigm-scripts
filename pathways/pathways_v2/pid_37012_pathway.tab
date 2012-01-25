@@ -1,0 +1,49 @@
+abstract	positive regulation of cell-cell adhesion
+abstract	lamellipodium assembly
+abstract	cell adhesion
+complex	alpha4/beta1 Integrin/VCAM1
+complex	alpha4/beta1 Integrin/Paxillin/GIT1
+complex	EPO/EPOR (dimer)
+complex	p130Cas/Crk/Dock1
+complex	alpha4/beta7 Integrin/MAdCAM1
+complex	RAC1/GDP
+complex	PAK1
+complex	alpha4/beta7 Integrin
+complex	CRKL/CBL
+complex	alpha4/beta1 Integrin
+complex	PI3K
+protein	p130Cas
+protein	FAK
+protein	VCAM1
+protein	SRC
+protein	RHOA
+protein	MADCAM1
+protein	JAK2
+protein	DOCK1
+protein	CRK
+protein	CD44
+protein	ARF6
+EPO/EPOR (dimer)	JAK2	-a>
+RHOA	alpha4/beta7 Integrin/MAdCAM1	component>
+alpha4/beta1 Integrin/Paxillin/GIT1	PAK1	-a|
+ARF6	PAK1	-a>
+p130Cas/Crk/Dock1	PAK1	-a>
+CRKL/CBL	PAK1	-a>
+PI3K	PAK1	-a>
+alpha4/beta1 Integrin	JAK2	-a>
+alpha4/beta1 Integrin/VCAM1	SRC	-a>
+VCAM1	alpha4/beta1 Integrin/VCAM1	component>
+alpha4/beta1 Integrin	alpha4/beta1 Integrin/VCAM1	component>
+alpha4/beta7 Integrin	FAK	-a>
+DOCK1	p130Cas/Crk/Dock1	component>
+CRK	p130Cas/Crk/Dock1	component>
+p130Cas	p130Cas/Crk/Dock1	component>
+SRC	p130Cas	-a>
+CD44	positive regulation of cell-cell adhesion	-ap>
+alpha4/beta7 Integrin	positive regulation of cell-cell adhesion	-ap>
+alpha4/beta1 Integrin	FAK	-a>
+MADCAM1	alpha4/beta7 Integrin/MAdCAM1	component>
+alpha4/beta7 Integrin	alpha4/beta7 Integrin/MAdCAM1	component>
+RAC1/GDP	PAK1	-a>
+alpha4/beta7 Integrin/MAdCAM1	cell adhesion	-ap>
+PAK1	lamellipodium assembly	-ap>

@@ -1,0 +1,109 @@
+protein	HIV-1 NEF
+complex	ICAD/CAD
+protein	CASP7_0-0
+protein	CASP3_0-0
+protein	IAP
+complex	NF-kappa-B
+protein	Caspase 3/6 inactivated signaling proteins
+protein	Caspase 3/6 inactivated cell cycle/DNA repair proteins
+complex	NF-kappa-B/I-kappa-B-alpha
+complex	TNF/TNF R/SODD
+protein	CASP6_0-0
+protein	Caspase 3/6 inactivated structural proteins
+complex	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+protein	Caspase 3/6 inactivated kinases
+complex	Caspase 8/Caspase 8/Caspase 8/Caspase 8
+complex	FAS/FADD/DAXX/ASK1/Caspase 8/Caspase 8/FAS L
+complex	TNF R/SODD
+abstract	protein ubiquitination
+abstract	degradation
+complex	APAF-1/Caspase 9
+complex	FAS/FADD/DAXX/Ask1/Caspase 8/Caspase 8
+protein	TRAF2
+protein	TRAF1
+protein	TRADD
+protein	TNF
+protein	RIPK1
+protein	MAPK8
+protein	MAP3K5
+protein	MAP3K14
+protein	MAP2K7
+protein	FASLG
+protein	FADD
+protein	DFFB
+protein	CYCS
+protein	CRADD
+protein	CHUK
+protein	CFLAR
+protein	CASP7
+protein	CASP6
+protein	CASP3
+protein	CASP2
+protein	BIRC3
+protein	BID
+protein	BCL2
+protein	BAG4
+APAF-1/Caspase 9	CASP7_0-0	-a>
+Caspase 8/Caspase 8/Caspase 8/Caspase 8	CASP7_0-0	-a>
+IAP	CASP6_0-0	-a>
+APAF-1/Caspase 9	CASP3_0-0	-a>
+IAP	CASP7_0-0	-a>
+CASP6_0-0	degradation	-ap>
+Caspase 8/Caspase 8/Caspase 8/Caspase 8	CASP3_0-0	-a>
+CFLAR	Caspase 8/Caspase 8/Caspase 8/Caspase 8	-a|
+CHUK	protein ubiquitination	-ap>
+IAP	CASP3_0-0	-a>
+Caspase 8/Caspase 8/Caspase 8/Caspase 8	CASP6_0-0	-a>
+CASP7_0-0	degradation	-ap>
+APAF-1/Caspase 9	CASP6_0-0	-a>
+CASP3_0-0	degradation	-ap>
+CRADD	BAG4	component>
+CRADD	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+MAP3K5	BAG4	component>
+MAP3K5	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+TRAF2	BAG4	component>
+TRAF2	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+TRAF1	BAG4	component>
+TRAF1	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+BIRC3	BAG4	component>
+BIRC3	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+RIPK1	BAG4	component>
+RIPK1	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+TRADD	BAG4	component>
+TRADD	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+FADD	BAG4	component>
+FADD	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+TNF/TNF R/SODD	BAG4	component>
+TNF/TNF R/SODD	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+CASP2	BAG4	component>
+CASP2	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	component>
+MAP3K14	CHUK	-a>
+FAS/FADD/DAXX/ASK1/Caspase 8/Caspase 8/FAS L	BID	-a>
+BID	CYCS	-a>
+HIV-1 NEF	TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	-a>
+FAS/FADD/DAXX/ASK1/Caspase 8/Caspase 8/FAS L	MAP2K7	-a>
+IAP	APAF-1/Caspase 9	-a>
+HIV-1 NEF	FAS/FADD/DAXX/ASK1/Caspase 8/Caspase 8/FAS L	-a>
+Caspase 3/6 inactivated signaling proteins	degradation	-ap>
+CASP7	CASP7_0-0	-a>
+CYCS	APAF-1/Caspase 9	-a>
+FAS/FADD/DAXX/Ask1/Caspase 8/Caspase 8	FAS/FADD/DAXX/ASK1/Caspase 8/Caspase 8/FAS L	component>
+FASLG	FAS/FADD/DAXX/ASK1/Caspase 8/Caspase 8/FAS L	component>
+Caspase 3/6 inactivated kinases	degradation	-ap>
+Caspase 3/6 inactivated cell cycle/DNA repair proteins	degradation	-ap>
+FAS/FADD/DAXX/ASK1/Caspase 8/Caspase 8/FAS L	Caspase 8/Caspase 8/Caspase 8/Caspase 8	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+NF-kappa-B/I-kappa-B-alpha	protein ubiquitination	-ap>
+MAP2K7	MAPK8	-a>
+TNF R/SODD	TNF/TNF R/SODD	component>
+TNF	TNF/TNF R/SODD	component>
+NF-kappa-B	IAP	-t>
+Caspase 3/6 inactivated structural proteins	degradation	-ap>
+TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	MAP2K7	-a>
+MAPK8	BCL2	-a>
+CASP3	CASP3_0-0	-a>
+CASP6	CASP6_0-0	-a>
+TNF R/Caspase 2/TNF/FADD/TRADD/RIP/cIAP/TRAF1/TRAF2/ASK1/RAIDD	MAP3K14	-a>
+DFFB	degradation	-ap>
+ICAD/CAD	degradation	-ap>

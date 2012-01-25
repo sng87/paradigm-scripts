@@ -1,0 +1,231 @@
+abstract	cell survival
+abstract	re-entry into mitotic cell cycle
+abstract	cytokine secretion
+abstract	actin cytoskeleton organization
+abstract	ubiquitin-dependent protein catabolic process
+complex	PAG1/CSK
+smallMolecule	DAG
+complex	NF-kappa-B/RelA
+complex	IKK complex
+complex	B-cell antigen/BCR complex/LYN
+complex	NF-kappa-B/RelA/I kappa B beta
+complex	RasGAP/p62DOK/SHIP
+protein	ERK1-2-active
+complex	B-cell antigen/BCR complex
+protein	PKC
+complex	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2
+protein	ERK1-2
+complex	CD72/SHP1
+complex	BCR complex
+complex	AP-1
+complex	B-cell antigen/BCR complex/FcgammaRIIB
+complex	Calcineurin
+complex	PI3K/BCAP/CD19
+complex	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72
+protein	BCAP
+complex	B-cell antigen/BCR complex/LYN/SYK
+complex	NF-kappa-B/RelA/I kappa B alpha
+protein	SHIP
+protein	B-cell antigen
+complex	B-cell antigen/BCR complex/LYN/SYK/BLNK
+smallMolecule	PI-3-4-5-P3
+complex	SHC/GRB2/SOS1
+protein	MEKK1
+complex	RasGAP/Csk
+protein	NFATc
+complex	CARD11/BCL10/MALT1/TAK1
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+complex	Bam32/HPK1
+protein	CaMK
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV2
+protein	TRAF6
+protein	SYK
+protein	SH3BP5
+protein	RASA1
+protein	RAF1
+protein	RAC1
+protein	PTPRC
+protein	PTPN6
+protein	PTEN
+protein	POU2F2
+protein	PLCG2
+protein	PDPK1
+protein	NFKBIB
+protein	NFKBIA
+protein	MAPK8
+protein	MAPK3
+protein	MAPK14
+protein	MAP4K1
+protein	MAP3K7
+protein	MAP2K1
+protein	MALT1
+protein	LYN
+protein	JUN
+protein	IKBKG
+protein	IKBKB
+protein	IBTK
+protein	HRAS
+protein	FOS
+protein	FCGR2B
+protein	ETS1
+protein	ELK1
+protein	DOK1
+protein	DAPP1
+protein	CSNK2A1
+protein	CSK
+protein	CHUK
+protein	CD72
+protein	CD22
+protein	CD19
+protein	CARD11
+protein	CALM1
+protein	BTK
+protein	BLNK
+protein	BCL2A1
+protein	BCL10
+protein	AKT1
+MAP3K7	MEKK1	-a>
+Bam32/HPK1	MEKK1	-a>
+Ca2+	PKC	-a>
+SHIP	BTK	-a|
+MAP2K1	ERK1-2-active	-a>
+SHIP	IP3	-a|
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	IP3	-a>
+PTPN6	B-cell antigen/BCR complex/LYN/SYK	component>
+VAV2	PI3K/BCAP/CD19	component>
+B-cell antigen/BCR complex/LYN/SYK	PI3K/BCAP/CD19	component>
+PAG1/CSK	B-cell antigen/BCR complex/LYN	component>
+PTPRC	B-cell antigen/BCR complex/LYN	component>
+B-cell antigen/BCR complex/FcgammaRIIB	RasGAP/p62DOK/SHIP	component>
+TRAF6	CHUK	component>
+AKT1	CHUK	component>
+CARD11/BCL10/MALT1/TAK1	CHUK	component>
+DAPP1	NFATc	-a|
+VAV2	NFATc	-a>
+RasGAP/p62DOK/SHIP	GDP	-a|
+PKC	GDP	-a>
+SHC/GRB2/SOS1	GDP	-a>
+PTEN	PI-3-4-5-P3	-a|
+PI3K	PI-3-4-5-P3	-a>
+NF-kappa-B/RelA	NF-kappa-B/RelA	component>
+IKBKB	NF-kappa-B/RelA	component>
+CSNK2A1	JUN	-a|
+MAPK3	JUN	-a>
+NFKBIB	NFKBIB	-t|
+NFATc	cytokine secretion	-ap>
+CD19	VAV2	-a>
+NFKBIA	NFKBIA	-t|
+RasGAP/Csk	B-cell antigen/BCR complex/LYN	-a>
+PI3K	DAPP1	-a>
+NF-kappa-B/RelA	NFKBIB	component>
+IKBKB	NFKBIB	component>
+IBTK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+SH3BP5	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+B-cell antigen/BCR complex/FcgammaRIIB	RasGAP/Csk	component>
+ELK1	re-entry into mitotic cell cycle	-ap>
+B-cell antigen	B-cell antigen/BCR complex	component>
+BCR complex	B-cell antigen/BCR complex	component>
+CaMK	ETS1	-a>
+B-cell antigen/BCR complex/LYN/SYK/BLNK	SHC/GRB2/SOS1	-a>
+ERK1-2-active	ERK1-2-active	-a>
+Ca2+	Ca2+	-a>
+B-cell antigen/BCR complex/LYN	CD19	-a>
+RAC1	MEKK1	-a>
+PKC	CARD11	-a>
+DAG	PKC	-a>
+MEKK1	MAPK8	-a>
+PI-3-4-5-P3	BTK	-a>
+ERK1-2	ERK1-2-active	-a>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	IP3	-a>
+HRAS	RAF1	-a>
+B-cell antigen/BCR complex/LYN	B-cell antigen/BCR complex/LYN/SYK	component>
+SYK	B-cell antigen/BCR complex/LYN/SYK	component>
+PI-3-4-5-P3	AKT1	-a>
+MAP3K7	CARD11/BCL10/MALT1/TAK1	component>
+MALT1	CARD11/BCL10/MALT1/TAK1	component>
+BCL10	CARD11/BCL10/MALT1/TAK1	component>
+CARD11	CARD11/BCL10/MALT1/TAK1	component>
+CD19	PI3K	component>
+CD19	PI3K/BCAP/CD19	component>
+BCAP	PI3K	component>
+BCAP	PI3K/BCAP/CD19	component>
+PI3K	PI3K	component>
+PI3K	PI3K/BCAP/CD19	component>
+CALM1	CaMK	-a>
+IP3	Ca2+	-a>
+PKC	ELK1	-a>
+RAF1	MAP2K1	-a>
+NFKBIA	NF-kappa-B/RelA	-a|
+RAC1	actin cytoskeleton organization	-ap>
+LYN	B-cell antigen/BCR complex/LYN	component>
+B-cell antigen/BCR complex	B-cell antigen/BCR complex/LYN	component>
+SHIP	RasGAP/p62DOK/SHIP	component>
+DOK1	RasGAP/p62DOK/SHIP	component>
+RASA1	RasGAP/p62DOK/SHIP	component>
+IKK complex	IKBKG	component>
+IKK complex	IKBKB	component>
+IKK complex	CHUK	component>
+B-cell antigen/BCR complex/LYN	CD22	-a>
+VAV2	RAC1	-a>
+ELK1	FOS	-a>
+NFKBIA	ubiquitin-dependent protein catabolic process	-ap>
+Calcineurin	NFATc	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+CD22	PTPN6	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+NF-kappa-B/RelA/I kappa B alpha	NFKBIA	component>
+NF-kappa-B/RelA/I kappa B alpha	NF-kappa-B/RelA	component>
+POU2F2	POU2F2	-a>
+POU2F2	BCL2A1	-a>
+BCL2A1	POU2F2	-a>
+NF-kappa-B/RelA	BCL2A1	-a>
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	cell survival	-ap>
+NFKBIA	NFKBIA	-a>
+MAPK8	JUN	-a>
+NF-kappa-B/RelA	NFKBIB	-t>
+NFATc	NFATc	-a>
+PI-3-4-5-P3	PDPK1	-a>
+Ca2+	CALM1	-a>
+FCGR2B	B-cell antigen/BCR complex/FcgammaRIIB	component>
+B-cell antigen/BCR complex	B-cell antigen/BCR complex/FcgammaRIIB	component>
+NFKBIB	NFKBIB	-a>
+cytokine secretion	cytokine secretion	-ap|
+B-cell antigen/BCR complex/LYN/SYK/BLNK	VAV2	-a>
+NF-kappa-B/RelA	NFKBIA	-t>
+FOS	AP-1	component>
+JUN	AP-1	component>
+PTPN6	CD72/SHP1	component>
+PTPN6	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	CD72/SHP1	component>
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+DAPP1	Bam32/HPK1	component>
+MAP4K1	Bam32/HPK1	component>
+MAPK14	JUN	-a>
+CALM1	Calcineurin	-a>
+PDPK1	AKT1	-a>
+BLNK	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+B-cell antigen/BCR complex/LYN/SYK	B-cell antigen/BCR complex/LYN/SYK/BLNK	component>
+PI3K/BCAP/CD19	AKT1	-a>
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+CD72	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2/CD72	component>
+AP-1	re-entry into mitotic cell cycle	-ap>
+B-cell antigen/BCR complex/LYN	B-cell antigen/BCR complex/LYN	-a>
+B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	BCAP	-a>
+B-cell antigen/BCR complex/LYN	DAPP1	-a>
+NF-kappa-B/RelA/I kappa B beta	NFKBIB	component>
+MEKK1	MAPK14	-a>
+B-cell antigen/BCR complex/LYN/SYK/BLNK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+BTK	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+PLCG2	B-cell antigen/BCR complex/Btk/LYN/SYK/BLNK/PLCgamma2	component>
+CSK	RasGAP/Csk	component>
+RASA1	RasGAP/Csk	component>
+NFKBIB	ubiquitin-dependent protein catabolic process	-ap>

@@ -1,0 +1,178 @@
+abstract	Amino Acids
+abstract	reduction of cytosolic calcium ion concentration
+abstract	positive regulation of translational initiation
+abstract	lipid biosynthetic process
+abstract	macroautophagy
+abstract	translational initiation
+abstract	regulation of actin cytoskeleton organization
+abstract	regulation of protein stability
+abstract	rRNA transcription
+abstract	degradation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	RagA-B/GTP/RagC-D/GDP
+complex	eIF3/p70S6K
+protein	MEK1-2
+complex	mTORC1/PGC1A/YY1
+protein	beta TrCP1-2
+complex	RAS family/GTP
+complex	SKAR/EJC/mRNA cap binding complex
+complex	mTORC1/PRAS40/DEPTOR/PML
+smallMolecule	Phosphatidylcholine
+protein	RAF1-BRAF
+protein	ERK1-2-active
+complex	CDK2/Cyclin E1
+protein	MEK1-2-active
+protein	ERK1-2
+complex	mTOR/GBL/PRAS40/DEPTOR
+complex	eIF3
+complex	4E-BP1/eIF4E
+protein	PLD1-2
+complex	mTOR/GBL/SIN1/PROTOR1/DEPTOR
+complex	PDCD4/eIF4A
+complex	mTORC2
+complex	PAK1
+smallMolecule	phosphate
+complex	TSC1/TSC2
+complex	TSC1/TSC2/IKK beta
+complex	TSC1/TSC2/14-3-3 family
+complex	mTORC1/ULK1-2/ATG13/FIP200
+complex	mTORC1
+smallMolecule	Phosphatidic acid
+complex	mTORC2/DEPTOR
+complex	ULK1-2/ATG13/FIP200
+complex	SKAR/EJC/mRNA cap binding complex/p70S6K
+complex	mTORC1/PRAS40/DEPTOR
+complex	RhoA/GTP
+complex	RHEB/GTP
+complex	REDD1/14-3-3 family
+complex	PRAS40/14-3-3 family
+protein	14-3-3 family
+protein	DEPTOR
+complex	mTORC1/PRAS40/DEPTOR/14-3-3 family
+complex	RHEB/GTP/BNIP3
+smallMolecule	Choline
+protein	YY1
+protein	TSC2
+protein	TSC1
+protein	SREBF1
+protein	SGK1
+protein	RRN3
+protein	RPS6KB1
+protein	RPS6KA1
+protein	RICTOR
+protein	PXN
+protein	PRKCA
+protein	PPARGC1A
+protein	PML
+protein	PDPK1
+protein	PDCD4
+protein	KIAA1303
+protein	IRS1
+protein	IKBKB
+protein	EIF4B
+protein	EIF4A1
+protein	EEF2K
+protein	EEF2
+protein	DDIT4
+protein	CYCS
+protein	CLIP1
+protein	BNIP3
+protein	AKT1S1
+protein	AKT1
+TSC1/TSC2	mTORC2	component>
+RagA-B/GTP/RagC-D/GDP	mTORC1/PRAS40/DEPTOR	-a>
+mTORC1	RPS6KB1	component>
+RPS6KB1	EEF2K	-a>
+TSC1/TSC2	RHEB/GTP	-a>
+Phosphatidic acid	mTORC2/DEPTOR	component>
+AKT1	TSC1	component>
+PLD1-2	Phosphatidic acid	-a>
+Phosphatidic acid	mTORC1/PRAS40/DEPTOR	component>
+MEK1-2-active	ERK1-2-active	-a>
+RPS6KA1	TSC1/TSC2	-a>
+CDK2/Cyclin E1	RRN3	-a>
+mTORC1	IRS1	-a>
+AKT1	mTORC1	component>
+RHEB/GTP	mTORC1	component>
+mTORC2	regulation of actin cytoskeleton organization	-ap>
+mTORC2	regulation of protein stability	-ap>
+beta TrCP1-2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+RAF1-BRAF	MEK1-2-active	-a>
+RPS6KB1	PDCD4	component>
+mTORC1	4E-BP1/eIF4E	-a>
+ERK1-2-active	TSC1	component>
+4E-BP1/eIF4E	translational initiation	-ap>
+EEF2K	EEF2	-a>
+mTORC1/PGC1A/YY1	CYCS	-t>
+mTORC2/DEPTOR	DEPTOR	component>
+mTORC2/DEPTOR	mTORC2	component>
+RAS family/GTP	RAF1-BRAF	-a>
+RPS6KB1	EIF4B	-a>
+Amino Acids	mTORC1/PRAS40/DEPTOR	-a>
+eIF3/p70S6K	eIF3	component>
+eIF3/p70S6K	RPS6KB1	component>
+mTORC1	SREBF1	-a>
+mTORC2	AKT1	-a>
+reduction of cytosolic calcium ion concentration	EEF2K	-a>
+PDPK1	RPS6KB1	-a>
+TSC2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+RHEB/GTP	phosphate	-a>
+RHEB/GTP	RHEB/GTP	-a>
+SKAR/EJC/mRNA cap binding complex/p70S6K	positive regulation of translational initiation	-ap>
+RICTOR	mTORC2/DEPTOR	component>
+mTOR/GBL/SIN1/PROTOR1/DEPTOR	mTORC2/DEPTOR	component>
+SREBF1	lipid biosynthetic process	-ap>
+mTORC1	CLIP1	-a>
+BNIP3	RHEB/GTP/BNIP3	component>
+RHEB/GTP	RHEB/GTP/BNIP3	component>
+IKBKB	TSC1/TSC2/IKK beta	component>
+TSC1/TSC2	TSC1/TSC2/IKK beta	component>
+Phosphatidylcholine	Choline	-a>
+Phosphatidylcholine	Phosphatidic acid	-a>
+RPS6KB1	SKAR/EJC/mRNA cap binding complex/p70S6K	component>
+SKAR/EJC/mRNA cap binding complex	SKAR/EJC/mRNA cap binding complex/p70S6K	component>
+KIAA1303	mTORC1/PRAS40/DEPTOR	component>
+mTOR/GBL/PRAS40/DEPTOR	mTORC1/PRAS40/DEPTOR	component>
+ULK1-2/ATG13/FIP200	mTORC1/ULK1-2/ATG13/FIP200	component>
+mTORC1	mTORC1/ULK1-2/ATG13/FIP200	component>
+ERK1-2	ERK1-2-active	-a>
+PDPK1	SGK1	-a>
+DDIT4	REDD1/14-3-3 family	component>
+DDIT4	TSC1/TSC2	component>
+TSC1/TSC2/14-3-3 family	REDD1/14-3-3 family	component>
+TSC1/TSC2/14-3-3 family	TSC1/TSC2	component>
+mTORC1/ULK1-2/ATG13/FIP200	macroautophagy	-ap|
+TSC1/TSC2	TSC1/TSC2	-a>
+DEPTOR	degradation	-ap>
+mTORC1	RRN3	-a>
+ERK1-2-active	RPS6KA1	-a>
+PML	mTORC1/PRAS40/DEPTOR/PML	component>
+mTORC1/PRAS40/DEPTOR	mTORC1/PRAS40/DEPTOR/PML	component>
+RRN3	rRNA transcription	-ap>
+RPS6KB1	IRS1	-a>
+mTORC1/PRAS40/DEPTOR	DEPTOR	component>
+mTORC1/PRAS40/DEPTOR	AKT1S1	component>
+mTORC1/PRAS40/DEPTOR	mTORC1	component>
+PAK1	regulation of actin cytoskeleton organization	-ap>
+RhoA/GTP	regulation of actin cytoskeleton organization	-ap>
+PXN	regulation of actin cytoskeleton organization	-ap>
+PRKCA	regulation of protein stability	-ap>
+PDCD4	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+14-3-3 family	PRAS40/14-3-3 family	component>
+AKT1S1	PRAS40/14-3-3 family	component>
+MEK1-2	MEK1-2-active	-a>
+mTORC2	SGK1	-a>
+YY1	mTORC1/PGC1A/YY1	component>
+PPARGC1A	mTORC1/PGC1A/YY1	component>
+mTORC1	mTORC1/PGC1A/YY1	component>
+PDCD4/eIF4A	EIF4A1	component>
+PDCD4/eIF4A	PDCD4	component>
+4E-BP1/eIF4E	4E-BP1/eIF4E	-a>
+TSC1/TSC2	TSC2	component>
+TSC1/TSC2	TSC1	component>
+EIF4B	EIF4A1	-a>
+mTORC1/PGC1A/YY1	PPARGC1A	-t>
+14-3-3 family	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+mTORC1/PRAS40/DEPTOR	mTORC1/PRAS40/DEPTOR/14-3-3 family	component>
+mTORC2	PRKCA	-a>
+mTORC1	RPS6KB1	-a>

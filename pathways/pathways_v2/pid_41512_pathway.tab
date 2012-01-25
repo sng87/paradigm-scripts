@@ -1,0 +1,17 @@
+protein	UniProt:Q8TAG9 EXOC6
+complex	Exocyst Complex
+protein	EXOC8
+protein	EXOC7
+protein	EXOC5
+protein	EXOC4
+protein	EXOC3
+protein	EXOC2
+protein	EXOC1
+EXOC2	Exocyst Complex	component>
+UniProt:Q8TAG9 EXOC6	Exocyst Complex	component>
+EXOC7	Exocyst Complex	component>
+EXOC5	Exocyst Complex	component>
+EXOC4	Exocyst Complex	component>
+EXOC8	Exocyst Complex	component>
+EXOC3	Exocyst Complex	component>
+EXOC1	Exocyst Complex	component>

@@ -1,0 +1,59 @@
+complex	I-FLICE/RIP2
+protein	PRKDC (cleaved)_0-0
+complex	FAS/DAXX/FADD/Caspase 10/FAS L
+protein	CASP7_0-0
+protein	CASP3_0-0
+protein	MAP3K1 (cleaved)_0-0
+complex	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10
+complex	FAS/DAXX/FADD/Caspase 10
+protein	PAK2 (cleaved)_0-0
+protein	PAK1 (cleaved)_0-0
+protein	CASP8_0-0
+smallMolecule	ceramide
+protein	RB1 (cleaved)_0-0
+protein	RB1
+protein	PTPN13
+protein	PRKDC
+protein	PAK2
+protein	PAK1
+protein	MAPK8
+protein	MAP3K7
+protein	MAP3K1
+protein	MAP2K4
+protein	FASLG
+protein	FAF1
+protein	CASP8
+protein	CASP7
+protein	CASP3
+CASP3_0-0	RB1 (cleaved)_0-0	-a>
+FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	CASP7_0-0	-a>
+CASP3_0-0	PAK1 (cleaved)_0-0	-a>
+I-FLICE/RIP2	CASP8_0-0	-a|
+PTPN13	CASP8_0-0	-a|
+CASP8_0-0	CASP7_0-0	-a>
+CASP8_0-0	CASP3_0-0	-a>
+CASP3_0-0	PRKDC (cleaved)_0-0	-a>
+PTPN13	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+CASP7_0-0	MAP3K1 (cleaved)_0-0	-a>
+FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	MAP2K4	-a>
+RB1	RB1 (cleaved)_0-0	-a>
+PAK1 (cleaved)_0-0	MAP3K1	-a>
+ceramide	MAP3K7	-a>
+MAP3K7	MAP2K4	-a>
+MAP2K4	MAPK8	-a>
+PAK2	PAK2 (cleaved)_0-0	-a>
+PAK2	PAK1 (cleaved)_0-0	-a>
+PAK1	PAK2 (cleaved)_0-0	-a>
+PAK1	PAK1 (cleaved)_0-0	-a>
+FAS/DAXX/FADD/Caspase 10	FAS/DAXX/FADD/Caspase 10/FAS L	component>
+FASLG	FAS/DAXX/FADD/Caspase 10/FAS L	component>
+PAK2 (cleaved)_0-0	MAP3K1	-a>
+CASP8	CASP8_0-0	-a>
+MAP3K1	MAP2K4	-a>
+I-FLICE/RIP2	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	-a>
+CASP7	CASP7_0-0	-a>
+CASP3	CASP3_0-0	-a>
+PRKDC	PRKDC (cleaved)_0-0	-a>
+FAS/DAXX/FADD/Caspase 10/FAS L	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+FAF1	FAS L/FAS/DAXX/FADD/FAF1/Caspase 10	component>
+MAP3K1	MAP3K1 (cleaved)_0-0	-a>

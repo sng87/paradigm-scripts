@@ -1,0 +1,14 @@
+complex	SNCA/ubiquitin
+protein	Lewy Body
+abstract	protein ubiquitination
+abstract	cell death
+abstract	degradation
+protein	SNCA
+protein	PARK2
+PARK2	protein ubiquitination	-ap>
+SNCA/ubiquitin	protein ubiquitination	-ap>
+SNCA	protein ubiquitination	-ap>
+SNCA	Lewy Body	-a>
+SNCA	SNCA	-a>
+SNCA/ubiquitin	degradation	-ap>
+Lewy Body	cell death	-ap>

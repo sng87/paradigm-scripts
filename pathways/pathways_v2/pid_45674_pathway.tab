@@ -1,0 +1,22 @@
+abstract	secretion
+complex	GPCR/G-alpha-q
+complex	Ligand/GPCR/G-alpha-q
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	Ligand
+protein	PKC
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	PPP1R14A
+protein	PLCB1
+DAG	PKC	-a>
+PLCB1	DAG	-a>
+IP3	Ca2+	-a>
+GPCR/G-alpha-q	Ligand/GPCR/G-alpha-q	component>
+Ligand	Ligand/GPCR/G-alpha-q	component>
+PKC	PPP1R14A	-a>
+Ligand/GPCR/G-alpha-q	PLCB1	-a>
+Ca2+	PKC	-a>
+PPP1R14A	secretion	-ap>
+PIP2	IP3	-a>
+PIP2	DAG	-a>

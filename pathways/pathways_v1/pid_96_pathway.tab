@@ -1,0 +1,42 @@
+protein	MAP2K1
+protein	MAP3K8
+protein	PTPN7
+protein	MAPK1
+protein	MAPK3
+protein	ELK1
+protein	PRKCA
+protein	BRAF
+protein	PRKCB
+protein	RAF1
+protein	KRAS
+protein	KRAS
+protein	HRAS
+protein	NRAS
+protein	FOS
+complex	RAS family/GTP
+complex	ERK1-2/ELK1
+chemical	mol:GTP
+mol:GTP	RAS family/GTP	component>
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+MAP3K8	MAP2K1	-a>
+PTPN7	MAPK1	-a>
+PTPN7	MAPK3	-a>
+MAPK1	FOS	-a>
+MAPK1	ERK1-2/ELK1	component>
+MAPK3	FOS	-a>
+MAPK3	ERK1-2/ELK1	component>
+ELK1	ERK1-2/ELK1	component>
+PRKCA	BRAF	-a>
+PRKCA	RAF1	-a>
+BRAF	MAP2K1	-a>
+PRKCB	BRAF	-a>
+PRKCB	RAF1	-a>
+RAF1	MAP2K1	-a>
+KRAS	RAS family/GTP	component>
+KRAS	RAS family/GTP	component>
+HRAS	RAS family/GTP	component>
+NRAS	RAS family/GTP	component>
+RAS family/GTP	BRAF	-a>
+RAS family/GTP	RAF1	-a>
+ERK1-2/ELK1	FOS	-t>

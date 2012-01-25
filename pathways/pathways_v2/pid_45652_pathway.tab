@@ -1,0 +1,56 @@
+abstract	protein modification process
+complex	Sumo target protein/SUMO 1
+complex	SUMO1/Ubc9
+complex	Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3
+complex	SUMO2/3/Ubc9
+complex	Sumo target protein/SUMO2/3SUMO2/3
+complex	SUMO2/3/SAE1/SAE2
+complex	SAE1/SAE2
+complex	SUMO1/SAE1/SAE2
+complex	Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3/SUMO1
+complex	SUMO2/3
+protein	SUMO target protein
+complex	Sumo target protein/SUMO2/3
+smallMolecule	AMP
+smallMolecule	ATP
+protein	UBE2I
+protein	UBA2
+protein	SUMO1
+protein	SAE1
+ATP	SUMO1/SAE1/SAE2	component>
+SAE1/SAE2	SUMO1/SAE1/SAE2	component>
+SUMO1	SUMO1/SAE1/SAE2	component>
+SUMO1	AMP	component>
+Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3/SUMO1	protein modification process	-ap>
+ATP	AMP	component>
+ATP	SUMO2/3/SAE1/SAE2	component>
+SAE1/SAE2	AMP	component>
+SAE1/SAE2	SUMO2/3/SAE1/SAE2	component>
+SUMO2/3	AMP	component>
+SUMO2/3	SUMO2/3/SAE1/SAE2	component>
+Sumo target protein/SUMO 1	protein modification process	-ap>
+SUMO1/SAE1/SAE2	SAE1/SAE2	component>
+SUMO1/SAE1/SAE2	SUMO1/Ubc9	component>
+UBE2I	SUMO1/Ubc9	component>
+SUMO2/3/Ubc9	Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3	component>
+Sumo target protein/SUMO2/3SUMO2/3	UBE2I	component>
+Sumo target protein/SUMO2/3SUMO2/3	Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3	component>
+SUMO target protein	Sumo target protein/SUMO2/3	-a>
+SUMO2/3/Ubc9	UBE2I	-a>
+SUMO2/3/Ubc9	Sumo target protein/SUMO2/3	-a>
+UBE2I	SAE1/SAE2	component>
+UBE2I	SUMO2/3/Ubc9	component>
+SUMO2/3/SAE1/SAE2	SAE1/SAE2	component>
+SUMO2/3/SAE1/SAE2	SUMO2/3/Ubc9	component>
+UBA2	SAE1/SAE2	component>
+SAE1	SAE1/SAE2	component>
+SUMO1/Ubc9	UBE2I	-a>
+SUMO1/Ubc9	Sumo target protein/SUMO 1	-a>
+SUMO target protein	UBE2I	-a>
+SUMO target protein	Sumo target protein/SUMO 1	-a>
+SUMO2/3/Ubc9	Sumo target protein/SUMO2/3SUMO2/3	component>
+SUMO2/3/Ubc9	UBE2I	component>
+Sumo target protein/SUMO2/3	Sumo target protein/SUMO2/3SUMO2/3	component>
+Sumo target protein/SUMO2/3	UBE2I	component>
+Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3	Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3/SUMO1	component>
+SUMO1	Sumo target protein/SUMO2/3/SUMO2/3/SUMO2/3/SUMO1	component>

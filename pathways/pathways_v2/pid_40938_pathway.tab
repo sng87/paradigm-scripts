@@ -1,0 +1,9 @@
+smallMolecule	ATP
+smallMolecule	ADP
+protein	FOXO1
+protein	AKT1
+AKT1	FOXO1	-a>
+FOXO1	ADP	-a>
+ATP	ADP	-a>
+ATP	FOXO1	-a>
+FOXO1	FOXO1	-a>

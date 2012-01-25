@@ -1,0 +1,19 @@
+smallMolecule	deoxyadenosine
+smallMolecule	deoxyinosine
+smallMolecule	Purine-6-ol
+smallMolecule	H2O
+smallMolecule	2-Deoxy-D-ribose 1-phosphate
+complex	PNPase homotrimer
+smallMolecule	NH3
+smallMolecule	phosphate
+protein	ADA
+PNPase homotrimer	2-Deoxy-D-ribose 1-phosphate	-a>
+ADA	deoxyinosine	-a>
+deoxyinosine	Purine-6-ol	-a>
+deoxyinosine	2-Deoxy-D-ribose 1-phosphate	-a>
+phosphate	Purine-6-ol	-a>
+phosphate	2-Deoxy-D-ribose 1-phosphate	-a>
+deoxyadenosine	NH3	-a>
+deoxyadenosine	deoxyinosine	-a>
+H2O	NH3	-a>
+H2O	deoxyinosine	-a>

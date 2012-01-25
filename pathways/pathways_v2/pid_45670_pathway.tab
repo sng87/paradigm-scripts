@@ -1,0 +1,27 @@
+abstract	spermatogenesis
+complex	G-alpha-s/GTP
+complex	FSHR/G-alpha-S/G-beta/G-gamma/GDP
+complex	FSH/FSHR/G-beta/G-gamma
+complex	CREM/ACT/Kif17b
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	XPO1
+protein	KIF17
+protein	FSHB
+protein	FHL5
+protein	CREM
+protein	ADCY1
+cAMP	CREM/ACT/Kif17b	component>
+ADCY1	cAMP	-a>
+KIF17	CREM/ACT/Kif17b	component>
+FHL5	CREM/ACT/Kif17b	component>
+CREM	CREM/ACT/Kif17b	component>
+CREM/ACT/Kif17b	CREM/ACT/Kif17b	-a>
+CREM/ACT/Kif17b	spermatogenesis	-ap>
+G-alpha-s/GTP	ADCY1	-a>
+XPO1	CREM/ACT/Kif17b	-a>
+ATP	cAMP	-a>
+FSHB	FSH/FSHR/G-beta/G-gamma	component>
+FSHB	G-alpha-s/GTP	component>
+FSHR/G-alpha-S/G-beta/G-gamma/GDP	FSH/FSHR/G-beta/G-gamma	component>
+FSHR/G-alpha-S/G-beta/G-gamma/GDP	G-alpha-s/GTP	component>

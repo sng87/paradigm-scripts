@@ -1,0 +1,15 @@
+complex	Par3:Par6:aPKC complex
+complex	JAM-A:PAR-aPKC complex
+complex	claudin trans-homodimer
+complex	CRB3:PALS1:PATJ complex
+protein	Claudin
+protein	MPP5
+protein	INADL
+protein	F11R
+protein	CRB3
+Claudin	claudin trans-homodimer	component>
+Par3:Par6:aPKC complex	JAM-A:PAR-aPKC complex	component>
+F11R	JAM-A:PAR-aPKC complex	component>
+INADL	CRB3:PALS1:PATJ complex	component>
+CRB3	CRB3:PALS1:PATJ complex	component>
+MPP5	CRB3:PALS1:PATJ complex	component>

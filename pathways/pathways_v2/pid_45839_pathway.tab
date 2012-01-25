@@ -1,0 +1,69 @@
+abstract	M phase
+complex	CDK4/cyclin D1
+complex	CDK6/cyclin D3
+complex	E2F-1/DP-1
+complex	E2F-1/p107
+complex	CDC2/cyclin B
+complex	Cyclin E/CDK2
+complex	CDK7/cyclin H
+complex	CDK4/cyclin D2
+complex	CDC2/cyclin A
+complex	RB/E2F-1
+complex	CYCLIN A/CDK2
+abstract	S phase of mitotic cell cycle
+abstract	G1 phase of mitotic cell cycle
+abstract	G2 phase of mitotic cell cycle
+protein	TFDP1
+protein	RBL1
+protein	RB1
+protein	E2F1
+protein	CDKN2D
+protein	CDKN2C
+protein	CDKN2B
+protein	CDKN2A
+protein	CDKN1B
+protein	CDKN1A
+protein	CDC25A
+protein	CDC2
+protein	CCNA1
+CDK7/cyclin H	CYCLIN A/CDK2	-a>
+CDKN2A	CDK6/cyclin D3	-a>
+CDC25A	CDC2/cyclin A	-a>
+Cyclin E/CDK2	E2F1	component>
+CDKN1A	CDK4/cyclin D1	-a>
+CDC25A	CYCLIN A/CDK2	-a>
+CDK4/cyclin D1	E2F1	component>
+CDKN2A	CDK4/cyclin D2	-a>
+CDC25A	CDC2/cyclin B	-a>
+CDKN1B	CYCLIN A/CDK2	-a>
+CDKN2D	CDK4/cyclin D1	-a>
+CDKN1A	CDK4/cyclin D2	-a>
+CYCLIN A/CDK2	E2F1	component>
+S phase of mitotic cell cycle	E2F1	component>
+CDKN1B	Cyclin E/CDK2	-a>
+CDKN2C	CDK4/cyclin D1	-a>
+CDKN2B	CDK4/cyclin D1	-a>
+CDKN1A	Cyclin E/CDK2	-a>
+CDKN1A	CYCLIN A/CDK2	-a>
+CDKN2A	CDK4/cyclin D1	-a>
+M phase	CDC2/cyclin A	component>
+CDK6/cyclin D3	E2F1	component>
+CDC2/cyclin A	E2F1	component>
+G2 phase of mitotic cell cycle	E2F1	component>
+CDK4/cyclin D2	E2F1	component>
+G1 phase of mitotic cell cycle	E2F1	component>
+TFDP1	E2F-1/DP-1	component>
+E2F1	E2F-1/DP-1	component>
+G1 phase of mitotic cell cycle	CDK6/cyclin D3	-a>
+G2 phase of mitotic cell cycle	CDC2/cyclin A	-a>
+E2F-1/p107	RBL1	component>
+E2F-1/p107	E2F1	component>
+G2 phase of mitotic cell cycle	CDC2/cyclin B	-a>
+G1 phase of mitotic cell cycle	CDK4/cyclin D2	-a>
+G1 phase of mitotic cell cycle	Cyclin E/CDK2	-a>
+S phase of mitotic cell cycle	CYCLIN A/CDK2	-a>
+G1 phase of mitotic cell cycle	CDK4/cyclin D1	-a>
+CCNA1	CDC2/cyclin A	component>
+CDC2	CDC2/cyclin A	component>
+RB/E2F-1	RB1	component>
+RB/E2F-1	E2F1	component>

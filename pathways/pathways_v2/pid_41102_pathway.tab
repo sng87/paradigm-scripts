@@ -1,0 +1,58 @@
+complex	branched-chain amino acid aminotransferase, mitochondrial, holoenzyme
+smallMolecule	2-Oxoglutarate
+complex	Empty Glutamate Synaptic Vesicle
+smallMolecule	2-Oxoisocaproate
+complex	Glutamate loaded synaptic vesicle
+complex	branched-chain amino acid aminotransferase, cytosolic, holoenzyme
+smallMolecule	NH4+
+smallMolecule	L-Leucine
+complex	SNARE complex
+smallMolecule	H2O
+complex	Rab3-RIM complex
+complex	Docked Glutamate Loaded Synaptic Vesicle
+smallMolecule	L-Glutamine
+protein	UniProt:P60880-1 SNAP25
+protein	UniProt:P61764-1 STXBP1
+protein	UniProt:Q16623-3 STX1A
+smallMolecule	L-Glutamate
+protein	UniProt:Q5T0N5-1 FNBP1L
+smallMolecule	Na+
+protein	UNC13B
+protein	SYT1
+protein	SLC17A7
+protein	RIMS1
+protein	GLS
+protein	CPLX1
+GLS	NH4+	-a>
+branched-chain amino acid aminotransferase, mitochondrial, holoenzyme	2-Oxoisocaproate	-a>
+branched-chain amino acid aminotransferase, cytosolic, holoenzyme	2-Oxoisocaproate	-a>
+UniProt:Q5T0N5-1 FNBP1L	Na+	-a>
+UNC13B	Docked Glutamate Loaded Synaptic Vesicle	component>
+L-Glutamine	L-Glutamate	-a>
+L-Glutamine	NH4+	-a>
+H2O	L-Glutamate	-a>
+H2O	NH4+	-a>
+Docked Glutamate Loaded Synaptic Vesicle	SYT1	component>
+Docked Glutamate Loaded Synaptic Vesicle	SLC17A7	component>
+Docked Glutamate Loaded Synaptic Vesicle	SNARE complex	component>
+Docked Glutamate Loaded Synaptic Vesicle	Rab3-RIM complex	component>
+Docked Glutamate Loaded Synaptic Vesicle	UniProt:P61764-1 STXBP1	component>
+Docked Glutamate Loaded Synaptic Vesicle	CPLX1	component>
+Docked Glutamate Loaded Synaptic Vesicle	L-Glutamate	component>
+L-Glutamate	L-Glutamate	-a>
+Empty Glutamate Synaptic Vesicle	Glutamate loaded synaptic vesicle	-a>
+L-Glutamate	Glutamate loaded synaptic vesicle	-a>
+2-Oxoglutarate	L-Glutamate	-a>
+2-Oxoglutarate	2-Oxoisocaproate	-a>
+L-Leucine	L-Glutamate	-a>
+L-Leucine	2-Oxoisocaproate	-a>
+Na+	L-Glutamine	-a>
+Na+	Na+	-a>
+L-Glutamine	L-Glutamine	-a>
+L-Glutamine	Na+	-a>
+Glutamate loaded synaptic vesicle	Docked Glutamate Loaded Synaptic Vesicle	component>
+CPLX1	Docked Glutamate Loaded Synaptic Vesicle	component>
+UniProt:P60880-1 SNAP25	Docked Glutamate Loaded Synaptic Vesicle	component>
+UniProt:P61764-1 STXBP1	Docked Glutamate Loaded Synaptic Vesicle	component>
+UniProt:Q16623-3 STX1A	Docked Glutamate Loaded Synaptic Vesicle	component>
+RIMS1	Docked Glutamate Loaded Synaptic Vesicle	component>

@@ -1,0 +1,46 @@
+complex	pol II transcription complex containing 11 nucleotide long transcript
+complex	Pol II transcription complex containing transcript to +30
+complex	pol II transcription complex containing 9 nucleotide long transcript
+complex	TFIID
+complex	pol II transcription complex
+complex	pol II transcription complex containing 4 nucleotide long transcript
+complex	TFIIA
+complex	pol II transcription complex containing 3 Nucleotide long transcript
+complex	RNA Polymerase II (unphosphorylated):TFIIF complex
+smallMolecule	PPi
+complex	TFIIE
+complex	TFIIH
+smallMolecule	GTP
+protein	GTF2B
+TFIIH	PPi	component>
+RNA Polymerase II (unphosphorylated):TFIIF complex	PPi	component>
+TFIIH	pol II transcription complex containing 3 Nucleotide long transcript	-a>
+RNA Polymerase II (unphosphorylated):TFIIF complex	pol II transcription complex containing 3 Nucleotide long transcript	-a>
+RNA Polymerase II (unphosphorylated):TFIIF complex	TFIID	component>
+RNA Polymerase II (unphosphorylated):TFIIF complex	Pol II transcription complex containing transcript to +30	-a>
+RNA Polymerase II (unphosphorylated):TFIIF complex	pol II transcription complex containing 11 nucleotide long transcript	-a>
+GTP	pol II transcription complex containing 4 nucleotide long transcript	component>
+GTP	GTF2B	component>
+pol II transcription complex containing 3 Nucleotide long transcript	pol II transcription complex containing 4 nucleotide long transcript	component>
+pol II transcription complex containing 3 Nucleotide long transcript	GTF2B	component>
+pol II transcription complex containing 3 Nucleotide long transcript	PPi	component>
+GTP	pol II transcription complex containing 3 Nucleotide long transcript	-a>
+pol II transcription complex	PPi	-a>
+pol II transcription complex	pol II transcription complex containing 3 Nucleotide long transcript	-a>
+pol II transcription complex containing 4 nucleotide long transcript	TFIIA	component>
+pol II transcription complex containing 4 nucleotide long transcript	pol II transcription complex containing 9 nucleotide long transcript	component>
+pol II transcription complex containing 4 nucleotide long transcript	PPi	component>
+pol II transcription complex containing 4 nucleotide long transcript	TFIIE	component>
+pol II transcription complex containing 4 nucleotide long transcript	TFIID	component>
+GTP	TFIIA	component>
+GTP	pol II transcription complex containing 9 nucleotide long transcript	component>
+GTP	PPi	component>
+GTP	TFIIE	component>
+GTP	TFIID	component>
+GTP	Pol II transcription complex containing transcript to +30	-a>
+pol II transcription complex containing 11 nucleotide long transcript	PPi	-a>
+pol II transcription complex containing 11 nucleotide long transcript	Pol II transcription complex containing transcript to +30	-a>
+pol II transcription complex containing 9 nucleotide long transcript	PPi	-a>
+pol II transcription complex containing 9 nucleotide long transcript	pol II transcription complex containing 11 nucleotide long transcript	-a>
+GTP	PPi	-a>
+GTP	pol II transcription complex containing 11 nucleotide long transcript	-a>

@@ -1,0 +1,23 @@
+abstract	mitotic spindle organization
+complex	NuMA/Tpx2/Hklp2
+complex	RanGAP/RanBP1/RanBP2
+protein	STK6
+complex	NuMA/Tpx2
+complex	Importin-alpha/Importin-beta/NuMA/Tpx2
+complex	Ran/GDP
+complex	Importin-alpha/Importin-beta
+complex	Ran/GTP
+protein	RCC1
+protein	KIF15
+Ran/GTP	NuMA/Tpx2	component>
+RanGAP/RanBP1/RanBP2	Ran/GDP	-a>
+STK6	mitotic spindle organization	-ap>
+RCC1	Ran/GTP	-a>
+Importin-alpha/Importin-beta/NuMA/Tpx2	Importin-alpha/Importin-beta	component>
+Importin-alpha/Importin-beta/NuMA/Tpx2	NuMA/Tpx2	component>
+KIF15	NuMA/Tpx2/Hklp2	component>
+NuMA/Tpx2	NuMA/Tpx2/Hklp2	component>
+NuMA/Tpx2/Hklp2	STK6	-a>
+Ran/GTP	Ran/GDP	-a>
+NuMA/Tpx2/Hklp2	mitotic spindle organization	-ap>
+Ran/GDP	Ran/GTP	-a>

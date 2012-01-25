@@ -1,0 +1,11 @@
+complex	TLR9 bound to Unmethylated CpG DNA
+complex	EEA1 homodimer
+complex	PI3K class III
+complex	Activated TLR9 bound to PI3K class III
+protein	ZFYVE20
+protein	TLR9
+EEA1 homodimer	TLR9 bound to Unmethylated CpG DNA	component>
+ZFYVE20	Activated TLR9 bound to PI3K class III	component>
+TLR9	TLR9 bound to Unmethylated CpG DNA	component>
+TLR9 bound to Unmethylated CpG DNA	Activated TLR9 bound to PI3K class III	component>
+PI3K class III	Activated TLR9 bound to PI3K class III	component>

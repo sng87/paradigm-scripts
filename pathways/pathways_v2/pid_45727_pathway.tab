@@ -1,0 +1,62 @@
+complex	G-alpha-s/GTP
+smallMolecule	butyrolactone
+complex	D2/GRK2/NCS-1
+complex	DHPG/mGLUR1
+complex	dopamine/D1/g-beta/g-gamma
+complex	CaM/Ca ++
+complex	PKA
+complex	dopamine/D2/GRK2/NCS-1
+smallMolecule	IC261
+complex	D1/g-alpha-s/g-beta/g-gamma/GDP
+protein	CaM
+smallMolecule	DHPG
+smallMolecule	PIP2
+smallMolecule	DAG
+smallMolecule	cAMP
+smallMolecule	Dopamine
+smallMolecule	ATP
+complex	p35/CDK5
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	PPP3CA
+protein	PPP2R5D
+protein	PPP1R1B
+protein	PPP1CA
+protein	PLCB1
+protein	GRM1
+protein	CSNK1D
+protein	ADCY1
+PPP1R1B	PPP2R5D	-a|
+ADCY1	cAMP	-a>
+PLCB1	DAG	-a>
+butyrolactone	PPP1R1B	-a|
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+IC261	CSNK1D	-a>
+GRM1	DHPG/mGLUR1	component>
+DHPG	DHPG/mGLUR1	component>
+PKA	PPP1R1B	-a>
+dopamine/D2/GRK2/NCS-1	Ca2+	-a>
+PKA	Ca2+	-a>
+Ca2+	CSNK1D	-a>
+CSNK1D	PPP1R1B	-a>
+PPP1R1B	PPP1CA	-a>
+cAMP	PKA	-a>
+CaM/Ca ++	PPP3CA	-a>
+D1/g-alpha-s/g-beta/g-gamma/GDP	dopamine/D1/g-beta/g-gamma	component>
+D1/g-alpha-s/g-beta/g-gamma/GDP	G-alpha-s/GTP	component>
+Dopamine	dopamine/D1/g-beta/g-gamma	component>
+Dopamine	G-alpha-s/GTP	component>
+PPP3CA	PPP1R1B	-a>
+CSNK1D	p35/CDK5	-a>
+G-alpha-s/GTP	ADCY1	-a>
+PKA	PPP2R5D	-a>
+IP3	Ca2+	-a>
+PPP2R5D	PPP1R1B	-a>
+ATP	cAMP	-a>
+DHPG/mGLUR1	PLCB1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+D2/GRK2/NCS-1	dopamine/D2/GRK2/NCS-1	-a>
+Dopamine	dopamine/D2/GRK2/NCS-1	-a>
+p35/CDK5	PPP1R1B	-a>

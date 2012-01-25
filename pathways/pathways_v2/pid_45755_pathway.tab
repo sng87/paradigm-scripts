@@ -1,0 +1,48 @@
+complex	PA700 base
+complex	PA28 Proteasome
+complex	20S Proteasome
+complex	Hybrid Proteasome
+complex	PA700 lid
+complex	PA700 Activator
+complex	Substrate/ubiquitin
+complex	E1/ubiquitin
+protein	Substrate
+complex	E2/ubiquitin
+protein	ubiquitin
+protein	UBE1
+protein	PA-28 Activator
+abstract	degradation
+complex	26S Proteasome
+smallMolecule	ATP
+smallMolecule	ADP
+protein	UBE3A
+protein	UBE2A
+UBE3A	Substrate/ubiquitin	-a>
+26S Proteasome	degradation	-ap>
+PA700 Activator	Hybrid Proteasome	component>
+PA-28 Activator	Hybrid Proteasome	component>
+20S Proteasome	Hybrid Proteasome	component>
+ubiquitin	ADP	component>
+ubiquitin	E1/ubiquitin	component>
+UBE1	ADP	component>
+UBE1	E1/ubiquitin	component>
+ATP	ADP	component>
+ATP	E1/ubiquitin	component>
+PA-28 Activator	PA28 Proteasome	component>
+20S Proteasome	PA28 Proteasome	component>
+PA700 Activator	26S Proteasome	component>
+20S Proteasome	26S Proteasome	component>
+PA700 base	PA700 Activator	component>
+PA700 lid	PA700 Activator	component>
+Substrate	UBE2A	-a>
+Substrate	Substrate/ubiquitin	-a>
+E2/ubiquitin	UBE2A	-a>
+E2/ubiquitin	Substrate/ubiquitin	-a>
+ubiquitin	degradation	-ap>
+ADP	degradation	-ap>
+ATP	degradation	-ap>
+Substrate/ubiquitin	degradation	-ap>
+UBE2A	UBE1	-a>
+UBE2A	E2/ubiquitin	-a>
+E1/ubiquitin	UBE1	-a>
+E1/ubiquitin	E2/ubiquitin	-a>

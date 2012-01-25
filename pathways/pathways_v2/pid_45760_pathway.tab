@@ -1,0 +1,63 @@
+complex	SHC/GRB2/SOS-1
+complex	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin
+complex	Integrin-alpha/Integrin-beta/Caveolin-1/FYN
+complex	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin
+complex	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN
+smallMolecule	nucleoside diphosphate
+complex	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp
+complex	Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin
+smallMolecule	guanosine 5`-triphosphate
+protein	ECM
+abstract	actin filament polymerization
+protein	alpha-actinin
+protein	ZYX
+protein	TNS1
+protein	SRC
+protein	ROCK1
+protein	RHOA
+protein	RAPGEF1
+protein	PTK2
+protein	PPP1R12B
+protein	NOLC1
+protein	MLC1
+protein	MAPK8
+protein	LRPAP1
+protein	HRAS
+protein	CSK
+protein	CRKL
+protein	CAPN1
+protein	BCR
+protein	ACTA1
+RAPGEF1	LRPAP1	-a>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin (active1)/p130cas/FAK/CSK/Paxillin/Vinculin/alp	actin filament polymerization	-ap>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	actin filament polymerization	-ap>
+CRKL	BCR	-a>
+Integrin-alpha/Integrin-beta/Caveolin-1/FYN	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	component>
+ECM	ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	component>
+CRKL	MAPK8	-a>
+ROCK1	PPP1R12B	-a>
+RAPGEF1	RHOA	-a>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	CRKL	-a>
+ECM/Integrin-alpha/Integrin-beta/Caveolin-1/FYN	SHC/GRB2/SOS-1	-a>
+Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>
+ECM	ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	component>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	SRC	-a>
+TNS1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ZYX	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+alpha-actinin	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+CSK	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+NOLC1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ACTA1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+CAPN1	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+ECM/Integrin-alpha/Integrin-beta/Talin/Paxillin/Vinculin	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+PTK2	ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	component>
+RHOA	ROCK1	-a>
+PPP1R12B	MLC1	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	RHOA	-a>
+RHOA	nucleoside diphosphate	-a>
+ECM/Integrin-alpha/Integrin-betaTalin/Calpain1/actin/p130cas/FAK/CSK/Paxillin/Vinculin/alpha-actinin	RHOA	-a>
+CRKL	RAPGEF1	-a>

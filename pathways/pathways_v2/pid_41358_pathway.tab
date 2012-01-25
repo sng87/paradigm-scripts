@@ -1,0 +1,11 @@
+complex	mature NGF homodimer:p75NTR
+complex	Activated N-SMase (Mg cofactor)
+smallMolecule	H2O
+smallMolecule	Mg2+
+smallMolecule	PHOSPHOCHOLINE
+protein	SMPD2
+mature NGF homodimer:p75NTR	Activated N-SMase (Mg cofactor)	component>
+Activated N-SMase (Mg cofactor)	PHOSPHOCHOLINE	-a>
+SMPD2	Activated N-SMase (Mg cofactor)	component>
+Mg2+	Activated N-SMase (Mg cofactor)	component>
+H2O	PHOSPHOCHOLINE	-a>

@@ -1,0 +1,53 @@
+abstract	vasoconstriction
+smallMolecule	Thromboxin A2
+protein	F2_0-0
+complex	PAR1/PAR4/G-alpha-I/G-beta/G-gamma
+smallMolecule	aspirin
+smallMolecule	Arachidonate
+smallMolecule	PIP2
+smallMolecule	PGG2
+smallMolecule	DAG
+protein	PKC
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TBXAS1
+protein	RAF1
+protein	PTGS1
+protein	PLCB1
+protein	PLA2G4A
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K1
+protein	HRAS
+PAR1/PAR4/G-alpha-I/G-beta/G-gamma	GDP	-a>
+TBXAS1	Thromboxin A2	-a>
+PTGS1	PGG2	-a>
+IP3	PKC	-a>
+PLCB1	DAG	-a>
+Thromboxin A2	Thromboxin A2	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+PLA2G4A	Arachidonate	-a>
+PAR1/PAR4/G-alpha-I/G-beta/G-gamma	PLCB1	-a>
+IP3	Ca2+	-a>
+MAPK1	PLA2G4A	-a>
+HRAS	RAF1	-a>
+RAF1	MAP2K1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+aspirin	PTGS1	-a>
+Ca2+	PLA2G4A	-a>
+PGG2	Thromboxin A2	-a>
+F2_0-0	PAR1/PAR4/G-alpha-I/G-beta/G-gamma	-a>
+MAPK3	PLA2G4A	-a>
+Arachidonate	PGG2	-a>
+DAG	PKC	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+Thromboxin A2	vasoconstriction	-ap>

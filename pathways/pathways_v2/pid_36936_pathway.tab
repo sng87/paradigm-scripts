@@ -1,0 +1,14 @@
+abstract	cAMP biosynthetic process
+complex	PI3K Class IB/PDE3B
+smallMolecule	cAMP
+complex	PI3K Class IB family
+protein	PDE3B
+protein	MAPK1
+protein	MAP2K1
+PI3K Class IB/PDE3B	cAMP biosynthetic process	-ap|
+PDE3B	PI3K Class IB/PDE3B	component>
+PI3K Class IB family	PI3K Class IB/PDE3B	component>
+cAMP	cAMP biosynthetic process	-ap>
+PI3K Class IB family	PI3K Class IB family	-a>
+PI3K Class IB family	MAP2K1	-a>
+MAP2K1	MAPK1	-a>

@@ -1,0 +1,17 @@
+complex	RTC with integration competent viral DNA
+complex	RTC with duplex DNA containing discontinuous plus strand flap
+complex	uncoated viral complex
+protein	Protease
+protein	Nucleocapsid
+rna	EMBL:AF033819 EMBL:AF033819
+complex	RTC with tRNA primer:RNA template
+protein	LIG1
+protein	FEN1
+LIG1	RTC with integration competent viral DNA	-a>
+FEN1	RTC with integration competent viral DNA	-a>
+RTC with duplex DNA containing discontinuous plus strand flap	RTC with integration competent viral DNA	-a>
+uncoated viral complex	Nucleocapsid	component>
+uncoated viral complex	EMBL:AF033819 EMBL:AF033819	component>
+uncoated viral complex	Protease	component>
+uncoated viral complex	RTC with tRNA primer:RNA template	component>
+RTC with tRNA primer:RNA template	RTC with tRNA primer:RNA template	-a>

@@ -1,0 +1,30 @@
+smallMolecule	Hydroxyapatite
+complex	Hydroxyapatite/BSP/collagen IV/TNAP/NPP1
+complex	collagen IV
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	ATP
+smallMolecule	PI
+protein	SPP1
+protein	IBSP
+protein	ENPP1
+protein	ANKH
+protein	ALPL
+ENPP1	AMP	-a>
+SPP1	Hydroxyapatite	-t|
+PPi	Hydroxyapatite	-t|
+ALPL	PI	-a>
+Hydroxyapatite/BSP/collagen IV/TNAP/NPP1	Hydroxyapatite/BSP/collagen IV/TNAP/NPP1	-a>
+ATP	PPi	-a>
+ATP	AMP	-a>
+PPi	ENPP1	-t|
+PI	Hydroxyapatite	-t>
+PPi	SPP1	-t>
+ENPP1	Hydroxyapatite/BSP/collagen IV/TNAP/NPP1	component>
+ALPL	Hydroxyapatite/BSP/collagen IV/TNAP/NPP1	component>
+collagen IV	Hydroxyapatite/BSP/collagen IV/TNAP/NPP1	component>
+IBSP	Hydroxyapatite/BSP/collagen IV/TNAP/NPP1	component>
+Hydroxyapatite	Hydroxyapatite/BSP/collagen IV/TNAP/NPP1	component>
+PPi	ANKH	-t|
+PPi	PI	-a>
+ANKH	PPi	-a>

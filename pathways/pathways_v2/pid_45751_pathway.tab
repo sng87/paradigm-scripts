@@ -1,0 +1,28 @@
+abstract	virus assembly
+complex	HIV-1/VIF
+protein	gag-pol
+complex	HIV-1/VIF/gag-pol/env
+protein	env
+rna	HIV-1
+complex	VIF/Hck
+complex	CD4/CD4/CXCR4
+protein	Vif
+abstract	DNA damage
+protein	HCK
+protein	APOBEC3G
+HIV-1/VIF/gag-pol/env	DNA damage	-ap|
+HIV-1	Vif	-a>
+CD4/CD4/CXCR4	HIV-1	-a>
+HCK	virus assembly	-ap|
+APOBEC3G	DNA damage	-ap>
+HIV-1	gag-pol	-a>
+HIV-1	env	-a>
+HIV-1/VIF/gag-pol/env	virus assembly	-ap>
+env	virus assembly	-ap>
+gag-pol	virus assembly	-ap>
+HIV-1/VIF	virus assembly	-ap>
+HIV-1	HIV-1	-a>
+HCK	VIF/Hck	component>
+Vif	VIF/Hck	component>
+HIV-1	HIV-1/VIF	component>
+Vif	HIV-1/VIF	component>

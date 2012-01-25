@@ -1,0 +1,70 @@
+abstract	regulation of cell adhesion
+abstract	positive regulation of cell migration
+abstract	keratinocyte migration
+abstract	positive regulation of cell-cell adhesion
+abstract	Tumor Cell Invasion
+abstract	T-Lymphocyte
+abstract	homophilic cell adhesion
+complex	TGFB1/TGF beta receptor Type II
+complex	FGFR/FGF2/Syndecan-1
+complex	Syndecan-1/Collagen
+complex	Syndecan-1/CD147
+complex	HGF/MET
+protein	MMP9_107-707
+complex	Syndecan-1/CASK
+protein	ERK1-2-active
+protein	ERK1-2
+complex	Syndecan-1/Syntenin
+protein	Collagen
+complex	Syndecan-1/Syntenin/PIP2
+complex	Syndecan-1/RANTES
+complex	Syndecan-1/HGF/MET
+smallMolecule	PI-4-5-P2
+complex	FGFR/FGF
+complex	Syndecan-1/Laminin-5
+protein	SDCBP
+protein	SDC1
+protein	PRKACA
+protein	PPIB
+protein	MMP7
+protein	MMP1
+protein	LAMA5
+protein	HPSE
+protein	CCL5
+protein	CASK
+protein	BSG
+PRKACA	SDC1	-a>
+MMP9_107-707	SDC1	-a>
+Syndecan-1/CD147	ERK1-2-active	-a>
+MMP7	SDC1	-a>
+MMP1	SDC1	-a>
+PPIB	Syndecan-1/CD147	component>
+T-Lymphocyte	Syndecan-1/CD147	component>
+HPSE	SDC1	-a>
+CCL5	Syndecan-1/RANTES	component>
+SDC1	Syndecan-1/RANTES	component>
+TGFB1/TGF beta receptor Type II	SDC1	-a>
+FGFR/FGF	FGFR/FGF2/Syndecan-1	component>
+SDC1	FGFR/FGF2/Syndecan-1	component>
+ERK1-2	ERK1-2-active	-a>
+Collagen	Syndecan-1/Collagen	component>
+SDC1	Syndecan-1/Collagen	component>
+ERK1-2-active	regulation of cell adhesion	-ap>
+BSG	Syndecan-1/CD147	component>
+SDC1	Syndecan-1/CD147	component>
+SDC1	positive regulation of cell migration	-ap>
+SDCBP	Syndecan-1/Syntenin	component>
+SDC1	Syndecan-1/Syntenin	component>
+HGF/MET	Syndecan-1/HGF/MET	component>
+SDC1	Syndecan-1/HGF/MET	component>
+Syndecan-1/Laminin-5	keratinocyte migration	-ap>
+Syndecan-1/Syntenin/PIP2	positive regulation of cell-cell adhesion	-ap>
+CASK	Syndecan-1/CASK	component>
+SDC1	Syndecan-1/CASK	component>
+SDC1	Tumor Cell Invasion	-ap>
+LAMA5	Syndecan-1/Laminin-5	component>
+SDC1	Syndecan-1/Laminin-5	component>
+Syndecan-1/Collagen	homophilic cell adhesion	-ap>
+SDC1	SDC1	-a>
+PI-4-5-P2	Syndecan-1/Syntenin/PIP2	-a>
+Syndecan-1/Syntenin	Syndecan-1/Syntenin/PIP2	-a>

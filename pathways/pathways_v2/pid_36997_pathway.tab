@@ -1,0 +1,58 @@
+protein	Gam1
+complex	Ran/GTP
+complex	NPC
+complex	NPC/RanGAP1/SUMO1
+complex	MDM2/SUMO1/SUMO1
+protein	PIASxBeta
+complex	Ran/GTP/Exportin 1/HDAC4
+complex	Ran/GTP/Exportin 1/HDAC1
+complex	Ran/GTP/Exportin 1
+complex	NPC/RanGAP1/SUMO1/RanBP2/Ubc9
+complex	MDM2/SUMO1
+complex	SUMO1/HDAC4
+complex	SUMO1/HDAC1
+protein	XPO1
+protein	UBE2I
+protein	SUMO1
+protein	RANGAP1
+protein	RANBP2
+protein	PIAS1
+protein	MDM2
+protein	HDAC4
+protein	HDAC1
+PIASxBeta	MDM2/SUMO1/SUMO1	component>
+PIAS1	MDM2/SUMO1/SUMO1	component>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	SUMO1/HDAC4	component>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	MDM2/SUMO1	component>
+Gam1	SUMO1/HDAC1	component>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	SUMO1/HDAC1	component>
+NPC/RanGAP1/SUMO1/RanBP2/Ubc9	XPO1	component>
+SUMO1	MDM2/SUMO1/SUMO1	component>
+MDM2/SUMO1	MDM2/SUMO1/SUMO1	component>
+XPO1	Ran/GTP/Exportin 1	component>
+Ran/GTP	Ran/GTP/Exportin 1	component>
+HDAC1	Ran/GTP/Exportin 1/HDAC1	component>
+Ran/GTP/Exportin 1	Ran/GTP/Exportin 1/HDAC1	component>
+SUMO1	SUMO1	-a>
+NPC	Ran/GTP/Exportin 1/HDAC1	-a>
+SUMO1	SUMO1/HDAC4	component>
+Ran/GTP/Exportin 1/HDAC4	Ran/GTP/Exportin 1	component>
+Ran/GTP/Exportin 1/HDAC4	SUMO1/HDAC4	component>
+SUMO1	MDM2/SUMO1	component>
+MDM2	MDM2/SUMO1	component>
+UBE2I	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+RANBP2	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+NPC/RanGAP1/SUMO1	NPC/RanGAP1/SUMO1/RanBP2/Ubc9	component>
+NPC	NPC/RanGAP1/SUMO1	component>
+SUMO1	NPC/RanGAP1/SUMO1	component>
+RANGAP1	NPC/RanGAP1/SUMO1	component>
+SUMO1	Ran/GTP/Exportin 1	component>
+SUMO1	SUMO1/HDAC1	component>
+Ran/GTP/Exportin 1/HDAC1	Ran/GTP/Exportin 1	component>
+Ran/GTP/Exportin 1/HDAC1	SUMO1/HDAC1	component>
+Ran/GTP/Exportin 1	Ran/GTP	component>
+Ran/GTP/Exportin 1	XPO1	component>
+HDAC4	Ran/GTP/Exportin 1/HDAC4	component>
+Ran/GTP/Exportin 1	Ran/GTP/Exportin 1/HDAC4	component>
+Ran/GTP/Exportin 1	Ran/GTP/Exportin 1	-a>
+NPC	Ran/GTP/Exportin 1/HDAC4	-a>

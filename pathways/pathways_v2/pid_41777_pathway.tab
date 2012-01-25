@@ -1,0 +1,97 @@
+complex	GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex
+complex	Epac2:cAMP Complex
+complex	Inward Rectifying Potassium Channel (closed)
+complex	Inward Rectifying Potassium Channel (open)
+protein	UniProt:Q9Z2P2 Abcc8
+complex	Core SNARE Complex
+protein	Epac2
+complex	Activated Adenylate Cyclase VIII
+complex	Epac1:cAMP Complex
+protein	Epac1
+complex	Heterotrimeric G-alpha(s): GTP:G-beta: G-gamma Complex
+complex	G-protein alpha i/o:GTP Complex
+complex	GLP-1: GLP-1R: Heterotrimeric G(s): GTP Complex
+complex	SNARE complex
+protein	SNAP-25
+protein	PKA catalytic subunit
+complex	PKA:AKAP79:IQGAP1 Complex
+protein	Unc18-1
+complex	Syntaxin-1A-Unc18-1 Complex
+complex	Insulin-Zinc-Calcium Complex
+complex	GLP-1R: Heterotrimeric G(s): GDP Complex
+complex	Rap1-GDP
+complex	G-protein alpha (s):GTP
+smallMolecule	PPi
+complex	Rap1-GTP
+complex	cAMP:PKA:AKAP79:IQGAP1 Complex
+complex	G-protein beta gamma Complex (candidates)
+protein	UniProt:P63027 VAMP2
+smallMolecule	cAMP
+smallMolecule	ATP
+smallMolecule	Ca2+
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SYT5
+protein	INS
+protein	GCG
+protein	ADCY8
+UniProt:Q9Z2P2 Abcc8	Inward Rectifying Potassium Channel (closed)	-a>
+PKA catalytic subunit	Inward Rectifying Potassium Channel (closed)	-a>
+Epac2:cAMP Complex	GDP	-a>
+Epac1:cAMP Complex	GDP	-a>
+Activated Adenylate Cyclase VIII	cAMP	-a>
+G-protein alpha i/o:GTP Complex	INS	component>
+Core SNARE Complex	INS	component>
+Inward Rectifying Potassium Channel (open)	Inward Rectifying Potassium Channel (closed)	-a>
+ATP	Inward Rectifying Potassium Channel (closed)	-a>
+Epac2	Epac2:cAMP Complex	component>
+cAMP	Epac2:cAMP Complex	component>
+GTP	Rap1-GTP	-a>
+Rap1-GDP	Rap1-GTP	-a>
+Rap1-GDP	GDP	-a>
+G-protein alpha (s):GTP	Activated Adenylate Cyclase VIII	component>
+ADCY8	Activated Adenylate Cyclase VIII	component>
+PKA:AKAP79:IQGAP1 Complex	PKA catalytic subunit	component>
+PKA:AKAP79:IQGAP1 Complex	cAMP:PKA:AKAP79:IQGAP1 Complex	component>
+cAMP	PKA catalytic subunit	component>
+cAMP	cAMP:PKA:AKAP79:IQGAP1 Complex	component>
+GLP-1R: Heterotrimeric G(s): GDP Complex	GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex	component>
+GCG	GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex	component>
+ATP	PPi	-a>
+ATP	cAMP	-a>
+GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex	GLP-1: GLP-1R: Heterotrimeric G(s): GTP Complex	-a>
+GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex	GDP	-a>
+GTP	GLP-1: GLP-1R: Heterotrimeric G(s): GTP Complex	-a>
+GTP	GDP	-a>
+Heterotrimeric G-alpha(s): GTP:G-beta: G-gamma Complex	G-protein beta gamma Complex (candidates)	component>
+Heterotrimeric G-alpha(s): GTP:G-beta: G-gamma Complex	G-protein alpha (s):GTP	component>
+cAMP	Epac1:cAMP Complex	component>
+Epac1	Epac1:cAMP Complex	component>
+INS	SNARE complex	component>
+INS	Unc18-1	component>
+INS	Insulin-Zinc-Calcium Complex	component>
+INS	INS	component>
+SNAP-25	SNARE complex	component>
+SNAP-25	Unc18-1	component>
+SNAP-25	Insulin-Zinc-Calcium Complex	component>
+SNAP-25	INS	component>
+Syntaxin-1A-Unc18-1 Complex	SNARE complex	component>
+Syntaxin-1A-Unc18-1 Complex	Unc18-1	component>
+Syntaxin-1A-Unc18-1 Complex	Insulin-Zinc-Calcium Complex	component>
+Syntaxin-1A-Unc18-1 Complex	INS	component>
+Insulin-Zinc-Calcium Complex	SNARE complex	component>
+Insulin-Zinc-Calcium Complex	Unc18-1	component>
+Insulin-Zinc-Calcium Complex	Insulin-Zinc-Calcium Complex	component>
+Insulin-Zinc-Calcium Complex	INS	component>
+SYT5	SNARE complex	component>
+SYT5	Unc18-1	component>
+SYT5	Insulin-Zinc-Calcium Complex	component>
+SYT5	INS	component>
+Ca2+	SNARE complex	component>
+Ca2+	Unc18-1	component>
+Ca2+	Insulin-Zinc-Calcium Complex	component>
+Ca2+	INS	component>
+UniProt:P63027 VAMP2	SNARE complex	component>
+UniProt:P63027 VAMP2	Unc18-1	component>
+UniProt:P63027 VAMP2	Insulin-Zinc-Calcium Complex	component>
+UniProt:P63027 VAMP2	INS	component>

@@ -1,0 +1,14 @@
+complex	eIF4E:4E-BP
+complex	Activated mTORC1
+complex	eIF4E:4E-BP1-P
+smallMolecule	ATP
+smallMolecule	ADP
+protein	EIF4EBP1
+protein	EIF4E
+Activated mTORC1	eIF4E:4E-BP1-P	-a>
+eIF4E:4E-BP	ADP	-a>
+eIF4E:4E-BP	eIF4E:4E-BP1-P	-a>
+ATP	ADP	-a>
+ATP	eIF4E:4E-BP1-P	-a>
+eIF4E:4E-BP1-P	EIF4EBP1	component>
+eIF4E:4E-BP1-P	EIF4E	component>

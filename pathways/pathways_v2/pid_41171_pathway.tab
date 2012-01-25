@@ -1,0 +1,15 @@
+complex	Emi1:Cdc20/Cdh1 complex
+complex	phospho-Emi1(Ser 145, Ser 149):Cdc20/Cdh1 complexes
+complex	Phospho-Emi1(Ser 182):Cdc20/Cdh1 complexes
+complex	Cyclin B1:phospho-Cdc2(Thr 161)
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PLK1
+PLK1	ADP	-a>
+Cyclin B1:phospho-Cdc2(Thr 161)	Phospho-Emi1(Ser 182):Cdc20/Cdh1 complexes	-a>
+Emi1:Cdc20/Cdh1 complex	phospho-Emi1(Ser 145, Ser 149):Cdc20/Cdh1 complexes	-a>
+ATP	phospho-Emi1(Ser 145, Ser 149):Cdc20/Cdh1 complexes	-a>
+Emi1:Cdc20/Cdh1 complex	ADP	-a>
+Emi1:Cdc20/Cdh1 complex	Phospho-Emi1(Ser 182):Cdc20/Cdh1 complexes	-a>
+ATP	ADP	-a>
+ATP	Phospho-Emi1(Ser 182):Cdc20/Cdh1 complexes	-a>

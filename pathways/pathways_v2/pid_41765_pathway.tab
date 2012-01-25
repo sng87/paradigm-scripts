@@ -1,0 +1,8 @@
+smallMolecule	alpha-D-Glucose
+protein	GYG2
+protein	GYG1
+protein	AGL
+GYG1	alpha-D-Glucose	-a>
+AGL	GYG1	-a>
+GYG2	alpha-D-Glucose	-a>
+AGL	GYG2	-a>

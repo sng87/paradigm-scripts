@@ -1,0 +1,47 @@
+protein	MAPK14
+protein	MAPK11
+protein	GNB1
+protein	GNG2
+protein	MAPK9
+protein	MAPK8
+protein	GNAL
+protein	CRH
+protein	EntrezGene:2778
+protein	ChemicalAbstracts:86-01-1
+complex	Gs family/GTP
+complex	Gs family/GDP/Gbeta gamma
+complex	GNB1/GNG2
+chemical	mol:cortisol
+chemical	mol:GDP
+abstract	vasopressin secretion
+abstract	regulation of calcium ion transport via voltage-gated calcium channel activity
+abstract	glutamate secretion
+abstract	adrenocorticotropin secretion
+abstract	G-protein coupled receptor activity
+mol:cortisol	vasopressin secretion	-ap|
+mol:cortisol	regulation of calcium ion transport via voltage-gated calcium channel activity	-ap|
+mol:cortisol	mol:GDP	-a>
+mol:cortisol	glutamate secretion	-ap|
+mol:cortisol	adrenocorticotropin secretion	-ap|
+mol:cortisol	MAPK14	-a>
+mol:cortisol	MAPK11	-a>
+mol:cortisol	MAPK9	-a>
+mol:cortisol	MAPK8	-a>
+mol:cortisol	Gs family/GTP	-a>
+mol:cortisol	GNB1/GNG2	-a>
+mol:GDP	Gs family/GDP/Gbeta gamma	component>
+GNB1	Gs family/GDP/Gbeta gamma	component>
+GNB1	GNB1/GNG2	component>
+GNG2	Gs family/GDP/Gbeta gamma	component>
+GNG2	GNB1/GNG2	component>
+GNAL	Gs family/GTP	component>
+GNAL	Gs family/GDP/Gbeta gamma	component>
+CRH	adrenocorticotropin secretion	-ap>
+Gs family/GTP	glutamate secretion	-ap|
+G-protein coupled receptor activity	MAPK14	-ap>
+G-protein coupled receptor activity	MAPK11	-ap>
+G-protein coupled receptor activity	MAPK9	-ap>
+G-protein coupled receptor activity	MAPK8	-ap>
+EntrezGene:2778	Gs family/GTP	component>
+EntrezGene:2778	Gs family/GDP/Gbeta gamma	component>
+ChemicalAbstracts:86-01-1	Gs family/GTP	component>

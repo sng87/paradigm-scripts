@@ -1,0 +1,21 @@
+complex	Arf1-GDP
+complex	Coatomer
+complex	Arf1-GTP
+complex	Coatomer:Arf1-GTP:GAP Complex
+complex	Coatomer:Arf1-GTP Complex
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	GBF1
+protein	ARFGAP1
+ARFGAP1	phosphate	component>
+GBF1	GDP	-a>
+Coatomer:Arf1-GTP:GAP Complex	phosphate	component>
+Arf1-GTP	Coatomer:Arf1-GTP Complex	component>
+Coatomer	Coatomer:Arf1-GTP Complex	component>
+Coatomer:Arf1-GTP Complex	Coatomer:Arf1-GTP:GAP Complex	component>
+ARFGAP1	Coatomer:Arf1-GTP:GAP Complex	component>
+GTP	Arf1-GTP	-a>
+GTP	GDP	-a>
+Arf1-GDP	Arf1-GTP	-a>
+Arf1-GDP	GDP	-a>

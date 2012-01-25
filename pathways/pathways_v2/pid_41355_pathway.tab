@@ -1,0 +1,29 @@
+complex	Cyclin A:phospho-Cdk2(Thr 160):phospho-Cdh1:phospho-APC/C complex
+complex	Cyclin A:phospho-Cdk(Thr 160):Cdh1:phosho-APC/C complex
+complex	Cyclin A:phospho-Cdk2(Thr160) complex
+complex	phospho-Cdh1:phospho-APC/C
+complex	Cyclin B1:phospho-Cdc2(Thr 161)
+complex	Emi1:Cdh1 complex
+complex	phospho-APC/C:Cdh1 complex
+complex	Emi1:Cdc20 complex
+complex	anaphase promoting complex (APC/C)
+smallMolecule	ATP
+smallMolecule	ADP
+protein	FZR1
+protein	FBXO5
+protein	CDC20
+FZR1	Emi1:Cdh1 complex	component>
+FBXO5	Emi1:Cdh1 complex	component>
+phospho-Cdh1:phospho-APC/C	anaphase promoting complex (APC/C)	component>
+phospho-Cdh1:phospho-APC/C	FZR1	component>
+phospho-APC/C:Cdh1 complex	Cyclin A:phospho-Cdk(Thr 160):Cdh1:phosho-APC/C complex	component>
+Cyclin A:phospho-Cdk2(Thr160) complex	Cyclin A:phospho-Cdk(Thr 160):Cdh1:phosho-APC/C complex	component>
+ATP	FZR1	-a>
+FZR1	ADP	-a>
+Cyclin B1:phospho-Cdc2(Thr 161)	FZR1	-a>
+FBXO5	Emi1:Cdc20 complex	component>
+CDC20	Emi1:Cdc20 complex	component>
+Cyclin A:phospho-Cdk(Thr 160):Cdh1:phosho-APC/C complex	ADP	-a>
+Cyclin A:phospho-Cdk(Thr 160):Cdh1:phosho-APC/C complex	Cyclin A:phospho-Cdk2(Thr 160):phospho-Cdh1:phospho-APC/C complex	-a>
+ATP	ADP	-a>
+ATP	Cyclin A:phospho-Cdk2(Thr 160):phospho-Cdh1:phospho-APC/C complex	-a>

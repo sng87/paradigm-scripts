@@ -1,0 +1,25 @@
+smallMolecule	(R)-Methylmalonyl-CoA
+complex	propionyl-CoA carboxylase dodecamer
+smallMolecule	Succinyl-CoA
+smallMolecule	Propionyl-CoA
+smallMolecule	CO2
+complex	methylmalonyl-CoA mutase, homodimer
+smallMolecule	(S)-Methylmalonyl-CoA
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	MCEE
+propionyl-CoA carboxylase dodecamer	(S)-Methylmalonyl-CoA	-a>
+methylmalonyl-CoA mutase, homodimer	Succinyl-CoA	-a>
+MCEE	(R)-Methylmalonyl-CoA	-a>
+CO2	ADP	-a>
+CO2	phosphate	-a>
+CO2	(S)-Methylmalonyl-CoA	-a>
+ATP	ADP	-a>
+ATP	phosphate	-a>
+ATP	(S)-Methylmalonyl-CoA	-a>
+Propionyl-CoA	ADP	-a>
+Propionyl-CoA	phosphate	-a>
+Propionyl-CoA	(S)-Methylmalonyl-CoA	-a>
+(R)-Methylmalonyl-CoA	Succinyl-CoA	-a>
+(S)-Methylmalonyl-CoA	(R)-Methylmalonyl-CoA	-a>

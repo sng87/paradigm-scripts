@@ -1,0 +1,42 @@
+abstract	actin filament stabilization
+complex	PIP2/Talin/Vinculin
+protein	GAP
+complex	PIP2/Gelsolin
+smallMolecule	exoenzyme C3
+complex	mDIA/Profilin
+protein	Rho GEFs
+smallMolecule	nucleoside diphosphate
+complex	PI-4-P5K
+smallMolecule	guanosine 5`-triphosphate
+abstract	focal adhesion formation
+abstract	actin filament polymerization
+protein	ROCK1
+protein	RHOA
+protein	PPP1R12B
+protein	MYLK
+protein	MYL2
+protein	LIMK1
+protein	CFL1
+Rho GEFs	nucleoside diphosphate	-a>
+ROCK1	MYL2	-a|
+RHOA	PI-4-P5K	-a>
+RHOA	RHOA	-a>
+RHOA	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	RHOA	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+mDIA/Profilin	actin filament polymerization	-ap>
+CFL1	actin filament stabilization	-ap>
+PI-4-P5K	PIP2/Gelsolin	-a>
+PPP1R12B	MYL2	-a>
+PIP2/Gelsolin	actin filament polymerization	-ap>
+PIP2/Talin/Vinculin	focal adhesion formation	-ap>
+ROCK1	LIMK1	-a>
+exoenzyme C3	RHOA	-a>
+LIMK1	CFL1	-a|
+PI-4-P5K	PIP2/Talin/Vinculin	-a>
+ROCK1	MYL2	-a>
+MYL2	actin filament stabilization	-ap>
+RHOA	ROCK1	-a>
+GAP	RHOA	-a>
+MYLK	MYL2	-a>
+RHOA	mDIA/Profilin	-a>

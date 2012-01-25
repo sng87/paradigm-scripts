@@ -1,0 +1,198 @@
+abstract	positive regulation of cell proliferation
+abstract	megakaryocyte differentiation
+abstract	response to radiation
+abstract	actin filament polymerization
+abstract	protein ubiquitination
+abstract	positive regulation of transcription
+abstract	cell motility
+abstract	cell migration
+abstract	cell proliferation
+complex	CBL/CRKL
+complex	SCF/KIT
+complex	STAT3 (dimer)
+complex	STAP1/STAT5A (dimer)
+protein	PKC
+smallMolecule	Gleevec
+complex	SCF/KIT/EPO/EPOR
+complex	HRAS/SPRED2
+complex	CBL/CRKL/GRB2
+complex	STAT5A (dimer)
+complex	GRB2/SOCS1/VAV1
+complex	STAT1 (dimer)
+protein	APS
+complex	SHC/GRB2/SOS1
+complex	HRAS/SPRED1
+protein	PI3K Class2 beta polypeptide
+complex	SHC/GRAP2
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	PIP3
+complex	LYN/TEC/p62DOK
+protein	SHP2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV1
+protein	TEC
+protein	STAT5A
+protein	STAT3
+protein	STAT1
+protein	STAP1
+protein	SPRED2
+protein	SPRED1
+protein	SOS1
+protein	SOCS1
+protein	SNAI2
+protein	SHC1
+protein	SH2B3
+protein	RPS6KB1
+protein	RAF1
+protein	PTPRO
+protein	PTPN6
+protein	PTEN
+protein	PDPK1
+protein	MITF
+protein	MATK
+protein	MAPK8
+protein	MAPK3
+protein	MAP4K1
+protein	MAP2K2
+protein	MAP2K1
+protein	LYN
+protein	KITLG
+protein	KIT
+protein	JAK2
+protein	HRAS
+protein	GSK3B
+protein	GRB2
+protein	GRB10
+protein	GRAP2
+protein	GAB1
+protein	FOXO3
+protein	FER
+protein	EPOR
+protein	EPO
+protein	DOK1
+protein	CRKL
+protein	CREBBP
+protein	CBL
+protein	BCL2
+protein	BAD
+protein	AKT1
+SHC/GRB2/SOS1	GDP	-a>
+Gleevec	SCF/KIT	component>
+PTPN6	SCF/KIT	component>
+SHP2	SCF/KIT	component>
+PKC	SCF/KIT	component>
+CREBBP	EPOR	-t>
+SCF/KIT/EPO/EPOR	JAK2	-a>
+CREBBP	KIT	-t>
+GRB10	AKT1	-a>
+FER	STAT5A	-a>
+GAB1	PIP3	-a|
+PTEN	PIP3	-a|
+PI3K Class2 beta polypeptide	PIP3	-a>
+PI3K	PIP3	-a>
+SCF/KIT	LYN/TEC/p62DOK	-a>
+SHC/GRAP2	GDP	-a>
+SCF/KIT	GRB2/SOCS1/VAV1	component>
+MAP2K2	MAPK3	-a>
+GRB2/SOCS1/VAV1	GDP	-a>
+CREBBP	BCL2	-t>
+SCF/KIT	GRB10	-a>
+STAT5A	STAT5A (dimer)	component>
+APS	actin filament polymerization	-ap>
+SCF/KIT	SNAI2	-a>
+MAPK3	positive regulation of transcription	-ap>
+SOS1	SHC/GRB2/SOS1	component>
+GRB2	SHC/GRB2/SOS1	component>
+SHC1	SHC/GRB2/SOS1	component>
+CBL/CRKL/GRB2	protein ubiquitination	-ap>
+SCF/KIT	protein ubiquitination	-ap>
+SCF/KIT	SH2B3	-a>
+STAT5A (dimer)	positive regulation of cell proliferation	-ap>
+SCF/KIT	MAPK8	-a>
+DOK1	LYN/TEC/p62DOK	component>
+TEC	LYN/TEC/p62DOK	component>
+LYN	LYN/TEC/p62DOK	component>
+PI3K	cell migration	-ap>
+LYN	cell migration	-ap>
+MATK	cell migration	-ap|
+STAT5A (dimer)	STAP1/STAT5A (dimer)	component>
+STAP1	STAP1/STAT5A (dimer)	component>
+AKT1	BAD	-a>
+SCF/KIT	PTPRO	-a>
+STAT1 (dimer)	STAT1 (dimer)	-a>
+PI3K Class2 beta polypeptide	PI3K Class2 beta polypeptide	-a>
+PI3K Class2 beta polypeptide	PI3K	-a>
+PI3K	PI3K Class2 beta polypeptide	-a>
+SCF/KIT	PI3K	-a>
+KIT	SCF/KIT	component>
+KITLG	SCF/KIT	component>
+STAT1 (dimer)	EPOR	-t>
+HRAS	HRAS/SPRED1	component>
+SPRED1	HRAS/SPRED1	component>
+GRB2	CBL/CRKL/GRB2	component>
+CBL/CRKL	CBL/CRKL/GRB2	component>
+SNAI2	response to radiation	-ap>
+STAT1	STAT1 (dimer)	component>
+SCF/KIT	JAK2	-a>
+STAT1 (dimer)	KIT	-t>
+AKT1	GSK3B	-a>
+PDPK1	AKT1	-a>
+JAK2	STAT5A	-a>
+JAK2	STAT1	-a>
+PI-4-5-P2	PIP3	-a>
+HRAS	RAF1	-a>
+LYN/TEC/p62DOK	LYN/TEC/p62DOK	-a>
+GRAP2	SHC/GRAP2	component>
+SHC1	SHC/GRAP2	component>
+STAT3 (dimer)	positive regulation of cell proliferation	-ap>
+SCF/KIT	STAP1	-a>
+GAB1	CRKL	-a>
+STAT3 (dimer)	cell motility	-ap>
+SCF/KIT	SHC/GRB2/SOS1	-a>
+SCF/KIT	RPS6KB1	-a>
+RPS6KB1	RPS6KB1	-a>
+STAT1 (dimer)	positive regulation of cell proliferation	-ap>
+MAPK8	MAPK8	-a>
+PIP3	PDPK1	-a>
+CBL	CBL/CRKL	component>
+CRKL	CBL/CRKL	component>
+PTPRO	megakaryocyte differentiation	-ap>
+KIT	SCF/KIT/EPO/EPOR	component>
+KITLG	SCF/KIT/EPO/EPOR	component>
+EPOR	SCF/KIT/EPO/EPOR	component>
+EPO	SCF/KIT/EPO/EPOR	component>
+SCF/KIT	GAB1	-a>
+CRKL	MAP4K1	-a>
+AKT1	RPS6KB1	-a>
+VAV1	GRB2/SOCS1/VAV1	component>
+SOCS1	GRB2/SOCS1/VAV1	component>
+GRB2	GRB2/SOCS1/VAV1	component>
+MAP2K1	MAPK3	-a>
+STAT5A (dimer)	STAT5A (dimer)	-a>
+SCF/KIT	APS	-a>
+STAT1 (dimer)	cell motility	-ap>
+HRAS	HRAS/SPRED2	component>
+SPRED2	HRAS/SPRED2	component>
+MAPK3	MAPK3	-a>
+SCF/KIT	MATK	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+STAT1 (dimer)	BCL2	-t>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+MAPK8	cell proliferation	-ap>
+SCF/KIT	STAT3	-a>
+STAT5A (dimer)	cell motility	-ap>
+STAT3	STAT3 (dimer)	component>
+RPS6KB1	PI3K	-a>
+MITF	MITF	-a>
+RPS6KB1	MITF	-a>
+AKT1	FOXO3	-a>
+SCF/KIT	FER	-a>
+STAT3 (dimer)	STAT3 (dimer)	-a>

@@ -1,0 +1,213 @@
+protein	F11R
+protein	ANGPTL3
+protein	TLN1
+protein	VAV3
+protein	PI4KB
+protein	GPR124
+protein	PTK2B
+protein	ROCK1
+protein	ILK
+protein	CD47
+protein	MFGE8
+protein	PTPN11
+protein	PTK2
+protein	COL4A3
+protein	RAC1
+protein	RHOA
+protein	BCAR1
+protein	PXN
+protein	CDKN1B
+protein	PI4KA
+protein	PIK3CA
+protein	TGFBR2
+protein	KDR
+protein	IRS1
+protein	AKT1
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	RPS6KB1
+protein	CBL
+protein	SDC1
+protein	VCL
+protein	VEGFA
+protein	SRC
+protein	SPP1
+protein	CSF1
+protein	FGF2
+protein	IGF1R
+protein	HSP90AA1
+protein	ITGAV
+protein	ITGB3
+protein	VTN
+protein	FN1
+protein	IGF1
+protein	EDIL3
+protein	PIK3C2A
+complex	alphaV/beta3 Integrin/c-FMS/Cbl/Cas
+complex	alphaV/beta3 Integrin/Tumstatin
+complex	alphaV/beta3 Integrin/Talin
+complex	alphaV/beta3 Integrin/TGFBR2
+complex	alphaV/beta3 Integrin/Syndecan-1
+complex	alphaV/beta3 Integrin/Pyk2
+complex	alphaV/beta3 Integrin/Osteopontin
+complex	alphaV/beta3 Integrin/Lactadherin
+complex	alphaV/beta3 Integrin/JAM-A
+complex	alphaV/beta3 Integrin/Del1
+complex	alphaV/beta3 Integrin/Caspase 8
+complex	alphaV/beta3 Integrin/CD47
+complex	alphaV beta3/Integrin/ppsTEM5
+complex	alphaV beta3 Integrin/ANGPTL3
+complex	alphaV beta3 Integrin
+complex	VEGFR2 homodimer/VEGFA homodimer/alphaV beta3 Integrin
+complex	VEGFR2 homodimer/VEGFA homodimer/Src
+complex	VEGFR2 homodimer/VEGFA homodimer
+complex	VEGF/Rho/ROCK/alphaV/beta3 Integrin
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PI4 Kinase/Pyk2
+complex	PI4 Kinase
+complex	PI3K
+complex	IGF-1R heterotetramer/IGF1/IRS1/Shp2
+complex	IGF-1R heterotetramer/IGF1/IRS1
+complex	IGF-1R heterotetramer
+complex	FAK1/Vinculin
+complex	FAK1/Paxillin
+chemical	mol:PI-4-5-P2
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	regulation of cell-matrix adhesion
+abstract	cell proliferation
+abstract	cell migration
+abstract	cell adhesion
+abstract	apoptosis
+abstract	angiogenesis
+mol:PI-4-5-P2	alphaV/beta3 Integrin/Talin	-a>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	Rac1/GDP	component>
+alphaV/beta3 Integrin/c-FMS/Cbl/Cas	VAV3	-a>
+alphaV/beta3 Integrin/Tumstatin	PTK2	-a>
+alphaV/beta3 Integrin/TGFBR2	cell proliferation	-ap>
+alphaV/beta3 Integrin/Lactadherin	cell adhesion	-ap>
+alphaV/beta3 Integrin/JAM-A	PTK2	-a>
+alphaV/beta3 Integrin/JAM-A	MAPK1	-a>
+alphaV/beta3 Integrin/JAM-A	MAPK3	-a>
+alphaV/beta3 Integrin/JAM-A	PI3K	-a>
+alphaV/beta3 Integrin/Del1	PTK2	-a>
+alphaV/beta3 Integrin/Caspase 8	apoptosis	-ap>
+alphaV/beta3 Integrin/CD47	cell adhesion	-ap>
+alphaV beta3/Integrin/ppsTEM5	regulation of cell-matrix adhesion	-ap>
+alphaV beta3 Integrin/ANGPTL3	cell adhesion	-ap>
+alphaV beta3 Integrin	ILK	-a>
+alphaV beta3 Integrin	CDKN1B	-a>
+alphaV beta3 Integrin	MAPK1	-a>
+alphaV beta3 Integrin	MAPK3	-a>
+alphaV beta3 Integrin	PIK3C2A	-a>
+alphaV beta3 Integrin	PI4 Kinase/Pyk2	-a>
+alphaV beta3 Integrin	IGF-1R heterotetramer/IGF1/IRS1	-a>
+VEGFR2 homodimer/VEGFA homodimer/alphaV beta3 Integrin	PTK2B	-a>
+VEGFR2 homodimer/VEGFA homodimer/Src	PTK2	-a>
+VEGF/Rho/ROCK/alphaV/beta3 Integrin	PTK2	-a>
+F11R	alphaV/beta3 Integrin/JAM-A	component>
+F11R	MAPK1	-a>
+F11R	MAPK3	-a>
+ANGPTL3	alphaV beta3 Integrin/ANGPTL3	component>
+TLN1	alphaV/beta3 Integrin/Talin	component>
+VAV3	Rac1/GTP	-a>
+PI4KB	PI4 Kinase/Pyk2	component>
+PI4KB	PI4 Kinase	component>
+GPR124	alphaV beta3/Integrin/ppsTEM5	component>
+PTK2B	alphaV/beta3 Integrin/Pyk2	component>
+PTK2B	PTK2	-a>
+PTK2B	PI4 Kinase/Pyk2	component>
+ROCK1	VEGF/Rho/ROCK/alphaV/beta3 Integrin	component>
+ILK	AKT1	-a>
+CD47	alphaV/beta3 Integrin/CD47	component>
+MFGE8	alphaV/beta3 Integrin/Lactadherin	component>
+PTPN11	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+PTK2	FAK1/Vinculin	component>
+PTK2	FAK1/Paxillin	component>
+COL4A3	alphaV/beta3 Integrin/Tumstatin	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RHOA	VEGF/Rho/ROCK/alphaV/beta3 Integrin	component>
+BCAR1	alphaV/beta3 Integrin/c-FMS/Cbl/Cas	component>
+PXN	FAK1/Paxillin	component>
+PI4KA	PI4 Kinase/Pyk2	component>
+PI4KA	PI4 Kinase	component>
+PIK3CA	PI3K	component>
+TGFBR2	alphaV/beta3 Integrin/TGFBR2	component>
+KDR	VEGFR2 homodimer/VEGFA homodimer/alphaV beta3 Integrin	component>
+KDR	VEGFR2 homodimer/VEGFA homodimer/Src	component>
+KDR	VEGFR2 homodimer/VEGFA homodimer	component>
+KDR	VEGF/Rho/ROCK/alphaV/beta3 Integrin	component>
+IRS1	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+IRS1	IGF-1R heterotetramer/IGF1/IRS1	component>
+MAPK1	angiogenesis	-ap>
+PIK3R1	PI3K	component>
+MAPK3	angiogenesis	-ap>
+CBL	alphaV/beta3 Integrin/c-FMS/Cbl/Cas	component>
+SDC1	alphaV/beta3 Integrin/Syndecan-1	component>
+VCL	FAK1/Vinculin	component>
+VEGFA	VEGFR2 homodimer/VEGFA homodimer/alphaV beta3 Integrin	component>
+VEGFA	VEGFR2 homodimer/VEGFA homodimer/Src	component>
+VEGFA	VEGFR2 homodimer/VEGFA homodimer	component>
+VEGFA	VEGF/Rho/ROCK/alphaV/beta3 Integrin	component>
+SRC	VEGFR2 homodimer/VEGFA homodimer/Src	component>
+SPP1	alphaV/beta3 Integrin/Osteopontin	component>
+CSF1	alphaV/beta3 Integrin/c-FMS/Cbl/Cas	-a>
+FGF2	alphaV beta3 Integrin	-a>
+FGF2	F11R	-a>
+FGF2	MAPK1	-a>
+FGF2	MAPK3	-a>
+IGF1R	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+IGF1R	IGF-1R heterotetramer/IGF1/IRS1	component>
+IGF1R	IGF-1R heterotetramer	component>
+HSP90AA1	VEGF/Rho/ROCK/alphaV/beta3 Integrin	component>
+ITGAV	alphaV/beta3 Integrin/c-FMS/Cbl/Cas	component>
+ITGAV	alphaV/beta3 Integrin/Tumstatin	component>
+ITGAV	alphaV/beta3 Integrin/Talin	component>
+ITGAV	alphaV/beta3 Integrin/TGFBR2	component>
+ITGAV	alphaV/beta3 Integrin/Syndecan-1	component>
+ITGAV	alphaV/beta3 Integrin/Pyk2	component>
+ITGAV	alphaV/beta3 Integrin/Osteopontin	component>
+ITGAV	alphaV/beta3 Integrin/Lactadherin	component>
+ITGAV	alphaV/beta3 Integrin/JAM-A	component>
+ITGAV	alphaV/beta3 Integrin/Del1	component>
+ITGAV	alphaV/beta3 Integrin/Caspase 8	component>
+ITGAV	alphaV/beta3 Integrin/CD47	component>
+ITGAV	alphaV beta3/Integrin/ppsTEM5	component>
+ITGAV	alphaV beta3 Integrin/ANGPTL3	component>
+ITGAV	alphaV beta3 Integrin	component>
+ITGAV	VEGFR2 homodimer/VEGFA homodimer/alphaV beta3 Integrin	component>
+ITGAV	VEGF/Rho/ROCK/alphaV/beta3 Integrin	component>
+ITGB3	alphaV/beta3 Integrin/Tumstatin	component>
+ITGB3	alphaV/beta3 Integrin/Talin	component>
+ITGB3	alphaV/beta3 Integrin/TGFBR2	component>
+ITGB3	alphaV/beta3 Integrin/Syndecan-1	component>
+ITGB3	alphaV/beta3 Integrin/Pyk2	component>
+ITGB3	alphaV/beta3 Integrin/Osteopontin	component>
+ITGB3	alphaV/beta3 Integrin/Lactadherin	component>
+ITGB3	alphaV/beta3 Integrin/JAM-A	component>
+ITGB3	alphaV/beta3 Integrin/Del1	component>
+ITGB3	alphaV/beta3 Integrin/CD47	component>
+ITGB3	alphaV beta3/Integrin/ppsTEM5	component>
+ITGB3	alphaV beta3 Integrin/ANGPTL3	component>
+ITGB3	alphaV beta3 Integrin	component>
+ITGB3	VEGFR2 homodimer/VEGFA homodimer/alphaV beta3 Integrin	component>
+ITGB3	VEGF/Rho/ROCK/alphaV/beta3 Integrin	component>
+VTN	alphaV/beta3 Integrin/JAM-A	-a>
+VTN	VEGF/Rho/ROCK/alphaV/beta3 Integrin	-a>
+VTN	ILK	-a>
+VTN	CDKN1B	-a>
+VTN	PIK3C2A	-a>
+VTN	PI4 Kinase/Pyk2	-a>
+FN1	IGF-1R heterotetramer/IGF1/IRS1	-a>
+IGF1	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+IGF1	IGF-1R heterotetramer/IGF1/IRS1	component>
+EDIL3	alphaV/beta3 Integrin/Del1	component>
+IGF-1R heterotetramer/IGF1/IRS1	MAPK1	-a>
+IGF-1R heterotetramer/IGF1/IRS1	MAPK3	-a>
+IGF-1R heterotetramer/IGF1/IRS1	RPS6KB1	-a>
+FAK1/Vinculin	cell migration	-ap>
+FAK1/Paxillin	cell migration	-ap>

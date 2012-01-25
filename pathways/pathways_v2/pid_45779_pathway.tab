@@ -1,0 +1,65 @@
+abstract	growth-factor-withdrawal
+abstract	replicative-senescence
+abstract	lateral inhibition
+protein	TK
+complex	E2F-1/DP-1
+complex	RB/HDAC/ABL/E2F-1/DP-1
+complex	CYCLIN D1/CDK4/CDK6
+complex	Cyclin E/CDK2
+abstract	protein ubiquitination
+abstract	DNA damage
+complex	SMAD3/SMAD4
+protein	TP53
+protein	TGFB1
+protein	SKP2
+protein	GSK3B
+protein	E2F1
+protein	DHFR
+protein	CDKN2B
+protein	CDKN2A
+protein	CDKN1B
+protein	CDKN1A
+protein	CDC25A
+protein	CDC2
+protein	CCNE1
+protein	CCNA1
+protein	ATR
+protein	ATM
+SMAD3/SMAD4	CDKN2A	-t>
+CYCLIN D1/CDK4/CDK6	E2F-1/DP-1	-a>
+SMAD3/SMAD4	CDKN1A	-t>
+SKP2	protein ubiquitination	-ap>
+TP53	CDKN1A	-t>
+SMAD3/SMAD4	CDKN1B	-t>
+Cyclin E/CDK2	E2F-1/DP-1	-a>
+E2F-1/DP-1	CCNE1	-t>
+growth-factor-withdrawal	GSK3B	-a>
+E2F-1/DP-1	DHFR	-t>
+GSK3B	CYCLIN D1/CDK4/CDK6	-a>
+replicative-senescence	CDKN2A	-t>
+E2F-1/DP-1	TK	-t>
+E2F-1/DP-1	CDC2	-t>
+TGFB1	SMAD3/SMAD4	-a>
+E2F-1/DP-1	CCNA1	-t>
+lateral inhibition	CDKN1A	-t>
+SMAD3/SMAD4	CDC25A	-t|
+CDKN1B	Cyclin E/CDK2	-a>
+ATM	TP53	-a>
+CDKN2B	CYCLIN D1/CDK4/CDK6	-a>
+CYCLIN D1/CDK4/CDK6	protein ubiquitination	-ap>
+CDKN1A	Cyclin E/CDK2	-a>
+ATR	TP53	-a>
+E2F-1/DP-1	E2F1	-t>
+CDKN1A	protein ubiquitination	-ap>
+Cyclin E/CDK2	CDKN1A	-a>
+CDKN2A	CYCLIN D1/CDK4/CDK6	-a>
+CDC25A	Cyclin E/CDK2	-a>
+DNA damage	ATM	-a>
+Cyclin E/CDK2	CDC25A	-a>
+replicative-senescence	CDKN1A	-t>
+Cyclin E/CDK2	protein ubiquitination	-ap>
+lateral inhibition	CDKN1B	-t>
+SMAD3/SMAD4	CDKN2B	-t>
+DNA damage	ATR	-a>
+RB/HDAC/ABL/E2F-1/DP-1	E2F-1/DP-1	-a>
+CDC25A	CYCLIN D1/CDK4/CDK6	-a>

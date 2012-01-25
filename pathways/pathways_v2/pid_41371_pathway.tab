@@ -1,0 +1,75 @@
+complex	TRAP coactivator complex
+complex	ARC coactivator complex
+protein	UniProt:Q9UHV7 MED13
+complex	DRIP coactivator complex
+protein	MED8
+protein	MED7
+protein	MED6
+protein	MED4
+protein	MED31
+protein	MED30
+protein	MED27
+protein	MED26
+protein	MED25
+protein	MED24
+protein	MED23
+protein	MED20
+protein	MED17
+protein	MED16
+protein	MED15
+protein	MED14
+protein	MED12
+protein	MED10
+protein	MED1
+protein	CDK8
+protein	CCNC
+MED4	ARC coactivator complex	component>
+MED17	ARC coactivator complex	component>
+MED24	ARC coactivator complex	component>
+MED12	ARC coactivator complex	component>
+MED16	ARC coactivator complex	component>
+MED1	ARC coactivator complex	component>
+MED23	ARC coactivator complex	component>
+CDK8	ARC coactivator complex	component>
+MED6	ARC coactivator complex	component>
+MED15	ARC coactivator complex	component>
+MED25	ARC coactivator complex	component>
+MED7	ARC coactivator complex	component>
+MED26	ARC coactivator complex	component>
+UniProt:Q9UHV7 MED13	ARC coactivator complex	component>
+MED14	ARC coactivator complex	component>
+MED8	ARC coactivator complex	component>
+CCNC	ARC coactivator complex	component>
+MED10	ARC coactivator complex	component>
+CDK8	TRAP coactivator complex	component>
+MED7	TRAP coactivator complex	component>
+UniProt:Q9UHV7 MED13	TRAP coactivator complex	component>
+MED14	TRAP coactivator complex	component>
+MED16	TRAP coactivator complex	component>
+CCNC	TRAP coactivator complex	component>
+MED1	TRAP coactivator complex	component>
+MED27	TRAP coactivator complex	component>
+MED12	TRAP coactivator complex	component>
+MED17	TRAP coactivator complex	component>
+MED10	TRAP coactivator complex	component>
+MED23	TRAP coactivator complex	component>
+MED20	TRAP coactivator complex	component>
+MED6	TRAP coactivator complex	component>
+MED4	TRAP coactivator complex	component>
+MED24	TRAP coactivator complex	component>
+MED31	TRAP coactivator complex	component>
+MED30	TRAP coactivator complex	component>
+MED4	DRIP coactivator complex	component>
+MED6	DRIP coactivator complex	component>
+MED24	DRIP coactivator complex	component>
+MED7	DRIP coactivator complex	component>
+CCNC	DRIP coactivator complex	component>
+MED10	DRIP coactivator complex	component>
+MED14	DRIP coactivator complex	component>
+CDK8	DRIP coactivator complex	component>
+MED12	DRIP coactivator complex	component>
+MED16	DRIP coactivator complex	component>
+MED17	DRIP coactivator complex	component>
+MED1	DRIP coactivator complex	component>
+MED23	DRIP coactivator complex	component>
+UniProt:Q9UHV7 MED13	DRIP coactivator complex	component>

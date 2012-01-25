@@ -1,0 +1,176 @@
+protein	PIAS3
+protein	SNURF
+protein	JMJD1A
+protein	PA2G4
+protein	ZMIZ1
+protein	VAV3
+protein	APPL1
+protein	LATS2
+protein	PATZ1
+protein	JMJD2C
+protein	CTDSP1
+protein	NKX3-1
+protein	RANBP9
+protein	PAWR
+protein	UBA3
+protein	CMTM2
+protein	PIAS4
+protein	PELP1
+protein	CARM1
+protein	ZNF318
+protein	ZNF318
+protein	MED1
+protein	NCOA2
+protein	TGIF1
+protein	CASP8
+protein	NCOA6
+protein	PTK2B
+protein	FHL2
+protein	NCOA4
+protein	PRDX1
+protein	UBE3A
+protein	FKBP4
+protein	CDK6
+protein	TMF1
+protein	PRKDC
+protein	UBE2I
+protein	RPS6KA3
+protein	NRIP1
+protein	CDKN2A
+protein	BRCA1
+protein	CTNNB1
+protein	AKT1
+protein	CCND3
+protein	CCND1
+protein	CDC2L1
+protein	MAK
+protein	KLK2
+protein	TCF4
+protein	XRCC5
+protein	XRCC6
+protein	SRF
+protein	AR
+protein	HNRNPA1
+protein	KLK3
+protein	GSN
+protein	SVIL
+protein	PIAS1
+protein	AOF2
+protein	TGFB1I1
+protein	TMPRSS2
+protein	CTDSP2
+protein	HIP1
+complex	T-DHT/AR/Ubc9
+complex	T-DHT/AR/TIF2/CARM1
+complex	T-DHT/AR/SNURF
+complex	T-DHT/AR/PRX1
+complex	T-DHT/AR/CyclinD1
+complex	T-DHT/AR/Cyclin D3/CDK11 p58
+complex	T-DHT/AR/Caspase 8
+complex	T-DHT/AR/CDK6
+complex	T-DHT/AR/ARA70
+complex	T-DHT/AR
+complex	DNA-PK
+complex	Cyclin D3/CDK11 p58
+chemical	mol:T-DHT
+abstract	response to oxidative stress
+abstract	cell proliferation
+response to oxidative stress	T-DHT/AR/PRX1	-ap>
+mol:T-DHT	T-DHT/AR/Ubc9	component>
+mol:T-DHT	T-DHT/AR/TIF2/CARM1	component>
+mol:T-DHT	T-DHT/AR/SNURF	component>
+mol:T-DHT	T-DHT/AR/PRX1	component>
+mol:T-DHT	T-DHT/AR/CyclinD1	component>
+mol:T-DHT	T-DHT/AR/Cyclin D3/CDK11 p58	component>
+mol:T-DHT	T-DHT/AR/Caspase 8	component>
+mol:T-DHT	T-DHT/AR/CDK6	component>
+mol:T-DHT	T-DHT/AR/ARA70	component>
+mol:T-DHT	T-DHT/AR	component>
+PIAS3	KLK3	-t>
+SNURF	T-DHT/AR/SNURF	component>
+JMJD1A	NKX3-1	-t>
+JMJD1A	KLK3	-t>
+JMJD1A	TMPRSS2	-t>
+PA2G4	KLK3	-t|
+ZMIZ1	T-DHT/AR	-a>
+VAV3	KLK3	-t>
+APPL1	KLK3	-t|
+LATS2	KLK3	-t|
+PATZ1	KLK3	-t|
+JMJD2C	KLK2	-t>
+JMJD2C	KLK3	-t>
+CTDSP1	KLK3	-t|
+RANBP9	KLK3	-t>
+PAWR	KLK3	-t>
+UBA3	KLK3	-t|
+CMTM2	KLK3	-t|
+PIAS4	KLK3	-t|
+PELP1	KLK3	-t>
+CARM1	T-DHT/AR/TIF2/CARM1	component>
+ZNF318	KLK3	-t|
+ZNF318	KLK3	-t>
+MED1	KLK3	-t>
+NCOA2	T-DHT/AR/TIF2/CARM1	component>
+TGIF1	KLK3	-t|
+CASP8	T-DHT/AR/Caspase 8	component>
+NCOA6	KLK3	-t>
+PTK2B	KLK3	-t|
+FHL2	KLK3	-t>
+NCOA4	T-DHT/AR/ARA70	component>
+PRDX1	T-DHT/AR/PRX1	component>
+UBE3A	KLK3	-t>
+FKBP4	KLK3	-t>
+CDK6	T-DHT/AR/CDK6	component>
+TMF1	KLK3	-t>
+PRKDC	DNA-PK	component>
+UBE2I	T-DHT/AR/Ubc9	component>
+RPS6KA3	KLK3	-t>
+NRIP1	KLK3	-t>
+CDKN2A	KLK3	-t|
+BRCA1	KLK3	-t>
+CTNNB1	KLK3	-t>
+AKT1	APPL1	-a>
+CCND3	T-DHT/AR/Cyclin D3/CDK11 p58	component>
+CCND3	Cyclin D3/CDK11 p58	component>
+CCND1	T-DHT/AR/CyclinD1	component>
+CDC2L1	T-DHT/AR/Cyclin D3/CDK11 p58	component>
+CDC2L1	Cyclin D3/CDK11 p58	component>
+MAK	cell proliferation	-ap>
+MAK	KLK3	-t>
+TCF4	KLK3	-t|
+XRCC5	DNA-PK	component>
+XRCC6	DNA-PK	component>
+SRF	FHL2	-t>
+AR	T-DHT/AR/Ubc9	component>
+AR	T-DHT/AR/TIF2/CARM1	component>
+AR	T-DHT/AR/SNURF	component>
+AR	T-DHT/AR/PRX1	component>
+AR	T-DHT/AR/CyclinD1	component>
+AR	T-DHT/AR/Cyclin D3/CDK11 p58	component>
+AR	T-DHT/AR/Caspase 8	component>
+AR	T-DHT/AR/CDK6	component>
+AR	T-DHT/AR/ARA70	component>
+AR	T-DHT/AR	component>
+HNRNPA1	KLK3	-t|
+GSN	KLK3	-t>
+SVIL	KLK3	-t>
+PIAS1	KLK3	-t>
+AOF2	KLK3	-t>
+TGFB1I1	KLK3	-t>
+CTDSP2	KLK3	-t|
+HIP1	KLK3	-t>
+T-DHT/AR/TIF2/CARM1	KLK3	-t>
+T-DHT/AR/PRX1	KLK3	-t>
+T-DHT/AR/CyclinD1	KLK3	-t|
+T-DHT/AR/Cyclin D3/CDK11 p58	cell proliferation	-ap|
+T-DHT/AR/Cyclin D3/CDK11 p58	KLK3	-t|
+T-DHT/AR/Caspase 8	KLK3	-t|
+T-DHT/AR/CDK6	KLK3	-t>
+T-DHT/AR/ARA70	KLK3	-t>
+T-DHT/AR	cell proliferation	-ap>
+T-DHT/AR	NKX3-1	-t>
+T-DHT/AR	FHL2	-t>
+T-DHT/AR	KLK2	-t>
+T-DHT/AR	KLK3	-t>
+T-DHT/AR	TMPRSS2	-t>
+DNA-PK	KLK3	-t>

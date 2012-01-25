@@ -1,0 +1,115 @@
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+protein	Caspase 1 (cleaved)
+complex	IL1 alpha/IL1R2
+complex	IL1 beta fragment/IL1R1/IL1RAP
+complex	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP
+complex	IL1 beta fragment/IL1R1/IL1RAP/TICAM2/IRAK4
+complex	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/TOLLIP
+complex	IL1 beta/IL1R2
+complex	IRAK/TRAF6
+complex	IL1RN/IL1R2
+complex	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/TOLLIP
+complex	UBC13/UEV1A
+complex	IRAK/TRAF6/TAK1/TAB1/TAB2
+complex	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4
+complex	IL1 beta fragment/IL1R1/IL1RAP/MYD88s
+complex	IRAK/TRAF6/MEKK3
+protein	Pellinos
+complex	TAK1/TAB1/TAB2
+complex	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP
+complex	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4
+complex	IL1 beta fragment/IL1R1/IL1RAP/PI3K
+complex	IKK complex/ELKS
+complex	IRAK/TRAF6/p62/Atypical PKCs
+complex	IL1RN/IL1R1
+complex	PI3K
+protein	Atypical PKCs
+complex	TRAF6/TAK1/TAB1/TAB2
+complex	NF kappa B1 p50/RelA
+complex	IRAK/TOLLIP
+complex	IL1 alpha/IL1R1/IL1RAP/MYD88
+complex	IL1 alpha/IL1R1/IL1RAP
+complex	IL1 beta fragment/IL1R1/IL1RAP/MYD88
+protein	TRAF6
+protein	SQSTM1
+protein	RELA
+protein	NFKB1
+protein	MYD88
+protein	MAPK8
+protein	MAP3K3
+protein	MAP2K6
+protein	JUN
+protein	IRAK4
+protein	IRAK3
+protein	IRAK1
+protein	IL1RN
+protein	IL1RAP
+protein	IL1R2
+protein	IL1R1
+protein	IL1B
+protein	IL1A
+TRAF6/TAK1/TAB1/TAB2	IKK complex/ELKS	-a>
+Pellinos	TRAF6/TAK1/TAB1/TAB2	component>
+UBC13/UEV1A	TRAF6/TAK1/TAB1/TAB2	component>
+IRAK/TRAF6/p62/Atypical PKCs	IKK complex/ELKS	-a>
+IL1 beta fragment/IL1R1/IL1RAP/MYD88s	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4	component>
+IL1 beta fragment/IL1R1/IL1RAP/PI3K	NF kappa B1 p50/RelA	component>
+Caspase 1 (cleaved)	IL1B	component>
+IRAK/TRAF6/MEKK3	IKK complex/ELKS	-a>
+IRAK3	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	component>
+IL1 beta fragment/IL1R1/IL1RAP/TICAM2/IRAK4	IRAK/TRAF6	component>
+MYD88	IL1 beta fragment/IL1R1/IL1RAP/MYD88	component>
+IL1 beta fragment/IL1R1/IL1RAP	IL1 beta fragment/IL1R1/IL1RAP/MYD88	component>
+MAPK8	JUN	-a>
+TRAF6	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/TOLLIP	component>
+IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	IRAK/TRAF6	component>
+IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/TOLLIP	component>
+IRAK/TRAF6/TAK1/TAB1/TAB2	IRAK1	component>
+IRAK/TRAF6/TAK1/TAB1/TAB2	TRAF6/TAK1/TAB1/TAB2	component>
+Atypical PKCs	IRAK/TRAF6/p62/Atypical PKCs	component>
+SQSTM1	IRAK/TRAF6/p62/Atypical PKCs	component>
+IRAK/TRAF6	IRAK/TRAF6/p62/Atypical PKCs	component>
+IL1RAP	IL1 alpha/IL1R1/IL1RAP	component>
+IL1R1	IL1 alpha/IL1R1/IL1RAP	component>
+IL1A	IL1 alpha/IL1R1/IL1RAP	component>
+IRAK4	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4	component>
+IL1 beta fragment/IL1R1/IL1RAP/MYD88	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4	component>
+IL1R1	IL1RN/IL1R1	component>
+IL1RN	IL1RN/IL1R1	component>
+PI3K	IL1 beta fragment/IL1R1/IL1RAP/PI3K	component>
+IL1 beta fragment/IL1R1/IL1RAP	IL1 beta fragment/IL1R1/IL1RAP/PI3K	component>
+RELA	NF kappa B1 p50/RelA	component>
+NFKB1	NF kappa B1 p50/RelA	component>
+IRAK/TOLLIP	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	component>
+IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	component>
+TAK1/TAB1/TAB2	IRAK/TRAF6/TAK1/TAB1/TAB2	component>
+IRAK/TRAF6	IRAK/TRAF6/TAK1/TAB1/TAB2	component>
+IL1R2	IL1RN/IL1R2	component>
+IL1RN	IL1RN/IL1R2	component>
+IL1R2	IL1 alpha/IL1R2	component>
+IL1A	IL1 alpha/IL1R2	component>
+TRAF6	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/TOLLIP	component>
+IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	IRAK/TRAF6	component>
+IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4/TOLLIP	component>
+IL1RAP	IL1 beta fragment/IL1R1/IL1RAP	component>
+IL1R1	IL1 beta fragment/IL1R1/IL1RAP	component>
+IL1B	IL1 beta fragment/IL1R1/IL1RAP	component>
+MAP2K6	MAPK8	-a>
+IL1R2	IL1 beta/IL1R2	component>
+IL1R2	IL1B	component>
+IL1B	IL1 beta/IL1R2	component>
+IL1B	IL1B	component>
+IKK complex/ELKS	IKK complex/ELKS	-a>
+IRAK/TOLLIP	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	component>
+IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4	IL1 beta fragment/IL1R1/IL1RAP/MYD88/IRAK4/IRAK/TOLLIP	component>
+MYD88	IL1 alpha/IL1R1/IL1RAP/MYD88	component>
+IL1 alpha/IL1R1/IL1RAP	IL1 alpha/IL1R1/IL1RAP/MYD88	component>
+MAP3K3	IRAK/TRAF6/MEKK3	component>
+IRAK/TRAF6	IRAK/TRAF6/MEKK3	component>
+TRAF6	IRAK/TRAF6	component>
+IRAK1	IRAK/TRAF6	component>
+IRAK4	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4	component>
+IL1 alpha/IL1R1/IL1RAP/MYD88	IL1 alpha/IL1R1/IL1RAP/MYD88/IRAK4	component>
+TRAF6/TAK1/TAB1/TAB2	MAP2K6	-a>
+IRAK1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TRAF6/TAK1/TAB1/TAB2	TRAF6/TAK1/TAB1/TAB2	-a>

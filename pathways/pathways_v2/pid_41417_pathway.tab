@@ -1,0 +1,21 @@
+complex	ABCG5:ABCG8 heterodimer
+smallMolecule	phytosterols
+complex	NPC1L1:ezetimibe complex
+smallMolecule	ezetimibe
+smallMolecule	sterols
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	Cholesterol
+protein	NPC1L1
+ABCG5:ABCG8 heterodimer	phosphate	-a>
+NPC1L1	Cholesterol	-a>
+phytosterols	phytosterols	-a>
+NPC1L1	NPC1L1:ezetimibe complex	component>
+ezetimibe	NPC1L1:ezetimibe complex	component>
+ATP	sterols	-a>
+ATP	ADP	-a>
+ATP	phosphate	-a>
+sterols	sterols	-a>
+sterols	ADP	-a>
+sterols	phosphate	-a>

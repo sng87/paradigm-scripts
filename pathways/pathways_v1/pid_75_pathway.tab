@@ -1,0 +1,55 @@
+protein	WNT6
+protein	CAMK2A
+protein	NLK
+protein	FZD3
+protein	MAP3K7IP1
+protein	NFATC2
+protein	GNAS
+protein	GNB1
+protein	CDC42
+protein	GNG2
+protein	WNT4
+protein	CSNK1A1
+protein	WNT5A
+protein	PLCG1
+protein	YES1
+protein	WNT11
+protein	FZD6
+protein	MAP3K7
+protein	GO:0007205
+complex	Noncanonical Wnts/FZD
+complex	NFAT1/CK1 alpha
+complex	GNB1/GNG2
+complex	G protein
+chemical	mol:IP3
+chemical	mol:DAG
+chemical	mol:Ca2+
+mol:IP3	mol:Ca2+	-a>
+mol:Ca2+	CAMK2A	-a>
+mol:Ca2+	GO:0007205	-a>
+WNT6	Noncanonical Wnts/FZD	component>
+CAMK2A	MAP3K7	-a>
+FZD3	Noncanonical Wnts/FZD	component>
+MAP3K7IP1	NLK	-a>
+NFATC2	NFAT1/CK1 alpha	component>
+GNAS	G protein	component>
+GNB1	GNB1/GNG2	component>
+GNB1	G protein	component>
+CDC42	NFAT1/CK1 alpha	-a>
+GNG2	GNB1/GNG2	component>
+GNG2	G protein	component>
+WNT4	Noncanonical Wnts/FZD	component>
+CSNK1A1	NFAT1/CK1 alpha	component>
+WNT5A	Noncanonical Wnts/FZD	component>
+PLCG1	mol:IP3	-a>
+PLCG1	mol:DAG	-a>
+PLCG1	GO:0007205	-a>
+YES1	CDC42	-a>
+WNT11	Noncanonical Wnts/FZD	component>
+FZD6	Noncanonical Wnts/FZD	component>
+MAP3K7	NLK	-a>
+Noncanonical Wnts/FZD	GNAS	-a>
+Noncanonical Wnts/FZD	YES1	-a>
+Noncanonical Wnts/FZD	NFAT1/CK1 alpha	-a>
+Noncanonical Wnts/FZD	GNB1/GNG2	-a>
+GNB1/GNG2	PLCG1	-a>

@@ -1,0 +1,74 @@
+complex	AP-1 Complex
+complex	Arf1-GDP
+complex	Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex
+complex	Arf1-GTP
+complex	HSC70:Auxillin Complex
+complex	Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex
+complex	BLOC-1 Complex
+complex	Clathrin
+complex	Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex
+protein	UniProt:P50570-1 DNM2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TXNDC5
+protein	SH3GL2
+protein	PLDN
+protein	NAPA
+protein	DTNBP1
+protein	CNO
+protein	BLOC1S3
+protein	BLOC1S1
+protein	ARRB1
+GTP	Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	component>
+GTP	SH3GL2	component>
+GTP	UniProt:P50570-1 DNM2	component>
+GTP	GDP	component>
+GTP	phosphate	component>
+Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	component>
+Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	SH3GL2	component>
+Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	UniProt:P50570-1 DNM2	component>
+Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	GDP	component>
+Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	phosphate	component>
+UniProt:P50570-1 DNM2	Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+UniProt:P50570-1 DNM2	Arf1-GDP	component>
+UniProt:P50570-1 DNM2	phosphate	component>
+Clathrin	Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+Clathrin	Arf1-GDP	component>
+Clathrin	phosphate	component>
+Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	Arf1-GDP	component>
+Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	phosphate	component>
+SH3GL2	Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+SH3GL2	Arf1-GDP	component>
+SH3GL2	phosphate	component>
+Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	ARRB1	component>
+Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	AP-1 Complex	component>
+Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	phosphate	component>
+Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	Clathrin	component>
+Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	HSC70:Auxillin Complex	component>
+Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	ADP	component>
+ATP	ARRB1	component>
+ATP	AP-1 Complex	component>
+ATP	phosphate	component>
+ATP	Clathrin	component>
+ATP	HSC70:Auxillin Complex	component>
+ATP	ADP	component>
+HSC70:Auxillin Complex	ARRB1	component>
+HSC70:Auxillin Complex	AP-1 Complex	component>
+HSC70:Auxillin Complex	phosphate	component>
+HSC70:Auxillin Complex	Clathrin	component>
+HSC70:Auxillin Complex	HSC70:Auxillin Complex	component>
+HSC70:Auxillin Complex	ADP	component>
+DTNBP1	BLOC-1 Complex	component>
+TXNDC5	BLOC-1 Complex	component>
+PLDN	BLOC-1 Complex	component>
+BLOC1S3	BLOC-1 Complex	component>
+CNO	BLOC-1 Complex	component>
+BLOC1S1	BLOC-1 Complex	component>
+NAPA	BLOC-1 Complex	component>
+AP-1 Complex	Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	component>
+Arf1-GTP	Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	component>
+ARRB1	Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	component>

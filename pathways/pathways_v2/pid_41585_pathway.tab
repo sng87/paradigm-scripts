@@ -1,0 +1,16 @@
+complex	RPA-coated 3'-ends of DNA double strand break
+complex	RPA heterotrimer
+protein	UniProt:P51587 BRCA2
+complex	RAD51:BRCA2 complex
+complex	RAD52:RPA complex
+complex	RAD52:DNA double-strand break
+complex	heptameric RAD52 complex associated with ssDNA
+protein	RAD52
+protein	RAD51
+RAD52	RAD52:RPA complex	component>
+RPA heterotrimer	RAD52:RPA complex	component>
+RAD52	heptameric RAD52 complex associated with ssDNA	component>
+RPA-coated 3'-ends of DNA double strand break	heptameric RAD52 complex associated with ssDNA	component>
+RAD51	RAD51:BRCA2 complex	component>
+UniProt:P51587 BRCA2	RAD51:BRCA2 complex	component>
+RAD52	RAD52:DNA double-strand break	component>

@@ -1,0 +1,32 @@
+smallMolecule	H2O
+smallMolecule	dCDP
+smallMolecule	dUDP
+smallMolecule	UDP
+complex	ribonucleotide reductase M2B (TP53 inducible) variant
+smallMolecule	dGDP
+smallMolecule	CDP
+smallMolecule	dADP
+smallMolecule	ADP
+smallMolecule	GDP
+protein	TXN
+ribonucleotide reductase M2B (TP53 inducible) variant	dGDP	-a>
+ribonucleotide reductase M2B (TP53 inducible) variant	dADP	-a>
+UDP	dUDP	-a>
+UDP	H2O	-a>
+UDP	TXN	-a>
+TXN	dUDP	-a>
+TXN	dGDP	-a>
+GDP	TXN	-a>
+GDP	H2O	-a>
+GDP	dGDP	-a>
+ADP	TXN	-a>
+ADP	H2O	-a>
+ADP	dADP	-a>
+TXN	TXN	-a>
+TXN	dADP	-a>
+CDP	H2O	-a>
+CDP	dCDP	-a>
+CDP	TXN	-a>
+TXN	H2O	-a>
+TXN	dCDP	-a>
+ribonucleotide reductase M2B (TP53 inducible) variant	TXN	-a>

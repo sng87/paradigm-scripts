@@ -1,0 +1,140 @@
+abstract	beta-integrin mediated adhesion
+abstract	cell proliferation
+abstract	elevation of cytosolic calcium ion concentration
+complex	EPO/EPOR (dimer)/JAK2
+smallMolecule	DAG
+complex	GAB1/SHIP/PIK3R1/SHP2/SHC
+complex	EPO/EPOR (dimer)/SOCS3
+complex	EPO/EPOR (dimer)/LYN
+complex	TEC/VAV2/GRB2
+complex	CRKL/CBL/C3G
+complex	EPOR/TRPC2/IP3 Receptors
+complex	EPO/EPOR (dimer)
+complex	EPO/EPOR
+complex	TEC/VAV2
+complex	EPO/EPOR (dimer)/JAK2/SOCS3
+complex	PI3K regualtory subunit polypeptide 1/IRS2/SHIP
+complex	STAT1 (dimer)
+protein	SHIP
+complex	STAT5 (dimer)
+protein	STAT5
+complex	LYN/PLCgamma2
+complex	SHC/GRB2/SOS1
+protein	IP3 Receptors
+complex	GAB1/SHC/GRB2/SOS1
+smallMolecule	IP3
+smallMolecule	PIP3
+protein	SHP2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV2
+protein	TRPC6
+protein	TRPC2
+protein	TEC
+protein	STAT1
+protein	SOCS3
+protein	SHC1
+protein	SH2B3
+protein	RAPGEF1
+protein	RAP1A
+protein	PTPN6
+protein	PLCG2
+protein	PLCG1
+protein	PIK3R1
+protein	NFKB1
+protein	MAPK8
+protein	MAPK14
+protein	LYN
+protein	JAK2
+protein	IRS2
+protein	HRAS
+protein	GRB2
+protein	GAB1
+protein	EPOR
+protein	EPO
+protein	CRKL
+protein	CBL
+protein	BTK
+protein	BCL2L1
+protein	BCL2
+SH2B3	EPO/EPOR (dimer)/JAK2	component>
+PTPN6	EPO/EPOR (dimer)/JAK2	component>
+EPO/EPOR (dimer)/LYN	STAT1	-a>
+GAB1/SHC/GRB2/SOS1	HRAS	-a>
+EPO/EPOR (dimer)/LYN	PLCG1	-a>
+EPO/EPOR (dimer)/LYN	STAT5	-a>
+PLCG1	IP3	-a>
+EPO/EPOR (dimer)/JAK2	RAP1A	-a>
+EPO/EPOR	EPO/EPOR (dimer)	-a>
+EPO/EPOR (dimer)/JAK2	GAB1	-a>
+EPO/EPOR (dimer)	EPO/EPOR (dimer)/SOCS3	component>
+SOCS3	EPO/EPOR (dimer)/SOCS3	component>
+RAPGEF1	CRKL/CBL/C3G	component>
+CBL	CRKL/CBL/C3G	component>
+CRKL	CRKL/CBL/C3G	component>
+STAT1 (dimer)	BCL2	-t>
+EPOR	EPO/EPOR	component>
+EPO	EPO/EPOR	component>
+SOCS3	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+SOCS3	EPO/EPOR (dimer)/JAK2	component>
+EPO/EPOR (dimer)	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+EPO/EPOR (dimer)	EPO/EPOR (dimer)/JAK2	component>
+JAK2	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+JAK2	EPO/EPOR (dimer)/JAK2	component>
+EPO/EPOR (dimer)/JAK2	CBL	-a>
+SHC1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+SHP2	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+PIK3R1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+SHIP	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+GAB1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+STAT1 (dimer)	BCL2L1	-t>
+MAPK8	cell proliferation	-ap>
+EPO/EPOR (dimer)/JAK2	VAV2	-a>
+EPO/EPOR (dimer)/JAK2	SHC/GRB2/SOS1	-a>
+EPO/EPOR (dimer)/JAK2	STAT1	-a>
+STAT1 (dimer)	STAT1 (dimer)	-a>
+EPO/EPOR (dimer)/LYN	MAPK14	-a>
+EPO/EPOR (dimer)/JAK2	TEC	-a>
+TRPC6	elevation of cytosolic calcium ion concentration	-ap>
+EPO/EPOR (dimer)/JAK2	elevation of cytosolic calcium ion concentration	-ap>
+STAT5 (dimer)	BCL2L1	-t>
+EPO/EPOR (dimer)/JAK2	CRKL	-a>
+GTP	GDP	-a>
+GTP	HRAS	-a>
+HRAS	GDP	-a>
+SHC/GRB2/SOS1	HRAS	-a>
+EPO/EPOR (dimer)/JAK2	PLCG1	-a>
+EPO/EPOR (dimer)/LYN	MAPK8	-a>
+EPO/EPOR (dimer)/JAK2	STAT5	-a>
+IP3	IP3 Receptors	-a>
+IP3 Receptors	EPOR/TRPC2/IP3 Receptors	component>
+TRPC2	EPOR/TRPC2/IP3 Receptors	component>
+EPOR	EPOR/TRPC2/IP3 Receptors	component>
+STAT1	STAT1 (dimer)	component>
+SHIP	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+PIK3R1	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+IRS2	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+MAPK14	cell proliferation	-ap>
+PIP3	DAG	-a>
+PIP3	IP3	-a>
+EPO/EPOR (dimer)/JAK2	PTPN6	-a>
+EPO/EPOR (dimer)/LYN	NFKB1	-a>
+STAT5 (dimer)	BCL2	-t>
+EPO/EPOR (dimer)	LYN	-a>
+EPO/EPOR (dimer)	EPO/EPOR (dimer)/LYN	-a>
+LYN	LYN	-a>
+LYN	EPO/EPOR (dimer)/LYN	-a>
+GRB2	TEC/VAV2/GRB2	component>
+TEC/VAV2	TEC/VAV2/GRB2	component>
+RAP1A	beta-integrin mediated adhesion	-ap>
+EPO/EPOR (dimer)/JAK2	IRS2	-a>
+STAT5	STAT5 (dimer)	component>
+STAT5 (dimer)	STAT5 (dimer)	-a>
+PLCG2	LYN/PLCgamma2	component>
+LYN	LYN/PLCgamma2	component>
+VAV2	TEC/VAV2	component>
+TEC	TEC/VAV2	component>
+EPO/EPOR (dimer)/JAK2	BTK	-a>
+EPOR/TRPC2/IP3 Receptors	elevation of cytosolic calcium ion concentration	-ap>
+SHC/GRB2/SOS1	GAB1/SHC/GRB2/SOS1	component>
+GAB1	GAB1/SHC/GRB2/SOS1	component>

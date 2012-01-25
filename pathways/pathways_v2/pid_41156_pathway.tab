@@ -1,0 +1,50 @@
+complex	Nuclear Pore Complex (NPC)
+complex	TAP:3'-polyadenylated, capped mRNA complex
+complex	Export Receptor bound mature mRNA Complex
+complex	Mature mRNP Complex
+complex	3'-polyadenylated, capped mRNA complex
+protein	U2AF2
+protein	U2AF1
+protein	THOC4
+protein	SRRM1
+protein	SFRS9
+protein	SFRS7
+protein	SFRS6
+protein	SFRS5
+protein	SFRS4
+protein	SFRS3
+protein	SFRS2
+protein	SFRS11
+protein	SFRS1
+protein	NXF1
+protein	EIF4E
+protein	DHX38
+protein	CDC40
+Nuclear Pore Complex (NPC)	Export Receptor bound mature mRNA Complex	-a>
+Nuclear Pore Complex (NPC)	SRRM1	component>
+Nuclear Pore Complex (NPC)	DHX38	component>
+Export Receptor bound mature mRNA Complex	Export Receptor bound mature mRNA Complex	-a>
+EIF4E	NXF1	component>
+EIF4E	Mature mRNP Complex	component>
+EIF4E	THOC4	component>
+EIF4E	SRRM1	component>
+Export Receptor bound mature mRNA Complex	NXF1	component>
+Export Receptor bound mature mRNA Complex	Mature mRNP Complex	component>
+Export Receptor bound mature mRNA Complex	THOC4	component>
+Export Receptor bound mature mRNA Complex	SRRM1	component>
+3'-polyadenylated, capped mRNA complex	TAP:3'-polyadenylated, capped mRNA complex	component>
+NXF1	TAP:3'-polyadenylated, capped mRNA complex	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS9	component>
+TAP:3'-polyadenylated, capped mRNA complex	Export Receptor bound mature mRNA Complex	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS2	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS1	component>
+TAP:3'-polyadenylated, capped mRNA complex	U2AF1	component>
+TAP:3'-polyadenylated, capped mRNA complex	CDC40	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS11	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS3	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS5	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS7	component>
+TAP:3'-polyadenylated, capped mRNA complex	U2AF2	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS6	component>
+TAP:3'-polyadenylated, capped mRNA complex	SFRS4	component>
+TAP:3'-polyadenylated, capped mRNA complex	DHX38	component>

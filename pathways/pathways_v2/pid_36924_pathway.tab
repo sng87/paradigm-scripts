@@ -1,0 +1,137 @@
+abstract	meiosis
+abstract	centrosome duplication
+abstract	regulation of centrosome cycle
+abstract	negative regulation of DNA binding
+abstract	mitotic anaphase
+abstract	G2/M transition checkpoint
+abstract	mRNA polyadenylation
+abstract	mitosis
+abstract	spindle assembly
+abstract	protein catabolic process
+abstract	G2/M transition of mitotic cell cycle
+abstract	mitotic prometaphase
+abstract	prophase
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+abstract	G2 phase of mitotic cell cycle
+complex	Aurora A/TACC1/TRAP/chTOG
+complex	PAK1/Aurora A
+complex	Aurora A/GADD45A
+complex	Aurora A/TPX2
+complex	GIT1/betaPIX
+complex	GIT1/betaPIX/PAK1
+complex	NDEL1/TACC3
+complex	Aurora A/CPEB
+complex	Importin alpha/Importin beta/TPX2
+complex	Aurora A/PP2A
+protein	CPEB
+complex	Aurora A/RasGAP/Survivin
+complex	Ajuba/Aurora A
+complex	APC/C
+protein	Antizyme1
+complex	Aurora A/Antizyme1
+complex	Aurora A/NDEL1/TACC3
+protein	HURP
+complex	Aurora A/BRCA1
+protein	chTOG
+protein	Aurora A
+complex	Aurora A/RasGAP
+protein	TPX2
+protein	TP53
+protein	TDRD7
+protein	TACC3
+protein	TACC1
+protein	RASA1
+protein	RAN
+protein	PRKACA
+protein	PPP2R5D
+protein	PAK1
+protein	NFKBIA
+protein	NDEL1
+protein	MDM2
+protein	JUB
+protein	GSK3B
+protein	GIT1
+protein	GADD45A
+protein	FZR1
+protein	CENPA
+protein	CDC25B
+protein	BRCA1
+protein	BIRC5
+protein	AURKB
+protein	AURKAIP1
+protein	ARHGEF7
+protein	AKT1
+HURP	protein catabolic process	-ap>
+meiosis	Aurora A/CPEB	component>
+CENPA	AURKB	-a>
+Aurora A	NDEL1/TACC3	component>
+prophase	NDEL1/TACC3	component>
+Aurora A	CDC25B	-a>
+Aurora A	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+AURKAIP1	Aurora A/Antizyme1	component>
+RAN	TPX2	component>
+G2 phase of mitotic cell cycle	Ajuba/Aurora A	component>
+G2/M transition of mitotic cell cycle	Aurora A/RasGAP/Survivin	component>
+mitosis	Aurora A/BRCA1	component>
+Ajuba/Aurora A	G2/M transition checkpoint	-ap>
+Aurora A	NFKBIA	-a>
+GSK3B	Aurora A	-a>
+mitosis	protein catabolic process	-ap>
+Aurora A	Aurora A/GADD45A	component>
+GADD45A	Aurora A/GADD45A	component>
+Aurora A	Aurora A/CPEB	component>
+CPEB	Aurora A/CPEB	component>
+mitotic prometaphase	AURKB	-a>
+Aurora A/TACC1/TRAP/chTOG	spindle assembly	-ap>
+Aurora A/PP2A	protein catabolic process	-ap>
+APC/C	Aurora A	-a>
+PAK1/Aurora A	centrosome duplication	-ap>
+NDEL1/TACC3	regulation of centrosome cycle	-ap>
+TP53	negative regulation of DNA binding	-ap>
+PAK1	GIT1/betaPIX/PAK1	component>
+ARHGEF7	GIT1/betaPIX/PAK1	component>
+GIT1	GIT1/betaPIX/PAK1	component>
+FZR1	APC/C	-a>
+Aurora A	GIT1/betaPIX	component>
+Aurora A	PAK1/Aurora A	component>
+GIT1/betaPIX/PAK1	GIT1/betaPIX	component>
+GIT1/betaPIX/PAK1	PAK1/Aurora A	component>
+TACC3	NDEL1/TACC3	component>
+NDEL1	NDEL1/TACC3	component>
+G2/M transition checkpoint	CDC25B	-a>
+Aurora A	AKT1	-a>
+mitotic anaphase	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+TP53	TP53	-a>
+Aurora A	TP53	-a>
+PRKACA	Aurora A	-a>
+NDEL1/TACC3	Aurora A/NDEL1/TACC3	component>
+Aurora A	Aurora A/NDEL1/TACC3	component>
+RASA1	Aurora A/RasGAP	component>
+Aurora A	Aurora A/RasGAP	component>
+Antizyme1	Aurora A/Antizyme1	component>
+Aurora A	Aurora A/Antizyme1	component>
+Aurora A	HURP	-a>
+Importin alpha/Importin beta/TPX2	TPX2	component>
+Aurora A/CPEB	mRNA polyadenylation	-ap>
+Aurora A	CENPA	-a>
+Aurora A	Aurora A/PP2A	component>
+PPP2R5D	Aurora A/PP2A	component>
+Aurora A	Ajuba/Aurora A	component>
+JUB	Ajuba/Aurora A	component>
+MDM2	TP53	-a>
+BIRC5	Aurora A/RasGAP/Survivin	component>
+Aurora A/RasGAP	Aurora A/RasGAP/Survivin	component>
+TPX2	Aurora A/TPX2	component>
+Aurora A	Aurora A/TPX2	component>
+Aurora A	Aurora A/BRCA1	component>
+BRCA1	Aurora A/BRCA1	component>
+AURKB	CENPA	-a>
+Aurora A	Aurora A/TACC1/TRAP/chTOG	component>
+TDRD7	Aurora A/TACC1/TRAP/chTOG	component>
+chTOG	Aurora A/TACC1/TRAP/chTOG	component>
+TACC1	Aurora A/TACC1/TRAP/chTOG	component>
+TP53	protein catabolic process	-ap>
+HURP	spindle assembly	-ap>
+Aurora A/TPX2	spindle assembly	-ap>
+Aurora A/Antizyme1	protein catabolic process	-ap>
+Aurora A/BRCA1	G2/M transition of mitotic cell cycle	-ap>

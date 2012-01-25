@@ -1,0 +1,23 @@
+smallMolecule	prostaglandin
+smallMolecule	leukotriene
+complex	PPAR-gamma/RXR
+protein	Cyclooxygenases
+smallMolecule	fatty acid
+complex	PPAR-alpha/RXR
+complex	PPAR-beta/RXR
+protein	RXRA
+protein	PPARG
+protein	PPARD
+protein	PPARA
+fatty acid	PPAR-alpha/RXR	component>
+leukotriene	PPAR-gamma/RXR	component>
+prostaglandin	PPAR-gamma/RXR	component>
+Cyclooxygenases	leukotriene	-a>
+RXRA	PPAR-alpha/RXR	component>
+PPARA	PPAR-alpha/RXR	component>
+RXRA	PPAR-gamma/RXR	component>
+PPARG	PPAR-gamma/RXR	component>
+RXRA	PPAR-beta/RXR	component>
+PPARD	PPAR-beta/RXR	component>
+fatty acid	prostaglandin	-a>
+fatty acid	leukotriene	-a>

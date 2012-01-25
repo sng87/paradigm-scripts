@@ -1,0 +1,117 @@
+protein	GO:0005551
+protein	EnzymeConsortium:3.1.4.12
+protein	EnzymeConsortium:2.7.1.37
+protein	BAG4
+protein	MAP4K4
+protein	AIFM1
+protein	KSR1
+protein	FADD
+protein	CRADD
+protein	RIPK1
+protein	TRADD
+protein	MADD
+protein	IKBKG
+protein	NSMAF
+protein	CASP8
+protein	TRAF2
+protein	TNFRSF1A
+protein	TNF
+protein	SMPD1
+protein	MAP2K4
+protein	RELA
+protein	BCL2
+protein	RAF1
+protein	BAX
+protein	BAD
+protein	MAP2K2
+protein	MAP2K1
+protein	MAPK8
+protein	MAPK3
+protein	MAPK1
+protein	CYCS
+protein	NFKBIA
+protein	MAP3K1
+protein	IKBKB
+protein	BIRC3
+protein	CHUK
+complex	p50/RELA/I-kappa-B-alpha
+complex	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD
+complex	TNF/TNF R/SODD
+complex	TNF R/SODD
+complex	RELA/p50
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	FADD/Caspase 8
+chemical	mol:ceramide
+abstract	response to radiation
+abstract	response to hydrogen peroxide
+abstract	response to heat
+abstract	response to UV
+abstract	protein ubiquitination
+response to radiation	EnzymeConsortium:3.1.4.12	-ap>
+response to radiation	SMPD1	-ap>
+response to hydrogen peroxide	EnzymeConsortium:3.1.4.12	-ap>
+response to hydrogen peroxide	SMPD1	-ap>
+response to heat	EnzymeConsortium:3.1.4.12	-ap>
+response to heat	SMPD1	-ap>
+response to UV	EnzymeConsortium:3.1.4.12	-ap>
+response to UV	SMPD1	-ap>
+mol:ceramide	KSR1	-a>
+mol:ceramide	BAX	-a>
+mol:ceramide	BAD	-a>
+mol:ceramide	MAP3K1	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	EnzymeConsortium:3.1.4.12	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	MAP4K4	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	FADD	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	NSMAF	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	CASP8	-a>
+TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	SMPD1	-a>
+RELA/p50	CASP8	-a>
+GO:0005551	I-kappa-B-alpha/RELA/p50/ubiquitin	component>
+EnzymeConsortium:3.1.4.12	mol:ceramide	-a>
+EnzymeConsortium:2.7.1.37	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+BAG4	TNF/TNF R/SODD	component>
+BAG4	TNF R/SODD	component>
+MAP4K4	IKBKG	-a>
+MAP4K4	IKBKB	-a>
+MAP4K4	CHUK	-a>
+KSR1	RAF1	-a>
+FADD	FADD/Caspase 8	component>
+CRADD	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+RIPK1	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+TRADD	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+MADD	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+IKBKG	protein ubiquitination	-ap>
+NSMAF	mol:ceramide	-a>
+CASP8	FADD/Caspase 8	component>
+TRAF2	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+TNFRSF1A	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+TNFRSF1A	TNF/TNF R/SODD	component>
+TNFRSF1A	TNF R/SODD	component>
+TNF	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+TNF	TNF/TNF R/SODD	component>
+SMPD1	mol:ceramide	-a>
+MAP2K4	EnzymeConsortium:2.7.1.37	-a>
+MAP2K4	MAPK8	-a>
+RELA	p50/RELA/I-kappa-B-alpha	component>
+RELA	RELA/p50	component>
+RELA	I-kappa-B-alpha/RELA/p50/ubiquitin	component>
+BCL2	AIFM1	-a|
+BCL2	CYCS	-a|
+RAF1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+BAX	AIFM1	-a>
+BAX	CYCS	-a>
+BAD	AIFM1	-a>
+BAD	CYCS	-a>
+MAP2K2	EnzymeConsortium:2.7.1.37	-a>
+MAP2K2	MAPK3	-a>
+MAP2K2	MAPK1	-a>
+MAP2K1	EnzymeConsortium:2.7.1.37	-a>
+MAP2K1	MAPK3	-a>
+MAP2K1	MAPK1	-a>
+NFKBIA	p50/RELA/I-kappa-B-alpha	component>
+NFKBIA	I-kappa-B-alpha/RELA/p50/ubiquitin	component>
+MAP3K1	MAP2K4	-a>
+IKBKB	protein ubiquitination	-ap>
+BIRC3	TNF/TNF R/TRADD/MADD/cIAP/RIP/TRAF2/RAIDD	component>
+CHUK	protein ubiquitination	-ap>

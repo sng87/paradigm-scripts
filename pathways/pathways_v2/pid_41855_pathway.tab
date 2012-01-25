@@ -1,0 +1,27 @@
+complex	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I
+smallMolecule	1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+complex	PIP3:PDK1:AKT
+complex	GPVI:Fc Epsilon R1 gamma:FYN:LYN:Collagen I
+complex	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I:SYK
+smallMolecule	1,2-Diacylglycerol
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	IP3
+smallMolecule	PIP3
+protein	SYK
+protein	PLCG2
+protein	PDPK1
+protein	AKT1
+PLCG2	1,2-Diacylglycerol	-a>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I	ADP	-a>
+GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I:SYK	component>
+SYK	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I:SYK	component>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	IP3	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	1,2-Diacylglycerol	-a>
+GPVI:Fc Epsilon R1 gamma:FYN:LYN:Collagen I	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I	-a>
+GPVI:Fc Epsilon R1 gamma:FYN:LYN:Collagen I	ADP	-a>
+ATP	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen I	-a>
+ATP	ADP	-a>
+PIP3	PIP3:PDK1:AKT	component>
+PDPK1	PIP3:PDK1:AKT	component>
+AKT1	PIP3:PDK1:AKT	component>

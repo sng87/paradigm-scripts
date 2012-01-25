@@ -1,0 +1,217 @@
+abstract	Wnt receptor signaling pathway, planar cell polarity pathway
+abstract	receptor recycling
+abstract	Wnt receptor signaling pathway through beta-catenin
+abstract	clathrin coat assembly
+abstract	degradation
+complex	LRP6/FZD8/SOST
+complex	WNT5A/FZD4/LRP5
+complex	WNT3A/WNT inhibitory factor 1
+complex	WNT7A/FZD5/LRP6
+complex	WNT2/FZD9/LRP6
+complex	WNT3A/FZD1
+complex	WNT2/FZD1/LRP6
+complex	WNT7B/FZD10/LRP5
+complex	WNT3A/LRP6/FZD5
+complex	WNT5A/FZD2
+complex	WNT5A/ROR2
+complex	WNT5A/FZD7
+complex	LRP5/DKK1
+complex	FZD8/LRP6/IGFBP4
+complex	WNT7B/FZD1/LRP5
+complex	WNT1/FZD8/Ryk
+complex	CTHRC1(trimer)
+complex	WNT1/FZD1/LRP5
+complex	WNT1/FZD1/LRP6
+complex	DKK1/LRP6/Kremen 1-Kremen 2
+complex	WNT3A/FZD1/LRP6
+complex	WNT3A/FZD2/LRP6
+complex	vacuolar proton-transporting V-type ATPase complex
+protein	Kremen 1-Kremen 2
+complex	WNT3A/FZD8/LRP6
+complex	WNT3A/FZD8/LRP6/PRR
+complex	DKK1/LRP6
+complex	WNT5A/FZD2/ROR2 (dimer)
+complex	WNT1/FZD8/LRP6
+complex	WNT3/FZD1/LRP6
+protein	FZD5-FZD6
+protein	WNT3A-WNT5A
+complex	WNT3A-WNT5A/FZD5-FZD6/ROR2(dimer)/CTHRC1(trimer)
+protein	WNT7B
+protein	WNT7A
+protein	WNT5A
+protein	WNT3A
+protein	WNT3
+protein	WNT2
+protein	WNT1
+protein	WIF1
+protein	SOST
+protein	RYK
+protein	RSPO1
+protein	ROR2
+protein	LRP6
+protein	LRP5
+protein	IGFBP4
+protein	FZD9
+protein	FZD8
+protein	FZD7
+protein	FZD5
+protein	FZD4
+protein	FZD2
+protein	FZD10
+protein	FZD1
+protein	DKK1
+protein	ATP6AP2
+WNT5A/FZD2	Wnt receptor signaling pathway through beta-catenin	-ap|
+vacuolar proton-transporting V-type ATPase complex	WNT3A/FZD8/LRP6/PRR	component>
+WNT5A/FZD7	Wnt receptor signaling pathway, planar cell polarity pathway	-ap>
+WNT3A/FZD2/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+ROR2	LRP5	component>
+ROR2	FZD4	component>
+ROR2	WNT5A/ROR2	component>
+ROR2	WNT5A/FZD4/LRP5	component>
+LRP5	LRP5	component>
+LRP5	FZD4	component>
+LRP5	WNT5A/ROR2	component>
+LRP5	WNT5A/FZD4/LRP5	component>
+FZD4	LRP5	component>
+FZD4	FZD4	component>
+FZD4	WNT5A/ROR2	component>
+FZD4	WNT5A/FZD4/LRP5	component>
+WNT5A	LRP5	component>
+WNT5A	FZD4	component>
+WNT5A	WNT5A/ROR2	component>
+WNT5A	WNT5A/FZD4/LRP5	component>
+CTHRC1(trimer)	WNT3A-WNT5A/FZD5-FZD6/ROR2(dimer)/CTHRC1(trimer)	component>
+ROR2	WNT3A-WNT5A/FZD5-FZD6/ROR2(dimer)/CTHRC1(trimer)	component>
+FZD5-FZD6	WNT3A-WNT5A/FZD5-FZD6/ROR2(dimer)/CTHRC1(trimer)	component>
+WNT3A-WNT5A	WNT3A-WNT5A/FZD5-FZD6/ROR2(dimer)/CTHRC1(trimer)	component>
+DKK1	WNT1/FZD8/LRP6	component>
+WNT1	DKK1/LRP6	component>
+LRP6	WNT3A/LRP6/FZD5	component>
+FZD5	WNT3A/LRP6/FZD5	component>
+WNT3A	WNT3A/LRP6/FZD5	component>
+WNT3/FZD1/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+WNT7B/FZD1/LRP5	Wnt receptor signaling pathway through beta-catenin	-ap>
+WNT5A/FZD4/LRP5	Wnt receptor signaling pathway through beta-catenin	-ap>
+LRP5	WNT7B/FZD10/LRP5	component>
+FZD10	WNT7B/FZD10/LRP5	component>
+WNT7B	WNT7B/FZD10/LRP5	component>
+FZD1	WNT3A/FZD1	component>
+WNT3A	WNT3A/FZD1	component>
+LRP6	WNT2/FZD9/LRP6	component>
+FZD9	WNT2/FZD9/LRP6	component>
+WNT2	WNT2/FZD9/LRP6	component>
+WNT3A/FZD8/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+LRP6	WNT3/FZD1/LRP6	component>
+FZD1	WNT3/FZD1/LRP6	component>
+WNT3	WNT3/FZD1/LRP6	component>
+WNT1/FZD8/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+WNT3A/FZD1/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+ROR2	WNT5A/FZD2/ROR2 (dimer)	component>
+FZD2	WNT5A/FZD2/ROR2 (dimer)	component>
+WNT5A	WNT5A/FZD2/ROR2 (dimer)	component>
+LRP5	WNT7B/FZD1/LRP5	component>
+FZD1	WNT7B/FZD1/LRP5	component>
+WNT7B	WNT7B/FZD1/LRP5	component>
+WNT1/FZD8/Ryk	Wnt receptor signaling pathway through beta-catenin	-ap>
+WNT5A	LRP6	component>
+WNT5A	WNT3A	component>
+WNT5A	WNT3A/FZD2/LRP6	component>
+LRP6	LRP6	component>
+LRP6	WNT5A/FZD2	component>
+LRP6	WNT3A/FZD2/LRP6	component>
+FZD2	LRP6	component>
+FZD2	WNT3A	component>
+FZD2	WNT3A/FZD2/LRP6	component>
+WNT3A	LRP6	component>
+WNT3A	WNT5A/FZD2	component>
+WNT3A	WNT3A/FZD2/LRP6	component>
+WNT3A/FZD1	Wnt receptor signaling pathway, planar cell polarity pathway	-ap>
+LRP6	WNT3A/FZD1/LRP6	component>
+FZD1	WNT3A/FZD1/LRP6	component>
+WNT3A	WNT3A/FZD1/LRP6	component>
+WNT2/FZD1/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+RSPO1	DKK1/LRP6	-a|
+Kremen 1-Kremen 2	DKK1/LRP6/Kremen 1-Kremen 2	component>
+DKK1/LRP6	DKK1/LRP6/Kremen 1-Kremen 2	component>
+SOST	WNT1	component>
+SOST	LRP6/FZD8/SOST	component>
+SOST	WNT1/FZD8/LRP6	component>
+LRP6	WNT1	component>
+LRP6	LRP6/FZD8/SOST	component>
+LRP6	WNT1/FZD8/LRP6	component>
+FZD8	WNT1	component>
+FZD8	LRP6/FZD8/SOST	component>
+FZD8	WNT1/FZD8/LRP6	component>
+WNT1	LRP6/FZD8/SOST	component>
+WNT1	WNT1/FZD8/LRP6	component>
+WNT2/FZD9/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+LRP6	WNT7A/FZD5/LRP6	component>
+FZD5	WNT7A/FZD5/LRP6	component>
+WNT7A	WNT7A/FZD5/LRP6	component>
+DKK1	FZD8	component>
+DKK1	WNT3A	component>
+DKK1	DKK1/LRP6	component>
+DKK1	WNT3A/FZD8/LRP6	component>
+LRP6	FZD8	component>
+LRP6	DKK1/LRP6	component>
+FZD8	FZD8	component>
+FZD8	DKK1/LRP6	component>
+WNT3A	FZD8	component>
+WNT3A	DKK1/LRP6	component>
+LRP6	WNT1/FZD1/LRP6	component>
+FZD1	WNT1/FZD1/LRP6	component>
+WNT1	WNT1/FZD1/LRP6	component>
+clathrin coat assembly	DKK1/LRP6/Kremen 1-Kremen 2	-a>
+WNT7A/FZD5/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+IGFBP4	WNT3A	component>
+IGFBP4	FZD8/LRP6/IGFBP4	component>
+IGFBP4	WNT3A/FZD8/LRP6	component>
+LRP6	WNT3A	component>
+LRP6	FZD8/LRP6/IGFBP4	component>
+LRP6	WNT3A/FZD8/LRP6	component>
+FZD8	WNT3A	component>
+FZD8	FZD8/LRP6/IGFBP4	component>
+FZD8	WNT3A/FZD8/LRP6	component>
+WNT3A	WNT3A	component>
+WNT3A	FZD8/LRP6/IGFBP4	component>
+WNT3A	WNT3A/FZD8/LRP6	component>
+RYK	WNT1/FZD8/Ryk	component>
+FZD8	WNT1/FZD8/Ryk	component>
+WNT1	WNT1/FZD8/Ryk	component>
+WIF1	WNT3A/WNT inhibitory factor 1	component>
+WNT3A	WNT3A/WNT inhibitory factor 1	component>
+FZD2	WNT5A/FZD2	component>
+WNT5A	WNT5A/FZD2	component>
+LRP6	receptor recycling	-ap>
+DKK1/LRP6/Kremen 1-Kremen 2	Kremen 1-Kremen 2	component>
+DKK1/LRP6/Kremen 1-Kremen 2	LRP6	component>
+DKK1/LRP6/Kremen 1-Kremen 2	DKK1	component>
+WNT1/FZD1/LRP5	Wnt receptor signaling pathway through beta-catenin	-ap>
+ATP6AP2	WNT3A/FZD8/LRP6/PRR	component>
+LRP6	WNT3A/FZD8/LRP6/PRR	component>
+FZD8	WNT3A/FZD8/LRP6/PRR	component>
+WNT3A	WNT3A/FZD8/LRP6/PRR	component>
+DKK1/LRP6	LRP6	component>
+DKK1/LRP6	DKK1	component>
+DKK1	degradation	-ap>
+DKK1	WNT1	component>
+DKK1	LRP5/DKK1	component>
+DKK1	WNT1/FZD1/LRP5	component>
+LRP5	WNT1	component>
+LRP5	LRP5/DKK1	component>
+LRP5	WNT1/FZD1/LRP5	component>
+FZD1	WNT1	component>
+FZD1	LRP5/DKK1	component>
+FZD1	WNT1/FZD1/LRP5	component>
+WNT1	WNT1	component>
+WNT1	LRP5/DKK1	component>
+WNT1	WNT1/FZD1/LRP5	component>
+WNT7B/FZD10/LRP5	Wnt receptor signaling pathway through beta-catenin	-ap>
+FZD7	WNT5A/FZD7	component>
+WNT5A	WNT5A/FZD7	component>
+WNT3A/FZD8/LRP6/PRR	Wnt receptor signaling pathway through beta-catenin	-ap>
+WNT1/FZD1/LRP6	Wnt receptor signaling pathway through beta-catenin	-ap>
+LRP6	WNT2/FZD1/LRP6	component>
+FZD1	WNT2/FZD1/LRP6	component>
+WNT2	WNT2/FZD1/LRP6	component>

@@ -1,0 +1,33 @@
+complex	Tat-containing early elongation complex with hyperphosphorylated Pol II CTD and phospho-NELF
+complex	FACT complex
+complex	Elongin Complex
+complex	P-TEFb(Cyclin T1:Cdk9) complex
+complex	Cap Binding Complex (CBC)
+complex	Tat:P-TEFb(Cyclin T1:Cdk9) complex
+complex	DSIF:NELF:early elongation complex
+complex	HIV-1 elongation complex containing Tat
+protein	TAT protein
+complex	Tat-containing early elongation complex with hyperphosphorylated Pol II CTD
+smallMolecule	ATP
+smallMolecule	ADP
+complex	TFIIH
+protein	TCEA1
+protein	ELL
+TAT protein	Tat:P-TEFb(Cyclin T1:Cdk9) complex	component>
+P-TEFb(Cyclin T1:Cdk9) complex	Tat:P-TEFb(Cyclin T1:Cdk9) complex	component>
+Tat-containing early elongation complex with hyperphosphorylated Pol II CTD	ADP	-a>
+Tat-containing early elongation complex with hyperphosphorylated Pol II CTD	Tat-containing early elongation complex with hyperphosphorylated Pol II CTD and phospho-NELF	-a>
+Tat:P-TEFb(Cyclin T1:Cdk9) complex	Tat-containing early elongation complex with hyperphosphorylated Pol II CTD	-a>
+Tat:P-TEFb(Cyclin T1:Cdk9) complex	Cap Binding Complex (CBC)	-a>
+DSIF:NELF:early elongation complex	Tat-containing early elongation complex with hyperphosphorylated Pol II CTD	-a>
+DSIF:NELF:early elongation complex	Cap Binding Complex (CBC)	-a>
+TFIIH	HIV-1 elongation complex containing Tat	component>
+TCEA1	HIV-1 elongation complex containing Tat	component>
+Tat-containing early elongation complex with hyperphosphorylated Pol II CTD and phospho-NELF	HIV-1 elongation complex containing Tat	component>
+FACT complex	HIV-1 elongation complex containing Tat	component>
+ELL	HIV-1 elongation complex containing Tat	component>
+Elongin Complex	HIV-1 elongation complex containing Tat	component>
+ATP	ADP	-a>
+ATP	Tat-containing early elongation complex with hyperphosphorylated Pol II CTD and phospho-NELF	-a>
+Tat-containing early elongation complex with hyperphosphorylated Pol II CTD and phospho-NELF	ADP	-a>
+Tat-containing early elongation complex with hyperphosphorylated Pol II CTD and phospho-NELF	Tat-containing early elongation complex with hyperphosphorylated Pol II CTD and phospho-NELF	-a>

@@ -1,0 +1,204 @@
+abstract	histone methylation
+abstract	fat cell differentiation
+abstract	T cell activation
+abstract	erythrocyte differentiation
+abstract	rRNA transcription
+abstract	G1/S transition of mitotic cell cycle
+abstract	DNA damage
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	RB1/E2F1-3/DP/SUV39H1
+complex	RB1/E2F1-3/DP/HDAC1/RBBP4
+complex	RB1/PPARG
+complex	SKP2/RB1
+complex	p21CIP1/CDK2
+complex	E2F4/DP
+complex	CDK2/Cyclin A
+complex	RB1/E2F4/DP
+complex	BRG1/BAF47
+complex	RB1/ID2
+complex	RB1/JUN
+complex	CDK2/Cyclin E1
+complex	RB1/E2F1-3
+complex	RB1/E2F1-3/DP/SPI1
+complex	RB1/E2F1-3/Elf1
+complex	E2F1-3/DP
+protein	CEBP
+complex	RB1/E2F1-3/DP/HDAC1
+complex	PPP2CA/PR70
+complex	RB1/E2F4/DP/CtBP
+complex	CDK4-6/Cyclin D
+complex	SPI1/GSC
+complex	p27Kip1/CDK2
+complex	RB1/c-Abl
+complex	RB1/E2F1-3/DP/CHE-1
+protein	p38alpha-beta-active
+complex	RB1/E2F1-3/DP/HDAC3
+protein	p16INK4a
+complex	CDK4-6/Cyclin D/p16INK4a
+complex	SKP2/p27Kip1
+complex	RB1/E2F1-3/DP/HDAC1/DNMT1
+complex	RB1/E2F4/DP/CtBP/hPC2
+complex	RB1/E2F1-3/DP
+protein	hPC2
+complex	RB1/PPARG/HDAC3
+complex	SPI1/TBP
+smallMolecule	Ca2+
+protein	MYOD
+complex	RB1/E2F1-3/DP/HDAC3/RBBP4
+protein	Cbp/p300
+protein	UBTF
+protein	TGFB2
+protein	TBP
+protein	TAF1
+protein	SUV39H1
+protein	SPI1
+protein	SIRT1
+protein	SFTPD
+protein	RUNX2
+protein	RBP2
+protein	RBBP4
+protein	RB1
+protein	RAF1
+protein	PPARG
+protein	PAX3
+protein	MYL1
+protein	MITF
+protein	MET
+protein	MEF2C
+protein	MDM2
+protein	MAPK9
+protein	JUN
+protein	ID2
+protein	HDAC3
+protein	HDAC1
+protein	GSC
+protein	ELF1
+protein	DNMT1
+protein	CTBP1
+protein	CSF2
+protein	CKM
+protein	CDKN1B
+protein	CDKN1A
+protein	CDK2
+protein	BRD2
+protein	BGLAP
+protein	ATF7
+protein	ATF2
+protein	ABL1
+protein	AATF
+RB1	rRNA transcription	-ap|
+CDK4-6/Cyclin D/p16INK4a	RB1/E2F1-3/DP	component>
+CDK4-6/Cyclin D	RB1/E2F1-3/DP	component>
+RB1	MET	-t|
+CDK2/Cyclin A	ABL1	component>
+RB1/E2F1-3/DP	SPI1/TBP	component>
+SKP2/RB1	proteasomal ubiquitin-dependent protein catabolic process	-ap|
+RBP2	BRD2	-t>
+RB1	CDKN1A	-t>
+RB1	ATF2	-a>
+RUNX2	BGLAP	-t>
+p21CIP1/CDK2	E2F1-3/DP	component>
+CDK2/Cyclin E1	E2F1-3/DP	component>
+Cbp/p300	RB1	-a>
+MYOD	MEF2C	-a>
+T cell activation	ELF1	component>
+SPI1/GSC	erythrocyte differentiation	-ap|
+RB1	MYL1	-t|
+CDK2/Cyclin A	E2F1-3/DP	component>
+Ca2+	RB1	-a>
+RB1	TGFB2	-t|
+MDM2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+RB1	SFTPD	-t>
+G1/S transition of mitotic cell cycle	RB1/E2F4/DP	component>
+MYOD	MYL1	-t>
+UBTF	rRNA transcription	-ap>
+RB1/E2F1-3/DP/SUV39H1	SUV39H1	component>
+RB1/E2F1-3/DP/SUV39H1	RB1/E2F1-3/DP	component>
+RAF1	RB1	-a>
+GSC	SPI1/GSC	component>
+GSC	RB1/E2F1-3/DP/SPI1	component>
+SPI1	SPI1/GSC	component>
+SPI1	RB1/E2F1-3/DP/SPI1	component>
+RB1/E2F1-3/DP	SPI1/GSC	component>
+RB1/E2F1-3/DP	RB1/E2F1-3/DP/SPI1	component>
+SIRT1	RB1	-a>
+RB1	TAF1	-a>
+RB1/E2F1-3/DP/HDAC1	HDAC1	component>
+RB1/E2F1-3/DP/HDAC1	RB1/E2F1-3/DP	component>
+HDAC3	RB1/PPARG/HDAC3	component>
+RB1/PPARG	RB1/PPARG/HDAC3	component>
+PAX3	MET	-t>
+RBBP4	RB1/E2F1-3/DP/HDAC3/RBBP4	component>
+RB1/E2F1-3/DP/HDAC3	RB1/E2F1-3/DP/HDAC3/RBBP4	component>
+SUV39H1	RB1/E2F1-3/DP/SUV39H1	component>
+RB1/E2F1-3/DP	RB1/E2F1-3/DP/SUV39H1	component>
+CDK2	p27Kip1/CDK2	component>
+CDKN1B	p27Kip1/CDK2	component>
+AATF	RB1/E2F1-3/DP/CHE-1	component>
+AATF	RB1/E2F1-3/DP/HDAC1	component>
+HDAC1	RB1/E2F1-3/DP/CHE-1	component>
+HDAC1	RB1/E2F1-3/DP/HDAC1	component>
+RB1/E2F1-3/DP	RB1/E2F1-3/DP/CHE-1	component>
+RB1/E2F1-3/DP	RB1/E2F1-3/DP/HDAC1	component>
+RB1/c-Abl	RB1	component>
+RB1/c-Abl	ABL1	component>
+TBP	SPI1/TBP	component>
+SPI1	SPI1/TBP	component>
+E2F1-3/DP	RB1/E2F1-3/DP	component>
+RB1	RB1/E2F1-3/DP	component>
+SKP2/p27Kip1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+ELF1	CSF2	-t>
+RB1	BRD2	-t>
+MITF	CDKN1A	-t>
+RBBP4	RB1/E2F1-3/DP/HDAC1/RBBP4	component>
+RB1/E2F1-3/DP/HDAC1	RB1/E2F1-3/DP/HDAC1/RBBP4	component>
+RB1/E2F1-3/DP/SUV39H1	histone methylation	-ap>
+SKP2/p27Kip1	CDKN1B	-a>
+SKP2/p27Kip1	SKP2/RB1	-a>
+RB1	CDKN1B	-a>
+RB1	SKP2/RB1	-a>
+CTBP1	RB1/E2F4/DP/CtBP	component>
+RB1/E2F4/DP	RB1/E2F4/DP/CtBP	component>
+p38alpha-beta-active	ATF2	-a>
+MAPK9	ATF2	-a>
+RB1	BGLAP	-t>
+HDAC3	RB1/E2F1-3/DP/HDAC3	component>
+RB1/E2F1-3/DP	RB1/E2F1-3/DP/HDAC3	component>
+hPC2	RB1/E2F4/DP/CtBP/hPC2	component>
+RB1/E2F4/DP/CtBP	RB1/E2F4/DP/CtBP/hPC2	component>
+ID2	RB1/ID2	component>
+RB1	RB1/ID2	component>
+RB1/E2F1-3/DP	RB1/E2F1-3/DP	component>
+DNMT1	RB1/E2F1-3/DP/HDAC1/DNMT1	component>
+RB1/E2F1-3/DP/HDAC1	RB1/E2F1-3/DP/HDAC1/DNMT1	component>
+DNA damage	RB1	-a>
+p16INK4a	CDK4-6/Cyclin D/p16INK4a	component>
+CDK4-6/Cyclin D	CDK4-6/Cyclin D/p16INK4a	component>
+RB1/PPARG/HDAC3	fat cell differentiation	-ap|
+BRG1/BAF47	CDKN1A	-t>
+RB1/E2F1-3/DP	MEF2C	-a>
+ATF2	TGFB2	-t>
+RB1/E2F1-3/Elf1	RB1/E2F1-3	component>
+RB1/E2F1-3/Elf1	ELF1	component>
+RB1/E2F1-3/DP/SPI1	erythrocyte differentiation	-ap>
+CDK2	p21CIP1/CDK2	component>
+CDKN1A	p21CIP1/CDK2	component>
+JUN	RB1/JUN	component>
+RB1	RB1/JUN	component>
+PAX3	MYL1	-t>
+RB1/E2F1-3/DP	RB1	component>
+RB1/E2F1-3/DP	E2F1-3/DP	component>
+PPP2CA/PR70	RB1	-a>
+ELF1	RB1/E2F1-3/Elf1	component>
+RB1/E2F1-3/DP	RB1/E2F1-3/Elf1	component>
+ATF7	TGFB2	-t>
+RB1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MEF2C	CKM	-t>
+CEBP	SFTPD	-t>
+E2F4/DP	RB1/E2F4/DP	component>
+RB1	RB1/E2F4/DP	component>
+PPARG	RB1	component>
+PPARG	RB1/PPARG	component>
+RB1	RB1	component>
+RB1	RB1/PPARG	component>
+RB1	MYL1	-t>

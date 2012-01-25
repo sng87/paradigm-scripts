@@ -1,0 +1,118 @@
+protein	PPARGC1A
+protein	MKNK1
+protein	MAPKAPK5
+protein	MAPKAPK3
+protein	MAPK14
+protein	MAPK11
+protein	EIF4EBP1
+protein	MEF2C
+protein	MEF2A
+protein	MAPKAPK2
+protein	PLA2G4A
+protein	DDIT3
+protein	PTGS2
+protein	NOS2
+protein	GDI1
+protein	ELK4
+protein	USF1
+protein	RAB5A
+protein	SLC9A1
+protein	ATF6
+protein	ATF1
+protein	CEBPB
+protein	CREB1
+protein	ATF2
+protein	KRT19
+protein	EIF4E
+protein	KRT8
+protein	JUN
+protein	HSPB1
+protein	TP53
+protein	ESR1
+protein	RPS6KA4
+protein	RPS6KA5
+protein	MITF
+protein	HBP1
+complex	p38alpha-beta/MNK1
+complex	p38alpha-beta/MAPKAPK3
+complex	p38alpha-beta/MAPKAPK2
+complex	p38alpha-beta/HBP1
+complex	p38alpha-beta/CK2
+complex	RAB5/GDP/GDI1
+complex	RAB5/GDP
+complex	ATF2/c-Jun
+chemical	mol:GDP
+p38alpha-beta/MNK1	PLA2G4A	-a>
+p38alpha-beta/MNK1	EIF4E	-a>
+p38alpha-beta/CK2	TP53	-a>
+mol:GDP	RAB5/GDP/GDI1	component>
+mol:GDP	RAB5/GDP	component>
+MKNK1	p38alpha-beta/MNK1	component>
+MAPKAPK5	HSPB1	-a>
+MAPKAPK3	p38alpha-beta/MAPKAPK3	component>
+MAPK14	p38alpha-beta/MNK1	component>
+MAPK14	p38alpha-beta/MAPKAPK3	component>
+MAPK14	p38alpha-beta/MAPKAPK2	component>
+MAPK14	p38alpha-beta/HBP1	component>
+MAPK14	p38alpha-beta/CK2	component>
+MAPK14	PPARGC1A	-a>
+MAPK14	MAPKAPK5	-a>
+MAPK14	MEF2C	-a>
+MAPK14	MEF2A	-a>
+MAPK14	DDIT3	-a>
+MAPK14	PTGS2	-t>
+MAPK14	NOS2	-t>
+MAPK14	GDI1	-a>
+MAPK14	ELK4	-a>
+MAPK14	USF1	-a>
+MAPK14	SLC9A1	-a>
+MAPK14	ATF6	-a>
+MAPK14	CEBPB	-a>
+MAPK14	ATF2	-a>
+MAPK14	KRT19	-a>
+MAPK14	KRT8	-a>
+MAPK14	TP53	-a>
+MAPK14	ESR1	-a>
+MAPK14	RPS6KA4	-a>
+MAPK14	RPS6KA5	-a>
+MAPK14	MITF	-a>
+MAPK11	p38alpha-beta/MNK1	component>
+MAPK11	p38alpha-beta/MAPKAPK3	component>
+MAPK11	p38alpha-beta/MAPKAPK2	component>
+MAPK11	p38alpha-beta/HBP1	component>
+MAPK11	p38alpha-beta/CK2	component>
+MAPK11	PPARGC1A	-a>
+MAPK11	MAPKAPK5	-a>
+MAPK11	MEF2C	-a>
+MAPK11	MEF2A	-a>
+MAPK11	DDIT3	-a>
+MAPK11	PTGS2	-t>
+MAPK11	NOS2	-t>
+MAPK11	GDI1	-a>
+MAPK11	ELK4	-a>
+MAPK11	USF1	-a>
+MAPK11	SLC9A1	-a>
+MAPK11	ATF6	-a>
+MAPK11	CEBPB	-a>
+MAPK11	ATF2	-a>
+MAPK11	KRT19	-a>
+MAPK11	KRT8	-a>
+MAPK11	TP53	-a>
+MAPK11	ESR1	-a>
+MAPK11	RPS6KA4	-a>
+MAPK11	RPS6KA5	-a>
+MAPK11	MITF	-a>
+MAPKAPK2	p38alpha-beta/MAPKAPK2	component>
+GDI1	RAB5/GDP/GDI1	component>
+RAB5A	RAB5/GDP/GDI1	component>
+RAB5A	RAB5/GDP	component>
+ATF2	ATF2/c-Jun	component>
+JUN	ATF2/c-Jun	component>
+RPS6KA4	EIF4EBP1	-a>
+RPS6KA4	ATF1	-a>
+RPS6KA4	CREB1	-a>
+RPS6KA5	EIF4EBP1	-a>
+RPS6KA5	ATF1	-a>
+RPS6KA5	CREB1	-a>
+HBP1	p38alpha-beta/HBP1	component>
+ATF2/c-Jun	JUN	-t>

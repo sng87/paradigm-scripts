@@ -1,0 +1,99 @@
+abstract	calcineurin-NFAT signaling pathway
+abstract	protein polymerization
+abstract	cell migration
+abstract	JNK cascade
+abstract	establishment of cell polarity
+abstract	clathrin coat assembly
+complex	CDC42/GDP
+complex	WNT5A/FZD2/ROR2(dimer)/FLNA
+protein	JNK family-active
+complex	CK1 alpha/NFAT1
+complex	WNT5A/FZD2/ROR2(dimer)/DVL2
+complex	WNT5A/FZD2
+complex	WNT5A/FZD2/ROR2(dimer)
+complex	RhoA/GDP
+complex	Nemo like kinase/SETDB1/CHD7/PPARG
+complex	RAC1/GDP
+complex	CDC42/GTP
+complex	WNT5A/FZD7/ROR2(dimer)
+protein	Nemo like kinase
+complex	Nemo like kinase/SETDB1/CHD7
+protein	JNK family
+complex	PAK1
+protein	CaMKIIA
+complex	WNT1/FZD7-FZD1
+complex	WNT5A/FZD7/ROR2(dimer)/DVL2
+complex	AP2
+protein	TAB family
+smallMolecule	Ca2+
+complex	DVL/DAAM1
+complex	RhoA/GTP
+protein	DVL
+complex	WNT3A-WNT5A/FZD5-FZD6/ROR2(dimer)/CTHRC1(trimer)
+smallMolecule	GDP
+smallMolecule	GTP
+protein	YES1
+protein	SETDB1
+protein	ROCK1
+protein	PRKCZ
+protein	PPARG
+protein	NFATC2
+protein	MAP3K7
+protein	FLNA
+protein	DVL2
+protein	DAAM1
+protein	CSNK1A1
+protein	CHD7
+protein	ARRB2
+CK1 alpha/NFAT1	calcineurin-NFAT signaling pathway	-ap|
+DVL	PAK1	-a>
+TAB family	Nemo like kinase	-a>
+AP2	WNT5A/FZD2/ROR2(dimer)/DVL2	-a>
+ARRB2	WNT5A/FZD2/ROR2(dimer)/DVL2	-a>
+DVL/DAAM1	RhoA/GTP	-a>
+PRKCZ	JNK family-active	-a>
+WNT5A/FZD2/ROR2(dimer)/FLNA	JNK family-active	-a>
+CDC42/GTP	CK1 alpha/NFAT1	component>
+WNT5A/FZD2/ROR2(dimer)/DVL2	PAK1	-a>
+YES1	CDC42/GTP	-a>
+WNT1/FZD7-FZD1	DVL	-a>
+WNT5A/FZD2	YES1	-a>
+DVL	WNT5A/FZD7/ROR2(dimer)	component>
+DVL	WNT5A/FZD7/ROR2(dimer)/DVL2	component>
+protein polymerization	DVL	component>
+Ca2+	calcineurin-NFAT signaling pathway	-ap>
+DVL2	WNT5A/FZD2/ROR2(dimer)/DVL2	component>
+WNT5A/FZD2/ROR2(dimer)	WNT5A/FZD2/ROR2(dimer)/DVL2	component>
+JNK family-active	establishment of cell polarity	-ap>
+RhoA/GTP	ROCK1	-a>
+Ca2+	CaMKIIA	-a>
+WNT3A-WNT5A/FZD5-FZD6/ROR2(dimer)/CTHRC1(trimer)	DVL	-a>
+MAP3K7	Nemo like kinase	-a>
+clathrin coat assembly	WNT5A/FZD2/ROR2(dimer)/DVL2	-a>
+PPARG	Nemo like kinase/SETDB1/CHD7/PPARG	component>
+Nemo like kinase/SETDB1/CHD7	Nemo like kinase/SETDB1/CHD7/PPARG	component>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+JNK family	JNK family-active	-a>
+WNT5A/FZD2	Ca2+	-a>
+FLNA	WNT5A/FZD2/ROR2(dimer)/FLNA	component>
+WNT5A/FZD2/ROR2(dimer)	WNT5A/FZD2/ROR2(dimer)/FLNA	component>
+CHD7	Nemo like kinase/SETDB1/CHD7	component>
+SETDB1	Nemo like kinase/SETDB1/CHD7	component>
+Nemo like kinase	Nemo like kinase/SETDB1/CHD7	component>
+ROCK1	cell migration	-ap>
+CaMKIIA	MAP3K7	-a>
+PAK1	JNK cascade	-ap>
+NFATC2	CK1 alpha/NFAT1	component>
+CSNK1A1	CK1 alpha/NFAT1	component>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+DAAM1	DVL/DAAM1	component>
+DVL	DVL/DAAM1	component>
+WNT5A/FZD7/ROR2(dimer)	DVL	-a>
+GTP	GDP	-a>
+GTP	CDC42/GTP	-a>
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>

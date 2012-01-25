@@ -1,0 +1,164 @@
+protein	CAMK2A
+protein	PTGES2
+protein	CREBBP
+protein	PIAS4
+protein	MAP3K11
+protein	RAPGEF1
+protein	CAMK2D
+protein	CAMK2G
+protein	CAMK2B
+protein	MAP3K1
+protein	EP300
+protein	PTPN11
+protein	PRKCD
+protein	MAP2K1
+protein	IRF9
+protein	RAP1A
+protein	CALM1
+protein	RAP1B
+protein	DAPK1
+protein	CRKL
+protein	FRAP1
+protein	PIK3CA
+protein	STAT1
+protein	STAT3
+protein	AKT1
+protein	CASP1
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	JAK1
+protein	CBL
+protein	PTPN2
+protein	PTPN2
+protein	CEBPB
+protein	IFNGR1
+protein	IRF1
+protein	IFNG
+protein	PIAS1
+protein	JAK2
+protein	SOCS1
+protein	SMAD7
+complex	STAT3 (dimer)
+complex	STAT1 (dimer)/SHP2
+complex	STAT1 (dimer)/PIASy
+complex	STAT1 (dimer)/PIAS1
+complex	STAT1 (dimer)/Cbp/p300
+complex	STAT1 (dimer)
+complex	Rap1/GTP
+complex	RAP1/GDP
+complex	PI3K
+complex	IFN-gammaR/JAK1/JAK1/JAK2/JAK2
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TC-PTP
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2
+complex	IFN-gamma (dimer)
+complex	CaM/Ca2+/CAMKII
+complex	CaM/Ca2+
+complex	CRKL/C3G
+complex	CEBPB/PTGES2/Cbp/p300
+complex	CBL/CRKL/C3G
+chemical	mol:PI-3-4-5-P3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Ca2+
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	negative regulation of cell growth
+abstract	apoptosis
+abstract	antigen processing and presentation of peptide antigen via MHC class II
+abstract	antigen processing and presentation of peptide antigen via MHC class I
+positive regulation of NF-kappaB transcription factor activity	IRF1	-ap>
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:GTP	Rap1/GTP	component>
+mol:GDP	RAP1/GDP	component>
+mol:Ca2+	CaM/Ca2+/CAMKII	component>
+mol:Ca2+	CaM/Ca2+	component>
+CAMK2A	CaM/Ca2+/CAMKII	component>
+PTGES2	CEBPB/PTGES2/Cbp/p300	component>
+CREBBP	STAT1 (dimer)/Cbp/p300	component>
+CREBBP	CEBPB/PTGES2/Cbp/p300	component>
+PIAS4	STAT1 (dimer)/PIASy	component>
+MAP3K11	CEBPB	-a>
+RAPGEF1	CRKL/C3G	component>
+RAPGEF1	CBL/CRKL/C3G	component>
+CAMK2D	CaM/Ca2+/CAMKII	component>
+CAMK2G	CaM/Ca2+/CAMKII	component>
+CAMK2B	CaM/Ca2+/CAMKII	component>
+MAP3K1	MAP2K1	-a>
+EP300	STAT1 (dimer)/Cbp/p300	component>
+EP300	CEBPB/PTGES2/Cbp/p300	component>
+PTPN11	STAT1 (dimer)/SHP2	component>
+PTPN11	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	-a|
+PRKCD	STAT1 (dimer)	-a>
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+RAP1A	Rap1/GTP	component>
+RAP1A	RAP1/GDP	component>
+CALM1	CaM/Ca2+/CAMKII	component>
+CALM1	CaM/Ca2+	component>
+RAP1B	Rap1/GTP	component>
+RAP1B	RAP1/GDP	component>
+DAPK1	apoptosis	-ap>
+CRKL	CRKL/C3G	component>
+CRKL	CBL/CRKL/C3G	component>
+PIK3CA	PI3K	component>
+STAT1	STAT1 (dimer)/SHP2	component>
+STAT1	STAT1 (dimer)/PIASy	component>
+STAT1	STAT1 (dimer)/PIAS1	component>
+STAT1	STAT1 (dimer)/Cbp/p300	component>
+STAT1	STAT1 (dimer)	component>
+STAT3	STAT3 (dimer)	component>
+AKT1	FRAP1	-a>
+MAPK1	CEBPB	-a>
+PIK3R1	PI3K	component>
+MAPK3	CEBPB	-a>
+JAK1	IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+JAK1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+JAK1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TC-PTP	component>
+JAK1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+CBL	CBL/CRKL/C3G	component>
+PTPN2	STAT1 (dimer)	-a>
+PTPN2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TC-PTP	component>
+CEBPB	DAPK1	-t>
+CEBPB	CEBPB/PTGES2/Cbp/p300	component>
+IFNGR1	IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+IFNGR1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+IFNGR1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TC-PTP	component>
+IFNGR1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+IRF1	SOCS1	-t>
+IFNG	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+IFNG	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TC-PTP	component>
+IFNG	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+IFNG	IFN-gamma (dimer)	component>
+PIAS1	STAT1 (dimer)/PIAS1	component>
+JAK2	IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TC-PTP	component>
+JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+SOCS1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+STAT3 (dimer)	apoptosis	-ap|
+STAT1 (dimer)/PIASy	SOCS1	-t|
+STAT1 (dimer)/Cbp/p300	IRF1	-t>
+STAT1 (dimer)	negative regulation of cell growth	-ap>
+STAT1 (dimer)	apoptosis	-ap>
+STAT1 (dimer)	antigen processing and presentation of peptide antigen via MHC class II	-ap>
+STAT1 (dimer)	antigen processing and presentation of peptide antigen via MHC class I	-ap>
+STAT1 (dimer)	CASP1	-t>
+STAT1 (dimer)	MAPK1	-a>
+STAT1 (dimer)	MAPK3	-a>
+STAT1 (dimer)	SMAD7	-t>
+PI3K	mol:PI-3-4-5-P3	-a>
+PI3K	PRKCD	-a>
+PI3K	AKT1	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	mol:Ca2+	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	MAP3K11	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	MAP3K1	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	PTPN11	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	STAT1	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	CBL	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	PI3K	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	CaM/Ca2+/CAMKII	-a>
+CaM/Ca2+/CAMKII	STAT1 (dimer)	-a>
+CEBPB/PTGES2/Cbp/p300	IRF9	-t>
+CBL/CRKL/C3G	mol:GDP	-a>
+CBL/CRKL/C3G	Rap1/GTP	-a>

@@ -1,0 +1,18 @@
+complex	p21 RAS:GTP
+complex	RAS:RAF
+complex	activated RAF complex
+complex	RAS:RAF:14-3-3
+complex	phospho-RAF:14-3-3
+smallMolecule	ATP
+smallMolecule	ADP
+protein	YWHAB
+YWHAB	RAS:RAF:14-3-3	component>
+RAS:RAF	RAS:RAF:14-3-3	component>
+p21 RAS:GTP	YWHAB	component>
+p21 RAS:GTP	RAS:RAF	component>
+phospho-RAF:14-3-3	YWHAB	component>
+phospho-RAF:14-3-3	RAS:RAF	component>
+ATP	activated RAF complex	-a>
+ATP	ADP	-a>
+RAS:RAF:14-3-3	activated RAF complex	-a>
+RAS:RAF:14-3-3	ADP	-a>

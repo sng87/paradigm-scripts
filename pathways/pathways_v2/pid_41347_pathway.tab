@@ -1,0 +1,65 @@
+complex	GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer
+complex	PIP3:GAB1:GRB2-EGF-Phospho-EGFR dimer
+complex	SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer
+complex	GAB1:GRB2-EGF-Phospho-EGFR dimer
+complex	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer
+complex	EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg:PI3Kcat
+complex	SHP2-GRB2:Phospho GAB1(dephos)-EGF-Phospho-EGFR dimer
+complex	Paxillin:Src complex
+complex	SHP2:GRB2:Phospho GAB1-EGF-Phospho-EGFR (-Y992) dimer
+complex	EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg
+smallMolecule	H2O
+complex	GRB2:GAB1:PI3Kreg
+complex	GRB2:GAB1
+smallMolecule	PIP2
+complex	Paxillin:CSK:Src complex
+protein	UniProt:Q06124 PTPN11_subunit_1_597_1-597
+protein	UniProt:P62993-1 GRB2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	PIP3
+protein	PIK3R1
+protein	PIK3CA
+protein	PAG1
+protein	GAB1
+protein	CSK
+EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg:PI3Kcat	PIP3	-a>
+SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	PAG1	-a>
+SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	phosphate	component>
+H2O	SHP2:GRB2:Phospho GAB1-EGF-Phospho-EGFR (-Y992) dimer	-a>
+SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	SHP2:GRB2:Phospho GAB1-EGF-Phospho-EGFR (-Y992) dimer	-a>
+SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	phosphate	-a>
+SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	SHP2-GRB2:Phospho GAB1(dephos)-EGF-Phospho-EGFR dimer	-a>
+H2O	SHP2-GRB2:Phospho GAB1(dephos)-EGF-Phospho-EGFR dimer	-a>
+GAB1:GRB2-EGF-Phospho-EGFR dimer	PIP3:GAB1:GRB2-EGF-Phospho-EGFR dimer	-a>
+PIP3	PIP3:GAB1:GRB2-EGF-Phospho-EGFR dimer	-a>
+PIP2	ADP	-a>
+PIP2	PIP3	-a>
+ATP	PIP3	-a>
+PAG1	phosphate	-a>
+PAG1	PAG1	-a>
+H2O	phosphate	-a>
+H2O	PAG1	-a>
+Paxillin:CSK:Src complex	CSK	component>
+Paxillin:CSK:Src complex	Paxillin:Src complex	component>
+Paxillin:CSK:Src complex	phosphate	component>
+H2O	CSK	component>
+H2O	Paxillin:Src complex	component>
+H2O	phosphate	component>
+EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	GAB1:GRB2-EGF-Phospho-EGFR dimer	component>
+GRB2:GAB1	GAB1:GRB2-EGF-Phospho-EGFR dimer	component>
+GRB2:GAB1	GRB2:GAB1:PI3Kreg	component>
+PIK3R1	GRB2:GAB1:PI3Kreg	component>
+UniProt:P62993-1 GRB2	GRB2:GAB1	component>
+GAB1	GRB2:GAB1	component>
+EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg	EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg:PI3Kcat	component>
+PIK3CA	EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg:PI3Kcat	component>
+UniProt:Q06124 PTPN11_subunit_1_597_1-597	SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	component>
+GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	SHP2-GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	component>
+EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg	component>
+GRB2:GAB1:PI3Kreg	EGF:Phospho-EGFR-GRB2:GAB1:PI3Kreg	component>
+GAB1:GRB2-EGF-Phospho-EGFR dimer	ADP	-a>
+GAB1:GRB2-EGF-Phospho-EGFR dimer	GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	-a>
+ATP	ADP	-a>
+ATP	GRB2:Phospho GAB1-EGF-Phospho-EGFR dimer	-a>

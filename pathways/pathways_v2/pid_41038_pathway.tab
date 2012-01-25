@@ -1,0 +1,23 @@
+complex	HIV-1 transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30
+complex	Pol II transcription complex containing transcript to +30
+complex	Pol II transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30
+complex	RNA Pol II with phosphorylated CTD: CE complex
+complex	HIV-1 transcription complex containing transcript to +30
+complex	CE:Pol II CTD:Spt5 complex
+protein	phospho-Spt5
+complex	TFIIH
+protein	RNMT
+protein	RNGTT
+TFIIH	Pol II transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30	-a>
+TFIIH	HIV-1 transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30	-a>
+Pol II transcription complex containing transcript to +30	Pol II transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30	-a>
+Pol II transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30	RNA Pol II with phosphorylated CTD: CE complex	component>
+Pol II transcription complex containing transcript to +30	Pol II transcription complex containing transcript to +30	-a>
+HIV-1 transcription complex containing transcript to +30	HIV-1 transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30	-a>
+HIV-1 transcription complex containing transcript to +30	HIV-1 transcription complex containing transcript to +30	-a>
+RNA Pol II with phosphorylated CTD: CE complex	RNA Pol II with phosphorylated CTD: CE complex	-a>
+RNMT	CE:Pol II CTD:Spt5 complex	component>
+phospho-Spt5	CE:Pol II CTD:Spt5 complex	component>
+RNA Pol II with phosphorylated CTD: CE complex	CE:Pol II CTD:Spt5 complex	component>
+HIV-1 transcription complex with (ser5) phosphorylated CTD containing extruded transcript to +30	RNA Pol II with phosphorylated CTD: CE complex	component>
+RNGTT	RNA Pol II with phosphorylated CTD: CE complex	component>

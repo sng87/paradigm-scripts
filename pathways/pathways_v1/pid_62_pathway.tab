@@ -1,0 +1,95 @@
+protein	ANTXR1
+protein	NLRP1
+protein	IL18
+protein	MAP2K1
+protein	CALM1
+protein	LOC728358
+protein	ANTXR2
+protein	MAP2K6
+protein	MAP2K4
+protein	CYAA
+protein	MAP2K2
+protein	CASP1
+protein	MAPK1
+protein	MAPK3
+protein	VCAM1
+protein	LEF
+protein	PAGA
+protein	PGR
+protein	IL1B
+protein	TNF
+protein	MAP2K7
+complex	PA/Cellular Receptors
+complex	Lethal toxin (unfolded)
+complex	Edema toxin (unfolded)
+complex	Channel
+chemical	mol:cAMP
+chemical	mol:Epigallocatechin-3-gallate (EGCG)
+chemical	mol:Ca2+
+abstract	regulation of endothelial cell proliferation
+abstract	platelet activation
+abstract	negative regulation of phagocytosis
+abstract	negative regulation of myeloid dendritic cell antigen processing and presentation
+abstract	negative regulation of macrophage activation
+abstract	necrosis
+abstract	monocyte activation
+abstract	macrophage activation
+abstract	intracellular pH reduction
+abstract	apoptosis
+abstract	MAPKKK cascade
+mol:cAMP	platelet activation	-ap>
+mol:cAMP	negative regulation of phagocytosis	-ap>
+mol:Epigallocatechin-3-gallate (EGCG)	MAP2K2	-a|
+mol:Epigallocatechin-3-gallate (EGCG)	LEF	-a>
+mol:Ca2+	mol:cAMP	-a>
+intracellular pH reduction	Lethal toxin (unfolded)	-ap>
+intracellular pH reduction	Edema toxin (unfolded)	-ap>
+intracellular pH reduction	Channel	-ap>
+ANTXR1	PA/Cellular Receptors	component>
+ANTXR1	Lethal toxin (unfolded)	component>
+ANTXR1	Edema toxin (unfolded)	component>
+ANTXR1	Channel	component>
+NLRP1	CASP1	-a>
+MAP2K1	MAPKKK cascade	-ap|
+CALM1	mol:cAMP	-a>
+LOC728358	LEF	-a>
+ANTXR2	PA/Cellular Receptors	component>
+ANTXR2	Lethal toxin (unfolded)	component>
+ANTXR2	Edema toxin (unfolded)	component>
+ANTXR2	Channel	component>
+MAP2K6	MAPKKK cascade	-ap|
+MAP2K4	MAPKKK cascade	-ap|
+CYAA	mol:cAMP	-a>
+CYAA	Edema toxin (unfolded)	component>
+MAP2K2	MAPKKK cascade	-ap|
+CASP1	IL18	-a>
+CASP1	IL1B	-a>
+MAPK1	macrophage activation	-ap>
+MAPK3	macrophage activation	-ap>
+VCAM1	monocyte activation	-ap>
+LEF	regulation of endothelial cell proliferation	-ap|
+LEF	negative regulation of myeloid dendritic cell antigen processing and presentation	-ap>
+LEF	negative regulation of macrophage activation	-ap>
+LEF	necrosis	-ap>
+LEF	apoptosis	-ap>
+LEF	NLRP1	-a>
+LEF	MAP2K1	-a>
+LEF	MAP2K6	-a>
+LEF	MAP2K4	-a>
+LEF	MAP2K2	-a>
+LEF	CASP1	-a>
+LEF	MAPK1	-a>
+LEF	MAPK3	-a>
+LEF	VCAM1	-a>
+LEF	PGR	-a>
+LEF	MAP2K7	-a>
+LEF	Lethal toxin (unfolded)	component>
+PAGA	PA/Cellular Receptors	component>
+PAGA	Lethal toxin (unfolded)	component>
+PAGA	Edema toxin (unfolded)	component>
+PAGA	Channel	component>
+PAGA	Channel	-a|
+TNF	VCAM1	-a>
+MAP2K7	MAPKKK cascade	-ap|
+Channel	CYAA	-a>
+Channel	LEF	-a>

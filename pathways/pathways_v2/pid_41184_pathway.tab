@@ -1,0 +1,13 @@
+complex	Rb1:RNA primer-DNA primer:origin duplex with DNA damage
+complex	RNA primer-DNA primer:origin duplex
+complex	primosome
+complex	Aborted replication complex
+complex	DP-1:E2F1 complex
+complex	RNA primer-DNA primer:origin duplex with DNA damage
+protein	RB1
+RNA primer-DNA primer:origin duplex with DNA damage	Rb1:RNA primer-DNA primer:origin duplex with DNA damage	component>
+RB1	Rb1:RNA primer-DNA primer:origin duplex with DNA damage	component>
+Rb1:RNA primer-DNA primer:origin duplex with DNA damage	Aborted replication complex	component>
+DP-1:E2F1 complex	Aborted replication complex	component>
+RNA primer-DNA primer:origin duplex	primosome	component>
+RNA primer-DNA primer:origin duplex	RNA primer-DNA primer:origin duplex with DNA damage	component>

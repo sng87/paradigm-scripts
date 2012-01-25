@@ -1,0 +1,120 @@
+abstract	ATP biosynthetic process
+abstract	ATP metabolic process
+abstract	Wnt receptor signaling pathway
+abstract	positive regulation of CREB transcription factor activity
+abstract	anoikis
+abstract	tubulin complex assembly
+abstract	cellular response to nutrient levels
+abstract	chromatin remodeling
+abstract	establishment of cell polarity
+abstract	degradation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	mTORC1 complex/14-3-3 family
+complex	LIP1/LKB1/SMAD4
+complex	LKB1/ER alpha
+complex	LKB1/CDC37/HSP90
+complex	SIK3/14-3-3 family
+complex	mTORC1 complex
+complex	SIK1/14-3-3 family
+complex	LKB1/MO25/STRADA-STRADB
+protein	STRADA-STRADB
+complex	TSC1/TSC2
+complex	AMPKK1-AMPKK2-active
+complex	AMPKK1-AMPKK2
+protein	14-3-3 family
+protein	TP53
+protein	STK11IP
+protein	STK11
+protein	SMARCD3
+protein	SMAD4
+protein	SIK2
+protein	SIK1
+protein	PSEN2
+protein	PRKACA
+protein	MYC
+protein	MST4
+protein	MARK4
+protein	MARK2
+protein	MAPT
+protein	MAP2
+protein	KIAA0999
+protein	HSP90AA1
+protein	GSK3B
+protein	EZR
+protein	ETV4
+protein	ESR1
+protein	CTSD
+protein	CRTC2
+protein	CREB1
+protein	CDC37
+protein	CAB39
+protein	BRSK2
+protein	BRSK1
+PRKACA	LKB1/MO25/STRADA-STRADB	-a>
+LKB1/MO25/STRADA-STRADB	AMPKK1-AMPKK2-active	-a>
+cellular response to nutrient levels	AMPKK1-AMPKK2-active	-a>
+AMPKK1-AMPKK2-active	mTORC1 complex	-a>
+GSK3B	TSC1/TSC2	-a>
+AMPKK1-AMPKK2-active	TSC1/TSC2	-a>
+LKB1/MO25/STRADA-STRADB	MARK4	-a>
+AMPKK1-AMPKK2-active	ATP biosynthetic process	-ap>
+BRSK1	establishment of cell polarity	-ap>
+MST4	EZR	-a>
+LKB1/MO25/STRADA-STRADB	SIK1	-a>
+AMPKK1-AMPKK2-active	ATP metabolic process	-ap|
+LKB1/MO25/STRADA-STRADB	BRSK2	-a>
+BRSK2	establishment of cell polarity	-ap>
+LKB1/ER alpha	MYC	-t>
+LKB1/ER alpha	CTSD	-t>
+LKB1/MO25/STRADA-STRADB	Wnt receptor signaling pathway	-ap>
+MARK2	establishment of cell polarity	-ap>
+MARK2	MAP2	-a>
+STK11	SMARCD3	-a>
+LKB1/MO25/STRADA-STRADB	MARK2	-a>
+LKB1/ER alpha	PSEN2	-t>
+LKB1/MO25/STRADA-STRADB	BRSK1	-a>
+BRSK1	MAPT	-a>
+SIK3/14-3-3 family	CRTC2	-a>
+MAPT	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+AMPKK1-AMPKK2-active	CREB1	-a>
+MARK2	MAPT	-a>
+ESR1	LKB1/ER alpha	component>
+STK11	LKB1/ER alpha	component>
+LKB1/CDC37/HSP90	degradation	-ap|
+LKB1/MO25/STRADA-STRADB	LKB1/MO25/STRADA-STRADB	-a>
+MAP2	tubulin complex assembly	-ap|
+SIK1/14-3-3 family	CRTC2	-a>
+SIK1	TP53	-a>
+HSP90AA1	LKB1/CDC37/HSP90	component>
+CDC37	LKB1/CDC37/HSP90	component>
+STK11	LKB1/CDC37/HSP90	component>
+CRTC2	positive regulation of CREB transcription factor activity	-ap|
+BRSK2	MAPT	-a>
+SMAD4	LIP1/LKB1/SMAD4	component>
+STK11	LIP1/LKB1/SMAD4	component>
+STK11IP	LIP1/LKB1/SMAD4	component>
+TP53	anoikis	-ap>
+14-3-3 family	SIK3/14-3-3 family	component>
+KIAA0999	SIK3/14-3-3 family	component>
+STRADA-STRADB	LKB1/MO25/STRADA-STRADB	component>
+CAB39	LKB1/MO25/STRADA-STRADB	component>
+STK11	LKB1/MO25/STRADA-STRADB	component>
+SIK2	CRTC2	-a>
+ETV4	degradation	-ap>
+MAPT	tubulin complex assembly	-ap|
+STK11	ETV4	-a>
+BRSK1	MAP2	-a>
+LKB1/MO25/STRADA-STRADB	SIK2	-a>
+AMPKK1-AMPKK2	AMPKK1-AMPKK2-active	-a>
+EZR	establishment of cell polarity	-ap>
+14-3-3 family	mTORC1 complex/14-3-3 family	component>
+mTORC1 complex	mTORC1 complex/14-3-3 family	component>
+mTORC1 complex	mTORC1 complex	-a>
+SMARCD3	chromatin remodeling	-ap>
+LKB1/MO25/STRADA-STRADB	MST4	-a>
+14-3-3 family	SIK1/14-3-3 family	component>
+SIK1	SIK1/14-3-3 family	component>
+LKB1/MO25/STRADA-STRADB	KIAA0999	-a>
+LKB1/MO25/STRADA-STRADB	establishment of cell polarity	-ap>
+BRSK2	MAP2	-a>
+TSC1/TSC2	TSC1/TSC2	-a>

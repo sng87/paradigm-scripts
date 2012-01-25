@@ -1,0 +1,68 @@
+complex	TPO/TPO/TPO R/TPO R
+complex	SHC/GRB2/SOS-1
+complex	STAT5/STAT5
+smallMolecule	PIP2
+complex	STAT1/STAT3
+smallMolecule	DAG
+protein	PKC
+complex	AP-1
+protein	STAT5
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	THPO
+protein	STAT3
+protein	STAT1
+protein	RASA1
+protein	RAF1
+protein	PLCG1
+protein	MPL
+protein	MAPK3
+protein	MAP2K1
+protein	JUN
+protein	JAK2
+protein	HRAS
+protein	FOS
+protein	ELK1
+protein	CSNK2A1
+PLCG1	DAG	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+CSNK2A1	JUN	-a|
+DAG	PKC	-a>
+RASA1	GTP	-a>
+TPO/TPO/TPO R/TPO R	PI3K	-a>
+STAT5/STAT5	STAT5/STAT5	-a>
+TPO/TPO/TPO R/TPO R	STAT3	-a>
+ELK1	FOS	-a>
+MAP2K1	MAPK3	-a>
+TPO/TPO/TPO R/TPO R	PLCG1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+MAPK3	ELK1	-a>
+RAF1	MAP2K1	-a>
+STAT1/STAT3	STAT1/STAT3	-a>
+STAT5	STAT5/STAT5	component>
+MPL	TPO/TPO/TPO R/TPO R	component>
+THPO	TPO/TPO/TPO R/TPO R	component>
+MAPK3	JUN	-a>
+TPO/TPO/TPO R/TPO R	STAT5	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+TPO/TPO/TPO R/TPO R	STAT1	-a>
+HRAS	HRAS	-a>
+HRAS	GTP	-a>
+GDP	HRAS	-a>
+GDP	GTP	-a>
+TPO/TPO/TPO R/TPO R	JAK2	-a>
+TPO/TPO/TPO R/TPO R	SHC/GRB2/SOS-1	-a>
+FOS	AP-1	component>
+JUN	AP-1	component>
+STAT3	STAT1/STAT3	component>
+STAT1	STAT1/STAT3	component>
+MAPK3	MAPK3	-a>

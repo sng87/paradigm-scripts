@@ -1,0 +1,206 @@
+abstract	substrate adhesion-dependent cell spreading
+abstract	negative regulation of cell adhesion involved in substrate-bound cell migration
+abstract	endocytosis
+abstract	positive regulation of cell adhesion
+abstract	cell migration
+abstract	regulation of cell cycle
+abstract	establishment of cell polarity
+abstract	apoptosis
+protein	p190RHOGEF
+complex	FAK/Src-Yes-Fyn/Endophilin-A2
+complex	DOCK1/ELMO1
+complex	FAK/Src-Yes-Fyn/Paxillin
+protein	MEK1
+complex	Rap1/GTP
+complex	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP
+complex	Src/PTPD1
+protein	Src-Yes-Fyn
+complex	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO
+protein	JNK1-2-active
+complex	RAC1/GTP/betaPIX
+complex	PAK1 (dimer)
+complex	alpha5/beta1 Integrin
+complex	FAK/Src-Yes-Fyn/Vinculin
+protein	p190RhoGAP
+complex	RRAS/GTP
+complex	RAP1/GDP
+complex	RhoA/GDP
+protein	JNK1-2
+complex	FAK/Src-Yes-Fyn/p130 CAS/CRK
+complex	FAK/GRAF
+complex	FAK/Src-Yes-Fyn/ERK2/m-calpain
+complex	GRB2/SOS1
+complex	alpha-Actinin/Actin
+complex	RAC1/GDP
+protein	NCK
+complex	FAK/Src-Yes-Fyn/p130 CAS/NCK
+complex	FAK/Src-Yes-Fyn
+protein	MT1-MMP
+complex	RRAS/GDP
+complex	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2
+complex	PAK1
+smallMolecule	phosphate
+complex	FAK/Src-Yes-Fyn/GRB2/SOS1
+complex	FAK/Src-Yes-Fyn/p130 CAS
+complex	FAK/Src-Yes-Fyn/GRB7
+complex	FAK/Src-Yes-Fyn/alphav/beta5 Integrin
+complex	FAK/Src-Yes-Fyn/JIP3
+complex	FAK/ASAP1
+complex	PI3K
+complex	FAK/Src-Yes-Fyn/Src/PTPD1
+complex	RhoA/GTP
+protein	FAK
+complex	FAK/Src-Yes-Fyn/RasGAP
+complex	alphav/beta5 Integrin
+protein	p130 Cas
+complex	PAK1/betaPIX/PKL/NCK1-2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	WASL
+protein	VCL
+protein	TLN1
+protein	SH3GL1
+protein	ROCK2
+protein	RASA1
+protein	RAPGEF1
+protein	RAF1
+protein	PXN
+protein	PLCG1
+protein	PAK1
+protein	MLCK
+protein	MAPK8IP3
+protein	MAPK1
+protein	MAP2K4
+protein	MAP2K1
+protein	KLF8
+protein	JUN
+protein	GRB7
+protein	ETS1
+protein	CRK
+protein	CCND1
+protein	CAPN2
+protein	BRAF
+protein	BMX
+protein	ASAP1
+protein	ARHGEF7
+protein	ARHGEF11
+protein	ARHGAP26
+protein	ACTN1
+protein	ACTA1
+RAPGEF1	Rap1/GTP	-a>
+FAK/Src-Yes-Fyn/Endophilin-A2	endocytosis	-ap|
+PAK1	PAK1	component>
+BRAF	MAP2K1	-a>
+FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO	PAK1	-a>
+FAK	RhoA/GTP	-a>
+ARHGEF11	RhoA/GTP	-a>
+MAP2K4	JNK1-2-active	-a>
+TLN1	alpha5/beta1 Integrin	-a>
+FAK/GRAF	RhoA/GDP	-a>
+FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	RhoA/GDP	-a>
+FAK/Src-Yes-Fyn/GRB2/SOS1	RRAS/GTP	-a>
+p190RHOGEF	RhoA/GTP	-a>
+FAK/Src-Yes-Fyn	PAK1/betaPIX/PKL/NCK1-2	-a>
+PAK1	PAK1/betaPIX/PKL/NCK1-2	-a>
+FAK/Src-Yes-Fyn	PLCG1	-a>
+JNK1-2-active	apoptosis	-ap|
+alphav/beta5 Integrin	FAK/Src-Yes-Fyn/alphav/beta5 Integrin	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/alphav/beta5 Integrin	component>
+PAK1/betaPIX/PKL/NCK1-2	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+FAK/Src-Yes-Fyn/Paxillin	FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn	-a>
+KLF8	CCND1	-t>
+FAK/Src-Yes-Fyn/p130 CAS/CRK	RAPGEF1	-a>
+RhoA/GTP	ROCK2	-a>
+FAK/Src-Yes-Fyn/GRB7	cell migration	-ap>
+PAK1	MAP2K4	-a>
+alpha5/beta1 Integrin	positive regulation of cell adhesion	-ap>
+ARHGAP26	FAK/GRAF	component>
+FAK	FAK/GRAF	component>
+JNK1-2-active	JUN	-a>
+RAC1/GTP/betaPIX	substrate adhesion-dependent cell spreading	-ap>
+GTP	Rap1/GTP	-a>
+RAP1/GDP	GDP	-a>
+RAP1/GDP	Rap1/GTP	-a>
+Src-Yes-Fyn	FAK/Src-Yes-Fyn	component>
+FAK	FAK/Src-Yes-Fyn	component>
+FAK/Src-Yes-Fyn/JIP3	substrate adhesion-dependent cell spreading	-ap>
+MT1-MMP	endocytosis	-ap>
+PAK1	cell migration	-ap>
+SH3GL1	FAK/Src-Yes-Fyn/Endophilin-A2	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/Endophilin-A2	component>
+ETS1	CCND1	-t>
+Rap1/GTP	BRAF	-a>
+ACTA1	ACTN1	component>
+ACTA1	alpha-Actinin/Actin	component>
+ACTN1	ACTN1	component>
+ACTN1	alpha-Actinin/Actin	component>
+DOCK1/ELMO1	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO	component>
+FAK/Src-Yes-Fyn/p130 CAS/CRK	FAK/Src-Yes-Fyn/p130 CAS/CRK/DOCK1/ELMO	component>
+PAK1 (dimer)	PAK1	component>
+GRB7	FAK/Src-Yes-Fyn/GRB7	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/GRB7	component>
+JUN	regulation of cell cycle	-ap>
+FAK	PI3K	-a>
+RhoA/GDP	establishment of cell polarity	-ap>
+FAK/Src-Yes-Fyn	ACTN1	-a>
+MEK1	MAP2K1	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+FAK	WASL	-a>
+BMX	cell migration	-ap>
+ASAP1	FAK/ASAP1	component>
+FAK	FAK/ASAP1	component>
+MAPK1	MLCK	-a>
+FAK/Src-Yes-Fyn/Paxillin/PAK1/betaPIX/PKL/NCK1-2	establishment of cell polarity	-ap>
+MAPK8IP3	FAK/Src-Yes-Fyn/JIP3	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/JIP3	component>
+PXN	FAK/Src-Yes-Fyn/Paxillin	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/Paxillin	component>
+CAPN2	FAK/Src-Yes-Fyn/ERK2/m-calpain	component>
+MAPK1	FAK/Src-Yes-Fyn/ERK2/m-calpain	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/ERK2/m-calpain	component>
+p190RhoGAP	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	component>
+FAK/Src-Yes-Fyn/RasGAP	FAK/Src-Yes-Fyn/RasGAP/p190RhoGAP	component>
+CRK	FAK/Src-Yes-Fyn/p130 CAS/CRK	component>
+FAK/Src-Yes-Fyn/p130 CAS	FAK/Src-Yes-Fyn/p130 CAS/CRK	component>
+FAK/Src-Yes-Fyn	BMX	-a>
+JNK1-2	JNK1-2-active	-a>
+FAK/Src-Yes-Fyn/ERK2/m-calpain	negative regulation of cell adhesion involved in substrate-bound cell migration	-ap>
+MAP2K1	MAPK1	-a>
+GRB2/SOS1	FAK/Src-Yes-Fyn/GRB2/SOS1	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/GRB2/SOS1	component>
+FAK	alpha5/beta1 Integrin	-a>
+MLCK	negative regulation of cell adhesion involved in substrate-bound cell migration	-ap>
+RhoA/GTP	phosphate	-a>
+RhoA/GTP	RhoA/GDP	-a>
+GTP	RRAS/GTP	-a>
+RRAS/GDP	GDP	-a>
+RRAS/GDP	RRAS/GTP	-a>
+ROCK2	cell migration	-ap>
+p130 Cas	FAK/Src-Yes-Fyn/p130 CAS	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/p130 CAS	component>
+PAK1	MAP2K1	-a>
+NCK	FAK/Src-Yes-Fyn/p130 CAS/NCK	component>
+FAK/Src-Yes-Fyn/p130 CAS	FAK/Src-Yes-Fyn/p130 CAS/NCK	component>
+RASA1	FAK/Src-Yes-Fyn/RasGAP	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/RasGAP	component>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+Src/PTPD1	FAK/Src-Yes-Fyn/Src/PTPD1	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/Src/PTPD1	component>
+WASL	cell migration	-ap>
+RhoA/GTP	cell migration	-ap>
+MAPK1	ETS1	-a>
+VCL	FAK/Src-Yes-Fyn/Vinculin	component>
+FAK/Src-Yes-Fyn	FAK/Src-Yes-Fyn/Vinculin	component>
+RRAS/GTP	RAF1	-a>
+PAK1	RAC1/GTP/betaPIX	component>
+ARHGEF7	RAC1/GTP/betaPIX	component>
+RAF1	MAP2K1	-a>
+FAK	p190RHOGEF	-a>
+PAK1/betaPIX/PKL/NCK1-2	PAK1/betaPIX/PKL/NCK1-2	-a>
+FAK/Src-Yes-Fyn	ARHGEF7	-a>

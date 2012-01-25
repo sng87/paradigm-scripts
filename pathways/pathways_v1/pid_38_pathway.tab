@@ -1,0 +1,104 @@
+protein	PIP5K1A
+protein	JUB
+protein	FMN1
+protein	ZYX
+protein	RAC1
+protein	RHOA
+protein	VASP
+protein	PIK3CA
+protein	CASR
+protein	CTNNB1
+protein	CTNNA1
+protein	AKT2
+protein	AKT1
+protein	PIK3R1
+protein	PLCG1
+protein	JUP
+protein	SRC
+protein	CDH1
+protein	FYN
+protein	EGFR
+protein	CTNND1
+complex	RhoA/GTP
+complex	RhoA/GDP
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PI3K
+complex	EGFR(dimer)
+complex	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin
+complex	E-cadherin/beta catenin-gamma catenin
+complex	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin
+chemical	mol:PI-4-5-P2
+chemical	mol:PI-3-4-5-P3
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	keratinocyte differentiation
+abstract	homophilic cell adhesion
+abstract	establishment of polarity of embryonic epithelium
+abstract	apoptosis
+abstract	adherens junction organization
+abstract	actin cable formation
+mol:PI-3-4-5-P3	AKT2	-a>
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:PI-3-4-5-P3	PLCG1	-a>
+mol:IP3	mol:Ca2+	-a>
+mol:GTP	RhoA/GTP	component>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Rac1/GDP	component>
+mol:Ca2+	mol:GDP	-a>
+mol:Ca2+	keratinocyte differentiation	-ap>
+mol:Ca2+	CASR	-a>
+mol:Ca2+	RhoA/GTP	-a>
+mol:Ca2+	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+homophilic cell adhesion	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	-ap>
+PIP5K1A	mol:PI-4-5-P2	-a>
+JUB	adherens junction organization	-ap>
+FMN1	adherens junction organization	-ap>
+FMN1	actin cable formation	-ap>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+VASP	establishment of polarity of embryonic epithelium	-ap>
+VASP	adherens junction organization	-ap>
+VASP	actin cable formation	-ap>
+PIK3CA	PI3K	component>
+CASR	FYN	-a>
+CTNNB1	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+CTNNB1	E-cadherin/beta catenin-gamma catenin	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+AKT2	keratinocyte differentiation	-ap>
+AKT2	apoptosis	-ap|
+AKT1	keratinocyte differentiation	-ap>
+AKT1	apoptosis	-ap|
+PIK3R1	PI3K	component>
+PLCG1	mol:IP3	-a>
+PLCG1	mol:DAG	-a>
+JUP	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+JUP	E-cadherin/beta catenin-gamma catenin	component>
+JUP	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+SRC	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	-a>
+CDH1	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+CDH1	E-cadherin/beta catenin-gamma catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+FYN	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	-a>
+EGFR	EGFR(dimer)	component>
+CTNND1	E-cadherin/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+CTNND1	E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	component>
+RhoA/GTP	FYN	-a>
+PI3K	mol:PI-3-4-5-P3	-a>
+EGFR(dimer)	mol:GDP	-a>
+EGFR(dimer)	Rac1/GTP	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	PIP5K1A	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	JUB	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	FMN1	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	ZYX	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	VASP	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	PI3K	-a>
+E-cadherin/Ca2+/beta catenin-gamma catenin/alpha catenin/p120 catenin	EGFR(dimer)	-a>

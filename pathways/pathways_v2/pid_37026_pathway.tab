@@ -1,0 +1,7 @@
+abstract	neuron projection morphogenesis
+complex	GPC2/Midkine
+protein	MDK
+protein	GPC2
+GPC2/Midkine	neuron projection morphogenesis	-ap>
+MDK	GPC2/Midkine	component>
+GPC2	GPC2/Midkine	component>

@@ -1,0 +1,9 @@
+complex	Active oligomeric BAK
+complex	tBID bound to inactive BAK
+protein	BID
+protein	BAK1
+tBID bound to inactive BAK	BAK1	component>
+tBID bound to inactive BAK	BID	component>
+BAK1	Active oligomeric BAK	component>
+BAK1	tBID bound to inactive BAK	component>
+BID	tBID bound to inactive BAK	component>

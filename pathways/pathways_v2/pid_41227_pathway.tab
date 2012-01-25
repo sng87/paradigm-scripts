@@ -1,0 +1,21 @@
+complex	GK:GKRP complex
+protein	UniProt:P35557-1 GCK
+complex	Nuclear Pore Complex (NPC)
+smallMolecule	Neuberg ester
+smallMolecule	alpha-D-Glucose
+smallMolecule	D-sorbitol 6-phosphate
+smallMolecule	D-Fructose 1-phosphate
+protein	GCKR
+D-Fructose 1-phosphate	GK:GKRP complex	component>
+Neuberg ester	GK:GKRP complex	component>
+D-sorbitol 6-phosphate	GK:GKRP complex	component>
+Neuberg ester	UniProt:P35557-1 GCK	component>
+D-sorbitol 6-phosphate	UniProt:P35557-1 GCK	component>
+D-Fructose 1-phosphate	UniProt:P35557-1 GCK	component>
+alpha-D-Glucose	GCKR	component>
+UniProt:P35557-1 GCK	GK:GKRP complex	component>
+GCKR	GK:GKRP complex	component>
+Nuclear Pore Complex (NPC)	GK:GKRP complex	-a>
+GK:GKRP complex	UniProt:P35557-1 GCK	component>
+GK:GKRP complex	GCKR	component>
+Nuclear Pore Complex (NPC)	UniProt:P35557-1 GCK	-a>

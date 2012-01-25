@@ -1,0 +1,43 @@
+complex	mRNA (N6-adenosine)-methyltransferase
+complex	capped, methylated pre-mRNP:CBC complex
+complex	capped pre-mRNA:CBC:RNA Pol II (phosphorylated) complex
+complex	capped, methylated pre-mRNA:CBC Complex
+protein	UniProt:P14866 HNRNPL
+protein	UniProt:Q00839 HNRNPU
+protein	UniProt:Q15365 PCBP1
+protein	RBMX
+protein	PTBP1
+protein	PCBP2
+protein	HNRNPR
+protein	HNRNPM
+protein	HNRNPK
+protein	HNRNPH2
+protein	HNRNPH1
+protein	HNRNPF
+protein	HNRNPD
+protein	HNRNPC
+protein	HNRNPA3
+protein	HNRNPA2B1
+protein	HNRNPA1
+protein	HNRNPA0
+mRNA (N6-adenosine)-methyltransferase	capped, methylated pre-mRNA:CBC Complex	-a>
+capped pre-mRNA:CBC:RNA Pol II (phosphorylated) complex	capped, methylated pre-mRNA:CBC Complex	-a>
+capped, methylated pre-mRNA:CBC Complex	capped, methylated pre-mRNP:CBC complex	component>
+PTBP1	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPC	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPH1	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPA1	capped, methylated pre-mRNP:CBC complex	component>
+UniProt:P14866 HNRNPL	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPF	capped, methylated pre-mRNP:CBC complex	component>
+PCBP2	capped, methylated pre-mRNP:CBC complex	component>
+RBMX	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPA3	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPR	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPM	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPA0	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPA2B1	capped, methylated pre-mRNP:CBC complex	component>
+UniProt:Q15365 PCBP1	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPD	capped, methylated pre-mRNP:CBC complex	component>
+UniProt:Q00839 HNRNPU	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPK	capped, methylated pre-mRNP:CBC complex	component>
+HNRNPH2	capped, methylated pre-mRNP:CBC complex	component>

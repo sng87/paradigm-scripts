@@ -1,0 +1,82 @@
+abstract	cell survival
+abstract	lymphangiogenesis
+abstract	vasculogenesis
+abstract	DNA mediated transformation
+abstract	cell migration
+abstract	JNK cascade
+abstract	cell proliferation
+complex	VEGFR3/Collagen/alpha1/beta1 Integrin
+complex	Fibronectin/alpha4/beta1 Integrin
+complex	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin
+complex	VEGFR3/VEGFC-D/Crk
+protein	ERK1-2-active
+complex	VEGFR3/VEGFD/Collagen/alpha2/beta1 Integrin
+complex	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin
+protein	PKC
+complex	VEGFR3/Fibronectin/alpha4/beta1 Integrin
+protein	ERK1-2
+complex	Collagen/alpha2/beta1 Integrin
+complex	VEGFR3/VEGFD
+complex	Collagen/alpha1/beta1 Integrin
+protein	VEGFC-D
+complex	VEGFR3/VEGFC-D
+complex	VEGFR3/Fibronectin/alpha5/beta1 Integrin
+complex	VEGFR3/Collagen/alpha2/beta1 Integrin
+complex	VEGFR3/VEGFD/Collagen/alpha1/beta1 Integrin
+protein	p38alpha-beta-active
+complex	SHC/GRB2/SOS1
+complex	Fibronectin/alpha5/beta1 Integrin
+complex	PI3K
+protein	RPS6KA1
+protein	MAP2K4
+protein	FLT4
+protein	CRK
+protein	CREB1
+protein	AKT1
+SHC/GRB2/SOS1	PI3K	-a>
+PKC	ERK1-2-active	-a>
+RPS6KA1	CREB1	-a>
+SHC/GRB2/SOS1	ERK1-2-active	-a>
+MAP2K4	cell survival	-ap>
+VEGFR3/VEGFC-D	SHC/GRB2/SOS1	-a>
+ERK1-2-active	RPS6KA1	-a>
+VEGFR3/VEGFC-D	PKC	-a>
+Fibronectin/alpha5/beta1 Integrin	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	component>
+VEGFR3/VEGFD	VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	component>
+Fibronectin/alpha4/beta1 Integrin	VEGFR3/Fibronectin/alpha4/beta1 Integrin	component>
+FLT4	VEGFR3/Fibronectin/alpha4/beta1 Integrin	component>
+VEGFR3/Collagen/alpha1/beta1 Integrin	cell migration	-ap>
+VEGFR3/VEGFD/Fibronectin/alpha5/beta1 Integrin	cell migration	-ap>
+VEGFR3/Collagen/alpha2/beta1 Integrin	cell migration	-ap>
+Fibronectin/alpha4/beta1 Integrin	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	component>
+VEGFR3/VEGFD	VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	component>
+Collagen/alpha1/beta1 Integrin	VEGFR3/Collagen/alpha1/beta1 Integrin	component>
+FLT4	VEGFR3/Collagen/alpha1/beta1 Integrin	component>
+ERK1-2-active	cell proliferation	-ap>
+VEGFR3/VEGFC-D	PI3K	-a>
+VEGFR3/VEGFD/Fibronectin/alpha4/beta1 Integrin	cell migration	-ap>
+p38alpha-beta-active	CREB1	-a>
+Collagen/alpha2/beta1 Integrin	VEGFR3/VEGFD/Collagen/alpha2/beta1 Integrin	component>
+VEGFR3/VEGFD	VEGFR3/VEGFD/Collagen/alpha2/beta1 Integrin	component>
+ERK1-2	ERK1-2-active	-a>
+Fibronectin/alpha5/beta1 Integrin	VEGFR3/Fibronectin/alpha5/beta1 Integrin	component>
+FLT4	VEGFR3/Fibronectin/alpha5/beta1 Integrin	component>
+VEGFR3/VEGFD/Collagen/alpha1/beta1 Integrin	cell migration	-ap>
+JNK cascade	cell survival	-ap>
+VEGFR3/VEGFD/Collagen/alpha2/beta1 Integrin	cell migration	-ap>
+PI3K	AKT1	-a>
+VEGFR3/VEGFC-D/Crk	MAP2K4	-a>
+Collagen/alpha1/beta1 Integrin	VEGFR3/VEGFD/Collagen/alpha1/beta1 Integrin	component>
+VEGFR3/VEGFD	VEGFR3/VEGFD/Collagen/alpha1/beta1 Integrin	component>
+Collagen/alpha2/beta1 Integrin	VEGFR3/Collagen/alpha2/beta1 Integrin	component>
+FLT4	VEGFR3/Collagen/alpha2/beta1 Integrin	component>
+VEGFR3/Fibronectin/alpha5/beta1 Integrin	cell migration	-ap>
+CRK	VEGFR3/VEGFC-D/Crk	component>
+VEGFR3/VEGFC-D	VEGFR3/VEGFC-D/Crk	component>
+VEGFC-D	VEGFR3/VEGFC-D	component>
+FLT4	VEGFR3/VEGFC-D	component>
+SHC/GRB2/SOS1	SHC/GRB2/SOS1	-a>
+VEGFR3/VEGFC-D	lymphangiogenesis	-ap>
+VEGFR3/Fibronectin/alpha4/beta1 Integrin	cell migration	-ap>
+VEGFR3/VEGFC-D	vasculogenesis	-ap>
+SHC/GRB2/SOS1	DNA mediated transformation	-ap|

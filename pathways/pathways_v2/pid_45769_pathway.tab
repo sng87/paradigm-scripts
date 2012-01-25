@@ -1,0 +1,39 @@
+complex	PAEL-R/ubiquitin
+complex	UbC6/7/ubiquitin
+complex	UbCH7/8/ubiquitin
+complex	Substrate/ubiquitin
+complex	SUMO-1/ubiquitin
+protein	UbCH7/8
+complex	UbCH7/8/Parkin/Substrate/ubiquitin
+protein	Substrate
+protein	ubiquitin
+protein	UbC6/7
+complex	UbC6/7/Parkin/PAEL-R/ubiquitin
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SUMO1
+protein	PARK2
+protein	GPR37
+SUMO-1/ubiquitin	UbC6/7/ubiquitin	component>
+ATP	SUMO-1/ubiquitin	component>
+SUMO-1/ubiquitin	UbCH7/8/ubiquitin	component>
+UbC6/7	SUMO1	component>
+UbC6/7	UbC6/7/ubiquitin	component>
+ubiquitin	ADP	component>
+ubiquitin	SUMO-1/ubiquitin	component>
+SUMO1	ADP	component>
+SUMO1	SUMO-1/ubiquitin	component>
+Substrate	UbCH7/8/Parkin/Substrate/ubiquitin	component>
+PARK2	UbCH7/8/Parkin/Substrate/ubiquitin	component>
+UbCH7/8/ubiquitin	UbCH7/8/Parkin/Substrate/ubiquitin	component>
+UbCH7/8/Parkin/Substrate/ubiquitin	Substrate/ubiquitin	component>
+UbCH7/8/Parkin/Substrate/ubiquitin	UbCH7/8	component>
+UbCH7/8/Parkin/Substrate/ubiquitin	PARK2	component>
+GPR37	UbC6/7/Parkin/PAEL-R/ubiquitin	component>
+PARK2	UbC6/7/Parkin/PAEL-R/ubiquitin	component>
+UbC6/7/ubiquitin	UbC6/7/Parkin/PAEL-R/ubiquitin	component>
+UbCH7/8	SUMO1	component>
+UbCH7/8	UbCH7/8/ubiquitin	component>
+UbC6/7/Parkin/PAEL-R/ubiquitin	PAEL-R/ubiquitin	component>
+UbC6/7/Parkin/PAEL-R/ubiquitin	UbC6/7	component>
+UbC6/7/Parkin/PAEL-R/ubiquitin	PARK2	component>

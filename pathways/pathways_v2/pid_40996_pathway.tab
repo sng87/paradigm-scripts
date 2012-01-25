@@ -1,0 +1,33 @@
+complex	Sema4A:Plexin-D1
+complex	Sema3E bound to Plexin D1 receptor
+complex	Plexin-A1:Sema6D:Trem2:DAP12
+complex	Sema7A:Integrin alpha1beta1
+protein	UniProt:Q9Y4D7 PLXND1_subunit_47_1925_47-1925
+protein	Plexin-A (2 and 4)
+complex	Sema6A:Plexin-A (2and 4)
+complex	Integrin alpha 1 beta 1
+complex	Plexin-A1-Trem2-DAP12
+complex	Sema5A:Plexin-B3
+complex	Sema7A:Plexin-C1
+protein	SEMA7A
+protein	SEMA6D
+protein	SEMA6A
+protein	SEMA5A
+protein	SEMA4A
+protein	SEMA3E
+protein	PLXNC1
+protein	PLXNB3
+Integrin alpha 1 beta 1	Sema7A:Integrin alpha1beta1	component>
+SEMA7A	Sema7A:Integrin alpha1beta1	component>
+SEMA3E	Sema3E bound to Plexin D1 receptor	component>
+UniProt:Q9Y4D7 PLXND1_subunit_47_1925_47-1925	Sema3E bound to Plexin D1 receptor	component>
+SEMA4A	Sema4A:Plexin-D1	component>
+UniProt:Q9Y4D7 PLXND1_subunit_47_1925_47-1925	Sema4A:Plexin-D1	component>
+PLXNB3	Sema5A:Plexin-B3	component>
+SEMA5A	Sema5A:Plexin-B3	component>
+Plexin-A (2 and 4)	Sema6A:Plexin-A (2and 4)	component>
+SEMA6A	Sema6A:Plexin-A (2and 4)	component>
+Plexin-A1-Trem2-DAP12	Plexin-A1:Sema6D:Trem2:DAP12	component>
+SEMA6D	Plexin-A1:Sema6D:Trem2:DAP12	component>
+SEMA7A	Sema7A:Plexin-C1	component>
+PLXNC1	Sema7A:Plexin-C1	component>

@@ -1,0 +1,80 @@
+smallMolecule	Porphobilinogen
+complex	UROD homodimer
+complex	FECH homodimer (2Fe-2S cluster)
+smallMolecule	Gly
+complex	PPO homodimer (FAD cofactor)
+smallMolecule	Protoporphyrin
+smallMolecule	CoA
+smallMolecule	Hydroxymethylbilane
+smallMolecule	Uroporphyrinogen III
+smallMolecule	Uroporphyrinogen I
+smallMolecule	Succinyl-CoA
+complex	ALAD homooctamer (Pb and Zn bound)
+complex	Porphobilinogen deaminase (dipyrromethane cofactor)
+complex	CPO homodimer
+complex	ALAD homooctamer (Zinc cofactor)
+smallMolecule	Coproporphyrinogen I
+smallMolecule	H2O
+smallMolecule	Pb
+smallMolecule	CO2
+smallMolecule	Protoporphyrinogen IX
+smallMolecule	5-Aminolevulinate
+smallMolecule	Coproporphyrinogen III
+smallMolecule	Fe++
+smallMolecule	NH3
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Zn2+
+smallMolecule	HEME
+smallMolecule	H2O2
+protein	UROS
+PPO homodimer (FAD cofactor)	H2O	-a>
+Porphobilinogen deaminase (dipyrromethane cofactor)	NH3	-a>
+ALAD homooctamer (Zinc cofactor)	H2O	-a>
+UROS	H2O	-a>
+Pb	HEME	-a|
+FECH homodimer (2Fe-2S cluster)	HEME	-a>
+UROD homodimer	CO2	-a>
+UROD homodimer	Coproporphyrinogen III	-a>
+CPO homodimer	Protoporphyrinogen IX	-a>
+HEME	CoA	-a|
+Protoporphyrin	Protoporphyrin	-a>
+Protoporphyrinogen IX	Protoporphyrin	-a>
+Protoporphyrinogen IX	H2O	-a>
+O2	Protoporphyrin	-a>
+O2	H2O	-a>
+H2O	Hydroxymethylbilane	-a>
+H2O	NH3	-a>
+Porphobilinogen	Hydroxymethylbilane	-a>
+Porphobilinogen	NH3	-a>
+5-Aminolevulinate	Porphobilinogen	-a>
+5-Aminolevulinate	H2O	-a>
+Hydroxymethylbilane	Uroporphyrinogen III	-a>
+Protoporphyrin	H+	-a>
+Protoporphyrin	HEME	-a>
+Fe++	H+	-a>
+Fe++	HEME	-a>
+Uroporphyrinogen I	Coproporphyrinogen I	-a>
+Uroporphyrinogen I	CO2	-a>
+Coproporphyrinogen III	Coproporphyrinogen III	-a>
+Uroporphyrinogen III	CO2	-a>
+Uroporphyrinogen III	Coproporphyrinogen III	-a>
+Coproporphyrinogen III	CO2	-a>
+Coproporphyrinogen III	H2O2	-a>
+Coproporphyrinogen III	Protoporphyrinogen IX	-a>
+O2	CO2	-a>
+O2	H2O2	-a>
+O2	Protoporphyrinogen IX	-a>
+Hydroxymethylbilane	Uroporphyrinogen I	-a>
+Hydroxymethylbilane	H2O	-a>
+Pb	Zn2+	-a>
+Pb	ALAD homooctamer (Pb and Zn bound)	-a>
+ALAD homooctamer (Zinc cofactor)	Zn2+	-a>
+ALAD homooctamer (Zinc cofactor)	ALAD homooctamer (Pb and Zn bound)	-a>
+Succinyl-CoA	CO2	-a>
+Succinyl-CoA	5-Aminolevulinate	-a>
+Succinyl-CoA	CoA	-a>
+Gly	CO2	-a>
+Gly	5-Aminolevulinate	-a>
+Gly	CoA	-a>
+5-Aminolevulinate	5-Aminolevulinate	-a>

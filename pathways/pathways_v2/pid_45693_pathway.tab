@@ -1,0 +1,59 @@
+abstract	cytolysis
+complex	properdin/Bb/C3b/C5b/C6
+complex	C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9
+complex	Bb/C3b
+protein	DF
+complex	properdin/Bb/C3b/C5
+complex	Fb/C3b
+protein	Fb
+complex	Fb/C3 (-)
+protein	C5a_0-0
+protein	C3a_0-0
+complex	C5b/C6/C7/C8
+complex	properdin/Bb/C3b
+protein	Ba_0-0
+protein	PFC
+protein	C3b_0-0
+complex	properdin/Bb/C3b/C5b
+complex	C5b/C6/C7
+complex	Bb/C3 (-)
+complex	C8
+smallMolecule	H2O
+smallMolecule	Mg2+
+protein	C9
+protein	C7
+protein	C6
+protein	C5
+protein	C3
+DF	Bb/C3b	component>
+DF	Bb/C3 (-)	component>
+Mg2+	Fb/C3 (-)	component>
+Fb/C3 (-)	C3b_0-0	-a>
+PFC	properdin/Bb/C3b	component>
+Bb/C3b	properdin/Bb/C3b	component>
+Fb/C3b	Ba_0-0	component>
+Fb/C3b	Bb/C3b	component>
+Fb	Fb/C3b	component>
+C3b_0-0	Fb/C3b	component>
+Fb/C3 (-)	Ba_0-0	component>
+Fb/C3 (-)	Bb/C3 (-)	component>
+C7	properdin/Bb/C3b	component>
+C7	C5b/C6/C7	component>
+properdin/Bb/C3b/C5b/C6	properdin/Bb/C3b	component>
+properdin/Bb/C3b/C5b/C6	C5b/C6/C7	component>
+C8	C5b/C6/C7/C8	component>
+C5b/C6/C7	C5b/C6/C7/C8	component>
+C3	Fb/C3 (-)	component>
+Fb	Fb/C3 (-)	component>
+C3	C3a_0-0	-a>
+C3	C3b_0-0	-a>
+C6	properdin/Bb/C3b/C5b/C6	component>
+properdin/Bb/C3b/C5b	properdin/Bb/C3b/C5b/C6	component>
+C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9	cytolysis	-ap>
+H2O	C3	-a>
+C9	C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9	component>
+C5b/C6/C7/C8	C5b/C6/C7/C8a/C8b/C8g/C9/C9/C9	component>
+C5	properdin/Bb/C3b/C5	component>
+properdin/Bb/C3b	properdin/Bb/C3b/C5	component>
+properdin/Bb/C3b/C5	C5a_0-0	component>
+properdin/Bb/C3b/C5	properdin/Bb/C3b/C5b	component>

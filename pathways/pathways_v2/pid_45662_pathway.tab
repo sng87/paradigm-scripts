@@ -1,0 +1,63 @@
+abstract	positive regulation of axon extension
+complex	SHC/GRB2/SOS-1
+complex	neurotrophin/TRkA (cy)
+protein	neurotrophin
+complex	neurotrophin/TRkA
+protein	MEF2
+smallMolecule	PIP2
+abstract	cell survival
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RPS6KA1
+protein	RAF1
+protein	PLCG1
+protein	PDPK1
+protein	NTRK1
+protein	MAPK7
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K5
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	CREB1
+protein	AKT1
+MAP2K2	MAPK3	-a>
+PI3K	PIP3	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+MEF2	cell survival	-ap>
+neurotrophin/TRkA	neurotrophin/TRkA (cy)	-a>
+neurotrophin/TRkA	PLCG1	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+MAPK7	RPS6KA1	-a>
+PIP2	PIP3	-a>
+AKT1	positive regulation of axon extension	-ap>
+neurotrophin/TRkA	PI3K	-a>
+HRAS	RAF1	-a>
+neurotrophin/TRkA (cy)	MAP2K5	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+CREB1	cell survival	-ap>
+MAPK3	positive regulation of axon extension	-ap>
+RPS6KA1	CREB1	-a>
+MAPK7	MEF2	-a>
+AKT1	cell survival	-ap>
+MAP2K5	MAPK7	-a>
+PDPK1	AKT1	-a>
+neurotrophin/TRkA	SHC/GRB2/SOS-1	-a>
+MAPK1	positive regulation of axon extension	-ap>
+MAPK7	MAPK7	-a>
+PIP3	PDPK1	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+NTRK1	neurotrophin/TRkA	component>
+neurotrophin	neurotrophin/TRkA	component>

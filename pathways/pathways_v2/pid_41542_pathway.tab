@@ -1,0 +1,21 @@
+smallMolecule	ChEBI:49713
+protein	Na+/K+/Ca2+ exchanger proteins
+protein	Na+/Ca2+ exchanger proteins
+smallMolecule	K+
+smallMolecule	Na+
+smallMolecule	Ca2+
+protein	SLC24A6
+SLC24A6	Ca2+	-a>
+Na+/Ca2+ exchanger proteins	Na+	-a>
+Ca2+	ChEBI:49713	-a>
+ChEBI:49713	ChEBI:49713	-a>
+ChEBI:49713	Ca2+	-a>
+Na+	K+	-a>
+Ca2+	K+	-a>
+K+	Ca2+	-a>
+K+	Na+	-a>
+Na+/K+/Ca2+ exchanger proteins	K+	-a>
+Na+	Ca2+	-a>
+Na+	Na+	-a>
+Ca2+	Ca2+	-a>
+Ca2+	Na+	-a>

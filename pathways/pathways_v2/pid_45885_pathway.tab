@@ -1,0 +1,72 @@
+abstract	response to wounding
+protein	HKa_0-0
+complex	Thrombin/Thrombin receptor
+complex	Protein C/Protein S
+complex	Thrombin/Fibrin
+protein	F2_0-0
+protein	F IXa_0-0
+protein	F XIIa_0-0
+complex	F Xa/F VIIIa/PF3/F Va
+protein	KLKB1_0-0
+protein	ATIII
+complex	collagen IV
+protein	prekallikrein B
+protein	F XIa_0-0
+protein	F VIIIa_0-0
+protein	PF3
+complex	F Xa/F VIIIa/PF3
+protein	F Xa_0-0
+protein	F Va_0-0
+protein	Prothrombin
+complex	Fibrinogen
+smallMolecule	Ca2+
+protein	SERPING1
+protein	KNG1
+protein	F9
+protein	F8
+protein	F5
+protein	F2R
+protein	F12
+protein	F11
+protein	F10
+Ca2+	F Xa_0-0	-a>
+F IXa_0-0	F Xa_0-0	-a>
+SERPING1	KLKB1_0-0	-a|
+F XIIa_0-0	KLKB1_0-0	-a>
+KLKB1_0-0	HKa_0-0	-a>
+Protein C/Protein S	F Va_0-0	-a|
+F2_0-0	F Va_0-0	-a>
+SERPING1	F XIIa_0-0	-a|
+KLKB1_0-0	F XIIa_0-0	-a>
+ATIII	Thrombin/Fibrin	component>
+ATIII	F IXa_0-0	-a|
+Ca2+	F IXa_0-0	-a>
+F XIa_0-0	F IXa_0-0	-a>
+collagen IV	F XIIa_0-0	-a>
+response to wounding	F XIIa_0-0	-a>
+ATIII	F XIa_0-0	-a|
+Ca2+	F XIa_0-0	-a>
+F XIIa_0-0	F XIa_0-0	-a>
+Ca2+	F VIIIa_0-0	-a>
+F IXa_0-0	F VIIIa_0-0	-a>
+F Xa/F VIIIa/PF3/F Va	F2_0-0	-a>
+F10	F Xa_0-0	-a>
+prekallikrein B	KLKB1_0-0	-a>
+KNG1	HKa_0-0	-a>
+F5	F Va_0-0	-a>
+F Va_0-0	F Xa/F VIIIa/PF3/F Va	component>
+F Xa/F VIIIa/PF3	F Xa/F VIIIa/PF3/F Va	component>
+F2_0-0	Thrombin/Fibrin	component>
+Fibrinogen	Thrombin/Fibrin	component>
+PF3	F Xa/F VIIIa/PF3	component>
+F VIIIa_0-0	F Xa/F VIIIa/PF3	component>
+F Xa_0-0	F Xa/F VIIIa/PF3	component>
+F9	F IXa_0-0	-a>
+F2R	Thrombin/Thrombin receptor	component>
+F2_0-0	Thrombin/Thrombin receptor	component>
+F12	F XIIa_0-0	-a>
+F11	F XIa_0-0	-a>
+F8	F VIIIa_0-0	-a>
+collagen IV	PF3	-t>
+Prothrombin	F2_0-0	-a>
+Thrombin/Thrombin receptor	Protein C/Protein S	-a>

@@ -1,0 +1,19 @@
+complex	Nectin-like 5 bound to CD96 (complex)
+protein	CRTAM
+protein	_32-538
+complex	CRTAM bound to NECL2 (complex)
+complex	CD226 bound to nectin-like 5 (complex)
+protein	CD96
+protein	UniProt:Q92692-1 PVRL2_subunit_32_538_32-538
+protein	UniProt:P15151-1 PVR_subunit_21_417_21-417
+complex	CD226 bound to Nectin 2 (complex)
+protein	UniProt:Q15762 CD226_subunit_19_336_19-336
+CRTAM	CRTAM bound to NECL2 (complex)	component>
+_32-538	CD226 bound to Nectin 2 (complex)	component>
+CD96	Nectin-like 5 bound to CD96 (complex)	component>
+UniProt:Q92692-1 PVRL2_subunit_32_538_32-538	CRTAM bound to NECL2 (complex)	component>
+UniProt:Q92692-1 PVRL2_subunit_32_538_32-538	CD226 bound to Nectin 2 (complex)	component>
+UniProt:P15151-1 PVR_subunit_21_417_21-417	Nectin-like 5 bound to CD96 (complex)	component>
+UniProt:P15151-1 PVR_subunit_21_417_21-417	CD226 bound to nectin-like 5 (complex)	component>
+UniProt:Q15762 CD226_subunit_19_336_19-336	CD226 bound to Nectin 2 (complex)	component>
+UniProt:Q15762 CD226_subunit_19_336_19-336	CD226 bound to nectin-like 5 (complex)	component>

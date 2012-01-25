@@ -1,0 +1,69 @@
+abstract	mitosis
+abstract	cell motility
+abstract	G1/S transition of mitotic cell cycle
+protein	ERK1-2-active
+complex	CDK2/Cyclin E1
+protein	ERK1-2
+complex	PRL-3/alpha1 Integrin
+complex	PRL-2 /Rab GGTase beta
+smallMolecule	Halofuginone
+complex	PRL-3/alpha Tubulin
+complex	PRL-1/alpha Tubulin
+protein	ATF-5
+complex	PRL-1/ATF-5
+complex	Rab GGTase beta/Rab GGTase alpha
+protein	beta1 Integrin
+smallMolecule	Ca2+
+protein	p130 Cas
+protein	TUBA1B
+protein	SRC
+protein	ROCK1
+protein	RHOC
+protein	RHOA
+protein	RAC1
+protein	RABGGTA
+protein	PTP4A3
+protein	PTP4A2
+protein	PTP4A1
+protein	ITGA1
+protein	EGR1
+protein	CDKN1A
+protein	CCNA2
+protein	AGT
+PTP4A3	Ca2+	-a|
+PTP4A3	ERK1-2-active	-a>
+PTP4A1	RAC1	-a>
+ROCK1	cell motility	-ap>
+PTP4A1	mitosis	-ap>
+PTP4A3	RAC1	-a>
+ITGA1	PRL-3/alpha1 Integrin	component>
+PTP4A3	PRL-3/alpha1 Integrin	component>
+Rab GGTase beta/Rab GGTase alpha	RABGGTA	-a>
+Rab GGTase beta/Rab GGTase alpha	PRL-2 /Rab GGTase beta	-a>
+PTP4A2	RABGGTA	-a>
+PTP4A2	PRL-2 /Rab GGTase beta	-a>
+AGT	Ca2+	-a>
+PTP4A1	CCNA2	-a>
+RHOC	ROCK1	-a>
+PTP4A3	beta1 Integrin	-a>
+PTP4A3	RHOA	-a>
+PTP4A3	RHOC	-a>
+CDKN1A	CDK2/Cyclin E1	-a>
+PTP4A1	CDKN1A	-a>
+RHOA	ROCK1	-a>
+PTP4A1	RHOC	-a>
+PTP4A2	CDKN1A	-a>
+SRC	PTP4A1	-a>
+PTP4A3	p130 Cas	-a|
+PTP4A1	RHOA	-a>
+CDK2/Cyclin E1	G1/S transition of mitotic cell cycle	-ap>
+CCNA2	G1/S transition of mitotic cell cycle	-ap>
+TUBA1B	PRL-1/alpha Tubulin	component>
+PTP4A1	PRL-1/alpha Tubulin	component>
+ERK1-2	ERK1-2-active	-a>
+TUBA1B	PRL-3/alpha Tubulin	component>
+PTP4A3	PRL-3/alpha Tubulin	component>
+EGR1	PTP4A1	-t>
+ATF-5	PRL-1/ATF-5	component>
+PTP4A1	PRL-1/ATF-5	component>
+Halofuginone	EGR1	-a>

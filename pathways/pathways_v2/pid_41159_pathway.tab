@@ -1,0 +1,17 @@
+complex	Nuclear Pore Complex (NPC)
+complex	Importin beta-1:Rev multimer complex
+complex	Rev:importin-beta:B23:Ran-GTP complex
+complex	Importin-beta:Ran GTP complex
+complex	Ran-GTP
+complex	nucleoporin-associated Rev:Importin-beta:B23 complex
+complex	Rev:Importin-beta:B23
+protein	KPNB1
+Rev:importin-beta:B23:Ran-GTP complex	Importin-beta:Ran GTP complex	-a>
+Ran-GTP	Rev:importin-beta:B23:Ran-GTP complex	component>
+Rev:Importin-beta:B23	Rev:importin-beta:B23:Ran-GTP complex	component>
+nucleoporin-associated Rev:Importin-beta:B23 complex	Rev:Importin-beta:B23	component>
+nucleoporin-associated Rev:Importin-beta:B23 complex	Nuclear Pore Complex (NPC)	component>
+Rev:Importin-beta:B23	nucleoporin-associated Rev:Importin-beta:B23 complex	component>
+Nuclear Pore Complex (NPC)	nucleoporin-associated Rev:Importin-beta:B23 complex	component>
+KPNB1	Importin beta-1:Rev multimer complex	component>
+Importin beta-1:Rev multimer complex	Rev:Importin-beta:B23	-a>

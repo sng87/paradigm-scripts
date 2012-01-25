@@ -1,0 +1,7 @@
+complex	Collagen IV : vWF complex
+complex	GPIb-IX-V complex
+complex	GpIb-IX-V:vWF:Collagen IV
+protein	VWF
+VWF	Collagen IV : vWF complex	component>
+Collagen IV : vWF complex	GpIb-IX-V:vWF:Collagen IV	component>
+GPIb-IX-V complex	GpIb-IX-V:vWF:Collagen IV	component>

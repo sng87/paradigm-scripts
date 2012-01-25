@@ -1,0 +1,134 @@
+abstract	negative regulation of phosphoinositide 3-kinase cascade
+abstract	positive regulation of DNA binding
+abstract	response to UV
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	VDR/Vit D3/DNA
+complex	RXRs/RARs/NRIP1/9cRA
+complex	RARs/TIF2/Cbp/p300/PCAF/9cRA
+complex	CRBP1/9-cic-RA
+complex	RXRs/RARs/SMRT(N-CoR2)/9cRA
+complex	RXRs/RARs/NRIP1/9cRA/HDAC3
+complex	RXRs/RARs
+complex	Cbp/p300/PCAF
+protein	ERK1-2-active
+complex	RXRs/RXRs/DNA/9cRA
+complex	RAR alpha/9cRA/Cyclin H
+complex	RXRs/RARs/NRIP1/9cRA/HDAC1
+complex	RAR alpha/Jnk1
+complex	RAR alpha/RXRs
+protein	Rar gamma2
+complex	RAR gamma2/9cRA
+complex	RARs/Src-1/Cbp/p300/PCAF/9cRA
+complex	VDR/VDR/DNA
+protein	Rar gamma1
+complex	RAR gamma1/9cRA
+complex	RXRs/VDR/DNA/Vit D3
+complex	TFIIH
+complex	RAR alpha/9cRA
+protein	SMRT (N-CoR2)
+protein	RXRs
+smallMolecule	Vit D3
+complex	VDR/VDR/Vit D3
+smallMolecule	9cRA
+complex	RARs/AIB1/Cbp/p300/PCAF/9cRA
+protein	RXRA
+protein	RBP1
+protein	RARS
+protein	RARA
+protein	PRKCG
+protein	PRKCA
+protein	PRKACA
+protein	NRIP1
+protein	NCOA3
+protein	NCOA2
+protein	NCOA1
+protein	MAPK8
+protein	MAPK3
+protein	MAPK14
+protein	HDAC3
+protein	HDAC1
+protein	CDC2
+protein	CCNH
+protein	AKT1
+RBP1	AKT1	-a|
+RARS	AKT1	-a>
+PRKACA	RAR alpha/9cRA	component>
+MAPK8	RARA	-a>
+MAPK8	RXRA	-a>
+PRKCG	RARA	component>
+MAPK14	RAR gamma2/9cRA	component>
+TFIIH	RAR gamma2/9cRA	component>
+MAPK14	RARs/AIB1/Cbp/p300/PCAF/9cRA	-a>
+AKT1	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+ERK1-2-active	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+PRKCA	RARA	component>
+AKT1	RAR alpha/RXRs	-a>
+TFIIH	RAR alpha/9cRA/Cyclin H	component>
+TFIIH	RAR alpha/9cRA	component>
+PRKACA	RAR gamma2/9cRA	component>
+PRKACA	RAR gamma1/9cRA	component>
+MAPK8	RAR alpha/Jnk1	component>
+RARA	RAR alpha/Jnk1	component>
+negative regulation of phosphoinositide 3-kinase cascade	AKT1	-a>
+VDR/VDR/DNA	RXRs/VDR/DNA/Vit D3	component>
+VDR/VDR/DNA	VDR/VDR/Vit D3	component>
+Vit D3	RXRs/VDR/DNA/Vit D3	component>
+Vit D3	VDR/VDR/Vit D3	component>
+RXRs	RXRs/VDR/DNA/Vit D3	component>
+RXRs	VDR/VDR/Vit D3	component>
+9cRA	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+Cbp/p300/PCAF	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+NCOA1	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+RARS	RARs/Src-1/Cbp/p300/PCAF/9cRA	component>
+response to UV	RARA	-a>
+response to UV	RXRA	-a>
+RAR gamma2/9cRA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+RXRs/RARs	NRIP1	-t>
+RARs/AIB1/Cbp/p300/PCAF/9cRA	RARs/AIB1/Cbp/p300/PCAF/9cRA	-a>
+9cRA	RXRs/RARs/NRIP1/9cRA	component>
+9cRA	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+NRIP1	RXRs/RARs/NRIP1/9cRA	component>
+NRIP1	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+SMRT (N-CoR2)	RXRs/RARs/NRIP1/9cRA	component>
+SMRT (N-CoR2)	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+RXRs/RARs	RXRs/RARs/NRIP1/9cRA	component>
+RXRs/RARs	RXRs/RARs/SMRT(N-CoR2)/9cRA	component>
+RAR alpha/9cRA/Cyclin H	positive regulation of DNA binding	-ap>
+RAR alpha/RXRs	RXRs	component>
+RAR alpha/RXRs	RARA	component>
+9cRA	VDR/Vit D3/DNA	component>
+9cRA	RXRs/RXRs/DNA/9cRA	component>
+RXRs/VDR/DNA/Vit D3	VDR/Vit D3/DNA	component>
+RXRs/VDR/DNA/Vit D3	RXRs/RXRs/DNA/9cRA	component>
+RBP1	CRBP1/9-cic-RA	component>
+9cRA	CRBP1/9-cic-RA	component>
+RARA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+RXRA	RAR alpha/9cRA/Cyclin H	component>
+RAR alpha/9cRA/Cyclin H	RAR alpha/9cRA/Cyclin H	component>
+9cRA	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+Cbp/p300/PCAF	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+NCOA2	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+RARS	RARs/TIF2/Cbp/p300/PCAF/9cRA	component>
+RAR alpha/RXRs	RAR alpha/RXRs	-a>
+CCNH	RAR alpha/9cRA/Cyclin H	component>
+RAR alpha/9cRA	RAR alpha/9cRA/Cyclin H	component>
+RARs/AIB1/Cbp/p300/PCAF/9cRA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+HDAC1	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+HDAC1	RXRs/RARs/NRIP1/9cRA/HDAC3	component>
+HDAC3	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+HDAC3	RXRs/RARs/NRIP1/9cRA/HDAC3	component>
+RXRs/RARs/NRIP1/9cRA	RXRs/RARs/NRIP1/9cRA/HDAC1	component>
+RXRs/RARs/NRIP1/9cRA	RXRs/RARs/NRIP1/9cRA/HDAC3	component>
+9cRA	RAR alpha/9cRA	component>
+RARA	RAR alpha/9cRA	component>
+MAPK3	RXRA	-a>
+9cRA	RAR gamma2/9cRA	component>
+Rar gamma2	RAR gamma2/9cRA	component>
+CDC2	RXRA	-a>
+9cRA	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+Cbp/p300/PCAF	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+NCOA3	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+RARS	RARs/AIB1/Cbp/p300/PCAF/9cRA	component>
+9cRA	RAR gamma1/9cRA	component>
+Rar gamma1	RAR gamma1/9cRA	component>
+9cRA	9cRA	-a>

@@ -1,0 +1,10 @@
+complex	mature NGF homodimer:p75NTR
+complex	pro-beta-NGF homodimer
+complex	pro-beta NGF:p75NTR:sortilin
+complex	p75NTR:sortilin complex
+complex	beta-NGF homodimer
+protein	NGFR
+NGFR	mature NGF homodimer:p75NTR	component>
+beta-NGF homodimer	mature NGF homodimer:p75NTR	component>
+pro-beta-NGF homodimer	pro-beta NGF:p75NTR:sortilin	component>
+p75NTR:sortilin complex	pro-beta NGF:p75NTR:sortilin	component>

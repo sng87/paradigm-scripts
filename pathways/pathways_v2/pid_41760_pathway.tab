@@ -1,0 +1,73 @@
+smallMolecule	IMP
+smallMolecule	inosine
+complex	HGPRT homotetramer
+complex	APRT homodimer
+complex	5'-nucleotidase cytosolic II holoenzyme
+smallMolecule	adenine
+complex	AMP deaminase isoform E tetramer
+smallMolecule	Purine-6-ol
+smallMolecule	guanine
+smallMolecule	NH4+
+smallMolecule	H2O
+complex	adenosine kinase holoenzyme
+smallMolecule	adenosine
+smallMolecule	GMP
+smallMolecule	Guanosine
+complex	AMP deaminase isoform M monomer
+smallMolecule	D-Ribose 1-phosphate
+smallMolecule	PPi
+smallMolecule	AMP
+complex	AMP deaminase isoform L tetramer
+complex	PNPase homotrimer
+smallMolecule	PRPP
+smallMolecule	NH3
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	ADA
+HGPRT homotetramer	GMP	-a>
+5'-nucleotidase cytosolic II holoenzyme	phosphate	-a>
+AMP deaminase isoform L tetramer	NH4+	-a>
+HGPRT homotetramer	PPi	-a>
+APRT homodimer	PPi	-a>
+adenosine kinase holoenzyme	AMP	-a>
+AMP deaminase isoform M monomer	IMP	-a>
+PNPase homotrimer	D-Ribose 1-phosphate	-a>
+AMP deaminase isoform E tetramer	NH4+	-a>
+5'-nucleotidase cytosolic II holoenzyme	Guanosine	-a>
+ADA	NH3	-a>
+PRPP	GMP	-a>
+guanine	PPi	-a>
+guanine	GMP	-a>
+IMP	inosine	-a>
+IMP	phosphate	-a>
+phosphate	guanine	-a>
+Guanosine	guanine	-a>
+Guanosine	D-Ribose 1-phosphate	-a>
+Purine-6-ol	IMP	-a>
+Purine-6-ol	PPi	-a>
+PRPP	IMP	-a>
+PRPP	AMP	-a>
+PRPP	PPi	-a>
+adenine	AMP	-a>
+adenine	PPi	-a>
+ATP	ADP	-a>
+ATP	AMP	-a>
+adenosine	ADP	-a>
+adenosine	AMP	-a>
+phosphate	Purine-6-ol	-a>
+phosphate	D-Ribose 1-phosphate	-a>
+inosine	Purine-6-ol	-a>
+inosine	D-Ribose 1-phosphate	-a>
+H2O	IMP	-a>
+H2O	NH4+	-a>
+AMP	IMP	-a>
+AMP	NH4+	-a>
+H2O	phosphate	-a>
+H2O	Guanosine	-a>
+GMP	phosphate	-a>
+GMP	Guanosine	-a>
+adenosine	inosine	-a>
+adenosine	NH3	-a>
+H2O	inosine	-a>
+H2O	NH3	-a>

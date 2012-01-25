@@ -1,0 +1,41 @@
+smallMolecule	Rattex
+smallMolecule	Phenol
+smallMolecule	Lauric acid
+smallMolecule	TPNH
+smallMolecule	12-Hydroxydodecanoic acid
+smallMolecule	Benzene
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	7-Hydroxycoumarin
+smallMolecule	H+
+smallMolecule	O2
+protein	CYP4A11
+protein	CYP2E1
+protein	CYP2A6
+CYP4A11	12-Hydroxydodecanoic acid	-a>
+CYP2A6	TPN	-a>
+CYP2E1	H2O	-a>
+Lauric acid	TPN	-a>
+Lauric acid	H2O	-a>
+Lauric acid	12-Hydroxydodecanoic acid	-a>
+TPNH	12-Hydroxydodecanoic acid	-a>
+O2	12-Hydroxydodecanoic acid	-a>
+H+	12-Hydroxydodecanoic acid	-a>
+Rattex	H2O	-a>
+Rattex	7-Hydroxycoumarin	-a>
+Rattex	TPN	-a>
+TPNH	7-Hydroxycoumarin	-a>
+O2	7-Hydroxycoumarin	-a>
+H+	7-Hydroxycoumarin	-a>
+TPNH	TPN	-a>
+TPNH	Phenol	-a>
+TPNH	H2O	-a>
+H+	TPN	-a>
+H+	Phenol	-a>
+H+	H2O	-a>
+O2	TPN	-a>
+O2	Phenol	-a>
+O2	H2O	-a>
+Benzene	TPN	-a>
+Benzene	Phenol	-a>
+Benzene	H2O	-a>

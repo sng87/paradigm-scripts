@@ -1,0 +1,16 @@
+complex	G-protein alpha (z):GTP
+complex	G-protein alpha (z):GTP:Adenylate cyclase
+complex	G-protein alpha (z):GDP
+complex	Adenylate cyclase (Mg2+ cofactor)
+smallMolecule	PPi
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	GNAZ
+G-protein alpha (z):GTP:Adenylate cyclase	cAMP	-a|
+Adenylate cyclase (Mg2+ cofactor)	cAMP	-a>
+GNAZ	G-protein alpha (z):GDP	-a>
+G-protein alpha (z):GTP	G-protein alpha (z):GTP:Adenylate cyclase	component>
+Adenylate cyclase (Mg2+ cofactor)	G-protein alpha (z):GTP:Adenylate cyclase	component>
+ATP	PPi	-a>
+ATP	cAMP	-a>
+G-protein alpha (z):GTP	G-protein alpha (z):GDP	-a>

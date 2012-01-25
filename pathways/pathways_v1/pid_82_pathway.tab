@@ -1,0 +1,80 @@
+protein	SPHK1
+protein	PLCB2
+protein	GNAI1
+protein	RAC1
+protein	RHOA
+protein	KDR
+protein	PTGS2
+protein	ABCC1
+protein	GNAO1
+protein	MAPK1
+protein	MAPK3
+protein	EDG1
+protein	PLCG1
+protein	GNAZ
+protein	VEGFA
+protein	PDGFRB
+protein	GNAO1
+protein	GNAI3
+protein	GNAI2
+protein	GO:0007205
+complex	VEGFR2 homodimer/VEGFA homodimer
+complex	S1P1/S1P/PDGFB-D/PDGFRB
+complex	S1P1/S1P/Gi
+complex	S1P1/S1P
+complex	RhoA/GTP
+complex	RhoA/GDP
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PDGFB-D/PDGFRB/PLCgamma1
+complex	PDGFB-D/PDGFRB
+chemical	mol:S1P
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	receptor internalization
+abstract	negative regulation of cAMP metabolic process
+abstract	negative regulation of T cell proliferation
+abstract	calcium-dependent phospholipase C activity
+mol:S1P	S1P1/S1P/PDGFB-D/PDGFRB	component>
+mol:S1P	S1P1/S1P/Gi	component>
+mol:S1P	S1P1/S1P	component>
+mol:GTP	RhoA/GTP	component>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Rac1/GDP	component>
+calcium-dependent phospholipase C activity	SPHK1	-ap>
+VEGFR2 homodimer/VEGFA homodimer	EDG1	-t>
+SPHK1	mol:S1P	-a>
+GNAI1	S1P1/S1P/Gi	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+KDR	VEGFR2 homodimer/VEGFA homodimer	component>
+ABCC1	mol:S1P	-a>
+GNAO1	S1P1/S1P/Gi	component>
+MAPK1	PTGS2	-t>
+MAPK3	PTGS2	-t>
+EDG1	S1P1/S1P/PDGFB-D/PDGFRB	component>
+EDG1	S1P1/S1P/Gi	component>
+EDG1	S1P1/S1P	component>
+PLCG1	PDGFB-D/PDGFRB/PLCgamma1	component>
+GNAZ	S1P1/S1P/Gi	component>
+VEGFA	VEGFR2 homodimer/VEGFA homodimer	component>
+PDGFRB	S1P1/S1P/PDGFB-D/PDGFRB	component>
+PDGFRB	PDGFB-D/PDGFRB/PLCgamma1	component>
+PDGFRB	PDGFB-D/PDGFRB	component>
+GNAO1	S1P1/S1P/Gi	component>
+GNAI3	S1P1/S1P/Gi	component>
+GNAI2	S1P1/S1P/Gi	component>
+S1P1/S1P/Gi	negative regulation of cAMP metabolic process	-ap>
+S1P1/S1P/Gi	negative regulation of T cell proliferation	-ap>
+S1P1/S1P/Gi	MAPK1	-a>
+S1P1/S1P/Gi	MAPK3	-a>
+S1P1/S1P/Gi	PLCG1	-a>
+S1P1/S1P	receptor internalization	-ap>
+S1P1/S1P	PLCB2	-a>
+S1P1/S1P	RhoA/GTP	-a>
+S1P1/S1P	Rac1/GTP	-a>
+PDGFB-D/PDGFRB/PLCgamma1	SPHK1	-a>
+GO:0007205	S1P1/S1P	-a>

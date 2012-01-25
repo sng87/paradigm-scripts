@@ -1,0 +1,166 @@
+abstract	T-helper 2 cell lineage commitment
+abstract	T-helper 1 cell lineage commitment
+abstract	T-helper 2 cell differentiation
+abstract	T cell activation
+abstract	T-helper 1 cell differentiation
+abstract	activation-induced cell death of T cells
+abstract	CD4-positive CD25-positive alpha-beta regulatory T cell lineage commitment
+abstract	T cell anergy
+protein	NFATc A-alpha
+complex	NFAT1-c-4/ICER1
+complex	NFAT1-c-4/PPARG
+complex	AP-1/NFAT1
+complex	NFAT1-c-4/MAF/IRF4
+complex	Jun/NFAT1-c-4/p21SNFT
+protein	GRG4
+complex	JunB/Fra1/NFAT1-c-4
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	NFAT1-c-4 (dimer)/EGR4
+complex	NFAT1/FOXP3
+protein	ICER1
+complex	AP-1/NFAT1-c-4
+protein	NFAT1-c-4-active
+complex	NFAT1-c-4 (dimer)/EGR1
+protein	TNF
+protein	TBX21
+protein	SLC3A2
+protein	RNF128
+protein	PTPRK
+protein	PTPN1
+protein	PTGS2
+protein	PRKCQ
+protein	PPARG
+protein	POU2F1
+protein	NFATC2
+protein	MAF
+protein	JUNB
+protein	JUN
+protein	ITCH
+protein	IRF4
+protein	IL8
+protein	IL5
+protein	IL4
+protein	IL3
+protein	IL2RA
+protein	IL2
+protein	IKZF1
+protein	IFNG
+protein	GBP3
+protein	GATA3
+protein	FOXP3
+protein	FOSL1
+protein	FOS
+protein	FASLG
+protein	EGR4
+protein	EGR3
+protein	EGR2
+protein	EGR1
+protein	E2F1
+protein	DGKA
+protein	CTLA4
+protein	CSF2
+protein	CDK4
+protein	CD40LG
+protein	CBLB
+protein	CASP3
+protein	BATF3
+RNF128	IL2	-t|
+NFAT1-c-4/PPARG	IL4	-t|
+AP-1/NFAT1-c-4	FASLG	-t>
+EGR2	IL2	-t|
+TBX21	IFNG	-t>
+AP-1/NFAT1-c-4	IFNG	-t>
+RNF128	IL4	-t|
+Jun/NFAT1-c-4/p21SNFT	IL2	-t|
+NFAT1-c-4/ICER1	IL2	-t|
+EGR3	IL2	-t|
+NFATC2	IL4	-t>
+GATA3	IL4	-t>
+NFAT1-c-4-active	CDK4	-t|
+NFAT1-c-4/PPARG	IL2	-t|
+POU2F1	IL3	-t>
+NFAT1/FOXP3	IL2	-t|
+NFAT1-c-4-active	EGR2	-t>
+IRF4	NFAT1-c-4/MAF/IRF4	component>
+MAF	NFAT1-c-4/MAF/IRF4	component>
+NFAT1-c-4-active	NFAT1-c-4/MAF/IRF4	component>
+NFAT1-c-4-active	JunB/Fra1/NFAT1-c-4	component>
+FOSL1	JunB/Fra1/NFAT1-c-4	component>
+JUNB	JunB/Fra1/NFAT1-c-4	component>
+ICER1	AP-1/NFAT1-c-4	component>
+ICER1	NFAT1-c-4/ICER1	component>
+NFAT1-c-4-active	NFAT1-c-4/ICER1	component>
+JUN	NFAT1-c-4/ICER1	component>
+FOS	NFAT1-c-4/ICER1	component>
+NFATC2	CASP3	-t>
+CaM/Ca2+/Calcineurin A alpha-beta B1	CBLB	-t>
+NFATC2	SLC3A2	-t>
+AP-1/NFAT1-c-4	IL2RA	-t>
+NFATC2	GBP3	-t>
+NFAT1/FOXP3	IL2RA	-t>
+JunB/Fra1/NFAT1-c-4	IL2	-t>
+PRKCQ	FASLG	-t>
+NFAT1-c-4-active	EGR3	-t>
+AP-1/NFAT1-c-4	CD40LG	-t>
+NFATC2	IKZF1	-t>
+EGR1	NFAT1-c-4 (dimer)/EGR1	component>
+NFAT1-c-4-active	NFAT1-c-4 (dimer)/EGR1	component>
+NFATC2	IFNG	-t>
+BATF3	AP-1/NFAT1-c-4	component>
+BATF3	Jun/NFAT1-c-4/p21SNFT	component>
+NFAT1-c-4-active	Jun/NFAT1-c-4/p21SNFT	component>
+JUN	Jun/NFAT1-c-4/p21SNFT	component>
+FOS	Jun/NFAT1-c-4/p21SNFT	component>
+NFATC2	PTPN1	-t>
+NFATc A-alpha	activation-induced cell death of T cells	-ap|
+ITCH	T cell anergy	-ap>
+AP-1/NFAT1-c-4	IL5	-t>
+T-helper 1 cell lineage commitment	IFNG	-t>
+CaM/Ca2+/Calcineurin A alpha-beta B1	RNF128	-t>
+AP-1/NFAT1-c-4	T cell anergy	-ap|
+NFATC2	PTPRK	-t>
+NFAT1-c-4 (dimer)/EGR1	TNF	-t>
+IL4	T-helper 2 cell differentiation	-ap>
+NFATC2	T cell anergy	-ap>
+IL2RA	CD4-positive CD25-positive alpha-beta regulatory T cell lineage commitment	-ap>
+T-helper 2 cell lineage commitment	IL4	-t>
+AP-1/NFAT1-c-4	IL8	-t>
+IL2	T cell activation	-ap>
+AP-1/NFAT1-c-4	CSF2	-t>
+JUN	AP-1/NFAT1-c-4	component>
+JUN	NFAT1-c-4/PPARG	component>
+FOS	AP-1/NFAT1-c-4	component>
+FOS	NFAT1-c-4/PPARG	component>
+PPARG	AP-1/NFAT1-c-4	component>
+PPARG	NFAT1-c-4/PPARG	component>
+NFAT1-c-4-active	AP-1/NFAT1-c-4	component>
+NFAT1-c-4-active	NFAT1-c-4/PPARG	component>
+CTLA4	CD4-positive CD25-positive alpha-beta regulatory T cell lineage commitment	-ap>
+EGR4	NFAT1-c-4 (dimer)/EGR4	component>
+NFAT1-c-4-active	NFAT1-c-4 (dimer)/EGR4	component>
+NFAT1-c-4 (dimer)/EGR4	TNF	-t>
+CaM/Ca2+/Calcineurin A alpha-beta B1	ITCH	-t>
+IFNG	T-helper 1 cell differentiation	-ap>
+AP-1/NFAT1-c-4	PTGS2	-t>
+NFATC2	GRG4	-t>
+EGR3	FASLG	-t>
+RNF128	T cell anergy	-ap>
+NFATC2	DGKA	-t>
+AP-1/NFAT1-c-4	IL4	-t>
+EGR2	FASLG	-t>
+NFAT1/FOXP3	CTLA4	-t>
+E2F1	CDK4	-t>
+AP-1/NFAT1-c-4	IL2	-t>
+NFAT1-c-4/MAF/IRF4	IL4	-t>
+FOXP3	NFAT1/FOXP3	component>
+FOXP3	AP-1/NFAT1	component>
+NFATC2	NFAT1/FOXP3	component>
+NFATC2	AP-1/NFAT1	component>
+JUN	NFAT1/FOXP3	component>
+JUN	AP-1/NFAT1	component>
+FOS	NFAT1/FOXP3	component>
+FOS	AP-1/NFAT1	component>
+AP-1/NFAT1-c-4	IL3	-t>
+NFAT1-c-4-active	NFATc A-alpha	-t>
+CBLB	T cell anergy	-ap>
+AP-1/NFAT1	IL2	-t>

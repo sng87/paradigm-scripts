@@ -1,0 +1,39 @@
+smallMolecule	limit dextrins
+smallMolecule	alpha-D-Glucose
+complex	maltase-glucoamylase dimer
+smallMolecule	Sugar
+smallMolecule	Maltose
+smallMolecule	H2O
+complex	lactase-phlorizin hydrolase dimer
+protein	UniProt:O43280 TREH_subunit_24_556_24-556
+smallMolecule	D-fructose
+smallMolecule	Maltotriose
+smallMolecule	D-Galactose
+smallMolecule	Lactose
+complex	sucrase-isomaltase dimer
+smallMolecule	Trehalose
+protein	AMY2A
+maltase-glucoamylase dimer	alpha-D-Glucose	-a>
+sucrase-isomaltase dimer	Maltose	-a>
+maltase-glucoamylase dimer	Maltose	-a>
+AMY2A	Maltotriose	-a>
+UniProt:O43280 TREH_subunit_24_556_24-556	alpha-D-Glucose	-a>
+sucrase-isomaltase dimer	alpha-D-Glucose	-a>
+lactase-phlorizin hydrolase dimer	D-Galactose	-a>
+Maltose	alpha-D-Glucose	-a>
+limit dextrins	Maltotriose	-a>
+limit dextrins	alpha-D-Glucose	-a>
+limit dextrins	Maltose	-a>
+Maltotriose	alpha-D-Glucose	-a>
+Maltotriose	Maltose	-a>
+H2O	limit dextrins	-a>
+H2O	Maltose	-a>
+H2O	Maltotriose	-a>
+Trehalose	alpha-D-Glucose	-a>
+Sugar	D-fructose	-a>
+Sugar	alpha-D-Glucose	-a>
+H2O	D-fructose	-a>
+H2O	alpha-D-Glucose	-a>
+H2O	D-Galactose	-a>
+Lactose	alpha-D-Glucose	-a>
+Lactose	D-Galactose	-a>

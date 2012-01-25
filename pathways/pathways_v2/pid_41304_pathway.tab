@@ -1,0 +1,45 @@
+complex	eIF5B:GTP
+complex	eIF2:GDP
+complex	eIF5B:GDP
+complex	48S complex
+complex	60S ribosomal complex
+complex	80S:Met-tRNAi:mRNA
+protein	UniProt:P23588 EIF4B_subunit_2_118_2-118
+complex	80S:Met-tRNAi:mRNA:eIF5B:GTP
+complex	eIF3 subunits complex
+complex	eIF4A subunits complex
+protein	UniProt:Q04637 EIF4G1
+complex	40S:Met-tRNAi:mRNA
+smallMolecule	phosphate
+protein	EIF5
+protein	EIF4H
+protein	EIF4E
+protein	EIF1AX
+80S:Met-tRNAi:mRNA:eIF5B:GTP	80S:Met-tRNAi:mRNA	component>
+80S:Met-tRNAi:mRNA:eIF5B:GTP	eIF5B:GDP	component>
+80S:Met-tRNAi:mRNA:eIF5B:GTP	phosphate	component>
+EIF5	eIF2:GDP	component>
+EIF5	UniProt:P23588 EIF4B_subunit_2_118_2-118	component>
+EIF5	eIF3 subunits complex	component>
+EIF5	EIF5	component>
+EIF5	EIF4H	component>
+EIF5	EIF1AX	component>
+EIF5	phosphate	component>
+EIF5	EIF4E	component>
+EIF5	40S:Met-tRNAi:mRNA	component>
+EIF5	eIF4A subunits complex	component>
+EIF5	UniProt:Q04637 EIF4G1	component>
+48S complex	eIF2:GDP	component>
+48S complex	UniProt:P23588 EIF4B_subunit_2_118_2-118	component>
+48S complex	eIF3 subunits complex	component>
+48S complex	EIF5	component>
+48S complex	EIF4H	component>
+48S complex	EIF1AX	component>
+48S complex	phosphate	component>
+48S complex	EIF4E	component>
+48S complex	40S:Met-tRNAi:mRNA	component>
+48S complex	eIF4A subunits complex	component>
+48S complex	UniProt:Q04637 EIF4G1	component>
+60S ribosomal complex	80S:Met-tRNAi:mRNA:eIF5B:GTP	component>
+40S:Met-tRNAi:mRNA	80S:Met-tRNAi:mRNA:eIF5B:GTP	component>
+eIF5B:GTP	80S:Met-tRNAi:mRNA:eIF5B:GTP	component>

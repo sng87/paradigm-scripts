@@ -1,0 +1,18 @@
+complex	G-alpha-s/GTP
+complex	G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP
+complex	G-alpha-s/GDP
+complex	PKA
+complex	G-protein receptor/G-gamma/G-beta/Ligand
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	Ligand
+protein	ADCY1
+ADCY1	cAMP	-a>
+cAMP	PKA	-a>
+G-alpha-s/GTP	G-alpha-s/GDP	-a>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	G-protein receptor/G-gamma/G-beta/Ligand	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	G-alpha-s/GTP	component>
+Ligand	G-protein receptor/G-gamma/G-beta/Ligand	component>
+Ligand	G-alpha-s/GTP	component>
+G-alpha-s/GTP	ADCY1	-a>
+ATP	cAMP	-a>

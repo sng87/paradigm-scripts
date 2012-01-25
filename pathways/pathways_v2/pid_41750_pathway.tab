@@ -1,0 +1,44 @@
+smallMolecule	Oxalate
+smallMolecule	Glyoxylate
+smallMolecule	Gly
+complex	AGXT homodimer
+smallMolecule	TPNH
+smallMolecule	Pyruvate
+smallMolecule	NH4+
+complex	DAO homodimer
+smallMolecule	TPN
+smallMolecule	L-Hydroxyproline
+smallMolecule	Glycolate
+complex	HAO1 homotetramer
+smallMolecule	L-Alanine
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	H2O2
+protein	GRHPR
+DAO homodimer	NH4+	-a>
+HAO1 homotetramer	H2O2	-a>
+AGXT homodimer	Gly	-a>
+GRHPR	TPN	-a>
+HAO1 homotetramer	Glyoxylate	-a>
+L-Hydroxyproline	Glyoxylate	-a>
+O2	NH4+	-a>
+Gly	H2O2	-a>
+Gly	Glyoxylate	-a>
+Gly	NH4+	-a>
+Glyoxylate	Oxalate	-a>
+Glyoxylate	H2O2	-a>
+O2	Oxalate	-a>
+L-Alanine	Pyruvate	-a>
+L-Alanine	Gly	-a>
+Glyoxylate	Pyruvate	-a>
+Glyoxylate	Gly	-a>
+H+	Glycolate	-a>
+H+	TPN	-a>
+TPNH	Glycolate	-a>
+TPNH	TPN	-a>
+Glyoxylate	Glycolate	-a>
+Glyoxylate	TPN	-a>
+Glycolate	H2O2	-a>
+Glycolate	Glyoxylate	-a>
+O2	H2O2	-a>
+O2	Glyoxylate	-a>

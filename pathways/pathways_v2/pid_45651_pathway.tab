@@ -1,0 +1,45 @@
+complex	Prostaglandin E1/PGE1R
+complex	G-alpha-S/AC
+smallMolecule	nucleoside diphosphate
+complex	Forskolin/B2AR
+complex	PKA
+smallMolecule	H89
+smallMolecule	befar (tn)
+smallMolecule	coleonol
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	Epinephrine
+complex	Epinephrine/B2AR
+smallMolecule	PIP2
+smallMolecule	DAG
+smallMolecule	cAMP
+smallMolecule	ATP
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	RAPGEF3
+protein	RAP2B
+protein	PTGER1
+protein	PLCE1
+protein	ADRB2
+PLCE1	IP3	-a>
+G-alpha-S/AC	cAMP	-a>
+H89	PKA	-a|
+PIP2	DAG	-a>
+PIP2	IP3	-a>
+befar (tn)	Prostaglandin E1/PGE1R	component>
+PTGER1	Prostaglandin E1/PGE1R	component>
+RAP2B	PLCE1	-a>
+ATP	cAMP	-a>
+coleonol	Forskolin/B2AR	component>
+ADRB2	Forskolin/B2AR	component>
+Epinephrine	Epinephrine/B2AR	component>
+ADRB2	Epinephrine/B2AR	component>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	RAP2B	-a>
+RAP2B	nucleoside diphosphate	-a>
+RAPGEF3	RAP2B	-a>
+Prostaglandin E1/PGE1R	G-alpha-S/AC	-a>
+Forskolin/B2AR	G-alpha-S/AC	-a>
+IP3	Ca2+	-a>
+cAMP	RAPGEF3	-a>
+Epinephrine/B2AR	G-alpha-S/AC	-a>
+cAMP	PKA	-a>

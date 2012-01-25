@@ -1,0 +1,22 @@
+smallMolecule	7alpha-hydroxycholest-4-en-3-one
+smallMolecule	7alpha,12alpha-dihydroxycholest-4-en-3-one
+smallMolecule	TPNH
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	H+
+smallMolecule	O2
+protein	CYP8B1
+CYP8B1	TPN	-a>
+CYP8B1	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+O2	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+H+	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+TPNH	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>
+7alpha-hydroxycholest-4-en-3-one	H2O	-a>
+7alpha-hydroxycholest-4-en-3-one	TPN	-a>
+7alpha-hydroxycholest-4-en-3-one	7alpha,12alpha-dihydroxycholest-4-en-3-one	-a>

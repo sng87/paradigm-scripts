@@ -1,0 +1,17 @@
+protein	UniProt:Q9UBS0 RPS6KB2
+smallMolecule	ATP
+smallMolecule	ADP
+protein	NR4A1
+protein	CREB1
+protein	AKT1
+AKT1	ADP	-a>
+ATP	NR4A1	-a>
+NR4A1	NR4A1	-a>
+NR4A1	ADP	-a>
+UniProt:Q9UBS0 RPS6KB2	UniProt:Q9UBS0 RPS6KB2	-a>
+UniProt:Q9UBS0 RPS6KB2	ADP	-a>
+ATP	UniProt:Q9UBS0 RPS6KB2	-a>
+ATP	ADP	-a>
+ATP	CREB1	-a>
+CREB1	ADP	-a>
+AKT1	CREB1	-a>

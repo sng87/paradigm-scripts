@@ -1,0 +1,66 @@
+complex	ECM ligands:alphaIIbbeta3:c-src:FADK1:Talin complex
+complex	ECM ligands:2(alphaIIbbeta3:active c-src):Talin complex
+complex	Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY529:csk)
+complex	alphaIIbbeta3:inactive c-src:Csk
+complex	ECM ligands: alphaIIbbeta3:phospho c-Src:phosphorylated FADK1:Talin complex
+complex	Talin:RIAM complex
+complex	Talin complex:ECM ligands: 2(alphaIIbbeta3:inactive c-Src)
+complex	ECM ligands: alphaIIbbeta3:phspho c-src:phospho FADK1: Talin complex
+complex	Rap1-GTP:PIP2:RIAM
+smallMolecule	H2O
+complex	Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY418 pY529:Csk)
+complex	Talin complex:alphaIIbbeta3:inactive c-src:Csk
+smallMolecule	PIP2
+protein	alphaIIbbeta3 ECM ligands
+complex	Focal complex
+complex	Rap1-GDP
+smallMolecule	Calcium
+protein	UniProt:P12931-1 SRC
+complex	Rap1-GTP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TLN1
+protein	PTPN1
+protein	PTK2
+protein	CSK
+protein	APBB1IP
+UniProt:P12931-1 SRC	Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY418 pY529:Csk)	-a>
+ECM ligands:2(alphaIIbbeta3:active c-src):Talin complex	ECM ligands: alphaIIbbeta3:phospho c-Src:phosphorylated FADK1:Talin complex	-a>
+PTPN1	ECM ligands:2(alphaIIbbeta3:active c-src):Talin complex	-a>
+Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY529:csk)	ADP	-a>
+Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY529:csk)	Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY418 pY529:Csk)	-a>
+ATP	Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY418 pY529:Csk)	-a>
+Focal complex	Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY529:csk)	component>
+alphaIIbbeta3:inactive c-src:Csk	Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY529:csk)	component>
+Calcium	Focal complex	component>
+Talin complex:alphaIIbbeta3:inactive c-src:Csk	Focal complex	component>
+alphaIIbbeta3 ECM ligands	Focal complex	component>
+alphaIIbbeta3:inactive c-src:Csk	Talin complex:alphaIIbbeta3:inactive c-src:Csk	component>
+Talin:RIAM complex	Talin complex:alphaIIbbeta3:inactive c-src:Csk	component>
+APBB1IP	Rap1-GTP:PIP2:RIAM	component>
+PIP2	Rap1-GTP:PIP2:RIAM	component>
+Rap1-GTP	Rap1-GTP:PIP2:RIAM	component>
+TLN1	Talin:RIAM complex	component>
+Rap1-GTP:PIP2:RIAM	Talin:RIAM complex	component>
+ECM ligands:2(alphaIIbbeta3:active c-src):Talin complex	ECM ligands:alphaIIbbeta3:c-src:FADK1:Talin complex	component>
+PTK2	ECM ligands:alphaIIbbeta3:c-src:FADK1:Talin complex	component>
+GTP	Rap1-GTP	-a>
+GTP	GDP	-a>
+Rap1-GDP	Rap1-GTP	-a>
+Rap1-GDP	GDP	-a>
+ATP	ECM ligands: alphaIIbbeta3:phospho c-Src:phosphorylated FADK1:Talin complex	-a>
+ECM ligands: alphaIIbbeta3:phspho c-src:phospho FADK1: Talin complex	ADP	-a>
+ECM ligands: alphaIIbbeta3:phspho c-src:phospho FADK1: Talin complex	ECM ligands: alphaIIbbeta3:phospho c-Src:phosphorylated FADK1:Talin complex	-a>
+Talin complex:ECM ligands: 2(alphaIIbbeta3:inactive c-Src)	phosphate	-a>
+Talin complex:ECM ligands: 2(alphaIIbbeta3:inactive c-Src)	ECM ligands:2(alphaIIbbeta3:active c-src):Talin complex	-a>
+H2O	phosphate	-a>
+H2O	ECM ligands:2(alphaIIbbeta3:active c-src):Talin complex	-a>
+Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY418 pY529:Csk)	Talin complex:ECM ligands: 2(alphaIIbbeta3:inactive c-Src)	component>
+Talin complex:ECM ligands: 2(alphaIIbbeta3:c-src pY418 pY529:Csk)	CSK	component>
+ATP	ECM ligands: alphaIIbbeta3:phspho c-src:phospho FADK1: Talin complex	-a>
+ATP	ADP	-a>
+ECM ligands:alphaIIbbeta3:c-src:FADK1:Talin complex	ECM ligands: alphaIIbbeta3:phspho c-src:phospho FADK1: Talin complex	-a>
+ECM ligands:alphaIIbbeta3:c-src:FADK1:Talin complex	ADP	-a>

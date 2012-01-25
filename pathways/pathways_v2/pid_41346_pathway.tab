@@ -1,0 +1,6 @@
+complex	Pol eta:lesioned DNA template inserted with correct base complement
+complex	Pol eta:damaged DNA template complex
+protein	POLH
+Pol eta:lesioned DNA template inserted with correct base complement	POLH	component>
+POLH	Pol eta:damaged DNA template complex	component>
+Pol eta:damaged DNA template complex	Pol eta:lesioned DNA template inserted with correct base complement	-a>

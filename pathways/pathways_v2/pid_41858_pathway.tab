@@ -1,0 +1,50 @@
+smallMolecule	Carnitine
+smallMolecule	O-Propionylcarnitine
+smallMolecule	O-Acetylcarnitine
+smallMolecule	CoA
+protein	UniProt:P22307-1 SCP2
+protein	UniProt:P43155 CRAT
+smallMolecule	Acetate
+smallMolecule	H2O
+smallMolecule	Propionyl-CoA
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	Acetyl-CoA
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	H2O2
+protein	ACOT8
+UniProt:P43155 CRAT	O-Acetylcarnitine	-a>
+UniProt:P43155 CRAT	O-Propionylcarnitine	-a>
+ACOT8	Acetate	-a>
+UniProt:P22307-1 SCP2	Propionyl-CoA	-a>
+O2	Propionyl-CoA	-a>
+O2	Acetyl-CoA	-a>
+O2	H+	-a>
+O2	NADH	-a>
+CoA	H2O2	-a>
+CoA	Acetyl-CoA	-a>
+CoA	H+	-a>
+CoA	NADH	-a>
+H2O	Propionyl-CoA	-a>
+H2O	H2O2	-a>
+H2O	Acetyl-CoA	-a>
+H2O	H+	-a>
+H2O	NADH	-a>
+DPN	Propionyl-CoA	-a>
+DPN	H2O2	-a>
+DPN	Acetyl-CoA	-a>
+Acetyl-CoA	O-Acetylcarnitine	-a>
+Carnitine	O-Acetylcarnitine	-a>
+Carnitine	CoA	-a>
+Carnitine	O-Propionylcarnitine	-a>
+Propionyl-CoA	CoA	-a>
+Propionyl-CoA	O-Propionylcarnitine	-a>
+H2O	CoA	-a>
+H2O	Acetate	-a>
+Acetyl-CoA	CoA	-a>
+Acetyl-CoA	Acetate	-a>
+CoA	Propionyl-CoA	-a>
+O2	H2O2	-a>
+DPN	NADH	-a>
+DPN	H+	-a>

@@ -1,0 +1,21 @@
+smallMolecule	nucleoside diphosphate
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	PIP2
+smallMolecule	DAG
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	TGM2
+protein	PLCD1
+protein	DLC1
+protein	ADRA1B
+PLCD1	DAG	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+TGM2	PLCD1	-a>
+DLC1	PLCD1	-a>
+Ca2+	PLCD1	-a>
+IP3	PLCD1	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	TGM2	-a>
+TGM2	nucleoside diphosphate	-a>
+ADRA1B	TGM2	-a>

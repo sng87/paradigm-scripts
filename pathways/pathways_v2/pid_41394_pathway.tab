@@ -1,0 +1,30 @@
+smallMolecule	Tetrachloromethane
+smallMolecule	TPNH
+smallMolecule	Trifluoroacetylchloride
+smallMolecule	Chloride
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	Hydrogen bromide
+smallMolecule	Halothane
+smallMolecule	H+
+smallMolecule	O2
+protein	CYP2E1
+CYP2E1	Chloride	-a>
+CYP2E1	TPN	-a>
+Tetrachloromethane	Chloride	-a>
+Halothane	Hydrogen bromide	-a>
+Halothane	H2O	-a>
+Halothane	Trifluoroacetylchloride	-a>
+Halothane	TPN	-a>
+H+	Hydrogen bromide	-a>
+H+	H2O	-a>
+H+	Trifluoroacetylchloride	-a>
+H+	TPN	-a>
+TPNH	Hydrogen bromide	-a>
+TPNH	H2O	-a>
+TPNH	Trifluoroacetylchloride	-a>
+TPNH	TPN	-a>
+O2	Hydrogen bromide	-a>
+O2	H2O	-a>
+O2	Trifluoroacetylchloride	-a>
+O2	TPN	-a>

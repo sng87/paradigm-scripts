@@ -1,0 +1,12 @@
+complex	CD8:Nef:AP-2 Complex:v-ATPase Complex
+complex	CD8:Nef Complex
+complex	AP-2 Complex
+protein	myristoylated Nef Protein (numerous variants)
+protein	ATP6V1H
+CD8:Nef:AP-2 Complex:v-ATPase Complex	ATP6V1H	component>
+CD8:Nef:AP-2 Complex:v-ATPase Complex	myristoylated Nef Protein (numerous variants)	component>
+CD8:Nef:AP-2 Complex:v-ATPase Complex	AP-2 Complex	component>
+CD8:Nef Complex	CD8:Nef:AP-2 Complex:v-ATPase Complex	component>
+ATP6V1H	CD8:Nef:AP-2 Complex:v-ATPase Complex	component>
+AP-2 Complex	CD8:Nef:AP-2 Complex:v-ATPase Complex	component>
+CD8:Nef:AP-2 Complex:v-ATPase Complex	CD8:Nef:AP-2 Complex:v-ATPase Complex	-a>

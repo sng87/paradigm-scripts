@@ -1,0 +1,76 @@
+complex	PDGF/PDGF/PDGF R/PDGF R
+complex	SHC/GRB2/SOS-1
+complex	ELK-1/SRF/SRF
+smallMolecule	PIP2
+complex	STAT1/STAT3
+smallMolecule	DAG
+protein	PKC
+complex	AP-1
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	STAT3
+protein	STAT1
+protein	SRF
+protein	RASA1
+protein	RAF1
+protein	PLCG1
+protein	PDGFRA
+protein	PDGFA
+protein	MAPK8
+protein	MAPK3
+protein	MAP3K1
+protein	MAP2K4
+protein	MAP2K1
+protein	JUN
+protein	JAK1
+protein	HRAS
+protein	FOS
+protein	ELK1
+protein	CSNK2A1
+CSNK2A1	JUN	-a|
+PLCG1	DAG	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+DAG	PKC	-a>
+PDGF/PDGF/PDGF R/PDGF R	SHC/GRB2/SOS-1	-a>
+SRF	ELK-1/SRF/SRF	component>
+ELK1	ELK-1/SRF/SRF	component>
+PDGF/PDGF/PDGF R/PDGF R	RASA1	-a>
+ELK1	FOS	-a>
+MAP2K1	MAPK3	-a>
+MAP3K1	MAP2K1	-a>
+MAPK8	JUN	-a>
+PDGF/PDGF/PDGF R/PDGF R	PI3K	-a>
+CSNK2A1	SRF	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+PKC	ELK1	-a>
+JAK1	STAT3	-a>
+HRAS	HRAS	-a>
+HRAS	MAP3K1	-a>
+MAPK3	ELK1	-a>
+IP3	Ca2+	-a>
+PDGF/PDGF/PDGF R/PDGF R	PLCG1	-a>
+RAF1	MAP2K1	-a>
+STAT1/STAT3	STAT1/STAT3	-a>
+AP-1	FOS	-t>
+JAK1	STAT1	-a>
+MAP3K1	MAP2K4	-a>
+PDGFRA	PDGF/PDGF/PDGF R/PDGF R	component>
+PDGFA	PDGF/PDGF/PDGF R/PDGF R	component>
+Ca2+	PKC	-a>
+GTP	GDP	-a>
+GTP	HRAS	-a>
+HRAS	GDP	-a>
+RASA1	HRAS	-a>
+FOS	AP-1	component>
+JUN	AP-1	component>
+MAPK3	JUN	-a>
+PDGF/PDGF/PDGF R/PDGF R	JAK1	-a>
+STAT3	STAT1/STAT3	component>
+STAT1	STAT1/STAT3	component>
+MAP2K4	MAPK8	-a>
+MAPK3	MAPK3	-a>

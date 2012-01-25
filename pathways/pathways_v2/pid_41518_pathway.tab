@@ -1,0 +1,16 @@
+complex	geminin:ubiquitin complex
+protein	E2F transcription factors
+complex	Orc4:Orc5:Orc3:Orc2:origin
+complex	Cdt1:geminin
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	Orc1:Orc4:Orc5:Orc3:Orc2:origin
+protein	ORC1L
+protein	CDT1
+protein	CDC6
+Orc4:Orc5:Orc3:Orc2:origin	Orc1:Orc4:Orc5:Orc3:Orc2:origin	component>
+ORC1L	Orc1:Orc4:Orc5:Orc3:Orc2:origin	component>
+E2F transcription factors	CDC6	-t>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	geminin:ubiquitin complex	-a>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	CDT1	-a>
+Cdt1:geminin	geminin:ubiquitin complex	-a>
+Cdt1:geminin	CDT1	-a>

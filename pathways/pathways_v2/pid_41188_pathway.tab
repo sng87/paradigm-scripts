@@ -1,0 +1,121 @@
+smallMolecule	L-Cysteine
+complex	SLC7A5:SLC3A2 heterodimer
+complex	SLC7A10:SLC3A2 heterodimer
+protein	UniProt:P48065 SLC6A12
+complex	SLC7A9:SLC3A1 heterodimer
+smallMolecule	Gly
+smallMolecule	taurine
+complex	SLC7A7:SLC3A2 heterodimer
+smallMolecule	L-Leucine
+smallMolecule	L-Proline
+smallMolecule	Chloride
+smallMolecule	L-Serine
+protein	UniProt:Q99624 SLC38A3
+smallMolecule	L-Tyrosine
+complex	SLC7A6:SLC3A2 heterodimer
+protein	UniProt:P52569-1 SLC7A2
+complex	SLC7A11:SLC3A2 heterodimer
+smallMolecule	GABA
+smallMolecule	L-Glutamate
+smallMolecule	Glycine
+smallMolecule	L-Alanine
+smallMolecule	L-Valine
+complex	SLC7A8:SLC3A2 heterodimer
+smallMolecule	L-Lysine
+smallMolecule	H+
+smallMolecule	L-arginine
+smallMolecule	Na+
+protein	SLC7A3
+protein	SLC7A2
+protein	SLC7A1
+protein	SLC6A6
+protein	SLC6A20
+protein	SLC6A19
+protein	SLC6A18
+protein	SLC6A15
+protein	SLC6A14
+protein	SLC43A2
+protein	SLC43A1
+protein	SLC38A5
+protein	SLC38A4
+protein	SLC38A2
+protein	SLC38A1
+protein	SLC36A2
+protein	SLC36A1
+protein	SLC16A10
+SLC38A2	Glycine	-a>
+SLC7A7:SLC3A2 heterodimer	L-arginine	-a>
+SLC7A9:SLC3A1 heterodimer	L-Leucine	-a>
+SLC6A19	Na+	-a>
+SLC38A5	H+	-a>
+SLC7A11:SLC3A2 heterodimer	L-Glutamate	-a>
+UniProt:P48065 SLC6A12	Chloride	-a>
+SLC16A10	L-Tyrosine	-a>
+SLC7A1	L-Lysine	-a>
+SLC36A2	Glycine	-a>
+Na+	L-Valine	-a>
+L-Valine	Na+	-a>
+SLC6A15	L-Valine	-a>
+SLC7A2	L-arginine	-a>
+SLC36A1	Glycine	-a>
+Chloride	Glycine	-a>
+Glycine	Chloride	-a>
+SLC6A14	Na+	-a>
+Na+	L-Proline	-a>
+L-Proline	Na+	-a>
+SLC6A20	L-Proline	-a>
+L-arginine	L-arginine	-a>
+L-Leucine	L-Lysine	-a>
+L-Lysine	L-Lysine	-a>
+L-Lysine	L-Leucine	-a>
+SLC38A4	L-Lysine	-a>
+Na+	L-Serine	-a>
+L-Serine	Na+	-a>
+SLC38A1	L-Serine	-a>
+Na+	L-Alanine	-a>
+H+	L-Alanine	-a>
+L-Alanine	H+	-a>
+L-Alanine	Na+	-a>
+UniProt:Q99624 SLC38A3	L-Alanine	-a>
+SLC6A18	Gly	-a>
+Na+	Glycine	-a>
+Na+	H+	-a>
+H+	Na+	-a>
+H+	Glycine	-a>
+H+	H+	-a>
+Glycine	Na+	-a>
+Glycine	Glycine	-a>
+Glycine	H+	-a>
+SLC7A8:SLC3A2 heterodimer	Glycine	-a>
+SLC7A10:SLC3A2 heterodimer	Glycine	-a>
+SLC7A5:SLC3A2 heterodimer	L-Valine	-a>
+Na+	taurine	-a>
+Chloride	taurine	-a>
+taurine	Na+	-a>
+taurine	Chloride	-a>
+SLC6A6	taurine	-a>
+Na+	L-Leucine	-a>
+Na+	L-arginine	-a>
+L-Leucine	L-Leucine	-a>
+L-Leucine	Na+	-a>
+L-Leucine	L-arginine	-a>
+L-arginine	L-Leucine	-a>
+L-arginine	Na+	-a>
+SLC7A6:SLC3A2 heterodimer	L-arginine	-a>
+L-Glutamate	L-Cysteine	-a>
+L-Glutamate	L-Glutamate	-a>
+L-Cysteine	L-Cysteine	-a>
+L-Cysteine	L-Glutamate	-a>
+SLC7A3	L-Lysine	-a>
+Chloride	GABA	-a>
+Chloride	Na+	-a>
+Chloride	Chloride	-a>
+GABA	GABA	-a>
+GABA	Na+	-a>
+GABA	Chloride	-a>
+Na+	GABA	-a>
+Na+	Na+	-a>
+Na+	Chloride	-a>
+UniProt:P52569-1 SLC7A2	L-Lysine	-a>
+SLC43A1	L-Valine	-a>
+SLC43A2	L-Valine	-a>

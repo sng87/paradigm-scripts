@@ -1,0 +1,109 @@
+protein	PIP5K1A
+protein	PLD1
+protein	TIAM1
+protein	PLAUR
+protein	ARF1
+protein	RAC1
+protein	RAB11A
+protein	ARF6
+protein	RHOA
+protein	MAPK1
+protein	MAPK3
+protein	NME1
+protein	RAB11FIP3
+protein	KALRN
+protein	PLD2
+complex	RhoA/GTP
+complex	RhoA/GDP
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	RAB11FIP3/RAB11A
+complex	ARF6/GTP/RAB11FIP3/RAB11A
+complex	ARF6/GTP/NME1/Tiam1
+complex	ARF6/GTP
+complex	ARF6/GDP
+complex	ARF1/GTP
+complex	ARF1/GDP
+chemical	mol:Phosphatidic acid
+chemical	mol:GTP
+chemical	mol:GM1
+chemical	mol:GDP
+chemical	mol:Choline
+abstract	tube morphogenesis
+abstract	substrate adhesion-dependent cell spreading
+abstract	ruffle organization
+abstract	regulation of epithelial cell migration
+abstract	regulation of calcium-dependent cell-cell adhesion
+abstract	regulation of axonogenesis
+abstract	myoblast fusion
+abstract	liver development
+abstract	lamellipodium assembly
+abstract	fibronectin binding
+abstract	cortical actin cytoskeleton organization
+abstract	actin filament bundle formation
+mol:Phosphatidic acid	PIP5K1A	-a>
+mol:GTP	RhoA/GTP	component>
+mol:GTP	Rac1/GTP	component>
+mol:GTP	ARF6/GTP/RAB11FIP3/RAB11A	component>
+mol:GTP	ARF6/GTP/NME1/Tiam1	component>
+mol:GTP	ARF6/GTP	component>
+mol:GTP	ARF1/GTP	component>
+mol:GM1	Rac1/GTP	-a>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Rac1/GDP	component>
+mol:GDP	ARF6/GDP	component>
+mol:GDP	ARF1/GDP	component>
+fibronectin binding	mol:GM1	-ap>
+PIP5K1A	ruffle organization	-ap>
+PIP5K1A	regulation of axonogenesis	-ap|
+PLD1	mol:Phosphatidic acid	-a>
+PLD1	mol:Choline	-a>
+TIAM1	ARF6/GTP/NME1/Tiam1	component>
+PLAUR	mol:GDP	-a>
+PLAUR	Rac1/GTP	-a>
+ARF1	ARF1/GTP	component>
+ARF1	ARF1/GDP	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RAB11A	RAB11FIP3/RAB11A	component>
+RAB11A	ARF6/GTP/RAB11FIP3/RAB11A	component>
+ARF6	ARF6/GTP/RAB11FIP3/RAB11A	component>
+ARF6	ARF6/GTP/NME1/Tiam1	component>
+ARF6	ARF6/GTP	component>
+ARF6	ARF6/GDP	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+MAPK1	PLAUR	-t>
+MAPK3	PLAUR	-t>
+NME1	ARF6/GTP/NME1/Tiam1	component>
+RAB11FIP3	RAB11FIP3/RAB11A	component>
+RAB11FIP3	ARF6/GTP/RAB11FIP3/RAB11A	component>
+KALRN	mol:GDP	-a>
+KALRN	Rac1/GTP	-a>
+PLD2	mol:Phosphatidic acid	-a>
+PLD2	mol:Choline	-a>
+RhoA/GDP	actin filament bundle formation	-ap|
+Rac1/GTP	tube morphogenesis	-ap>
+Rac1/GTP	lamellipodium assembly	-ap>
+Rac1/GTP	cortical actin cytoskeleton organization	-ap>
+ARF6/GTP/NME1/Tiam1	regulation of calcium-dependent cell-cell adhesion	-ap|
+ARF6/GTP/NME1/Tiam1	mol:GDP	-a|
+ARF6/GTP/NME1/Tiam1	Rac1/GTP	-a|
+ARF6/GTP	substrate adhesion-dependent cell spreading	-ap>
+ARF6/GTP	regulation of epithelial cell migration	-ap>
+ARF6/GTP	mol:GTP	-a>
+ARF6/GTP	mol:GM1	-a>
+ARF6/GTP	mol:GDP	-a>
+ARF6/GTP	liver development	-ap>
+ARF6/GTP	cortical actin cytoskeleton organization	-ap>
+ARF6/GTP	PIP5K1A	-a>
+ARF6/GTP	PLD1	-a>
+ARF6/GTP	MAPK1	-a>
+ARF6/GTP	MAPK3	-a>
+ARF6/GTP	PLD2	-a>
+ARF6/GTP	RhoA/GDP	-a>
+ARF6/GTP	Rac1/GTP	-a>
+ARF6/GTP	Rac1/GDP	-a>
+ARF6/GTP	ARF1/GTP	-a>
+ARF6/GDP	myoblast fusion	-ap|
+ARF6/GDP	KALRN	-a>

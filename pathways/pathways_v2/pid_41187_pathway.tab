@@ -1,0 +1,15 @@
+smallMolecule	Arachidonate
+smallMolecule	H2O
+complex	Active PLA2:phosphatidylcholine
+smallMolecule	2-Lysophosphatidylcholine
+smallMolecule	Lecithin
+smallMolecule	Ca2+
+protein	PLA2G4A
+Active PLA2:phosphatidylcholine	Arachidonate	-a>
+Lecithin	2-Lysophosphatidylcholine	-a>
+Lecithin	Arachidonate	-a>
+H2O	2-Lysophosphatidylcholine	-a>
+H2O	Arachidonate	-a>
+Ca2+	Active PLA2:phosphatidylcholine	component>
+PLA2G4A	Active PLA2:phosphatidylcholine	component>
+Lecithin	Active PLA2:phosphatidylcholine	component>

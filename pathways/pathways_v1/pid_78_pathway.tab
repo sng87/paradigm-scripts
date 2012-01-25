@@ -1,0 +1,149 @@
+protein	TRAPPC4
+protein	LAMA3
+protein	BAX
+protein	PRKCD
+protein	GNB2L1
+protein	RHOA
+protein	CAV2
+protein	MAPK8
+protein	CASP3
+protein	SDC2
+protein	EPHB2
+protein	MAPK1
+protein	MAPK3
+protein	LAMA1
+protein	NF1
+protein	RASA1
+protein	PRKACA
+protein	ITGA2
+protein	EZR
+protein	SRC
+protein	EPB41
+protein	IL8
+protein	ITGA5
+protein	MMP2
+protein	ITGB1
+protein	CSF2
+protein	FN1
+protein	TGFB1
+protein	HRAS
+protein	KNG1
+protein	RP11-540L11.1
+protein	TNFRSF13B
+protein	SDCBP
+protein	GO:0007205
+complex	alpha5/beta1 Integrin
+complex	alpha2/beta1 Integrin
+complex	alpha2 ITGB1
+complex	Syndecan-2/alpha2/beta1 Integrin
+complex	Syndecan-2/alpha2 ITGB1
+complex	Syndecan-2/TGFB1
+complex	Syndecan-2/TACI
+complex	Syndecan-2/Syntenin/PI-4-5-P2
+complex	Syndecan-2/Synbindin
+complex	Syndecan-2/RasGAP/Src
+complex	Syndecan-2/RasGAP
+complex	Syndecan-2/RACK1
+complex	Syndecan-2/PKC delta
+complex	Syndecan-2/Neurofibromin
+complex	Syndecan-2/MMP2
+complex	Syndecan-2/Laminin alpha3
+complex	Syndecan-2/Kininogen
+complex	Syndecan-2/IL8
+complex	Syndecan-2/GM-CSF
+complex	Syndecan-2/Fibronectin
+complex	Syndecan-2/Ezrin
+complex	Syndecan-2/Caveolin-2/Ras
+complex	Syndecan-2/CASK/Protein 4.1
+complex	Syndecan-2/CASK
+complex	Syndecan-2 dimer
+complex	FGFR/FGF/Syndecan-2
+chemical	mol:PI-4-5-P2
+abstract	positive regulation of cell-cell adhesion
+abstract	extracellular matrix organization
+abstract	determination of left/right symmetry
+abstract	dendrite morphogenesis
+abstract	calcineurin-NFAT signaling pathway
+abstract	angiogenesis
+abstract	actin cytoskeleton reorganization
+abstract	DNA mediated transformation
+mol:PI-4-5-P2	Syndecan-2/Syntenin/PI-4-5-P2	component>
+TRAPPC4	Syndecan-2/Synbindin	component>
+LAMA3	Syndecan-2/alpha2 ITGB1	component>
+LAMA3	Syndecan-2/Laminin alpha3	component>
+PRKCD	Syndecan-2/PKC delta	component>
+GNB2L1	Syndecan-2/RACK1	component>
+RHOA	Syndecan-2/Ezrin	-a>
+CAV2	Syndecan-2/Caveolin-2/Ras	component>
+MAPK8	BAX	-t>
+SDC2	determination of left/right symmetry	-ap>
+SDC2	MAPK8	-a>
+SDC2	Syndecan-2/alpha2/beta1 Integrin	component>
+SDC2	Syndecan-2/alpha2 ITGB1	component>
+SDC2	Syndecan-2/TGFB1	component>
+SDC2	Syndecan-2/TACI	component>
+SDC2	Syndecan-2/Syntenin/PI-4-5-P2	component>
+SDC2	Syndecan-2/Synbindin	component>
+SDC2	Syndecan-2/RasGAP/Src	component>
+SDC2	Syndecan-2/RasGAP	component>
+SDC2	Syndecan-2/RACK1	component>
+SDC2	Syndecan-2/PKC delta	component>
+SDC2	Syndecan-2/Neurofibromin	component>
+SDC2	Syndecan-2/MMP2	component>
+SDC2	Syndecan-2/Laminin alpha3	component>
+SDC2	Syndecan-2/Kininogen	component>
+SDC2	Syndecan-2/IL8	component>
+SDC2	Syndecan-2/GM-CSF	component>
+SDC2	Syndecan-2/Fibronectin	component>
+SDC2	Syndecan-2/Ezrin	component>
+SDC2	Syndecan-2/Caveolin-2/Ras	component>
+SDC2	Syndecan-2/CASK/Protein 4.1	component>
+SDC2	Syndecan-2/CASK	component>
+SDC2	Syndecan-2 dimer	component>
+SDC2	FGFR/FGF/Syndecan-2	component>
+EPHB2	Syndecan-2 dimer	-a>
+LAMA1	Syndecan-2/alpha2/beta1 Integrin	component>
+NF1	Syndecan-2/Neurofibromin	component>
+RASA1	Syndecan-2/RasGAP/Src	component>
+RASA1	Syndecan-2/RasGAP	component>
+ITGA2	alpha2/beta1 Integrin	component>
+ITGA2	alpha2 ITGB1	component>
+ITGA2	Syndecan-2/alpha2/beta1 Integrin	component>
+ITGA2	Syndecan-2/alpha2 ITGB1	component>
+EZR	Syndecan-2/Ezrin	component>
+SRC	Syndecan-2/RasGAP/Src	component>
+EPB41	Syndecan-2/CASK/Protein 4.1	component>
+IL8	Syndecan-2/IL8	component>
+ITGA5	alpha5/beta1 Integrin	component>
+MMP2	Syndecan-2/MMP2	component>
+ITGB1	alpha5/beta1 Integrin	component>
+ITGB1	alpha2/beta1 Integrin	component>
+ITGB1	alpha2 ITGB1	component>
+ITGB1	Syndecan-2/alpha2/beta1 Integrin	component>
+ITGB1	Syndecan-2/alpha2 ITGB1	component>
+CSF2	Syndecan-2/GM-CSF	component>
+FN1	Syndecan-2/Fibronectin	component>
+TGFB1	Syndecan-2/TGFB1	component>
+HRAS	Syndecan-2/RasGAP	-a>
+HRAS	Syndecan-2/RACK1	-a>
+HRAS	Syndecan-2/Caveolin-2/Ras	component>
+KNG1	Syndecan-2/Kininogen	component>
+RP11-540L11.1	Syndecan-2/CASK/Protein 4.1	component>
+RP11-540L11.1	Syndecan-2/CASK	component>
+TNFRSF13B	Syndecan-2/TACI	component>
+SDCBP	Syndecan-2/Syntenin/PI-4-5-P2	component>
+Syndecan-2/TGFB1	extracellular matrix organization	-ap>
+Syndecan-2/TACI	calcineurin-NFAT signaling pathway	-ap>
+Syndecan-2/Syntenin/PI-4-5-P2	positive regulation of cell-cell adhesion	-ap>
+Syndecan-2/RACK1	SRC	-a>
+Syndecan-2/RACK1	Syndecan-2/RasGAP	-a>
+Syndecan-2/PKC delta	CASP3	-a>
+Syndecan-2/Neurofibromin	PRKACA	-a>
+Syndecan-2/IL8	angiogenesis	-ap>
+Syndecan-2/GM-CSF	MAPK1	-a>
+Syndecan-2/GM-CSF	MAPK3	-a>
+Syndecan-2/Fibronectin	actin cytoskeleton reorganization	-ap>
+Syndecan-2 dimer	dendrite morphogenesis	-ap>
+GO:0007205	SDC2	-a>
+DNA mediated transformation	Syndecan-2/RasGAP	-ap>
+DNA mediated transformation	Syndecan-2/RACK1	-ap>

@@ -1,0 +1,19 @@
+complex	FASL:FAS Receptor Trimer
+complex	FASL:FAS Receptor monomer
+complex	FASL:FAS Receptor Trimer:FADD:pro-Caspase-10
+complex	FASL:FAS Receptor Trimer:FADD complex
+complex	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC
+protein	FASLG
+protein	FAS
+protein	FADD
+protein	CASP8
+protein	CASP10
+CASP8	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	component>
+FASL:FAS Receptor Trimer:FADD complex	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	component>
+FASL:FAS Receptor Trimer:FADD complex	FASL:FAS Receptor Trimer:FADD:pro-Caspase-10	component>
+CASP10	FASL:FAS Receptor Trimer:FADD:pro-Caspase-10	component>
+FASL:FAS Receptor monomer	FASL:FAS Receptor Trimer	component>
+FADD	FASL:FAS Receptor Trimer:FADD complex	component>
+FASL:FAS Receptor Trimer	FASL:FAS Receptor Trimer:FADD complex	component>
+FASLG	FASL:FAS Receptor monomer	component>
+FAS	FASL:FAS Receptor monomer	component>

@@ -1,0 +1,51 @@
+abstract	regulation of vascular permeability
+abstract	chemotaxis
+complex	S1P/S1P2/Gq
+complex	G12/G13
+complex	S1P/S1P2/Gi
+complex	S1P/S1P2/G12/G13
+protein	ERK1-2-active
+protein	ERK1-2
+protein	VE-Cadherin
+complex	RAC1/GDP
+complex	PAK1
+complex	AP1
+complex	PI3K
+smallMolecule	Ca2+
+protein	Gq family
+smallMolecule	S1P
+protein	Gi family
+protein	S1PR2
+protein	RHOA
+protein	PAK1
+protein	MAPK8
+protein	MAPK14
+protein	IRS1
+protein	ELK1
+RHOA	ERK1-2-active	-a>
+S1P/S1P2/Gi	ERK1-2-active	-a>
+ERK1-2-active	AP1	-a>
+RHOA	PAK1	-a|
+PI3K	PAK1	-a>
+RHOA	VE-Cadherin	-a>
+ERK1-2	ERK1-2-active	-a>
+IRS1	PI3K	-a>
+AP1	AP1	-a>
+VE-Cadherin	regulation of vascular permeability	-ap>
+S1P/S1P2/Gi	MAPK14	-a>
+S1P	S1P/S1P2/Gi	component>
+Gi family	S1P/S1P2/Gi	component>
+S1PR2	S1P/S1P2/Gi	component>
+S1P/S1P2/G12/G13	RHOA	-a>
+PAK1	chemotaxis	-ap>
+PAK1	PAK1	-a>
+S1P	S1P/S1P2/G12/G13	component>
+G12/G13	S1P/S1P2/G12/G13	component>
+S1PR2	S1P/S1P2/G12/G13	component>
+S1P/S1P2/Gi	Ca2+	-a>
+S1P	S1P/S1P2/Gq	component>
+Gq family	S1P/S1P2/Gq	component>
+S1PR2	S1P/S1P2/Gq	component>
+S1P/S1P2/Gi	MAPK8	-a>
+AP1	ELK1	-a>
+RAC1/GDP	PAK1	-a>

@@ -1,0 +1,5 @@
+genome	mRNA	-dTx>
+genome	promoter	-dPm>
+promoter	mRNA	-cTp>
+mRNA	protein	-dTl>
+protein	active	-dAct>

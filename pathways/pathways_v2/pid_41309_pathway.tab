@@ -1,0 +1,7 @@
+complex	CCT/TriC:substrate complex
+complex	CCT/TriC(ADP):Sphingosine kinase 1
+complex	CCT/TriC(ADP)
+protein	SPHK1
+CCT/TriC(ADP)	CCT/TriC:substrate complex	-a>
+CCT/TriC(ADP)	CCT/TriC(ADP):Sphingosine kinase 1	component>
+SPHK1	CCT/TriC(ADP):Sphingosine kinase 1	component>

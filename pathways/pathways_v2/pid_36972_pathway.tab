@@ -1,0 +1,138 @@
+abstract	negative regulation of transcription
+abstract	protein targeting to lysosome
+abstract	positive regulation of gene-specific transcription
+abstract	neuron apoptosis
+abstract	cell death
+abstract	response to stress
+abstract	degradation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	Alpha-Synuclein (Aggregates)
+complex	Alpha-Synuclein/Torsin A
+complex	26S Proteasome
+complex	BAD/PKC delta/Alpha-Synuclein
+smallMolecule	Dopamine
+complex	LEWY BODY
+complex	Alpha-Synuclein/PLD1
+complex	Alpha-Synucelin (Fibrillar inclusion bodies)
+protein	Src Family Kinases
+complex	Alpha-Synuclein/DAT
+protein	PKC
+protein	ERK1-2
+complex	UCHL1
+smallMolecule	FK506
+smallMolecule	Eosine
+protein	HSP70-1
+complex	Alpha-Synuclein/HSP70-1/CHIP
+protein	Caveolin-1
+complex	Alpha-Synuclein/PLC beta 2
+complex	Alpha-Synuclein/PLD2
+smallMolecule	DA related ROS
+smallMolecule	Lipids
+complex	Alpha-Synuclein/DJ1 (aggregates)
+protein	Src Family Kinases-active
+smallMolecule	Colchicine
+smallMolecule	PI-4-5-P2
+smallMolecule	IP3
+protein	PKC delta
+complex	alpha-Tubulin/beta-Tubulin
+complex	Alpha-Synuclein/alpha-Tubulin/beta-Tubulin
+complex	Alpha-Synuclein (Fibrillar inclusion bodies)
+protein	Calpain-1
+complex	Alpha-Synuclein/DJ1
+protein	UCHL1
+protein	UBE2L3
+protein	TOR1A
+protein	TH
+protein	SYK
+protein	STUB1
+protein	SNCAIP
+protein	SNCA
+protein	SLC6A3
+protein	PTK2B
+protein	PPP2R5D
+protein	PLD2
+protein	PLD1
+protein	PLCB2
+protein	PARK7
+protein	PARK2
+protein	MAOB
+protein	KLK6
+protein	GRK5
+protein	FKBP1A
+protein	CSNK2A1
+protein	BAD
+26S Proteasome	degradation	-ap>
+Alpha-Synuclein/PLC beta 2	IP3	-a>
+Alpha-Synuclein/HSP70-1/CHIP	Alpha-Synuclein (Aggregates)	component>
+Alpha-Synuclein (Aggregates)	negative regulation of transcription	-ap>
+Alpha-Synuclein/Torsin A	Alpha-Synuclein (Aggregates)	component>
+Colchicine	Alpha-Synuclein/DAT	component>
+MAOB	degradation	-ap>
+KLK6	SNCA	-a>
+PARK2	SNCA	-a>
+Calpain-1	SNCA	-a>
+Eosine	Alpha-Synuclein (Aggregates)	component>
+PTK2B	Src Family Kinases-active	-a>
+Alpha-Synuclein (Aggregates)	positive regulation of gene-specific transcription	-ap>
+response to stress	LEWY BODY	component>
+FK506	Alpha-Synuclein (Aggregates)	component>
+FKBP1A	Alpha-Synuclein (Aggregates)	component>
+UCHL1	SNCA	-a>
+26S Proteasome	SNCA	-a>
+Calpain-1	SNCA	component>
+PARK2	SNCAIP	-a>
+PPP2R5D	TH	-a>
+Alpha-Synuclein/HSP70-1/CHIP	degradation	-ap>
+UCHL1	SNCA	-a>
+SNCA	degradation	-ap>
+STUB1	Alpha-Synuclein/HSP70-1/CHIP	component>
+HSP70-1	Alpha-Synuclein/HSP70-1/CHIP	component>
+SNCA	Alpha-Synuclein/HSP70-1/CHIP	component>
+PI-4-5-P2	IP3	-a>
+CSNK2A1	SNCA	-a>
+Alpha-Synuclein (Aggregates)	Alpha-Synuclein (Fibrillar inclusion bodies)	-a>
+Src Family Kinases-active	SNCA	-a>
+ERK1-2	negative regulation of transcription	-ap>
+TOR1A	Alpha-Synuclein/Torsin A	component>
+SNCA	Alpha-Synuclein/Torsin A	component>
+BAD/PKC delta/Alpha-Synuclein	neuron apoptosis	-ap|
+LEWY BODY	26S Proteasome	-a>
+26S Proteasome	proteasomal ubiquitin-dependent protein catabolic process	-ap|
+SNCA	Alpha-Synuclein/DJ1	component>
+PARK7	Alpha-Synuclein/DJ1	component>
+Alpha-Synuclein/DJ1	Alpha-Synuclein/DJ1 (aggregates)	-a>
+SYK	SNCA	-a>
+26S Proteasome	cell death	-ap>
+SLC6A3	Alpha-Synuclein/DAT	component>
+SNCA	Alpha-Synuclein/DAT	component>
+PLCB2	Alpha-Synuclein/PLC beta 2	component>
+SNCA	Alpha-Synuclein/PLC beta 2	component>
+DA related ROS	degradation	-ap>
+Dopamine	degradation	-ap>
+PKC delta	BAD/PKC delta/Alpha-Synuclein	component>
+BAD	BAD/PKC delta/Alpha-Synuclein	component>
+SNCA	BAD/PKC delta/Alpha-Synuclein	component>
+Alpha-Synuclein (Aggregates)	protein targeting to lysosome	-ap>
+alpha-Tubulin/beta-Tubulin	Alpha-Synuclein/alpha-Tubulin/beta-Tubulin	component>
+SNCA	Alpha-Synuclein/alpha-Tubulin/beta-Tubulin	component>
+Alpha-Synuclein (Aggregates)	PKC	-a>
+SNCA	PPP2R5D	-a>
+Alpha-Synuclein (Aggregates)	PLD2	-a>
+PLD1	Alpha-Synuclein/PLD1	component>
+SNCA	Alpha-Synuclein/PLD1	component>
+UBE2L3	SNCA	-a>
+Src Family Kinases	Src Family Kinases-active	-a>
+response to stress	KLK6	-a>
+Caveolin-1	positive regulation of gene-specific transcription	-ap>
+Lipids	LEWY BODY	component>
+SNCAIP	LEWY BODY	component>
+Alpha-Synucelin (Fibrillar inclusion bodies)	LEWY BODY	component>
+SNCA	LEWY BODY	component>
+PLD2	Alpha-Synuclein/PLD2	component>
+SNCA	Alpha-Synuclein/PLD2	component>
+DA related ROS	neuron apoptosis	-ap>
+SNCA	Alpha-Synuclein (Aggregates)	component>
+SNCA	SNCA	-a>
+Alpha-Synuclein/DAT	Dopamine	-a>
+GRK5	SNCA	-a>
+Alpha-Synuclein (Fibrillar inclusion bodies)	SNCA	component>

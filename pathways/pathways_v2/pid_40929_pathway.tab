@@ -1,0 +1,14 @@
+complex	NuMA-bound microtubules
+complex	centrosome-nucleated microtubules
+complex	NuMA homodimer
+complex	Cyclin B1:phospho-Cdc2(Thr 161)
+smallMolecule	ATP
+smallMolecule	ADP
+protein	NUMA1
+Cyclin B1:phospho-Cdc2(Thr 161)	NUMA1	-a>
+centrosome-nucleated microtubules	NuMA-bound microtubules	component>
+NuMA homodimer	NuMA-bound microtubules	component>
+NUMA1	ADP	-a>
+NUMA1	NUMA1	-a>
+ATP	ADP	-a>
+ATP	NUMA1	-a>

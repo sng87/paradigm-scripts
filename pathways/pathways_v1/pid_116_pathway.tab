@@ -1,0 +1,139 @@
+protein	IRS2
+protein	SH2B3
+protein	MAPK14
+protein	RAPGEF1
+protein	GAB1
+protein	SOS1
+protein	BCL2L1
+protein	BTK
+protein	PTPN11
+protein	GRB2
+protein	RAP1A
+protein	VAV2
+protein	STAT5B
+protein	CRKL
+protein	MAPK8
+protein	TEC
+protein	STAT5A
+protein	STAT1
+protein	SHC1
+protein	PTPN6
+protein	PIK3R1
+protein	CBL
+protein	NFKB1
+protein	EPOR
+protein	PLCG1
+protein	PLCG2
+protein	BCL2
+protein	LYN
+protein	EPO
+protein	HRAS
+protein	JAK2
+protein	SOCS3
+protein	INPP5D
+complex	TEC/VAV2/GRB2
+complex	TEC/VAV2
+complex	STAT5 (dimer)
+complex	STAT1 (dimer)
+complex	SHC/Grb2/SOS1
+complex	PI3K regualtory subunit polypeptide 1/IRS2/SHIP
+complex	LYN/PLCgamma2
+complex	GAB1/SHIP/PIK3R1/SHP2/SHC
+complex	GAB1/SHC/GRB2/SOS1
+complex	EPOR/TRPC2/IP3 Receptors
+complex	EPO/EPOR (dimer)/SOCS3
+complex	EPO/EPOR (dimer)/LYN
+complex	EPO/EPOR (dimer)/JAK2/SOCS3
+complex	EPO/EPOR (dimer)/JAK2
+complex	EPO/EPOR (dimer)
+complex	EPO/EPOR
+complex	CRKL/CBL/C3G
+chemical	mol:IP3
+chemical	mol:GDP
+chemical	mol:DAG
+abstract	elevation of cytosolic calcium ion concentration
+abstract	cell proliferation
+IRS2	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+SH2B3	EPO/EPOR (dimer)/JAK2/SOCS3	-a|
+SH2B3	EPO/EPOR (dimer)/JAK2	-a|
+MAPK14	cell proliferation	-ap>
+RAPGEF1	CRKL/CBL/C3G	component>
+GAB1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+GAB1	GAB1/SHC/GRB2/SOS1	component>
+SOS1	SHC/Grb2/SOS1	component>
+SOS1	GAB1/SHC/GRB2/SOS1	component>
+PTPN11	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+GRB2	TEC/VAV2/GRB2	component>
+GRB2	SHC/Grb2/SOS1	component>
+GRB2	GAB1/SHC/GRB2/SOS1	component>
+VAV2	TEC/VAV2/GRB2	component>
+VAV2	TEC/VAV2	component>
+STAT5B	STAT5 (dimer)	component>
+CRKL	CRKL/CBL/C3G	component>
+MAPK8	cell proliferation	-ap>
+TEC	TEC/VAV2/GRB2	component>
+TEC	TEC/VAV2	component>
+STAT5A	STAT5 (dimer)	component>
+STAT1	STAT1 (dimer)	component>
+SHC1	SHC/Grb2/SOS1	component>
+SHC1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+SHC1	GAB1/SHC/GRB2/SOS1	component>
+PTPN6	EPO/EPOR (dimer)/JAK2/SOCS3	-a|
+PTPN6	EPO/EPOR (dimer)/JAK2	-a|
+PIK3R1	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+PIK3R1	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+CBL	CRKL/CBL/C3G	component>
+EPOR	EPOR/TRPC2/IP3 Receptors	component>
+EPOR	EPO/EPOR (dimer)/SOCS3	component>
+EPOR	EPO/EPOR (dimer)/LYN	component>
+EPOR	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+EPOR	EPO/EPOR (dimer)/JAK2	component>
+EPOR	EPO/EPOR (dimer)	component>
+EPOR	EPO/EPOR	component>
+PLCG1	mol:IP3	-a>
+PLCG1	mol:DAG	-a>
+PLCG2	LYN/PLCgamma2	component>
+LYN	LYN/PLCgamma2	component>
+LYN	EPO/EPOR (dimer)/LYN	component>
+EPO	EPO/EPOR (dimer)/SOCS3	component>
+EPO	EPO/EPOR (dimer)/LYN	component>
+EPO	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+EPO	EPO/EPOR (dimer)/JAK2	component>
+EPO	EPO/EPOR (dimer)	component>
+EPO	EPO/EPOR	component>
+JAK2	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+JAK2	EPO/EPOR (dimer)/JAK2	component>
+SOCS3	EPO/EPOR (dimer)/SOCS3	component>
+SOCS3	EPO/EPOR (dimer)/JAK2/SOCS3	component>
+INPP5D	PI3K regualtory subunit polypeptide 1/IRS2/SHIP	component>
+INPP5D	GAB1/SHIP/PIK3R1/SHP2/SHC	component>
+STAT5 (dimer)	BCL2L1	-t>
+STAT5 (dimer)	BCL2	-t>
+STAT1 (dimer)	BCL2L1	-t>
+STAT1 (dimer)	BCL2	-t>
+SHC/Grb2/SOS1	mol:GDP	-a>
+SHC/Grb2/SOS1	HRAS	-a>
+GAB1/SHC/GRB2/SOS1	mol:GDP	-a>
+GAB1/SHC/GRB2/SOS1	HRAS	-a>
+EPOR/TRPC2/IP3 Receptors	elevation of cytosolic calcium ion concentration	-ap>
+EPO/EPOR (dimer)/LYN	MAPK14	-a>
+EPO/EPOR (dimer)/LYN	STAT5B	-a>
+EPO/EPOR (dimer)/LYN	MAPK8	-a>
+EPO/EPOR (dimer)/LYN	STAT5A	-a>
+EPO/EPOR (dimer)/LYN	STAT1	-a>
+EPO/EPOR (dimer)/LYN	NFKB1	-a>
+EPO/EPOR (dimer)/LYN	PLCG1	-a>
+EPO/EPOR (dimer)/JAK2	IRS2	-a>
+EPO/EPOR (dimer)/JAK2	GAB1	-a>
+EPO/EPOR (dimer)/JAK2	BTK	-a>
+EPO/EPOR (dimer)/JAK2	RAP1A	-a>
+EPO/EPOR (dimer)/JAK2	VAV2	-a>
+EPO/EPOR (dimer)/JAK2	STAT5B	-a>
+EPO/EPOR (dimer)/JAK2	CRKL	-a>
+EPO/EPOR (dimer)/JAK2	TEC	-a>
+EPO/EPOR (dimer)/JAK2	STAT5A	-a>
+EPO/EPOR (dimer)/JAK2	STAT1	-a>
+EPO/EPOR (dimer)/JAK2	PTPN6	-a>
+EPO/EPOR (dimer)/JAK2	CBL	-a>
+EPO/EPOR (dimer)/JAK2	PLCG1	-a>
+EPO/EPOR (dimer)/JAK2	SHC/Grb2/SOS1	-a>

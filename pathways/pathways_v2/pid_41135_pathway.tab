@@ -1,0 +1,26 @@
+complex	mono-ubiquitinated FANCD2
+complex	FA core complex
+complex	mono-ubiquitinated FANCI
+protein	UniProt:Q9NVI1 FANCI
+complex	ub-FANCD- and  ub-FANCI-bound chromatin
+protein	UniProt:P62988 RPS27A
+protein	UBE2T
+protein	FANCD2
+UBE2T	UBE2T	component>
+UBE2T	mono-ubiquitinated FANCD2	component>
+UBE2T	FA core complex	component>
+FANCD2	UBE2T	component>
+FANCD2	mono-ubiquitinated FANCD2	component>
+FANCD2	FA core complex	component>
+UniProt:P62988 RPS27A	UBE2T	component>
+UniProt:P62988 RPS27A	mono-ubiquitinated FANCD2	component>
+FA core complex	UBE2T	component>
+FA core complex	mono-ubiquitinated FANCD2	component>
+mono-ubiquitinated FANCI	ub-FANCD- and  ub-FANCI-bound chromatin	component>
+mono-ubiquitinated FANCD2	ub-FANCD- and  ub-FANCI-bound chromatin	component>
+FA core complex	mono-ubiquitinated FANCI	component>
+FA core complex	FA core complex	component>
+UniProt:Q9NVI1 FANCI	mono-ubiquitinated FANCI	component>
+UniProt:Q9NVI1 FANCI	FA core complex	component>
+UniProt:P62988 RPS27A	mono-ubiquitinated FANCI	component>
+UniProt:P62988 RPS27A	FA core complex	component>

@@ -1,0 +1,56 @@
+complex	Inhibitor of KappaB kinase (IKK) Complex
+complex	IkBs:NFkB Complex
+complex	Activated TRAF6:Phospho-TAK1:TAB1:Phospho-Tab2 Complex
+complex	NFkB Complex
+complex	Activated IKK Complex
+protein	Phospho-NF-kappaB Inhibitor
+complex	Viral dsRNA:TLR3:TRIF complex
+complex	Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex
+complex	Viral dsRNA:TLR3:TRIF:TRAF6 Complex
+smallMolecule	ATP
+smallMolecule	ADP
+complex	AP-1
+protein	TRAF6
+protein	MAPK8
+protein	MAPK1
+protein	MAP3K7IP2
+protein	MAP3K7IP1
+protein	MAP3K7
+protein	JUN
+protein	ATF2
+Activated TRAF6:Phospho-TAK1:TAB1:Phospho-Tab2 Complex	MAPK1	-a>
+Activated IKK Complex	Phospho-NF-kappaB Inhibitor	component>
+Activated TRAF6:Phospho-TAK1:TAB1:Phospho-Tab2 Complex	ADP	-a>
+MAPK1	ADP	-a>
+MAPK1	MAPK1	-a>
+ATP	MAPK1	-a>
+IkBs:NFkB Complex	NFkB Complex	component>
+IkBs:NFkB Complex	ADP	component>
+IkBs:NFkB Complex	Phospho-NF-kappaB Inhibitor	component>
+ATP	NFkB Complex	component>
+ATP	Phospho-NF-kappaB Inhibitor	component>
+MAPK8	MAPK8	-a>
+MAPK8	ADP	-a>
+ATP	MAPK8	-a>
+Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex	ADP	component>
+Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex	Viral dsRNA:TLR3:TRIF complex	component>
+Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex	Activated TRAF6:Phospho-TAK1:TAB1:Phospho-Tab2 Complex	component>
+ATP	ADP	component>
+ATP	Viral dsRNA:TLR3:TRIF complex	component>
+ATP	Activated TRAF6:Phospho-TAK1:TAB1:Phospho-Tab2 Complex	component>
+MAP3K7IP2	Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex	component>
+MAP3K7	Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex	component>
+MAP3K7IP1	Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex	component>
+Viral dsRNA:TLR3:TRIF:TRAF6 Complex	Viral dsRNA:TLR3:TRIF:TRAF6:TAK1:TAB1:TAB2 Complex	component>
+ATP	Activated IKK Complex	-a>
+Inhibitor of KappaB kinase (IKK) Complex	Activated IKK Complex	-a>
+Inhibitor of KappaB kinase (IKK) Complex	ADP	-a>
+Viral dsRNA:TLR3:TRIF complex	Viral dsRNA:TLR3:TRIF:TRAF6 Complex	component>
+TRAF6	Viral dsRNA:TLR3:TRIF:TRAF6 Complex	component>
+JUN	AP-1	component>
+ATF2	AP-1	component>
+ATP	ADP	-a>
+ATP	ATF2	-a>
+ATF2	ADP	-a>
+MAPK1	ATF2	-a>
+NFkB Complex	NFkB Complex	-a>

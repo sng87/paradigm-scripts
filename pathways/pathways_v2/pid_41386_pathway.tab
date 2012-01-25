@@ -1,0 +1,72 @@
+complex	p21 RAS:GTP
+complex	p21 RAS:GDP
+complex	NCAM1:NCAM1 trans-homodimers
+complex	FGFR1c homodimer
+complex	Grb2:Sos:pFAK bound to NCAM1:pFyn
+complex	NCAM1 cis-homodimer
+complex	Grb2:pFAK bound to NCAM1:pFyn
+complex	NCAM1:FGFR-1
+complex	NCAM1 complexed with pFyn-Y420
+complex	NCAM1 complexed with Fyn
+complex	Spectrin heterodimer
+complex	Fyn:NCAM1:RPTP-alpha
+complex	pFAK (391) bound to NCAM1:pFyn
+protein	UniProt:P12931-1 SRC
+protein	UniProt:P18433 PTPRA_subunit_20_802_20-802
+complex	Multiple phosphorylated FAK bound to NCAM:pFyn
+protein	UniProt:P62993-1 GRB2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SOS1
+protein	RPS6KA5
+protein	PTK2
+protein	NCAM1
+protein	FYN
+protein	CREB1
+UniProt:P12931-1 SRC	ADP	-a>
+Grb2:Sos:pFAK bound to NCAM1:pFyn	GDP	-a>
+RPS6KA5	CREB1	-a>
+Grb2:Sos:pFAK bound to NCAM1:pFyn	Grb2:Sos:pFAK bound to NCAM1:pFyn	component>
+FYN	NCAM1 complexed with pFyn-Y420	-a>
+NCAM1 complexed with pFyn-Y420	ADP	component>
+NCAM1 complexed with pFyn-Y420	pFAK (391) bound to NCAM1:pFyn	component>
+PTK2	ADP	component>
+PTK2	pFAK (391) bound to NCAM1:pFyn	component>
+ATP	ADP	component>
+ATP	pFAK (391) bound to NCAM1:pFyn	component>
+NCAM1	NCAM1 cis-homodimer	component>
+NCAM1 cis-homodimer	NCAM1:NCAM1 trans-homodimers	component>
+UniProt:P62993-1 GRB2	Grb2:pFAK bound to NCAM1:pFyn	component>
+Multiple phosphorylated FAK bound to NCAM:pFyn	Grb2:pFAK bound to NCAM1:pFyn	component>
+pFAK (391) bound to NCAM1:pFyn	Multiple phosphorylated FAK bound to NCAM:pFyn	-a>
+pFAK (391) bound to NCAM1:pFyn	ADP	-a>
+ATP	Multiple phosphorylated FAK bound to NCAM:pFyn	-a>
+GTP	p21 RAS:GTP	-a>
+GTP	GDP	-a>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	GDP	-a>
+FYN	NCAM1 complexed with Fyn	component>
+NCAM1:NCAM1 trans-homodimers	NCAM1 complexed with Fyn	component>
+NCAM1 cis-homodimer	NCAM1:FGFR-1	component>
+FGFR1c homodimer	NCAM1:FGFR-1	component>
+CREB1	ADP	-a>
+CREB1	CREB1	-a>
+ATP	CREB1	-a>
+SOS1	Grb2:Sos:pFAK bound to NCAM1:pFyn	component>
+Grb2:pFAK bound to NCAM1:pFyn	Grb2:Sos:pFAK bound to NCAM1:pFyn	component>
+ATP	NCAM1 complexed with pFyn-Y420	-a>
+Fyn:NCAM1:RPTP-alpha	ADP	-a>
+Fyn:NCAM1:RPTP-alpha	NCAM1 complexed with pFyn-Y420	-a>
+RPS6KA5	RPS6KA5	-a>
+RPS6KA5	ADP	-a>
+ATP	RPS6KA5	-a>
+ATP	ADP	-a>
+UniProt:P18433 PTPRA_subunit_20_802_20-802	phosphate	component>
+UniProt:P18433 PTPRA_subunit_20_802_20-802	Fyn:NCAM1:RPTP-alpha	component>
+Spectrin heterodimer	phosphate	component>
+Spectrin heterodimer	Fyn:NCAM1:RPTP-alpha	component>
+NCAM1 complexed with Fyn	phosphate	component>
+NCAM1 complexed with Fyn	Fyn:NCAM1:RPTP-alpha	component>

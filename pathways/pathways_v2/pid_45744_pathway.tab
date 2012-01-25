@@ -1,0 +1,44 @@
+complex	MITF/p300
+complex	SCF/SCF-R
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RPS6KA1
+protein	RAF1
+protein	MITF
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	KITLG
+protein	KIT
+protein	HRAS
+protein	EP300
+protein	CREB1
+protein	BCL2
+MAPK1	MITF	-a>
+MAPK1	RPS6KA1	-a>
+MAP2K2	MAPK3	-a>
+SCF/SCF-R	GDP	-a>
+MAPK3	MITF	-a>
+MAPK3	MAPK3	-a>
+HRAS	RAF1	-a>
+MITF/p300	BCL2	-t>
+EP300	MITF/p300	component>
+MITF	MITF/p300	component>
+RPS6KA1	CREB1	-a>
+MAPK3	RPS6KA1	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+KIT	SCF/SCF-R	component>
+KITLG	SCF/SCF-R	component>
+CREB1	MITF	-t>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

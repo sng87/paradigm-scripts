@@ -1,0 +1,33 @@
+complex	GHB/GABA receptor
+smallMolecule	K+ channel openers
+smallMolecule	allitridum
+smallMolecule	GO6976
+smallMolecule	flumazenil
+complex	GABA receptor
+smallMolecule	Chelerythrin
+smallMolecule	GHB
+protein	SOD
+smallMolecule	H2O
+smallMolecule	K+
+smallMolecule	ATP
+smallMolecule	ROS
+smallMolecule	H2O2
+protein	PRKCE
+protein	GPX1
+SOD	H2O2	-a>
+GPX1	H2O	-a>
+K+ channel openers	K+	-a>
+ROS	H2O2	-a>
+allitridum	PRKCE	-a>
+ATP	K+	-a|
+H2O2	H2O	-a>
+GABA receptor	GHB/GABA receptor	-a>
+GHB	GHB/GABA receptor	-a>
+allitridum	allitridum	-a>
+GHB	GHB	-a>
+Chelerythrin	PRKCE	-a>
+flumazenil	ROS	-a>
+GO6976	PRKCE	-a>
+GHB/GABA receptor	K+	-a|
+PRKCE	K+	-a>
+H2O2	PRKCE	-a>

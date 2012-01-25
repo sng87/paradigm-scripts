@@ -1,0 +1,45 @@
+smallMolecule	dATP
+smallMolecule	H2O
+smallMolecule	dCDP
+smallMolecule	dUDP
+smallMolecule	UDP
+smallMolecule	dGDP
+smallMolecule	TTP
+smallMolecule	CDP
+complex	ribonucleotide reductase
+smallMolecule	dADP
+smallMolecule	dGTP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+protein	TXN
+dATP	dADP	-a|
+dGTP	dADP	-a>
+ribonucleotide reductase	dADP	-a>
+dATP	TXN	-a|
+TTP	TXN	-a>
+dATP	dCDP	-a|
+ATP	dCDP	-a>
+ribonucleotide reductase	dCDP	-a>
+dATP	dUDP	-a|
+ATP	dUDP	-a>
+ribonucleotide reductase	dUDP	-a>
+ADP	H2O	-a>
+ADP	TXN	-a>
+ADP	dADP	-a>
+TXN	dADP	-a>
+GDP	H2O	-a>
+GDP	dGDP	-a>
+GDP	TXN	-a>
+TXN	dGDP	-a>
+ribonucleotide reductase	TXN	-a>
+TXN	dCDP	-a>
+CDP	TXN	-a>
+CDP	H2O	-a>
+CDP	dCDP	-a>
+TXN	H2O	-a>
+TXN	TXN	-a>
+TXN	dUDP	-a>
+UDP	H2O	-a>
+UDP	TXN	-a>
+UDP	dUDP	-a>

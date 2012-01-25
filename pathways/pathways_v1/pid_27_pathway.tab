@@ -1,0 +1,137 @@
+protein	DUSP10
+protein	TRAF6
+protein	DUSP16
+protein	CCM2
+protein	MAP3K3
+protein	MAPK14
+protein	MAPK11
+protein	MAP3K7IP1
+protein	RIPK1
+protein	DUSP8
+protein	PAK2
+protein	PAK1
+protein	MAP3K12
+protein	RAC1
+protein	CDC42
+protein	MAP2K6
+protein	BLK
+protein	MAP2K3
+protein	MAP2K4
+protein	DUSP1
+protein	PRKG1
+protein	SRC
+protein	RALB
+protein	RALA
+protein	FGR
+protein	HCK
+protein	LYN
+protein	YES1
+protein	FYN
+protein	LCK
+protein	PAK3
+complex	p38alpha-beta/MKP7
+complex	p38alpha-beta/MKP5
+complex	p38alpha-beta/MKP1
+complex	p38 alpha/TAB1
+complex	TRAF6/MEKK3
+complex	RIP1/MEKK3
+complex	RAL/GTP
+complex	RAC1/OSM/MEKK3/MKK3
+complex	RAC1-CDC42/GTP/PAK family
+complex	RAC1-CDC42/GTP
+complex	PGK/cGMP/p38 alpha
+complex	PGK/cGMP
+chemical	mol:cGMP
+chemical	mol:LPS
+chemical	mol:GTP
+abstract	tumor necrosis factor receptor activity
+abstract	response to stress
+abstract	response to insulin stimulus
+abstract	response to UV
+abstract	positive regulation of innate immune response
+abstract	interleukin-1 receptor activity
+abstract	epidermal growth factor receptor activity
+abstract	apoptosis
+tumor necrosis factor receptor activity	RIP1/MEKK3	-ap>
+response to stress	p38 alpha/TAB1	-ap>
+response to stress	PGK/cGMP/p38 alpha	-ap>
+response to insulin stimulus	MAPK14	-ap>
+response to insulin stimulus	MAPK11	-ap>
+response to UV	RAC1-CDC42/GTP/PAK family	-ap>
+p38 alpha/TAB1	apoptosis	-ap>
+mol:cGMP	PGK/cGMP/p38 alpha	component>
+mol:cGMP	PGK/cGMP	component>
+mol:LPS	TRAF6/MEKK3	-a>
+mol:GTP	RAL/GTP	component>
+mol:GTP	RAC1-CDC42/GTP/PAK family	component>
+mol:GTP	RAC1-CDC42/GTP	component>
+interleukin-1 receptor activity	TRAF6/MEKK3	-ap>
+interleukin-1 receptor activity	RAC1-CDC42/GTP/PAK family	-ap>
+epidermal growth factor receptor activity	MAPK14	-ap>
+epidermal growth factor receptor activity	MAPK11	-ap>
+DUSP10	p38alpha-beta/MKP5	component>
+TRAF6	TRAF6/MEKK3	component>
+DUSP16	p38alpha-beta/MKP7	component>
+CCM2	RAC1/OSM/MEKK3/MKK3	component>
+MAP3K3	TRAF6/MEKK3	component>
+MAP3K3	RIP1/MEKK3	component>
+MAP3K3	RAC1/OSM/MEKK3/MKK3	component>
+MAPK14	positive regulation of innate immune response	-ap>
+MAPK14	p38alpha-beta/MKP7	component>
+MAPK14	p38alpha-beta/MKP5	component>
+MAPK14	p38alpha-beta/MKP1	component>
+MAPK14	p38 alpha/TAB1	component>
+MAPK14	PGK/cGMP/p38 alpha	component>
+MAPK11	positive regulation of innate immune response	-ap>
+MAPK11	p38alpha-beta/MKP7	component>
+MAPK11	p38alpha-beta/MKP5	component>
+MAPK11	p38alpha-beta/MKP1	component>
+MAP3K7IP1	p38 alpha/TAB1	component>
+RIPK1	RIP1/MEKK3	component>
+DUSP8	MAPK14	-a>
+DUSP8	MAPK11	-a>
+PAK2	RAC1-CDC42/GTP/PAK family	component>
+PAK1	RAC1-CDC42/GTP/PAK family	component>
+MAP3K12	MAPK14	-a>
+MAP3K12	MAPK11	-a>
+RAC1	RAC1/OSM/MEKK3/MKK3	component>
+RAC1	RAC1-CDC42/GTP/PAK family	component>
+RAC1	RAC1-CDC42/GTP	component>
+CDC42	RAC1-CDC42/GTP/PAK family	component>
+CDC42	RAC1-CDC42/GTP	component>
+MAP2K6	MAPK14	-a>
+MAP2K6	MAPK11	-a>
+BLK	MAPK14	-a>
+BLK	MAPK11	-a>
+MAP2K3	MAPK14	-a>
+MAP2K3	RAC1/OSM/MEKK3/MKK3	component>
+MAP2K4	MAPK14	-a>
+DUSP1	p38alpha-beta/MKP1	component>
+PRKG1	PGK/cGMP/p38 alpha	component>
+PRKG1	PGK/cGMP	component>
+SRC	MAPK14	-a>
+SRC	MAPK11	-a>
+RALB	RAL/GTP	component>
+RALA	RAL/GTP	component>
+FGR	MAPK14	-a>
+FGR	MAPK11	-a>
+HCK	MAPK14	-a>
+HCK	MAPK11	-a>
+LYN	MAPK14	-a>
+LYN	MAPK11	-a>
+YES1	MAPK14	-a>
+YES1	MAPK11	-a>
+FYN	MAPK14	-a>
+FYN	MAPK11	-a>
+LCK	MAPK14	-a>
+LCK	MAPK11	-a>
+PAK3	RAC1-CDC42/GTP/PAK family	component>
+TRAF6/MEKK3	MAPK14	-a>
+TRAF6/MEKK3	MAPK11	-a>
+RIP1/MEKK3	MAPK14	-a>
+RAL/GTP	MAPK14	-a>
+RAL/GTP	MAPK11	-a>
+RAC1/OSM/MEKK3/MKK3	MAPK14	-a>
+RAC1/OSM/MEKK3/MKK3	MAPK11	-a>
+RAC1-CDC42/GTP/PAK family	MAPK14	-a>
+RAC1-CDC42/GTP/PAK family	MAPK11	-a>

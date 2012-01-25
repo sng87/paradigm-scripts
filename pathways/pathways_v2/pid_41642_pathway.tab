@@ -1,0 +1,65 @@
+complex	p21 RAS:GTP
+complex	p21 RAS:GDP
+complex	Grb2 bound to Tie2
+complex	pTie2:SHC1 complex
+complex	Tie2 and Dok-2 complex
+complex	Complex of Tie2:Ang2
+complex	Phosphorylated Tie2 in Tie2/Akt dimer
+complex	Tie2/Ang1 dimer
+complex	pTie2 and SHP2 complex
+complex	Complex of Tie2:Ang-1
+complex	SOS-1 bound to Tie2:Grb2
+complex	p85 bound to Tie2
+complex	Tie2 and Ang4 complex
+protein	UniProt:Q06124 PTPN11_subunit_1_597_1-597
+complex	Tie2 and Grb14 complex
+complex	pTie2:Ang-1
+protein	UniProt:Q02763 TEK_subunit_23_1124_23-1124
+complex	Tie2:Grb7 complex
+protein	UniProt:P62993-1 GRB2
+smallMolecule	ATP
+smallMolecule	ADP
+complex	PI3K
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SOS1
+protein	SHC1
+protein	GRB7
+protein	GRB14
+protein	DOK2
+protein	ANGPT4
+protein	ANGPT2
+protein	ANGPT1
+SOS-1 bound to Tie2:Grb2	GDP	-a>
+Complex of Tie2:Ang-1	ADP	-a>
+SOS1	SOS-1 bound to Tie2:Grb2	component>
+Grb2 bound to Tie2	SOS-1 bound to Tie2:Grb2	component>
+pTie2:Ang-1	Tie2 and Dok-2 complex	component>
+DOK2	Tie2 and Dok-2 complex	component>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	GDP	-a>
+GTP	p21 RAS:GTP	-a>
+GTP	GDP	-a>
+SHC1	pTie2:SHC1 complex	component>
+pTie2:Ang-1	pTie2:SHC1 complex	component>
+pTie2:Ang-1	Tie2 and Grb14 complex	component>
+GRB14	Tie2 and Grb14 complex	component>
+Tie2/Ang1 dimer	Phosphorylated Tie2 in Tie2/Akt dimer	-a>
+Tie2/Ang1 dimer	ADP	-a>
+ATP	Phosphorylated Tie2 in Tie2/Akt dimer	-a>
+ATP	ADP	-a>
+GRB7	Tie2:Grb7 complex	component>
+pTie2:Ang-1	Tie2:Grb7 complex	component>
+Complex of Tie2:Ang-1	Tie2/Ang1 dimer	component>
+UniProt:Q06124 PTPN11_subunit_1_597_1-597	pTie2 and SHP2 complex	component>
+pTie2:Ang-1	pTie2 and SHP2 complex	component>
+UniProt:Q02763 TEK_subunit_23_1124_23-1124	Tie2 and Ang4 complex	component>
+ANGPT4	Tie2 and Ang4 complex	component>
+pTie2:Ang-1	p85 bound to Tie2	component>
+PI3K	p85 bound to Tie2	component>
+ANGPT2	Complex of Tie2:Ang2	component>
+UniProt:Q02763 TEK_subunit_23_1124_23-1124	Complex of Tie2:Ang2	component>
+pTie2:Ang-1	Grb2 bound to Tie2	component>
+UniProt:P62993-1 GRB2	Grb2 bound to Tie2	component>
+ANGPT1	Complex of Tie2:Ang-1	component>
+UniProt:Q02763 TEK_subunit_23_1124_23-1124	Complex of Tie2:Ang-1	component>

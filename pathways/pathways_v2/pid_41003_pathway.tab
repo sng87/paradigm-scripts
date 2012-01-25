@@ -1,0 +1,69 @@
+smallMolecule	Tetrachloromethane
+smallMolecule	Phenol
+smallMolecule	N-Acetylbenzoquinineimine
+smallMolecule	2-Chloroethylene oxide
+smallMolecule	H2
+smallMolecule	TPNH
+smallMolecule	Benzene
+smallMolecule	Acetaminophen (TN TYLENOL)
+smallMolecule	Trifluoroacetylchloride
+smallMolecule	Chloroethylene
+smallMolecule	Chloride
+smallMolecule	H2O
+smallMolecule	Ethanal
+smallMolecule	TPN
+smallMolecule	Ethanol
+smallMolecule	Hydrogen bromide
+smallMolecule	Halothane
+smallMolecule	H+
+smallMolecule	O2
+protein	CYP2E1
+CYP2E1	Ethanal	-a>
+CYP2E1	Chloride	-a>
+CYP2E1	TPN	-a>
+CYP2E1	H2O	-a>
+H+	Ethanal	-a>
+TPNH	Ethanal	-a>
+Ethanol	TPN	-a>
+Ethanol	H2O	-a>
+Ethanol	Ethanal	-a>
+TPN	TPNH	-a>
+TPN	N-Acetylbenzoquinineimine	-a>
+TPN	H2O	-a>
+Acetaminophen (TN TYLENOL)	TPNH	-a>
+Acetaminophen (TN TYLENOL)	N-Acetylbenzoquinineimine	-a>
+Acetaminophen (TN TYLENOL)	H2O	-a>
+O2	TPNH	-a>
+O2	N-Acetylbenzoquinineimine	-a>
+H2	TPNH	-a>
+H2	N-Acetylbenzoquinineimine	-a>
+H2	H2O	-a>
+TPNH	Phenol	-a>
+H+	Phenol	-a>
+O2	Phenol	-a>
+Benzene	TPN	-a>
+Benzene	Phenol	-a>
+Benzene	H2O	-a>
+Tetrachloromethane	Chloride	-a>
+Halothane	Hydrogen bromide	-a>
+Halothane	H2O	-a>
+Halothane	Trifluoroacetylchloride	-a>
+Halothane	TPN	-a>
+H+	Hydrogen bromide	-a>
+H+	Trifluoroacetylchloride	-a>
+TPNH	Hydrogen bromide	-a>
+TPNH	Trifluoroacetylchloride	-a>
+O2	Hydrogen bromide	-a>
+O2	Trifluoroacetylchloride	-a>
+H+	TPN	-a>
+H+	2-Chloroethylene oxide	-a>
+H+	H2O	-a>
+O2	TPN	-a>
+O2	2-Chloroethylene oxide	-a>
+O2	H2O	-a>
+TPNH	TPN	-a>
+TPNH	2-Chloroethylene oxide	-a>
+TPNH	H2O	-a>
+Chloroethylene	TPN	-a>
+Chloroethylene	2-Chloroethylene oxide	-a>
+Chloroethylene	H2O	-a>

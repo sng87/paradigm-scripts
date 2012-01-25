@@ -1,0 +1,36 @@
+complex	RhoA/B/C:GTP
+complex	Sema4D:Plexin-B1:Rac-Rnd1:PDZ-RhoGEF
+protein	LIM Kinases
+complex	Smooth muscle/non-muscle myosin II
+complex	Sema4D:Plexin-B1:Rac-Rnd1:LARG
+protein	ROCK
+complex	Activated ROCK:RhoA/B/C:GTP
+complex	Sema4D:pPlexin-B1:ErbB2:Rac1:Rnd1
+complex	Phospho-activated smooth muscle/non-muscle myosin 2
+protein	LIM Kinases, phosphorylated
+complex	RhoA,B,C:GDP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ARHGEF12
+protein	ARHGEF11
+Activated ROCK:RhoA/B/C:GTP	Phospho-activated smooth muscle/non-muscle myosin 2	-a>
+Activated ROCK:RhoA/B/C:GTP	ADP	-a>
+Sema4D:pPlexin-B1:ErbB2:Rac1:Rnd1	Sema4D:Plexin-B1:Rac-Rnd1:PDZ-RhoGEF	component>
+ARHGEF11	Sema4D:Plexin-B1:Rac-Rnd1:PDZ-RhoGEF	component>
+Sema4D:pPlexin-B1:ErbB2:Rac1:Rnd1	Sema4D:Plexin-B1:Rac-Rnd1:LARG	component>
+ARHGEF12	Sema4D:Plexin-B1:Rac-Rnd1:LARG	component>
+ATP	Phospho-activated smooth muscle/non-muscle myosin 2	-a>
+Smooth muscle/non-muscle myosin II	ADP	-a>
+Smooth muscle/non-muscle myosin II	Phospho-activated smooth muscle/non-muscle myosin 2	-a>
+ROCK	Activated ROCK:RhoA/B/C:GTP	component>
+RhoA/B/C:GTP	Activated ROCK:RhoA/B/C:GTP	component>
+RhoA,B,C:GDP	RhoA/B/C:GTP	-a>
+RhoA,B,C:GDP	GDP	-a>
+GTP	RhoA/B/C:GTP	-a>
+GTP	GDP	-a>
+ATP	LIM Kinases, phosphorylated	-a>
+ATP	ADP	-a>
+LIM Kinases	LIM Kinases, phosphorylated	-a>
+LIM Kinases	ADP	-a>

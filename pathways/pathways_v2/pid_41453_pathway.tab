@@ -1,0 +1,13 @@
+smallMolecule	H2O
+smallMolecule	(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI
+smallMolecule	Long-chain fatty acid
+complex	GPI transamidase
+protein	PLAUR
+protein	PGAP1
+GPI transamidase	PLAUR	-a>
+PGAP1	Long-chain fatty acid	-a>
+(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	PLAUR	-a>
+H2O	PLAUR	-a>
+H2O	Long-chain fatty acid	-a>
+PLAUR	PLAUR	-a>
+PLAUR	Long-chain fatty acid	-a>

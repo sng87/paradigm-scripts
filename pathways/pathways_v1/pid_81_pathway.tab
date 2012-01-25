@@ -1,0 +1,13 @@
+protein	EPHA5
+protein	EFNA5
+protein	FYN
+complex	Ephrin A5/EPHA5
+abstract	neuron projection morphogenesis
+abstract	cell-cell signaling
+abstract	MAPKKK cascade
+cell-cell signaling	Ephrin A5/EPHA5	-ap>
+EPHA5	Ephrin A5/EPHA5	component>
+EFNA5	Ephrin A5/EPHA5	component>
+Ephrin A5/EPHA5	neuron projection morphogenesis	-ap>
+Ephrin A5/EPHA5	FYN	-a>
+Ephrin A5/EPHA5	MAPKKK cascade	-ap>

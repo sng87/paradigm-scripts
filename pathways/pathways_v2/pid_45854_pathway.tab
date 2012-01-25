@@ -1,0 +1,29 @@
+abstract	interleukin-12 biosynthetic process
+abstract	positive regulation of natural killer cell mediated cytotoxicity
+protein	NOS2A
+smallMolecule	L:-NIL
+protein	IL-12
+complex	IL-12/IL-12R
+complex	IL-12R
+smallMolecule	L-arginine
+smallMolecule	L-citrulline
+smallMolecule	NO
+protein	TYK2
+protein	STAT4
+protein	JAK2
+protein	IFNG
+TYK2	STAT4	-a>
+NO	interleukin-12 biosynthetic process	-ap|
+NOS2A	L-citrulline	-a>
+STAT4	STAT4	-a>
+NO	STAT4	-a>
+L:-NIL	NOS2A	-a>
+IL-12	interleukin-12 biosynthetic process	-ap>
+IL-12	IL-12/IL-12R	component>
+IL-12R	IL-12/IL-12R	component>
+IFNG	positive regulation of natural killer cell mediated cytotoxicity	-ap>
+L-arginine	NO	-a>
+L-arginine	L-citrulline	-a>
+JAK2	TYK2	-a>
+STAT4	IFNG	-t>
+IL-12/IL-12R	JAK2	-a>

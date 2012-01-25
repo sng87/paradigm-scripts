@@ -1,0 +1,44 @@
+complex	HIV-1 transcription complex containing 11 nucleotide long transcript
+complex	HIV-1 transcription complex containing 3 nucleotide long transcript
+complex	HIV-1 transcription complex containing 9 nucleotide long transcript
+complex	HIV-1 transcription complex
+complex	TFIID
+complex	HIV-1 transcription complex containing transcript to +30
+complex	TFIIA
+complex	RNA Polymerase II (unphosphorylated):TFIIF complex
+smallMolecule	PPi
+complex	TFIIE
+complex	HIV-1 transcription complex containing 4 nucleotide long transcript
+complex	TFIIH
+smallMolecule	GTP
+protein	GTF2B
+TFIIH	GTF2B	component>
+RNA Polymerase II (unphosphorylated):TFIIF complex	GTF2B	component>
+TFIIH	PPi	-a>
+RNA Polymerase II (unphosphorylated):TFIIF complex	TFIIA	component>
+RNA Polymerase II (unphosphorylated):TFIIF complex	PPi	-a>
+GTP	HIV-1 transcription complex containing 4 nucleotide long transcript	component>
+GTP	GTF2B	component>
+HIV-1 transcription complex containing 3 nucleotide long transcript	HIV-1 transcription complex containing 4 nucleotide long transcript	component>
+HIV-1 transcription complex containing 3 nucleotide long transcript	PPi	component>
+HIV-1 transcription complex containing 3 nucleotide long transcript	GTF2B	component>
+HIV-1 transcription complex	HIV-1 transcription complex containing 3 nucleotide long transcript	-a>
+HIV-1 transcription complex	PPi	-a>
+GTP	HIV-1 transcription complex containing 3 nucleotide long transcript	-a>
+GTP	HIV-1 transcription complex containing 11 nucleotide long transcript	-a>
+HIV-1 transcription complex containing 9 nucleotide long transcript	HIV-1 transcription complex containing 11 nucleotide long transcript	-a>
+HIV-1 transcription complex containing 9 nucleotide long transcript	PPi	-a>
+HIV-1 transcription complex containing 4 nucleotide long transcript	HIV-1 transcription complex containing 9 nucleotide long transcript	component>
+HIV-1 transcription complex containing 4 nucleotide long transcript	TFIIE	component>
+HIV-1 transcription complex containing 4 nucleotide long transcript	TFIID	component>
+HIV-1 transcription complex containing 4 nucleotide long transcript	PPi	component>
+HIV-1 transcription complex containing 4 nucleotide long transcript	TFIIA	component>
+GTP	HIV-1 transcription complex containing 9 nucleotide long transcript	component>
+GTP	TFIIE	component>
+GTP	TFIID	component>
+GTP	PPi	component>
+GTP	TFIIA	component>
+HIV-1 transcription complex containing 11 nucleotide long transcript	HIV-1 transcription complex containing transcript to +30	-a>
+HIV-1 transcription complex containing 11 nucleotide long transcript	PPi	-a>
+GTP	HIV-1 transcription complex containing transcript to +30	-a>
+GTP	PPi	-a>

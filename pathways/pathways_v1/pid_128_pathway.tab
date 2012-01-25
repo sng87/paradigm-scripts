@@ -1,0 +1,36 @@
+protein	S1PR5
+protein	GNA12
+protein	GNAI1
+protein	RHOA
+protein	GNAO1
+protein	GNAZ
+protein	GNAO1
+protein	GNAI3
+protein	GNAI2
+complex	S1P/S1P5/Gi
+complex	S1P/S1P5/G12
+complex	RhoA/GTP
+complex	RhoA/GDP
+chemical	mol:S1P
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	telencephalon oligodendrocyte cell migration
+abstract	negative regulation of cAMP metabolic process
+mol:S1P	S1P/S1P5/Gi	component>
+mol:S1P	S1P/S1P5/G12	component>
+mol:GTP	RhoA/GTP	component>
+mol:GDP	RhoA/GDP	component>
+S1PR5	S1P/S1P5/Gi	component>
+S1PR5	S1P/S1P5/G12	component>
+GNA12	S1P/S1P5/G12	component>
+GNAI1	S1P/S1P5/Gi	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+GNAO1	S1P/S1P5/Gi	component>
+GNAZ	S1P/S1P5/Gi	component>
+GNAO1	S1P/S1P5/Gi	component>
+GNAI3	S1P/S1P5/Gi	component>
+GNAI2	S1P/S1P5/Gi	component>
+S1P/S1P5/Gi	negative regulation of cAMP metabolic process	-ap>
+S1P/S1P5/Gi	RhoA/GTP	-a>
+RhoA/GTP	telencephalon oligodendrocyte cell migration	-ap|

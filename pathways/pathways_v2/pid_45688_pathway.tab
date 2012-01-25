@@ -1,0 +1,22 @@
+abstract	antisense RNA transcription
+abstract	RNA editing
+abstract	posttranscriptional gene silencing
+rna	edited RNA
+rna	dsRNA
+complex	p54nrb/PSF/Matrin3/inosine RNA
+rna	inosine RNA
+protein	SFPQ
+protein	NONO
+protein	MATR3
+protein	ADAR
+ADAR	inosine RNA	-a>
+edited RNA	edited RNA	-a>
+dsRNA	antisense RNA transcription	-ap>
+dsRNA	inosine RNA	-a>
+inosine RNA	p54nrb/PSF/Matrin3/inosine RNA	component>
+MATR3	p54nrb/PSF/Matrin3/inosine RNA	component>
+SFPQ	p54nrb/PSF/Matrin3/inosine RNA	component>
+NONO	p54nrb/PSF/Matrin3/inosine RNA	component>
+edited RNA	RNA editing	-ap>
+inosine RNA	RNA editing	-ap>
+dsRNA	posttranscriptional gene silencing	-ap>

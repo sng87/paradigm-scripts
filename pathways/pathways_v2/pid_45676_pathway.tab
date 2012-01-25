@@ -1,0 +1,44 @@
+complex	NGF/NGF R/NGF/NGF R
+complex	SHC/GRB2/SOS-1
+protein	NGFB
+smallMolecule	PIP2
+smallMolecule	DAG
+complex	AP-1
+complex	PI3K
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RAF1
+protein	PLCG1
+protein	NGFR
+protein	MAPK8
+protein	MAPK3
+protein	MAP2K1
+protein	JUN
+protein	HRAS
+protein	FOS
+protein	ELK1
+protein	CSNK2A1
+CSNK2A1	JUN	-a|
+PLCG1	DAG	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+NGF/NGF R/NGF/NGF R	PI3K	-a>
+ELK1	FOS	-a>
+MAP2K1	MAPK3	-a>
+MAPK8	JUN	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+NGF/NGF R/NGF/NGF R	PLCG1	-a>
+MAPK3	ELK1	-a>
+RAF1	MAP2K1	-a>
+NGF/NGF R/NGF/NGF R	SHC/GRB2/SOS-1	-a>
+NGFR	NGF/NGF R/NGF/NGF R	component>
+NGFB	NGF/NGF R/NGF/NGF R	component>
+FOS	AP-1	component>
+JUN	AP-1	component>
+MAPK3	MAPK3	-a>

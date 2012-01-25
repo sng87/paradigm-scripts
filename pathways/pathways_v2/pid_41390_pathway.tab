@@ -1,0 +1,17 @@
+complex	RHO-GDIalpha:p75NTR
+complex	RHOA:RHO-GDIalpha
+complex	RhoA:Rho-GDIalpha:p75NTR:NGF
+complex	RHOA:RHO-GDIalpha:p75NTR
+complex	beta-NGF homodimer
+complex	RhoA (Mg cofactor):GTP
+complex	RhoA (Mg cofactor):GDP
+protein	NGFR
+protein	ARHGEF1
+ARHGEF1	RhoA (Mg cofactor):GTP	-a>
+RHOA:RHO-GDIalpha:p75NTR	RHO-GDIalpha:p75NTR	component>
+RHOA:RHO-GDIalpha:p75NTR	RhoA (Mg cofactor):GDP	component>
+RHOA:RHO-GDIalpha	RHOA:RHO-GDIalpha:p75NTR	component>
+NGFR	RHOA:RHO-GDIalpha:p75NTR	component>
+RhoA (Mg cofactor):GDP	RhoA (Mg cofactor):GTP	-a>
+beta-NGF homodimer	RhoA:Rho-GDIalpha:p75NTR:NGF	component>
+RHOA:RHO-GDIalpha:p75NTR	RhoA:Rho-GDIalpha:p75NTR:NGF	component>

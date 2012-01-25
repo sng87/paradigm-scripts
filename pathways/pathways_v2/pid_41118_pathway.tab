@@ -1,0 +1,52 @@
+complex	Nrp-1 complexed with PlexinA:FARP2:Fyn
+complex	Sema3A:NRP-1:pPlexin-A:Fyn:Fes
+complex	PIP5K1gamma:Talin-1
+complex	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP:Rnd1
+complex	R-Ras-GTP
+complex	Rnd1-GTP
+complex	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP
+complex	R-Ras-GDP
+complex	Plexin-A:Fyn
+complex	Sema3A:Nrp-1:PlexinA:Fyn
+complex	Rac1-GTP
+protein	UniProt:O14786-1 NRP1
+complex	Sema3A dimer
+complex	Rac1-GDP
+complex	FARP2:PIP5KIgamma
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TLN1
+protein	FES
+protein	FARP2
+FARP2	Rac1-GTP	-a>
+Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP:Rnd1	R-Ras-GDP	-a>
+Rac1-GTP	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP	component>
+Sema3A:NRP-1:pPlexin-A:Fyn:Fes	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP	component>
+Rac1-GDP	GDP	-a>
+Rac1-GDP	Rac1-GTP	-a>
+GTP	GDP	-a>
+GTP	Rac1-GTP	-a>
+Rnd1-GTP	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP:Rnd1	component>
+Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP:Rnd1	component>
+Plexin-A:Fyn	Nrp-1 complexed with PlexinA:FARP2:Fyn	component>
+FARP2	Nrp-1 complexed with PlexinA:FARP2:Fyn	component>
+UniProt:O14786-1 NRP1	Nrp-1 complexed with PlexinA:FARP2:Fyn	component>
+R-Ras-GTP	phosphate	-a>
+R-Ras-GTP	R-Ras-GDP	-a>
+FES	Sema3A:NRP-1:pPlexin-A:Fyn:Fes	component>
+FES	ADP	component>
+ATP	Sema3A:NRP-1:pPlexin-A:Fyn:Fes	component>
+ATP	ADP	component>
+Sema3A:Nrp-1:PlexinA:Fyn	Sema3A:NRP-1:pPlexin-A:Fyn:Fes	component>
+Sema3A:Nrp-1:PlexinA:Fyn	ADP	component>
+Nrp-1 complexed with PlexinA:FARP2:Fyn	Sema3A:Nrp-1:PlexinA:Fyn	component>
+Nrp-1 complexed with PlexinA:FARP2:Fyn	FARP2	component>
+Sema3A dimer	Sema3A:Nrp-1:PlexinA:Fyn	component>
+Sema3A dimer	FARP2	component>
+PIP5K1gamma:Talin-1	FARP2:PIP5KIgamma	-a>
+PIP5K1gamma:Talin-1	TLN1	-a>
+FARP2	FARP2:PIP5KIgamma	-a>
+FARP2	TLN1	-a>

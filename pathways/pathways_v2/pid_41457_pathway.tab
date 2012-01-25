@@ -1,0 +1,10 @@
+protein	UniProt:Q13315 ATM
+protein	UniProt:Q00987 MDM2
+smallMolecule	ATP
+smallMolecule	ADP
+protein	TP53
+ATP	ADP	-a>
+ATP	TP53	-a>
+TP53	ADP	-a>
+UniProt:Q13315 ATM	TP53	-a>
+UniProt:Q13315 ATM	UniProt:Q00987 MDM2	-a>

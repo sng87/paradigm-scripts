@@ -1,0 +1,15 @@
+complex	PIP3:PKB complex
+smallMolecule	H2O
+smallMolecule	AMP
+smallMolecule	cAMP
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PDE3B
+PIP3:PKB complex	ADP	-a>
+PDE3B	AMP	-a>
+PDE3B	PDE3B	-a>
+PDE3B	ADP	-a>
+ATP	PDE3B	-a>
+ATP	ADP	-a>
+H2O	AMP	-a>
+cAMP	AMP	-a>

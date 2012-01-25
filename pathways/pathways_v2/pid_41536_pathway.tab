@@ -1,0 +1,14 @@
+complex	p21 RAS:GTP
+complex	p21 RAS:GDP
+complex	GRB2:SOS:Phospho-SHC
+complex	GRB2:SOS
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SHC1
+GRB2:SOS:Phospho-SHC	GDP	-a>
+SHC1	GRB2:SOS:Phospho-SHC	component>
+GRB2:SOS	GRB2:SOS:Phospho-SHC	component>
+GTP	p21 RAS:GTP	-a>
+GTP	GDP	-a>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	GDP	-a>

@@ -1,0 +1,21 @@
+complex	ICAD/CAD
+complex	Topo II/HMG1/HMG2/Histone H1/CAD
+complex	Topo II/HMG1/HMG2/Histone H1
+abstract	DNA fragmentation during apoptosis
+abstract	degradation
+protein	GZMB
+protein	ENDOG
+protein	DFFB
+protein	CASP7
+protein	CASP3
+GZMB	degradation	-ap>
+CASP7	degradation	-ap>
+CASP3	degradation	-ap>
+Topo II/HMG1/HMG2/Histone H1	Topo II/HMG1/HMG2/Histone H1/CAD	component>
+DFFB	Topo II/HMG1/HMG2/Histone H1/CAD	component>
+Topo II/HMG1/HMG2/Histone H1/CAD	DNA fragmentation during apoptosis	-ap>
+DFFB	DFFB	-a>
+DFFB	degradation	-ap>
+ICAD/CAD	degradation	-ap>
+ENDOG	ENDOG	-a>
+ENDOG	DNA fragmentation during apoptosis	-ap>

@@ -1,0 +1,97 @@
+smallMolecule	Thymidine
+smallMolecule	dTMP
+complex	cytidine deaminase-Zn complex
+smallMolecule	Thymine
+smallMolecule	Cytidine
+complex	deoxycytidine kinase holoenzyme
+smallMolecule	dUMP
+complex	thymidine phosphorylase dimer
+smallMolecule	dCMP
+smallMolecule	Deoxycytidine
+complex	uridine phosphorylase 1 tetramer
+smallMolecule	CMP
+smallMolecule	H2O
+complex	thymidine kinase 1, soluble holoenzyme
+smallMolecule	UMP
+smallMolecule	2-Deoxy-D-ribose 1-phosphate
+smallMolecule	Deoxyuridine
+complex	uridine-cytidine kinase 1 holoenzyme
+smallMolecule	D-Ribose 1-phosphate
+smallMolecule	Uracil
+smallMolecule	PPi
+smallMolecule	uridine
+smallMolecule	PRPP
+smallMolecule	NH3
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	NT5C1A
+cytidine deaminase-Zn complex	Deoxyuridine	-a>
+uridine-cytidine kinase 1 holoenzyme	CMP	-a>
+uridine phosphorylase 1 tetramer	2-Deoxy-D-ribose 1-phosphate	-a>
+thymidine phosphorylase dimer	Thymine	-a>
+uridine-cytidine kinase 1 holoenzyme	UMP	-a>
+thymidine phosphorylase dimer	phosphate	-a>
+cytidine deaminase-Zn complex	NH3	-a>
+uridine phosphorylase 1 tetramer	uridine	-a>
+thymidine kinase 1, soluble holoenzyme	dTMP	-a>
+uridine phosphorylase 1 tetramer	Uracil	-a>
+NT5C1A	phosphate	-a>
+deoxycytidine kinase holoenzyme	ADP	-a>
+Deoxycytidine	NH3	-a>
+Deoxycytidine	Deoxyuridine	-a>
+PRPP	PPi	-a>
+PRPP	UMP	-a>
+Uracil	PPi	-a>
+Uracil	UMP	-a>
+2-Deoxy-D-ribose 1-phosphate	uridine	-a>
+ATP	CMP	-a>
+Cytidine	ADP	-a>
+Cytidine	CMP	-a>
+Deoxyuridine	Uracil	-a>
+Deoxyuridine	2-Deoxy-D-ribose 1-phosphate	-a>
+phosphate	2-Deoxy-D-ribose 1-phosphate	-a>
+phosphate	Thymine	-a>
+Thymidine	2-Deoxy-D-ribose 1-phosphate	-a>
+Thymidine	Thymine	-a>
+ATP	UMP	-a>
+uridine	ADP	-a>
+uridine	UMP	-a>
+Thymine	Thymidine	-a>
+Thymine	phosphate	-a>
+2-Deoxy-D-ribose 1-phosphate	Thymidine	-a>
+2-Deoxy-D-ribose 1-phosphate	phosphate	-a>
+UMP	uridine	-a>
+UMP	phosphate	-a>
+dTMP	phosphate	-a>
+dTMP	Thymidine	-a>
+H2O	Thymidine	-a>
+H2O	uridine	-a>
+H2O	NH3	-a>
+Cytidine	uridine	-a>
+Cytidine	NH3	-a>
+H2O	Cytidine	-a>
+CMP	Cytidine	-a>
+CMP	phosphate	-a>
+D-Ribose 1-phosphate	phosphate	-a>
+D-Ribose 1-phosphate	uridine	-a>
+Uracil	phosphate	-a>
+Uracil	uridine	-a>
+Thymidine	ADP	-a>
+Thymidine	dTMP	-a>
+ATP	dTMP	-a>
+uridine	D-Ribose 1-phosphate	-a>
+uridine	Uracil	-a>
+phosphate	D-Ribose 1-phosphate	-a>
+phosphate	Uracil	-a>
+H2O	Deoxycytidine	-a>
+dCMP	Deoxycytidine	-a>
+dCMP	phosphate	-a>
+Deoxycytidine	dCMP	-a>
+Deoxycytidine	ADP	-a>
+ATP	dCMP	-a>
+ATP	ADP	-a>
+dUMP	Deoxyuridine	-a>
+dUMP	phosphate	-a>
+H2O	Deoxyuridine	-a>
+H2O	phosphate	-a>

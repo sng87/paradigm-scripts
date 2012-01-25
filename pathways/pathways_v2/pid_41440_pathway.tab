@@ -1,0 +1,30 @@
+smallMolecule	TPNH
+complex	CH25H (Fe2+ cofactor)
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	25-hydroxycholesterol
+smallMolecule	7alpha,25-dihydroxycholesterol
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Cholesterol
+protein	CYP7B1
+CYP7B1	H2O	-a>
+CH25H (Fe2+ cofactor)	25-hydroxycholesterol	-a>
+TPNH	7alpha,25-dihydroxycholesterol	-a>
+O2	7alpha,25-dihydroxycholesterol	-a>
+H+	7alpha,25-dihydroxycholesterol	-a>
+25-hydroxycholesterol	7alpha,25-dihydroxycholesterol	-a>
+25-hydroxycholesterol	TPN	-a>
+25-hydroxycholesterol	H2O	-a>
+TPNH	TPN	-a>
+TPNH	H2O	-a>
+TPNH	25-hydroxycholesterol	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+O2	25-hydroxycholesterol	-a>
+H+	TPN	-a>
+H+	H2O	-a>
+H+	25-hydroxycholesterol	-a>
+Cholesterol	TPN	-a>
+Cholesterol	H2O	-a>
+Cholesterol	25-hydroxycholesterol	-a>

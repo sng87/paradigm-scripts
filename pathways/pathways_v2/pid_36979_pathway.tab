@@ -1,0 +1,66 @@
+abstract	tumor necrosis factor receptor activity
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	IKK complex/A20
+complex	TNF/TNFR1A
+complex	IKK complex/PKC alpha
+complex	IKK complex
+complex	NEMO/A20/RIP2
+complex	BCL10/MALT1/TRAF6
+complex	beta TrCP1/SCF ubiquitin ligase complex
+complex	IKK complex/ELKS
+complex	cIAP1/UbcH5C
+complex	Exportin 1/RanGTP
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+protein	MAP3Ks
+complex	NEMO/ATM
+complex	NF kappa B1 p50/RelA
+complex	RIP2/NOD2
+protein	TNFAIP3
+protein	RIPK2
+protein	PRKCA
+protein	NFKBIA
+protein	IKBKG
+protein	IKBKB
+protein	ERC1
+protein	CYLD
+protein	CHUK
+protein	ATM
+tumor necrosis factor receptor activity	IKK complex/ELKS	-a>
+IKK complex	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+IKK complex/PKC alpha	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+IKK complex/ELKS	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+beta TrCP1/SCF ubiquitin ligase complex	NFKBIA	component>
+TNF/TNFR1A	IKK complex/A20	component>
+MAP3Ks	IKK complex/ELKS	-a>
+NFKBIA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+ATM	NEMO/ATM	component>
+IKBKG	NEMO/ATM	component>
+TNFAIP3	NEMO/A20/RIP2	component>
+RIPK2	NEMO/A20/RIP2	component>
+IKBKG	NEMO/A20/RIP2	component>
+Exportin 1/RanGTP	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+NF kappa B1 p50/RelA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+PRKCA	IKK complex/PKC alpha	component>
+IKK complex	IKK complex/PKC alpha	component>
+NF kappa B1 p50/RelA/I kappa B alpha	NF kappa B1 p50/RelA/I kappa B alpha	-a>
+ERC1	IKK complex/ELKS	component>
+IKK complex	IKK complex/ELKS	component>
+NF kappa B1 p50/RelA/I kappa B alpha	NF kappa B1 p50/RelA	component>
+NF kappa B1 p50/RelA/I kappa B alpha	NFKBIA	component>
+NF kappa B1 p50/RelA	NF kappa B1 p50/RelA	-a>
+NEMO/ATM	ATM	component>
+NEMO/ATM	IKBKG	component>
+BCL10/MALT1/TRAF6	IKBKG	-a>
+NFKBIA	NFKBIA	-a>
+TNFAIP3	IKK complex/A20	component>
+IKK complex	IKK complex/A20	component>
+RIP2/NOD2	IKBKG	-a>
+IKBKG	IKBKG	-a>
+NF kappa B1 p50/RelA	NFKBIA	-t>
+CYLD	IKBKG	-a>
+IKK complex/ELKS	IKK complex/ELKS	-a>
+IKBKG	IKK complex	component>
+IKBKB	IKK complex	component>
+CHUK	IKK complex	component>
+cIAP1/UbcH5C	IKBKG	-a>

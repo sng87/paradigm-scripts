@@ -1,0 +1,9 @@
+complex	active caspase-3
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PAK2
+active caspase-3	PAK2	-a>
+ATP	ADP	-a>
+ATP	PAK2	-a>
+PAK2	ADP	-a>
+PAK2	PAK2	-a>

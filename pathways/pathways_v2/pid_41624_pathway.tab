@@ -1,0 +1,11 @@
+complex	LBP complexed with bacterial LPS
+complex	LPS complexed with GPI-anchored CD14
+complex	LPS complexed with secreted CD14
+protein	LBP
+protein	CD14
+CD14	LPS complexed with secreted CD14	-a>
+LBP complexed with bacterial LPS	LPS complexed with secreted CD14	-a>
+LBP complexed with bacterial LPS	LPS complexed with GPI-anchored CD14	-a>
+LBP complexed with bacterial LPS	LBP	-a>
+CD14	LPS complexed with GPI-anchored CD14	-a>
+CD14	LBP	-a>

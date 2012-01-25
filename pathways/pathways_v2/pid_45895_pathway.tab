@@ -1,0 +1,138 @@
+complex	TNF/TNF R/TRAF2/ASK1/RIP
+complex	SHC/GRB2/SOS-1
+complex	TNF R/TRAF2/ASK1/RIP
+protein	cPKC
+complex	FAS L/FAS/DAXX
+complex	SP1/c-FOS/c-JUN/ETS/c/EBP-alpha
+complex	p50/RELA/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	FAS L/FAS/DAXX/ASK1
+complex	EGF/EGF-R
+protein	nPKC
+complex	RELA/p50
+complex	FAS/DAXX
+protein	TNF R
+abstract	protein ubiquitination
+abstract	keratinocyte differentiation
+abstract	degradation
+abstract	apoptosis
+complex	AP-1
+protein	IKKs
+protein	ETS
+smallMolecule	Ca2+
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TRAF2
+protein	TRAF1
+protein	SP1
+protein	RAF1
+protein	PPP2R5D
+protein	PLAT
+protein	MAPK8
+protein	MAPK3
+protein	MAPK14
+protein	MAPK13
+protein	MAPK1
+protein	MAP4K4
+protein	MAP3K5
+protein	MAP3K1
+protein	MAP2K7
+protein	MAP2K6
+protein	MAP2K4
+protein	MAP2K3
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	HOXA7
+protein	FASLG
+protein	EGFR
+protein	EGF
+protein	CEBPA
+protein	BIRC3
+protein	BIRC2
+protein	BCL2
+IKKs	protein ubiquitination	-ap>
+MAP2K6	MAPK13	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+MAPK1	BCL2	-a|
+MAPK3	BCL2	-a|
+MAPK8	MAPK3	-a|
+nPKC	MAPK3	-a|
+MAP2K2	MAPK3	-a>
+cPKC	GDP	-a>
+HOXA7	SP1/c-FOS/c-JUN/ETS/c/EBP-alpha	component>
+nPKC	GDP	-a>
+RELA/p50	BIRC3	-t>
+MAP2K7	MAPK8	-a>
+TNF/TNF R/TRAF2/ASK1/RIP	MAP2K4	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+MAP3K5	FAS L/FAS/DAXX/ASK1	component>
+FAS L/FAS/DAXX	FAS L/FAS/DAXX/ASK1	component>
+TNF/TNF R/TRAF2/ASK1/RIP	MAP2K3	-a>
+MAP4K4	IKKs	-a>
+MAPK13	CEBPA	-a>
+Ca2+	cPKC	-a>
+MAP3K1	MAP2K7	-a>
+TNF/TNF R/TRAF2/ASK1/RIP	MAP4K4	-a>
+MAP3K1	MAP2K3	-a>
+EGF/EGF-R	SHC/GRB2/SOS-1	-a>
+MAPK14	MAPK14	-a>
+MAPK14	MAPK13	-a>
+MAPK13	MAPK14	-a>
+MAP2K3	MAPK13	-a>
+HRAS	RAF1	-a>
+MAP2K6	MAP2K6	-a>
+MAP2K6	MAP2K3	-a>
+MAP2K3	MAP2K6	-a>
+FAS L/FAS/DAXX/ASK1	MAP2K3	-a>
+HRAS	MAP3K1	-a>
+ETS	ETS	-a>
+ETS	AP-1	-a>
+ETS	SP1	-a>
+AP-1	ETS	-a>
+AP-1	AP-1	-a>
+AP-1	SP1	-a>
+SP1	ETS	-a>
+SP1	AP-1	-a>
+MAPK14	SP1	-a>
+MAPK8	BCL2	-a>
+Ca2+	Ca2+	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+RELA/p50	BIRC2	-t>
+MAP3K1	MAP2K4	-a>
+PPP2R5D	MAP2K7	-a>
+CEBPA	SP1/c-FOS/c-JUN/ETS/c/EBP-alpha	component>
+ETS	SP1/c-FOS/c-JUN/ETS/c/EBP-alpha	component>
+AP-1	SP1/c-FOS/c-JUN/ETS/c/EBP-alpha	component>
+SP1	SP1/c-FOS/c-JUN/ETS/c/EBP-alpha	component>
+Ca2+	nPKC	-a>
+BCL2	apoptosis	-ap|
+FASLG	FAS L/FAS/DAXX	component>
+FAS/DAXX	FAS L/FAS/DAXX	component>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+EGFR	EGF/EGF-R	component>
+EGF	EGF/EGF-R	component>
+Ca2+	HOXA7	-a>
+FAS L/FAS/DAXX/ASK1	MAP2K4	-a>
+RELA/p50	TRAF2	-t>
+PPP2R5D	MAP2K4	-a>
+RELA/p50	TRAF1	-t>
+MAP2K4	MAPK8	-a>
+RELA/p50	RELA/p50	-a>
+TNF R	TNF/TNF R/TRAF2/ASK1/RIP	component>
+TNF R/TRAF2/ASK1/RIP	TNF/TNF R/TRAF2/ASK1/RIP	component>
+PLAT	Ca2+	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+SP1/c-FOS/c-JUN/ETS/c/EBP-alpha	keratinocyte differentiation	-ap>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>

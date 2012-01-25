@@ -1,0 +1,140 @@
+abstract	protein ubiquitination
+abstract	degradation
+abstract	apoptosis
+complex	Delta 1/NOTCHprecursor
+complex	Delta 1/NOTCH/NOTCH(cleaved)
+complex	CtBP/CBP/TCF1/TLE1/AES
+protein	NEXT_1721-2555
+complex	LRP6/FZD1
+complex	DKK1/LRP6/Kremen 2
+complex	NOTCH1 precursor/DVL1
+complex	Axin1/APC/beta catenin
+protein	RBPSUH
+complex	NICD/RBPSUH
+complex	DKK2/LRP6/Kremen 2
+protein	Nemo like kinase
+complex	AP1
+complex	WNT1/FZD1/LRP6
+complex	beta catenin/beta TrCP1
+complex	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4
+complex	NOTCH/Deltex homolog 1
+protein	NICD_1754-2555
+complex	NOTCH1 precursor/Deltex homolog 1
+protein	NOTCH1 Precursor
+complex	Gamma Secretase
+protein	WNT1
+protein	WIF1
+protein	PPP2R5D
+protein	PPARD
+protein	NKD1
+protein	NEDD4
+protein	MYC
+protein	MAPK3
+protein	MAPK1
+protein	MAP3K7IP1
+protein	MAP3K7
+protein	LRP6
+protein	KREMEN2
+protein	HDAC1
+protein	GSK3B
+protein	FZD1
+protein	FRAT1
+protein	DVL1
+protein	DTX1
+protein	DLL1
+protein	DKK2
+protein	DKK1
+protein	CTNNB1
+protein	CSNK2A1
+protein	CSNK1A1
+protein	CCND1
+protein	BTRC
+protein	AXIN1
+protein	APC
+protein	ADAM10
+Gamma Secretase	CTNNB1	component>
+ADAM10	NEXT_1721-2555	component>
+Nemo like kinase	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+NICD_1754-2555	AP1	-a|
+NKD1	AP1	-a>
+MAPK1	AP1	-a>
+NKD1	PPP2R5D	-a|
+MAP3K7IP1	Nemo like kinase	-a>
+WIF1	WNT1/FZD1/LRP6	component>
+NOTCH1 Precursor	AXIN1	-a>
+CtBP/CBP/TCF1/TLE1/AES	CCND1	-t|
+PPP2R5D	AXIN1	component>
+DVL1	AXIN1	component>
+CtBP/CBP/TCF1/TLE1/AES	MYC	-t|
+FRAT1	AXIN1	component>
+GSK3B	AXIN1	component>
+Gamma Secretase	NICD_1754-2555	-a>
+CtBP/CBP/TCF1/TLE1/AES	PPARD	-t|
+NEDD4	protein ubiquitination	-ap>
+CSNK2A1	DVL1	-a>
+WNT1/FZD1/LRP6	DVL1	-a>
+HDAC1	CtBP/CBP/TCF1/TLE1/AES	-a>
+NICD_1754-2555	NICD_1754-2555	-a>
+CTNNB1	degradation	-ap>
+DVL1	NOTCH1 precursor/DVL1	component>
+NOTCH1 Precursor	NOTCH1 precursor/DVL1	component>
+NOTCH1 precursor/Deltex homolog 1	NOTCH/Deltex homolog 1	component>
+NOTCH1 precursor/Deltex homolog 1	Delta 1/NOTCH/NOTCH(cleaved)	component>
+NOTCH1 precursor/Deltex homolog 1	NEXT_1721-2555	component>
+Delta 1/NOTCHprecursor	NOTCH/Deltex homolog 1	component>
+Delta 1/NOTCHprecursor	Delta 1/NOTCH/NOTCH(cleaved)	component>
+Delta 1/NOTCHprecursor	NEXT_1721-2555	component>
+AP1	apoptosis	-ap>
+CTNNB1	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+CtBP/CBP/TCF1/TLE1/AES	beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+MAPK3	AP1	-a>
+NOTCH1 Precursor	Delta 1/NOTCHprecursor	component>
+DLL1	Delta 1/NOTCHprecursor	component>
+DVL1	PPP2R5D	-a>
+MAP3K7	Nemo like kinase	-a>
+WNT1	WNT1/FZD1/LRP6	component>
+LRP6/FZD1	WNT1/FZD1/LRP6	component>
+CTNNB1	CTNNB1	-a>
+CTNNB1	APC	-a>
+CTNNB1	AXIN1	-a>
+APC	CTNNB1	-a>
+APC	APC	-a>
+APC	AXIN1	-a>
+AXIN1	CTNNB1	-a>
+AXIN1	APC	-a>
+PPP2R5D	AXIN1	-a>
+FZD1	LRP6/FZD1	component>
+LRP6	LRP6/FZD1	component>
+DTX1	NOTCH1 precursor/Deltex homolog 1	component>
+NOTCH1 Precursor	NOTCH1 precursor/Deltex homolog 1	component>
+beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	CCND1	-t>
+WIF1	apoptosis	-ap>
+WNT1	apoptosis	-ap>
+LRP6/FZD1	apoptosis	-ap>
+DKK2	DKK2/LRP6/Kremen 2	component>
+DKK2	DKK1/LRP6/Kremen 2	component>
+KREMEN2	DKK2/LRP6/Kremen 2	component>
+KREMEN2	DKK1/LRP6/Kremen 2	component>
+LRP6	DKK2/LRP6/Kremen 2	component>
+LRP6	DKK1/LRP6/Kremen 2	component>
+DKK1	DKK2/LRP6/Kremen 2	component>
+DKK1	DKK1/LRP6/Kremen 2	component>
+beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	MYC	-t>
+Axin1/APC/beta catenin	CTNNB1	component>
+Axin1/APC/beta catenin	APC	component>
+Axin1/APC/beta catenin	AXIN1	component>
+NEXT_1721-2555	NICD_1754-2555	-a>
+DKK1/LRP6/Kremen 2	degradation	-ap>
+DKK2/LRP6/Kremen 2	degradation	-ap>
+beta catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	PPARD	-t>
+BTRC	beta catenin/beta TrCP1	component>
+CTNNB1	beta catenin/beta TrCP1	component>
+RBPSUH	NICD/RBPSUH	component>
+NICD_1754-2555	NICD/RBPSUH	component>
+NOTCH1 Precursor	protein ubiquitination	-ap>
+CSNK1A1	DVL1	-a>
+APC	Axin1/APC/beta catenin	component>
+AXIN1	Axin1/APC/beta catenin	component>
+CTNNB1	Axin1/APC/beta catenin	component>
+beta catenin/beta TrCP1	BTRC	component>
+beta catenin/beta TrCP1	CTNNB1	component>

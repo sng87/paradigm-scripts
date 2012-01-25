@@ -1,0 +1,122 @@
+protein	GUCA1B
+protein	CNGB1
+protein	RDH5
+protein	RGS9BP
+protein	GRK1
+protein	GUCY2D
+protein	GNGT1
+protein	GNB1
+protein	GUCY2F
+protein	GUCA1A
+protein	PDE6B
+protein	CNGA1
+protein	PDE6G
+protein	PDE6A
+protein	GNAT1
+protein	SAG
+protein	RHO
+protein	GUCA1C
+protein	RGS9
+protein	SLC24A1
+protein	GNB5
+complex	cGMP/CNG Channel
+complex	Transducin
+complex	Rhodopsin
+complex	RGS9-1/Gbeta5/R9AP
+complex	PDE6G/GNAT1/GTP
+complex	PDE6A/B
+complex	PDE6
+complex	Na + (4 Units)
+complex	Metarhodopsin II/Transducin
+complex	Metarhodopsin II/Arrestin
+complex	Metarhodopsin II
+complex	GNB1/GNGT1
+complex	GNAT1/GTP
+complex	GNAT1/GDP
+complex	GCAP Family/Ca ++
+complex	GC2/GCAP Family
+complex	GC1/GCAP Family
+complex	CNG Channel
+chemical	mol:cGMP
+chemical	mol:all-trans-retinal
+chemical	mol:Pi
+chemical	mol:Na +
+chemical	mol:K +
+chemical	mol:GTP
+chemical	mol:GMP (4 units)
+chemical	mol:GDP
+chemical	mol:Ca2+
+chemical	mol:Ca ++
+chemical	mol:ADP
+chemical	mol:11-cis-retinal
+abstract	absorption of light
+mol:cGMP	cGMP/CNG Channel	component>
+mol:all-trans-retinal	Metarhodopsin II/Transducin	component>
+mol:all-trans-retinal	Metarhodopsin II/Arrestin	component>
+mol:all-trans-retinal	Metarhodopsin II	component>
+mol:Na +	Na + (4 Units)	component>
+mol:GTP	PDE6G/GNAT1/GTP	component>
+mol:GTP	GNAT1/GTP	component>
+mol:GDP	Transducin	component>
+mol:GDP	Metarhodopsin II/Transducin	component>
+mol:GDP	GNAT1/GDP	component>
+mol:Ca ++	GCAP Family/Ca ++	component>
+mol:11-cis-retinal	Rhodopsin	component>
+cGMP/CNG Channel	mol:Na +	-a>
+cGMP/CNG Channel	mol:Ca2+	-a>
+absorption of light	Metarhodopsin II	-ap>
+GUCA1B	GCAP Family/Ca ++	component>
+GUCA1B	GC2/GCAP Family	component>
+GUCA1B	GC1/GCAP Family	component>
+CNGB1	cGMP/CNG Channel	component>
+CNGB1	CNG Channel	component>
+RDH5	mol:11-cis-retinal	-a>
+RGS9BP	RGS9-1/Gbeta5/R9AP	component>
+GRK1	mol:ADP	-a>
+GRK1	Metarhodopsin II	-a>
+GUCY2D	GC1/GCAP Family	component>
+GNGT1	Transducin	component>
+GNGT1	Metarhodopsin II/Transducin	component>
+GNGT1	GNB1/GNGT1	component>
+GNB1	Transducin	component>
+GNB1	Metarhodopsin II/Transducin	component>
+GNB1	GNB1/GNGT1	component>
+GUCY2F	GC2/GCAP Family	component>
+GUCA1A	GCAP Family/Ca ++	component>
+GUCA1A	GC2/GCAP Family	component>
+GUCA1A	GC1/GCAP Family	component>
+PDE6B	PDE6A/B	component>
+PDE6B	PDE6	component>
+CNGA1	cGMP/CNG Channel	component>
+CNGA1	CNG Channel	component>
+PDE6G	PDE6G/GNAT1/GTP	component>
+PDE6G	PDE6	component>
+PDE6A	PDE6A/B	component>
+PDE6A	PDE6	component>
+GNAT1	Transducin	component>
+GNAT1	PDE6G/GNAT1/GTP	component>
+GNAT1	Metarhodopsin II/Transducin	component>
+GNAT1	GNAT1/GTP	component>
+GNAT1	GNAT1/GDP	component>
+SAG	Metarhodopsin II/Arrestin	component>
+RHO	Rhodopsin	component>
+RHO	Metarhodopsin II/Transducin	component>
+RHO	Metarhodopsin II/Arrestin	component>
+RHO	Metarhodopsin II	component>
+GUCA1C	GCAP Family/Ca ++	component>
+GUCA1C	GC2/GCAP Family	component>
+GUCA1C	GC1/GCAP Family	component>
+RGS9	RGS9-1/Gbeta5/R9AP	component>
+SLC24A1	mol:K +	-a>
+SLC24A1	mol:Ca2+	-a>
+SLC24A1	Na + (4 Units)	-a>
+GNB5	RGS9-1/Gbeta5/R9AP	component>
+RGS9-1/Gbeta5/R9AP	mol:Pi	-a>
+RGS9-1/Gbeta5/R9AP	PDE6	-a>
+RGS9-1/Gbeta5/R9AP	GNAT1/GDP	-a>
+PDE6G/GNAT1/GTP	mol:GMP (4 units)	-a>
+PDE6G/GNAT1/GTP	CNG Channel	-a>
+PDE6A/B	mol:GMP (4 units)	-a>
+PDE6A/B	CNG Channel	-a>
+GC2/GCAP Family	mol:cGMP	-a>
+GC1/GCAP Family	mol:cGMP	-a>

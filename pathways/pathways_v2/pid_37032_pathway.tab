@@ -1,0 +1,142 @@
+abstract	negative regulation of transcription
+abstract	Ras protein signal transduction
+abstract	cell migration
+complex	Prolactin Receptor/Prolactin
+complex	PTP1B/AKT1
+protein	Src Family Kinases
+complex	STAT3 (dimer)
+complex	p210 bcr-abl/Grb2
+complex	PTP1B/p130 Cas
+complex	alphaIIb/beta3 Integrin
+protein	p210 bcr-abl
+complex	p210 bcr-abl/PTP1B
+complex	p130 Cas/Crk
+complex	CAT1/PTP1B
+smallMolecule	NADPH
+complex	Insulin Receptor/Insulin/IRS1
+complex	Insulin Receptor/Insulin/Shc
+complex	Jak2/Leptin Receptor
+complex	PTP1B/IRS1/GRB2
+complex	Jak2/Leptin Receptor/Leptin
+complex	CSF1/CSF1R
+complex	PI3K
+complex	PTP1B/N-cadherin
+complex	EGF/EGFR
+complex	PDGFB-D/PDGFRB
+complex	Insulin Receptor/Insulin
+protein	p130 Cas
+smallMolecule	H2O2
+protein	YBX1
+protein	TYK2
+protein	TXN
+protein	TRPV6
+protein	STAT5B
+protein	STAT5A
+protein	STAT3
+protein	SRC
+protein	SPRY2
+protein	SOCS3
+protein	SHC1
+protein	RHOA
+protein	PTPN1
+protein	NOX4
+protein	LEP
+protein	LAT
+protein	JAK2
+protein	IRS1
+protein	GRB2
+protein	FER
+protein	FCGR2A
+protein	DOK1
+protein	CSN2
+protein	CSK
+protein	CRK
+protein	CDH2
+protein	CAV1
+protein	CAPN1
+protein	AKT1
+PTPN1	PI3K	-a|
+CAPN1	PTPN1	-a>
+alphaIIb/beta3 Integrin	PTPN1	-a>
+SOCS3	Jak2/Leptin Receptor/Leptin	component>
+PTPN1	PDGFB-D/PDGFRB	-a>
+PTPN1	CSF1/CSF1R	-a>
+Jak2/Leptin Receptor/Leptin	STAT3 (dimer)	component>
+PTPN1	CSN2	-t|
+PTP1B/AKT1	Insulin Receptor/Insulin	-a|
+PTPN1	Insulin Receptor/Insulin	-a>
+PTPN1	EGF/EGFR	-a>
+Jak2/Leptin Receptor	SOCS3	-t|
+PTPN1	Jak2/Leptin Receptor/Leptin	-a>
+NADPH	PTPN1	-a>
+NOX4	PTPN1	-a>
+PTP1B/p130 Cas	p130 Cas/Crk	component>
+FCGR2A	LAT	-a>
+PTPN1	p130 Cas/Crk	component>
+Insulin Receptor/Insulin	PI3K	-a>
+JAK2	STAT5A	-a>
+SHC1	Insulin Receptor/Insulin/Shc	component>
+SHC1	Insulin Receptor/Insulin/IRS1	component>
+IRS1	Insulin Receptor/Insulin/Shc	component>
+IRS1	Insulin Receptor/Insulin/IRS1	component>
+Insulin Receptor/Insulin	Insulin Receptor/Insulin/Shc	component>
+Insulin Receptor/Insulin	Insulin Receptor/Insulin/IRS1	component>
+JAK2	negative regulation of transcription	-ap>
+p210 bcr-abl/Grb2	Ras protein signal transduction	-ap>
+SPRY2	PTPN1	-a>
+Src Family Kinases	TRPV6	-a>
+CSK	SRC	-a>
+LEP	Jak2/Leptin Receptor/Leptin	component>
+Jak2/Leptin Receptor	Jak2/Leptin Receptor/Leptin	component>
+PTPN1	PTPN1	-a>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB	-a>
+PTPN1	CAT1/PTP1B	component>
+TRPV6	CAT1/PTP1B	component>
+PTPN1	cell migration	-ap|
+CSF1/CSF1R	CSF1/CSF1R	-a>
+PTPN1	STAT5A	-a>
+PTPN1	SRC	-a>
+PTPN1	p210 bcr-abl/PTP1B	component>
+PTPN1	p210 bcr-abl/Grb2	component>
+GRB2	p210 bcr-abl/PTP1B	component>
+GRB2	p210 bcr-abl/Grb2	component>
+p210 bcr-abl	p210 bcr-abl/PTP1B	component>
+p210 bcr-abl	p210 bcr-abl/Grb2	component>
+PTPN1	DOK1	-a>
+PTPN1	TYK2	-a>
+STAT3	STAT3 (dimer)	component>
+Prolactin Receptor/Prolactin	CSN2	-t>
+YBX1	PTPN1	-t>
+RHOA	PTPN1	-a>
+EGF/EGFR	CAV1	-a>
+Insulin Receptor/Insulin	Insulin Receptor/Insulin	-a>
+TXN	PTPN1	-a>
+PDGFB-D/PDGFRB	DOK1	-a>
+PTPN1	STAT5B	-a>
+JAK2	STAT5B	-a>
+FER	PTPN1	-a>
+EGF/EGFR	EGF/EGFR	-a>
+CDH2	PTP1B/N-cadherin	component>
+PTPN1	PTP1B/N-cadherin	component>
+PTPN1	JAK2	-a>
+STAT3 (dimer)	SOCS3	-t>
+PTPN1	CAV1	-a>
+Insulin Receptor/Insulin	DOK1	-a>
+Jak2/Leptin Receptor/Leptin	Jak2/Leptin Receptor/Leptin	-a>
+H2O2	PTPN1	-a>
+Insulin Receptor/Insulin	PTPN1	-a>
+EGF/EGFR	PTPN1	-a>
+SRC	CAV1	-a>
+p210 bcr-abl/PTP1B	Ras protein signal transduction	-ap|
+GRB2	PTP1B/IRS1/GRB2	component>
+PTPN1	PTP1B/IRS1/GRB2	component>
+IRS1	PTP1B/IRS1/GRB2	component>
+Insulin Receptor/Insulin	CAV1	-a>
+PTPN1	LAT	-a>
+PTPN1	PTP1B/p130 Cas	component>
+p130 Cas	PTP1B/p130 Cas	component>
+CRK	p130 Cas/Crk	component>
+p130 Cas	p130 Cas/Crk	component>
+Prolactin Receptor/Prolactin	JAK2	-a>
+AKT1	PTP1B/AKT1	component>
+PTPN1	PTP1B/AKT1	component>

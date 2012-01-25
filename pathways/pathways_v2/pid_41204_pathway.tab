@@ -1,0 +1,39 @@
+complex	GRB2:SOS:IRS-P
+complex	GRB2:SHC-P
+complex	activated insulin receptor
+complex	Crk:IRS-P
+complex	GRB2:SOS:Phospho-SHC
+complex	GRB10:INSR
+complex	Crk:SOS:IRS-P
+protein	phospho-IRS
+complex	GRB2:IRS-P
+protein	IRS
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	SOS1
+protein	SHC1
+protein	MAPK3
+protein	GRB10
+MAPK3	SOS1	component>
+MAPK3	GRB2:SHC-P	component>
+GRB2:SOS:IRS-P	GRB2:IRS-P	component>
+GRB2:SOS:IRS-P	ADP	component>
+GRB2:SOS:IRS-P	SOS1	component>
+ATP	GRB2:IRS-P	component>
+ATP	Crk:IRS-P	component>
+Crk:SOS:IRS-P	Crk:IRS-P	component>
+Crk:SOS:IRS-P	ADP	component>
+Crk:SOS:IRS-P	SOS1	component>
+GRB10	GRB10:INSR	component>
+activated insulin receptor	GRB10:INSR	component>
+phospho-IRS	IRS	-a>
+phospho-IRS	phosphate	-a>
+SHC1	SHC1	-a>
+SHC1	phosphate	-a>
+ATP	ADP	component>
+ATP	SOS1	component>
+ATP	GRB2:SHC-P	component>
+GRB2:SOS:Phospho-SHC	ADP	component>
+GRB2:SOS:Phospho-SHC	SOS1	component>
+GRB2:SOS:Phospho-SHC	GRB2:SHC-P	component>

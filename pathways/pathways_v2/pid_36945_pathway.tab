@@ -1,0 +1,91 @@
+abstract	protein polymerization
+abstract	receptor clustering
+abstract	degradation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+protein	GRK5-GRK6
+complex	CK1 epsilon-CK1 delta-CK1 alpha
+complex	PP2A
+complex	WNT3A/LRP6/FZD5/Axin1/GSK3
+complex	SCF
+complex	KLHL12/Cul3
+complex	WNT3A/LRP6/FZD5
+complex	KLHL12/Cul3/DVL
+smallMolecule	PI-4-P
+complex	NKD2/DVL
+complex	NKD2/DVL1
+complex	Axin2/GSK3beta
+complex	WNT3A/LRP6/FZD5/DVL
+complex	Axin2/APC/GSK3/beta catenin
+smallMolecule	PI-4-5-P2
+complex	Axin1/GSK3
+smallMolecule	PI
+complex	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3
+protein	DVL
+complex	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3/Axin1/GSK3
+complex	Axin1/APC/GSK3/beta catenin
+complex	APC/beta catenin
+protein	RANBP3
+protein	PIP5K1B
+protein	PI4K2A
+protein	NKD2
+protein	FBXW11
+protein	FAM123B
+protein	CTNNB1
+protein	CSNK1G1
+protein	CAV1
+protein	APC
+CSNK1G1	WNT3A/LRP6/FZD5	-a>
+PI4K2A	PI-4-P	-a>
+SCF	CTNNB1	component>
+PI-4-5-P2	WNT3A/LRP6/FZD5/DVL	-a>
+CK1 epsilon-CK1 delta-CK1 alpha	Axin1/APC/GSK3/beta catenin	-a>
+PIP5K1B	PI-4-5-P2	-a>
+FBXW11	Axin1/APC/GSK3/beta catenin	-a>
+FAM123B	Axin1/APC/GSK3/beta catenin	-a>
+CSNK1G1	WNT3A/LRP6/FZD5/DVL	-a>
+CSNK1G1	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	-a>
+GRK5-GRK6	WNT3A/LRP6/FZD5	-a>
+CTNNB1	CTNNB1	-a>
+PP2A	CTNNB1	-a>
+KLHL12/Cul3/DVL	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+PI	PI-4-P	-a>
+receptor clustering	WNT3A/LRP6/FZD5/DVL	-a>
+KLHL12/Cul3	KLHL12/Cul3/DVL	component>
+DVL	KLHL12/Cul3/DVL	component>
+APC/beta catenin	APC	component>
+APC/beta catenin	CTNNB1	component>
+WNT3A/LRP6/FZD5/DVL	PI4K2A	-a>
+protein polymerization	WNT3A/LRP6/FZD5/DVL	-a>
+Axin1/APC/GSK3/beta catenin	WNT3A/LRP6/FZD5/Axin1/GSK3	component>
+WNT3A/LRP6/FZD5	CTNNB1	component>
+WNT3A/LRP6/FZD5	APC	component>
+WNT3A/LRP6/FZD5	WNT3A/LRP6/FZD5/Axin1/GSK3	component>
+Axin1/APC/GSK3/beta catenin	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	component>
+WNT3A/LRP6/FZD5/DVL	CTNNB1	component>
+WNT3A/LRP6/FZD5/DVL	APC	component>
+PI-4-P	PI-4-5-P2	-a>
+Axin1/GSK3	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	component>
+WNT3A/LRP6/FZD5/DVL	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	component>
+RANBP3	CTNNB1	-a>
+Axin2/APC/GSK3/beta catenin	CTNNB1	component>
+Axin2/APC/GSK3/beta catenin	APC/beta catenin	component>
+Axin2/APC/GSK3/beta catenin	Axin2/GSK3beta	component>
+CAV1	WNT3A/LRP6/FZD5	-a>
+WNT3A/LRP6/FZD5/DVL	WNT3A/LRP6/FZD5/DVL	-a>
+Axin1/APC/GSK3/beta catenin	Axin1/APC/GSK3/beta catenin	-a>
+NKD2/DVL1	degradation	-ap>
+CTNNB1	degradation	-ap>
+WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	-a>
+Axin1/APC/GSK3/beta catenin	APC	component>
+Axin1/APC/GSK3/beta catenin	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3/Axin1/GSK3	component>
+WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	CTNNB1	component>
+WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	APC	component>
+WNT3A/LRP6/FZD5/DVL/Axin1/GSK3	WNT3A/LRP6/FZD5/DVL/Axin1/GSK3/Axin1/GSK3	component>
+DVL	WNT3A/LRP6/FZD5/DVL	component>
+WNT3A/LRP6/FZD5	WNT3A/LRP6/FZD5/DVL	component>
+Axin1/APC/GSK3/beta catenin	CTNNB1	component>
+Axin1/APC/GSK3/beta catenin	APC/beta catenin	component>
+Axin1/APC/GSK3/beta catenin	Axin1/GSK3	component>
+DVL	NKD2/DVL	component>
+NKD2	NKD2/DVL	component>
+WNT3A/LRP6/FZD5	WNT3A/LRP6/FZD5	-a>

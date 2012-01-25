@@ -1,0 +1,11 @@
+complex	CD28:Nef:Clathrin-coated Pit Adapter Protein
+complex	Nef:CD28 Complex
+complex	CD28:Nef:Clathrin-coated Pit Adapter Protein Complex
+protein	myristoylated Nef Protein (numerous variants)
+protein	CD28
+protein	AP2M1
+CD28:Nef:Clathrin-coated Pit Adapter Protein Complex	CD28:Nef:Clathrin-coated Pit Adapter Protein	-a>
+myristoylated Nef Protein (numerous variants)	Nef:CD28 Complex	component>
+CD28	Nef:CD28 Complex	component>
+AP2M1	CD28:Nef:Clathrin-coated Pit Adapter Protein Complex	component>
+Nef:CD28 Complex	CD28:Nef:Clathrin-coated Pit Adapter Protein Complex	component>

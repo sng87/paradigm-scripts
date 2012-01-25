@@ -1,0 +1,20 @@
+smallMolecule	Carnitine
+smallMolecule	CoA
+smallMolecule	Malonyl-CoA
+smallMolecule	Palmitoyl-CoA
+smallMolecule	L-Palmitoylcarnitine
+protein	SLC25A20
+protein	CPT2
+protein	CPT1B
+CPT2	Palmitoyl-CoA	-a>
+SLC25A20	Carnitine	-a>
+Malonyl-CoA	L-Palmitoylcarnitine	-a|
+CPT1B	L-Palmitoylcarnitine	-a>
+CoA	Carnitine	-a>
+CoA	Palmitoyl-CoA	-a>
+L-Palmitoylcarnitine	Palmitoyl-CoA	-a>
+Carnitine	L-Palmitoylcarnitine	-a>
+Carnitine	Carnitine	-a>
+L-Palmitoylcarnitine	L-Palmitoylcarnitine	-a>
+L-Palmitoylcarnitine	Carnitine	-a>
+Palmitoyl-CoA	L-Palmitoylcarnitine	-a>

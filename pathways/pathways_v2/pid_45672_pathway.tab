@@ -1,0 +1,29 @@
+complex	EPO/EPO R/EPO R
+complex	SHC/GRB2/SOS-1
+complex	EPO/EPO R
+smallMolecule	nucleoside diphosphate
+complex	STAT5/STAT5
+smallMolecule	guanosine 5`-triphosphate
+protein	STAT5
+protein	PTPN6
+protein	PLCG1
+protein	JAK2
+protein	HRAS
+protein	EPOR
+protein	EPO
+PTPN6	JAK2	-a|
+EPOR	EPO/EPO R/EPO R	component>
+EPO/EPO R	EPO/EPO R/EPO R	component>
+STAT5/STAT5	STAT5/STAT5	-a>
+EPO/EPO R/EPO R	SHC/GRB2/SOS-1	-a>
+EPOR	EPO/EPO R	component>
+EPO	EPO/EPO R	component>
+EPO/EPO R/EPO R	PTPN6	-a>
+EPO/EPO R/EPO R	STAT5	-a>
+EPO/EPO R/EPO R	JAK2	-a>
+STAT5	STAT5/STAT5	component>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+EPO/EPO R/EPO R	PLCG1	-a>

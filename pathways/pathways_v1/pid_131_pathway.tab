@@ -1,0 +1,161 @@
+protein	ARHGEF2
+protein	MAPK8IP1
+protein	MAP3K11
+protein	CDK5R1
+protein	LRP8
+protein	RAPGEF1
+protein	GRIN2B
+protein	GRIN2A
+protein	CDK5
+protein	VLDLR
+protein	RELN
+protein	RAP1A
+protein	GSK3B
+protein	MAP1B
+protein	CRKL
+protein	MAPK8
+protein	PAFAH1B1
+protein	PIK3CA
+protein	AKT1
+protein	LRPAP1
+protein	PIK3R1
+protein	ITGA3
+protein	MAPT
+protein	FYN
+protein	ITGB1
+protein	DAB1
+protein	NCK2
+protein	MAP2K7
+complex	alpha3/beta1 Integrin
+complex	RELN/VLDLR/Fyn
+complex	RELN/VLDLR/DAB1/P13K
+complex	RELN/VLDLR/DAB1/Fyn
+complex	RELN/VLDLR/DAB1
+complex	RELN/VLDLR
+complex	RELN/LRP8/Fyn
+complex	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1
+complex	RELN/LRP8/DAB1/Fyn
+complex	RELN/LRP8/DAB1
+complex	RELN/LRP8
+complex	PI3K
+complex	MAPK8IP1/MKK7/MAP3K11/JNK1
+complex	LRPAP1/LRP8
+complex	GRIN2B/RELN/LRP8/DAB1/Fyn
+complex	GRIN2A/RELN/LRP8/DAB1/Fyn
+complex	DAB1/alpha3/beta1 Integrin
+complex	DAB1/NCK2
+complex	DAB1/LIS1
+complex	DAB1/CRLK/C3G
+complex	CRLK/C3G
+complex	CDK5R1/CDK5
+chemical	mol:Src family inhibitors PP1 and PP2
+chemical	mol:PP2
+abstract	neuron migration
+abstract	neuron differentiation
+abstract	neuron adhesion
+abstract	long-term memory
+mol:Src family inhibitors PP1 and PP2	RELN/VLDLR/DAB1/Fyn	-a|
+mol:Src family inhibitors PP1 and PP2	RELN/VLDLR/DAB1	-a|
+mol:Src family inhibitors PP1 and PP2	RELN/LRP8/DAB1/Fyn	-a|
+mol:Src family inhibitors PP1 and PP2	RELN/LRP8/DAB1	-a|
+mol:PP2	RELN/VLDLR/DAB1/P13K	-a|
+ARHGEF2	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+ARHGEF2	MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+MAPK8IP1	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+MAPK8IP1	MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+MAP3K11	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+MAP3K11	MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+CDK5R1	CDK5R1/CDK5	component>
+LRP8	RELN/LRP8/Fyn	component>
+LRP8	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+LRP8	RELN/LRP8/DAB1/Fyn	component>
+LRP8	RELN/LRP8/DAB1	component>
+LRP8	RELN/LRP8	component>
+LRP8	LRPAP1/LRP8	component>
+LRP8	GRIN2B/RELN/LRP8/DAB1/Fyn	component>
+LRP8	GRIN2A/RELN/LRP8/DAB1/Fyn	component>
+RAPGEF1	DAB1/CRLK/C3G	component>
+RAPGEF1	CRLK/C3G	component>
+GRIN2B	GRIN2B/RELN/LRP8/DAB1/Fyn	component>
+GRIN2A	GRIN2A/RELN/LRP8/DAB1/Fyn	component>
+CDK5	CDK5R1/CDK5	component>
+VLDLR	RELN/VLDLR/Fyn	component>
+VLDLR	RELN/VLDLR/DAB1/P13K	component>
+VLDLR	RELN/VLDLR/DAB1/Fyn	component>
+VLDLR	RELN/VLDLR/DAB1	component>
+VLDLR	RELN/VLDLR	component>
+RELN	RELN/VLDLR/Fyn	component>
+RELN	RELN/VLDLR/DAB1/P13K	component>
+RELN	RELN/VLDLR/DAB1/Fyn	component>
+RELN	RELN/VLDLR/DAB1	component>
+RELN	RELN/VLDLR	component>
+RELN	RELN/LRP8/Fyn	component>
+RELN	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+RELN	RELN/LRP8/DAB1/Fyn	component>
+RELN	RELN/LRP8/DAB1	component>
+RELN	RELN/LRP8	component>
+RELN	GRIN2B/RELN/LRP8/DAB1/Fyn	component>
+RELN	GRIN2A/RELN/LRP8/DAB1/Fyn	component>
+RAP1A	neuron adhesion	-ap>
+GSK3B	MAPT	-a|
+CRKL	DAB1/CRLK/C3G	component>
+CRKL	CRLK/C3G	component>
+MAPK8	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+MAPK8	MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+PAFAH1B1	DAB1/LIS1	component>
+PIK3CA	RELN/VLDLR/DAB1/P13K	component>
+PIK3CA	PI3K	component>
+AKT1	GSK3B	-a>
+LRPAP1	LRPAP1/LRP8	component>
+PIK3R1	RELN/VLDLR/DAB1/P13K	component>
+PIK3R1	PI3K	component>
+ITGA3	alpha3/beta1 Integrin	component>
+ITGA3	DAB1/alpha3/beta1 Integrin	component>
+FYN	RELN/VLDLR/Fyn	component>
+FYN	RELN/VLDLR/DAB1/Fyn	component>
+FYN	RELN/LRP8/Fyn	component>
+FYN	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+FYN	RELN/LRP8/DAB1/Fyn	component>
+FYN	GRIN2B/RELN/LRP8/DAB1/Fyn	component>
+FYN	GRIN2A/RELN/LRP8/DAB1/Fyn	component>
+ITGB1	alpha3/beta1 Integrin	component>
+ITGB1	DAB1/alpha3/beta1 Integrin	component>
+DAB1	RELN/VLDLR/DAB1/P13K	component>
+DAB1	RELN/VLDLR/DAB1/Fyn	component>
+DAB1	RELN/VLDLR/DAB1	component>
+DAB1	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+DAB1	RELN/LRP8/DAB1/Fyn	component>
+DAB1	RELN/LRP8/DAB1	component>
+DAB1	GRIN2B/RELN/LRP8/DAB1/Fyn	component>
+DAB1	GRIN2A/RELN/LRP8/DAB1/Fyn	component>
+DAB1	DAB1/alpha3/beta1 Integrin	component>
+DAB1	DAB1/NCK2	component>
+DAB1	DAB1/LIS1	component>
+DAB1	DAB1/CRLK/C3G	component>
+NCK2	DAB1/NCK2	component>
+MAP2K7	RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+MAP2K7	MAPK8IP1/MKK7/MAP3K11/JNK1	component>
+RELN/VLDLR/DAB1/P13K	neuron migration	-ap>
+RELN/VLDLR/DAB1/P13K	AKT1	-a>
+RELN/VLDLR/DAB1/Fyn	neuron migration	-ap>
+RELN/VLDLR/DAB1	MAP1B	-a>
+RELN/VLDLR	DAB1/alpha3/beta1 Integrin	-a>
+RELN/VLDLR	DAB1/NCK2	-a>
+RELN/VLDLR	DAB1/LIS1	-a>
+RELN/VLDLR	DAB1/CRLK/C3G	-a>
+RELN/LRP8/DAB1/Fyn/MAPK8IP1/MKK7/MAP3K11/JNK1	neuron differentiation	-ap>
+RELN/LRP8/DAB1/Fyn	neuron migration	-ap>
+RELN/LRP8/DAB1	MAP1B	-a>
+RELN/LRP8	DAB1/alpha3/beta1 Integrin	-a>
+RELN/LRP8	DAB1/NCK2	-a>
+RELN/LRP8	DAB1/CRLK/C3G	-a>
+LRPAP1/LRP8	RELN/VLDLR	-a|
+LRPAP1/LRP8	RELN/LRP8	-a|
+GRIN2B/RELN/LRP8/DAB1/Fyn	long-term memory	-ap>
+GRIN2A/RELN/LRP8/DAB1/Fyn	long-term memory	-ap>
+DAB1/alpha3/beta1 Integrin	neuron migration	-ap|
+DAB1/alpha3/beta1 Integrin	neuron adhesion	-ap>
+DAB1/NCK2	neuron migration	-ap>
+DAB1/LIS1	neuron migration	-ap>
+DAB1/CRLK/C3G	RAP1A	-a>
+CDK5R1/CDK5	neuron migration	-ap>

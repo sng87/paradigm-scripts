@@ -1,0 +1,25 @@
+complex	p21 RAS:GTP
+complex	EGF:Phospho-EGFR:Phospho-SHC
+complex	p21 RAS:GDP
+complex	EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer
+complex	GRB2:SOS-Phospho-SHC:EGF:Phospho-EGFR dimer
+complex	EGF:Phospho-EGFR-SHC
+complex	GRB2:SOS
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SHC1
+GRB2:SOS-Phospho-SHC:EGF:Phospho-EGFR dimer	GDP	-a>
+ATP	EGF:Phospho-EGFR:Phospho-SHC	-a>
+ATP	ADP	-a>
+EGF:Phospho-EGFR-SHC	EGF:Phospho-EGFR:Phospho-SHC	-a>
+EGF:Phospho-EGFR-SHC	ADP	-a>
+SHC1	EGF:Phospho-EGFR-SHC	component>
+EGF:Phospho-EGFR (Y992, Y1068, Y1086, Y1148, Y1173) dimer	EGF:Phospho-EGFR-SHC	component>
+GTP	p21 RAS:GTP	-a>
+GTP	GDP	-a>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	GDP	-a>
+GRB2:SOS	GRB2:SOS-Phospho-SHC:EGF:Phospho-EGFR dimer	component>
+EGF:Phospho-EGFR:Phospho-SHC	GRB2:SOS-Phospho-SHC:EGF:Phospho-EGFR dimer	component>

@@ -1,0 +1,27 @@
+complex	RanGAP/RanBP1/RanBP2
+complex	Ran/GTP/Exportin/RNA strand
+complex	Ran/GDP/Cargo/Importin
+protein	Importin
+complex	Ran/GDP
+protein	Exportin
+protein	Cargo
+rna	RNA strand
+complex	Ran/GTP
+complex	NPC
+protein	RCC1
+RCC1	Cargo	component>
+RanGAP/RanBP1/RanBP2	Ran/GDP	component>
+RNA strand	Ran/GTP/Exportin/RNA strand	component>
+Exportin	Ran/GTP/Exportin/RNA strand	component>
+Ran/GTP	Ran/GTP/Exportin/RNA strand	component>
+NPC	Ran/GTP/Exportin/RNA strand	-a>
+Ran/GDP/Cargo/Importin	Ran/GTP	component>
+Ran/GDP/Cargo/Importin	Importin	component>
+Ran/GDP/Cargo/Importin	Cargo	component>
+NPC	Ran/GDP/Cargo/Importin	-a>
+Importin	Ran/GDP/Cargo/Importin	component>
+Cargo	Ran/GDP/Cargo/Importin	component>
+Ran/GDP	Ran/GDP/Cargo/Importin	component>
+Ran/GTP/Exportin/RNA strand	RNA strand	component>
+Ran/GTP/Exportin/RNA strand	Exportin	component>
+Ran/GTP/Exportin/RNA strand	Ran/GDP	component>

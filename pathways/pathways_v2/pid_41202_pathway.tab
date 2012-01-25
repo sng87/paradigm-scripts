@@ -1,0 +1,41 @@
+complex	PAK homodimer
+complex	pLIMK-1 bound to Plexin1:Sema3A complex
+complex	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP
+complex	Sema3A:Nrp-1:PlexinA:Rac1-GTP:pPAK
+complex	Active LIMK dimer bound to Plexin-1:Sema3A complex
+protein	HSP-90
+complex	pLIMK dimer:HSP-90 bound to Plexin-1:Sema3A complex
+complex	pCofilin bound to pLIMK-1:Plexin1:Sema3A
+protein	PAK
+complex	Sema3A:Nrp-1:PlexinA:Rac1-GTP:PAK
+smallMolecule	ATP
+smallMolecule	ADP
+protein	LIMK1
+protein	CFL1
+pLIMK-1 bound to Plexin1:Sema3A complex	pCofilin bound to pLIMK-1:Plexin1:Sema3A	component>
+pLIMK-1 bound to Plexin1:Sema3A complex	ADP	component>
+ATP	pCofilin bound to pLIMK-1:Plexin1:Sema3A	component>
+CFL1	pCofilin bound to pLIMK-1:Plexin1:Sema3A	component>
+CFL1	ADP	component>
+pLIMK-1 bound to Plexin1:Sema3A complex	pLIMK dimer:HSP-90 bound to Plexin-1:Sema3A complex	component>
+LIMK1	pLIMK dimer:HSP-90 bound to Plexin-1:Sema3A complex	component>
+HSP-90	pLIMK dimer:HSP-90 bound to Plexin-1:Sema3A complex	component>
+pLIMK dimer:HSP-90 bound to Plexin-1:Sema3A complex	Active LIMK dimer bound to Plexin-1:Sema3A complex	component>
+pLIMK dimer:HSP-90 bound to Plexin-1:Sema3A complex	ADP	component>
+pLIMK dimer:HSP-90 bound to Plexin-1:Sema3A complex	HSP-90	component>
+ATP	Active LIMK dimer bound to Plexin-1:Sema3A complex	component>
+ATP	HSP-90	component>
+Sema3A:Nrp-1:PlexinA:Rac1-GTP:pPAK	ADP	component>
+Sema3A:Nrp-1:PlexinA:Rac1-GTP:pPAK	pLIMK-1 bound to Plexin1:Sema3A complex	component>
+ATP	ADP	component>
+ATP	pLIMK-1 bound to Plexin1:Sema3A complex	component>
+LIMK1	ADP	component>
+LIMK1	pLIMK-1 bound to Plexin1:Sema3A complex	component>
+Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP	Sema3A:Nrp-1:PlexinA:Rac1-GTP:PAK	component>
+Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP	PAK	component>
+PAK homodimer	Sema3A:Nrp-1:PlexinA:Rac1-GTP:PAK	component>
+PAK homodimer	PAK	component>
+Sema3A:Nrp-1:PlexinA:Rac1-GTP:PAK	ADP	-a>
+Sema3A:Nrp-1:PlexinA:Rac1-GTP:PAK	Sema3A:Nrp-1:PlexinA:Rac1-GTP:pPAK	-a>
+ATP	ADP	-a>
+ATP	Sema3A:Nrp-1:PlexinA:Rac1-GTP:pPAK	-a>

@@ -1,0 +1,227 @@
+protein	MAP3K5
+protein	RANBP9
+protein	SH3KBP1
+protein	GLMN
+protein	BAD
+protein	MAP4K1
+protein	RANBP10
+protein	PTK2B
+protein	DOCK1
+protein	RAPGEF1
+protein	GAB1
+protein	PAK1
+protein	PTPRJ
+protein	SOS1
+protein	PTPN11
+protein	PTK2
+protein	MAP2K1
+protein	GRB2
+protein	RAP1A
+protein	RAP1B
+protein	PTEN
+protein	PXN
+protein	CRKL
+protein	CRK
+protein	MAP2K4
+protein	MAPK8
+protein	PIK3CA
+protein	STAT3
+protein	MAP2K2
+protein	AKT1
+protein	SHC1
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	RPS6KB1
+protein	CBL
+protein	RASA1
+protein	ELK1
+protein	PLCG1
+protein	NCK1
+protein	HGF
+protein	SRC
+protein	MET
+protein	JUN
+protein	RAF1
+protein	HRAS
+protein	FOS
+protein	PDPK1
+protein	INPPL1
+protein	HGS
+protein	INPP5D
+protein	GO:0007205
+protein	EntrezGene:200958
+complex	STAT3 (dimer)
+complex	SHP2/GRB2/SOS1GAB1
+complex	SHP2/GRB2/SOS1/GAB1
+complex	PLCgamma1/PKC
+complex	PI3K
+complex	NCK/PLCgamma1
+complex	MET/RANBP9
+complex	MET/RANBP10
+complex	MET/MUC20
+complex	MET/Glomulin
+complex	HGF/MET/SHIP2
+complex	HGF/MET/SHIP
+complex	HGF/MET/RANBP9
+complex	HGF/MET/RANBP10
+complex	HGF/MET/Paxillin/FAK1/FAK12/RasGAP
+complex	HGF/MET/MUC20
+complex	HGF/MET/CIN85/CBL/ENDOPHILINS
+complex	HGF/MET
+complex	GRB2/SHC
+complex	GAB1/CRKL/SHP2/PI3K
+complex	CBL/CRK
+complex	AP1
+chemical	mol:SU5416
+chemical	mol:SU11274
+chemical	mol:PIP3
+chemical	mol:PHA665752
+chemical	mol:GDP
+abstract	cell proliferation
+abstract	cell motility
+abstract	cell morphogenesis
+abstract	cell migration
+abstract	apoptosis
+mol:SU5416	GLMN	-a|
+mol:SU5416	HGF/MET	-a|
+mol:SU11274	GLMN	-a|
+mol:SU11274	HGF/MET	-a|
+mol:PIP3	PDPK1	-a>
+mol:PHA665752	GLMN	-a|
+mol:PHA665752	HGF/MET	-a|
+MAP3K5	MAP2K4	-a>
+RANBP9	MET/RANBP9	component>
+RANBP9	HGF/MET/RANBP9	component>
+SH3KBP1	HGF/MET/CIN85/CBL/ENDOPHILINS	component>
+GLMN	RPS6KB1	-a>
+GLMN	MET/Glomulin	component>
+MAP4K1	MAP3K5	-a>
+RANBP10	MET/RANBP10	component>
+RANBP10	HGF/MET/RANBP10	component>
+PTK2B	HGF/MET/Paxillin/FAK1/FAK12/RasGAP	component>
+RAPGEF1	RAP1A	-a>
+RAPGEF1	RAP1B	-a>
+GAB1	mol:PIP3	-a|
+GAB1	CRKL	-a>
+GAB1	CRK	-a>
+GAB1	SHP2/GRB2/SOS1GAB1	component>
+GAB1	SHP2/GRB2/SOS1/GAB1	component>
+GAB1	GAB1/CRKL/SHP2/PI3K	component>
+PAK1	apoptosis	-ap|
+PTPRJ	HGF/MET	-a>
+SOS1	SHP2/GRB2/SOS1GAB1	component>
+SOS1	SHP2/GRB2/SOS1/GAB1	component>
+PTPN11	SHP2/GRB2/SOS1GAB1	component>
+PTPN11	SHP2/GRB2/SOS1/GAB1	component>
+PTPN11	GAB1/CRKL/SHP2/PI3K	component>
+PTK2	HGF/MET/Paxillin/FAK1/FAK12/RasGAP	component>
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+GRB2	SHP2/GRB2/SOS1GAB1	component>
+GRB2	SHP2/GRB2/SOS1/GAB1	component>
+GRB2	GRB2/SHC	component>
+RAP1A	MAPK1	-a>
+RAP1A	MAPK3	-a>
+RAP1B	MAPK1	-a>
+RAP1B	MAPK3	-a>
+PTEN	mol:PIP3	-a|
+PXN	HGF/MET/Paxillin/FAK1/FAK12/RasGAP	component>
+CRKL	MAP4K1	-a>
+CRKL	DOCK1	-a>
+CRKL	RAPGEF1	-a>
+CRKL	GAB1/CRKL/SHP2/PI3K	component>
+CRK	CBL/CRK	component>
+MAP2K4	MAPK8	-a>
+MAPK8	apoptosis	-ap>
+PIK3CA	PI3K	component>
+PIK3CA	GAB1/CRKL/SHP2/PI3K	component>
+STAT3	STAT3 (dimer)	component>
+MAP2K2	MAPK1	-a>
+MAP2K2	MAPK3	-a>
+AKT1	BAD	-a>
+AKT1	PAK1	-a>
+SHC1	GRB2/SHC	component>
+MAPK1	ELK1	-a>
+MAPK1	AP1	-a>
+PIK3R1	PI3K	component>
+PIK3R1	GAB1/CRKL/SHP2/PI3K	component>
+MAPK3	ELK1	-a>
+MAPK3	AP1	-a>
+CBL	HGF/MET/CIN85/CBL/ENDOPHILINS	component>
+CBL	CBL/CRK	component>
+RASA1	HGF/MET/Paxillin/FAK1/FAK12/RasGAP	component>
+ELK1	cell motility	-ap>
+PLCG1	PLCgamma1/PKC	component>
+PLCG1	NCK/PLCgamma1	component>
+NCK1	NCK/PLCgamma1	component>
+HGF	HGF/MET/SHIP2	component>
+HGF	HGF/MET/SHIP	component>
+HGF	HGF/MET/RANBP9	component>
+HGF	HGF/MET/RANBP10	component>
+HGF	HGF/MET/Paxillin/FAK1/FAK12/RasGAP	component>
+HGF	HGF/MET/MUC20	component>
+HGF	HGF/MET/CIN85/CBL/ENDOPHILINS	component>
+HGF	HGF/MET	component>
+SRC	GAB1	-a>
+SRC	STAT3	-a>
+MET	MET/RANBP9	component>
+MET	MET/RANBP10	component>
+MET	MET/MUC20	component>
+MET	MET/Glomulin	component>
+MET	HGF/MET/SHIP2	component>
+MET	HGF/MET/SHIP	component>
+MET	HGF/MET/RANBP9	component>
+MET	HGF/MET/RANBP10	component>
+MET	HGF/MET/Paxillin/FAK1/FAK12/RasGAP	component>
+MET	HGF/MET/MUC20	component>
+MET	HGF/MET/CIN85/CBL/ENDOPHILINS	component>
+MET	HGF/MET	component>
+JUN	AP1	component>
+RAF1	MAP2K1	-a>
+RAF1	MAP2K2	-a>
+HRAS	RAF1	-a>
+FOS	AP1	component>
+PDPK1	AKT1	-a>
+INPPL1	HGF/MET/SHIP2	component>
+INPP5D	HGF/MET/SHIP	component>
+STAT3 (dimer)	cell proliferation	-ap>
+STAT3 (dimer)	cell morphogenesis	-ap>
+SHP2/GRB2/SOS1GAB1	mol:GDP	-a>
+SHP2/GRB2/SOS1GAB1	HRAS	-a>
+PLCgamma1/PKC	GLMN	-a|
+PLCgamma1/PKC	HGF/MET	-a|
+PI3K	mol:PIP3	-a>
+MET/RANBP9	mol:GDP	-a>
+MET/RANBP9	MAPK1	-a|
+MET/RANBP9	MAPK3	-a|
+MET/RANBP9	HRAS	-a>
+MET/RANBP10	MAPK1	-a|
+MET/RANBP10	MAPK3	-a|
+MET/MUC20	SHP2/GRB2/SOS1GAB1	-a|
+MET/MUC20	SHP2/GRB2/SOS1/GAB1	-a|
+HGF/MET/RANBP9	mol:GDP	-a>
+HGF/MET/RANBP9	MAPK1	-a|
+HGF/MET/RANBP9	MAPK3	-a|
+HGF/MET/RANBP9	HRAS	-a>
+HGF/MET/RANBP10	MAPK1	-a|
+HGF/MET/RANBP10	MAPK3	-a|
+HGF/MET/Paxillin/FAK1/FAK12/RasGAP	STAT3	-a>
+HGF/MET/Paxillin/FAK1/FAK12/RasGAP	SRC	-a>
+HGF/MET/MUC20	SHP2/GRB2/SOS1GAB1	-a|
+HGF/MET	GAB1	-a>
+HGF/MET	RPS6KB1	-a>
+HGF/MET	HGS	-a>
+HGF/MET	SHP2/GRB2/SOS1GAB1	-a>
+HGF/MET	PI3K	-a>
+HGF/MET	NCK/PLCgamma1	-a>
+HGF/MET	GRB2/SHC	-a>
+GRB2/SHC	cell proliferation	-ap>
+GRB2/SHC	cell migration	-ap>
+GO:0007205	PLCgamma1/PKC	component>
+GAB1/CRKL/SHP2/PI3K	cell morphogenesis	-ap>
+GAB1/CRKL/SHP2/PI3K	MAPK8	-a>
+EntrezGene:200958	MET/MUC20	component>
+EntrezGene:200958	HGF/MET/MUC20	component>
+CBL/CRK	MAP4K1	-a>
+AP1	apoptosis	-ap>

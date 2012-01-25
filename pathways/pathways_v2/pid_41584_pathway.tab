@@ -1,0 +1,75 @@
+complex	p21 RAS:GTP
+complex	p21 RAS:GDP
+complex	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G
+complex	PDGF:Phospho-PDGF receptor dimer:PI3K
+complex	PDGF:Phospho-PDGF receptor dimer:SHP2
+complex	PDGF:Phospho-PDGF receptor dimer:Src
+complex	PDGF:Phospho-PDGF receptor dimer:PLC-gamma
+complex	PDGF dimer:phosho PDGF beta receptor homodier
+complex	Phospho-beta receptor homodimer:GAP
+complex	PDGF:Phospho-PDGF receptor dimer:Crk
+complex	PDGF:Phospho-PDGF receptor dimer:phospho-Src
+complex	PDGF:phospho-PDGF receptor dimer:STAT
+smallMolecule	H2O
+protein	UniProt:P56945 BCAR1
+smallMolecule	PIP2
+complex	PDGF:Phospho-PDGF receptor dimer:Grb7
+complex	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1
+protein	UniProt:P12931-1 SRC_subunit_2_536_2-536
+complex	PDGF:Phospho-PDGFR receptor dimer:Nck
+protein	UniProt:Q06124 PTPN11_subunit_1_597_1-597
+complex	PDGF:Phospho-PDGF receptor dimer
+smallMolecule	diacylglycerols
+protein	UniProt:Q13905-1 RAPGEF1
+complex	GRB2:SOS
+smallMolecule	ATP
+smallMolecule	ADP
+protein	NCK
+complex	PI3K
+smallMolecule	IP3
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RASA1
+protein	PLCG1
+protein	GRB7
+PDGF:Phospho-PDGF receptor dimer:PI3K	PIP3	-a>
+PDGF:Phospho-PDGF receptor dimer:PLC-gamma	IP3	-a>
+UniProt:P12931-1 SRC_subunit_2_536_2-536	PDGF:Phospho-PDGF receptor dimer:phospho-Src	-a>
+PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1	p21 RAS:GTP	-a>
+PIP2	ADP	-a>
+PIP2	PIP3	-a>
+ATP	PIP3	-a>
+UniProt:P12931-1 SRC_subunit_2_536_2-536	PDGF:Phospho-PDGF receptor dimer:Src	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Src	component>
+PIP2	diacylglycerols	-a>
+PIP2	IP3	-a>
+H2O	diacylglycerols	-a>
+H2O	IP3	-a>
+PDGF:Phospho-PDGF receptor dimer	PDGF:phospho-PDGF receptor dimer:STAT	-a>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:PLC-gamma	component>
+PLCG1	PDGF:Phospho-PDGF receptor dimer:PLC-gamma	component>
+RASA1	Phospho-beta receptor homodimer:GAP	component>
+PDGF dimer:phosho PDGF beta receptor homodier	Phospho-beta receptor homodimer:GAP	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1	component>
+GRB2:SOS	PDGF:Phospho-PDGF receptor dimer:Grb2:Sos1	component>
+GRB7	PDGF:Phospho-PDGF receptor dimer:Grb7	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Grb7	component>
+ATP	ADP	-a>
+ATP	PDGF:Phospho-PDGF receptor dimer:phospho-Src	-a>
+PDGF:Phospho-PDGF receptor dimer:Src	ADP	-a>
+PDGF:Phospho-PDGF receptor dimer:Src	PDGF:Phospho-PDGF receptor dimer:phospho-Src	-a>
+PI3K	PDGF:Phospho-PDGF receptor dimer:PI3K	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:PI3K	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGFR receptor dimer:Nck	component>
+NCK	PDGF:Phospho-PDGFR receptor dimer:Nck	component>
+p21 RAS:GDP	GDP	-a>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+GTP	GDP	-a>
+GTP	p21 RAS:GTP	-a>
+UniProt:P56945 BCAR1	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G	component>
+UniProt:Q13905-1 RAPGEF1	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G	component>
+PDGF:Phospho-PDGF receptor dimer:Crk	PDGF:Phospho-PDGF receptor dimer:Crk:p130Cas:C3G	component>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:Crk	-a>
+PDGF:Phospho-PDGF receptor dimer	PDGF:Phospho-PDGF receptor dimer:SHP2	component>
+UniProt:Q06124 PTPN11_subunit_1_597_1-597	PDGF:Phospho-PDGF receptor dimer:SHP2	component>

@@ -1,0 +1,46 @@
+smallMolecule	L-Cysteine
+complex	PPCDC homotrimer (FMN cofactor)
+smallMolecule	CoA
+complex	PPC synthase homodimer
+smallMolecule	Phosphopantetheine
+protein	PANK1;3;4
+smallMolecule	CO2
+smallMolecule	(R)-4'-Phosphopantothenoyl-L-cysteine
+smallMolecule	Dephospho-CoA
+smallMolecule	D-4'-Phosphopantothenate
+protein	UniProt:P16260 SLC25A16_subunit_1_332_1-332
+smallMolecule	Pantothenate
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PANK2
+protein	COASY
+PPCDC homotrimer (FMN cofactor)	CO2	-a>
+COASY	PPi	-a>
+PANK1;3;4	ADP	-a>
+PPC synthase homodimer	PPi	-a>
+PANK2	D-4'-Phosphopantothenate	-a>
+COASY	ADP	-a>
+(R)-4'-Phosphopantothenoyl-L-cysteine	Phosphopantetheine	-a>
+(R)-4'-Phosphopantothenoyl-L-cysteine	CO2	-a>
+ATP	Dephospho-CoA	-a>
+Phosphopantetheine	Dephospho-CoA	-a>
+Phosphopantetheine	PPi	-a>
+D-4'-Phosphopantothenate	(R)-4'-Phosphopantothenoyl-L-cysteine	-a>
+D-4'-Phosphopantothenate	AMP	-a>
+D-4'-Phosphopantothenate	PPi	-a>
+ATP	(R)-4'-Phosphopantothenoyl-L-cysteine	-a>
+ATP	AMP	-a>
+ATP	PPi	-a>
+L-Cysteine	(R)-4'-Phosphopantothenoyl-L-cysteine	-a>
+L-Cysteine	AMP	-a>
+L-Cysteine	PPi	-a>
+Pantothenate	ADP	-a>
+Pantothenate	D-4'-Phosphopantothenate	-a>
+ATP	D-4'-Phosphopantothenate	-a>
+Dephospho-CoA	CoA	-a>
+Dephospho-CoA	ADP	-a>
+ATP	CoA	-a>
+ATP	ADP	-a>
+UniProt:P16260 SLC25A16_subunit_1_332_1-332	CoA	-a>

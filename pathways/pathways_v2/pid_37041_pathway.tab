@@ -1,0 +1,148 @@
+abstract	Plasma Cell Myeloma
+abstract	macrophage differentiation
+abstract	Macrophage
+abstract	bone resorption
+abstract	cell cycle arrest
+abstract	cell survival
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	MAPKKK cascade
+complex	STAT3 (dimer)/FOXO1
+complex	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4
+complex	STAT3 (dimer)
+complex	gp130 (dimer)/JAK1/JAK1/LMO4
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3
+complex	STAT3 (dimer)/PIAS3
+complex	GRB2/SOS1/GAB family
+complex	IL6/IL6RA
+complex	RAC1/GDP
+complex	GRB2/SOS1/GAB family/SHP2/PI3K
+complex	PIAS3/MITF
+complex	PAK1
+complex	AP1
+protein	p38alpha-beta-active
+protein	BCL-XL
+protein	nPKC-delta
+complex	STAT1/PIAS1
+complex	GRB2/SOS1/GAB family/SHP2
+complex	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4
+protein	p38alpha-beta
+complex	PI3K
+complex	gp130 (dimer)/JAK2/JAK2/LMO4
+complex	gp130 (dimer)/TYK2/TYK2/LMO4
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK
+protein	SHP2
+protein	PTPEC
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV1
+protein	TNFSF11
+protein	TIMP1
+protein	STAT3
+protein	STAT1
+protein	SOCS3
+protein	PIAS1
+protein	MYC
+protein	MITF
+protein	MCL1
+protein	MAP2K6
+protein	MAP2K4
+protein	LBP
+protein	JUNB
+protein	IRF1
+protein	IL6R
+protein	IL6
+protein	HSP90B1
+protein	HCK
+protein	FOXO1
+protein	FGG
+protein	CRP
+protein	CEBPD
+protein	CEBPB
+protein	AKT1
+protein	A2M
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	STAT3	-a|
+nPKC-delta	STAT3	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3 (dimer)/FOXO1	component>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	GRB2/SOS1/GAB family	-a>
+STAT3 (dimer)	BCL-XL	-t>
+PTPEC	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+GRB2/SOS1/GAB family/SHP2	A2M	-t|
+CEBPB	HSP90B1	-t>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	SHP2	-a|
+STAT3 (dimer)	cell cycle arrest	-ap>
+Macrophage	cell cycle arrest	-ap>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT1/PIAS1	component>
+PTPEC	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+VAV1	PAK1	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	STAT1	-a|
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3 (dimer)/PIAS3	component>
+STAT3 (dimer)	JUNB	-t>
+AP1	TIMP1	-t>
+CEBPB	LBP	-t>
+AP1	LBP	-t>
+MAP2K6	p38alpha-beta-active	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	GRB2/SOS1/GAB family/SHP2	component>
+PI3K	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+GRB2/SOS1/GAB family/SHP2	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3	-a>
+STAT3 (dimer)	MYC	-t>
+STAT3 (dimer)	TNFSF11	-t>
+TNFSF11	bone resorption	-ap>
+FOXO1	STAT3 (dimer)/FOXO1	component>
+STAT3 (dimer)	STAT3 (dimer)/FOXO1	component>
+GRB2/SOS1/GAB family	GRB2/SOS1/GAB family	-a>
+Plasma Cell Myeloma	BCL-XL	-t>
+MAP2K4	nPKC-delta	-a>
+gp130 (dimer)/JAK1/JAK1/LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IL6/IL6RA	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+STAT3 (dimer)/FOXO1	A2M	-t>
+IL6R	IL6/IL6RA	component>
+IL6	IL6/IL6RA	component>
+STAT3 (dimer)	macrophage differentiation	-ap>
+GRB2/SOS1/GAB family/SHP2/PI3K	MAPKKK cascade	-ap>
+STAT3 (dimer)	HSP90B1	-t>
+STAT3 (dimer)	cell survival	-ap>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	SHP2	-a>
+STAT3 (dimer)	CEBPD	-t>
+FOXO1	cell cycle arrest	-ap>
+PIAS1	STAT1/PIAS1	component>
+STAT1	STAT1/PIAS1	component>
+GRB2/SOS1/GAB family/SHP2/PI3K	AKT1	-a>
+gp130 (dimer)/TYK2/TYK2/LMO4	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6/IL6RA	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+p38alpha-beta-active	SOCS3	-t>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT1	-a>
+gp130 (dimer)/JAK2/JAK2/LMO4	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+IL6/IL6RA	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+PIAS3/MITF	MITF	component>
+PIAS3/MITF	STAT3 (dimer)/PIAS3	component>
+STAT3 (dimer)	MITF	component>
+STAT3 (dimer)	STAT3 (dimer)/PIAS3	component>
+positive regulation of NF-kappaB transcription factor activity	JUNB	-t>
+SOCS3	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+PAK1	MAP2K4	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	MAP2K6	-a>
+HCK	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+STAT3 (dimer)	TIMP1	-t>
+STAT3	STAT3 (dimer)	component>
+MCL1	cell survival	-ap>
+GRB2/SOS1/GAB family/SHP2	MAPKKK cascade	-ap>
+MAPKKK cascade	AP1	-a>
+STAT3 (dimer)	LBP	-t>
+AKT1	FOXO1	-a>
+FOXO1	FOXO1	-a>
+p38alpha-beta	p38alpha-beta-active	-a>
+AKT1	MCL1	-t>
+STAT3 (dimer)	FGG	-t>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	VAV1	-a>
+STAT3 (dimer)	CRP	-t>
+STAT3 (dimer)	IRF1	-t>
+GRB2/SOS1/GAB family	GRB2/SOS1/GAB family/SHP2	component>
+SHP2	GRB2/SOS1/GAB family/SHP2	component>

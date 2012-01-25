@@ -1,0 +1,64 @@
+protein	SREBF1 (cleaved)_0-0
+complex	ICAD/CAD
+protein	CASP7_0-0
+protein	CASP3_0-0
+complex	Lamin A/C/Lamin B1/Lamin B2
+protein	ADPRT (cleaved)_0-0
+protein	CASP10_0-0
+complex	XIAP/cIAP1/cIAP
+protein	CASP6_0-0
+protein	CASP1_0-0
+complex	Lamin A/C/Lamin B1/Lamin B2 (cleaved)
+protein	CASP8_0-0
+abstract	degradation
+complex	APAF-1/Caspase 9
+protein	AP-24
+protein	crmA
+protein	AP-24 (cleaved)_0-0
+protein	SREBF1
+protein	PRF1
+protein	PARP1
+protein	GZMB
+protein	DFFB
+protein	CASP8
+protein	CASP7
+protein	CASP6
+protein	CASP4
+protein	CASP3
+protein	CASP2
+protein	CASP10
+protein	CASP1
+protein	ARHGDIB
+APAF-1/Caspase 9	CASP7_0-0	-a>
+CASP3_0-0	AP-24 (cleaved)_0-0	-a>
+CASP1_0-0	CASP3_0-0	-a>
+CASP4	CASP1_0-0	-a>
+CASP3_0-0	ADPRT (cleaved)_0-0	-a>
+CASP3_0-0	SREBF1 (cleaved)_0-0	-a>
+GZMB	CASP3_0-0	-a>
+CASP3_0-0	CASP6_0-0	-a>
+CASP6_0-0	Lamin A/C/Lamin B1/Lamin B2 (cleaved)	-a>
+CASP10_0-0	CASP3_0-0	-a>
+GZMB	CASP10_0-0	-a>
+CASP2	Lamin A/C/Lamin B1/Lamin B2 (cleaved)	-a>
+CASP8_0-0	CASP3_0-0	-a>
+GZMB	CASP7_0-0	-a>
+CASP3_0-0	degradation	-ap>
+AP-24	AP-24 (cleaved)_0-0	-a>
+crmA	CASP8	-a>
+CASP1	CASP1_0-0	-a>
+PARP1	ADPRT (cleaved)_0-0	-a>
+PRF1	GZMB	-a>
+SREBF1	SREBF1 (cleaved)_0-0	-a>
+XIAP/cIAP1/cIAP	APAF-1/Caspase 9	-a>
+CASP6	CASP6_0-0	-a>
+XIAP/cIAP1/cIAP	CASP7	-a>
+CASP10	CASP10_0-0	-a>
+Lamin A/C/Lamin B1/Lamin B2	Lamin A/C/Lamin B1/Lamin B2 (cleaved)	-a>
+CASP3	CASP3_0-0	-a>
+XIAP/cIAP1/cIAP	CASP3	-a>
+crmA	CASP1	-a>
+CASP7	CASP7_0-0	-a>
+CASP3_0-0	ARHGDIB	-a>
+DFFB	degradation	-ap>
+ICAD/CAD	degradation	-ap>

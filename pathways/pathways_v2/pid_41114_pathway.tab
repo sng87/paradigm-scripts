@@ -1,0 +1,28 @@
+smallMolecule	Arachidonate
+smallMolecule	Lauric acid
+smallMolecule	TPNH
+smallMolecule	12-Hydroxydodecanoic acid
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	H+
+smallMolecule	O2
+protein	CYP4F12
+protein	CYP4B1
+protein	CYP4A11
+CYP4A11	12-Hydroxydodecanoic acid	-a>
+CYP4B1	TPN	-a>
+CYP4F12	H2O	-a>
+Lauric acid	TPN	-a>
+Lauric acid	H2O	-a>
+Lauric acid	12-Hydroxydodecanoic acid	-a>
+TPNH	12-Hydroxydodecanoic acid	-a>
+O2	12-Hydroxydodecanoic acid	-a>
+H+	12-Hydroxydodecanoic acid	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+TPNH	TPN	-a>
+TPNH	H2O	-a>
+H+	TPN	-a>
+H+	H2O	-a>
+Arachidonate	TPN	-a>
+Arachidonate	H2O	-a>

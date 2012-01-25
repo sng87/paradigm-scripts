@@ -1,0 +1,67 @@
+complex	MTP:PDI:lipid complex
+complex	chylomicron remnant:apoE complex
+complex	spherical HDL
+complex	spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III
+complex	nascent chylomicron
+complex	chylomicron remnant:apoE:LDLR complex
+complex	ApoB-48:TG:PL complex
+complex	spherical HDL:apoC-II:apoC-III:apoE
+complex	chylomicron remnant
+complex	chylomicron
+smallMolecule	long-chain fatty acids
+complex	HSPG-bound lipoprotein lipase
+smallMolecule	diacylglycerols
+protein	UniProt:P04114 APOB_subunit_28_2179_28-2179
+smallMolecule	phospholipids
+smallMolecule	triacylglycerols
+smallMolecule	cholesterol esters
+smallMolecule	Cholesterol
+protein	SAR1B
+protein	LIPC
+protein	LDLRAP1
+protein	LDLR
+protein	APOE
+protein	APOC3
+protein	APOC2
+protein	APOA5
+protein	APOA4
+protein	APOA2
+protein	APOA1
+LIPC	chylomicron remnant:apoE:LDLR complex	component>
+MTP:PDI:lipid complex	ApoB-48:TG:PL complex	component>
+APOC3	long-chain fatty acids	-a|
+APOC2	long-chain fatty acids	-a>
+APOA5	long-chain fatty acids	-a>
+HSPG-bound lipoprotein lipase	long-chain fatty acids	-a>
+MTP:PDI:lipid complex	nascent chylomicron	component>
+SAR1B	nascent chylomicron	-a>
+LDLRAP1	chylomicron remnant:apoE:LDLR complex	-a>
+chylomicron remnant:apoE complex	chylomicron remnant:apoE:LDLR complex	component>
+LDLR	chylomicron remnant:apoE:LDLR complex	component>
+chylomicron remnant	chylomicron remnant:apoE complex	component>
+APOE	chylomicron remnant:apoE complex	component>
+chylomicron	chylomicron remnant	-a>
+chylomicron	spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	-a>
+spherical HDL	chylomicron remnant	-a>
+spherical HDL	spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	-a>
+nascent chylomicron	spherical HDL	-a>
+nascent chylomicron	chylomicron	-a>
+spherical HDL:apoC-II:apoC-III:apoE	spherical HDL	-a>
+spherical HDL:apoC-II:apoC-III:apoE	chylomicron	-a>
+phospholipids	ApoB-48:TG:PL complex	component>
+triacylglycerols	ApoB-48:TG:PL complex	component>
+UniProt:P04114 APOB_subunit_28_2179_28-2179	ApoB-48:TG:PL complex	component>
+chylomicron	chylomicron	-a>
+chylomicron	diacylglycerols	-a>
+chylomicron	long-chain fatty acids	-a>
+triacylglycerols	nascent chylomicron	component>
+cholesterol esters	nascent chylomicron	component>
+APOA1	nascent chylomicron	component>
+APOA2	nascent chylomicron	component>
+ApoB-48:TG:PL complex	nascent chylomicron	component>
+APOA4	nascent chylomicron	component>
+Cholesterol	nascent chylomicron	component>
+nascent chylomicron	nascent chylomicron	-a>
+chylomicron remnant:apoE:LDLR complex	chylomicron remnant:apoE:LDLR complex	-a>
+chylomicron remnant:apoE:LDLR complex	LDLR	component>
+chylomicron remnant:apoE:LDLR complex	chylomicron remnant:apoE complex	component>

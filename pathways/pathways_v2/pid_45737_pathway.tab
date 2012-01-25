@@ -1,0 +1,25 @@
+complex	ubiquitin/p27
+complex	E2F-1/DP-1
+complex	Cyclin E/CDK2
+complex	SKP2/SKP1/CKS-1/CUL1/Roc1/NEDD8/UBE2M
+complex	RB/E2F-1
+abstract	protein ubiquitination
+protein	TFDP1
+protein	RB1
+protein	E2F1
+protein	CDKN1B
+protein	CDK2
+protein	CCNE1
+SKP2/SKP1/CKS-1/CUL1/Roc1/NEDD8/UBE2M	protein ubiquitination	-ap>
+Cyclin E/CDK2	RB1	component>
+TFDP1	E2F-1/DP-1	component>
+E2F1	E2F-1/DP-1	component>
+CDK2	Cyclin E/CDK2	component>
+CCNE1	Cyclin E/CDK2	component>
+ubiquitin/p27	protein ubiquitination	-ap>
+CDKN1B	protein ubiquitination	-ap>
+CDKN1B	Cyclin E/CDK2	-a>
+Cyclin E/CDK2	CDKN1B	-a>
+E2F-1/DP-1	CCNE1	-t>
+RB/E2F-1	E2F1	component>
+RB/E2F-1	RB1	component>

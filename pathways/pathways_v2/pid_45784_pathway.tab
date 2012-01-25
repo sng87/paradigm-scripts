@@ -1,0 +1,70 @@
+complex	TCR-CD3/MHC II/CD4
+complex	TCR-CD3/MHC II/CD4/LCK
+complex	Calcineurin/Cabin1
+complex	HDAC/HDAC2/MEF2D/CABIN1
+complex	CaM/Ca ++
+complex	Calpain2
+complex	TCR-CD3
+complex	TCR-CD3/MHC II/CD4/LCK/ZAP70
+protein	CaM
+complex	MHC class II
+smallMolecule	PIP2
+abstract	degradation
+abstract	apoptosis
+smallMolecule	DAG
+protein	PKC
+complex	Calcineurin
+protein	NFATc
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	ZAP70
+protein	PTPRC
+protein	PLCG1
+protein	NR4A1
+protein	MEF2D
+protein	LCK
+protein	LAT
+protein	HDAC2
+protein	HDAC1
+protein	FYN
+protein	EP300
+protein	CD4
+protein	CABIN1
+CaM/Ca ++	HDAC1	component>
+PLCG1	DAG	-a>
+DAG	PKC	-a>
+EP300	NR4A1	-t>
+MEF2D	NR4A1	-t>
+CaM/Ca ++	Calcineurin	component>
+Calpain2	degradation	-ap>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+HDAC/HDAC2/MEF2D/CABIN1	CABIN1	component>
+HDAC/HDAC2/MEF2D/CABIN1	MEF2D	component>
+HDAC/HDAC2/MEF2D/CABIN1	HDAC2	component>
+HDAC/HDAC2/MEF2D/CABIN1	HDAC1	component>
+TCR-CD3/MHC II/CD4/LCK/ZAP70	LAT	-a>
+Ca2+	Calpain2	-a>
+CD4	TCR-CD3/MHC II/CD4	component>
+MHC class II	TCR-CD3/MHC II/CD4	component>
+TCR-CD3	TCR-CD3/MHC II/CD4	component>
+PTPRC	FYN	-a>
+LCK	TCR-CD3/MHC II/CD4/LCK	component>
+TCR-CD3/MHC II/CD4	TCR-CD3/MHC II/CD4/LCK	component>
+LAT	PLCG1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+Calcineurin	NFATc	-a>
+PTPRC	LCK	-a>
+ZAP70	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+TCR-CD3/MHC II/CD4/LCK	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+CaM/Ca ++	Calcineurin	-a>
+CaM/Ca ++	CaM/Ca ++	-a>
+PKC	CABIN1	-a>
+NR4A1	apoptosis	-ap>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+NFATc	NR4A1	-t>
+Calcineurin/Cabin1	CABIN1	component>
+Calcineurin/Cabin1	Calcineurin	component>
+CABIN1	degradation	-ap>

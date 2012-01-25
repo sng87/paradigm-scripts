@@ -1,0 +1,13 @@
+complex	H1 receptor:histamine
+complex	H2 receptor:histamine
+protein	Histamine 3/4 receptor
+complex	H3/4 receptor:histamine
+smallMolecule	Histamine
+protein	HRH2
+protein	HRH1
+Histamine	H1 receptor:histamine	component>
+HRH1	H1 receptor:histamine	component>
+HRH2	H2 receptor:histamine	component>
+Histamine	H2 receptor:histamine	component>
+Histamine	H3/4 receptor:histamine	component>
+Histamine 3/4 receptor	H3/4 receptor:histamine	component>

@@ -1,0 +1,170 @@
+abstract	calcium channel activity
+abstract	regulation of short-term neuronal synaptic plasticity
+abstract	protein transport into membrane raft
+abstract	long-term synaptic potentiation
+abstract	gap junction assembly
+abstract	regulation of synaptic plasticity
+abstract	axonogenesis
+abstract	myoblast differentiation
+abstract	regulation of cell-cell adhesion
+abstract	osteoblast differentiation
+abstract	cardiac muscle tissue morphogenesis
+abstract	axon guidance
+abstract	regulation of synapse organization
+abstract	adherens junction assembly
+abstract	microtubule plus-end binding
+abstract	actin filament polymerization
+abstract	cortical microtubule organization
+abstract	synaptic vesicle fusion to presynaptic membrane
+abstract	homophilic cell adhesion
+abstract	lamellipodium assembly
+abstract	microtubule binding
+abstract	receptor clustering
+abstract	adherens junction organization
+abstract	endothelial cell proliferation
+abstract	apoptosis
+complex	N-cadherin/p120 catenin/beta catenin-gamma catenin/alpha catenin
+smallMolecule	DAG
+smallMolecule	2-AG
+complex	N-cadherin/p120 catenin/beta catenin/alpha catenin/LRP5/Axin1
+complex	GAP43/CaM
+complex	RhoA/GDP
+complex	voltage-gated calcium channel complex
+smallMolecule	PI-4-P
+complex	RAC1/GDP
+protein	DAGLA-DAGLB
+complex	myosin II complex
+complex	RAC1-CDC42/GTP
+complex	N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin
+complex	PAK1
+complex	CaM/Ca2+
+complex	N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin
+complex	N-cadherin/p120 catenin/beta catenin/alpha catenin
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+complex	RAC1-CDC42/GDP
+smallMolecule	IP3
+complex	RhoA/GTP
+protein	Cortactin
+protein	CaMK
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ROCK1
+protein	PTPN1
+protein	PLCG1
+protein	PIP5K1C
+protein	MAPRE1
+protein	MAPK8
+protein	LRP5
+protein	KIF5B
+protein	GSN
+protein	GRIA2
+protein	GJA1
+protein	GAP43
+protein	FGFR1
+protein	FER
+protein	DCTN1
+protein	CTNND1
+protein	CTNNB1
+protein	CTNNA1
+protein	CNR1
+protein	CDH2
+protein	CALM1
+protein	AXIN1
+PLCG1	IP3	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	Ca2+	-a>
+DAGLA-DAGLB	2-AG	-a>
+Ca2+	GAP43	component>
+PTPN1	CDH2	component>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	RhoA/GTP	-a>
+adherens junction assembly	RhoA/GTP	-a>
+PIP5K1C	PI-4-5-P2	-a>
+homophilic cell adhesion	N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	-a>
+homophilic cell adhesion	N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	RAC1-CDC42/GTP	-a|
+adherens junction assembly	RAC1-CDC42/GTP	-a>
+MAPRE1	GJA1	-a>
+DCTN1	GJA1	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	GJA1	-a>
+PI3K	PAK1	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	PAK1	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	N-cadherin/p120 catenin/beta catenin-gamma catenin/alpha catenin	-a>
+KIF5B	N-cadherin/p120 catenin/beta catenin-gamma catenin/alpha catenin	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	FGFR1	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	endothelial cell proliferation	-ap>
+PI-4-5-P2	DAG	-a>
+PI-4-5-P2	IP3	-a>
+calcium channel activity	Ca2+	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	regulation of synapse organization	-ap>
+CaM/Ca2+	CaMK	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	regulation of short-term neuronal synaptic plasticity	-ap>
+voltage-gated calcium channel complex	Ca2+	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	protein transport into membrane raft	-ap>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	long-term synaptic potentiation	-ap>
+PAK1	Cortactin	-a>
+GJA1	gap junction assembly	-ap>
+DAG	2-AG	-a>
+GSN	regulation of cell-cell adhesion	-ap>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	cortical microtubule organization	-ap>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	FER	-a>
+GAP43/CaM	CALM1	component>
+GAP43/CaM	GAP43	component>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	regulation of synaptic plasticity	-ap>
+PI-4-5-P2	GSN	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	axon guidance	-ap>
+AXIN1	N-cadherin/p120 catenin/beta catenin/alpha catenin/LRP5/Axin1	component>
+LRP5	N-cadherin/p120 catenin/beta catenin/alpha catenin/LRP5/Axin1	component>
+N-cadherin/p120 catenin/beta catenin/alpha catenin	N-cadherin/p120 catenin/beta catenin/alpha catenin/LRP5/Axin1	component>
+ROCK1	myosin II complex	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin	CTNND1	component>
+N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin	CTNNA1	component>
+N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin	CTNNB1	component>
+N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin	CDH2	component>
+PI-4-5-P2	regulation of cell-cell adhesion	-ap>
+FER	Cortactin	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+PI-4-5-P2	actin filament polymerization	-ap>
+CALM1	CaM/Ca2+	component>
+Ca2+	CaM/Ca2+	component>
+PAK1	regulation of cell-cell adhesion	-ap>
+PI-4-P	PI-4-5-P2	-a>
+MAPK8	myoblast differentiation	-ap|
+myosin II complex	adherens junction organization	-ap>
+PAK1	lamellipodium assembly	-ap>
+CaMK	axonogenesis	-ap>
+PAK1	PIP5K1C	-a>
+Ca2+	N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	-a>
+N-cadherin/p120 catenin/beta catenin-gamma catenin/alpha catenin	N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	-a>
+RhoA/GTP	myoblast differentiation	-ap>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	PIP5K1C	-a>
+RhoA/GTP	ROCK1	-a>
+Ca2+	N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin	-a>
+N-cadherin/p120 catenin/beta catenin/alpha catenin	N-cadherin/Ca2+/p120 catenin/beta catenin/alpha catenin	-a>
+FGFR1	apoptosis	-ap|
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	GRIA2	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	PI3K	-a>
+Cortactin	regulation of cell-cell adhesion	-ap>
+N-cadherin/p120 catenin/beta catenin/alpha catenin/LRP5/Axin1	osteoblast differentiation	-ap|
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	cardiac muscle tissue morphogenesis	-ap>
+FER	PTPN1	-a>
+GRIA2	regulation of synapse organization	-ap>
+GSN	actin filament polymerization	-ap>
+2-AG	CNR1	-a>
+GTP	RAC1-CDC42/GTP	-a>
+RAC1-CDC42/GDP	GDP	-a>
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+microtubule plus-end binding	GJA1	-a>
+FGFR1	PLCG1	-a>
+N-cadherin/Ca2+/p120 catenin/beta catenin-gamma catenin/alpha catenin	synaptic vesicle fusion to presynaptic membrane	-ap>
+CNR1	voltage-gated calcium channel complex	-a>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+RAC1-CDC42/GTP	MAPK8	-a>
+Ca2+	GSN	-a>
+microtubule binding	N-cadherin/p120 catenin/beta catenin-gamma catenin/alpha catenin	-a>
+receptor clustering	FGFR1	-a>

@@ -1,0 +1,14 @@
+complex	CCT/TriC (ADP) associated actin
+complex	CCT/TriC(ATP)-associated actin
+complex	CCT/TriC(ADP)
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	ACTB
+ATP	CCT/TriC(ATP)-associated actin	-a>
+ATP	ADP	-a>
+CCT/TriC (ADP) associated actin	CCT/TriC(ATP)-associated actin	-a>
+CCT/TriC (ADP) associated actin	ADP	-a>
+CCT/TriC(ATP)-associated actin	phosphate	component>
+CCT/TriC(ATP)-associated actin	CCT/TriC(ADP)	component>
+CCT/TriC(ATP)-associated actin	ACTB	component>

@@ -1,0 +1,68 @@
+complex	serine hydroxymethyltransferase holoenzyme tetramer
+smallMolecule	5-Methyltetrahydrofolate
+smallMolecule	Dihydrofolate
+smallMolecule	Gly
+protein	UniProt:Q05932-2 FPGS_subunit_43_587_43-587
+smallMolecule	THF-polyglutamate
+smallMolecule	TPNH
+protein	UniProt:Q96NT5 SLC46A1_subunit_1_459_1-459
+complex	MTHFD1 dimer
+smallMolecule	Formate
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	L-Serine
+smallMolecule	THF
+smallMolecule	Folate
+smallMolecule	L-Glutamate
+protein	UniProt:Q05932-1 FPGS_subunit_43_587_43-587
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	SLC25A32
+protein	SLC19A1
+protein	DHFR
+DHFR	THF	-a>
+UniProt:Q05932-2 FPGS_subunit_43_587_43-587	THF-polyglutamate	-a>
+MTHFD1 dimer	H+	-a>
+MTHFD1 dimer	H2O	-a>
+MTHFD1 dimer	TPN	-a>
+serine hydroxymethyltransferase holoenzyme tetramer	L-Serine	-a>
+DHFR	Dihydrofolate	-a>
+MTHFD1 dimer	ADP	-a>
+UniProt:Q05932-1 FPGS_subunit_43_587_43-587	THF-polyglutamate	-a>
+UniProt:Q05932-2 FPGS_subunit_43_587_43-587	phosphate	-a>
+TPNH	THF	-a>
+H+	THF	-a>
+Dihydrofolate	TPN	-a>
+Dihydrofolate	THF	-a>
+THF-polyglutamate	Gly	-a>
+L-Serine	Gly	-a>
+TPN	TPNH	-a>
+TPN	H+	-a>
+Gly	THF-polyglutamate	-a>
+Gly	L-Serine	-a>
+Folate	TPN	-a>
+Folate	Dihydrofolate	-a>
+TPNH	TPN	-a>
+TPNH	Dihydrofolate	-a>
+H+	TPN	-a>
+H+	Dihydrofolate	-a>
+THF-polyglutamate	phosphate	-a>
+THF-polyglutamate	ADP	-a>
+Formate	phosphate	-a>
+Formate	ADP	-a>
+ATP	THF-polyglutamate	-a>
+THF	ADP	-a>
+THF	phosphate	-a>
+THF	THF-polyglutamate	-a>
+L-Glutamate	THF-polyglutamate	-a>
+L-Glutamate	ADP	-a>
+L-Glutamate	phosphate	-a>
+5-Methyltetrahydrofolate	ADP	-a>
+5-Methyltetrahydrofolate	phosphate	-a>
+ATP	ADP	-a>
+ATP	phosphate	-a>
+SLC19A1	5-Methyltetrahydrofolate	-a>
+UniProt:Q96NT5 SLC46A1_subunit_1_459_1-459	Folate	-a>
+SLC25A32	THF	-a>

@@ -1,0 +1,24 @@
+complex	FANCD2/ubiquitin
+abstract	DNA repair
+abstract	protein ubiquitination
+abstract	degradation
+abstract	DNA damage
+complex	FA complex
+complex	BRCA1/BARD1/Ubiquitin
+complex	BRCA1/BARD1
+complex	FA complex/FANCD2/Ubiquitin
+protein	FANCD2
+protein	BRCA1
+protein	BARD1
+BRCA1/BARD1/Ubiquitin	degradation	-ap>
+DNA damage	FA complex	-t>
+BARD1	BRCA1/BARD1	component>
+BRCA1	BRCA1/BARD1	component>
+BRCA1/BARD1/Ubiquitin	protein ubiquitination	-ap>
+BRCA1/BARD1	protein ubiquitination	-ap>
+FANCD2/ubiquitin	protein ubiquitination	-ap>
+FANCD2	protein ubiquitination	-ap>
+FA complex/FANCD2/Ubiquitin	DNA repair	-ap>
+FA complex	FA complex	-a>
+FA complex	FA complex/FANCD2/Ubiquitin	component>
+FANCD2/ubiquitin	FA complex/FANCD2/Ubiquitin	component>

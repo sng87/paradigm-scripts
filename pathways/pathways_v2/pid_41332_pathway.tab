@@ -1,0 +1,12 @@
+complex	thioredoxin reductase holoenzyme
+smallMolecule	TPNH
+smallMolecule	TPN
+smallMolecule	H+
+protein	TXN
+thioredoxin reductase holoenzyme	TPN	-a>
+TXN	TXN	-a>
+TXN	TPN	-a>
+TPNH	TXN	-a>
+TPNH	TPN	-a>
+H+	TXN	-a>
+H+	TPN	-a>

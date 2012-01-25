@@ -1,0 +1,46 @@
+abstract	negative regulation of cell proliferation
+complex	SUMO1/Ubc9
+complex	PML/sp100/DAXX
+complex	PML/sp100/RB
+complex	PML/sp100/SUMO1/p53(+1)
+complex	PML/SUMO1
+protein	CMV-IE1
+complex	PML/sp100/SUMO1
+complex	PML/sp100/SUMO1/p53
+protein	HSV-ICP0
+complex	PML/sp100
+protein	UBE2I
+protein	TP53
+protein	SP100
+protein	SIRT1
+protein	RB1
+protein	PRAM1
+protein	PML
+protein	DAXX
+protein	CREBBP
+PRAM1	PML/sp100/SUMO1	component>
+CMV-IE1	PML/sp100/SUMO1	component>
+HSV-ICP0	PML/sp100/SUMO1	component>
+CREBBP	PML/sp100/SUMO1/p53(+1)	-a>
+RB1	RB1	-a>
+SIRT1	TP53	-a>
+TP53	TP53	-a>
+DAXX	PML/sp100/DAXX	component>
+PML/sp100	PML/sp100/DAXX	component>
+SP100	PML/sp100/SUMO1	component>
+PML/SUMO1	PML/sp100/SUMO1	component>
+TP53	negative regulation of cell proliferation	-ap>
+PML/sp100/SUMO1/p53	PML/sp100/SUMO1/p53(+1)	-a>
+PML	UBE2I	-a>
+PML	PML/SUMO1	-a>
+SUMO1/Ubc9	UBE2I	-a>
+SUMO1/Ubc9	PML/SUMO1	-a>
+RB1	PML/sp100/RB	component>
+PML/sp100	PML/sp100/RB	component>
+PML/sp100/SUMO1/p53(+1)	negative regulation of cell proliferation	-ap>
+PML/sp100/SUMO1/p53(+1)	PML/sp100/SUMO1	component>
+PML/sp100/SUMO1/p53(+1)	TP53	component>
+TP53	PML/sp100/SUMO1/p53	component>
+PML/sp100/SUMO1	PML/sp100/SUMO1/p53	component>
+PML/sp100/RB	negative regulation of cell proliferation	-ap>
+PML/sp100/DAXX	negative regulation of cell proliferation	-ap>

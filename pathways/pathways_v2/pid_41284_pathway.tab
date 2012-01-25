@@ -1,0 +1,36 @@
+smallMolecule	Estrone
+smallMolecule	Estradiol
+smallMolecule	TPNH
+smallMolecule	Androstenedione
+smallMolecule	Formate
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	testosterone
+protein	CYP19A1
+CYP19A1	Estradiol	-a>
+CYP19A1	TPN	-a>
+H+	Estradiol	-a>
+testosterone	TPN	-a>
+testosterone	H2O	-a>
+testosterone	Formate	-a>
+testosterone	Estradiol	-a>
+O2	Estradiol	-a>
+TPNH	Estradiol	-a>
+TPNH	H2O	-a>
+TPNH	Formate	-a>
+TPNH	Estrone	-a>
+TPNH	TPN	-a>
+Androstenedione	H2O	-a>
+Androstenedione	Formate	-a>
+Androstenedione	Estrone	-a>
+Androstenedione	TPN	-a>
+O2	H2O	-a>
+O2	Formate	-a>
+O2	Estrone	-a>
+O2	TPN	-a>
+H+	H2O	-a>
+H+	Formate	-a>
+H+	Estrone	-a>
+H+	TPN	-a>

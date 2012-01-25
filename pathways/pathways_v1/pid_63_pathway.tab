@@ -1,0 +1,312 @@
+protein	NCOR2
+protein	SMG5
+protein	FBXW11
+protein	MBD2
+protein	SMURF1
+protein	HDAC8
+protein	SIN3A
+protein	KAT2B
+protein	CREBBP
+protein	HDAC2
+protein	GATAD2B
+protein	MBD3L2
+protein	ZFPM1
+protein	GATAD2A
+protein	RBBP7
+protein	CHD4
+protein	HDAC1
+protein	CHD3
+protein	TFCP2
+protein	EP300
+protein	RBBP4
+protein	MXD1
+protein	RELA
+protein	FKBP3
+protein	UBE2I
+protein	SUMO1
+protein	RAN
+protein	MAX
+protein	RANBP2
+protein	RANGAP1
+protein	STAT3
+protein	PPARG
+protein	NFKBIA
+protein	YY1
+protein	GATA2
+protein	NFKB1
+protein	TNFRSF1A
+protein	PRKACA
+protein	GATA1
+protein	NR2C1
+protein	TNF
+protein	MBD3
+protein	MTA2
+protein	SAP30
+protein	NCOR1
+protein	SIN3B
+protein	HDAC3
+protein	SMAD7
+protein	XPO1
+protein	SAP18
+protein	EntrezGene:9972
+protein	EntrezGene:8021
+protein	EntrezGene:23636
+protein	EntrezGene:23225
+complex	beta TrCP1/SCF ubiquitin ligase complex
+complex	YY1/SAP30/HDAC1
+complex	YY1/LSF/HDAC1
+complex	YY1/LSF
+complex	YY1/HDAC3
+complex	YY1/HDAC2
+complex	YY1/HDAC1
+complex	TNF-alpha/TNFR1A
+complex	SUMO1/HDAC1
+complex	STAT3 (dimer non-phopshorylated)/HDAC3
+complex	STAT3 (dimer non-phopshorylated)
+complex	SIN3/HDAC complex/NCoR1
+complex	SIN3/HDAC complex/Mad/Max
+complex	SIN3/HDAC complex
+complex	SIN3 complex
+complex	Ran/GTP/Exportin 1/HDAC1
+complex	Ran/GTP/Exportin 1
+complex	NuRD/MBD3/MBD3L2 Complex
+complex	NuRD/MBD3 Complex/GATA1/Fog1
+complex	NuRD/MBD3 Complex
+complex	NuRD/MBD2/PRMT5 Complex
+complex	NuRD/MBD2 Complex (MeCP1)
+complex	NuRD Complex
+complex	NPC/RanGAP1/SUMO1/Ubc9
+complex	NPC
+complex	NF kappa B1 p50/RelA/I kappa B alpha
+complex	NF kappa B1 p50/RelA
+complex	NF kappa B/RelA/I kappa B alpha
+complex	NF kappa B/RelA
+complex	Mad/Max
+complex	I kappa B alpha/HDAC3
+complex	I kappa B alpha/HDAC1
+complex	Histones
+complex	HDAC8/hEST1B
+complex	HDAC3/TR2
+complex	HDAC3/SMRT (N-CoR2)
+complex	HDAC1/Smad7
+complex	HDAC complex
+complex	GATA2/HDAC3
+complex	GATA1/HDAC3
+complex	GATA1/HDAC1
+complex	GATA1/Fog1
+complex	FKBP25/HDAC1/HDAC2
+chemical	mol:GTP
+abstract	ubiquitin-dependent protein catabolic process
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+abstract	positive regulation of chromatin silencing
+abstract	nuclear export
+abstract	negative regulation of cell growth
+abstract	histone deacetylation
+mol:GTP	Ran/GTP/Exportin 1/HDAC1	component>
+mol:GTP	Ran/GTP/Exportin 1	component>
+beta TrCP1/SCF ubiquitin ligase complex	NFKBIA	-a>
+beta TrCP1/SCF ubiquitin ligase complex	HDAC3	-a>
+beta TrCP1/SCF ubiquitin ligase complex	NF kappa B/RelA	-a>
+NCOR2	HDAC3/SMRT (N-CoR2)	component>
+SMG5	HDAC8/hEST1B	component>
+FBXW11	beta TrCP1/SCF ubiquitin ligase complex	component>
+MBD2	NuRD/MBD2/PRMT5 Complex	component>
+MBD2	NuRD/MBD2 Complex (MeCP1)	component>
+MBD2	NuRD Complex	component>
+SMURF1	HDAC1/Smad7	-a>
+HDAC8	Histones	-a>
+HDAC8	HDAC8/hEST1B	component>
+SIN3A	SIN3/HDAC complex/NCoR1	component>
+SIN3A	SIN3/HDAC complex/Mad/Max	component>
+SIN3A	SIN3/HDAC complex	component>
+SIN3A	SIN3 complex	component>
+KAT2B	YY1	-a>
+CREBBP	RELA	-a>
+CREBBP	STAT3	-a>
+CREBBP	YY1	-a>
+HDAC2	YY1/HDAC2	component>
+HDAC2	SIN3/HDAC complex/NCoR1	component>
+HDAC2	SIN3/HDAC complex/Mad/Max	component>
+HDAC2	SIN3/HDAC complex	component>
+HDAC2	NuRD/MBD3/MBD3L2 Complex	component>
+HDAC2	NuRD/MBD3 Complex/GATA1/Fog1	component>
+HDAC2	NuRD/MBD3 Complex	component>
+HDAC2	NuRD/MBD2/PRMT5 Complex	component>
+HDAC2	NuRD/MBD2 Complex (MeCP1)	component>
+HDAC2	NuRD Complex	component>
+HDAC2	Histones	-a>
+HDAC2	HDAC complex	component>
+HDAC2	FKBP25/HDAC1/HDAC2	component>
+GATAD2B	NuRD/MBD3/MBD3L2 Complex	component>
+GATAD2B	NuRD/MBD3 Complex/GATA1/Fog1	component>
+GATAD2B	NuRD/MBD3 Complex	component>
+GATAD2B	NuRD/MBD2/PRMT5 Complex	component>
+GATAD2B	NuRD/MBD2 Complex (MeCP1)	component>
+GATAD2B	NuRD Complex	component>
+MBD3L2	NuRD/MBD3/MBD3L2 Complex	component>
+ZFPM1	NuRD/MBD3 Complex/GATA1/Fog1	component>
+ZFPM1	GATA1/Fog1	component>
+GATAD2A	NuRD/MBD3/MBD3L2 Complex	component>
+GATAD2A	NuRD/MBD3 Complex/GATA1/Fog1	component>
+GATAD2A	NuRD/MBD3 Complex	component>
+GATAD2A	NuRD/MBD2/PRMT5 Complex	component>
+GATAD2A	NuRD/MBD2 Complex (MeCP1)	component>
+GATAD2A	NuRD Complex	component>
+RBBP7	SIN3/HDAC complex/NCoR1	component>
+RBBP7	SIN3/HDAC complex/Mad/Max	component>
+RBBP7	SIN3/HDAC complex	component>
+RBBP7	NuRD/MBD3/MBD3L2 Complex	component>
+RBBP7	NuRD/MBD3 Complex/GATA1/Fog1	component>
+RBBP7	NuRD/MBD3 Complex	component>
+RBBP7	NuRD/MBD2/PRMT5 Complex	component>
+RBBP7	NuRD/MBD2 Complex (MeCP1)	component>
+RBBP7	NuRD Complex	component>
+RBBP7	HDAC complex	component>
+CHD4	NuRD/MBD3/MBD3L2 Complex	component>
+CHD4	NuRD/MBD3 Complex/GATA1/Fog1	component>
+CHD4	NuRD/MBD3 Complex	component>
+CHD4	NuRD/MBD2/PRMT5 Complex	component>
+CHD4	NuRD/MBD2 Complex (MeCP1)	component>
+CHD4	NuRD Complex	component>
+HDAC1	YY1/SAP30/HDAC1	component>
+HDAC1	YY1/LSF/HDAC1	component>
+HDAC1	YY1/HDAC1	component>
+HDAC1	SUMO1/HDAC1	component>
+HDAC1	SIN3/HDAC complex/NCoR1	component>
+HDAC1	SIN3/HDAC complex/Mad/Max	component>
+HDAC1	SIN3/HDAC complex	component>
+HDAC1	Ran/GTP/Exportin 1/HDAC1	component>
+HDAC1	NuRD/MBD3/MBD3L2 Complex	component>
+HDAC1	NuRD/MBD3 Complex/GATA1/Fog1	component>
+HDAC1	NuRD/MBD3 Complex	component>
+HDAC1	NuRD/MBD2/PRMT5 Complex	component>
+HDAC1	NuRD/MBD2 Complex (MeCP1)	component>
+HDAC1	NuRD Complex	component>
+HDAC1	I kappa B alpha/HDAC1	component>
+HDAC1	Histones	-a>
+HDAC1	HDAC1/Smad7	component>
+HDAC1	HDAC complex	component>
+HDAC1	GATA1/HDAC1	component>
+HDAC1	FKBP25/HDAC1/HDAC2	component>
+CHD3	NuRD/MBD3/MBD3L2 Complex	component>
+CHD3	NuRD/MBD3 Complex/GATA1/Fog1	component>
+CHD3	NuRD/MBD3 Complex	component>
+CHD3	NuRD/MBD2/PRMT5 Complex	component>
+CHD3	NuRD/MBD2 Complex (MeCP1)	component>
+CHD3	NuRD Complex	component>
+TFCP2	YY1/LSF/HDAC1	component>
+TFCP2	YY1/LSF	component>
+EP300	RELA	-a>
+EP300	STAT3	-a>
+EP300	YY1	-a>
+RBBP4	SIN3/HDAC complex/NCoR1	component>
+RBBP4	SIN3/HDAC complex/Mad/Max	component>
+RBBP4	SIN3/HDAC complex	component>
+RBBP4	NuRD/MBD3/MBD3L2 Complex	component>
+RBBP4	NuRD/MBD3 Complex/GATA1/Fog1	component>
+RBBP4	NuRD/MBD3 Complex	component>
+RBBP4	NuRD/MBD2/PRMT5 Complex	component>
+RBBP4	NuRD/MBD2 Complex (MeCP1)	component>
+RBBP4	NuRD Complex	component>
+RBBP4	HDAC complex	component>
+MXD1	SIN3/HDAC complex/Mad/Max	component>
+MXD1	Mad/Max	component>
+RELA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+RELA	NF kappa B1 p50/RelA	component>
+RELA	NF kappa B/RelA/I kappa B alpha	component>
+RELA	NF kappa B/RelA	component>
+FKBP3	FKBP25/HDAC1/HDAC2	component>
+UBE2I	NPC/RanGAP1/SUMO1/Ubc9	component>
+SUMO1	SUMO1/HDAC1	component>
+SUMO1	NPC/RanGAP1/SUMO1/Ubc9	component>
+RAN	Ran/GTP/Exportin 1/HDAC1	component>
+RAN	Ran/GTP/Exportin 1	component>
+MAX	SIN3/HDAC complex/Mad/Max	component>
+MAX	Mad/Max	component>
+RANBP2	NPC/RanGAP1/SUMO1/Ubc9	component>
+RANBP2	NPC	component>
+RANGAP1	NPC/RanGAP1/SUMO1/Ubc9	component>
+STAT3	STAT3 (dimer non-phopshorylated)/HDAC3	component>
+STAT3	STAT3 (dimer non-phopshorylated)	component>
+NFKBIA	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+NFKBIA	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKBIA	NF kappa B/RelA/I kappa B alpha	component>
+NFKBIA	I kappa B alpha/HDAC3	component>
+NFKBIA	I kappa B alpha/HDAC1	component>
+YY1	YY1/SAP30/HDAC1	component>
+YY1	YY1/LSF/HDAC1	component>
+YY1	YY1/LSF	component>
+YY1	YY1/HDAC3	component>
+YY1	YY1/HDAC2	component>
+YY1	YY1/HDAC1	component>
+GATA2	GATA2/HDAC3	component>
+NFKB1	NF kappa B1 p50/RelA/I kappa B alpha	component>
+NFKB1	NF kappa B1 p50/RelA	component>
+NFKB1	NF kappa B/RelA	component>
+TNFRSF1A	TNF-alpha/TNFR1A	component>
+PRKACA	HDAC8/hEST1B	-a>
+GATA1	NuRD/MBD3 Complex/GATA1/Fog1	component>
+GATA1	GATA1/HDAC3	component>
+GATA1	GATA1/HDAC1	component>
+GATA1	GATA1/Fog1	component>
+NR2C1	HDAC3/TR2	component>
+TNF	TNF-alpha/TNFR1A	component>
+MBD3	NuRD/MBD3/MBD3L2 Complex	component>
+MBD3	NuRD/MBD3 Complex/GATA1/Fog1	component>
+MBD3	NuRD/MBD3 Complex	component>
+MBD3	NuRD Complex	component>
+MTA2	NuRD/MBD3/MBD3L2 Complex	component>
+MTA2	NuRD/MBD3 Complex/GATA1/Fog1	component>
+MTA2	NuRD/MBD3 Complex	component>
+MTA2	NuRD/MBD2/PRMT5 Complex	component>
+MTA2	NuRD/MBD2 Complex (MeCP1)	component>
+MTA2	NuRD Complex	component>
+SAP30	YY1/SAP30/HDAC1	component>
+SAP30	SIN3/HDAC complex/NCoR1	component>
+SAP30	SIN3/HDAC complex/Mad/Max	component>
+SAP30	SIN3/HDAC complex	component>
+SAP30	SIN3 complex	component>
+NCOR1	PPARG	-a>
+NCOR1	SIN3/HDAC complex/NCoR1	component>
+SIN3B	SIN3/HDAC complex/NCoR1	component>
+SIN3B	SIN3/HDAC complex/Mad/Max	component>
+SIN3B	SIN3/HDAC complex	component>
+SIN3B	SIN3 complex	component>
+HDAC3	YY1/HDAC3	component>
+HDAC3	RELA	-a>
+HDAC3	STAT3 (dimer non-phopshorylated)/HDAC3	component>
+HDAC3	I kappa B alpha/HDAC3	component>
+HDAC3	Histones	-a>
+HDAC3	HDAC3/TR2	component>
+HDAC3	HDAC3/SMRT (N-CoR2)	component>
+HDAC3	GATA2/HDAC3	component>
+HDAC3	GATA1/HDAC3	component>
+SMAD7	HDAC1/Smad7	component>
+XPO1	Ran/GTP/Exportin 1/HDAC1	component>
+XPO1	Ran/GTP/Exportin 1	component>
+SAP18	SIN3/HDAC complex/NCoR1	component>
+SAP18	SIN3/HDAC complex/Mad/Max	component>
+SAP18	SIN3/HDAC complex	component>
+SAP18	SIN3 complex	component>
+TNF-alpha/TNFR1A	RELA	-a>
+TNF-alpha/TNFR1A	PPARG	-a>
+TNF-alpha/TNFR1A	NFKBIA	-a>
+TNF-alpha/TNFR1A	HDAC3	-a>
+TNF-alpha/TNFR1A	NF kappa B/RelA	-a>
+SIN3/HDAC complex/Mad/Max	negative regulation of cell growth	-ap>
+NuRD/MBD2/PRMT5 Complex	histone deacetylation	-ap>
+NPC/RanGAP1/SUMO1/Ubc9	SUMO1/HDAC1	-a>
+NPC/RanGAP1/SUMO1/Ubc9	Ran/GTP/Exportin 1	-a>
+NPC	Ran/GTP/Exportin 1/HDAC1	-a>
+Histones	positive regulation of chromatin silencing	-ap>
+HDAC8/hEST1B	nuclear export	-ap|
+HDAC3/SMRT (N-CoR2)	PPARG	-a>
+HDAC1/Smad7	ubiquitin-dependent protein catabolic process	-ap>
+EntrezGene:9972	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:9972	NPC	component>
+EntrezGene:8021	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:8021	NPC	component>
+EntrezGene:23636	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:23636	NPC	component>
+EntrezGene:23225	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:23225	NPC	component>

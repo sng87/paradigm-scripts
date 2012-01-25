@@ -1,0 +1,43 @@
+complex	PIP3:RhoA
+complex	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)
+complex	PIP3:PDK1:AKT
+complex	Activated TrkA receptor:IRS1/2
+complex	Activated TrkA receptor:Phospho-IRS1/2
+complex	TORC2 complex
+complex	Phospho-IRS1/2:PI3K(p85:p110)
+smallMolecule	PIP2
+protein	IRS1/2
+complex	Activated TrkA receptor complex
+smallMolecule	ATP
+smallMolecule	ADP
+complex	PI3K
+smallMolecule	PIP3
+protein	TRIB3
+protein	THEM4
+protein	RHOA
+protein	PDPK1
+protein	AKT1
+TRIB3	ADP	-a|
+THEM4	ADP	-a|
+TORC2 complex	ADP	-a>
+Phospho-IRS1/2:PI3K(p85:p110)	PIP3	-a>
+Activated TrkA receptor:IRS1/2	Activated TrkA receptor:Phospho-IRS1/2	-a>
+Activated TrkA receptor:IRS1/2	ADP	-a>
+ATP	Activated TrkA receptor:Phospho-IRS1/2	-a>
+PIP3	PIP3:RhoA	component>
+RHOA	PIP3:RhoA	component>
+ATP	PIP3:PDK1:AKT	-a>
+PIP3:PDK1:AKT	PIP3:PDK1:AKT	-a>
+PIP3:PDK1:AKT	ADP	-a>
+PIP2	ADP	-a>
+PIP2	PIP3	-a>
+ATP	ADP	-a>
+ATP	PIP3	-a>
+PIP3	PIP3:PDK1:AKT	component>
+PDPK1	PIP3:PDK1:AKT	component>
+AKT1	PIP3:PDK1:AKT	component>
+IRS1/2	Activated TrkA receptor:IRS1/2	component>
+Activated TrkA receptor complex	Activated TrkA receptor:IRS1/2	component>
+AKT1	AKT1	-a>
+Activated TrkA receptor:Phospho-IRS1/2	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)	component>
+PI3K	Activated TrkA receptor:Phospho-IRS1/2:PI3K(p85:p110)	component>

@@ -1,0 +1,32 @@
+abstract	response to oxidative stress
+complex	EGF/EGFR dimer/SHC
+complex	EGF/EGFR dimer
+complex	GRB2/SOS1
+complex	HRAS/GDP
+complex	HRAS/GTP
+smallMolecule	Ca2+
+complex	EGF/EGFR
+complex	ETA receptor/Endothelin-1
+protein	SHC
+complex	EGF/EGFR dimer/SHC/GRB2/SOS1
+smallMolecule	GDP
+smallMolecule	GTP
+protein	FRAP1
+protein	EGFR
+protein	EGF
+Ca2+	EGF/EGFR	component>
+ETA receptor/Endothelin-1	EGF/EGFR	component>
+response to oxidative stress	EGF/EGFR	component>
+EGF/EGFR dimer/SHC/GRB2/SOS1	HRAS/GTP	-a>
+EGFR	EGF/EGFR	component>
+EGF	EGF/EGFR	component>
+EGF/EGFR	EGF/EGFR dimer	component>
+EGF/EGFR dimer/SHC/GRB2/SOS1	FRAP1	-a>
+SHC	EGF/EGFR dimer/SHC	component>
+EGF/EGFR dimer	EGF/EGFR dimer/SHC	component>
+GTP	GDP	-a>
+GTP	HRAS/GTP	-a>
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+GRB2/SOS1	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+EGF/EGFR dimer/SHC	EGF/EGFR dimer/SHC/GRB2/SOS1	component>

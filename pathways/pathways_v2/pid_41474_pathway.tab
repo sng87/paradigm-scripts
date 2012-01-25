@@ -1,0 +1,10 @@
+complex	Activated BAX
+complex	tBID bound to inactive BAX
+protein	BID
+protein	BAX
+tBID bound to inactive BAX	BAX	component>
+tBID bound to inactive BAX	BID	component>
+BAX	BAX	-a>
+BID	tBID bound to inactive BAX	component>
+BAX	tBID bound to inactive BAX	component>
+BAX	Activated BAX	component>

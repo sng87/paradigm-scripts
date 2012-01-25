@@ -1,0 +1,37 @@
+complex	Basigin:MMP1
+complex	Basigin bound to MCTs
+complex	Basigin homodimer
+complex	CyP60 complexed with Basigin
+complex	Basigin:CD98hc complex
+complex	Basigin bound to CyPA
+complex	Basigin bound to integrins
+protein	Mannose-carrying cell recognition molecules
+complex	Basigin:Mannose-carrying cell recognition molecules
+complex	Basigin bound to CD43
+complex	Caveolin-1 bound to Basigin
+protein	Monocarboxylate Transporter Set
+smallMolecule	Heparan Sulphate
+protein	SPN
+protein	PPIL2
+protein	PPIA
+protein	MMP1
+protein	CAV1
+protein	BSG
+Heparan Sulphate	Basigin bound to CyPA	component>
+Monocarboxylate Transporter Set	Basigin bound to MCTs	component>
+BSG	Basigin bound to MCTs	component>
+BSG	Basigin bound to integrins	component>
+Mannose-carrying cell recognition molecules	Basigin:Mannose-carrying cell recognition molecules	component>
+BSG	Basigin:Mannose-carrying cell recognition molecules	component>
+MMP1	Basigin:MMP1	component>
+BSG	Basigin:MMP1	component>
+SPN	Basigin bound to CD43	component>
+BSG	Basigin bound to CD43	component>
+BSG	Basigin homodimer	component>
+BSG	Basigin bound to CyPA	component>
+PPIA	Basigin bound to CyPA	component>
+BSG	Basigin:CD98hc complex	component>
+BSG	CyP60 complexed with Basigin	component>
+PPIL2	CyP60 complexed with Basigin	component>
+BSG	Caveolin-1 bound to Basigin	component>
+CAV1	Caveolin-1 bound to Basigin	component>

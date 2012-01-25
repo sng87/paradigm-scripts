@@ -1,0 +1,256 @@
+protein	CD2AP
+protein	HIF1A
+protein	GAB1
+protein	PTPN11
+protein	CAV1
+protein	CALM1
+protein	VEGFB
+protein	PGF
+protein	PIK3CA
+protein	AKT1
+protein	NOS3
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	CBL
+protein	RASA1
+protein	PLCG1
+protein	FLT1
+protein	PRKACA
+protein	PRKCA
+protein	NCK1
+protein	VEGFA
+protein	VEGFA
+protein	HSP90AA1
+protein	PRKCB
+protein	NRP2
+protein	PDPK1
+protein	RP11-342D11.1
+complex	eNOS/Hsp90
+complex	eNOS/Caveolin-1
+complex	VEGFR1 homodimer/VEGFB homodimer
+complex	VEGFR1 homodimer/VEGFA homodimer/SHP2
+complex	VEGFR1 homodimer/VEGFA homodimer/NCK1
+complex	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP
+complex	VEGFR1 homodimer/VEGFA homodimer
+complex	VEGFR1 homodimer/PLGF homodimer
+complex	VEGFR1 homodimer/NRP2/VEGFR121
+complex	VEGFR1 homodimer/NRP2
+complex	VEGFR1 homodimer/NRP1/VEGFR 121
+complex	VEGFR1 homodimer/NRP1
+complex	VEGFR1 homodimer
+complex	VEGFB homodimer
+complex	VEGFA homodimer
+complex	PLGF homodimer
+complex	PI3K/GAB1
+complex	PI3K
+complex	CaM/Ca2+
+chemical	mol:PI-3-4-5-P3
+chemical	mol:NO
+chemical	mol:NADP
+chemical	mol:L-citrulline
+chemical	mol:IP3
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	ubiquitin-dependent protein catabolic process
+abstract	platelet activating factor biosynthetic process
+abstract	endothelial cell proliferation
+protein	CD2AP
+protein	HIF1A
+protein	GAB1
+protein	PTPN11
+protein	CAV1
+protein	CALM1
+protein	VEGFB
+protein	PGF
+protein	PIK3CA
+protein	AKT1
+protein	NOS3
+protein	MAPK1
+protein	PIK3R1
+protein	MAPK3
+protein	CBL
+protein	RASA1
+protein	PLCG1
+protein	FLT1
+protein	PRKACA
+protein	PRKCA
+protein	NCK1
+protein	VEGFA
+protein	VEGFA
+protein	HSP90AA1
+protein	PRKCB
+protein	NRP2
+protein	PDPK1
+protein	RP11-342D11.1
+complex	eNOS/Hsp90
+complex	eNOS/Caveolin-1
+complex	VEGFR1 homodimer/VEGFB homodimer
+complex	VEGFR1 homodimer/VEGFA homodimer/SHP2
+complex	VEGFR1 homodimer/VEGFA homodimer/NCK1
+complex	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP
+complex	VEGFR1 homodimer/VEGFA homodimer
+complex	VEGFR1 homodimer/PLGF homodimer
+complex	VEGFR1 homodimer/NRP2/VEGFR121
+complex	VEGFR1 homodimer/NRP2
+complex	VEGFR1 homodimer/NRP1/VEGFR 121
+complex	VEGFR1 homodimer/NRP1
+complex	VEGFR1 homodimer
+complex	VEGFB homodimer
+complex	VEGFA homodimer
+complex	PLGF homodimer
+complex	PI3K/GAB1
+complex	PI3K
+complex	CaM/Ca2+
+chemical	mol:PI-3-4-5-P3
+chemical	mol:NO
+chemical	mol:NADP
+chemical	mol:L-citrulline
+chemical	mol:IP3
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	ubiquitin-dependent protein catabolic process
+abstract	platelet activating factor biosynthetic process
+abstract	endothelial cell proliferation
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:PI-3-4-5-P3	PDPK1	-a>
+mol:PI-3-4-5-P3	PI3K/GAB1	-a>
+mol:IP3	mol:Ca2+	-a>
+mol:DAG	CaM/Ca2+	-a>
+mol:Ca2+	PRKCA	-a>
+mol:Ca2+	PRKCB	-a>
+mol:Ca2+	CaM/Ca2+	component>
+VEGFR1 homodimer/VEGFB homodimer	RASA1	-a>
+VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	ubiquitin-dependent protein catabolic process	-ap>
+VEGFR1 homodimer/PLGF homodimer	PLCG1	-a>
+VEGFR1 homodimer/PLGF homodimer	PI3K	-a>
+CD2AP	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+HIF1A	FLT1	-t>
+GAB1	PI3K/GAB1	component>
+PTPN11	VEGFR1 homodimer/VEGFA homodimer/SHP2	component>
+CAV1	eNOS/Caveolin-1	component>
+CALM1	CaM/Ca2+	component>
+VEGFB	VEGFR1 homodimer/VEGFB homodimer	component>
+VEGFB	VEGFB homodimer	component>
+PGF	VEGFR1 homodimer/PLGF homodimer	component>
+PGF	PLGF homodimer	component>
+PIK3CA	PI3K/GAB1	component>
+PIK3CA	PI3K	component>
+AKT1	endothelial cell proliferation	-ap>
+AKT1	NOS3	-a>
+NOS3	mol:NO	-a>
+NOS3	mol:NADP	-a>
+NOS3	mol:L-citrulline	-a>
+NOS3	eNOS/Hsp90	component>
+NOS3	eNOS/Caveolin-1	component>
+MAPK1	platelet activating factor biosynthetic process	-ap>
+PIK3R1	PI3K/GAB1	component>
+PIK3R1	PI3K	component>
+MAPK3	platelet activating factor biosynthetic process	-ap>
+CBL	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+PLCG1	mol:IP3	-a>
+PLCG1	mol:DAG	-a>
+FLT1	VEGFR1 homodimer/VEGFB homodimer	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer/SHP2	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer/NCK1	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer	component>
+FLT1	VEGFR1 homodimer/PLGF homodimer	component>
+FLT1	VEGFR1 homodimer/NRP2/VEGFR121	component>
+FLT1	VEGFR1 homodimer/NRP2	component>
+FLT1	VEGFR1 homodimer/NRP1/VEGFR 121	component>
+FLT1	VEGFR1 homodimer/NRP1	component>
+FLT1	VEGFR1 homodimer	component>
+PRKACA	NOS3	-a>
+PRKCA	endothelial cell proliferation	-ap>
+PRKCA	MAPK1	-a>
+PRKCA	MAPK3	-a>
+NCK1	VEGFR1 homodimer/VEGFA homodimer/NCK1	component>
+VEGFA	VEGFR1 homodimer/NRP2/VEGFR121	component>
+VEGFA	VEGFR1 homodimer/NRP1/VEGFR 121	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer/SHP2	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer/NCK1	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer	component>
+VEGFA	VEGFA homodimer	component>
+HSP90AA1	eNOS/Hsp90	component>
+PRKCB	endothelial cell proliferation	-ap>
+NRP2	VEGFR1 homodimer/NRP2/VEGFR121	component>
+NRP2	VEGFR1 homodimer/NRP2	component>
+PDPK1	AKT1	-a>
+RP11-342D11.1	VEGFR1 homodimer/NRP1/VEGFR 121	component>
+RP11-342D11.1	VEGFR1 homodimer/NRP1	component>
+PI3K/GAB1	AKT1	-a>
+PI3K	mol:PI-3-4-5-P3	-a>
+CaM/Ca2+	NOS3	-a>
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:PI-3-4-5-P3	PDPK1	-a>
+mol:PI-3-4-5-P3	PI3K/GAB1	-a>
+mol:IP3	mol:Ca2+	-a>
+mol:DAG	CaM/Ca2+	-a>
+mol:Ca2+	PRKCA	-a>
+mol:Ca2+	PRKCB	-a>
+mol:Ca2+	CaM/Ca2+	component>
+VEGFR1 homodimer/VEGFB homodimer	RASA1	-a>
+VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	ubiquitin-dependent protein catabolic process	-ap>
+VEGFR1 homodimer/PLGF homodimer	PLCG1	-a>
+VEGFR1 homodimer/PLGF homodimer	PI3K	-a>
+CD2AP	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+HIF1A	FLT1	-t>
+GAB1	PI3K/GAB1	component>
+PTPN11	VEGFR1 homodimer/VEGFA homodimer/SHP2	component>
+CAV1	eNOS/Caveolin-1	component>
+CALM1	CaM/Ca2+	component>
+VEGFB	VEGFR1 homodimer/VEGFB homodimer	component>
+VEGFB	VEGFB homodimer	component>
+PGF	VEGFR1 homodimer/PLGF homodimer	component>
+PGF	PLGF homodimer	component>
+PIK3CA	PI3K/GAB1	component>
+PIK3CA	PI3K	component>
+AKT1	endothelial cell proliferation	-ap>
+AKT1	NOS3	-a>
+NOS3	mol:NO	-a>
+NOS3	mol:NADP	-a>
+NOS3	mol:L-citrulline	-a>
+NOS3	eNOS/Hsp90	component>
+NOS3	eNOS/Caveolin-1	component>
+MAPK1	platelet activating factor biosynthetic process	-ap>
+PIK3R1	PI3K/GAB1	component>
+PIK3R1	PI3K	component>
+MAPK3	platelet activating factor biosynthetic process	-ap>
+CBL	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+PLCG1	mol:IP3	-a>
+PLCG1	mol:DAG	-a>
+FLT1	VEGFR1 homodimer/VEGFB homodimer	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer/SHP2	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer/NCK1	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer	component>
+FLT1	VEGFR1 homodimer/PLGF homodimer	component>
+FLT1	VEGFR1 homodimer/NRP2/VEGFR121	component>
+FLT1	VEGFR1 homodimer/NRP2	component>
+FLT1	VEGFR1 homodimer/NRP1/VEGFR 121	component>
+FLT1	VEGFR1 homodimer/NRP1	component>
+FLT1	VEGFR1 homodimer	component>
+PRKACA	NOS3	-a>
+PRKCA	endothelial cell proliferation	-ap>
+PRKCA	MAPK1	-a>
+PRKCA	MAPK3	-a>
+NCK1	VEGFR1 homodimer/VEGFA homodimer/NCK1	component>
+VEGFA	VEGFR1 homodimer/NRP2/VEGFR121	component>
+VEGFA	VEGFR1 homodimer/NRP1/VEGFR 121	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer/SHP2	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer/NCK1	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer/CBL/CD2AP	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer	component>
+VEGFA	VEGFA homodimer	component>
+HSP90AA1	eNOS/Hsp90	component>
+PRKCB	endothelial cell proliferation	-ap>
+NRP2	VEGFR1 homodimer/NRP2/VEGFR121	component>
+NRP2	VEGFR1 homodimer/NRP2	component>
+PDPK1	AKT1	-a>
+RP11-342D11.1	VEGFR1 homodimer/NRP1/VEGFR 121	component>
+RP11-342D11.1	VEGFR1 homodimer/NRP1	component>
+PI3K/GAB1	AKT1	-a>
+PI3K	mol:PI-3-4-5-P3	-a>
+CaM/Ca2+	NOS3	-a>

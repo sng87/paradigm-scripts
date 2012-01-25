@@ -1,0 +1,41 @@
+complex	Serotonin loaded synaptic vesicle
+complex	SNARE complex
+complex	Rab3-RIM complex
+smallMolecule	Serotonin
+complex	Docked serotonin loaded synaptic vesicle
+protein	UniProt:P60880-1 SNAP25
+protein	UniProt:P61764-1 STXBP1
+protein	UniProt:Q16623-3 STX1A
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SYT1
+protein	SLC18A2
+protein	RIMS1
+protein	RAB3A
+protein	CPLX1
+SLC18A2	Serotonin	-a>
+Serotonin loaded synaptic vesicle	Docked serotonin loaded synaptic vesicle	component>
+Serotonin loaded synaptic vesicle	RAB3A	component>
+CPLX1	Docked serotonin loaded synaptic vesicle	component>
+CPLX1	RAB3A	component>
+UniProt:P60880-1 SNAP25	Docked serotonin loaded synaptic vesicle	component>
+UniProt:P60880-1 SNAP25	RAB3A	component>
+Rab3-RIM complex	Docked serotonin loaded synaptic vesicle	component>
+Rab3-RIM complex	RAB3A	component>
+UniProt:P61764-1 STXBP1	Docked serotonin loaded synaptic vesicle	component>
+UniProt:P61764-1 STXBP1	RAB3A	component>
+UniProt:Q16623-3 STX1A	Docked serotonin loaded synaptic vesicle	component>
+UniProt:Q16623-3 STX1A	RAB3A	component>
+Docked serotonin loaded synaptic vesicle	SYT1	component>
+Docked serotonin loaded synaptic vesicle	SNARE complex	component>
+Docked serotonin loaded synaptic vesicle	RAB3A	component>
+Docked serotonin loaded synaptic vesicle	SLC18A2	component>
+Docked serotonin loaded synaptic vesicle	Serotonin	component>
+Docked serotonin loaded synaptic vesicle	CPLX1	component>
+Docked serotonin loaded synaptic vesicle	RIMS1	component>
+Docked serotonin loaded synaptic vesicle	UniProt:P61764-1 STXBP1	component>
+ATP	ADP	-a>
+ATP	H+	-a>
+H+	ADP	-a>
+H+	H+	-a>

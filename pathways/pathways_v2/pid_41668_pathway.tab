@@ -1,0 +1,7 @@
+complex	Editosome for C to U editing
+complex	Stem-looped mRNA:ACF complex
+protein	ACF
+protein	APOBEC1
+ACF	Stem-looped mRNA:ACF complex	component>
+Stem-looped mRNA:ACF complex	Editosome for C to U editing	component>
+APOBEC1	Editosome for C to U editing	component>

@@ -1,0 +1,30 @@
+complex	DNA-PK:DNA synaptic complex with ligatable ends
+complex	DNA-PK synaptic complex
+complex	DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends
+complex	Ku70:Ku80 heterodimer
+complex	Ku:DNA double-strand break ends
+complex	DNA-PK holoenzyme
+protein	UniProt:P78527 PRKDC
+complex	XRCC4:DNA ligase IV complex
+smallMolecule	ATP
+smallMolecule	ADP
+protein	XRCC6
+protein	XRCC5
+protein	XRCC4
+protein	LIG4
+LIG4	XRCC4	component>
+DNA-PK holoenzyme	DNA-PK synaptic complex	component>
+Ku70:Ku80 heterodimer	Ku:DNA double-strand break ends	-a>
+XRCC4:DNA ligase IV complex	DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends	component>
+DNA-PK:DNA synaptic complex with ligatable ends	DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends	component>
+UniProt:P78527 PRKDC	DNA-PK holoenzyme	component>
+Ku:DNA double-strand break ends	DNA-PK holoenzyme	component>
+DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends	UniProt:P78527 PRKDC	component>
+DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends	XRCC6	component>
+DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends	XRCC5	component>
+DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends	LIG4	component>
+DNA-PK:XRCC4:DNA ligase IV:DNA  complex associated with ligatable DNA ends	XRCC4	component>
+ATP	ADP	-a>
+ATP	UniProt:P78527 PRKDC	-a>
+UniProt:P78527 PRKDC	ADP	-a>
+UniProt:P78527 PRKDC	UniProt:P78527 PRKDC	-a>

@@ -1,0 +1,40 @@
+protein	SopB
+protein	SptP
+protein	SipC
+complex	ARP2/3
+smallMolecule	salmonella
+protein	SopE
+protein	SipB
+protein	SipA
+smallMolecule	PIP2
+abstract	lamellipodium assembly
+smallMolecule	GDP
+smallMolecule	GTP
+protein	WASL
+protein	WASF1
+protein	RAC1
+protein	CDC42
+SptP	CDC42	-a|
+SptP	RAC1	-a|
+PIP2	CDC42	-a>
+lamellipodium assembly	salmonella	-a>
+SptP	SptP	-a>
+RAC1	WASL	-a>
+SipC	lamellipodium assembly	-ap>
+SipA	SipA	-a>
+SopE	CDC42	-a>
+SopE	SopE	-a>
+RAC1	WASF1	-a>
+CDC42	WASL	-a>
+WASF1	ARP2/3	-a>
+SopB	SopB	-a>
+GTP	GDP	-a>
+GTP	RAC1	-a>
+RAC1	GDP	-a>
+SopE	RAC1	-a>
+ARP2/3	lamellipodium assembly	-ap>
+SipB	SipB	-a>
+WASL	ARP2/3	-a>
+SipC	SipC	-a>
+SipA	lamellipodium assembly	-ap>
+SopB	PIP2	-a>

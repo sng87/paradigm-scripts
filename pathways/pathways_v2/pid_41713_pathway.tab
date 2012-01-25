@@ -1,0 +1,76 @@
+complex	prolylcarboxypeptidase dimer
+complex	GPIb:GPIX:GPV complex
+complex	factor XIIa
+complex	kallikrein:alpha2-macroglobulin
+complex	kininogen:C1q binding protein tetramer
+complex	kallikrein:kininogen:C1q binding protein tetramer
+complex	factor IXa
+complex	factor XI
+complex	factor Xa
+complex	kallikrein
+complex	activated thrombin (factor IIa)
+complex	kallikrein:C1Inh
+complex	alpha2-macroglobulin
+complex	factor VIIIa
+complex	factor XI:GPIb:GPIX:GPV complex
+protein	UniProt:P03952 KLKB1_subunit_20_638_20-638
+complex	prekallikrein:kininogen:C1q binding protein tetramer
+complex	factor VIIIa:factor IXa
+complex	factor XIIa:C1Inh
+complex	factor VIII
+complex	activated kininogen:C1q binding protein tetramer
+complex	factor X
+complex	factor XIa:GPIb:GPIX:GPV complex
+complex	von Willibrand factor multimer
+complex	factor VIII:von Willebrand factor multimer
+complex	C1q binding protein tetramer
+smallMolecule	Zn2+
+smallMolecule	Ca2+
+protein	SERPING1
+protein	KNG1
+protein	F9
+protein	F8
+protein	F12
+protein	F10
+Ca2+	F9	component>
+factor XIa:GPIb:GPIX:GPV complex	F9	component>
+prolylcarboxypeptidase dimer	kallikrein:kininogen:C1q binding protein tetramer	-a>
+Ca2+	factor VIIIa:factor IXa	component>
+KNG1	factor XIIa	component>
+kallikrein:kininogen:C1q binding protein tetramer	factor XIIa	component>
+activated thrombin (factor IIa)	factor XIa:GPIb:GPIX:GPV complex	-a>
+activated thrombin (factor IIa)	F8	component>
+factor XIIa	factor XIa:GPIb:GPIX:GPV complex	-a>
+Zn2+	kininogen:C1q binding protein tetramer	component>
+factor VIIIa:factor IXa	factor Xa	component>
+kallikrein:kininogen:C1q binding protein tetramer	kallikrein	component>
+kallikrein:kininogen:C1q binding protein tetramer	KNG1	component>
+kallikrein:kininogen:C1q binding protein tetramer	activated kininogen:C1q binding protein tetramer	component>
+F9	factor IXa	component>
+F9	F9	component>
+prekallikrein:kininogen:C1q binding protein tetramer	kallikrein:kininogen:C1q binding protein tetramer	-a>
+factor IXa	factor VIIIa:factor IXa	component>
+factor VIIIa	factor VIIIa:factor IXa	component>
+F12	factor XIIa	component>
+kallikrein	kallikrein:C1Inh	component>
+SERPING1	kallikrein:C1Inh	component>
+factor VIII:von Willebrand factor multimer	factor VIIIa	component>
+factor VIII:von Willebrand factor multimer	von Willibrand factor multimer	component>
+factor VIII:von Willebrand factor multimer	F8	component>
+GPIb:GPIX:GPV complex	factor XI:GPIb:GPIX:GPV complex	component>
+factor XI	factor XI:GPIb:GPIX:GPV complex	component>
+factor XI:GPIb:GPIX:GPV complex	factor XIa:GPIb:GPIX:GPV complex	-a>
+alpha2-macroglobulin	kallikrein:alpha2-macroglobulin	component>
+kallikrein	kallikrein:alpha2-macroglobulin	component>
+von Willibrand factor multimer	factor VIII:von Willebrand factor multimer	component>
+factor VIII	factor VIII:von Willebrand factor multimer	component>
+C1q binding protein tetramer	kininogen:C1q binding protein tetramer	component>
+KNG1	kininogen:C1q binding protein tetramer	component>
+factor X	F10	component>
+factor X	factor Xa	component>
+Ca2+	F10	component>
+Ca2+	factor Xa	component>
+factor XIIa	factor XIIa:C1Inh	component>
+SERPING1	factor XIIa:C1Inh	component>
+UniProt:P03952 KLKB1_subunit_20_638_20-638	prekallikrein:kininogen:C1q binding protein tetramer	component>
+kininogen:C1q binding protein tetramer	prekallikrein:kininogen:C1q binding protein tetramer	component>

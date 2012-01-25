@@ -1,0 +1,10 @@
+abstract	fatty acid oxidation
+complex	TIF2/TRAP220/PPAR-gamma/PBP/RXR
+complex	RXR/PPAR-gamma/PGC1-alpha/SRC1/CBP/p300
+abstract	fat cell differentiation
+protein	NCOA2
+protein	LPL
+NCOA2	fatty acid oxidation	-ap|
+TIF2/TRAP220/PPAR-gamma/PBP/RXR	fat cell differentiation	-ap>
+RXR/PPAR-gamma/PGC1-alpha/SRC1/CBP/p300	fatty acid oxidation	-ap>
+TIF2/TRAP220/PPAR-gamma/PBP/RXR	LPL	-t>

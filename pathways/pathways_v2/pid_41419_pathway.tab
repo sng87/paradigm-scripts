@@ -1,0 +1,41 @@
+smallMolecule	Aflatoxin B1exo-8,9-epoxide-GSH
+smallMolecule	Aflatoxin B1
+smallMolecule	2-Chloroethylene oxide
+smallMolecule	TPNH
+smallMolecule	Chloroethylene
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	Ethylene oxide
+smallMolecule	Ethylene
+smallMolecule	H+
+smallMolecule	O2
+protein	CYP3A4
+protein	CYP2E1
+protein	CYP1A1
+CYP1A1	Ethylene oxide	-a>
+CYP3A4	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+CYP2E1	H2O	-a>
+Ethylene	H2O	-a>
+Ethylene	TPN	-a>
+Ethylene	Ethylene oxide	-a>
+H+	Ethylene oxide	-a>
+TPNH	Ethylene oxide	-a>
+O2	Ethylene oxide	-a>
+Aflatoxin B1	H2O	-a>
+Aflatoxin B1	TPN	-a>
+Aflatoxin B1	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+H+	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+O2	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+TPNH	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+H+	TPN	-a>
+H+	2-Chloroethylene oxide	-a>
+H+	H2O	-a>
+O2	TPN	-a>
+O2	2-Chloroethylene oxide	-a>
+O2	H2O	-a>
+TPNH	TPN	-a>
+TPNH	2-Chloroethylene oxide	-a>
+TPNH	H2O	-a>
+Chloroethylene	TPN	-a>
+Chloroethylene	2-Chloroethylene oxide	-a>
+Chloroethylene	H2O	-a>

@@ -1,0 +1,18 @@
+complex	PIP3:PDK complex
+complex	PIP3:PKB complex
+smallMolecule	Phosphatidylinositol-3,4,5-trisphosphate
+protein	PKB regulator
+complex	PKB:PKB Regulator
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PDPK1
+PKB:PKB Regulator	PIP3:PKB complex	component>
+PKB:PKB Regulator	PKB regulator	component>
+Phosphatidylinositol-3,4,5-trisphosphate	PIP3:PKB complex	component>
+Phosphatidylinositol-3,4,5-trisphosphate	PKB regulator	component>
+PDPK1	PIP3:PDK complex	component>
+Phosphatidylinositol-3,4,5-trisphosphate	PIP3:PDK complex	component>
+ATP	ADP	-a>
+ATP	PIP3:PKB complex	-a>
+PIP3:PKB complex	ADP	-a>
+PIP3:PDK complex	PIP3:PKB complex	-a>

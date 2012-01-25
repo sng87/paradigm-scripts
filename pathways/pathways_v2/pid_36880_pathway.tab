@@ -1,0 +1,30 @@
+abstract	hyperosmotic response
+abstract	G2/M transition checkpoint
+abstract	response to hypoxia
+protein	PKN
+complex	p38 gamma/SNTA1
+protein	ZAK
+protein	STMN1
+protein	SNTA1
+protein	MAPT
+protein	MAPK13
+protein	MAPK12
+protein	MAP2K6
+protein	MAP2K3
+protein	EEF2K
+protein	CCND1
+MAPK12	MAPT	-a>
+MAPK12	CCND1	-a>
+PKN	ZAK	-a>
+response to hypoxia	MAPT	-a>
+MAP2K3	MAPK13	-a>
+response to hypoxia	CCND1	-a>
+hyperosmotic response	ZAK	-a>
+MAPK12	G2/M transition checkpoint	-ap>
+MAP2K6	MAPK12	-a>
+MAPK13	STMN1	-a>
+MAPK13	MAPT	-a>
+MAPK13	EEF2K	-a>
+SNTA1	p38 gamma/SNTA1	component>
+MAPK12	p38 gamma/SNTA1	component>
+ZAK	MAP2K6	-a>

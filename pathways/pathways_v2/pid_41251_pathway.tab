@@ -1,0 +1,10 @@
+complex	USP1:UAF1
+complex	FANCD and ub-FANCI-bound chromatin
+complex	ub-FANCD- and  ub-FANCI-bound chromatin
+protein	UniProt:P62988 RPS27A
+smallMolecule	phosphate
+protein	FANCD2
+USP1:UAF1	UniProt:P62988 RPS27A	component>
+ub-FANCD- and  ub-FANCI-bound chromatin	FANCD and ub-FANCI-bound chromatin	component>
+ub-FANCD- and  ub-FANCI-bound chromatin	UniProt:P62988 RPS27A	component>
+phosphate	FANCD2	-a>

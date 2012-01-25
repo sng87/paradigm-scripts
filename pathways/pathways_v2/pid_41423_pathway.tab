@@ -1,0 +1,71 @@
+complex	factor XIIIa
+protein	UniProt:P00488 F13A1_subunit_1_37_1-37
+complex	factor XIII
+complex	protein C
+complex	factor Vi
+protein	Platelet Factor 4
+complex	factor Va
+complex	thrombin:antithrombin III:heparin
+complex	factor Xa
+complex	thrombin:cleaved antithrombin III
+complex	factor XIII cleaved tetramer
+complex	Va:Xa complex (prothrombinase)
+complex	activated thrombin (factor IIa)
+complex	antithrombin III:heparin
+smallMolecule	NH4+
+protein	UniProt:P12259 F5_subunit_29_2224_29-2224
+complex	thrombin:cleaved antithrombin III:heparin
+protein	UniProt:P12259 F5_subunit_738_1573_738-1573
+complex	activated protein C
+complex	fibrin monomer
+complex	activated thrombin:thrombomodulin
+protein	_1-37
+complex	fibrin multimer
+complex	Fibrinogen
+smallMolecule	Ca2+
+protein	THBD
+protein	SERPINC1
+protein	PROS1
+protein	PROC
+protein	FGB
+protein	FGA
+protein	F2
+protein	F13B
+activated thrombin (factor IIa)	fibrin monomer	component>
+activated thrombin (factor IIa)	factor Va	component>
+activated thrombin:thrombomodulin	activated protein C	component>
+Platelet Factor 4	activated protein C	component>
+fibrin multimer	UniProt:P00488 F13A1_subunit_1_37_1-37	component>
+activated thrombin (factor IIa)	UniProt:P00488 F13A1_subunit_1_37_1-37	component>
+activated protein C	factor Vi	-a>
+PROS1	factor Vi	-a>
+factor Xa	F2	component>
+Va:Xa complex (prothrombinase)	activated thrombin (factor IIa)	component>
+Fibrinogen	FGA	component>
+Fibrinogen	FGB	component>
+Fibrinogen	fibrin monomer	component>
+THBD	activated thrombin:thrombomodulin	component>
+activated thrombin (factor IIa)	activated thrombin:thrombomodulin	component>
+UniProt:P12259 F5_subunit_29_2224_29-2224	UniProt:P12259 F5_subunit_738_1573_738-1573	component>
+UniProt:P12259 F5_subunit_29_2224_29-2224	factor Va	component>
+protein C	PROC	component>
+protein C	activated protein C	component>
+factor XIII cleaved tetramer	F13B	component>
+factor XIII cleaved tetramer	factor XIIIa	component>
+Ca2+	F13B	component>
+Ca2+	factor XIIIa	component>
+factor XIII	factor XIII cleaved tetramer	component>
+factor XIII	_1-37	component>
+factor XIII	UniProt:P00488 F13A1_subunit_1_37_1-37	component>
+thrombin:cleaved antithrombin III:heparin	thrombin:cleaved antithrombin III	-a>
+SERPINC1	antithrombin III:heparin	component>
+factor Va	factor Vi	-a>
+fibrin multimer	NH4+	component>
+F2	F2	component>
+F2	activated thrombin (factor IIa)	component>
+factor Va	Va:Xa complex (prothrombinase)	component>
+factor Xa	Va:Xa complex (prothrombinase)	component>
+thrombin:antithrombin III:heparin	thrombin:cleaved antithrombin III:heparin	-a>
+fibrin monomer	fibrin multimer	component>
+antithrombin III:heparin	thrombin:antithrombin III:heparin	component>
+activated thrombin (factor IIa)	thrombin:antithrombin III:heparin	component>

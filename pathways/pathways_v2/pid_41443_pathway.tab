@@ -1,0 +1,15 @@
+complex	Nef:class I MHC complex:Ap-1:PACS-1 Complex
+complex	AP-1 Complex
+complex	Nef:class I MHC complex
+complex	class I MHC complex
+protein	myristoylated Nef Protein (numerous variants)
+protein	PACS1
+Nef:class I MHC complex:Ap-1:PACS-1 Complex	PACS1	component>
+Nef:class I MHC complex:Ap-1:PACS-1 Complex	myristoylated Nef Protein (numerous variants)	component>
+Nef:class I MHC complex:Ap-1:PACS-1 Complex	AP-1 Complex	component>
+Nef:class I MHC complex:Ap-1:PACS-1 Complex	Nef:class I MHC complex:Ap-1:PACS-1 Complex	-a>
+PACS1	Nef:class I MHC complex:Ap-1:PACS-1 Complex	component>
+AP-1 Complex	Nef:class I MHC complex:Ap-1:PACS-1 Complex	component>
+Nef:class I MHC complex	Nef:class I MHC complex:Ap-1:PACS-1 Complex	component>
+class I MHC complex	Nef:class I MHC complex	component>
+myristoylated Nef Protein (numerous variants)	Nef:class I MHC complex	component>

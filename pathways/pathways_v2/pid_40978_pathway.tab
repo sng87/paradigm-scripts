@@ -1,0 +1,13 @@
+complex	Methylcytosine: MBD2 Complex
+complex	Phosphorylated UBF-1:rDNA promoter
+complex	Nucleosome (Deacetylated)
+complex	UBF-1:rDNA Promoter
+complex	phospho-ERK-1 dimer
+smallMolecule	ATP
+protein	UBTF
+phospho-ERK-1 dimer	Phosphorylated UBF-1:rDNA promoter	-a>
+Nucleosome (Deacetylated)	UBF-1:rDNA Promoter	component>
+Methylcytosine: MBD2 Complex	UBF-1:rDNA Promoter	component>
+ATP	Phosphorylated UBF-1:rDNA promoter	-a>
+UBF-1:rDNA Promoter	Phosphorylated UBF-1:rDNA promoter	-a>
+UBTF	UBF-1:rDNA Promoter	component>

@@ -1,0 +1,19 @@
+smallMolecule	alpha-D-Glucose
+smallMolecule	D-Galactose
+smallMolecule	D-mannose
+smallMolecule	Na+
+protein	SLC5A9
+protein	SLC5A2
+protein	SLC5A1
+SLC5A9	Na+	-a>
+SLC5A2	Na+	-a>
+Na+	D-Galactose	-a>
+D-Galactose	Na+	-a>
+SLC5A1	D-Galactose	-a>
+Na+	D-mannose	-a>
+D-mannose	D-mannose	-a>
+D-mannose	Na+	-a>
+Na+	alpha-D-Glucose	-a>
+Na+	Na+	-a>
+alpha-D-Glucose	alpha-D-Glucose	-a>
+alpha-D-Glucose	Na+	-a>

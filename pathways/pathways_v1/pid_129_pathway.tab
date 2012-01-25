@@ -1,0 +1,187 @@
+protein	CFL2
+protein	DIABLO
+protein	LRDD
+protein	CASP10
+protein	MADD
+protein	TRADD
+protein	NUMA1
+protein	CASP8
+protein	SPTAN1
+protein	RIPK1
+protein	BIRC2
+protein	BIRC3
+protein	MAP3K1
+protein	TRAF2
+protein	BAX
+protein	PTK2
+protein	LMNB2
+protein	SATB1
+protein	CYCS
+protein	XIAP
+protein	CRADD
+protein	ACTA1
+protein	BID
+protein	CASP6
+protein	CASP9
+protein	CASP7
+protein	LIMK1
+protein	ARHGDIB
+protein	CASP4
+protein	CASP2
+protein	CASP3
+protein	SREBF1
+protein	CASP1
+protein	LMNB1
+protein	TNFRSF1A
+protein	PRF1
+protein	TOP1
+protein	GZMB
+protein	PARP1
+protein	VIM
+protein	CRMA
+protein	GSN
+protein	KRT18
+protein	TFAP2A
+protein	APP
+protein	LMNA
+protein	TNF
+protein	DFFB
+protein	GAS2
+protein	APAF1
+protein	DFFA
+protein	SLK
+complex	p15 BID/BAX
+complex	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD
+complex	Mammalian IAPs/DIABLO
+complex	ICAD/CAD
+complex	APAF-1/Pro-Caspase 9
+complex	APAF-1/Caspase 9
+chemical	mol:NAD
+chemical	mol:Ca2+
+chemical	mol:Activated DNA
+abstract	stress fiber formation
+abstract	response to stress
+abstract	response to UV
+abstract	positive regulation of apoptosis
+abstract	nuclear fragmentation during apoptosis
+abstract	neuron apoptosis
+abstract	negative regulation of DNA binding
+abstract	apoptotic nuclear changes
+abstract	apoptosis
+abstract	actin filament polymerization
+abstract	JNK cascade
+abstract	DNA repair
+abstract	DNA fragmentation during apoptosis
+response to stress	CYCS	-ap>
+response to stress	BID	-ap>
+response to UV	MAP3K1	-ap>
+response to UV	KRT18	-ap>
+p15 BID/BAX	CYCS	-a>
+mol:NAD	PARP1	-a>
+mol:Ca2+	ACTA1	-a>
+mol:Activated DNA	PARP1	-a>
+CFL2	actin filament polymerization	-ap|
+DIABLO	Mammalian IAPs/DIABLO	component>
+LRDD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+CASP10	CYCS	-a>
+CASP10	CASP3	-a>
+MADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+TRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+NUMA1	nuclear fragmentation during apoptosis	-ap>
+NUMA1	DNA fragmentation during apoptosis	-ap>
+CASP8	BID	-a>
+CASP8	CASP3	-a>
+CASP8	APP	-a>
+SPTAN1	apoptotic nuclear changes	-ap>
+RIPK1	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+BIRC2	CASP7	-a|
+BIRC2	CASP3	-a|
+BIRC2	Mammalian IAPs/DIABLO	component>
+BIRC2	APAF-1/Caspase 9	-a|
+BIRC3	CASP7	-a|
+BIRC3	CASP3	-a|
+BIRC3	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+BIRC3	Mammalian IAPs/DIABLO	component>
+BIRC3	APAF-1/Caspase 9	-a|
+MAP3K1	JNK cascade	-ap|
+TRAF2	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+BAX	p15 BID/BAX	component>
+PTK2	PTK2	-a|
+LMNB2	positive regulation of apoptosis	-ap>
+CYCS	APAF-1/Caspase 9	-a>
+XIAP	CASP7	-a|
+XIAP	CASP3	-a|
+XIAP	Mammalian IAPs/DIABLO	component>
+XIAP	APAF-1/Caspase 9	-a|
+CRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+BID	p15 BID/BAX	component>
+CASP6	NUMA1	-a>
+CASP6	PTK2	-a>
+CASP6	LMNB2	-a>
+CASP6	SATB1	-a>
+CASP6	LMNB1	-a>
+CASP6	TOP1	-a>
+CASP6	VIM	-a>
+CASP6	KRT18	-a>
+CASP6	TFAP2A	-a>
+CASP6	APP	-a>
+CASP6	LMNA	-a>
+CASP9	APAF-1/Pro-Caspase 9	component>
+CASP9	APAF-1/Caspase 9	component>
+CASP7	PARP1	-a>
+CASP7	VIM	-a>
+LIMK1	CFL2	-a>
+CASP4	CASP1	-a>
+CASP2	LMNB2	-a>
+CASP2	CASP6	-a>
+CASP2	CASP7	-a>
+CASP2	CASP3	-a>
+CASP2	LMNB1	-a>
+CASP2	LMNA	-a>
+CASP3	NUMA1	-a>
+CASP3	SPTAN1	-a>
+CASP3	MAP3K1	-a>
+CASP3	PTK2	-a>
+CASP3	ACTA1	-a>
+CASP3	CASP6	-a>
+CASP3	LIMK1	-a>
+CASP3	ARHGDIB	-a>
+CASP3	SREBF1	-a>
+CASP3	TOP1	-a>
+CASP3	PARP1	-a>
+CASP3	VIM	-a>
+CASP3	GSN	-a>
+CASP3	DFFB	-a>
+CASP3	GAS2	-a>
+CASP3	DFFA	-a>
+CASP3	SLK	-a>
+CASP1	CASP3	-a>
+LMNB1	positive regulation of apoptosis	-ap>
+TNFRSF1A	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+PRF1	GZMB	-a>
+GZMB	CASP10	-a>
+GZMB	BID	-a>
+GZMB	CASP7	-a>
+GZMB	CASP3	-a>
+PARP1	DNA repair	-ap|
+VIM	apoptosis	-ap>
+CRMA	CASP8	-a|
+CRMA	CASP1	-a|
+GSN	CYCS	-a|
+GSN	ACTA1	-a>
+TFAP2A	negative regulation of DNA binding	-ap>
+APP	neuron apoptosis	-ap>
+LMNA	positive regulation of apoptosis	-ap>
+TNF	TFAP2A	-a>
+TNF	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	component>
+DFFB	ICAD/CAD	component>
+DFFB	DNA fragmentation during apoptosis	-ap>
+APAF1	APAF-1/Pro-Caspase 9	component>
+APAF1	APAF-1/Caspase 9	component>
+DFFA	ICAD/CAD	component>
+SLK	stress fiber formation	-ap>
+SLK	apoptosis	-ap>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD/PIDD	CASP2	-a>
+Mammalian IAPs/DIABLO	APAF-1/Caspase 9	-a>
+APAF-1/Caspase 9	CASP7	-a>
+APAF-1/Caspase 9	CASP3	-a>

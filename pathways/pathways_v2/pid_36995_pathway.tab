@@ -1,0 +1,89 @@
+abstract	germ cell development
+abstract	neuron apoptosis
+abstract	oxygen homeostasis
+abstract	response to hypoxia
+abstract	degradation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	VHL/Elongin B/Elongin C
+complex	FIH (dimer)
+protein	MT1-MMP
+complex	HIF2A/ARNT/SIRT1
+complex	VHL/Elongin B/Elongin C/HIF2A
+protein	PHD1-3
+complex	HIF2A/ARNT
+complex	HIF2A/ARNT/Cbp/p300
+protein	Cbp/p300
+protein	VEGFA
+protein	TWIST1
+protein	SP1
+protein	SLC2A1
+protein	SLC11A2
+protein	SIRT1
+protein	SERPINE1
+protein	POU5F1
+protein	PGK1
+protein	KDR
+protein	FXN
+protein	FLT1
+protein	ETS1
+protein	EPO
+protein	EPAS1
+protein	ELK1
+protein	EIF3E
+protein	EFNA1
+protein	CITED2
+protein	BHLHE40
+protein	ARNT
+protein	APEX1
+protein	ADORA2A
+protein	ABCG2
+SP1	MT1-MMP	-t>
+ELK1	CITED2	-t>
+HIF2A/ARNT	CITED2	-t>
+FIH (dimer)	EPAS1	-a>
+PHD1-3	EPAS1	-a>
+HIF2A/ARNT	SLC2A1	-t>
+HIF2A/ARNT	ADORA2A	-t>
+APEX1	HIF2A/ARNT	-a>
+HIF2A/ARNT	FXN	-t>
+ETS1	FLT1	-t>
+response to hypoxia	HIF2A/ARNT/SIRT1	component>
+HIF2A/ARNT	TWIST1	-t>
+ETS1	KDR	-t>
+EIF3E	degradation	-ap>
+HIF2A/ARNT	MT1-MMP	-t>
+HIF2A/ARNT	EPO	-t>
+HIF2A/ARNT	VEGFA	-t>
+HIF2A/ARNT	SLC11A2	-t>
+response to hypoxia	CITED2	-t>
+HIF2A/ARNT	SERPINE1	-t>
+HIF2A/ARNT	ABCG2	-t>
+Cbp/p300	EPAS1	component>
+Cbp/p300	HIF2A/ARNT/Cbp/p300	component>
+EPAS1	EPAS1	component>
+EPAS1	HIF2A/ARNT/Cbp/p300	component>
+HIF2A/ARNT	EPAS1	component>
+HIF2A/ARNT	HIF2A/ARNT/Cbp/p300	component>
+HIF2A/ARNT	EFNA1	-t>
+HIF2A/ARNT	neuron apoptosis	-ap|
+HIF2A/ARNT	POU5F1	-t>
+oxygen homeostasis	EPAS1	-a>
+response to hypoxia	SLC2A1	-t>
+VHL/Elongin B/Elongin C	VHL/Elongin B/Elongin C/HIF2A	component>
+EPAS1	VHL/Elongin B/Elongin C/HIF2A	component>
+response to hypoxia	ADORA2A	-t>
+HIF2A/ARNT	HIF2A/ARNT	-a>
+POU5F1	germ cell development	-ap>
+response to hypoxia	FXN	-t>
+VHL/Elongin B/Elongin C/HIF2A	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+ARNT	HIF2A/ARNT	component>
+EPAS1	HIF2A/ARNT	component>
+HIF2A/ARNT	PGK1	-t>
+HIF2A/ARNT/SIRT1	EPO	-t>
+HIF2A/ARNT	BHLHE40	-t>
+HIF2A/ARNT	FLT1	-t>
+SIRT1	HIF2A/ARNT/SIRT1	component>
+HIF2A/ARNT	HIF2A/ARNT/SIRT1	component>
+response to hypoxia	TWIST1	-t>
+HIF2A/ARNT	KDR	-t>
+EPAS1	degradation	-ap>

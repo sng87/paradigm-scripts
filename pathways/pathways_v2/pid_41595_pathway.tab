@@ -1,0 +1,29 @@
+complex	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4
+complex	Antigen-bearing MHC Class II  : TCR complex:CD4:Lck
+complex	Csk:Cbp/PAG
+smallMolecule	H2O
+smallMolecule	PPi
+complex	Antigen-bearing MHC Class II : TCR complex:CD4:Lck pY505
+complex	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PTPRC
+protein	PAG1
+protein	CSK
+Csk:Cbp/PAG	ADP	-a>
+PTPRC	Antigen-bearing MHC Class II  : TCR complex:CD4:Lck	-a>
+CSK	Csk:Cbp/PAG	component>
+PAG1	Csk:Cbp/PAG	component>
+Antigen-bearing MHC Class II  : TCR complex:CD4:Lck	Antigen-bearing MHC Class II : TCR complex:CD4:Lck pY505	-a>
+ATP	Antigen-bearing MHC Class II : TCR complex:CD4:Lck pY505	-a>
+Antigen-bearing MHC Class II : TCR complex:CD4:Lck pY505	PPi	-a>
+Antigen-bearing MHC Class II : TCR complex:CD4:Lck pY505	Antigen-bearing MHC Class II  : TCR complex:CD4:Lck	-a>
+H2O	PPi	-a>
+H2O	Antigen-bearing MHC Class II  : TCR complex:CD4:Lck	-a>
+Antigen-bearing MHC Class II  : TCR complex:CD4:Lck	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	-a>
+Antigen-bearing MHC Class II  : TCR complex:CD4:Lck	ADP	-a>
+ATP	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	-a>
+ATP	ADP	-a>
+ATP	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	-a>
+Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	ADP	-a>
+Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	-a>

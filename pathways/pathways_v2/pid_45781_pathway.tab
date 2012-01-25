@@ -1,0 +1,19 @@
+complex	TCR-CD3/MHC II/CD4
+complex	TCR-CD3/MHC II/CD4/LCK
+complex	TCR-CD3
+complex	TCR-CD3/MHC II/CD4/LCK/ZAP70
+complex	MHC class II
+protein	ZAP70
+protein	PTPRC
+protein	LCK
+protein	FYN
+protein	CD4
+CD4	TCR-CD3/MHC II/CD4	component>
+MHC class II	TCR-CD3/MHC II/CD4	component>
+TCR-CD3	TCR-CD3/MHC II/CD4	component>
+PTPRC	FYN	-a>
+LCK	TCR-CD3/MHC II/CD4/LCK	component>
+TCR-CD3/MHC II/CD4	TCR-CD3/MHC II/CD4/LCK	component>
+PTPRC	LCK	-a>
+ZAP70	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+TCR-CD3/MHC II/CD4/LCK	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>

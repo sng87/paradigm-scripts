@@ -1,0 +1,135 @@
+abstract	establishment of epithelial cell apical/basal polarity
+abstract	Wnt receptor signaling pathway
+abstract	microtubule-based movement
+abstract	cortical actin cytoskeleton stabilization
+abstract	epithelial cell differentiation
+abstract	regulation of cell-cell adhesion
+abstract	adherens junction assembly
+abstract	cortical microtubule organization
+abstract	regulation of calcium-dependent cell-cell adhesion
+abstract	actin cable formation
+abstract	actin cytoskeleton organization
+abstract	adherens junction organization
+complex	NCK1/GIT1
+complex	ARF6/GTP
+complex	ABI1/Sra1/Nap1
+protein	Myosin VI
+complex	HGF/MET
+complex	IGF-1R heterotetramer
+protein	exocyst
+complex	ARF6/GDP
+complex	RhoA/GDP
+smallMolecule	PI-4-P
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN
+complex	nectin-2(dimer)/I-afadin/I-afadin/nectin-2(dimer/I-afadin/I-afadin
+complex	IGF-1R heterotetramer/IGF1
+complex	myosin II complex
+complex	cortical actin cytoskeleton
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN/cortical actin cytoskeleton
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin
+smallMolecule	PI-4-5-P2
+complex	Ephrin A1/EPHA2
+complex	EGFR/EGFR/EGF/EGF
+complex	SEC6/SEC8
+complex	Ephrin A1/EPHA2/NCK1/GIT1
+complex	RhoA/GTP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ZYX
+protein	VCL
+protein	VASP
+protein	STX4
+protein	ROCK1
+protein	PLEKHA7
+protein	PIP5K1C
+protein	MGAT3
+protein	MET
+protein	LPP
+protein	LIMA1
+protein	KIF3C
+protein	KIAA1543
+protein	IGF1
+protein	HGF
+protein	ENAH
+protein	EGFR
+protein	EGF
+protein	DIAPH1
+protein	AQP5
+protein	AQP3
+protein	ACTN1
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	EGFR/EGFR/EGF/EGF	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	RhoA/GTP	-a>
+STX4	establishment of epithelial cell apical/basal polarity	-ap>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	IGF-1R heterotetramer/IGF1	component>
+PIP5K1C	PI-4-5-P2	-a>
+Ephrin A1/EPHA2/NCK1/GIT1	ARF6/GDP	-a>
+STX4	AQP3	-a>
+SEC6/SEC8	AQP3	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	Ephrin A1/EPHA2	component>
+nectin-2(dimer)/I-afadin/I-afadin/nectin-2(dimer/I-afadin/I-afadin	SEC6/SEC8	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	HGF/MET	component>
+EGF	EGFR/EGFR/EGF/EGF	component>
+EGFR	EGFR/EGFR/EGF/EGF	component>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+ACTN1	LPP	-a>
+myosin II complex	adherens junction organization	-ap>
+SEC6/SEC8	establishment of epithelial cell apical/basal polarity	-ap>
+myosin II complex	regulation of cell-cell adhesion	-ap>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	ACTN1	-a>
+KIAA1543	adherens junction assembly	-ap>
+VCL	regulation of cell-cell adhesion	-ap>
+ENAH	actin cable formation	-ap>
+RhoA/GTP	ROCK1	-a>
+ROCK1	myosin II complex	-a>
+IGF-1R heterotetramer	IGF-1R heterotetramer/IGF1	component>
+IGF1	IGF-1R heterotetramer/IGF1	component>
+ZYX	VASP	-a>
+PI-4-5-P2	exocyst	-a>
+RhoA/GTP	DIAPH1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	STX4	-a>
+PI-4-P	PI-4-5-P2	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	KIF3C	-a>
+KIF3C	adherens junction assembly	-ap>
+VCL	actin cytoskeleton organization	-ap>
+GDP	GTP	-a>
+GDP	ARF6/GDP	-a>
+ARF6/GTP	GTP	-a>
+ARF6/GTP	ARF6/GDP	-a>
+ROCK1	ENAH	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	PIP5K1C	-a>
+MGAT3	regulation of calcium-dependent cell-cell adhesion	-ap>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	VCL	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	Wnt receptor signaling pathway	-ap|
+PI-4-5-P2	adherens junction assembly	-ap>
+VASP	actin cable formation	-ap>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	Myosin VI	-a>
+AQP5	AQP5	-a>
+AQP5	AQP3	-a>
+AQP3	AQP5	-a>
+microtubule-based movement	AQP3	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	MGAT3	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	ZYX	-a>
+ABI1/Sra1/Nap1	DIAPH1	-a>
+NCK1/GIT1	Ephrin A1/EPHA2/NCK1/GIT1	component>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2/NCK1/GIT1	component>
+PLEKHA7	KIAA1543	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN/cortical actin cytoskeleton	cortical actin cytoskeleton stabilization	-ap>
+Myosin VI	VCL	-a>
+DIAPH1	adherens junction assembly	-ap>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	epithelial cell differentiation	-ap>
+Ephrin A1/EPHA2	Ephrin A1/EPHA2	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	SEC6/SEC8	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	PLEKHA7	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN/cortical actin cytoskeleton	adherens junction organization	-ap>
+DIAPH1	actin cable formation	-ap>
+MET	HGF/MET	component>
+HGF	HGF/MET	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	cortical microtubule organization	-ap>
+LIMA1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN	component>
+LPP	VASP	-a>
+cortical actin cytoskeleton	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN/cortical actin cytoskeleton	component>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin/EPLIN/cortical actin cytoskeleton	component>

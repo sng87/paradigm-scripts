@@ -1,0 +1,24 @@
+protein	TCF8
+complex	SUMO1/CtBP1/ZEB1
+complex	SUMO1/CtBP1
+complex	NOS I/CtBP1
+protein	UBE1
+smallMolecule	ATP
+protein	UBE3A
+protein	UBE2A
+protein	SUMO1
+protein	NOS1
+protein	CTBP1
+protein	CDH1
+UBE2A	SUMO1/CtBP1	component>
+UBE1	SUMO1/CtBP1	component>
+UBE3A	SUMO1/CtBP1	component>
+SUMO1/CtBP1/ZEB1	CDH1	-t>
+SUMO1/CtBP1	SUMO1/CtBP1	-a>
+CTBP1	NOS I/CtBP1	component>
+NOS1	NOS I/CtBP1	component>
+TCF8	SUMO1/CtBP1/ZEB1	component>
+SUMO1/CtBP1	SUMO1/CtBP1/ZEB1	component>
+ATP	SUMO1/CtBP1	component>
+CTBP1	SUMO1/CtBP1	component>
+SUMO1	SUMO1/CtBP1	component>

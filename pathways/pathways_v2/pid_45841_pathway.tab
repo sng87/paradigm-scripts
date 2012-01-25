@@ -1,0 +1,46 @@
+complex	GH/GH R/GH R/JAK2/JAK2
+complex	SHC/GRB2/SOS-1
+complex	SRF/SRF/TCF
+complex	STAT5/STAT5
+complex	GH R/GH R/JAK2/JAK2
+complex	Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb
+complex	Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PKC
+protein	STAT5
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	SLC2A14
+protein	RPS6KA1
+protein	PTPN6
+protein	PLCG1
+protein	IRS1
+protein	INS
+protein	GH1
+protein	CISH
+GH/GH R/GH R/JAK2/JAK2	STAT5/STAT5	component>
+PLCG1	DAG	-a>
+Ca2+	PKC	-a>
+Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	component>
+INS	Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	component>
+PI3K	SLC2A14	-a>
+STAT5/STAT5	STAT5/STAT5	-a>
+CISH	GH/GH R/GH R/JAK2/JAK2	-a>
+STAT5	STAT5/STAT5	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+PKC	PKC	-a>
+PTPN6	GH/GH R/GH R/JAK2/JAK2	-a>
+Ca2+	Ca2+	-a>
+RPS6KA1	SRF/SRF/TCF	-a>
+GH R/GH R/JAK2/JAK2	GH/GH R/GH R/JAK2/JAK2	component>
+GH1	GH/GH R/GH R/JAK2/JAK2	component>
+GH/GH R/GH R/JAK2/JAK2	IRS1	-a>
+DAG	PKC	-a>
+GH/GH R/GH R/JAK2/JAK2	PLCG1	-a>
+IRS1	PI3K	-a>
+Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	SHC/GRB2/SOS-1	-a>
+Insulin/Insulin Ra/Insulin Ra/Insulin Rb/Insulin Rb	IRS1	-a>
+PKC	STAT5	-a>

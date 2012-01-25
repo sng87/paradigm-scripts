@@ -1,0 +1,60 @@
+abstract	negative regulation of T cell proliferation
+abstract	calcium-dependent phospholipase C activity
+abstract	negative regulation of cAMP metabolic process
+abstract	receptor internalization
+abstract	endothelial cell migration
+complex	S1P1/S1P/Gi
+complex	S1P1/S1P
+complex	VEGFR2 homodimer/VEGFA homodimer
+protein	ERK1-2-active
+protein	PKC
+protein	ERK1-2
+complex	RhoA/GDP
+complex	RAC1/GDP
+complex	PAK1
+complex	PDGFB-D/PDGFRB/PLCgamma1
+protein	S1P1
+complex	S1P1/S1P/PDGFB-D/PDGFRB
+smallMolecule	sphingosine
+complex	PDGFB-D/PDGFRB
+complex	RhoA/GTP
+complex	alphaV/beta3 Integrin
+smallMolecule	S1P
+protein	Gi family
+protein	SPHK1
+protein	PTGS2
+protein	PLCG1
+protein	PLCB2
+protein	ABCC1
+SPHK1	S1P	-a>
+S1P1/S1P	RhoA/GTP	-a>
+PDGFB-D/PDGFRB/PLCgamma1	SPHK1	-a>
+PKC	S1P1/S1P	-a>
+S1P1/S1P/Gi	ERK1-2-active	-a>
+S1P1/S1P	PAK1	-a>
+S1P1/S1P/Gi	negative regulation of cAMP metabolic process	-ap>
+S1P1/S1P	PLCB2	-a>
+S1P1/S1P/Gi	negative regulation of T cell proliferation	-ap>
+sphingosine	S1P	-a>
+Gi family	S1P1/S1P/Gi	component>
+S1P1/S1P	S1P1/S1P/Gi	component>
+RhoA/GDP	RhoA/GTP	-a>
+S1P1	S1P1/S1P	component>
+S1P	S1P1/S1P	component>
+calcium-dependent phospholipase C activity	SPHK1	-a>
+S1P1/S1P	receptor internalization	-ap>
+S1P1/S1P	S1P1/S1P	-a>
+ERK1-2	ERK1-2-active	-a>
+PLCG1	PDGFB-D/PDGFRB/PLCgamma1	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/PLCgamma1	component>
+VEGFR2 homodimer/VEGFA homodimer	S1P1	-t>
+ERK1-2-active	PTGS2	-t>
+RAC1/GDP	PAK1	-a>
+S1P1	S1P1	-a>
+RhoA/GTP	endothelial cell migration	-ap>
+PAK1	endothelial cell migration	-ap>
+alphaV/beta3 Integrin	endothelial cell migration	-ap>
+ABCC1	S1P	-a>
+PDGFB-D/PDGFRB	S1P1/S1P/PDGFB-D/PDGFRB	component>
+S1P1/S1P	S1P1/S1P/PDGFB-D/PDGFRB	component>
+S1P1/S1P/Gi	PLCG1	-a>

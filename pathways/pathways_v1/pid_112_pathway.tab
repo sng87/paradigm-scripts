@@ -1,0 +1,376 @@
+protein	PIAS3
+protein	DCP1A
+protein	TGIF2
+protein	CITED1
+protein	SIN3A
+protein	MED15
+protein	IRF7
+protein	KAT2B
+protein	GCN5L2
+protein	CREBBP
+protein	HDAC2
+protein	SNIP1
+protein	PIAS4
+protein	RBBP7
+protein	E2F4
+protein	SMAD2
+protein	NCOA1
+protein	NCOA2
+protein	TGIF1
+protein	E2F5
+protein	TFDP1
+protein	CBFB
+protein	RUNX2
+protein	RUNX3
+protein	HDAC1
+protein	SMAD4
+protein	CTBP1
+protein	ZBTB17
+protein	FOXO1
+protein	EP300
+protein	RBBP4
+protein	MEF2C
+protein	SP3
+protein	RUNX1
+protein	FOXO4
+protein	SMAD3
+protein	MAX
+protein	GSC
+protein	DLX1
+protein	FOXG1
+protein	NKX2-5
+protein	CDKN2B
+protein	HNF4A
+protein	CDKN1A
+protein	AKT1
+protein	RBL1
+protein	CDK2
+protein	GATA3
+protein	IL10
+protein	TFE3
+protein	ATF3
+protein	ITGB5
+protein	CEBPB
+protein	CREB1
+protein	TCF3
+protein	ATF2
+protein	MYOD1
+protein	SKIL
+protein	SKI
+protein	CDK4
+protein	VDR
+protein	HSPA8
+protein	LAMC1
+protein	AR
+protein	COL1A2
+protein	SP1
+protein	JUN
+protein	SERPINE1
+protein	IL5
+protein	NR3C1
+protein	ESR1
+protein	IGHV3OR16-13
+protein	IFNB1
+protein	MYC
+protein	FOS
+protein	FOXH1
+protein	SAP30
+protein	NCOR1
+protein	SIN3B
+protein	FOXO3
+protein	SMAD7
+protein	SAP18
+complex	TGIF2/HDAC complex/SMAD3/SMAD4
+complex	TGIF2/HDAC complex
+complex	TGIF/SIN3/HDAC complex/CtBP
+complex	SnoN/SIN3/HDAC complex/NCoR1
+complex	SMAD3/SMAD4/VDR
+complex	SMAD3/SMAD4/TFE3
+complex	SMAD3/SMAD4/SP1-3
+complex	SMAD3/SMAD4/SP1
+complex	SMAD3/SMAD4/RUNX2
+complex	SMAD3/SMAD4/RUNX1-3/PEBPB2
+complex	SMAD3/SMAD4/Max
+complex	SMAD3/SMAD4/MYOD
+complex	SMAD3/SMAD4/MEF2C
+complex	SMAD3/SMAD4/IRF7
+complex	SMAD3/SMAD4/HNF4
+complex	SMAD3/SMAD4/GR
+complex	SMAD3/SMAD4/GATA3
+complex	SMAD3/SMAD4/ER alpha
+complex	SMAD3/SMAD4/DLX1
+complex	SMAD3/SMAD4/ATF3
+complex	SMAD3/SMAD4/ATF2
+complex	SMAD3/SMAD4/AR
+complex	SMAD3/SMAD4/AP1
+complex	SMAD3/SMAD4
+complex	SMAD3/E2F4-5/DP1/p107/SMAD4
+complex	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1
+complex	SMAD2/SMAD2/SMAD4/FOXH1/SMIF
+complex	SMAD2/SMAD2/SMAD4/FOXH1/NKX2-5
+complex	SMAD2/SMAD2/SMAD4/FOXH1
+complex	SMAD2/SMAD2/SMAD4
+complex	SMAD2-3/SMAD4/SP1/MIZ-1
+complex	SMAD2-3/SMAD4/SP1
+complex	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1
+complex	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB
+complex	SMAD2-3/SMAD4/FOXO1-3a-4
+complex	SMAD2-3/SMAD4/ARC105
+complex	SMAD2-3/SMAD4
+complex	SKI/SIN3/HDAC complex/NCoR1
+complex	RUNX1-3/PEBPB2
+complex	PIASy/HDAC complex
+complex	MYOD/E2A
+complex	MYC/MIZ-1
+complex	MSG1/HSC70
+complex	MEF2C/TIF2
+complex	Cbp/p300/Src-1
+complex	Cbp/p300/SNIP1
+complex	Cbp/p300/PIAS3
+complex	Cbp/p300/MSG1
+complex	AP1
+abstract	negative regulation of cell growth
+abstract	muscle cell differentiation
+abstract	mesenchymal cell differentiation
+abstract	heart looping
+abstract	endothelial cell migration
+PIAS3	Cbp/p300/PIAS3	component>
+DCP1A	SMAD2/SMAD2/SMAD4/FOXH1/SMIF	component>
+TGIF2	TGIF2/HDAC complex/SMAD3/SMAD4	component>
+TGIF2	TGIF2/HDAC complex	component>
+CITED1	MSG1/HSC70	component>
+CITED1	Cbp/p300/MSG1	component>
+SIN3A	TGIF/SIN3/HDAC complex/CtBP	component>
+SIN3A	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+SIN3A	SKI/SIN3/HDAC complex/NCoR1	component>
+MED15	SMAD2-3/SMAD4/ARC105	component>
+IRF7	SMAD3/SMAD4/IRF7	component>
+KAT2B	SMAD3/SMAD4	-a>
+KAT2B	SMAD2/SMAD2/SMAD4	-a>
+GCN5L2	SMAD3/SMAD4	-a>
+CREBBP	SMAD3/SMAD4	-a>
+CREBBP	Cbp/p300/Src-1	component>
+CREBBP	Cbp/p300/SNIP1	component>
+CREBBP	Cbp/p300/PIAS3	component>
+CREBBP	Cbp/p300/MSG1	component>
+HDAC2	TGIF/SIN3/HDAC complex/CtBP	component>
+HDAC2	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+HDAC2	SKI/SIN3/HDAC complex/NCoR1	component>
+SNIP1	Cbp/p300/SNIP1	component>
+PIAS4	PIASy/HDAC complex	component>
+RBBP7	TGIF/SIN3/HDAC complex/CtBP	component>
+RBBP7	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+RBBP7	SKI/SIN3/HDAC complex/NCoR1	component>
+E2F4	SMAD3/E2F4-5/DP1/p107/SMAD4	component>
+SMAD2	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+SMAD2	SMAD2/SMAD2/SMAD4/FOXH1/SMIF	component>
+SMAD2	SMAD2/SMAD2/SMAD4/FOXH1/NKX2-5	component>
+SMAD2	SMAD2/SMAD2/SMAD4/FOXH1	component>
+SMAD2	SMAD2/SMAD2/SMAD4	component>
+SMAD2	SMAD2-3/SMAD4/SP1/MIZ-1	component>
+SMAD2	SMAD2-3/SMAD4/SP1	component>
+SMAD2	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	component>
+SMAD2	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	component>
+SMAD2	SMAD2-3/SMAD4/FOXO1-3a-4	component>
+SMAD2	SMAD2-3/SMAD4/ARC105	component>
+SMAD2	SMAD2-3/SMAD4	component>
+NCOA1	Cbp/p300/Src-1	component>
+NCOA2	MEF2C/TIF2	component>
+TGIF1	TGIF/SIN3/HDAC complex/CtBP	component>
+E2F5	SMAD3/E2F4-5/DP1/p107/SMAD4	component>
+TFDP1	SMAD3/E2F4-5/DP1/p107/SMAD4	component>
+CBFB	SMAD3/SMAD4/RUNX1-3/PEBPB2	component>
+CBFB	RUNX1-3/PEBPB2	component>
+RUNX2	SMAD3/SMAD4/RUNX2	component>
+RUNX3	SMAD3/SMAD4/RUNX1-3/PEBPB2	component>
+RUNX3	RUNX1-3/PEBPB2	component>
+HDAC1	TGIF/SIN3/HDAC complex/CtBP	component>
+HDAC1	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+HDAC1	SKI/SIN3/HDAC complex/NCoR1	component>
+SMAD4	TGIF2/HDAC complex/SMAD3/SMAD4	component>
+SMAD4	SMAD3/SMAD4/VDR	component>
+SMAD4	SMAD3/SMAD4/TFE3	component>
+SMAD4	SMAD3/SMAD4/SP1-3	component>
+SMAD4	SMAD3/SMAD4/SP1	component>
+SMAD4	SMAD3/SMAD4/RUNX2	component>
+SMAD4	SMAD3/SMAD4/RUNX1-3/PEBPB2	component>
+SMAD4	SMAD3/SMAD4/Max	component>
+SMAD4	SMAD3/SMAD4/MYOD	component>
+SMAD4	SMAD3/SMAD4/MEF2C	component>
+SMAD4	SMAD3/SMAD4/IRF7	component>
+SMAD4	SMAD3/SMAD4/HNF4	component>
+SMAD4	SMAD3/SMAD4/GR	component>
+SMAD4	SMAD3/SMAD4/GATA3	component>
+SMAD4	SMAD3/SMAD4/ER alpha	component>
+SMAD4	SMAD3/SMAD4/DLX1	component>
+SMAD4	SMAD3/SMAD4/ATF3	component>
+SMAD4	SMAD3/SMAD4/ATF2	component>
+SMAD4	SMAD3/SMAD4/AR	component>
+SMAD4	SMAD3/SMAD4/AP1	component>
+SMAD4	SMAD3/SMAD4	component>
+SMAD4	SMAD3/E2F4-5/DP1/p107/SMAD4	component>
+SMAD4	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+SMAD4	SMAD2/SMAD2/SMAD4/FOXH1/SMIF	component>
+SMAD4	SMAD2/SMAD2/SMAD4/FOXH1/NKX2-5	component>
+SMAD4	SMAD2/SMAD2/SMAD4/FOXH1	component>
+SMAD4	SMAD2/SMAD2/SMAD4	component>
+SMAD4	SMAD2-3/SMAD4/SP1/MIZ-1	component>
+SMAD4	SMAD2-3/SMAD4/SP1	component>
+SMAD4	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	component>
+SMAD4	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	component>
+SMAD4	SMAD2-3/SMAD4/FOXO1-3a-4	component>
+SMAD4	SMAD2-3/SMAD4/ARC105	component>
+SMAD4	SMAD2-3/SMAD4	component>
+CTBP1	TGIF/SIN3/HDAC complex/CtBP	component>
+ZBTB17	SMAD2-3/SMAD4/SP1/MIZ-1	component>
+ZBTB17	MYC/MIZ-1	component>
+FOXO1	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	component>
+FOXO1	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	component>
+FOXO1	SMAD2-3/SMAD4/FOXO1-3a-4	component>
+EP300	SMAD3/SMAD4	-a>
+EP300	SMAD2/SMAD2/SMAD4/FOXH1/SMIF	-a>
+EP300	Cbp/p300/Src-1	component>
+EP300	Cbp/p300/SNIP1	component>
+EP300	Cbp/p300/PIAS3	component>
+EP300	Cbp/p300/MSG1	component>
+RBBP4	TGIF/SIN3/HDAC complex/CtBP	component>
+RBBP4	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+RBBP4	SKI/SIN3/HDAC complex/NCoR1	component>
+MEF2C	heart looping	-ap>
+MEF2C	SMAD3/SMAD4/MEF2C	component>
+MEF2C	MEF2C/TIF2	component>
+SP3	SMAD3/SMAD4/SP1-3	component>
+RUNX1	SMAD3/SMAD4/RUNX1-3/PEBPB2	component>
+RUNX1	RUNX1-3/PEBPB2	component>
+FOXO4	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	component>
+FOXO4	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	component>
+FOXO4	SMAD2-3/SMAD4/FOXO1-3a-4	component>
+SMAD3	TGIF2/HDAC complex/SMAD3/SMAD4	component>
+SMAD3	SMAD3/SMAD4/VDR	component>
+SMAD3	SMAD3/SMAD4/TFE3	component>
+SMAD3	SMAD3/SMAD4/SP1-3	component>
+SMAD3	SMAD3/SMAD4/SP1	component>
+SMAD3	SMAD3/SMAD4/RUNX2	component>
+SMAD3	SMAD3/SMAD4/RUNX1-3/PEBPB2	component>
+SMAD3	SMAD3/SMAD4/Max	component>
+SMAD3	SMAD3/SMAD4/MYOD	component>
+SMAD3	SMAD3/SMAD4/MEF2C	component>
+SMAD3	SMAD3/SMAD4/IRF7	component>
+SMAD3	SMAD3/SMAD4/HNF4	component>
+SMAD3	SMAD3/SMAD4/GR	component>
+SMAD3	SMAD3/SMAD4/GATA3	component>
+SMAD3	SMAD3/SMAD4/ER alpha	component>
+SMAD3	SMAD3/SMAD4/DLX1	component>
+SMAD3	SMAD3/SMAD4/ATF3	component>
+SMAD3	SMAD3/SMAD4/ATF2	component>
+SMAD3	SMAD3/SMAD4/AR	component>
+SMAD3	SMAD3/SMAD4/AP1	component>
+SMAD3	SMAD3/SMAD4	component>
+SMAD3	SMAD3/E2F4-5/DP1/p107/SMAD4	component>
+SMAD3	SMAD2-3/SMAD4/SP1/MIZ-1	component>
+SMAD3	SMAD2-3/SMAD4/SP1	component>
+SMAD3	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	component>
+SMAD3	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	component>
+SMAD3	SMAD2-3/SMAD4/FOXO1-3a-4	component>
+SMAD3	SMAD2-3/SMAD4/ARC105	component>
+SMAD3	SMAD2-3/SMAD4	component>
+MAX	SMAD3/SMAD4/Max	component>
+DLX1	SMAD3/SMAD4/DLX1	component>
+FOXG1	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	component>
+NKX2-5	SMAD2/SMAD2/SMAD4/FOXH1/NKX2-5	component>
+HNF4A	SMAD3/SMAD4/HNF4	component>
+AKT1	FOXO1	-a>
+AKT1	FOXO4	-a>
+AKT1	FOXO3	-a>
+RBL1	SMAD3/E2F4-5/DP1/p107/SMAD4	component>
+CDK2	SMAD3/SMAD4	-a>
+GATA3	SMAD3/SMAD4/GATA3	component>
+TFE3	SMAD3/SMAD4/TFE3	component>
+ATF3	SMAD3/SMAD4/ATF3	component>
+CEBPB	negative regulation of cell growth	-ap>
+CEBPB	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	component>
+CREB1	IGHV3OR16-13	-t>
+TCF3	MYOD/E2A	component>
+ATF2	SMAD3/SMAD4/ATF2	component>
+MYOD1	SMAD3/SMAD4/MYOD	component>
+MYOD1	MYOD/E2A	component>
+SKIL	SnoN/SIN3/HDAC complex/NCoR1	component>
+SKIL	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+SKI	SKI/SIN3/HDAC complex/NCoR1	component>
+CDK4	SMAD3/SMAD4	-a>
+VDR	SMAD3/SMAD4/VDR	component>
+HSPA8	MSG1/HSC70	component>
+AR	SMAD3/SMAD4/AR	component>
+SP1	SMAD3/SMAD4/SP1-3	component>
+SP1	SMAD3/SMAD4/SP1	component>
+SP1	SMAD2-3/SMAD4/SP1/MIZ-1	component>
+SP1	SMAD2-3/SMAD4/SP1	component>
+JUN	SMAD3/SMAD4/AP1	component>
+JUN	AP1	component>
+SERPINE1	endothelial cell migration	-ap|
+NR3C1	SMAD3/SMAD4/GR	component>
+ESR1	SMAD3/SMAD4/ER alpha	component>
+MYC	MYC/MIZ-1	component>
+FOS	SMAD3/SMAD4/AP1	component>
+FOS	AP1	component>
+FOXH1	SMAD2/SMAD2/SMAD4/FOXH1/SMIF	component>
+FOXH1	SMAD2/SMAD2/SMAD4/FOXH1/NKX2-5	component>
+FOXH1	SMAD2/SMAD2/SMAD4/FOXH1	component>
+SAP30	TGIF/SIN3/HDAC complex/CtBP	component>
+SAP30	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+SAP30	SKI/SIN3/HDAC complex/NCoR1	component>
+NCOR1	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+NCOR1	SKI/SIN3/HDAC complex/NCoR1	component>
+SIN3B	TGIF/SIN3/HDAC complex/CtBP	component>
+SIN3B	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+SIN3B	SKI/SIN3/HDAC complex/NCoR1	component>
+FOXO3	SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	component>
+FOXO3	SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	component>
+FOXO3	SMAD2-3/SMAD4/FOXO1-3a-4	component>
+SAP18	TGIF/SIN3/HDAC complex/CtBP	component>
+SAP18	SMAD2/SMAD2/SMAD4/SnoN/SIN3/HDAC complex/NCoR1	component>
+SAP18	SKI/SIN3/HDAC complex/NCoR1	component>
+TGIF/SIN3/HDAC complex/CtBP	SMAD2/SMAD2/SMAD4	-a|
+SMAD3/SMAD4/TFE3	LAMC1	-t>
+SMAD3/SMAD4/TFE3	SERPINE1	-t>
+SMAD3/SMAD4/TFE3	SMAD7	-t>
+SMAD3/SMAD4/SP1-3	ITGB5	-t>
+SMAD3/SMAD4/SP1	CDKN1A	-t>
+SMAD3/SMAD4/SP1	COL1A2	-t>
+SMAD3/SMAD4/RUNX2	mesenchymal cell differentiation	-ap|
+SMAD3/SMAD4/RUNX1-3/PEBPB2	IGHV3OR16-13	-t>
+SMAD3/SMAD4/Max	SERPINE1	-t|
+SMAD3/SMAD4/MYOD	muscle cell differentiation	-ap|
+SMAD3/SMAD4/MEF2C	muscle cell differentiation	-ap|
+SMAD3/SMAD4/IRF7	IFNB1	-t>
+SMAD3/SMAD4/GR	SERPINE1	-t|
+SMAD3/SMAD4/GATA3	IL10	-t>
+SMAD3/SMAD4/GATA3	IL5	-t>
+SMAD3/SMAD4/ER alpha	COL1A2	-t|
+SMAD3/SMAD4/ATF3	negative regulation of cell growth	-ap>
+SMAD3/SMAD4/AP1	JUN	-t>
+SMAD3/SMAD4	GSC	-t|
+SMAD3/SMAD4	CDKN2B	-t|
+SMAD3/SMAD4	SERPINE1	-t>
+SMAD3/E2F4-5/DP1/p107/SMAD4	negative regulation of cell growth	-ap>
+SMAD2/SMAD2/SMAD4/FOXH1/NKX2-5	MEF2C	-t>
+SMAD2/SMAD2/SMAD4/FOXH1	GSC	-t>
+SMAD2-3/SMAD4/SP1/MIZ-1	CDKN2B	-t>
+SMAD2-3/SMAD4/SP1	SMAD7	-t>
+SMAD2-3/SMAD4/FOXO1-3a-4/FOXG1	CDKN1A	-t|
+SMAD2-3/SMAD4/FOXO1-3a-4/CEBPB	CDKN2B	-t>
+SMAD2-3/SMAD4/FOXO1-3a-4	CDKN1A	-t>
+SKI/SIN3/HDAC complex/NCoR1	SMAD3/SMAD4	-a|
+SKI/SIN3/HDAC complex/NCoR1	SMAD2/SMAD2/SMAD4	-a|
+PIASy/HDAC complex	SMAD3/SMAD4	-a|
+MYC/MIZ-1	CDKN2B	-t|
+MSG1/HSC70	SMAD3/SMAD4	-a|
+MSG1/HSC70	SMAD2/SMAD2/SMAD4	-a|
+Cbp/p300/Src-1	SMAD3/SMAD4/VDR	-a>
+Cbp/p300/SNIP1	SMAD3/SMAD4	-a|
+Cbp/p300/SNIP1	SMAD2/SMAD2/SMAD4	-a|
+Cbp/p300/PIAS3	SMAD3/SMAD4	-a>
+Cbp/p300/PIAS3	SMAD2/SMAD2/SMAD4	-a>
+Cbp/p300/MSG1	SMAD3/SMAD4	-a>
+Cbp/p300/MSG1	SMAD2/SMAD2/SMAD4	-a>
+AP1	SMAD7	-t>

@@ -1,0 +1,35 @@
+protein	ERK1/2/5
+complex	PP2A-ABdeltaC complex
+protein	Phospho-ERK1/2/5
+protein	Phospho-MEF2
+smallMolecule	H2O
+protein	Ribosomal protein S6 kinase
+protein	MEF2
+protein	Phospho-ELK1
+protein	UniProt:Q13164 MAPK7_subunit_1_815_1-815
+protein	Phospho-Ribosomal protein S6 kinase
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	RPS6KA5
+protein	ELK1
+PP2A-ABdeltaC complex	phosphate	-a>
+UniProt:Q13164 MAPK7_subunit_1_815_1-815	Phospho-MEF2	-a>
+Phospho-ERK1/2/5	Phospho-Ribosomal protein S6 kinase	-a>
+ATP	Phospho-ELK1	-a>
+ELK1	Phospho-ELK1	-a>
+ELK1	ADP	-a>
+Phospho-ERK1/2/5	ERK1/2/5	-a>
+Phospho-ERK1/2/5	phosphate	-a>
+H2O	ERK1/2/5	-a>
+H2O	phosphate	-a>
+ATP	Phospho-MEF2	-a>
+MEF2	ADP	-a>
+MEF2	Phospho-MEF2	-a>
+ATP	Phospho-Ribosomal protein S6 kinase	-a>
+Ribosomal protein S6 kinase	ADP	-a>
+Ribosomal protein S6 kinase	Phospho-Ribosomal protein S6 kinase	-a>
+RPS6KA5	RPS6KA5	-a>
+RPS6KA5	ADP	-a>
+ATP	RPS6KA5	-a>
+ATP	ADP	-a>

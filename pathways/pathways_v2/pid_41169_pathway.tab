@@ -1,0 +1,10 @@
+smallMolecule	Glycerone phosphate
+smallMolecule	sn-Gro-1-P
+smallMolecule	FADH2
+smallMolecule	FAD
+protein	GPD2
+GPD2	Glycerone phosphate	-a>
+FAD	FADH2	-a>
+FAD	Glycerone phosphate	-a>
+sn-Gro-1-P	FADH2	-a>
+sn-Gro-1-P	Glycerone phosphate	-a>

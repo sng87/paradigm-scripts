@@ -1,0 +1,8 @@
+complex	phospho-dynein(DLC1) on microtubules
+protein	UniProt:O43521-1 BCL2L11
+complex	BIM sequestered to dynein (DLC1)
+protein	MAPK8
+MAPK8	UniProt:O43521-1 BCL2L11	component>
+UniProt:O43521-1 BCL2L11	UniProt:O43521-1 BCL2L11	-a>
+BIM sequestered to dynein (DLC1)	phospho-dynein(DLC1) on microtubules	component>
+BIM sequestered to dynein (DLC1)	UniProt:O43521-1 BCL2L11	component>

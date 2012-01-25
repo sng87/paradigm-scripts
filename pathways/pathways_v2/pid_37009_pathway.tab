@@ -1,0 +1,143 @@
+complex	EGFR/ErbB3/epiregulin
+complex	EGFR/EGFR/amphiregulin/amphiregulin
+complex	ErbB4/EGFR/neuregulin 4
+complex	ErbB4/ErbB4/neuregulin 3/neuregulin 3
+complex	EGFR/ErbB2/amphiregulin
+complex	EGFR/EGFR/betacellulin/betacellulin
+protein	neuregulin 3
+complex	EGFR/ErbB2/betacellulin
+complex	ErbB2/ErbB2/HSP90 (dimer)
+complex	EGFR/EGFR/epiregulin/epiregulin
+complex	ErbB4/ErbB4/betacellulin/betacellulin
+complex	ErbB4/ErbB2/epiregulin
+complex	EGFR/ErbB2/epiregulin
+complex	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta
+complex	ErbB4/ErbB2/betacellulin
+complex	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta
+complex	EGFR/ErbB2/TGFA
+complex	EGFR/ErbB2/HBEGF
+complex	EGFR/EGFR/HBEGF/HBEGF
+complex	ErbB4/ErbB2/neuregulin 4
+complex	EGFR/EGFR/TGFA/TGFA
+protein	ErbB4 JM-B
+complex	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta
+complex	HSP90 (dimer)
+complex	ErbB4/ErbB2/neuregulin 1 beta
+complex	ErbB4/ErbB2/HBEGF
+complex	EGFR/ErbB2/EGF
+complex	ErbB2/ErbB3/neuregulin 1 beta
+complex	EGFR/ErbB3/TGFA
+complex	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta
+complex	EGFR/ErbB3/EGF
+complex	ErbB4/EGFR/neuregulin 1 beta
+complex	EGFR/ErbB3/amphiregulin
+complex	EGFR/EGFR/EGF/EGF
+complex	ErbB2/ErbB3/neuregulin 2
+complex	ErbB4/ErbB4/HBEGF/HBEGF
+protein	TGFA
+protein	NRG4
+protein	NRG2
+protein	NRG1
+protein	HBEGF
+protein	EREG
+protein	ERBB4
+protein	ERBB3
+protein	ERBB2
+protein	EGFR
+protein	EGF
+protein	BTC
+protein	AREG
+TGFA	EGFR/EGFR/TGFA/TGFA	component>
+EGFR	EGFR/EGFR/TGFA/TGFA	component>
+TGFA	EGFR/ErbB2/TGFA	component>
+ERBB2	EGFR/ErbB2/TGFA	component>
+EGFR	EGFR/ErbB2/TGFA	component>
+EGF	EGFR/EGFR/EGF/EGF	component>
+EGFR	EGFR/EGFR/EGF/EGF	component>
+NRG4	ErbB4/ErbB2/neuregulin 4	component>
+ERBB2	ErbB4/ErbB2/neuregulin 4	component>
+ERBB4	ErbB4/ErbB2/neuregulin 4	component>
+EREG	EGFR/ErbB3/epiregulin	component>
+ERBB3	EGFR/ErbB3/epiregulin	component>
+EGFR	EGFR/ErbB3/epiregulin	component>
+NRG1	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	component>
+ERBB4	ErbB4 CYT2/ErbB4 CYT2/neuregulin 1 beta/neuregulin 1 beta	component>
+NRG2	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta	component>
+ERBB4	ErbB4/ErbB4/neuregulin 2 beta/neuregulin 2 beta	component>
+EGF	EGFR/ErbB3/EGF	component>
+ERBB3	EGFR/ErbB3/EGF	component>
+EGFR	EGFR/ErbB3/EGF	component>
+EREG	ErbB4/ErbB2/epiregulin	component>
+ERBB2	ErbB4/ErbB2/epiregulin	component>
+ERBB4	ErbB4/ErbB2/epiregulin	component>
+BTC	ErbB4/ErbB4/betacellulin/betacellulin	component>
+ERBB4	ErbB4/ErbB4/betacellulin/betacellulin	component>
+NRG1	ErbB4/EGFR/neuregulin 1 beta	component>
+EGFR	ErbB4/EGFR/neuregulin 1 beta	component>
+ERBB4	ErbB4/EGFR/neuregulin 1 beta	component>
+HBEGF	ErbB4/ErbB2/HBEGF	component>
+ERBB2	ErbB4/ErbB2/HBEGF	component>
+ERBB4	ErbB4/ErbB2/HBEGF	component>
+EGF	HSP90 (dimer)	component>
+EGF	ERBB2	component>
+EGF	EGFR/ErbB2/EGF	component>
+ErbB2/ErbB2/HSP90 (dimer)	EGFR/ErbB2/EGF	component>
+EGFR	HSP90 (dimer)	component>
+EGFR	ERBB2	component>
+EGFR	EGFR/ErbB2/EGF	component>
+TGFA	EGFR/ErbB3/TGFA	component>
+ERBB3	EGFR/ErbB3/TGFA	component>
+EGFR	EGFR/ErbB3/TGFA	component>
+neuregulin 3	ErbB4/ErbB4/neuregulin 3/neuregulin 3	component>
+ERBB4	ErbB4/ErbB4/neuregulin 3/neuregulin 3	component>
+EREG	EGFR/ErbB2/epiregulin	component>
+ERBB2	EGFR/ErbB2/epiregulin	component>
+EGFR	EGFR/ErbB2/epiregulin	component>
+NRG4	ErbB4/EGFR/neuregulin 4	component>
+EGFR	ErbB4/EGFR/neuregulin 4	component>
+ERBB4	ErbB4/EGFR/neuregulin 4	component>
+NRG1	ErbB4/ErbB2/neuregulin 1 beta	component>
+ERBB2	ErbB4/ErbB2/neuregulin 1 beta	component>
+ERBB4	ErbB4/ErbB2/neuregulin 1 beta	component>
+HBEGF	EGFR/EGFR/HBEGF/HBEGF	component>
+EGFR	EGFR/EGFR/HBEGF/HBEGF	component>
+AREG	EGFR/ErbB3/amphiregulin	component>
+ERBB3	EGFR/ErbB3/amphiregulin	component>
+EGFR	EGFR/ErbB3/amphiregulin	component>
+NRG1	ERBB2	component>
+NRG1	HSP90 (dimer)	component>
+ERBB3	ERBB2	component>
+ERBB3	HSP90 (dimer)	component>
+ErbB2/ErbB2/HSP90 (dimer)	ERBB2	component>
+ErbB2/ErbB2/HSP90 (dimer)	HSP90 (dimer)	component>
+ErbB2/ErbB2/HSP90 (dimer)	ErbB2/ErbB3/neuregulin 1 beta	component>
+AREG	EGFR/ErbB2/amphiregulin	component>
+ERBB2	EGFR/ErbB2/amphiregulin	component>
+EGFR	EGFR/ErbB2/amphiregulin	component>
+NRG1	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	component>
+ERBB4	ErbB4/ErbB4/neuregulin 1 beta/neuregulin 1 beta	component>
+HBEGF	ErbB4/ErbB4/HBEGF/HBEGF	component>
+ERBB4	ErbB4/ErbB4/HBEGF/HBEGF	component>
+AREG	EGFR/EGFR/amphiregulin/amphiregulin	component>
+EGFR	EGFR/EGFR/amphiregulin/amphiregulin	component>
+BTC	EGFR/ErbB2/betacellulin	component>
+ERBB2	EGFR/ErbB2/betacellulin	component>
+EGFR	EGFR/ErbB2/betacellulin	component>
+BTC	ErbB4/ErbB2/betacellulin	component>
+ERBB2	ErbB4/ErbB2/betacellulin	component>
+ERBB4	ErbB4/ErbB2/betacellulin	component>
+BTC	EGFR/EGFR/betacellulin/betacellulin	component>
+EGFR	EGFR/EGFR/betacellulin/betacellulin	component>
+NRG1	ErbB2/ErbB3/neuregulin 1 beta	component>
+ERBB3	ErbB2/ErbB3/neuregulin 1 beta	component>
+ERBB2	ErbB2/ErbB3/neuregulin 1 beta	component>
+HBEGF	EGFR/ErbB2/HBEGF	component>
+ERBB2	EGFR/ErbB2/HBEGF	component>
+EGFR	EGFR/ErbB2/HBEGF	component>
+NRG2	ErbB2/ErbB3/neuregulin 2	component>
+ERBB3	ErbB2/ErbB3/neuregulin 2	component>
+ERBB2	ErbB2/ErbB3/neuregulin 2	component>
+EREG	EGFR/EGFR/epiregulin/epiregulin	component>
+EGFR	EGFR/EGFR/epiregulin/epiregulin	component>
+NRG1	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	component>
+ErbB4 JM-B	ErbB4 JM-B/ErbB4 JM-B/neuregulin 1 beta/neuregulin 1 beta	component>

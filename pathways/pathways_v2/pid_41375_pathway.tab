@@ -1,0 +1,18 @@
+smallMolecule	TPNH
+complex	glutathione reductase holoenzyme
+smallMolecule	TPN
+smallMolecule	GSH
+smallMolecule	GSSG
+smallMolecule	H+
+protein	GLRX
+glutathione reductase holoenzyme	GSH	-a>
+GSH	GLRX	-a>
+GSH	GSSG	-a>
+GLRX	GLRX	-a>
+GLRX	GSSG	-a>
+GSSG	TPN	-a>
+GSSG	GSH	-a>
+H+	TPN	-a>
+H+	GSH	-a>
+TPNH	TPN	-a>
+TPNH	GSH	-a>

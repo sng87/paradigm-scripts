@@ -1,0 +1,37 @@
+complex	EGF/EGF R
+smallMolecule	leupeptin
+complex	EGF/EGF R/ubiquitin
+complex	EGF/EGF R/ubiquitin (cytoplasm)
+complex	EGF R/SRC
+smallMolecule	chloroquine
+complex	EGF/EGF-R
+complex	EGF R/SRC/EGF
+protein	END
+abstract	protein ubiquitination
+abstract	degradation
+protein	PKC
+protein	SH3KBP1
+protein	GRB2
+protein	EGFR
+protein	EGF
+protein	CBL
+GRB2	protein ubiquitination	-ap>
+SH3KBP1	protein ubiquitination	-ap>
+END	protein ubiquitination	-ap>
+CBL	protein ubiquitination	-ap>
+PKC	EGF/EGF R	-a>
+chloroquine	degradation	-ap|
+leupeptin	degradation	-ap|
+EGFR	EGFR	-a>
+EGF R/SRC/EGF	CBL	-a>
+EGF R/SRC	EGF R/SRC/EGF	component>
+EGF	EGF R/SRC/EGF	component>
+EGF/EGF R/ubiquitin	EGF/EGF R/ubiquitin (cytoplasm)	-a>
+EGF/EGF R/ubiquitin	protein ubiquitination	-ap>
+EGF R/SRC/EGF	protein ubiquitination	-ap>
+EGFR	EGF/EGF-R	component>
+EGF	EGF/EGF-R	component>
+EGF/EGF-R	EGF/EGF R	-a>
+EGF/EGF R/ubiquitin (cytoplasm)	degradation	-ap>
+EGF/EGF R	EGFR	component>
+EGF/EGF R	EGF	component>

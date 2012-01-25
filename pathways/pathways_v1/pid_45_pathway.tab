@@ -1,0 +1,200 @@
+protein	WASF2
+protein	KLHL20
+protein	NCKAP1
+protein	AP1M1
+protein	CYFIP2
+protein	ENAH
+protein	ABI1
+protein	CTTN
+protein	RAPGEF1
+protein	TIAM1
+protein	DLG1
+protein	TJP1
+protein	RAC1
+protein	RAP1A
+protein	ARF6
+protein	RHOA
+protein	RAP1B
+protein	CDC42
+protein	MLLT4
+protein	VAV2
+protein	IQGAP1
+protein	CRK
+protein	PIK3CA
+protein	ITGAE
+protein	CTNNB1
+protein	CTNNA1
+protein	AKT1
+protein	PIK3R1
+protein	ITGB7
+protein	CCND1
+protein	NME1
+protein	JUP
+protein	SRC
+protein	CDH1
+protein	CTNND1
+protein	PIP5K1C
+protein	ChemicalAbstracts:7440-70-2
+complex	p120 catenin/RhoA/GDP
+complex	alphaE/beta7 Integrin
+complex	RhoA/GDP
+complex	Rap1/GTP/I-afadin
+complex	Rap1/GTP
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	RAP1/GDP
+complex	RAC1/GTP/IQGAP1
+complex	PIP5K1C/AP1M1
+complex	PI3K
+complex	E-cadherin/gamma catenin/alpha catenin/beta7/alphaE Integrin
+complex	E-cadherin/gamma catenin/alpha catenin
+complex	E-cadherin/gamma catenin
+complex	E-cadherin/beta catenin/alpha catenin/p120 catenin
+complex	E-cadherin/beta catenin/alpha catenin/beta7/alphaE Integrin
+complex	E-cadherin/beta catenin/alpha catenin
+complex	E-cadherin/beta catenin
+complex	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin
+complex	E-cadherin(dimer)/Ca2+
+complex	CDC42/GTP/IQGAP1
+complex	CDC42/GTP
+complex	CDC42/GDP
+complex	ARF6/GTP/NME1/Tiam1
+complex	ABI1/Sra1/Nap1
+chemical	mol:PI-3-4-5-P3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Ca2+
+abstract	regulation of heterotypic cell-cell adhesion
+abstract	regulation of cell-cell adhesion
+abstract	regulation of calcium-dependent cell-cell adhesion
+abstract	positive regulation of S phase of mitotic cell cycle
+abstract	homophilic cell adhesion
+abstract	clathrin coat assembly
+abstract	adherens junction assembly
+abstract	actin cytoskeleton organization
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:GTP	Rap1/GTP/I-afadin	component>
+mol:GTP	Rap1/GTP	component>
+mol:GTP	Rac1/GTP	component>
+mol:GTP	RAC1/GTP/IQGAP1	component>
+mol:GTP	CDC42/GTP/IQGAP1	component>
+mol:GTP	CDC42/GTP	component>
+mol:GTP	ARF6/GTP/NME1/Tiam1	component>
+mol:GDP	p120 catenin/RhoA/GDP	component>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Rac1/GDP	component>
+mol:GDP	RAP1/GDP	component>
+mol:GDP	CDC42/GDP	component>
+mol:Ca2+	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+mol:Ca2+	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+mol:Ca2+	E-cadherin(dimer)/Ca2+	component>
+homophilic cell adhesion	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	-ap>
+homophilic cell adhesion	E-cadherin/Ca2+/beta catenin/alpha catenin	-ap>
+clathrin coat assembly	E-cadherin/beta catenin	-ap>
+KLHL20	actin cytoskeleton organization	-ap>
+NCKAP1	ABI1/Sra1/Nap1	component>
+AP1M1	PIP5K1C/AP1M1	component>
+CYFIP2	ABI1/Sra1/Nap1	component>
+ABI1	ABI1/Sra1/Nap1	component>
+RAPGEF1	mol:GDP	-a>
+RAPGEF1	Rap1/GTP	-a>
+TIAM1	ARF6/GTP/NME1/Tiam1	component>
+DLG1	PI3K	-a>
+TJP1	adherens junction assembly	-ap>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RAC1	RAC1/GTP/IQGAP1	component>
+RAP1A	Rap1/GTP/I-afadin	component>
+RAP1A	Rap1/GTP	component>
+RAP1A	RAP1/GDP	component>
+ARF6	ARF6/GTP/NME1/Tiam1	component>
+RHOA	p120 catenin/RhoA/GDP	component>
+RHOA	RhoA/GDP	component>
+RAP1B	Rap1/GTP/I-afadin	component>
+RAP1B	Rap1/GTP	component>
+RAP1B	RAP1/GDP	component>
+CDC42	CDC42/GTP/IQGAP1	component>
+CDC42	CDC42/GTP	component>
+CDC42	CDC42/GDP	component>
+MLLT4	Rap1/GTP/I-afadin	component>
+VAV2	mol:GDP	-a>
+VAV2	Rac1/GTP	-a>
+IQGAP1	RAC1/GTP/IQGAP1	component>
+IQGAP1	CDC42/GTP/IQGAP1	component>
+CRK	RAPGEF1	-a>
+PIK3CA	PI3K	component>
+ITGAE	alphaE/beta7 Integrin	component>
+ITGAE	E-cadherin/gamma catenin/alpha catenin/beta7/alphaE Integrin	component>
+ITGAE	E-cadherin/beta catenin/alpha catenin/beta7/alphaE Integrin	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin/beta7/alphaE Integrin	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin	component>
+CTNNB1	E-cadherin/beta catenin	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+CTNNB1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CTNNB1	E-cadherin(dimer)/Ca2+	component>
+CTNNA1	E-cadherin/gamma catenin/alpha catenin/beta7/alphaE Integrin	component>
+CTNNA1	E-cadherin/gamma catenin/alpha catenin	component>
+CTNNA1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/beta catenin/alpha catenin	component>
+CTNNA1	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+CTNNA1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CTNNA1	E-cadherin(dimer)/Ca2+	component>
+PIK3R1	PI3K	component>
+ITGB7	alphaE/beta7 Integrin	component>
+ITGB7	E-cadherin/gamma catenin/alpha catenin/beta7/alphaE Integrin	component>
+ITGB7	E-cadherin/beta catenin/alpha catenin/beta7/alphaE Integrin	component>
+CCND1	positive regulation of S phase of mitotic cell cycle	-ap>
+NME1	ARF6/GTP/NME1/Tiam1	component>
+JUP	E-cadherin/gamma catenin/alpha catenin/beta7/alphaE Integrin	component>
+JUP	E-cadherin/gamma catenin/alpha catenin	component>
+JUP	E-cadherin/gamma catenin	component>
+JUP	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+SRC	VAV2	-a>
+SRC	CRK	-a>
+SRC	PI3K	-a>
+CDH1	E-cadherin/gamma catenin/alpha catenin/beta7/alphaE Integrin	component>
+CDH1	E-cadherin/gamma catenin/alpha catenin	component>
+CDH1	E-cadherin/gamma catenin	component>
+CDH1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CDH1	E-cadherin/beta catenin/alpha catenin/beta7/alphaE Integrin	component>
+CDH1	E-cadherin/beta catenin/alpha catenin	component>
+CDH1	E-cadherin/beta catenin	component>
+CDH1	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+CDH1	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CDH1	E-cadherin(dimer)/Ca2+	component>
+CTNND1	p120 catenin/RhoA/GDP	component>
+CTNND1	E-cadherin/beta catenin/alpha catenin/p120 catenin	component>
+CTNND1	E-cadherin/Ca2+/gamma catenin/alpha catenin/p120 catenin	component>
+CTNND1	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	component>
+CTNND1	E-cadherin(dimer)/Ca2+	component>
+PIP5K1C	PIP5K1C/AP1M1	component>
+Rap1/GTP/I-afadin	E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	-a>
+Rap1/GTP	mol:GDP	-a>
+Rap1/GTP	PI3K	-a>
+Rap1/GTP	CDC42/GTP	-a>
+Rac1/GTP	KLHL20	-a>
+Rac1/GTP	CCND1	-t>
+Rac1/GTP	ABI1/Sra1/Nap1	-a>
+RAC1/GTP/IQGAP1	E-cadherin/beta catenin	-a|
+PIP5K1C/AP1M1	E-cadherin/beta catenin	-a>
+PI3K	mol:PI-3-4-5-P3	-a>
+PI3K	VAV2	-a>
+E-cadherin/gamma catenin/alpha catenin/beta7/alphaE Integrin	regulation of heterotypic cell-cell adhesion	-ap>
+E-cadherin/beta catenin/alpha catenin/beta7/alphaE Integrin	regulation of heterotypic cell-cell adhesion	-ap>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	regulation of calcium-dependent cell-cell adhesion	-ap>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	ENAH	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	CTTN	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	DLG1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	TJP1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin/p120 catenin	SRC	-a>
+ChemicalAbstracts:7440-70-2	E-cadherin/Ca2+/beta catenin/alpha catenin	component>
+CDC42/GTP/IQGAP1	E-cadherin/beta catenin	-a|
+CDC42/GTP	regulation of cell-cell adhesion	-ap>
+ARF6/GTP/NME1/Tiam1	mol:GDP	-a|
+ARF6/GTP/NME1/Tiam1	Rac1/GTP	-a|
+ABI1/Sra1/Nap1	WASF2	-a>

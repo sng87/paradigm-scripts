@@ -1,0 +1,7 @@
+protein	Opioid peptide
+complex	Opioid:MOR
+protein	OPRM1
+Opioid peptide	Opioid:MOR	component>
+OPRM1	Opioid:MOR	component>
+Opioid:MOR	OPRM1	component>
+Opioid:MOR	Opioid peptide	component>

@@ -1,0 +1,30 @@
+complex	Integrin alpha-V beta-3
+complex	PECAM-1:PECAM-1
+complex	PECAM-1:SHP-1 complex
+complex	p-PECAM1:p-PECAM1
+complex	PECAM-1:SHP-2 complex
+complex	PECAM-1:integrin alpha-V beta-3 complex
+complex	PECAM-1:SHIP1 complex
+protein	UniProt:Q92835 INPP5D_subunit_1_1189_1-1189
+protein	UniProt:Q06124 PTPN11_subunit_1_597_1-597
+complex	PECAM-1:PLC gamma1 complex
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PTPN6
+protein	PLCG1
+protein	PECAM1
+PLCG1	PECAM-1:PLC gamma1 complex	component>
+PECAM1	PECAM-1:PLC gamma1 complex	component>
+UniProt:Q06124 PTPN11_subunit_1_597_1-597	PECAM-1:SHP-2 complex	component>
+PECAM1	PECAM-1:SHP-2 complex	component>
+PECAM-1:PECAM-1	p-PECAM1:p-PECAM1	-a>
+PECAM-1:PECAM-1	ADP	-a>
+ATP	p-PECAM1:p-PECAM1	-a>
+ATP	ADP	-a>
+PECAM1	PECAM-1:integrin alpha-V beta-3 complex	component>
+Integrin alpha-V beta-3	PECAM-1:integrin alpha-V beta-3 complex	component>
+PECAM1	PECAM-1:SHIP1 complex	component>
+UniProt:Q92835 INPP5D_subunit_1_1189_1-1189	PECAM-1:SHIP1 complex	component>
+PECAM1	PECAM-1:PECAM-1	component>
+PECAM1	PECAM-1:SHP-1 complex	component>
+PTPN6	PECAM-1:SHP-1 complex	component>

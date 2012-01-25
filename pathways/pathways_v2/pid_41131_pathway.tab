@@ -1,0 +1,31 @@
+smallMolecule	Deoxynucleoside triphosphate
+complex	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site
+complex	single-stranded DNA flap structure at the site of damaged residue
+complex	POL Delta:APE1-bound 5' incised DNA strand break containing first resynthesized nucleotide
+complex	POL Beta: APE1-bound 5' incised DNA strand break containing first resynthesized base
+complex	DNA containing unligated replacement-synthesized patch
+complex	DNA Polymerase delta tetramer
+complex	APE1-bound DNA strand break containing an incision 5' to an AP site
+complex	DNA containing an APE1-bound AP site
+smallMolecule	PPi
+protein	POLB
+protein	FEN1
+protein	APEX1
+FEN1	DNA containing unligated replacement-synthesized patch	-a>
+POLB	POL Beta: APE1-bound 5' incised DNA strand break containing first resynthesized base	-a>
+DNA Polymerase delta tetramer	PPi	-a>
+APEX1	APE1-bound DNA strand break containing an incision 5' to an AP site	-a>
+single-stranded DNA flap structure at the site of damaged residue	DNA containing unligated replacement-synthesized patch	-a>
+POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	PPi	-a>
+POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	POL Beta: APE1-bound 5' incised DNA strand break containing first resynthesized base	-a>
+Deoxynucleoside triphosphate	single-stranded DNA flap structure at the site of damaged residue	-a>
+Deoxynucleoside triphosphate	PPi	-a>
+POL Delta:APE1-bound 5' incised DNA strand break containing first resynthesized nucleotide	single-stranded DNA flap structure at the site of damaged residue	-a>
+POL Delta:APE1-bound 5' incised DNA strand break containing first resynthesized nucleotide	PPi	-a>
+APE1-bound DNA strand break containing an incision 5' to an AP site	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	component>
+POLB	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site	component>
+DNA Polymerase delta tetramer	POLB	component>
+DNA Polymerase delta tetramer	POL Delta:APE1-bound 5' incised DNA strand break containing first resynthesized nucleotide	component>
+POL Beta: APE1-bound 5' incised DNA strand break containing first resynthesized base	POLB	component>
+POL Beta: APE1-bound 5' incised DNA strand break containing first resynthesized base	POL Delta:APE1-bound 5' incised DNA strand break containing first resynthesized nucleotide	component>
+DNA containing an APE1-bound AP site	APE1-bound DNA strand break containing an incision 5' to an AP site	-a>

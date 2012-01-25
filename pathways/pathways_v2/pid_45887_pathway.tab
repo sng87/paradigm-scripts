@@ -1,0 +1,69 @@
+complex	SHC/GRB2/SOS-1
+smallMolecule	nucleoside diphosphate
+complex	NGF/NGF R
+smallMolecule	PD98059
+protein	NGFB
+protein	EST1
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	U0126
+protein	TERT
+protein	STAT3
+protein	SRC
+protein	RPS6KA1
+protein	RAF1
+protein	PTPRR
+protein	PPP2R5D
+protein	NGFR
+protein	MYC
+protein	MSK1
+protein	MKNK2
+protein	MKNK1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	ELK1
+MAPK1	ELK1	-a>
+MAPK1	STAT3	-a>
+PD98059	MAPK3	-a|
+MAPK1	MKNK1	-a>
+MAPK1	RPS6KA1	-a>
+MAPK1	MSK1	-a>
+MAPK1	MYC	-a>
+MAPK1	EST1	-a>
+U0126	MAPK3	-a|
+MAP2K2	MAPK3	-a>
+MAPK3	ELK1	-a>
+NGF/NGF R	SHC/GRB2/SOS-1	-a>
+SRC	SHC/GRB2/SOS-1	-a>
+MAPK3	MAPK3	-a>
+HRAS	RAF1	-a>
+MAPK3	STAT3	-a>
+MKNK2	MKNK2	-a>
+MKNK2	MKNK1	-a>
+MKNK1	MKNK2	-a>
+MAPK3	MKNK1	-a>
+PTPRR	MAPK3	-a>
+NGFR	NGF/NGF R	component>
+NGFB	NGF/NGF R	component>
+MAPK3	RPS6KA1	-a>
+MAPK3	MSK1	-a>
+PPP2R5D	MAPK3	-a>
+MAPK3	MYC	-a>
+TERT	TERT	-a>
+TERT	EST1	-a>
+EST1	TERT	-a>
+MAPK3	EST1	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

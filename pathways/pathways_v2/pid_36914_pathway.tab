@@ -1,0 +1,137 @@
+abstract	lysosomal transport
+abstract	natural killer cell mediated cytotoxicity
+abstract	T-helper 1 cell lineage commitment
+abstract	regulation of dendritic cell antigen processing and presentation
+abstract	T cell proliferation
+abstract	T-helper 1 cell differentiation
+abstract	natural killer cell activation
+abstract	CD8-positive alpha-beta T cell lineage commitment
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	IL2/IL2R
+protein	MKK3-MKK6-active
+complex	STAT3 (dimer)
+complex	TCR/CD3/MHC I/CD8
+protein	MKK3-MKK6
+complex	IL12/IL12R/TYK2/JAK2/SOCS1
+complex	IL12Rbeta2/JAK2
+complex	IL12/IL12R/TYK2/JAK2
+complex	IL12/IL12R/TYK2/JAK2/SPHK2
+complex	TCR/CD3/MHC II/CD4
+complex	STAT4 (dimer)
+complex	STAT5A (dimer)
+complex	STAT1 (dimer)
+complex	IL12
+complex	IL18/IL18R
+complex	IL12Rbeta1/TYK2
+complex	Calcineurin A alpha-beta B1
+complex	NF kappa B1 p50/RelA
+complex	NF kappa B2 p52/RelB
+protein	TBX21
+protein	STAT6
+protein	STAT5A
+protein	STAT4
+protein	STAT3
+protein	STAT1
+protein	SPHK2
+protein	SOCS1
+protein	RIPK2
+protein	RAB7A
+protein	NOS2
+protein	MAPK14
+protein	LCK
+protein	IL4
+protein	IL1R1
+protein	IL1B
+protein	IFNG
+protein	HLX
+protein	GZMB
+protein	GZMA
+protein	GADD45G
+protein	GADD45B
+protein	FRAP1
+protein	FOS
+protein	FASLG
+protein	EOMES
+protein	CCR5
+protein	CCL4
+protein	CCL3
+protein	ATF2
+IL12/IL12R/TYK2/JAK2	STAT6	-a>
+MAPK14	STAT4 (dimer)	-a>
+IL18/IL18R	NOS2	-t>
+IL12/IL12R/TYK2/JAK2	GZMA	-t>
+NOS2	IL12/IL12R/TYK2/JAK2	component>
+IL12/IL12R/TYK2/JAK2	EOMES	-t|
+TCR/CD3/MHC I/CD8	EOMES	-t>
+IL4	IL12/IL12R/TYK2/JAK2	component>
+IL1B	IL12/IL12R/TYK2/JAK2	component>
+natural killer cell activation	IL12/IL12R/TYK2/JAK2	component>
+IL18/IL18R	NF kappa B1 p50/RelA	-a>
+MAPK14	STAT3 (dimer)	component>
+IL2/IL2R	STAT3 (dimer)	component>
+CD8-positive alpha-beta T cell lineage commitment	STAT3 (dimer)	component>
+GADD45G	MKK3-MKK6-active	-a>
+GADD45B	MKK3-MKK6-active	-a>
+IL12/IL12R/TYK2/JAK2	NF kappa B2 p52/RelB	-a>
+IL18/IL18R	CCR5	-t>
+IFNG	STAT1 (dimer)	component>
+T-helper 1 cell differentiation	STAT1 (dimer)	component>
+Calcineurin A alpha-beta B1	FOS	-t|
+TCR/CD3/MHC II/CD4	FOS	-t>
+IL18/IL18R	GADD45B	-t>
+IL18/IL18R	GADD45G	-t>
+MAPK14	STAT1 (dimer)	component>
+IL2/IL2R	STAT1 (dimer)	component>
+IL12/IL12R/TYK2/JAK2	STAT1 (dimer)	component>
+CD8-positive alpha-beta T cell lineage commitment	STAT1 (dimer)	component>
+RIPK2	STAT4 (dimer)	component>
+IL12/IL12R/TYK2/JAK2	STAT4 (dimer)	component>
+IL12/IL12R/TYK2/JAK2	GZMB	-t>
+IFNG	STAT5A (dimer)	component>
+IL12/IL12R/TYK2/JAK2	STAT5A (dimer)	component>
+T-helper 1 cell differentiation	STAT5A (dimer)	component>
+HLX	STAT4 (dimer)	-a>
+IL18/IL18R	STAT4 (dimer)	-a>
+IL12/IL12R/TYK2/JAK2	STAT4 (dimer)	-a>
+natural killer cell activation	STAT4 (dimer)	-a>
+FRAP1	STAT3 (dimer)	component>
+IL12/IL12R/TYK2/JAK2	STAT3 (dimer)	component>
+IL12/IL12R/TYK2/JAK2/SPHK2	STAT4 (dimer)	component>
+RAB7A	lysosomal transport	-ap>
+T-helper 1 cell lineage commitment	STAT6	-a>
+IL12/IL12R/TYK2/JAK2	NOS2	-t>
+natural killer cell activation	GZMA	-t>
+IL12/IL12R/TYK2/JAK2/SOCS1	T cell proliferation	-ap|
+IL12/IL12R/TYK2/JAK2	FASLG	-t>
+IL12/IL12R/TYK2/JAK2/SOCS1	natural killer cell mediated cytotoxicity	-ap|
+MAPK14	ATF2	-a>
+IL12/IL12R/TYK2/JAK2	LCK	-a>
+MKK3-MKK6-active	MAPK14	-a>
+CD8-positive alpha-beta T cell lineage commitment	EOMES	-t>
+IL12/IL12R/TYK2/JAK2	CCL4	-t>
+STAT4 (dimer)	T cell proliferation	-ap>
+IL12Rbeta2/JAK2	IL12/IL12R/TYK2/JAK2	component>
+IL12Rbeta1/TYK2	IL12/IL12R/TYK2/JAK2	component>
+IL12	IL12/IL12R/TYK2/JAK2	component>
+IL12/IL12R/TYK2/JAK2	TBX21	-t>
+STAT4 (dimer)	NF kappa B1 p50/RelA	-a>
+STAT4 (dimer)	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MAPK14	RAB7A	-t>
+SOCS1	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+IL12/IL12R/TYK2/JAK2	IL12/IL12R/TYK2/JAK2/SOCS1	component>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+regulation of dendritic cell antigen processing and presentation	NF kappa B2 p52/RelB	-a>
+IL12/IL12R/TYK2/JAK2	CCR5	-t>
+SPHK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12/IL12R/TYK2/JAK2	IL12/IL12R/TYK2/JAK2/SPHK2	component>
+IL12/IL12R/TYK2/JAK2	IL1R1	-t>
+IL12/IL12R/TYK2/JAK2	FOS	-t>
+IL12/IL12R/TYK2/JAK2	GADD45B	-t>
+IL12/IL12R/TYK2/JAK2	GADD45G	-t>
+IL12/IL12R/TYK2/JAK2	CCL3	-t>
+STAT1	STAT1 (dimer)	component>
+natural killer cell activation	GZMB	-t>
+STAT5A	STAT5A (dimer)	component>
+STAT4 (dimer)	STAT4 (dimer)	-a>
+STAT3	STAT3 (dimer)	component>
+STAT4	STAT4 (dimer)	component>

@@ -1,0 +1,42 @@
+abstract	osteoclast differentiation
+complex	IFNAR1/IFNAR2
+complex	RANKL/RANK
+complex	p50/RELA/I-kappa-B-alpha
+protein	ISGF3G
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	IFN-beta/IFNAR1/IFNAR2
+complex	RELA/p50
+abstract	protein ubiquitination
+abstract	degradation
+protein	IKKs
+protein	TRAF6
+protein	TNFSF11
+protein	TNFRSF11A
+protein	MAPK8
+protein	IFNB1
+protein	FOSL2
+protein	FOSL1
+protein	FOS
+ISGF3G	FOS	-a|
+IKKs	protein ubiquitination	-ap>
+FOS	IFNB1	-t>
+RANKL/RANK	FOS	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+FOSL1	osteoclast differentiation	-ap>
+FOS	FOS	-a>
+TRAF6	MAPK8	-a>
+IFNB1	IFN-beta/IFNAR1/IFNAR2	component>
+IFNAR1/IFNAR2	IFN-beta/IFNAR1/IFNAR2	component>
+FOSL2	osteoclast differentiation	-ap>
+RANKL/RANK	TRAF6	-a>
+IFN-beta/IFNAR1/IFNAR2	ISGF3G	-a>
+TRAF6	IKKs	-a>
+FOS	FOSL1	-a>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+RELA/p50	osteoclast differentiation	-ap>
+TNFRSF11A	RANKL/RANK	component>
+TNFSF11	RANKL/RANK	component>
+RELA/p50	RELA/p50	-a>
+FOS	FOSL2	-a>

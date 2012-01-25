@@ -1,0 +1,53 @@
+complex	PKA tetramer
+complex	PP2B catalytic (Fe3+, Zn2+)
+complex	PP2A-ABdeltaC complex
+complex	Phosphorylated (Thr75) DARPP-32:PKA
+complex	PP2B catalytic (Fe3+, Zn2+):Active Calmodulin
+complex	cAMP:PKA regulatory subunit
+smallMolecule	H2O
+complex	Ca(4)CaM
+protein	PKA catalytic subunit
+complex	PP2B complex
+protein	PDE 4
+smallMolecule	AMP
+complex	Phosphorylated (T34) DARPP-32:PP1A
+smallMolecule	cAMP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	PRKACA
+protein	PPP1R1B
+protein	PPP1CA
+protein	PDE4B
+protein	CDK5
+PP2B complex	PPP1R1B	-a>
+PDE 4	AMP	-a>
+Phosphorylated (T34) DARPP-32:PP1A	Phosphorylated (T34) DARPP-32:PP1A	component>
+PRKACA	ADP	-a>
+PPP1R1B	PDE4B	-a|
+PRKACA	PDE4B	-a>
+Phosphorylated (Thr75) DARPP-32:PKA	Phosphorylated (Thr75) DARPP-32:PKA	component>
+PP2A-ABdeltaC complex	PPP1R1B	-a>
+cAMP	AMP	-a>
+H2O	AMP	-a>
+PPP1R1B	Phosphorylated (T34) DARPP-32:PP1A	component>
+PPP1CA	Phosphorylated (T34) DARPP-32:PP1A	component>
+PPP1R1B	ADP	-a>
+ATP	PPP1R1B	-a>
+PDE4B	ADP	-a>
+PDE4B	PDE4B	-a>
+ATP	ADP	-a>
+ATP	PDE4B	-a>
+PPP1R1B	Phosphorylated (Thr75) DARPP-32:PKA	component>
+PRKACA	Phosphorylated (Thr75) DARPP-32:PKA	component>
+CDK5	PPP1R1B	-a>
+PP2B catalytic (Fe3+, Zn2+)	PP2B catalytic (Fe3+, Zn2+):Active Calmodulin	component>
+Ca(4)CaM	PP2B catalytic (Fe3+, Zn2+):Active Calmodulin	component>
+PPP1R1B	phosphate	-a>
+PPP1R1B	PPP1R1B	-a>
+H2O	phosphate	-a>
+H2O	PPP1R1B	-a>
+PKA tetramer	PKA catalytic subunit	component>
+PKA tetramer	cAMP:PKA regulatory subunit	component>
+cAMP	PKA catalytic subunit	component>
+cAMP	cAMP:PKA regulatory subunit	component>

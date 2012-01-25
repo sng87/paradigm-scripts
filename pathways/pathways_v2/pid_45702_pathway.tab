@@ -1,0 +1,80 @@
+complex	E2F-1/DP-1
+complex	CYCLIN D1/CDK4/CDK6
+complex	Cyclin E/CDK2
+complex	p50/RELA/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	RELA/p50
+complex	RB/E2F-1
+smallMolecule	PIP2
+abstract	protein ubiquitination
+abstract	G1/S transition of mitotic cell cycle
+abstract	degradation
+protein	IKKs
+complex	PI3K
+smallMolecule	PIP3
+protein	TFDP1
+protein	RHOA
+protein	RB1
+protein	RAF1
+protein	RAC1
+protein	PDPK1
+protein	PAK1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	E2F1
+protein	CDKN1B
+protein	CDKN1A
+protein	CDK6
+protein	CDK4
+protein	CDK2
+protein	CCNE1
+protein	CCND1
+protein	AKT1
+IKKs	protein ubiquitination	-ap>
+MAP2K2	MAPK3	-a>
+PI3K	PIP3	-a>
+Cyclin E/CDK2	E2F1	component>
+CYCLIN D1/CDK4/CDK6	E2F1	component>
+CDKN1B	CCND1	-t|
+CDKN1A	CCND1	-t|
+RHOA	CDKN1B	-a>
+PAK1	RAF1	-a>
+CDK2	Cyclin E/CDK2	component>
+CCNE1	Cyclin E/CDK2	component>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+MAP2K1	MAPK3	-a>
+CDK6	CYCLIN D1/CDK4/CDK6	component>
+CDK4	CYCLIN D1/CDK4/CDK6	component>
+CCND1	CYCLIN D1/CDK4/CDK6	component>
+TFDP1	E2F-1/DP-1	component>
+E2F1	E2F-1/DP-1	component>
+PIP2	PIP3	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	MAPK3	-a>
+AKT1	IKKs	-a>
+HRAS	RAF1	-a>
+PI3K	RAC1	-a>
+RB/E2F-1	RB1	component>
+RB/E2F-1	E2F1	component>
+RHOA	CDKN1A	-a>
+Cyclin E/CDK2	G1/S transition of mitotic cell cycle	-ap>
+RELA/p50	CCND1	-t>
+RAC1	PAK1	-a>
+PDPK1	AKT1	-a>
+E2F-1/DP-1	CCNE1	-t>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+RHOA	Cyclin E/CDK2	-a>
+RELA/p50	RELA/p50	-a>
+AKT1	PAK1	-a>
+PIP3	PDPK1	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

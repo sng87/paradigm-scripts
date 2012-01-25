@@ -1,0 +1,33 @@
+abstract	cellular response to starvation
+abstract	response to toxin
+complex	P25/CDK5
+protein	P10_0-0
+complex	Calpain1
+protein	amyloid-beta_0-0
+protein	amyloid-beta receptor
+complex	Amyloid-beta/amyloid-beta receptor
+abstract	response to stress
+abstract	apoptosis
+complex	p35/CDK5
+smallMolecule	Ca2+
+protein	PPP2R5D
+protein	MAPT
+protein	GSK3B
+protein	CAPN1
+Calpain1	P25/CDK5	component>
+Ca2+	MAPT	-a|
+amyloid-beta receptor	Amyloid-beta/amyloid-beta receptor	component>
+amyloid-beta_0-0	Amyloid-beta/amyloid-beta receptor	component>
+p35/CDK5	P10_0-0	component>
+p35/CDK5	P25/CDK5	component>
+cellular response to starvation	Ca2+	-a>
+MAPT	apoptosis	-ap>
+response to toxin	Ca2+	-a>
+PPP2R5D	MAPT	-a>
+Amyloid-beta/amyloid-beta receptor	CAPN1	-a>
+Amyloid-beta/amyloid-beta receptor	GSK3B	-a>
+Ca2+	CAPN1	-a>
+GSK3B	MAPT	-a>
+P25/CDK5	MAPT	-a>
+response to stress	Ca2+	-a>
+P25/CDK5	apoptosis	-ap>

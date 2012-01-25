@@ -1,0 +1,25 @@
+complex	Drugs of Abuse/Drug receptor
+smallMolecule	Drugs of Abuse
+complex	delta-FOSB/JUND
+protein	Drug receptor
+protein	Dynorphin
+abstract	RNA splicing
+smallMolecule	Ca2+
+protein	PPP1R1B
+protein	JUND
+protein	GRIA2
+protein	FOSB
+protein	CDK5
+Drugs of Abuse/Drug receptor	RNA splicing	-ap>
+GRIA2	Ca2+	-a>
+FOSB	RNA splicing	-ap>
+JUND	delta-FOSB/JUND	component>
+FOSB	delta-FOSB/JUND	component>
+Drug receptor	Drugs of Abuse/Drug receptor	component>
+Drugs of Abuse	Drugs of Abuse/Drug receptor	component>
+GRIA2	GRIA2	-a>
+FOSB	FOSB	-a>
+delta-FOSB/JUND	GRIA2	-t>
+delta-FOSB/JUND	Dynorphin	-t>
+delta-FOSB/JUND	CDK5	-t>
+CDK5	PPP1R1B	-a>

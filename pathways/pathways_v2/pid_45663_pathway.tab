@@ -1,0 +1,35 @@
+abstract	M phase of mitotic cell cycle
+complex	SHH/PTC1
+complex	CDC2/cyclin B
+protein	PTCH
+complex	CDC2/Cyclin B/PTC1
+complex	CAK
+abstract	cell cycle arrest
+abstract	S phase of mitotic cell cycle
+abstract	re-entry into mitotic cell cycle
+abstract	G2 phase of mitotic cell cycle
+protein	XPO1
+protein	SHH
+protein	RASGRF1
+protein	CDC2
+protein	CCNB1
+CAK	CDC2/cyclin B	-a>
+RASGRF1	CDC2/cyclin B	-a>
+M phase of mitotic cell cycle	SHH/PTC1	component>
+XPO1	CDC2/cyclin B	-a>
+CDC2/Cyclin B/PTC1	cell cycle arrest	-ap>
+G2 phase of mitotic cell cycle	CDC2/Cyclin B/PTC1	component>
+S phase of mitotic cell cycle	CDC2/cyclin B	component>
+SHH	CDC2/cyclin B	component>
+SHH	SHH/PTC1	component>
+CDC2/Cyclin B/PTC1	CDC2/cyclin B	component>
+CDC2/Cyclin B/PTC1	SHH/PTC1	component>
+G2 phase of mitotic cell cycle	CDC2/cyclin B	-a>
+G2 phase of mitotic cell cycle	cell cycle arrest	-ap>
+S phase of mitotic cell cycle	CCNB1	-t>
+CDC2/cyclin B	re-entry into mitotic cell cycle	-ap>
+M phase of mitotic cell cycle	CDC2/cyclin B	-a>
+PTCH	CDC2/Cyclin B/PTC1	component>
+CDC2/cyclin B	CDC2/Cyclin B/PTC1	component>
+CCNB1	CDC2/cyclin B	component>
+CDC2	CDC2/cyclin B	component>

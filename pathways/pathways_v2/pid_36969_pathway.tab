@@ -1,0 +1,120 @@
+abstract	nervous system development
+abstract	heart morphogenesis
+abstract	myelination
+abstract	mammary gland morphogenesis
+abstract	activation of caspase activity
+abstract	cell migration
+abstract	cell proliferation
+abstract	ubiquitin-dependent protein catabolic process
+abstract	apoptosis
+protein	MEK1-2
+smallMolecule	cAMP
+complex	RAS family/GTP
+complex	RAS family/GDP
+protein	JNK family-active
+protein	ERK1-2-active
+complex	STAT3 (dimer)
+complex	PI3K Class IA family
+protein	MEK1-2-active
+protein	ERK1-2
+complex	ErbB2/ErbB3/neuregulin 1 beta/SHC
+complex	GRB2/SOS1
+complex	RAC1-CDC42/GTP
+protein	JNK family
+complex	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1
+smallMolecule	PI-3-4-5-P3
+complex	ErbB2/ErbB3/neuregulin 1 beta
+smallMolecule	PI-4-5-P2
+smallMolecule	Ca2+
+complex	RAC1-CDC42/GDP
+complex	ErbB2/ErbB3/neuregulin 2
+protein	SHP2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	USP8
+protein	STAT3
+protein	SRC
+protein	SHC1
+protein	RNF41
+protein	RAF1
+protein	PRKACA
+protein	PPP3CB
+protein	NFATC4
+protein	NF2
+protein	MAPK8
+protein	MAP2K1
+protein	JUN
+protein	JAK2
+protein	FRAP1
+protein	FOS
+protein	DOCK7
+protein	CHRNE
+protein	CHRNA1
+protein	BAD
+protein	AKT1
+ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	RAS family/GTP	-a>
+RNF41	ErbB2/ErbB3/neuregulin 1 beta	-a>
+PRKACA	ErbB2/ErbB3/neuregulin 1 beta	-a>
+PI3K Class IA family	PI-3-4-5-P3	-a>
+MEK1-2-active	ERK1-2-active	-a>
+SRC	STAT3	-a>
+DOCK7	RAC1-CDC42/GTP	-a>
+ErbB2/ErbB3/neuregulin 1 beta	MAP2K1	-a>
+RAF1	MEK1-2-active	-a>
+RAC1-CDC42/GTP	JNK family-active	-a>
+SHP2	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+GTP	GDP	-a>
+GTP	RAS family/GTP	-a>
+RAS family/GDP	GDP	-a>
+RAS family/GDP	RAS family/GTP	-a>
+ERK1-2-active	JUN	-t>
+ERK1-2-active	ERK1-2-active	-a>
+SHC1	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+ErbB2/ErbB3/neuregulin 1 beta	ErbB2/ErbB3/neuregulin 1 beta/SHC	component>
+JNK family-active	cell migration	-ap>
+Ca2+	PPP3CB	-a>
+ErbB2/ErbB3/neuregulin 1 beta	SHP2	-a>
+ErbB2/ErbB3/neuregulin 1 beta	nervous system development	-ap>
+ErbB2/ErbB3/neuregulin 1 beta	MAPK8	-a>
+ErbB2/ErbB3/neuregulin 1 beta	Ca2+	-a>
+ErbB2/ErbB3/neuregulin 1 beta	heart morphogenesis	-ap>
+FRAP1	myelination	-ap>
+ErbB2/ErbB3/neuregulin 1 beta	ubiquitin-dependent protein catabolic process	-ap>
+ErbB2/ErbB3/neuregulin 2	apoptosis	-ap|
+NF2	cell proliferation	-ap>
+ERK1-2-active	cell proliferation	-ap>
+NFATC4	myelination	-ap>
+ErbB2/ErbB3/neuregulin 1 beta	mammary gland morphogenesis	-ap>
+ERK1-2-active	FOS	-t>
+cAMP	PRKACA	-a>
+ErbB2/ErbB3/neuregulin 1 beta	ErbB2/ErbB3/neuregulin 1 beta	-a>
+USP8	RNF41	-a>
+ErbB2/ErbB3/neuregulin 1 beta	PRKACA	-a>
+AKT1	FRAP1	-a>
+AKT1	activation of caspase activity	-ap|
+ErbB2/ErbB3/neuregulin 1 beta	JAK2	-a>
+STAT3 (dimer)	STAT3 (dimer)	-a>
+NFATC4	NFATC4	-a>
+AKT1	USP8	-a>
+BAD	apoptosis	-ap|
+PRKACA	NF2	-a>
+ErbB2/ErbB3/neuregulin 1 beta	DOCK7	-a>
+ErbB2/ErbB3/neuregulin 1 beta	PI3K Class IA family	-a>
+PPP3CB	NFATC4	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+ERK1-2	ERK1-2-active	-a>
+MAPK8	JUN	-a>
+JAK2	STAT3	-a>
+AKT1	apoptosis	-ap|
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+MAP2K1	MAP2K1	-a>
+JUN	CHRNE	-t>
+MEK1-2	MEK1-2-active	-a>
+AKT1	BAD	-a>
+JNK family	JNK family-active	-a>
+GRB2/SOS1	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+ErbB2/ErbB3/neuregulin 1 beta/SHC	ErbB2/ErbB3/neuregulin 1 beta/SHC/GRB2/SOS1	component>
+STAT3	STAT3 (dimer)	component>
+ERK1-2-active	CHRNA1	-t>
+PI-3-4-5-P3	AKT1	-a>
+RAS family/GTP	RAF1	-a>

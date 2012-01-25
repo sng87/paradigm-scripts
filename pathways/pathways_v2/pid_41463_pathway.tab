@@ -1,0 +1,37 @@
+complex	Active TrkA receptor:Phospho-PLCG1 complex
+protein	PKC-delta/epsilon
+complex	IP3 receptor homotetramer
+complex	IP3 receptor:IP3 complex
+complex	Active TrkA receptor:PLCG1 complex
+smallMolecule	H2O
+complex	Active TrkA receptor:Frs2 complex
+smallMolecule	PIP2
+complex	Activated TrkA receptor complex
+smallMolecule	diacylglycerols
+protein	Phospho-PKC-delta/epsilon
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	PLCG1
+diacylglycerols	ADP	-a>
+PLCG1	IP3	-a>
+Active TrkA receptor:Frs2 complex	ADP	-a>
+ATP	Phospho-PKC-delta/epsilon	-a>
+PKC-delta/epsilon	Phospho-PKC-delta/epsilon	-a>
+PKC-delta/epsilon	ADP	-a>
+IP3 receptor:IP3 complex	Ca2+	-a>
+IP3 receptor homotetramer	IP3 receptor:IP3 complex	-a>
+IP3	IP3 receptor:IP3 complex	-a>
+Active TrkA receptor:Phospho-PLCG1 complex	PLCG1	component>
+Active TrkA receptor:Phospho-PLCG1 complex	Activated TrkA receptor complex	component>
+PIP2	diacylglycerols	-a>
+PIP2	IP3	-a>
+H2O	diacylglycerols	-a>
+H2O	IP3	-a>
+Active TrkA receptor:PLCG1 complex	Active TrkA receptor:Phospho-PLCG1 complex	-a>
+Active TrkA receptor:PLCG1 complex	ADP	-a>
+ATP	Active TrkA receptor:Phospho-PLCG1 complex	-a>
+ATP	ADP	-a>
+Activated TrkA receptor complex	Active TrkA receptor:PLCG1 complex	component>
+PLCG1	Active TrkA receptor:PLCG1 complex	component>

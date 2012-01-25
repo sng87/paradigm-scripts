@@ -1,0 +1,19 @@
+complex	48S complex
+complex	Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H
+complex	43S complex
+complex	mRNA:eIF4F:eIF4B:eIF4H
+complex	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP
+protein	PABPC1
+protein	EIF1AX
+mRNA:eIF4F:eIF4B:eIF4H	EIF1AX	component>
+mRNA:eIF4F:eIF4B:eIF4H	48S complex	component>
+EIF1AX	48S complex	component>
+43S complex	48S complex	component>
+PABPC1	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	component>
+PABPC1	EIF1AX	component>
+Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	component>
+Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H	EIF1AX	component>
+43S complex	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	component>
+43S complex	EIF1AX	component>
+EIF1AX	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	component>
+EIF1AX	EIF1AX	component>

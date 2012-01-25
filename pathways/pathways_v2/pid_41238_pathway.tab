@@ -1,0 +1,17 @@
+protein	UniProt:O00337 SLC28A1
+protein	UniProt:O43868 SLC28A2
+smallMolecule	Uracil
+smallMolecule	uridine
+smallMolecule	Na+
+protein	SLC29A2
+protein	SLC29A1
+protein	SLC28A3
+UniProt:O43868 SLC28A2	Na+	-a>
+UniProt:O00337 SLC28A1	Na+	-a>
+SLC29A1	uridine	-a>
+uridine	uridine	-a>
+SLC29A2	Uracil	-a>
+Na+	Na+	-a>
+Na+	uridine	-a>
+uridine	Na+	-a>
+SLC28A3	uridine	-a>

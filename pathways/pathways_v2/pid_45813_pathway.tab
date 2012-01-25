@@ -1,0 +1,67 @@
+complex	HIF-1-alpha/ARNT
+complex	SHC/GRB2/SOS-1
+complex	NOS III/Caveolin-1
+complex	CaM/Ca ++
+complex	FAK/p130CAS/SRC/CSK/paxillin/actin
+complex	bradykinin/Bradykinin receptor B2
+protein	CaM
+protein	VEGF
+protein	VEGF R
+complex	VEGF/VEGF R
+smallMolecule	PIP2
+abstract	cell migration
+smallMolecule	DAG
+protein	PAS
+protein	PKC
+smallMolecule	L-arginine
+smallMolecule	L-citrulline
+smallMolecule	NO
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VHL
+protein	PLCG1
+protein	PDPK1
+protein	NOS3
+protein	HSPCA
+protein	HRAS
+protein	AKT1
+NOS3	L-citrulline	-a>
+PI3K	PIP3	-a>
+PLCG1	DAG	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+AKT1	NOS3	component>
+CaM/Ca ++	NOS3	component>
+VHL	VEGF	-t|
+HIF-1-alpha/ARNT	VEGF	-t>
+bradykinin/Bradykinin receptor B2	NOS3	-a|
+HSPCA	NOS3	-a>
+DAG	PKC	-a>
+VEGF/VEGF R	PLCG1	-a>
+L-arginine	L-citrulline	-a>
+VEGF R	VEGF/VEGF R	component>
+VEGF	VEGF/VEGF R	component>
+NOS3	NO	-t>
+PIP2	PIP3	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+NOS III/Caveolin-1	NOS3	component>
+PAS	VEGF	-t>
+VEGF/VEGF R	PI3K	-a>
+FAK/p130CAS/SRC/CSK/paxillin/actin	cell migration	-ap>
+VEGF/VEGF R	SHC/GRB2/SOS-1	-a>
+PDPK1	AKT1	-a>
+CaM/Ca ++	NOS3	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+VEGF/VEGF R	FAK/p130CAS/SRC/CSK/paxillin/actin	-a>
+PIP3	PDPK1	-a>

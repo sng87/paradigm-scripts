@@ -1,0 +1,95 @@
+abstract	cell survival
+abstract	negative regulation of cell cycle
+abstract	G1/S transition of mitotic cell cycle
+abstract	JNK cascade
+abstract	glucose import
+abstract	response to stress
+abstract	MAPKKK cascade
+complex	FOXO1-3a-4/14-3-3 family
+complex	AKT1/ASK1
+complex	BAD/YWHAZ
+complex	PDK1/Src/Hsp90
+protein	FOXO1-3a-4-inactive
+complex	p27Kip1/KPNA1
+complex	p27Kip1/14-3-3 family
+protein	DNA-PKcs
+complex	BAD/BCL-XL/YWHAZ
+protein	GSK3-inactive
+complex	mTORC2
+complex	AKT2/p21CIP1
+protein	BCL-XL
+complex	BAD/BCL-XL
+smallMolecule	PI-3-4-5-P3
+protein	FOXO1-3a-4
+complex	AKT1/RAF1
+protein	14-3-3 family
+protein	GSK3
+protein	YWHAZ
+protein	TBC1D4
+protein	SLC2A4
+protein	RAF1
+protein	PRKACA
+protein	PDPK1
+protein	MAP3K5
+protein	KPNA1
+protein	CHUK
+protein	CDKN1B
+protein	CDKN1A
+protein	CASP9
+protein	AKT3
+protein	AKT2
+protein	AKT1
+PDPK1	AKT3	-a>
+PDPK1	AKT2	-a>
+CDKN1A	negative regulation of cell cycle	-ap|
+AKT1	BAD/BCL-XL	-a>
+PRKACA	BCL-XL	component>
+AKT1	FOXO1-3a-4-inactive	-a>
+response to stress	AKT1/ASK1	component>
+AKT1	GSK3-inactive	-a>
+AKT1	AKT2/p21CIP1	component>
+PI-3-4-5-P3	AKT1	-a>
+FOXO1-3a-4/14-3-3 family	negative regulation of cell cycle	-ap|
+PI-3-4-5-P3	AKT3	-a>
+AKT1	CDKN1B	-a>
+PI-3-4-5-P3	AKT2	-a>
+AKT2/p21CIP1	negative regulation of cell cycle	-ap>
+FOXO1-3a-4/14-3-3 family	cell survival	-ap>
+AKT2	TBC1D4	-a>
+AKT1	CASP9	-a>
+KPNA1	p27Kip1/KPNA1	component>
+KPNA1	p27Kip1/14-3-3 family	component>
+14-3-3 family	p27Kip1/KPNA1	component>
+14-3-3 family	p27Kip1/14-3-3 family	component>
+CDKN1B	p27Kip1/KPNA1	component>
+CDKN1B	p27Kip1/14-3-3 family	component>
+BAD/BCL-XL	BAD/BCL-XL	-a>
+CASP9	cell survival	-ap>
+mTORC2	AKT1	-a>
+PDK1/Src/Hsp90	AKT1	-a>
+DNA-PKcs	AKT1	-a>
+AKT1/ASK1	JNK cascade	-ap|
+YWHAZ	BAD/BCL-XL/YWHAZ	component>
+BAD/BCL-XL	BAD/BCL-XL/YWHAZ	component>
+BAD/BCL-XL/YWHAZ	BAD/YWHAZ	component>
+BAD/BCL-XL/YWHAZ	BCL-XL	component>
+FOXO1-3a-4	FOXO1-3a-4-inactive	-a>
+MAP3K5	AKT1/ASK1	component>
+AKT1	AKT1/ASK1	component>
+AKT1/RAF1	MAPKKK cascade	-ap|
+GSK3	GSK3-inactive	-a>
+RAF1	AKT1/RAF1	component>
+AKT1	AKT1/RAF1	component>
+BCL-XL	cell survival	-ap>
+GSK3-inactive	G1/S transition of mitotic cell cycle	-ap>
+AKT1	CHUK	-a>
+CDKN1A	CDKN1A	-a>
+14-3-3 family	FOXO1-3a-4/14-3-3 family	component>
+FOXO1-3a-4-inactive	FOXO1-3a-4/14-3-3 family	component>
+TBC1D4	SLC2A4	-a>
+p27Kip1/14-3-3 family	negative regulation of cell cycle	-ap|
+CDKN1A	CDKN1A	component>
+CDKN1A	AKT2/p21CIP1	component>
+AKT2	CDKN1A	component>
+AKT2	AKT2/p21CIP1	component>
+SLC2A4	glucose import	-ap>

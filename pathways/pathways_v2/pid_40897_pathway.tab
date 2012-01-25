@@ -1,0 +1,9 @@
+complex	NS1 Homodimer
+complex	CPSF:NS1 Complex
+complex	NS1:PAB II Complex
+protein	PABPN1
+protein	CPSF4
+NS1 Homodimer	CPSF:NS1 Complex	component>
+CPSF4	CPSF:NS1 Complex	component>
+NS1 Homodimer	NS1:PAB II Complex	component>
+PABPN1	NS1:PAB II Complex	component>

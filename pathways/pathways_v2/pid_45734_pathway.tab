@@ -1,0 +1,25 @@
+complex	coat protein/ARF1/ER cargo receptor (cy)
+protein	GAP
+complex	coat protein/ARF1/ER cargo receptor
+complex	coat protein
+protein	ER cargo receptor
+protein	GEF
+smallMolecule	GDP
+smallMolecule	GTP
+protein	GPLD1
+protein	ARF1
+GAP	coat protein/ARF1/ER cargo receptor (cy)	-a>
+GPLD1	coat protein/ARF1/ER cargo receptor	component>
+GEF	GDP	-a>
+coat protein/ARF1/ER cargo receptor	coat protein/ARF1/ER cargo receptor (cy)	-a>
+ER cargo receptor	coat protein/ARF1/ER cargo receptor	component>
+ARF1	coat protein/ARF1/ER cargo receptor	component>
+coat protein	coat protein/ARF1/ER cargo receptor	component>
+ARF1	GPLD1	-a>
+coat protein/ARF1/ER cargo receptor (cy)	ER cargo receptor	component>
+coat protein/ARF1/ER cargo receptor (cy)	ARF1	component>
+coat protein/ARF1/ER cargo receptor (cy)	coat protein	component>
+ARF1	ARF1	-a>
+ARF1	GDP	-a>
+GTP	ARF1	-a>
+GTP	GDP	-a>

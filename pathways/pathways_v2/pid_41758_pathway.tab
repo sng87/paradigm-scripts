@@ -1,0 +1,75 @@
+smallMolecule	Oxaloacetate
+complex	malate dehydrogenase 2 dimer
+smallMolecule	2-Oxoglutarate
+complex	Citrate Synthase Holoenzyme
+smallMolecule	CoA
+smallMolecule	Isocitric acid
+smallMolecule	Citrate
+complex	Succinyl-CoA synthetase heterodimer
+smallMolecule	Succinate
+complex	Succinate dehydrogenase complex (oxidised)
+smallMolecule	Succinyl-CoA
+smallMolecule	H2O
+smallMolecule	L-Malate
+smallMolecule	Fumarate
+smallMolecule	CO2
+complex	Isocitrate Dehydrogenase Holoenzyme (mitochondrial, NAD+)
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	cis-Aconitate
+smallMolecule	Acetyl-CoA
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	FH
+protein	ACO2
+Succinate dehydrogenase complex (oxidised)	Fumarate	-a>
+FH	L-Malate	-a>
+Citrate Synthase Holoenzyme	CoA	-a>
+ACO2	Isocitric acid	-a>
+malate dehydrogenase 2 dimer	Oxaloacetate	-a>
+Isocitrate Dehydrogenase Holoenzyme (mitochondrial, NAD+)	NADH	-a>
+ACO2	cis-Aconitate	-a>
+Succinyl-CoA synthetase heterodimer	CoA	-a>
+Succinate	Fumarate	-a>
+Fumarate	L-Malate	-a>
+H2O	L-Malate	-a>
+H2O	Citrate	-a>
+H2O	CoA	-a>
+Acetyl-CoA	Citrate	-a>
+Acetyl-CoA	CoA	-a>
+Oxaloacetate	Citrate	-a>
+Oxaloacetate	CoA	-a>
+H2O	Isocitric acid	-a>
+cis-Aconitate	Isocitric acid	-a>
+DPN	Oxaloacetate	-a>
+L-Malate	NADH	-a>
+L-Malate	H+	-a>
+L-Malate	Oxaloacetate	-a>
+DPN	H+	-a>
+DPN	CO2	-a>
+DPN	2-Oxoglutarate	-a>
+DPN	NADH	-a>
+Isocitric acid	H+	-a>
+Isocitric acid	CO2	-a>
+Isocitric acid	2-Oxoglutarate	-a>
+Isocitric acid	NADH	-a>
+phosphate	ATP	-a>
+ADP	Succinate	-a>
+ADP	ATP	-a>
+ADP	CoA	-a>
+Succinyl-CoA	ATP	-a>
+Citrate	H2O	-a>
+Citrate	cis-Aconitate	-a>
+phosphate	GTP	-a>
+phosphate	Succinate	-a>
+phosphate	CoA	-a>
+GDP	GTP	-a>
+GDP	Succinate	-a>
+GDP	CoA	-a>
+Succinyl-CoA	GTP	-a>
+Succinyl-CoA	Succinate	-a>
+Succinyl-CoA	CoA	-a>

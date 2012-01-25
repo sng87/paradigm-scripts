@@ -1,0 +1,100 @@
+abstract	potassium channel inhibitor activity
+abstract	voltage-gated calcium channel activity
+abstract	regulation of S phase of mitotic cell cycle
+abstract	G-protein coupled receptor activity
+abstract	actin cytoskeleton reorganization
+abstract	cAMP biosynthetic process
+abstract	cell proliferation
+abstract	apoptosis
+protein	MEK1-2
+smallMolecule	DAG
+complex	SHBG/T-DHT
+complex	T-DHT/AR/PELP1/Src
+protein	ERK1-2-active
+protein	MEK1-2-active
+protein	ERK1-2
+complex	T-DHT/AR
+complex	T-DHT/AR/PELP1
+protein	PLC
+complex	Gi family/GNB1/GNG2/GDP
+complex	RAC1-CDC42/GTP
+complex	HRAS/GDP
+complex	HRAS/GTP
+complex	Gi family/GTP
+complex	T-DHT/AR/PELP1/Src/PI3K
+smallMolecule	T-DHT
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+complex	RAC1-CDC42/GDP
+smallMolecule	IP3
+complex	GNB1/GNG2
+protein	FAK
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SRC
+protein	SHBG
+protein	RAF1
+protein	PELP1
+protein	MAPK1
+protein	GNRH1
+protein	FOS
+protein	CREB1
+protein	AR
+protein	AKT1
+PLC	DAG	-a>
+T-DHT/AR	Gi family/GTP	component>
+Ca2+	Ca2+	-a|
+Gi family/GTP	Ca2+	-a>
+potassium channel inhibitor activity	Ca2+	-a>
+Ca2+	ERK1-2-active	-a>
+MEK1-2-active	ERK1-2-active	-a>
+T-DHT	Gi family/GTP	component>
+T-DHT/AR/PELP1/Src	HRAS/GTP	-a>
+G-protein coupled receptor activity	SHBG/T-DHT	component>
+PI3K	RAC1-CDC42/GTP	-a>
+RAF1	MEK1-2-active	-a>
+T-DHT	PI3K	-a>
+T-DHT	PLC	-a>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+CREB1	FOS	-t>
+SHBG/T-DHT	cAMP biosynthetic process	-ap>
+T-DHT	FAK	-a>
+CREB1	apoptosis	-ap|
+voltage-gated calcium channel activity	Ca2+	-a>
+AR	T-DHT/AR	component>
+T-DHT	T-DHT/AR	component>
+ERK1-2-active	cell proliferation	-ap>
+ERK1-2-active	CREB1	-a>
+IP3	Ca2+	-a>
+T-DHT/AR/PELP1/Src/PI3K	regulation of S phase of mitotic cell cycle	-ap>
+PELP1	T-DHT/AR/PELP1	component>
+T-DHT/AR	T-DHT/AR/PELP1	component>
+PI3K	T-DHT/AR/PELP1/Src/PI3K	component>
+T-DHT/AR/PELP1/Src	T-DHT/AR/PELP1/Src/PI3K	component>
+SRC	T-DHT/AR/PELP1/Src	component>
+T-DHT/AR/PELP1	T-DHT/AR/PELP1/Src	component>
+ERK1-2	ERK1-2-active	-a>
+T-DHT	MAPK1	-a|
+GTP	GDP	component>
+GTP	GNB1/GNG2	component>
+GTP	Gi family/GTP	component>
+Gi family/GNB1/GNG2/GDP	GDP	component>
+Gi family/GNB1/GNG2/GDP	GNB1/GNG2	component>
+Gi family/GNB1/GNG2/GDP	Gi family/GTP	component>
+T-DHT	AKT1	-a|
+GTP	HRAS/GTP	-a>
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+HRAS/GTP	RAF1	-a>
+T-DHT	SHBG/T-DHT	component>
+SHBG	SHBG/T-DHT	component>
+GTP	GDP	-a>
+GTP	RAC1-CDC42/GTP	-a>
+RAC1-CDC42/GDP	GDP	-a>
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+Gi family/GTP	cAMP biosynthetic process	-ap|
+MEK1-2	MEK1-2-active	-a>
+RAC1-CDC42/GTP	actin cytoskeleton reorganization	-ap>
+T-DHT	GNRH1	-a>

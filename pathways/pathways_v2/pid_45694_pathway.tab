@@ -1,0 +1,31 @@
+protein	cAMP activators
+complex	G-alpha-S/AC
+complex	PKA
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	NFATc
+protein	MAPK14
+protein	MAP2K6
+protein	MAP2K3
+protein	MAF
+protein	JUNB
+protein	IL5
+protein	IL4
+protein	IL13
+protein	GATA3
+GATA3	IL13	-t>
+NFATc	IL13	-t>
+MAF	IL13	-t>
+G-alpha-S/AC	cAMP	-a>
+NFATc	IL4	-t>
+MAF	IL4	-t>
+GATA3	IL5	-t>
+MAP2K6	MAPK14	-a>
+JUNB	IL13	-t>
+GATA3	GATA3	-a>
+cAMP	PKA	-a>
+ATP	cAMP	-a>
+MAP2K3	MAPK14	-a>
+MAPK14	GATA3	-a>
+JUNB	IL4	-t>
+cAMP activators	G-alpha-S/AC	-a>

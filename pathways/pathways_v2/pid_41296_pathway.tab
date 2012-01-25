@@ -1,0 +1,17 @@
+smallMolecule	CoA
+smallMolecule	Acetate
+smallMolecule	Acetyl-CoA
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	ATP
+protein	ACSS2
+ACSS2	AMP	-a>
+Acetate	Acetyl-CoA	-a>
+Acetate	PPi	-a>
+Acetate	AMP	-a>
+ATP	Acetyl-CoA	-a>
+ATP	PPi	-a>
+ATP	AMP	-a>
+CoA	Acetyl-CoA	-a>
+CoA	PPi	-a>
+CoA	AMP	-a>

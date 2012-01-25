@@ -1,0 +1,139 @@
+abstract	spindle checkpoint
+abstract	response to DNA damage stimulus
+abstract	anaphase
+abstract	mitosis
+abstract	mitotic metaphase/anaphase transition
+abstract	G2/M transition of mitotic cell cycle
+abstract	cytokinesis
+abstract	mitotic prometaphase
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	hSgo1/Aurora B/Survivin
+complex	NSUN2/NPM1/Nucleolin
+complex	Aurora B/RasGAP
+complex	Condensin I complex
+complex	Chromosomal passenger complex
+complex	Aurora B/PP1-gamma
+complex	Centraspindlin
+complex	Aurora B/TACC1
+complex	Aurora B/PP2A
+complex	Aurora B/RasGAP/Survivin
+complex	RhoA/GDP
+protein	Histone H3
+complex	Aurora B/Septin1
+complex	Cul3 protein complex
+complex	Chromosomal passenger complex/EVI5
+complex	Chromosomal passenger complex/Cul3 protein complex
+complex	Aurora B/HC8 Proteasome
+complex	RhoA/GTP
+protein	Aurora A
+complex	Aurora C/Aurora B/INCENP
+protein	VIM
+protein	TACC1
+protein	STMN1
+protein	SGOL1
+protein	SEPT1
+protein	RASA1
+protein	PSMA3
+protein	PPP2R5D
+protein	PPP1CC
+protein	PEBP1
+protein	NSUN2
+protein	NPM1
+protein	NDC80
+protein	NCL
+protein	MLCK
+protein	KIF2C
+protein	KIF20A
+protein	INCENP
+protein	EVI5
+protein	DES
+protein	CENPA
+protein	CDCA8
+protein	CBX5
+protein	BUB1
+protein	BIRC5
+protein	AURKC
+protein	AURKB
+anaphase	Chromosomal passenger complex/EVI5	component>
+mitosis	NSUN2	component>
+cytokinesis	Aurora B/Septin1	component>
+Centraspindlin	RhoA/GTP	-a>
+mitotic prometaphase	Chromosomal passenger complex/Cul3 protein complex	-a>
+AURKB	Histone H3	-a>
+Chromosomal passenger complex	KIF2C	-a>
+BUB1	Chromosomal passenger complex	-a>
+AURKB	DES	-a>
+Histone H3	CBX5	-a>
+response to DNA damage stimulus	CBX5	-a>
+Chromosomal passenger complex	CENPA	-a>
+AURKB	VIM	-a>
+mitosis	Aurora C/Aurora B/INCENP	component>
+KIF20A	Chromosomal passenger complex	-a>
+Chromosomal passenger complex	Centraspindlin	-a>
+anaphase	Centraspindlin	-a>
+AURKB	MLCK	-a>
+CENPA	Chromosomal passenger complex	-a>
+PEBP1	Chromosomal passenger complex	-a>
+mitosis	Aurora B/TACC1	component>
+AURKB	Condensin I complex	-a>
+mitotic prometaphase	Condensin I complex	-a>
+AURKB	NSUN2	component>
+cytokinesis	NSUN2	component>
+mitotic prometaphase	hSgo1/Aurora B/Survivin	component>
+BIRC5	Aurora B/RasGAP/Survivin	component>
+Aurora B/RasGAP	Aurora B/RasGAP/Survivin	component>
+EVI5	Chromosomal passenger complex/EVI5	component>
+Chromosomal passenger complex	Chromosomal passenger complex/EVI5	component>
+AURKB	STMN1	-a>
+CDCA8	Chromosomal passenger complex	component>
+AURKB	Chromosomal passenger complex	component>
+BIRC5	Chromosomal passenger complex	component>
+INCENP	Chromosomal passenger complex	component>
+Chromosomal passenger complex/EVI5	cytokinesis	-ap>
+Aurora B/HC8 Proteasome	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+Cul3 protein complex	Chromosomal passenger complex/Cul3 protein complex	component>
+Chromosomal passenger complex	Chromosomal passenger complex/Cul3 protein complex	component>
+AURKB	Aurora B/Septin1	component>
+SEPT1	Aurora B/Septin1	component>
+RhoA/GDP	RhoA/GTP	-a>
+Chromosomal passenger complex/Cul3 protein complex	Chromosomal passenger complex/Cul3 protein complex	-a>
+mitosis	Histone H3	-a>
+mitotic prometaphase	KIF2C	-a>
+BUB1	spindle checkpoint	-ap>
+AURKB	spindle checkpoint	-ap>
+cytokinesis	DES	-a>
+PPP2R5D	Aurora B/PP2A	component>
+PPP2R5D	Aurora B/PP1-gamma	component>
+PPP1CC	Aurora B/PP2A	component>
+PPP1CC	Aurora B/PP1-gamma	component>
+AURKB	Aurora B/PP2A	component>
+AURKB	Aurora B/PP1-gamma	component>
+G2/M transition of mitotic cell cycle	CBX5	-a>
+G2/M transition of mitotic cell cycle	CENPA	-a>
+DES	cytokinesis	-ap>
+anaphase	VIM	-a>
+AURKB	NDC80	-a>
+INCENP	Aurora C/Aurora B/INCENP	component>
+AURKB	Aurora C/Aurora B/INCENP	component>
+AURKC	Aurora C/Aurora B/INCENP	component>
+mitotic metaphase/anaphase transition	Chromosomal passenger complex	-a>
+Centraspindlin	Centraspindlin	-a>
+Aurora A	CENPA	-a>
+mitosis	MLCK	-a>
+Centraspindlin	cytokinesis	-ap>
+AURKB	CENPA	-a>
+AURKB	Aurora B/TACC1	component>
+TACC1	Aurora B/TACC1	component>
+Condensin I complex	Condensin I complex	-a>
+PSMA3	Aurora B/HC8 Proteasome	component>
+Chromosomal passenger complex/Cul3 protein complex	Aurora B/HC8 Proteasome	component>
+mitotic prometaphase	Chromosomal passenger complex	-a>
+mitotic metaphase/anaphase transition	Chromosomal passenger complex/Cul3 protein complex	-a>
+NSUN2/NPM1/Nucleolin	NCL	component>
+NSUN2/NPM1/Nucleolin	NPM1	component>
+NSUN2/NPM1/Nucleolin	NSUN2	component>
+BIRC5	hSgo1/Aurora B/Survivin	component>
+AURKB	hSgo1/Aurora B/Survivin	component>
+SGOL1	hSgo1/Aurora B/Survivin	component>
+RASA1	Aurora B/RasGAP	component>
+AURKB	Aurora B/RasGAP	component>

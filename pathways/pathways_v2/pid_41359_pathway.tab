@@ -1,0 +1,11 @@
+complex	G Protein Trimer Complex (olfactory)
+protein	Olfactory Receptor
+complex	OR - G Protein Trimer Complex
+protein	GNGT1
+protein	GNB1
+protein	GNAL
+GNGT1	G Protein Trimer Complex (olfactory)	component>
+GNB1	G Protein Trimer Complex (olfactory)	component>
+GNAL	G Protein Trimer Complex (olfactory)	component>
+Olfactory Receptor	OR - G Protein Trimer Complex	component>
+G Protein Trimer Complex (olfactory)	OR - G Protein Trimer Complex	component>

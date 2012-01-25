@@ -1,0 +1,44 @@
+complex	LIS1/LIS1/CLIP170/dynein/dynactin
+complex	P35/CDK5(+)
+complex	REELIN/ApoER2
+protein	dynactin
+protein	dynein
+complex	CDLC/LIS1/NUDEL
+protein	LIS1
+protein	RSN
+complex	LIS1/LIS1/CLIP170
+protein	CDLC
+abstract	negative regulation of microtubule depolymerization
+abstract	retrograde axon cargo transport
+protein	RELN
+protein	NDEL1
+protein	LRP8
+protein	DCX
+protein	CSNK2A1
+protein	CDK5R1
+protein	CDK5
+protein	ABL1
+DCX	negative regulation of microtubule depolymerization	-ap>
+LRP8	REELIN/ApoER2	component>
+RELN	REELIN/ApoER2	component>
+ABL1	CDK5	-a>
+REELIN/ApoER2	ABL1	-a>
+LIS1/LIS1/CLIP170/dynein/dynactin	dynactin	component>
+LIS1/LIS1/CLIP170/dynein/dynactin	dynein	component>
+LIS1/LIS1/CLIP170/dynein/dynactin	LIS1/LIS1/CLIP170	component>
+CSNK2A1	LIS1	-a>
+LIS1/LIS1/CLIP170	LIS1	component>
+LIS1/LIS1/CLIP170	RSN	component>
+NDEL1	CDLC/LIS1/NUDEL	component>
+LIS1	CDLC/LIS1/NUDEL	component>
+CDLC	CDLC/LIS1/NUDEL	component>
+CDLC/LIS1/NUDEL	negative regulation of microtubule depolymerization	-ap>
+CDK5R1	P35/CDK5(+)	component>
+CDK5	P35/CDK5(+)	component>
+dynactin	LIS1/LIS1/CLIP170/dynein/dynactin	component>
+dynein	LIS1/LIS1/CLIP170/dynein/dynactin	component>
+LIS1/LIS1/CLIP170	LIS1/LIS1/CLIP170/dynein/dynactin	component>
+RSN	LIS1/LIS1/CLIP170	component>
+LIS1	LIS1/LIS1/CLIP170	component>
+P35/CDK5(+)	NDEL1	-a>
+LIS1/LIS1/CLIP170/dynein/dynactin	retrograde axon cargo transport	-ap>

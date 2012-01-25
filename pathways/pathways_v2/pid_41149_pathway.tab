@@ -1,0 +1,24 @@
+protein	UniProt:P23588 EIF4B_subunit_2_118_2-118
+protein	UniProt:P23588 EIF4B
+protein	UniProt:Q04637 EIF4G1
+smallMolecule	ATP
+smallMolecule	ADP
+protein	RPS6KB1
+protein	RPS6
+protein	EEF2K
+RPS6KB1	RPS6	-a>
+RPS6KB1	EEF2K	-a>
+RPS6KB1	ADP	-a>
+UniProt:P23588 EIF4B_subunit_2_118_2-118	UniProt:P23588 EIF4B	-a>
+UniProt:P23588 EIF4B_subunit_2_118_2-118	ADP	-a>
+ATP	UniProt:P23588 EIF4B	-a>
+RPS6	ADP	-a>
+RPS6	RPS6	-a>
+ATP	RPS6	-a>
+EEF2K	ADP	-a>
+EEF2K	EEF2K	-a>
+ATP	EEF2K	-a>
+ATP	UniProt:Q04637 EIF4G1	-a>
+ATP	ADP	-a>
+UniProt:Q04637 EIF4G1	UniProt:Q04637 EIF4G1	-a>
+UniProt:Q04637 EIF4G1	ADP	-a>

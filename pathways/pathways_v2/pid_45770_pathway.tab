@@ -1,0 +1,45 @@
+complex	Estrogen/ER alpha
+complex	Estrogen/Estrogen/ER alpha/ER alpha
+protein	dehydrogenase
+complex	MTA3/MBD3/HDAC
+protein	alpha tubulin
+complex	Estrogen/Estrogen/ER alpha/ER alpha/CoA
+protein	aromatase
+protein	Snail
+smallMolecule	CoA
+smallMolecule	estrogen
+protein	PDZK1
+protein	MTA3
+protein	MBD3
+protein	HSPB1
+protein	HDAC1
+protein	GREB1
+protein	GAPDH
+protein	ESR1
+protein	CTSD
+protein	CDH1
+protein	ALDOA
+Snail	aromatase	-t|
+ESR1	Estrogen/ER alpha	component>
+estrogen	Estrogen/ER alpha	component>
+Estrogen/Estrogen/ER alpha/ER alpha	CTSD	-t>
+Estrogen/Estrogen/ER alpha/ER alpha/CoA	CoA	-a>
+Estrogen/Estrogen/ER alpha/ER alpha/CoA	Estrogen/Estrogen/ER alpha/ER alpha	-a>
+Estrogen/Estrogen/ER alpha/ER alpha	alpha tubulin	-t>
+Estrogen/Estrogen/ER alpha/ER alpha	dehydrogenase	-t>
+MTA3/MBD3/HDAC	Snail	-a|
+Estrogen/ER alpha	Estrogen/Estrogen/ER alpha/ER alpha	component>
+MTA3	MTA3	-a>
+Estrogen/Estrogen/ER alpha/ER alpha	GREB1	-t>
+Estrogen/Estrogen/ER alpha/ER alpha	PDZK1	-t>
+HDAC1	MTA3/MBD3/HDAC	component>
+MBD3	MTA3/MBD3/HDAC	component>
+MTA3	MTA3/MBD3/HDAC	component>
+Estrogen/Estrogen/ER alpha/ER alpha/CoA	Estrogen/Estrogen/ER alpha/ER alpha/CoA	-a>
+Estrogen/Estrogen/ER alpha/ER alpha	GAPDH	-t>
+Estrogen/Estrogen/ER alpha/ER alpha	ALDOA	-t>
+Estrogen/Estrogen/ER alpha/ER alpha	MTA3	-t>
+Snail	CDH1	-t|
+Estrogen/Estrogen/ER alpha/ER alpha	HSPB1	-t>
+Estrogen/Estrogen/ER alpha/ER alpha	Estrogen/Estrogen/ER alpha/ER alpha/CoA	-a>
+CoA	Estrogen/Estrogen/ER alpha/ER alpha/CoA	-a>

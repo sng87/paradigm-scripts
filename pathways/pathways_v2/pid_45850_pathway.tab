@@ -1,0 +1,16 @@
+complex	RXR/RAR/p/CIP/PCAF/TIF2/GRIP1/SRC1/Retinoids
+complex	RXR/RAR/Retinoid
+complex	p/CIP/PCAF/TIF2/GRIP1/SRC1
+complex	RXR/RAR/HDAC3/NCOR2/SMRT
+protein	Retinoids
+protein	NCOR2
+protein	HDAC3
+p/CIP/PCAF/TIF2/GRIP1/SRC1	RXR/RAR/p/CIP/PCAF/TIF2/GRIP1/SRC1/Retinoids	component>
+RXR/RAR/Retinoid	RXR/RAR/p/CIP/PCAF/TIF2/GRIP1/SRC1/Retinoids	component>
+Retinoids	Retinoids	-a>
+RXR/RAR/HDAC3/NCOR2/SMRT	HDAC3	component>
+RXR/RAR/HDAC3/NCOR2/SMRT	NCOR2	component>
+RXR/RAR/HDAC3/NCOR2/SMRT	RXR/RAR/Retinoid	component>
+Retinoids	HDAC3	component>
+Retinoids	NCOR2	component>
+Retinoids	RXR/RAR/Retinoid	component>

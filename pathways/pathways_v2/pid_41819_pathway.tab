@@ -1,0 +1,38 @@
+complex	Rev multimer-bound HIV-1 mRNA
+complex	Nuclear Pore Complex (NPC)
+complex	Rev-bound HIV-1 mRNA
+complex	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP:NPC
+complex	Ran-GDP
+complex	Ran-GTP
+complex	Rev multimer-bound HIV-1 mRNA:CRM1 complex
+complex	RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex
+complex	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP
+protein	Rev
+rna	EMBL:AF033819 EMBL:AF033819
+smallMolecule	phosphate
+protein	XPO1
+protein	RANGAP1
+protein	RANBP1
+RANBP1	Ran-GDP	-a>
+RANGAP1	Ran-GDP	-a>
+Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	Ran-GDP	-a>
+Ran-GTP	phosphate	-a>
+Ran-GTP	Ran-GDP	-a>
+EMBL:AF033819 EMBL:AF033819	Rev-bound HIV-1 mRNA	component>
+Rev	Rev-bound HIV-1 mRNA	component>
+Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP:NPC	component>
+Nuclear Pore Complex (NPC)	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP:NPC	component>
+Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP:NPC	Nuclear Pore Complex (NPC)	component>
+Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP:NPC	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	component>
+Rev-bound HIV-1 mRNA	Rev multimer-bound HIV-1 mRNA	-a>
+XPO1	Rev multimer-bound HIV-1 mRNA:CRM1 complex	component>
+Rev multimer-bound HIV-1 mRNA	Rev multimer-bound HIV-1 mRNA:CRM1 complex	component>
+RANBP1	RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	component>
+Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	component>
+Rev multimer-bound HIV-1 mRNA:CRM1 complex	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	component>
+Ran-GTP	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	component>
+RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	EMBL:AF033819 EMBL:AF033819	component>
+RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	Rev	component>
+RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	RANBP1	component>
+RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	Ran-GTP	component>
+RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	XPO1	component>

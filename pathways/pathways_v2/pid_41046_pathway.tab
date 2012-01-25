@@ -1,0 +1,29 @@
+complex	AP2 complex
+protein	GRIP1/GRIP2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	PICK1
+GRIP1/GRIP2	AP2 complex	-a>
+PICK1	AP2 complex	-a>
+AP2 complex	AP2 complex	-a>
+AP2 complex	PICK1	-a>
+AP2 complex	ADP	-a>
+AP2 complex	GRIP1/GRIP2	-a>
+AP2 complex	phosphate	-a>
+ATP	AP2 complex	-a>
+phosphate	PICK1	-a>
+phosphate	ADP	-a>
+phosphate	GRIP1/GRIP2	-a>
+ATP	PICK1	-a>
+ATP	ADP	-a>
+ATP	GRIP1/GRIP2	-a>
+ATP	phosphate	-a>
+PICK1	PICK1	-a>
+PICK1	ADP	-a>
+PICK1	GRIP1/GRIP2	-a>
+PICK1	phosphate	-a>
+GRIP1/GRIP2	PICK1	-a>
+GRIP1/GRIP2	ADP	-a>
+GRIP1/GRIP2	GRIP1/GRIP2	-a>
+GRIP1/GRIP2	phosphate	-a>

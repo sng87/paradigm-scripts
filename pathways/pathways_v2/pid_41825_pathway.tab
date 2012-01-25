@@ -1,0 +1,28 @@
+protein	_1-76
+complex	CD4:Vpu:beta-TrCP_1:Skp1 complex
+protein	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76
+complex	multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex
+complex	CD4:Vpu:beta-TrCP_1
+complex	Vpu:beta-TrCP1:Skp1 complex
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+protein	Vpu protein
+complex	CD4:Vpu complex
+complex	26S Proteasome
+protein	SKP1
+protein	CD4
+protein	BTRC
+26S Proteasome	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	Vpu:beta-TrCP1:Skp1 complex	component>
+multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	_1-76	component>
+multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	component>
+multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+_1-76	multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_subunit_1_76_1-76	multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	component>
+CD4:Vpu:beta-TrCP_1:Skp1 complex	multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	component>
+CD4	CD4:Vpu complex	component>
+Vpu protein	CD4:Vpu complex	component>
+CD4:Vpu:beta-TrCP_1	CD4:Vpu:beta-TrCP_1:Skp1 complex	component>
+SKP1	CD4:Vpu:beta-TrCP_1:Skp1 complex	component>
+CD4:Vpu complex	CD4:Vpu:beta-TrCP_1	component>
+BTRC	CD4:Vpu:beta-TrCP_1	component>

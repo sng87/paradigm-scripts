@@ -1,0 +1,29 @@
+complex	DELTA/NOTCH/NOTCH
+protein	NICD_0-0
+complex	NICD/CSL
+protein	NEXT_0-0
+complex	NOTCH/NOTCH
+protein	NOTCH_0-0
+complex	DELTA/NOTCH/NOTCH(cleaved)
+protein	RBPSUH
+complex	Gamma Secretase
+protein	NOTCH1
+protein	FURIN
+protein	DLL1
+protein	ADAM17
+ADAM17	NEXT_0-0	component>
+Gamma Secretase	NICD_0-0	-a>
+ADAM17	NOTCH_0-0	-a>
+FURIN	NOTCH_0-0	-a>
+Gamma Secretase	NOTCH_0-0	-a>
+NOTCH/NOTCH	DELTA/NOTCH/NOTCH	component>
+DLL1	DELTA/NOTCH/NOTCH	component>
+NICD_0-0	NICD_0-0	-a>
+NOTCH_0-0	NOTCH_0-0	-a>
+NOTCH_0-0	NOTCH/NOTCH	component>
+RBPSUH	NICD/CSL	component>
+NICD_0-0	NICD/CSL	component>
+DELTA/NOTCH/NOTCH	DELTA/NOTCH/NOTCH(cleaved)	component>
+DELTA/NOTCH/NOTCH	NEXT_0-0	component>
+NEXT_0-0	NICD_0-0	-a>
+NOTCH1	NOTCH_0-0	-a>

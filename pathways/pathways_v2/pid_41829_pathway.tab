@@ -1,0 +1,21 @@
+complex	Nectin trans homodimer
+complex	Afadin:f-actin
+complex	Cadherin trans-homodimer
+complex	Cadherin:Catenin complex
+protein	Classic Cadherin
+complex	Nectin cis-homodimer
+protein	Beta-catenin/gamma catenin
+protein	UniProt:P55196-2 MLLT4_subunit_1_1816_1-1816
+complex	Nectin:afadin complex
+smallMolecule	Ca2+
+protein	CTNND1
+protein	CTNNA1
+Classic Cadherin	Cadherin trans-homodimer	component>
+Ca2+	Cadherin trans-homodimer	component>
+CTNND1	Cadherin:Catenin complex	component>
+CTNNA1	Cadherin:Catenin complex	component>
+Beta-catenin/gamma catenin	Cadherin:Catenin complex	component>
+Classic Cadherin	Cadherin:Catenin complex	component>
+Nectin cis-homodimer	Nectin trans homodimer	component>
+UniProt:P55196-2 MLLT4_subunit_1_1816_1-1816	Afadin:f-actin	component>
+UniProt:P55196-2 MLLT4_subunit_1_1816_1-1816	Nectin:afadin complex	component>

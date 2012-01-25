@@ -1,0 +1,65 @@
+abstract	fatty acid oxidation
+abstract	glucose transport
+complex	CamKIV/CaM/Ca ++
+complex	CaMKK/CaM/Ca ++
+protein	CaMKK
+complex	CaMKI/CaM/Ca ++
+complex	14-3-3/HDAC5
+complex	PGC1-alpha/PPAR-alpha
+complex	CaM/Ca ++
+complex	MEF2/PGC1-alpha
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++
+complex	CAMKII (8)
+complex	HDAC5/MEF2
+protein	CaM
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++
+protein	CaMKI
+protein	MEF2
+complex	Calcineurin
+smallMolecule	Ca2+
+protein	YWHAH
+protein	SLC2A14
+protein	PPARGC1A
+protein	PPARA
+protein	HDAC5
+protein	ESRRA
+protein	CAMK4
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	HDAC5	component>
+CaMKI/CaM/Ca ++	HDAC5	component>
+ESRRA	PGC1-alpha/PPAR-alpha	component>
+CamKIV/CaM/Ca ++	HDAC5	component>
+ESRRA	MEF2/PGC1-alpha	component>
+PGC1-alpha/PPAR-alpha	fatty acid oxidation	-ap>
+MEF2/PGC1-alpha	SLC2A14	-t>
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII (8)	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+YWHAH	14-3-3/HDAC5	component>
+HDAC5	14-3-3/HDAC5	component>
+HDAC5	HDAC5	-a>
+CamKIV/CaM/Ca ++	CamKIV/CaM/Ca ++	-a>
+MEF2/PGC1-alpha	ESRRA	-t>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CAMKII (8)	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CaM/Ca ++	component>
+PPARA	PGC1-alpha/PPAR-alpha	component>
+PPARGC1A	PGC1-alpha/PPAR-alpha	component>
+CaM/Ca ++	Calcineurin	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	-a>
+Calcineurin	MEF2	-a>
+CaM/Ca ++	CaMKI/CaM/Ca ++	component>
+CaMKI	CaMKI/CaM/Ca ++	component>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+CaMKK/CaM/Ca ++	CaMKI/CaM/Ca ++	-a>
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+SLC2A14	glucose transport	-ap>
+CaM/Ca ++	CaMKK/CaM/Ca ++	component>
+CaMKK	CaMKK/CaM/Ca ++	component>
+MEF2	PPARGC1A	-a>
+CaM/Ca ++	CamKIV/CaM/Ca ++	component>
+CAMK4	CamKIV/CaM/Ca ++	component>
+CaMKK/CaM/Ca ++	CamKIV/CaM/Ca ++	-a>
+HDAC5/MEF2	MEF2	component>
+HDAC5/MEF2	HDAC5	component>
+PPARGC1A	MEF2/PGC1-alpha	component>
+MEF2	MEF2/PGC1-alpha	component>

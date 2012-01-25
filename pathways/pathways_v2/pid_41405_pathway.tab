@@ -1,0 +1,66 @@
+complex	Cyclin B:Cdc2 complex
+complex	phospho-cyclin B1(CRS):phosph-Cdc2(Thr 161)
+complex	CAK
+complex	Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)
+complex	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)
+complex	Cyclin A:phospho-Cdc2(Thr 14)
+protein	Cdc25
+complex	nuclear Cyclin B1:phospho-Cdc2 ( Thr 14) complexes
+complex	Cyclin A:Cdc2
+smallMolecule	H2O
+complex	Cyclin A:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)
+complex	Cyclin B1:phospho-Cdc2(Thr 161)
+complex	Cyclin A:phospho-Cdc2(Thr 14, Thr 161)
+protein	Cyclin B
+complex	Cyclin B:phospho-Cdc2(Thr 14)
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	XPO1
+protein	WEE1
+protein	PKMYT1
+protein	CDC25B
+protein	CDC2
+PKMYT1	Cyclin A:phospho-Cdc2(Thr 14)	-a>
+Cdc25	Cyclin B1:phospho-Cdc2(Thr 161)	-a>
+Cdc25	phosphate	-a>
+CAK	ADP	-a>
+WEE1	ADP	-a>
+CAK	Cyclin A:phospho-Cdc2(Thr 14, Thr 161)	-a>
+ATP	Cyclin B:phospho-Cdc2(Thr 14)	-a>
+Cyclin B:Cdc2 complex	Cyclin B:phospho-Cdc2(Thr 14)	-a>
+Cyclin B:Cdc2 complex	ADP	-a>
+CDC2	Cyclin A:Cdc2	component>
+XPO1	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+ATP	Cyclin A:phospho-Cdc2(Thr 14)	-a>
+Cyclin A:Cdc2	ADP	-a>
+Cyclin A:Cdc2	Cyclin A:phospho-Cdc2(Thr 14)	-a>
+CDC25B	CDC25B	-a>
+Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	phosphate	-a>
+Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	Cyclin B1:phospho-Cdc2(Thr 161)	-a>
+H2O	Cyclin B1:phospho-Cdc2(Thr 161)	-a>
+ATP	phospho-cyclin B1(CRS):phosph-Cdc2(Thr 161)	-a>
+Cyclin B1:phospho-Cdc2(Thr 161)	phospho-cyclin B1(CRS):phosph-Cdc2(Thr 161)	-a>
+Cyclin B1:phospho-Cdc2(Thr 161)	ADP	-a>
+Cdc25	Cdc25	-a>
+Cyclin A:phospho-Cdc2(Thr 14, Thr 161)	Cyclin A:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+Cyclin A:phospho-Cdc2(Thr 14, Thr 161)	ADP	-a>
+ATP	Cyclin A:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+phospho-cyclin B1(CRS):phosph-Cdc2(Thr 161)	phospho-cyclin B1(CRS):phosph-Cdc2(Thr 161)	-a>
+Cyclin A:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	Cyclin A:Cdc2	-a>
+Cyclin A:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	phosphate	-a>
+H2O	Cyclin A:Cdc2	-a>
+H2O	phosphate	-a>
+nuclear Cyclin B1:phospho-Cdc2 ( Thr 14) complexes	Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	-a>
+nuclear Cyclin B1:phospho-Cdc2 ( Thr 14) complexes	ADP	-a>
+ATP	Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	-a>
+Cyclin A:phospho-Cdc2(Thr 14)	Cyclin A:phospho-Cdc2(Thr 14)	-a>
+ATP	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	ADP	-a>
+CDC2	Cyclin B:Cdc2 complex	component>
+Cyclin B	Cyclin B:Cdc2 complex	component>
+Cyclin A:phospho-Cdc2(Thr 14)	ADP	-a>
+Cyclin A:phospho-Cdc2(Thr 14)	Cyclin A:phospho-Cdc2(Thr 14, Thr 161)	-a>
+ATP	ADP	-a>
+ATP	Cyclin A:phospho-Cdc2(Thr 14, Thr 161)	-a>

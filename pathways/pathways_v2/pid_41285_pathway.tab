@@ -1,0 +1,24 @@
+complex	CD28 homodimer
+complex	CD28:Gads
+complex	CD28 bound to B7 ligands
+complex	CD80 (B7-1) homodimer
+complex	CD28:B7-1
+protein	UniProt:P42081 CD86_subunit_24_329_24-329
+complex	CD28:B7-2
+complex	phospho CD28:B7-1/B7-2
+protein	Lck/Fyn
+smallMolecule	ATP
+smallMolecule	ADP
+protein	GRAP2
+CD28 homodimer	CD28:B7-2	component>
+UniProt:P42081 CD86_subunit_24_329_24-329	CD28:B7-2	component>
+phospho CD28:B7-1/B7-2	CD28:Gads	component>
+GRAP2	CD28:Gads	component>
+ATP	ADP	component>
+ATP	phospho CD28:B7-1/B7-2	component>
+Lck/Fyn	ADP	component>
+Lck/Fyn	phospho CD28:B7-1/B7-2	component>
+CD28 bound to B7 ligands	ADP	component>
+CD28 bound to B7 ligands	phospho CD28:B7-1/B7-2	component>
+CD28 homodimer	CD28:B7-1	component>
+CD80 (B7-1) homodimer	CD28:B7-1	component>

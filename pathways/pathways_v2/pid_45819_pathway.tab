@@ -1,0 +1,48 @@
+abstract	cell differentiation
+complex	BMPR-II/ALK3
+protein	BMP
+complex	BMP/BMPR-II/ALK3
+protein	SMAD
+complex	CSX/GATA4
+complex	ATF-2/CSX/GATA4
+protein	TGF-beta
+complex	TGF-beta/TGF-beta-R1/TGF-beta-R2
+protein	TGFBR2
+protein	TGFBR1
+protein	SMAD6
+protein	RFC1
+protein	NPPB
+protein	NPPA
+protein	NOG
+protein	MYL2
+protein	MEF2C
+protein	MAP3K7
+protein	CHRD
+protein	ATF2
+CHRD	ATF-2/CSX/GATA4	-a|
+NOG	ATF-2/CSX/GATA4	-a|
+CSX/GATA4	MYL2	-t>
+ATF2	NPPA	-t>
+RFC1	cell differentiation	-ap>
+CHRD	CHRD	-a>
+SMAD	ATF-2/CSX/GATA4	-a>
+ATF2	NPPB	-t>
+TGF-beta	TGF-beta	-a>
+MAP3K7	ATF-2/CSX/GATA4	-a>
+NOG	NOG	-a>
+ATF-2/CSX/GATA4	ATF2	component>
+ATF-2/CSX/GATA4	CSX/GATA4	component>
+SMAD6	SMAD	-a>
+TGF-beta	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGFBR2	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGFBR1	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+BMP/BMPR-II/ALK3	ATF-2/CSX/GATA4	-a>
+CSX/GATA4	MEF2C	-t>
+ATF-2/CSX/GATA4	ATF-2/CSX/GATA4	-a>
+NPPA	cell differentiation	-ap>
+ATF2	RFC1	-t>
+BMP	BMP/BMPR-II/ALK3	component>
+BMPR-II/ALK3	BMP/BMPR-II/ALK3	component>
+MEF2C	cell differentiation	-ap>
+NPPB	cell differentiation	-ap>
+MYL2	cell differentiation	-ap>

@@ -1,0 +1,5 @@
+protein	GYG2
+protein	GYG1
+protein	AGL
+AGL	GYG1	-a>
+AGL	GYG2	-a>

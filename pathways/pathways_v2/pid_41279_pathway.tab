@@ -1,0 +1,23 @@
+complex	HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex*
+complex	HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex
+complex	TFIID
+complex	HIV-1 promoter:TFIID:TFIIA:TFIIB complex
+complex	HIV-1 promoter:TFIID complex
+complex	TFIIA
+complex	HIV-1 closed pre-initiation complex
+complex	provirus
+complex	RNA Polymerase II (unphosphorylated):TFIIF complex
+complex	TFIIE
+complex	TFIIH
+protein	GTF2B
+provirus	HIV-1 promoter:TFIID complex	component>
+TFIID	HIV-1 promoter:TFIID complex	component>
+TFIIA	HIV-1 promoter:TFIID:TFIIA:TFIIB complex	component>
+GTF2B	HIV-1 promoter:TFIID:TFIIA:TFIIB complex	component>
+HIV-1 promoter:TFIID complex	HIV-1 promoter:TFIID:TFIIA:TFIIB complex	component>
+HIV-1 promoter:TFIID:TFIIA:TFIIB complex	HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex*	component>
+RNA Polymerase II (unphosphorylated):TFIIF complex	HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex*	component>
+TFIIH	HIV-1 closed pre-initiation complex	component>
+HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex	HIV-1 closed pre-initiation complex	component>
+HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex*	HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex	component>
+TFIIE	HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex	component>

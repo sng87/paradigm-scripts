@@ -1,0 +1,28 @@
+complex	CDK4/CYCLIN D1/PCNA
+complex	CDK2/CYCLIN E/PCNA
+complex	RB/E2F-1
+protein	TP53
+protein	TIMP3
+protein	RB1
+protein	PCNA
+protein	MDM2
+protein	GADD45A
+protein	E2F1
+protein	CDKN1A
+protein	CDK4
+protein	CCND1
+protein	BCL2
+MDM2	RB1	component>
+GADD45A	CDK4/CYCLIN D1/PCNA	component>
+CDK4/CYCLIN D1/PCNA	RB1	component>
+CDKN1A	RB1	component>
+CDK2/CYCLIN E/PCNA	RB1	component>
+TP53	TIMP3	-t|
+CDK4	CDK4/CYCLIN D1/PCNA	component>
+CCND1	CDK4/CYCLIN D1/PCNA	component>
+PCNA	CDK4/CYCLIN D1/PCNA	component>
+TP53	CDKN1A	-t>
+TP53	GADD45A	-t>
+RB/E2F-1	E2F1	component>
+RB/E2F-1	RB1	component>
+TP53	BCL2	-t|

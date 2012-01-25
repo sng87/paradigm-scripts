@@ -1,0 +1,8 @@
+smallMolecule	Dopamine
+smallMolecule	Na+
+protein	SLC6A3
+SLC6A3	Dopamine	-a>
+Dopamine	Na+	-a>
+Dopamine	Dopamine	-a>
+Na+	Na+	-a>
+Na+	Dopamine	-a>

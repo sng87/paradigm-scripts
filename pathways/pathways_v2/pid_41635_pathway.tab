@@ -1,0 +1,25 @@
+smallMolecule	Gly
+smallMolecule	CoA
+smallMolecule	Salicylurate
+smallMolecule	Salicylate-CoA
+smallMolecule	Salicylate
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	ATP
+protein	GLYAT
+protein	ACSM2B
+GLYAT	CoA	-a>
+ACSM2B	Salicylate-CoA	-a>
+Gly	Salicylurate	-a>
+Gly	CoA	-a>
+Salicylate-CoA	Salicylurate	-a>
+Salicylate-CoA	CoA	-a>
+CoA	PPi	-a>
+CoA	AMP	-a>
+CoA	Salicylate-CoA	-a>
+ATP	PPi	-a>
+ATP	AMP	-a>
+ATP	Salicylate-CoA	-a>
+Salicylate	PPi	-a>
+Salicylate	AMP	-a>
+Salicylate	Salicylate-CoA	-a>

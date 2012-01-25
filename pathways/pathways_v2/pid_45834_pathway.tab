@@ -1,0 +1,49 @@
+complex	GTP/G-alpha-S
+complex	Ligand/GPCR/g-beta/g-gamma
+smallMolecule	xylulose-5-phosphate
+smallMolecule	fatty acid
+complex	AMPK
+complex	PKA
+smallMolecule	acyl-coa
+protein	ACoAS
+complex	GPCR/g-alpha-s/g-beta/g-gamma/GDP
+smallMolecule	CoA
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	glucose
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	Ligand
+protein	WBSCR14
+protein	PPP2R5D
+protein	PKLR
+protein	ADCY1
+ACoAS	PPi	-a>
+ADCY1	cAMP	-a>
+glucose	xylulose-5-phosphate	-a>
+AMPK	WBSCR14	-a>
+fatty acid	fatty acid	-a>
+AMP	AMPK	-a>
+PKA	PKA	-a>
+WBSCR14	PKLR	-t>
+GTP/G-alpha-S	ADCY1	-a>
+cAMP	PKA	-a>
+PPP2R5D	WBSCR14	-a>
+CoA	AMP	-a>
+CoA	acyl-coa	-a>
+CoA	PPi	-a>
+ATP	AMP	-a>
+ATP	acyl-coa	-a>
+ATP	PPi	-a>
+fatty acid	AMP	-a>
+fatty acid	acyl-coa	-a>
+fatty acid	PPi	-a>
+ATP	cAMP	-a>
+Ligand	Ligand/GPCR/g-beta/g-gamma	component>
+Ligand	GTP/G-alpha-S	component>
+GPCR/g-alpha-s/g-beta/g-gamma/GDP	Ligand/GPCR/g-beta/g-gamma	component>
+GPCR/g-alpha-s/g-beta/g-gamma/GDP	GTP/G-alpha-S	component>
+PKA	WBSCR14	-a>
+WBSCR14	WBSCR14	-a>
+xylulose-5-phosphate	PPP2R5D	-a>
+glucose	glucose	-a>

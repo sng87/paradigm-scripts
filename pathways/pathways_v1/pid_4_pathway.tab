@@ -1,0 +1,164 @@
+protein	AKT3
+protein	GBL
+protein	MAPKAP1
+protein	MAP3K5
+protein	AKT1S1
+protein	BAD
+protein	CREBBP
+protein	TSC1
+protein	KIAA1303
+protein	RICTOR
+protein	RHEB
+protein	FOXO1
+protein	EP300
+protein	BCL2L1
+protein	YWHAH
+protein	MDM2
+protein	FOXO4
+protein	PRKDC
+protein	YWHAZ
+protein	YWHAE
+protein	YWHAG
+protein	CASP9
+protein	KPNA1
+protein	GSK3B
+protein	GSK3A
+protein	TSC2
+protein	CDKN1B
+protein	FRAP1
+protein	CDKN1A
+protein	SFN
+protein	YWHAB
+protein	AKT2
+protein	AKT1
+protein	YWHAQ
+protein	PRKACA
+protein	SLC2A4
+protein	SRC
+protein	HSP90AA1
+protein	RAF1
+protein	TBC1D4
+protein	FOXO3
+protein	PDPK1
+protein	CHUK
+complex	p27Kip1/KPNA1
+complex	p27Kip1/14-3-3 family
+complex	mTORC2
+complex	mTOR/RHEB/GTP/Raptor/GBL
+complex	mTOR/RHEB/GDP/Raptor/GBL/PRAS40
+complex	TSC1/TSC2
+complex	PDK1/Src/Hsp90
+complex	MDM2/Cbp/p300
+complex	FOXO1-3a-4/14-3-3 family
+complex	BAD/YWHAZ
+complex	BAD/BCL-XL/YWHAZ
+complex	BAD/BCL-XL
+complex	AKT2/p21CIP1
+complex	AKT1/RAF1
+complex	AKT1/ASK1
+chemical	mol:PI-3-4-5-P3
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	response to stress
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+abstract	negative regulation of cell cycle
+abstract	glucose import
+abstract	MAPKKK cascade
+abstract	JNK cascade
+abstract	G1/S transition of mitotic cell cycle
+response to stress	AKT1/ASK1	-ap>
+p27Kip1/14-3-3 family	negative regulation of cell cycle	-ap|
+mol:PI-3-4-5-P3	AKT3	-a>
+mol:PI-3-4-5-P3	AKT2	-a>
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:GTP	mTOR/RHEB/GTP/Raptor/GBL	component>
+mol:GDP	mTOR/RHEB/GDP/Raptor/GBL/PRAS40	component>
+mTORC2	AKT1	-a>
+GBL	mTORC2	component>
+GBL	mTOR/RHEB/GTP/Raptor/GBL	component>
+GBL	mTOR/RHEB/GDP/Raptor/GBL/PRAS40	component>
+MAPKAP1	mTORC2	component>
+MAP3K5	AKT1/ASK1	component>
+AKT1S1	mTOR/RHEB/GDP/Raptor/GBL/PRAS40	component>
+BAD	BAD/YWHAZ	component>
+BAD	BAD/BCL-XL/YWHAZ	component>
+BAD	BAD/BCL-XL	component>
+CREBBP	MDM2/Cbp/p300	component>
+TSC1	TSC1/TSC2	component>
+KIAA1303	mTOR/RHEB/GTP/Raptor/GBL	component>
+KIAA1303	mTOR/RHEB/GDP/Raptor/GBL/PRAS40	component>
+RICTOR	mTORC2	component>
+RHEB	mTOR/RHEB/GTP/Raptor/GBL	component>
+RHEB	mTOR/RHEB/GDP/Raptor/GBL/PRAS40	component>
+FOXO1	FOXO1-3a-4/14-3-3 family	component>
+EP300	MDM2/Cbp/p300	component>
+BCL2L1	BAD/BCL-XL/YWHAZ	component>
+BCL2L1	BAD/BCL-XL	component>
+YWHAH	p27Kip1/14-3-3 family	component>
+YWHAH	FOXO1-3a-4/14-3-3 family	component>
+MDM2	MDM2/Cbp/p300	component>
+FOXO4	FOXO1-3a-4/14-3-3 family	component>
+PRKDC	AKT1	-a>
+YWHAZ	p27Kip1/14-3-3 family	component>
+YWHAZ	FOXO1-3a-4/14-3-3 family	component>
+YWHAZ	BAD/YWHAZ	component>
+YWHAZ	BAD/BCL-XL/YWHAZ	component>
+YWHAE	p27Kip1/14-3-3 family	component>
+YWHAE	FOXO1-3a-4/14-3-3 family	component>
+YWHAG	p27Kip1/14-3-3 family	component>
+YWHAG	FOXO1-3a-4/14-3-3 family	component>
+KPNA1	p27Kip1/KPNA1	component>
+GSK3B	G1/S transition of mitotic cell cycle	-ap>
+GSK3A	G1/S transition of mitotic cell cycle	-ap>
+TSC2	TSC1/TSC2	component>
+CDKN1B	p27Kip1/KPNA1	component>
+CDKN1B	p27Kip1/14-3-3 family	component>
+FRAP1	mTORC2	component>
+FRAP1	mTOR/RHEB/GTP/Raptor/GBL	component>
+FRAP1	mTOR/RHEB/GDP/Raptor/GBL/PRAS40	component>
+CDKN1A	negative regulation of cell cycle	-ap|
+CDKN1A	AKT2/p21CIP1	component>
+SFN	p27Kip1/14-3-3 family	component>
+SFN	FOXO1-3a-4/14-3-3 family	component>
+YWHAB	p27Kip1/14-3-3 family	component>
+YWHAB	FOXO1-3a-4/14-3-3 family	component>
+AKT2	TBC1D4	-a>
+AKT2	AKT2/p21CIP1	component>
+AKT1	mol:GDP	-a>
+AKT1	mTOR/RHEB/GTP/Raptor/GBL	-a>
+AKT1	AKT1S1	-a>
+AKT1	TSC1	-a>
+AKT1	FOXO1	-a>
+AKT1	MDM2	-a>
+AKT1	FOXO4	-a>
+AKT1	CASP9	-a>
+AKT1	GSK3B	-a>
+AKT1	GSK3A	-a>
+AKT1	TSC2	-a>
+AKT1	CDKN1B	-a>
+AKT1	CDKN1A	-a>
+AKT1	FOXO3	-a>
+AKT1	CHUK	-a>
+AKT1	BAD/BCL-XL	-a>
+AKT1	AKT2/p21CIP1	-a>
+AKT1	AKT1/RAF1	component>
+AKT1	AKT1/ASK1	component>
+YWHAQ	p27Kip1/14-3-3 family	component>
+YWHAQ	FOXO1-3a-4/14-3-3 family	component>
+PRKACA	BCL2L1	-a>
+PRKACA	BAD/YWHAZ	-a>
+SLC2A4	glucose import	-ap>
+SRC	PDK1/Src/Hsp90	component>
+HSP90AA1	PDK1/Src/Hsp90	component>
+RAF1	AKT1/RAF1	component>
+TBC1D4	SLC2A4	-a>
+FOXO3	FOXO1-3a-4/14-3-3 family	component>
+PDPK1	AKT3	-a>
+PDPK1	AKT2	-a>
+PDPK1	PDK1/Src/Hsp90	component>
+PDK1/Src/Hsp90	AKT1	-a>
+MDM2/Cbp/p300	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+FOXO1-3a-4/14-3-3 family	negative regulation of cell cycle	-ap|
+AKT2/p21CIP1	negative regulation of cell cycle	-ap>
+AKT1/RAF1	MAPKKK cascade	-ap|
+AKT1/ASK1	JNK cascade	-ap|

@@ -1,0 +1,12 @@
+complex	phospho-CREB dimer
+protein	PKA catalytic subunit
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CREB1
+PKA catalytic subunit	CREB1	-a>
+CREB1	ADP	-a>
+CREB1	CREB1	-a>
+ATP	ADP	-a>
+ATP	CREB1	-a>
+PKA catalytic subunit	PKA catalytic subunit	-a>
+CREB1	phospho-CREB dimer	component>

@@ -1,0 +1,148 @@
+abstract	cytotoxic T cell degranulation
+abstract	JAK-STAT cascade
+abstract	interleukin-12 receptor activity
+abstract	regulation of survival gene product expression
+abstract	tyrosine phosphorylation of Stat5 protein
+abstract	alpha-beta T cell proliferation
+abstract	CD8-positive alpha-beta T cell lineage commitment
+protein	MEK1-2
+complex	IL2/IL2R
+complex	RAS family/GTP
+complex	IL2R
+protein	ERK1-2-active
+complex	ERK1-2/ELK1
+complex	TCR/CD3/MHC I/CD8
+protein	ERK1-2
+complex	Interferon receptor/Type I IFN
+complex	JunB/Fra1/NFAT1-c-4
+complex	IL2R gamma cytokines/IL2R gamma
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	NFAT1-c-4 (dimer)/EGR4
+complex	NFAT1/AP-1
+protein	IL2R gamma cytokines
+complex	STAT4 (dimer)
+complex	CaM/Ca2+
+protein	NFAT1-c-4
+complex	AP-1/NFAT1-c-4
+protein	NFAT1-c-4-active
+complex	NFAT1-c-4 (dimer)/EGR1
+protein	NFATc
+protein	PI3K Class IA
+smallMolecule	Ca2+
+complex	Calcineurin A alpha-beta B1
+protein	TNFRSF9
+protein	TNFRSF4
+protein	TNFRSF18
+protein	TNF
+protein	RAF1
+protein	PTPN7
+protein	PRKCQ
+protein	PRKCE
+protein	PRKCB
+protein	PRKCA
+protein	PRF1
+protein	MAPK9
+protein	MAPK8
+protein	JUNB
+protein	JUN
+protein	IL2RG
+protein	IL2RB
+protein	IL2RA
+protein	IL2
+protein	IFNG
+protein	GZMB
+protein	FOSL1
+protein	FOS
+protein	FASLG
+protein	EOMES
+protein	ELK1
+protein	EGR4
+protein	EGR1
+protein	CALM1
+protein	BRAF
+PRKCB	RAF1	-a>
+MAPK9	IL2	-t|
+MAPK9	IFNG	-t|
+IL2/IL2R	TNFRSF9	-t>
+MAPK8	JUN	-a>
+PRKCA	RAF1	-a>
+TCR/CD3/MHC I/CD8	IL2R gamma cytokines/IL2R gamma	component>
+PRKCA	BRAF	-a>
+IL2/IL2R	TNFRSF18	-t>
+PRKCQ	ERK1-2-active	-a>
+TCR/CD3/MHC I/CD8	IL2/IL2R	component>
+PRKCB	BRAF	-a>
+IL2/IL2R	GZMB	-t>
+MEK1-2	ERK1-2-active	-a>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFAT1-c-4-active	-a>
+IL2R gamma cytokines/IL2R gamma	regulation of survival gene product expression	-ap>
+AP-1/NFAT1-c-4	IFNG	-t>
+STAT4 (dimer)	IFNG	-t>
+IL2/IL2R	TNFRSF4	-t>
+IL2/IL2R	PRF1	-t>
+PTPN7	ERK1-2	-a>
+PRKCQ	TNF	-t|
+IL2/IL2R	IL2RA	-t>
+IL2/IL2R	IL2RG	-t|
+NFAT1-c-4-active	JunB/Fra1/NFAT1-c-4	component>
+FOSL1	JunB/Fra1/NFAT1-c-4	component>
+JUNB	JunB/Fra1/NFAT1-c-4	component>
+CaM/Ca2+	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+AP-1/NFAT1-c-4	IL2	-t>
+EOMES	IFNG	-t>
+ERK1-2-active	ERK1-2-active	-a>
+NFATc	IFNG	-t>
+Interferon receptor/Type I IFN	IFNG	-t>
+tyrosine phosphorylation of Stat5 protein	TNFRSF9	-t>
+AP-1/NFAT1-c-4	IL2RA	-t>
+TCR/CD3/MHC I/CD8	JUN	-a>
+FOS	FOS	-a>
+JunB/Fra1/NFAT1-c-4	IL2	-t>
+RAS family/GTP	RAF1	-a>
+PRF1	cytotoxic T cell degranulation	-ap>
+IL2RG	IL2R gamma cytokines/IL2R gamma	component>
+IL2R gamma cytokines	IL2R gamma cytokines/IL2R gamma	component>
+IL2RG	IL2R	component>
+IL2RB	IL2R	component>
+IL2RA	IL2R	component>
+EGR1	NFAT1-c-4 (dimer)/EGR1	component>
+NFAT1-c-4-active	NFAT1-c-4 (dimer)/EGR1	component>
+tyrosine phosphorylation of Stat5 protein	TNFRSF18	-t>
+BRAF	MEK1-2	-a>
+PRKCQ	FASLG	-t>
+IL2R	IL2/IL2R	component>
+IL2	IL2/IL2R	component>
+RAS family/GTP	BRAF	-a>
+ERK1-2/ELK1	FOS	-t>
+NFAT1-c-4 (dimer)/EGR4	TNF	-t>
+tyrosine phosphorylation of Stat5 protein	GZMB	-t>
+ERK1-2	ERK1-2-active	-a>
+NFAT1-c-4	NFAT1-c-4-active	-a>
+NFAT1/AP-1	FASLG	-t>
+JAK-STAT cascade	regulation of survival gene product expression	-ap>
+interleukin-12 receptor activity	IFNG	-t>
+PRKCQ	MAPK8	-a>
+PI3K Class IA	FASLG	-t>
+PRKCE	FASLG	-t>
+tyrosine phosphorylation of Stat5 protein	TNFRSF4	-t>
+RAF1	MEK1-2	-a>
+ERK1-2-active	ERK1-2/ELK1	component>
+ELK1	ERK1-2/ELK1	component>
+tyrosine phosphorylation of Stat5 protein	PRF1	-t>
+EOMES	PRF1	-t>
+ERK1-2-active	ERK1-2	-a>
+MAPK9	alpha-beta T cell proliferation	-ap|
+ERK1-2-active	FOS	-a>
+NFAT1-c-4 (dimer)/EGR1	TNF	-t>
+NFAT1-c-4-active	AP-1/NFAT1-c-4	component>
+JUN	AP-1/NFAT1-c-4	component>
+FOS	AP-1/NFAT1-c-4	component>
+EGR4	NFAT1-c-4 (dimer)/EGR4	component>
+NFAT1-c-4-active	NFAT1-c-4 (dimer)/EGR4	component>
+tyrosine phosphorylation of Stat5 protein	IL2RA	-t>
+CALM1	CaM/Ca2+	component>
+Ca2+	CaM/Ca2+	component>
+IL2	alpha-beta T cell proliferation	-ap>
+CD8-positive alpha-beta T cell lineage commitment	IL2RG	-t>
+PRKCB	MAPK8	-a>

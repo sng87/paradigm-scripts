@@ -1,0 +1,51 @@
+protein	TIMELESS
+protein	DEC1
+protein	NPAS2
+protein	CRY2
+protein	ATR
+protein	NR1D1
+protein	PER1
+protein	CLOCK
+protein	CHEK1
+protein	ARNTL
+complex	TIMELESS/CRY2
+complex	TIMELESS/CHEK1/ATR
+complex	PER1/TIMELESS
+complex	PER1-2 / CRY1-2
+complex	DEC1/BMAL1
+complex	BMAL1/CLOCK
+complex	BMAL/CLOCK/NPAS2
+chemical	mol:NADPH
+chemical	mol:HEME
+chemical	mol:CO
+abstract	chromatin modification
+abstract	S phase of mitotic cell cycle
+mol:NADPH	TIMELESS	-t>
+mol:NADPH	NR1D1	-t>
+mol:HEME	TIMELESS	-t>
+mol:HEME	NR1D1	-t>
+mol:CO	TIMELESS	-t|
+mol:CO	NR1D1	-t|
+TIMELESS	TIMELESS/CRY2	component>
+TIMELESS	TIMELESS/CHEK1/ATR	component>
+TIMELESS	PER1/TIMELESS	component>
+DEC1	DEC1/BMAL1	component>
+NPAS2	BMAL/CLOCK/NPAS2	component>
+CRY2	TIMELESS/CRY2	component>
+ATR	TIMELESS/CHEK1/ATR	component>
+NR1D1	BMAL1/CLOCK	-a>
+PER1	PER1/TIMELESS	component>
+CLOCK	BMAL1/CLOCK	component>
+CLOCK	BMAL/CLOCK/NPAS2	component>
+CHEK1	TIMELESS/CHEK1/ATR	component>
+ARNTL	DEC1/BMAL1	component>
+ARNTL	BMAL1/CLOCK	component>
+ARNTL	BMAL/CLOCK/NPAS2	component>
+TIMELESS/CHEK1/ATR	chromatin modification	-ap>
+TIMELESS/CHEK1/ATR	S phase of mitotic cell cycle	-ap>
+PER1/TIMELESS	BMAL1/CLOCK	-a>
+PER1-2 / CRY1-2	BMAL1/CLOCK	-t>
+PER1-2 / CRY1-2	BMAL1/CLOCK	-a>
+DEC1/BMAL1	BMAL1/CLOCK	-a>
+BMAL/CLOCK/NPAS2	TIMELESS	-t>
+BMAL/CLOCK/NPAS2	NR1D1	-t>

@@ -1,0 +1,82 @@
+complex	albumin:bile salt and acid (OATP-A) complex
+complex	albumin:cholate bile salt complex
+smallMolecule	CoA
+complex	albumin:bile salt complex
+complex	glycocholate-, taurocholate-, taurochenodeoxycholate-albumin complex
+smallMolecule	H2O
+smallMolecule	choloyl-CoA
+complex	bile salts and acids complexed with FABP6
+complex	glycocholate-, taurocholate, taurochenodeoxycholate-FABP6 complex
+smallMolecule	bile salts
+smallMolecule	Glycine
+smallMolecule	taurocholate
+smallMolecule	PPi
+smallMolecule	AMP
+protein	UniProt:Q9Y6L6 SLCO1B1_subunit_1_691_1-691
+smallMolecule	cholate
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	Na+
+protein	SLCO1B3
+protein	SLCO1A2
+protein	SLC27A5
+protein	SLC10A2
+protein	SLC10A1
+protein	FABP6
+protein	BAAT
+protein	ALB
+protein	ABCC3
+protein	ABCB11
+SLCO1A2	ALB	component>
+SLCO1B3	taurocholate	component>
+ABCB11	bile salts	-a>
+SLC10A1	ALB	component>
+SLC27A5	PPi	-a>
+UniProt:Q9Y6L6 SLCO1B1_subunit_1_691_1-691	ALB	component>
+SLC10A2	bile salts and acids complexed with FABP6	component>
+ABCC3	phosphate	-a>
+BAAT	bile salts	-a>
+albumin:bile salt and acid (OATP-A) complex	cholate	component>
+albumin:bile salt and acid (OATP-A) complex	ALB	component>
+ATP	bile salts	-a>
+bile salts	phosphate	-a>
+bile salts	ADP	-a>
+bile salts	bile salts	-a>
+albumin:bile salt complex	bile salts	component>
+albumin:bile salt complex	Na+	component>
+albumin:bile salt complex	ALB	component>
+Na+	bile salts	component>
+Na+	ALB	component>
+ATP	H2O	-a>
+ATP	choloyl-CoA	-a>
+ATP	AMP	-a>
+ATP	PPi	-a>
+cholate	H2O	-a>
+cholate	choloyl-CoA	-a>
+cholate	AMP	-a>
+cholate	PPi	-a>
+albumin:cholate bile salt complex	taurocholate	component>
+albumin:cholate bile salt complex	ALB	component>
+Na+	Na+	component>
+Na+	bile salts and acids complexed with FABP6	component>
+cholate	Na+	component>
+cholate	bile salts and acids complexed with FABP6	component>
+FABP6	Na+	component>
+FABP6	bile salts and acids complexed with FABP6	component>
+glycocholate-, taurocholate, taurochenodeoxycholate-FABP6 complex	glycocholate-, taurocholate-, taurochenodeoxycholate-albumin complex	-a>
+glycocholate-, taurocholate, taurochenodeoxycholate-FABP6 complex	ADP	-a>
+glycocholate-, taurocholate, taurochenodeoxycholate-FABP6 complex	FABP6	-a>
+glycocholate-, taurocholate, taurochenodeoxycholate-FABP6 complex	phosphate	-a>
+ALB	glycocholate-, taurocholate-, taurochenodeoxycholate-albumin complex	-a>
+ALB	ADP	-a>
+ALB	FABP6	-a>
+ALB	phosphate	-a>
+ATP	glycocholate-, taurocholate-, taurochenodeoxycholate-albumin complex	-a>
+ATP	ADP	-a>
+ATP	FABP6	-a>
+ATP	phosphate	-a>
+choloyl-CoA	CoA	-a>
+choloyl-CoA	bile salts	-a>
+Glycine	CoA	-a>
+Glycine	bile salts	-a>

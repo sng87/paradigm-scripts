@@ -1,0 +1,46 @@
+abstract	response to wounding
+complex	Thrombin/Thrombin receptor
+complex	Protein C/Protein S
+complex	F Xa/TF/F VIIa
+complex	Thrombin/Fibrin
+protein	F2_0-0
+protein	ATIII
+protein	F Xa_0-0
+protein	F VIIa_0-0
+protein	F Va_0-0
+complex	F Xa/TF/F VIIa/F Va
+protein	Prothrombin
+complex	Fibrinogen
+smallMolecule	Ca2+
+protein	TFPI
+protein	F7
+protein	F5
+protein	F3
+protein	F2R
+protein	F10
+ATIII	F Xa_0-0	-a|
+Ca2+	F Xa_0-0	-a>
+F VIIa_0-0	F Xa_0-0	-a>
+Ca2+	F2_0-0	-a>
+F Xa/TF/F VIIa/F Va	F2_0-0	-a>
+ATIII	Thrombin/Fibrin	component>
+TFPI	F VIIa_0-0	-a|
+F3	F VIIa_0-0	-a>
+Protein C/Protein S	F Va_0-0	-a|
+Ca2+	F Va_0-0	-a>
+F Xa/TF/F VIIa	F Va_0-0	-a>
+response to wounding	F3	-t>
+F10	F Xa_0-0	-a>
+F Va_0-0	F Xa/TF/F VIIa/F Va	component>
+F Xa/TF/F VIIa	F Xa/TF/F VIIa/F Va	component>
+Prothrombin	F2_0-0	-a>
+F VIIa_0-0	F Xa/TF/F VIIa	component>
+F3	F Xa/TF/F VIIa	component>
+F Xa_0-0	F Xa/TF/F VIIa	component>
+F2R	Thrombin/Thrombin receptor	component>
+F2_0-0	Thrombin/Thrombin receptor	component>
+F2_0-0	Thrombin/Fibrin	component>
+Fibrinogen	Thrombin/Fibrin	component>
+F7	F VIIa_0-0	-a>
+Thrombin/Thrombin receptor	Protein C/Protein S	-a>
+F5	F Va_0-0	-a>

@@ -1,0 +1,13 @@
+complex	RXR/RAR/ubiquitin
+complex	RXR/RAR/Retinoid
+protein	Retinoids
+protein	ubiquitin
+abstract	protein ubiquitination
+protein	RXRA
+protein	RARA
+RXR/RAR/ubiquitin	protein ubiquitination	-ap>
+ubiquitin	protein ubiquitination	-ap>
+RXR/RAR/Retinoid	protein ubiquitination	-ap>
+RXRA	RXR/RAR/Retinoid	component>
+RARA	RXR/RAR/Retinoid	component>
+Retinoids	RXR/RAR/Retinoid	component>

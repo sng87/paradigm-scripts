@@ -1,0 +1,16 @@
+complex	pro-factor X
+complex	pro-protein C
+protein	UniProt:Q14393 GAS6_subunit_31_691_31-691
+protein	PROZ
+protein	PROS1
+protein	F9
+protein	F7
+protein	F2
+F9	F9	-a>
+F2	F2	-a>
+F7	F7	-a>
+UniProt:Q14393 GAS6_subunit_31_691_31-691	UniProt:Q14393 GAS6_subunit_31_691_31-691	-a>
+pro-protein C	pro-protein C	-a>
+PROZ	PROZ	-a>
+pro-factor X	pro-factor X	-a>
+PROS1	PROS1	-a>

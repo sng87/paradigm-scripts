@@ -1,0 +1,181 @@
+abstract	response to endoplasmic reticulum stress
+abstract	Thymocyte
+abstract	autophagy
+abstract	response to DNA damage stimulus
+abstract	Ultraviolet Radiation
+abstract	Ionizing Radiation
+abstract	G1/S transition of mitotic cell cycle
+abstract	histone deacetylase activity
+abstract	response to stress
+abstract	apoptosis
+abstract	DNA damage
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	p53/PIN1
+complex	STRAP/PRMT5
+protein	hMOF
+protein	JNK1-2-active
+complex	CDK2/Cyclin A
+complex	HAUSP/DAXX
+complex	p53/NEDD8
+complex	MDM2/UBCH5/YY1
+complex	p14ARF/MDM2
+complex	MDM2/KAP1
+complex	MDM2/UBCH5
+complex	PP2A-Bprime
+complex	MDM2/UBCH5/Cbp/p300
+protein	SET8
+protein	CK1 family
+protein	p14ARF
+complex	p14ARF/ARF-BP1
+complex	MDM2/RPL5/RPL11/RPL23
+protein	CHK1-2
+complex	Cbp/p300/SKP2
+complex	p53 (tetramer)
+protein	PKC delta
+complex	Cyclin G1/PP2A-Bprime
+protein	Cbp/p300
+protein	YY1
+protein	USP7
+protein	UBE2D1
+protein	TTC5
+protein	TP53AIP1
+protein	TP53
+protein	SMYD2
+protein	SKP2
+protein	SETD7
+protein	RPL5
+protein	RPL23
+protein	RPL11
+protein	RFWD2
+protein	RCHY1
+protein	RASSF1
+protein	PRMT5
+protein	PPP1R13L
+protein	PPM1D
+protein	PIN1
+protein	NEDD8
+protein	MDM4
+protein	MDM2
+protein	MAPK14
+protein	KAT5
+protein	KAT2B
+protein	HUWE1
+protein	HIPK2
+protein	GSK3B
+protein	FBXO11
+protein	E4F1
+protein	DYRK2
+protein	CSE1L
+protein	Chk2
+protein	CCNG1
+protein	ATR
+protein	ATM
+protein	AKT1
+protein	ABL1
+MDM2/UBCH5	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+ATM	DYRK2	-a>
+MDM2	TP53	-a|
+SET8	p53 (tetramer)	-a>
+ATR	TP53	-a>
+MDM4	MDM2	-a|
+RASSF1	MDM2	-a|
+HAUSP/DAXX	MDM2	-a>
+CSE1L	TP53AIP1	-t>
+RFWD2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+p53 (tetramer)	p53 (tetramer)	-a|
+SMYD2	p53 (tetramer)	-a>
+USP7	TP53	-a>
+DNA damage	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+HIPK2	p53 (tetramer)	-a>
+SETD7	p53 (tetramer)	-a>
+Chk2	MDM4	-a>
+ATM	MDM4	-a>
+KAT2B	MDM2	-a>
+TP53	apoptosis	-ap>
+STRAP/PRMT5	p53 (tetramer)	-a>
+AKT1	MDM2/UBCH5	-a>
+ATM	TTC5	-a>
+E4F1	p53 (tetramer)	-a>
+MAPK14	p53 (tetramer)	-a>
+KAT5	p53 (tetramer)	-a>
+proteasomal ubiquitin-dependent protein catabolic process	autophagy	-ap>
+KAT2B	p53 (tetramer)	-a>
+Ultraviolet Radiation	p53 (tetramer)	-a>
+HUWE1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+hMOF	p53 (tetramer)	-a>
+response to stress	p53 (tetramer)	-a>
+Cbp/p300/SKP2	p53 (tetramer)	-a|
+Cbp/p300	p53 (tetramer)	-a>
+Ionizing Radiation	p53 (tetramer)	-a>
+RCHY1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MDM2	p53/NEDD8	component>
+Ultraviolet Radiation	p53/NEDD8	component>
+p53/PIN1	proteasomal ubiquitin-dependent protein catabolic process	-ap|
+MDM2/UBCH5/Cbp/p300	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+DYRK2	p53 (tetramer)	-a>
+CDK2/Cyclin A	TP53	-a>
+JNK1-2-active	TP53	-a>
+MAPK14	TP53	-a>
+CDK2/Cyclin A	MDM2	-a>
+ATM	MDM2	-a>
+TP53	TP53	-a|
+FBXO11	p53/NEDD8	component>
+ATM	TP53	-a>
+PPP1R13L	p53 (tetramer)	-a|
+PKC delta	p53 (tetramer)	-a>
+DNA damage	p53 (tetramer)	-a>
+MDM2/KAP1	TP53	-a>
+DNA damage	DYRK2	-a>
+response to DNA damage stimulus	MDM2	-a>
+response to DNA damage stimulus	MDM2	-a|
+p53 (tetramer)	TP53AIP1	-t>
+GSK3B	TP53	-a>
+RPL23	MDM2/RPL5/RPL11/RPL23	component>
+RPL11	MDM2/RPL5/RPL11/RPL23	component>
+RPL5	MDM2/RPL5/RPL11/RPL23	component>
+MDM2	MDM2/RPL5/RPL11/RPL23	component>
+response to endoplasmic reticulum stress	GSK3B	-a>
+YY1	MDM2/UBCH5/YY1	component>
+MDM2/UBCH5	MDM2/UBCH5/YY1	component>
+MDM2/UBCH5/YY1	TP53	-a>
+PRMT5	STRAP/PRMT5	component>
+TTC5	STRAP/PRMT5	component>
+HUWE1	p14ARF/ARF-BP1	component>
+p14ARF	p14ARF/ARF-BP1	component>
+MDM4	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+DNA damage	MDM4	-a>
+Thymocyte	apoptosis	-ap>
+MDM2	p14ARF/MDM2	component>
+p14ARF	p14ARF/MDM2	component>
+CK1 family	TP53	-a>
+DNA damage	TP53	-a>
+UBE2D1	MDM2/UBCH5	component>
+MDM2	MDM2/UBCH5	component>
+PIN1	p53/PIN1	component>
+TP53	p53/PIN1	component>
+DNA damage	TTC5	-a>
+Cyclin G1/PP2A-Bprime	MDM2	-a>
+SKP2	Cbp/p300/SKP2	component>
+Cbp/p300	Cbp/p300/SKP2	component>
+ABL1	MDM2	-a>
+TP53	autophagy	-ap>
+TP53	p53 (tetramer)	component>
+Cbp/p300	MDM2/UBCH5/Cbp/p300	component>
+MDM2/UBCH5	MDM2/UBCH5/Cbp/p300	component>
+ATR	MDM2	-a>
+TP53	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MDM2/UBCH5	MDM2/UBCH5	-a>
+PP2A-Bprime	Cyclin G1/PP2A-Bprime	component>
+CCNG1	Cyclin G1/PP2A-Bprime	component>
+Ultraviolet Radiation	TP53	-a>
+MDM2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+G1/S transition of mitotic cell cycle	MDM2	-a>
+CHK1-2	TP53	-a>
+DNA damage	MDM2	-a>
+MDM2/UBCH5	TP53	-a>
+NEDD8	p53/NEDD8	component>
+TP53	p53/NEDD8	component>
+PPM1D	MDM2	-a>
+Ionizing Radiation	TP53	-a>
+p53 (tetramer)	p53 (tetramer)	-a>
+histone deacetylase activity	TP53	-a>

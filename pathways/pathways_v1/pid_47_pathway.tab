@@ -1,0 +1,87 @@
+protein	PPARGC1A
+protein	ACSS2
+protein	SIRT1
+protein	KAT2B
+protein	CREBBP
+protein	MEF2D
+protein	FHL2
+protein	FOXO1
+protein	EP300
+protein	BAX
+protein	FOXO4
+protein	HIST2H4A
+protein	HDAC4
+protein	CDKN1A
+protein	MYOD1
+protein	XRCC6
+protein	HIST1H1E
+protein	TP53
+protein	TAT
+protein	FOXO3
+complex	p53/SIRT1
+complex	SIRT1/p300
+complex	SIRT1/PGC1A
+complex	SIRT1/PCAF/MYOD
+complex	SIRT1/MEF2D/HDAC4
+complex	SIRT1/Histone H1b
+complex	SIRT1/FOXO4
+complex	SIRT1/FOXO3a
+complex	KU70/SIRT1/BAX
+complex	KU70/SIRT1
+complex	HIV-1 Tat/SIRT1
+complex	FOXO1/FHL2/SIRT1
+chemical	mol:Lysophosphatidic acid
+abstract	response to nutrient levels
+abstract	response to hypoxia
+abstract	response to UV
+abstract	regulation of S phase of mitotic cell cycle
+abstract	muscle cell differentiation
+abstract	induction of apoptosis
+abstract	apoptosis
+response to nutrient levels	SIRT1/PGC1A	-ap>
+response to hypoxia	FOXO4	-ap>
+response to hypoxia	HIST1H1E	-ap>
+response to UV	FOXO3	-ap>
+p53/SIRT1	CDKN1A	-t|
+mol:Lysophosphatidic acid	FOXO1/FHL2/SIRT1	-a>
+induction of apoptosis	CDKN1A	-ap>
+PPARGC1A	SIRT1/PGC1A	component>
+SIRT1	p53/SIRT1	component>
+SIRT1	ACSS2	-a>
+SIRT1	HIST2H4A	-a>
+SIRT1	SIRT1/p300	component>
+SIRT1	SIRT1/PGC1A	component>
+SIRT1	SIRT1/PCAF/MYOD	component>
+SIRT1	SIRT1/MEF2D/HDAC4	component>
+SIRT1	SIRT1/Histone H1b	component>
+SIRT1	SIRT1/FOXO4	component>
+SIRT1	SIRT1/FOXO3a	component>
+SIRT1	KU70/SIRT1/BAX	component>
+SIRT1	KU70/SIRT1	component>
+SIRT1	HIV-1 Tat/SIRT1	component>
+SIRT1	FOXO1/FHL2/SIRT1	component>
+KAT2B	MYOD1	-a>
+KAT2B	SIRT1/PCAF/MYOD	component>
+CREBBP	FOXO4	-a>
+CREBBP	HIST1H1E	-a>
+MEF2D	SIRT1/MEF2D/HDAC4	component>
+FHL2	FOXO1/FHL2/SIRT1	component>
+FOXO1	FOXO1/FHL2/SIRT1	component>
+EP300	FOXO4	-a>
+EP300	HIST1H1E	-a>
+EP300	FOXO3	-a|
+EP300	SIRT1/p300	component>
+BAX	KU70/SIRT1/BAX	component>
+FOXO4	SIRT1/FOXO4	component>
+HIST2H4A	regulation of S phase of mitotic cell cycle	-ap|
+HDAC4	SIRT1/MEF2D/HDAC4	component>
+MYOD1	SIRT1/PCAF/MYOD	component>
+XRCC6	KU70/SIRT1/BAX	component>
+XRCC6	KU70/SIRT1	component>
+HIST1H1E	SIRT1/Histone H1b	component>
+TP53	p53/SIRT1	component>
+TAT	HIV-1 Tat/SIRT1	component>
+FOXO3	SIRT1/FOXO3a	component>
+SIRT1/p300	FOXO3	-a|
+SIRT1/PCAF/MYOD	muscle cell differentiation	-ap|
+KU70/SIRT1/BAX	apoptosis	-ap|

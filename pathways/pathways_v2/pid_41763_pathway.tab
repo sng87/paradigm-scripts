@@ -1,0 +1,8 @@
+complex	mature NGF homodimer:p75NTR
+complex	PRDM4:Histone deacetylase
+complex	mature NGF homodimer:p75NTR:PRDM4
+protein	PRDM4
+mature NGF homodimer:p75NTR	mature NGF homodimer:p75NTR:PRDM4	component>
+PRDM4	mature NGF homodimer:p75NTR:PRDM4	component>
+PRDM4	PRDM4	-a>
+PRDM4	PRDM4:Histone deacetylase	component>

@@ -1,0 +1,20 @@
+complex	LRP6/FRIZZLED
+protein	Wnt8
+complex	Wnt8/LRP6/FRIZZLED
+complex	DKK1/LRP6/KRM2
+complex	DKK2/LRP6/KRM2
+protein	LRP6
+protein	KREMEN2
+protein	FZD1
+protein	DKK2
+protein	DKK1
+KREMEN2	DKK2/LRP6/KRM2	component>
+LRP6	DKK2/LRP6/KRM2	component>
+DKK2	DKK2/LRP6/KRM2	component>
+Wnt8	Wnt8/LRP6/FRIZZLED	component>
+LRP6/FRIZZLED	Wnt8/LRP6/FRIZZLED	component>
+KREMEN2	DKK1/LRP6/KRM2	component>
+LRP6	DKK1/LRP6/KRM2	component>
+DKK1	DKK1/LRP6/KRM2	component>
+FZD1	LRP6/FRIZZLED	component>
+LRP6	LRP6/FRIZZLED	component>

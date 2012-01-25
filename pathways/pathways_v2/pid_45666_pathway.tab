@@ -1,0 +1,36 @@
+abstract	prostaglandin biosynthetic process
+abstract	fever
+smallMolecule	prostaglandin
+smallMolecule	NAPQI
+protein	COX3
+smallMolecule	tylenol (tn)
+complex	acetaminophen/CAR
+protein	CYP3A
+smallMolecule	Arachidonate
+abstract	inflammatory response
+abstract	platelet activation
+protein	COX2
+protein	PTGS1
+protein	NR1I3
+protein	CYP2E1
+protein	CYP1A2
+CYP2E1	NAPQI	-a>
+COX3	prostaglandin biosynthetic process	-ap>
+tylenol (tn)	prostaglandin	-a|
+PTGS1	prostaglandin	-a>
+CYP1A2	NAPQI	-a>
+CYP3A	NAPQI	-a>
+tylenol (tn)	prostaglandin biosynthetic process	-ap|
+COX2	prostaglandin biosynthetic process	-ap>
+acetaminophen/CAR	CYP2E1	-t>
+prostaglandin	inflammatory response	-ap>
+prostaglandin	platelet activation	-ap>
+acetaminophen/CAR	CYP1A2	-t>
+Arachidonate	prostaglandin	-a>
+tylenol (tn)	NAPQI	-a>
+NR1I3	acetaminophen/CAR	component>
+tylenol (tn)	acetaminophen/CAR	component>
+prostaglandin	prostaglandin biosynthetic process	-ap>
+Arachidonate	prostaglandin biosynthetic process	-ap>
+prostaglandin	fever	-ap>
+acetaminophen/CAR	CYP3A	-t>

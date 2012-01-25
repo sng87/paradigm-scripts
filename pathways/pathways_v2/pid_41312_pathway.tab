@@ -1,0 +1,35 @@
+complex	Cyclin A:Cdk2:substrate complex
+complex	CAK
+complex	Cyclin A:phospho-Cdk2(Thr160) complex
+complex	Cyclin A:Cdk2 complex
+complex	Cyclin A:Cdk2:phosphorylated substrate complex
+complex	Cyclin A:Cdk2:p21/p27 complex
+smallMolecule	H2O
+complex	Cyclin A:phospho-Cdk2(Tyr 15)
+protein	p21/p27
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	WEE1
+protein	CDK2
+protein	CDC25A
+WEE1	ADP	-a>
+CAK	Cyclin A:phospho-Cdk2(Thr160) complex	-a>
+CDC25A	Cyclin A:Cdk2 complex	-a>
+Cyclin A:Cdk2 complex	Cyclin A:phospho-Cdk2(Tyr 15)	-a>
+ATP	Cyclin A:phospho-Cdk2(Tyr 15)	-a>
+Cyclin A:Cdk2 complex	Cyclin A:Cdk2:p21/p27 complex	component>
+p21/p27	Cyclin A:Cdk2:p21/p27 complex	component>
+CDK2	Cyclin A:Cdk2 complex	component>
+Cyclin A:Cdk2 complex	Cyclin A:Cdk2 complex	-a>
+ATP	Cyclin A:Cdk2:phosphorylated substrate complex	-a>
+Cyclin A:Cdk2:substrate complex	ADP	-a>
+Cyclin A:Cdk2:substrate complex	Cyclin A:Cdk2:phosphorylated substrate complex	-a>
+Cyclin A:Cdk2 complex	ADP	-a>
+Cyclin A:Cdk2 complex	Cyclin A:phospho-Cdk2(Thr160) complex	-a>
+ATP	ADP	-a>
+ATP	Cyclin A:phospho-Cdk2(Thr160) complex	-a>
+Cyclin A:phospho-Cdk2(Tyr 15)	phosphate	-a>
+Cyclin A:phospho-Cdk2(Tyr 15)	Cyclin A:Cdk2 complex	-a>
+H2O	phosphate	-a>
+H2O	Cyclin A:Cdk2 complex	-a>

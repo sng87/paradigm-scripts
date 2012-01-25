@@ -1,0 +1,6 @@
+complex	PAK-2p34:RHG10 complex
+protein	PAK2
+protein	ARHGAP10
+PAK-2p34:RHG10 complex	PAK-2p34:RHG10 complex	-a>
+ARHGAP10	PAK-2p34:RHG10 complex	component>
+PAK2	PAK-2p34:RHG10 complex	component>

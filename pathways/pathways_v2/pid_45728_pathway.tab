@@ -1,0 +1,70 @@
+abstract	ribosome biogenesis
+complex	p53/I-kappa-B-beta
+complex	ubiquitin/p53
+complex	ubiquitin/p53/E2
+rna	5.8 S rRNA
+protein	E1A
+protein	CK-1
+complex	RNA POL I/rRNA TFs
+protein	ubiquitin
+protein	HSP40
+abstract	response to radiation
+abstract	protein ubiquitination
+abstract	response to oxidative stress
+abstract	degradation
+complex	PI3K
+protein	UBE2A
+protein	TWIST1
+protein	TP53
+protein	TBX2
+protein	RB1
+protein	RAC1
+protein	NFKBIB
+protein	MYC
+protein	MDM2
+protein	HSPCA
+protein	HSPA1A
+protein	E2F1
+protein	CDKN2A
+protein	ATM
+protein	AKT1
+protein	ABL1
+CDKN2A	degradation	-ap>
+CK-1	TP53	-a>
+ATM	TP53	-a>
+TP53	5.8 S rRNA	-t|
+RB1	5.8 S rRNA	-t|
+HSPCA	ubiquitin/p53/E2	component>
+HSPA1A	ubiquitin/p53/E2	component>
+HSP40	ubiquitin/p53/E2	component>
+MDM2	ubiquitin/p53/E2	component>
+TP53	CDKN2A	-t|
+TBX2	CDKN2A	-t|
+TWIST1	CDKN2A	-t|
+E2F1	CDKN2A	-t>
+ABL1	CDKN2A	-t>
+E1A	CDKN2A	-t>
+response to radiation	TP53	component>
+response to radiation	p53/I-kappa-B-beta	component>
+CDKN2A	ribosome biogenesis	-ap|
+TP53	MDM2	-t>
+MDM2	degradation	-ap>
+response to radiation	TP53	-a>
+RNA POL I/rRNA TFs	5.8 S rRNA	-t>
+response to radiation	ATM	-a>
+CDKN2A	response to oxidative stress	-ap>
+CDKN2A	PI3K	-a>
+PI3K	RAC1	-a>
+ubiquitin	ubiquitin/p53/E2	component>
+UBE2A	ubiquitin/p53/E2	component>
+TP53	ubiquitin/p53/E2	component>
+CDKN2A	RB1	-a>
+AKT1	MDM2	-a>
+MYC	CDKN2A	-t>
+p53/I-kappa-B-beta	TP53	component>
+NFKBIB	p53/I-kappa-B-beta	component>
+TP53	p53/I-kappa-B-beta	component>
+5.8 S rRNA	ribosome biogenesis	-ap>
+ubiquitin/p53	protein ubiquitination	-ap>
+ubiquitin/p53/E2	protein ubiquitination	-ap>
+response to radiation	MDM2	-t>

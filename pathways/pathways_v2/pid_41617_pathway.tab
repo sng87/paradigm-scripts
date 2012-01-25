@@ -1,0 +1,18 @@
+smallMolecule	alpha-D-Glucose
+protein	glucokinase
+smallMolecule	alpha-D-Glucose 6-phosphate
+smallMolecule	ATP
+smallMolecule	ADP
+protein	HK3
+protein	HK2
+protein	HK1
+HK3	ADP	-a>
+glucokinase	ADP	-a>
+alpha-D-Glucose 6-phosphate	ADP	-a|
+HK2	ADP	-a>
+alpha-D-Glucose 6-phosphate	alpha-D-Glucose 6-phosphate	-a|
+HK1	alpha-D-Glucose 6-phosphate	-a>
+alpha-D-Glucose	ADP	-a>
+alpha-D-Glucose	alpha-D-Glucose 6-phosphate	-a>
+ATP	ADP	-a>
+ATP	alpha-D-Glucose 6-phosphate	-a>

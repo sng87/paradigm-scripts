@@ -1,0 +1,27 @@
+complex	formiminotransferase-cyclodeaminase holoenzyme octamer
+smallMolecule	Urocanate
+smallMolecule	L-Histidine
+smallMolecule	5-Formiminotetrahydrofolate
+smallMolecule	NH4+
+smallMolecule	H2O
+smallMolecule	N-Formimino-L-glutamate
+complex	urocanase (probable) holoenzyme
+smallMolecule	THF
+smallMolecule	L-Glutamate
+smallMolecule	4-Imidazolone-5-propanoate
+protein	HAL
+protein	AMDHD1
+HAL	NH4+	-a>
+urocanase (probable) holoenzyme	4-Imidazolone-5-propanoate	-a>
+AMDHD1	N-Formimino-L-glutamate	-a>
+formiminotransferase-cyclodeaminase holoenzyme octamer	5-Formiminotetrahydrofolate	-a>
+L-Histidine	Urocanate	-a>
+L-Histidine	NH4+	-a>
+Urocanate	4-Imidazolone-5-propanoate	-a>
+H2O	4-Imidazolone-5-propanoate	-a>
+H2O	N-Formimino-L-glutamate	-a>
+4-Imidazolone-5-propanoate	N-Formimino-L-glutamate	-a>
+THF	L-Glutamate	-a>
+THF	5-Formiminotetrahydrofolate	-a>
+N-Formimino-L-glutamate	L-Glutamate	-a>
+N-Formimino-L-glutamate	5-Formiminotetrahydrofolate	-a>

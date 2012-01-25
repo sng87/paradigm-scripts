@@ -1,0 +1,28 @@
+protein	Excitatory amino acid transporters
+smallMolecule	D-Aspartate
+smallMolecule	K+
+smallMolecule	GABA
+smallMolecule	H+
+smallMolecule	Na+
+protein	SLC32A1
+Excitatory amino acid transporters	K+	-a>
+SLC32A1	H+	-a>
+K+	H+	-a>
+K+	Na+	-a>
+K+	D-Aspartate	-a>
+K+	K+	-a>
+H+	Na+	-a>
+H+	D-Aspartate	-a>
+H+	K+	-a>
+D-Aspartate	H+	-a>
+D-Aspartate	Na+	-a>
+D-Aspartate	D-Aspartate	-a>
+D-Aspartate	K+	-a>
+Na+	H+	-a>
+Na+	Na+	-a>
+Na+	D-Aspartate	-a>
+Na+	K+	-a>
+H+	GABA	-a>
+H+	H+	-a>
+GABA	GABA	-a>
+GABA	H+	-a>

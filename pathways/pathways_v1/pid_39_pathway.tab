@@ -1,0 +1,73 @@
+protein	BATF3
+protein	NFATC2
+protein	NFATC3
+protein	FKBP1A
+protein	CALM1
+protein	IL2
+protein	FASLG
+protein	PTGS2
+protein	CD40LG
+protein	JUNB
+protein	FOSL1
+protein	POU2F1
+protein	IL3
+protein	JUN
+protein	IL4
+protein	CSF2
+protein	IL2RA
+protein	IFNG
+protein	FOS
+protein	NFATC1
+protein	CREM
+complex	NFAT1-c-4/ICER1
+complex	JunB/Fra1/NFAT1-c-4
+complex	Jun/NFAT1-c-4/p21SNFT
+complex	FKBP12/FK506
+complex	Calcineurin A alpha-beta B1/FKBP12/FK506
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	CaM/Ca2+
+complex	AP-1/NFAT1-c-4
+chemical	mol:FK506
+chemical	mol:Ca2+
+mol:FK506	FKBP12/FK506	component>
+mol:FK506	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+mol:Ca2+	Calcineurin A alpha-beta B1/FKBP12/FK506	-a>
+mol:Ca2+	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+mol:Ca2+	CaM/Ca2+	component>
+BATF3	Jun/NFAT1-c-4/p21SNFT	component>
+NFATC2	NFAT1-c-4/ICER1	component>
+NFATC2	JunB/Fra1/NFAT1-c-4	component>
+NFATC2	Jun/NFAT1-c-4/p21SNFT	component>
+NFATC2	AP-1/NFAT1-c-4	component>
+NFATC3	NFAT1-c-4/ICER1	component>
+NFATC3	JunB/Fra1/NFAT1-c-4	component>
+NFATC3	Jun/NFAT1-c-4/p21SNFT	component>
+NFATC3	AP-1/NFAT1-c-4	component>
+FKBP1A	FKBP12/FK506	component>
+FKBP1A	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+CALM1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+CALM1	CaM/Ca2+	component>
+JUNB	JunB/Fra1/NFAT1-c-4	component>
+FOSL1	JunB/Fra1/NFAT1-c-4	component>
+POU2F1	IL3	-t>
+JUN	Jun/NFAT1-c-4/p21SNFT	component>
+JUN	AP-1/NFAT1-c-4	component>
+FOS	AP-1/NFAT1-c-4	component>
+NFATC1	NFAT1-c-4/ICER1	component>
+NFATC1	JunB/Fra1/NFAT1-c-4	component>
+NFATC1	Jun/NFAT1-c-4/p21SNFT	component>
+NFATC1	AP-1/NFAT1-c-4	component>
+CREM	NFAT1-c-4/ICER1	component>
+NFAT1-c-4/ICER1	IL2	-t|
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC2	-a>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC3	-a>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC1	-a>
+AP-1/NFAT1-c-4	IL2	-t>
+AP-1/NFAT1-c-4	FASLG	-t>
+AP-1/NFAT1-c-4	PTGS2	-t>
+AP-1/NFAT1-c-4	CD40LG	-t>
+AP-1/NFAT1-c-4	IL3	-t>
+AP-1/NFAT1-c-4	IL4	-t>
+AP-1/NFAT1-c-4	CSF2	-t>
+AP-1/NFAT1-c-4	IL2RA	-t>
+AP-1/NFAT1-c-4	IFNG	-t>

@@ -1,0 +1,46 @@
+complex	IL-1/IL-1R/MYD88/IRAK/TRAF6
+complex	TAB1/TAK1
+complex	IKK2/IKK3/IKK1
+complex	TNF R/FADD/TRADD/RIP/TRAF6
+complex	TLR4/TLR4/MYD88/IRAK/TRAF6
+complex	NF-kappa-B
+complex	LPS/TLR4/TLR4/MYD88/IRAK/TRAF6
+complex	IKK-alpha/MEKK1/NIK
+complex	NF-kappa-B/I-kappa-B-alpha
+complex	TNF/TNF R/FADD/TRADD/RIP/TRAF6
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	p105/RELA/ubiquitin
+complex	IL-1R/MYD88/IRAK/TRAF6
+abstract	protein ubiquitination
+abstract	degradation
+smallMolecule	LPS
+protein	TNF
+protein	NFKBIA
+protein	IL1A
+protein	CHUK
+IKK2/IKK3/IKK1	protein ubiquitination	-ap>
+CHUK	protein ubiquitination	-ap>
+TLR4/TLR4/MYD88/IRAK/TRAF6	LPS/TLR4/TLR4/MYD88/IRAK/TRAF6	-a>
+LPS	LPS/TLR4/TLR4/MYD88/IRAK/TRAF6	-a>
+IKK2/IKK3/IKK1	NF-kappa-B	-a>
+TAB1/TAK1	IKK-alpha/MEKK1/NIK	-a>
+NF-kappa-B	NF-kappa-B	-a>
+p105/RELA/ubiquitin	protein ubiquitination	-ap>
+NF-kappa-B	protein ubiquitination	-ap>
+IL-1/IL-1R/MYD88/IRAK/TRAF6	IKK-alpha/MEKK1/NIK	-a>
+IL-1/IL-1R/MYD88/IRAK/TRAF6	TAB1/TAK1	-a>
+NF-kappa-B	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+NFKBIA	NFKBIA	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+NF-kappa-B/I-kappa-B-alpha	protein ubiquitination	-ap>
+TNF R/FADD/TRADD/RIP/TRAF6	TNF/TNF R/FADD/TRADD/RIP/TRAF6	component>
+TNF	TNF/TNF R/FADD/TRADD/RIP/TRAF6	component>
+IL-1R/MYD88/IRAK/TRAF6	IL-1/IL-1R/MYD88/IRAK/TRAF6	component>
+IL1A	IL-1/IL-1R/MYD88/IRAK/TRAF6	component>
+NF-kappa-B	NFKBIA	-t>
+TNF/TNF R/FADD/TRADD/RIP/TRAF6	IKK-alpha/MEKK1/NIK	-a>
+LPS/TLR4/TLR4/MYD88/IRAK/TRAF6	IKK-alpha/MEKK1/NIK	-a>
+IKK-alpha/MEKK1/NIK	IKK2/IKK3/IKK1	-a>
+NFKBIA	NF-kappa-B/I-kappa-B-alpha	component>
+p105/RELA/ubiquitin	NF-kappa-B/I-kappa-B-alpha	component>

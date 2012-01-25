@@ -1,0 +1,57 @@
+complex	CCR7:
+protein	CC chemokine ligand (CCL19,21)
+protein	CX3C1 receptor
+complex	CX3C receptor:fractalkine
+protein	XC1 ligand
+complex	XC1 receptor:XC1 ligand
+protein	CXCR3 ligands
+protein	CXCR3 receptor
+complex	CXCR3:CXCR3 ligands
+protein	UniProt:P48061-1 CXCL12_subunit_22_93_22-93
+complex	CXCR4/7:CXCL12
+protein	CC chemokine receptor 9
+complex	CCR9:CCL25
+protein	UniProt:O15444 CCL25_subunit_24_150_24-150
+complex	CCR(1,2,8):CCL16
+complex	CXCR2:CXCR2 ligands
+complex	CXCR6:CXCL16
+complex	CXCR1:CXCR1 ligands
+protein	CC chemokine receptor (3,4,5)
+complex	CCR(3,4,5):CCL5
+protein	UniProt:Q9H2A7 CXCL16_subunit_30_254_30-254
+complex	CCR6:CCL20
+protein	CC chemokine ligand (27,28)
+complex	CCR10:
+protein	XCR1
+protein	IL8RB
+protein	IL8RA
+protein	CXCR6
+protein	CX3CL1
+protein	CCR7
+protein	CCR6
+protein	CCR10
+protein	CCL5
+protein	CCL20
+protein	CCL16
+CC chemokine ligand (27,28)	CCR10:	component>
+CCR10	CCR10:	component>
+UniProt:P48061-1 CXCL12_subunit_22_93_22-93	CXCR4/7:CXCL12	component>
+IL8RA	CXCR1:CXCR1 ligands	component>
+CC chemokine receptor 9	CCR9:CCL25	component>
+UniProt:O15444 CCL25_subunit_24_150_24-150	CCR9:CCL25	component>
+CX3C1 receptor	CX3C receptor:fractalkine	component>
+CX3CL1	CX3C receptor:fractalkine	component>
+XCR1	XC1 receptor:XC1 ligand	component>
+XC1 ligand	XC1 receptor:XC1 ligand	component>
+CCL16	CCR(1,2,8):CCL16	component>
+UniProt:Q9H2A7 CXCL16_subunit_30_254_30-254	CXCR6:CXCL16	component>
+CXCR6	CXCR6:CXCL16	component>
+CC chemokine ligand (CCL19,21)	CCR7:	component>
+CCR7	CCR7:	component>
+CCL5	CCR(3,4,5):CCL5	component>
+CC chemokine receptor (3,4,5)	CCR(3,4,5):CCL5	component>
+IL8RB	CXCR2:CXCR2 ligands	component>
+CXCR3 receptor	CXCR3:CXCR3 ligands	component>
+CXCR3 ligands	CXCR3:CXCR3 ligands	component>
+CCL20	CCR6:CCL20	component>
+CCR6	CCR6:CCL20	component>

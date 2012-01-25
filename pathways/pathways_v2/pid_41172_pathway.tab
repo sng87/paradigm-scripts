@@ -1,0 +1,10 @@
+complex	Mad1:kinetochore complex
+complex	Kinetochore:Mad1:MAD2 Complex
+protein	MAD2L1
+protein	MAD1L1
+Kinetochore:Mad1:MAD2 Complex	MAD2L1	component>
+Kinetochore:Mad1:MAD2 Complex	Mad1:kinetochore complex	component>
+Kinetochore:Mad1:MAD2 Complex	Kinetochore:Mad1:MAD2 Complex	-a>
+MAD2L1	Kinetochore:Mad1:MAD2 Complex	component>
+Mad1:kinetochore complex	Kinetochore:Mad1:MAD2 Complex	component>
+MAD1L1	Mad1:kinetochore complex	component>

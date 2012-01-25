@@ -1,0 +1,220 @@
+abstract	retrograde vesicle-mediated transport, Golgi to ER
+abstract	regulation of filopodium assembly
+abstract	RNA splicing
+abstract	cellular response to amino acid starvation
+abstract	actin filament depolymerization
+abstract	exocytosis
+abstract	response to retinoic acid
+abstract	endothelial cell morphogenesis
+abstract	neuron projection development
+abstract	actin cytoskeleton organization
+abstract	cell motility
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	cytokinesis
+abstract	cell migration
+abstract	regulation of cell cycle
+abstract	establishment of cell polarity
+abstract	cell proliferation
+complex	CDC42/GDP
+complex	CDC42/GTP/IRSP53/Mena
+complex	PKC epsilon/Par3/Par6/CDC42/GTP
+protein	PAK2-PAK4
+complex	PAK1 (dimer)
+smallMolecule	Phosphatidylcholine
+protein	RAF1-BRAF
+protein	MKK3-MKK6-active
+complex	CDC42/GTP/IQGAP1
+protein	ERK1-2-active
+protein	ERK1-2
+complex	RHOGDI/RAC1/GDP
+protein	MKK3-MKK6
+complex	PKC zeta/Par3/Par6/CDC42/GTP
+complex	Exo70/SEPT2/IQGAP1
+protein	Src-Yes
+complex	CDC42/GTP/ACK1
+complex	Exo70/SEPT2
+complex	RAC1/GDP
+complex	CDC42/GTP/IRSP53/Eps8
+complex	CDC42/GTP
+complex	myosin II complex
+complex	HRAS/GDP
+complex	APC/DLG1
+complex	HRAS/GTP
+complex	PAK1
+protein	MEKK1
+complex	CDC42/GTP/IRSP53/N-WASP
+smallMolecule	Phosphatidic acid
+protein	Phosphatidic acid
+complex	Arp2/3 complex
+complex	PKC epsilon/Par3/Par6
+smallMolecule	PI-4-5-P2
+complex	PI3K
+complex	E-cadherin/Ca2+/beta catenin/alpha catenin
+smallMolecule	Ca2+
+complex	betaPIX/CDC42/GTP/CBL
+complex	E-cadherin/beta catenin/IQGAP1
+complex	CDC42/GTP/IRSP53
+protein	p130 Cas
+protein	MRCK
+complex	PKC zeta/Par3/Par6
+smallMolecule	Choline
+complex	alphaPIX (dimer)
+smallMolecule	GDP
+smallMolecule	GTP
+complex	Par6/PKC zeta
+protein	WASL
+protein	VAV2
+protein	TNK2
+protein	TIAM1
+protein	RPS6KB1
+protein	RASGRF1
+protein	PLD1
+protein	PAX6
+protein	PAK4
+protein	PAK1
+protein	MAPK9
+protein	MAPK8
+protein	MAPK14
+protein	MAP3K11
+protein	MAP2K7
+protein	MAP2K4
+protein	LIMK2
+protein	LIMK1
+protein	JUN
+protein	IQGAP3
+protein	IQGAP1
+protein	HES5
+protein	GSK3B
+protein	FRAP1
+protein	EPS8
+protein	ENAH
+protein	DLG1
+protein	DIAPH3
+protein	CTNNA1
+protein	CFL1
+protein	CBL
+protein	BAIAP2
+protein	ATF2
+protein	ARHGEF7
+protein	ARHGDIA
+protein	APC
+CDC42/GTP	PAK1	component>
+PLD1	Phosphatidic acid	-a>
+CDC42/GTP/IQGAP1	Exo70/SEPT2/IQGAP1	component>
+RASGRF1	HRAS/GTP	-a>
+RAF1-BRAF	ERK1-2-active	-a>
+PI-4-5-P2	WASL	-a>
+PAK1	MKK3-MKK6-active	-a>
+MEKK1	MAP2K7	-a>
+Src-Yes	PAK2-PAK4	-a>
+CDC42/GTP/IQGAP1	E-cadherin/beta catenin/IQGAP1	-a|
+PAK1	ARHGDIA	component>
+VAV2	PAK1	-a>
+CDC42/GTP	FRAP1	-a>
+alphaPIX (dimer)	PAK1	-a>
+CDC42/GTP	Par6/PKC zeta	-a>
+BAIAP2	CDC42/GTP/IRSP53	component>
+CDC42/GTP	CDC42/GTP/IRSP53	component>
+DIAPH3	regulation of filopodium assembly	-ap>
+CDC42/GTP/IRSP53/Mena	regulation of filopodium assembly	-ap>
+PAK1 (dimer)	PAK1	component>
+PAK2-PAK4	RAF1-BRAF	-a>
+APC/DLG1	establishment of cell polarity	-ap>
+Phosphatidylcholine	Choline	-a>
+Phosphatidylcholine	Phosphatidic acid	-a>
+Arp2/3 complex	actin cytoskeleton organization	-ap>
+IQGAP1	Exo70/SEPT2/IQGAP1	component>
+Exo70/SEPT2	Exo70/SEPT2/IQGAP1	component>
+MAPK8	ATF2	-a>
+GTP	HRAS/GTP	-a>
+HRAS/GDP	GDP	-a>
+HRAS/GDP	HRAS/GTP	-a>
+ENAH	CDC42/GTP/IRSP53/Mena	component>
+CDC42/GTP/IRSP53	CDC42/GTP/IRSP53/Mena	component>
+ERK1-2	ERK1-2-active	-a>
+Phosphatidic acid	FRAP1	-a>
+Arp2/3 complex	retrograde vesicle-mediated transport, Golgi to ER	-ap>
+CDC42/GTP	WASL	-a>
+PKC zeta/Par3/Par6/CDC42/GTP	TIAM1	-a>
+MKK3-MKK6-active	MAPK14	-a>
+CDC42/GTP	PAK4	-a>
+CDC42/GTP/IRSP53/N-WASP	regulation of filopodium assembly	-ap>
+CDC42/GTP/IRSP53/Eps8	regulation of filopodium assembly	-ap>
+MRCK	myosin II complex	-a>
+MKK3-MKK6	MKK3-MKK6-active	-a>
+RPS6KB1	RNA splicing	-ap>
+PKC epsilon/Par3/Par6	PKC epsilon/Par3/Par6/CDC42/GTP	component>
+CDC42/GTP	PKC epsilon/Par3/Par6/CDC42/GTP	component>
+CDC42/GTP/IQGAP1	cell proliferation	-ap>
+MEKK1	MAP2K4	-a>
+FRAP1	HES5	-t>
+CDC42/GTP	PI3K	-a>
+MAP3K11	MEKK1	-a>
+DLG1	APC/DLG1	component>
+APC	APC/DLG1	component>
+EPS8	CDC42/GTP/IRSP53/Eps8	component>
+CDC42/GTP/IRSP53	CDC42/GTP/IRSP53/Eps8	component>
+CBL	betaPIX/CDC42/GTP/CBL	component>
+ARHGEF7	betaPIX/CDC42/GTP/CBL	component>
+CDC42/GTP	betaPIX/CDC42/GTP/CBL	component>
+cellular response to amino acid starvation	MAP2K7	-a>
+PKC epsilon/Par3/Par6/CDC42/GTP	PAK2-PAK4	-a>
+IQGAP1	Ca2+	-a>
+IQGAP1	CTNNA1	-a>
+IQGAP1	E-cadherin/beta catenin/IQGAP1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	Ca2+	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	CTNNA1	-a>
+E-cadherin/Ca2+/beta catenin/alpha catenin	E-cadherin/beta catenin/IQGAP1	-a>
+CFL1	actin filament depolymerization	-ap|
+PKC zeta/Par3/Par6	PKC zeta/Par3/Par6/CDC42/GTP	component>
+CDC42/GTP	PKC zeta/Par3/Par6/CDC42/GTP	component>
+Par6/PKC zeta	DLG1	-a>
+CDC42/GTP	LIMK2	-a>
+RHOGDI/RAC1/GDP	RAC1/GDP	component>
+RHOGDI/RAC1/GDP	ARHGDIA	component>
+MAPK8	JUN	-a>
+p130 Cas	cell migration	-ap>
+MAP2K7	MAPK9	-a>
+CDC42/GTP	DIAPH3	-a>
+FRAP1	PAX6	-t>
+CDC42/GTP	MAP3K11	-a>
+CDC42/GTP	alphaPIX (dimer)	-a>
+WASL	CDC42/GTP/IRSP53/N-WASP	component>
+CDC42/GTP/IRSP53	CDC42/GTP/IRSP53/N-WASP	component>
+Exo70/SEPT2/IQGAP1	exocytosis	-ap>
+IQGAP1	CDC42/GTP/IQGAP1	component>
+CDC42/GTP	CDC42/GTP/IQGAP1	component>
+FRAP1	RPS6KB1	-a>
+CDC42/GTP	IQGAP3	-a>
+PAK4	actin cytoskeleton organization	-ap>
+MAPK9	ATF2	-a>
+Par6/PKC zeta	GSK3B	-a>
+CDC42/GTP	VAV2	-a>
+response to retinoic acid	FRAP1	-a>
+myosin II complex	establishment of cell polarity	-ap>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+MAP2K4	MAPK8	-a>
+ERK1-2-active	endothelial cell morphogenesis	-ap>
+CDC42/GDP	RASGRF1	-a|
+LIMK1	CFL1	-a>
+CDC42/GTP/IQGAP1	actin cytoskeleton organization	-ap>
+TNK2	CDC42/GTP/ACK1	component>
+CDC42/GTP	CDC42/GTP/ACK1	component>
+PI3K	cell motility	-ap>
+CDC42/GTP	RPS6KB1	-a>
+PKC zeta/Par3/Par6/CDC42/GTP	establishment of cell polarity	-ap>
+CDC42/GTP	MRCK	-a>
+GSK3B	APC	-a>
+WASL	Arp2/3 complex	-a>
+Par6/PKC zeta	Par6/PKC zeta	-a>
+CDC42/GTP/IQGAP1	cytokinesis	-ap>
+CDC42/GTP	positive regulation of NF-kappaB transcription factor activity	-ap>
+IQGAP3	neuron projection development	-ap>
+PAK1	LIMK1	-a>
+CDC42/GTP	PLD1	-a>
+LIMK2	CFL1	-a>
+CDC42/GTP/ACK1	p130 Cas	-a>
+JUN	regulation of cell cycle	-ap>

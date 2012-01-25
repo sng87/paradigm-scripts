@@ -1,0 +1,16 @@
+complex	palmitoylated, myristoylated eNOS dimer
+complex	eNOS:Caveolin-1:NOSTRIN complex
+complex	eNOS:Caveolin-1:NOSTRIN:Dynamin-2
+complex	eNOS:Caveolin-1:NOSTRIN:dynamin-2:N-WASP
+complex	NOSTRIN homotrimer
+complex	eNOS:Caveolin-1
+protein	WASL
+protein	CAV1
+NOSTRIN homotrimer	eNOS:Caveolin-1:NOSTRIN complex	component>
+eNOS:Caveolin-1	eNOS:Caveolin-1:NOSTRIN complex	component>
+eNOS:Caveolin-1:NOSTRIN complex	eNOS:Caveolin-1:NOSTRIN:Dynamin-2	-a>
+eNOS:Caveolin-1:NOSTRIN:Dynamin-2	eNOS:Caveolin-1:NOSTRIN:dynamin-2:N-WASP	component>
+WASL	eNOS:Caveolin-1:NOSTRIN:dynamin-2:N-WASP	component>
+eNOS:Caveolin-1:NOSTRIN:dynamin-2:N-WASP	eNOS:Caveolin-1:NOSTRIN:dynamin-2:N-WASP	-a>
+palmitoylated, myristoylated eNOS dimer	eNOS:Caveolin-1	component>
+CAV1	eNOS:Caveolin-1	component>

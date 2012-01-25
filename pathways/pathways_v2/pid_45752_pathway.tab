@@ -1,0 +1,22 @@
+smallMolecule	monensin
+complex	Nrdp1/Ubch5
+smallMolecule	chloroquine
+complex	ErbB3/ubiquitin
+protein	neuregulin
+complex	neuregulin/ErbB3
+abstract	protein ubiquitination
+abstract	degradation
+protein	ERBB3
+chloroquine	degradation	-ap|
+Nrdp1/Ubch5	protein ubiquitination	-ap>
+neuregulin	degradation	-ap>
+ErbB3/ubiquitin	degradation	-ap>
+neuregulin/ErbB3	neuregulin/ErbB3	-a>
+neuregulin	protein ubiquitination	-ap>
+ErbB3/ubiquitin	protein ubiquitination	-ap>
+neuregulin/ErbB3	protein ubiquitination	-ap>
+neuregulin/ErbB3	ERBB3	component>
+neuregulin/ErbB3	neuregulin	component>
+monensin	ERBB3	-a|
+ERBB3	neuregulin/ErbB3	component>
+neuregulin	neuregulin/ErbB3	component>

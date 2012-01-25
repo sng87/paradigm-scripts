@@ -1,0 +1,17 @@
+complex	SNAPc:Oct-1:Staf:Type 3 Promoter Complex
+complex	RNA Polymerase III Holoenzyme
+complex	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Promoter Complex
+complex	TFIIIB:SNAPc:Oct-1:Staf:Type 3 Promoter Complex
+complex	SNAPc
+complex	TFIIIB-Type 3 Promoter Selective Complex
+complex	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex
+protein	ZNF143
+protein	POU2F1
+RNA Polymerase III Holoenzyme	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Promoter Complex	component>
+TFIIIB:SNAPc:Oct-1:Staf:Type 3 Promoter Complex	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Promoter Complex	component>
+RNA Polymerase III:TFIIIB:SNAPc:Type 3 Promoter Complex	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex	-a>
+SNAPc:Oct-1:Staf:Type 3 Promoter Complex	TFIIIB:SNAPc:Oct-1:Staf:Type 3 Promoter Complex	component>
+TFIIIB-Type 3 Promoter Selective Complex	TFIIIB:SNAPc:Oct-1:Staf:Type 3 Promoter Complex	component>
+ZNF143	SNAPc:Oct-1:Staf:Type 3 Promoter Complex	component>
+POU2F1	SNAPc:Oct-1:Staf:Type 3 Promoter Complex	component>
+SNAPc	SNAPc:Oct-1:Staf:Type 3 Promoter Complex	component>

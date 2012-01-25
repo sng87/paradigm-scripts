@@ -1,0 +1,156 @@
+protein	F11R
+protein	TLN1
+protein	PVRL3
+protein	PVRL2
+protein	PVRL1
+protein	RAPGEF1
+protein	PTK2
+protein	RAC1
+protein	RAP1A
+protein	RAP1B
+protein	CDC42
+protein	MLLT4
+protein	VAV2
+protein	IQGAP1
+protein	CRK
+protein	PIK3CA
+protein	CTNNB1
+protein	CTNNA1
+protein	PTPRM
+protein	PIK3R1
+protein	PVR
+protein	SRC
+protein	CDH1
+protein	PDGFRB
+protein	ITGAV
+protein	ITGB3
+protein	CLDN1
+protein	FARP2
+protein	PIP5K1C
+complex	nectin-3/I-afadin
+complex	nectin-3(dimer)/I-afadin/I-afadin/nectin-3(dimer)/I-afadin/I-afadin
+complex	nectin-3(dimer)/I-afadin/I-afadin/nectin-2(dimer)/I-afadin/I-afadin
+complex	nectin-3(dimer)/I-afadin/I-afadin/Necl-5(dimer)
+complex	nectin-3(dimer)/I-afadin/I-afadin
+complex	nectin-2/I-afadin
+complex	nectin-2(dimer)/I-afadin/I-afadin/nectin-2(dimer/I-afadin/I-afadin
+complex	nectin-2(dimer)/I-afadin/I-afadin
+complex	nectin-1/I-afadin
+complex	nectin-1(dimer)/I-afadin/I-afadin/nectin-3(dimer/I-afadin/I-afadin
+complex	nectin-1(dimer)/I-afadin/I-afadin/nectin-1(dimer)/I-afadin/I-afadin
+complex	nectin-1(dimer)/I-afadin/I-afadin
+complex	alphaV/beta3 Integrin/Talin
+complex	alphaV beta3 Integrin
+complex	Rap1/GTP/I-afadin
+complex	Rap1/GTP
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	RAP1/GDP
+complex	RAC1/GTP/IQGAP1/filamentous actin
+complex	PI3K
+complex	PDGFB-D/PDGFRB
+complex	Necl-5(dimer)
+complex	JAM-A/CLDN1
+complex	E-cadherin/beta catenin/alpha catenin
+complex	CDC42/GTP/IQGAP1/filamentous actin
+complex	CDC42/GTP
+complex	CDC42/GDP
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	positive regulation of lamellipodium assembly
+abstract	positive regulation of filopodium formation
+abstract	positive regulation of JNK cascade
+abstract	adherens junction assembly
+nectin-3(dimer)/I-afadin/I-afadin/nectin-3(dimer)/I-afadin/I-afadin	PTPRM	-a>
+nectin-3(dimer)/I-afadin/I-afadin/nectin-3(dimer)/I-afadin/I-afadin	PI3K	-a>
+nectin-3(dimer)/I-afadin/I-afadin/nectin-3(dimer)/I-afadin/I-afadin	JAM-A/CLDN1	-a>
+nectin-3(dimer)/I-afadin/I-afadin/Necl-5(dimer)	SRC	-a>
+nectin-2(dimer)/I-afadin/I-afadin/nectin-2(dimer/I-afadin/I-afadin	E-cadherin/beta catenin/alpha catenin	-a>
+nectin-1(dimer)/I-afadin/I-afadin/nectin-3(dimer/I-afadin/I-afadin	PTK2	-a>
+nectin-1(dimer)/I-afadin/I-afadin/nectin-1(dimer)/I-afadin/I-afadin	E-cadherin/beta catenin/alpha catenin	-a>
+mol:GTP	Rap1/GTP/I-afadin	component>
+mol:GTP	Rap1/GTP	component>
+mol:GTP	Rac1/GTP	component>
+mol:GTP	RAC1/GTP/IQGAP1/filamentous actin	component>
+mol:GTP	CDC42/GTP/IQGAP1/filamentous actin	component>
+mol:GTP	CDC42/GTP	component>
+mol:GDP	Rac1/GDP	component>
+mol:GDP	RAP1/GDP	component>
+mol:GDP	CDC42/GDP	component>
+alphaV/beta3 Integrin/Talin	PTK2	-a>
+adherens junction assembly	PTPRM	-ap>
+F11R	JAM-A/CLDN1	component>
+TLN1	alphaV/beta3 Integrin/Talin	component>
+PVRL3	nectin-3/I-afadin	component>
+PVRL3	nectin-3(dimer)/I-afadin/I-afadin/nectin-3(dimer)/I-afadin/I-afadin	component>
+PVRL3	nectin-3(dimer)/I-afadin/I-afadin/nectin-2(dimer)/I-afadin/I-afadin	component>
+PVRL3	nectin-3(dimer)/I-afadin/I-afadin/Necl-5(dimer)	component>
+PVRL3	nectin-3(dimer)/I-afadin/I-afadin	component>
+PVRL3	nectin-1(dimer)/I-afadin/I-afadin/nectin-3(dimer/I-afadin/I-afadin	component>
+PVRL2	nectin-3(dimer)/I-afadin/I-afadin/nectin-2(dimer)/I-afadin/I-afadin	component>
+PVRL2	nectin-2/I-afadin	component>
+PVRL2	nectin-2(dimer)/I-afadin/I-afadin/nectin-2(dimer/I-afadin/I-afadin	component>
+PVRL2	nectin-2(dimer)/I-afadin/I-afadin	component>
+PVRL1	nectin-1/I-afadin	component>
+PVRL1	nectin-1(dimer)/I-afadin/I-afadin/nectin-3(dimer/I-afadin/I-afadin	component>
+PVRL1	nectin-1(dimer)/I-afadin/I-afadin/nectin-1(dimer)/I-afadin/I-afadin	component>
+PVRL1	nectin-1(dimer)/I-afadin/I-afadin	component>
+RAPGEF1	mol:GDP	-a>
+RAPGEF1	Rap1/GTP	-a>
+PTK2	SRC	-a>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RAC1	RAC1/GTP/IQGAP1/filamentous actin	component>
+RAP1A	Rap1/GTP/I-afadin	component>
+RAP1A	Rap1/GTP	component>
+RAP1A	RAP1/GDP	component>
+RAP1B	Rap1/GTP/I-afadin	component>
+RAP1B	Rap1/GTP	component>
+RAP1B	RAP1/GDP	component>
+CDC42	CDC42/GTP/IQGAP1/filamentous actin	component>
+CDC42	CDC42/GTP	component>
+CDC42	CDC42/GDP	component>
+MLLT4	nectin-3/I-afadin	component>
+MLLT4	nectin-3(dimer)/I-afadin/I-afadin/nectin-3(dimer)/I-afadin/I-afadin	component>
+MLLT4	nectin-3(dimer)/I-afadin/I-afadin/nectin-2(dimer)/I-afadin/I-afadin	component>
+MLLT4	nectin-3(dimer)/I-afadin/I-afadin/Necl-5(dimer)	component>
+MLLT4	nectin-3(dimer)/I-afadin/I-afadin	component>
+MLLT4	nectin-2/I-afadin	component>
+MLLT4	nectin-2(dimer)/I-afadin/I-afadin/nectin-2(dimer/I-afadin/I-afadin	component>
+MLLT4	nectin-2(dimer)/I-afadin/I-afadin	component>
+MLLT4	nectin-1/I-afadin	component>
+MLLT4	nectin-1(dimer)/I-afadin/I-afadin/nectin-3(dimer/I-afadin/I-afadin	component>
+MLLT4	nectin-1(dimer)/I-afadin/I-afadin/nectin-1(dimer)/I-afadin/I-afadin	component>
+MLLT4	nectin-1(dimer)/I-afadin/I-afadin	component>
+MLLT4	Rap1/GTP/I-afadin	component>
+VAV2	mol:GDP	-a>
+VAV2	Rac1/GTP	-a>
+IQGAP1	RAC1/GTP/IQGAP1/filamentous actin	component>
+IQGAP1	CDC42/GTP/IQGAP1/filamentous actin	component>
+CRK	RAPGEF1	-a>
+PIK3CA	PI3K	component>
+CTNNB1	E-cadherin/beta catenin/alpha catenin	component>
+CTNNA1	E-cadherin/beta catenin/alpha catenin	component>
+PTPRM	PIP5K1C	-a>
+PIK3R1	PI3K	component>
+PVR	nectin-3(dimer)/I-afadin/I-afadin/Necl-5(dimer)	component>
+PVR	Necl-5(dimer)	component>
+SRC	VAV2	-a>
+SRC	CRK	-a>
+SRC	FARP2	-a>
+CDH1	E-cadherin/beta catenin/alpha catenin	component>
+PDGFRB	PDGFB-D/PDGFRB	component>
+ITGAV	alphaV/beta3 Integrin/Talin	component>
+ITGAV	alphaV beta3 Integrin	component>
+ITGB3	alphaV/beta3 Integrin/Talin	component>
+ITGB3	alphaV beta3 Integrin	component>
+CLDN1	JAM-A/CLDN1	component>
+FARP2	mol:GDP	-a>
+FARP2	CDC42/GTP	-a>
+PIP5K1C	TLN1	-a>
+Rap1/GTP	FARP2	-a>
+Rac1/GTP	positive regulation of lamellipodium assembly	-ap>
+PDGFB-D/PDGFRB	PI3K	-a>
+CDC42/GTP	positive regulation of filopodium formation	-ap>
+CDC42/GTP	positive regulation of JNK cascade	-ap>
+CDC42/GTP	VAV2	-a>

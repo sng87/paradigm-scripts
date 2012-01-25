@@ -1,0 +1,15 @@
+complex	Apoptosome
+complex	Apaf-1:Cytochrome C
+complex	Cytochrome C:Apaf-1:ATP:Procaspase-9
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CYCS
+protein	CASP9
+protein	APAF1
+Cytochrome C:Apaf-1:ATP:Procaspase-9	Apoptosome	-a>
+Cytochrome C:Apaf-1:ATP:Procaspase-9	ADP	-a>
+ATP	Cytochrome C:Apaf-1:ATP:Procaspase-9	component>
+CASP9	Cytochrome C:Apaf-1:ATP:Procaspase-9	component>
+Apaf-1:Cytochrome C	Cytochrome C:Apaf-1:ATP:Procaspase-9	component>
+APAF1	Apaf-1:Cytochrome C	component>
+CYCS	Apaf-1:Cytochrome C	component>

@@ -1,0 +1,71 @@
+complex	spherical HDL
+complex	ABCA1:apoA-I complex
+complex	albumin:2-lysophosphatidylcholine complex
+complex	LCAT:spherical HDL complex
+complex	pre-beta HDL
+complex	CETP:spherical HDL:torcetrapib complex
+smallMolecule	1-Acylglycero-3-phosphocholine
+complex	BMP1:Zn++
+complex	alpha2-macroglobulin
+complex	LCAT:discoidal HDL complex
+complex	spherical HDL:SR-BI complex
+smallMolecule	torcetrapib
+complex	apoA-I:CUBN:AMN complex
+complex	CETP:triacylglycerol complex
+complex	CUBN:AMN complex
+complex	ABCG1 dimer
+complex	ABCA1 tetramer
+smallMolecule	phospholipids
+smallMolecule	triacylglycerols
+smallMolecule	cholesterol esters
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	Cholesterol
+protein	SCARB1
+protein	LCAT
+protein	APOA1
+protein	ALB
+alpha2-macroglobulin	APOA1	-a|
+BMP1:Zn++	APOA1	-a>
+ABCA1:apoA-I complex	ADP	-a>
+ABCG1 dimer	ADP	-a>
+phospholipids	pre-beta HDL	component>
+Cholesterol	pre-beta HDL	component>
+APOA1	pre-beta HDL	component>
+APOA1	APOA1	-a>
+phospholipids	phosphate	-a>
+phospholipids	phospholipids	-a>
+phospholipids	ADP	-a>
+ATP	phospholipids	-a>
+Cholesterol	pre-beta HDL	-a>
+phospholipids	pre-beta HDL	-a>
+pre-beta HDL	pre-beta HDL	-a>
+spherical HDL:SR-BI complex	phospholipids	component>
+spherical HDL:SR-BI complex	SCARB1	component>
+spherical HDL:SR-BI complex	pre-beta HDL	component>
+spherical HDL:SR-BI complex	Cholesterol	component>
+spherical HDL:SR-BI complex	cholesterol esters	component>
+spherical HDL:SR-BI complex	triacylglycerols	component>
+pre-beta HDL	spherical HDL	-a>
+torcetrapib	CETP:spherical HDL:torcetrapib complex	component>
+spherical HDL	CETP:spherical HDL:torcetrapib complex	component>
+CETP:triacylglycerol complex	CETP:spherical HDL:torcetrapib complex	component>
+ATP	Cholesterol	-a>
+ATP	phosphate	-a>
+ATP	ADP	-a>
+Cholesterol	Cholesterol	-a>
+Cholesterol	phosphate	-a>
+Cholesterol	ADP	-a>
+APOA1	ABCA1:apoA-I complex	component>
+ABCA1 tetramer	ABCA1:apoA-I complex	component>
+LCAT:spherical HDL complex	spherical HDL	component>
+LCAT:spherical HDL complex	LCAT	component>
+ALB	albumin:2-lysophosphatidylcholine complex	component>
+1-Acylglycero-3-phosphocholine	albumin:2-lysophosphatidylcholine complex	component>
+LCAT:discoidal HDL complex	LCAT	component>
+LCAT:discoidal HDL complex	pre-beta HDL	component>
+CUBN:AMN complex	apoA-I:CUBN:AMN complex	component>
+APOA1	apoA-I:CUBN:AMN complex	component>
+SCARB1	spherical HDL:SR-BI complex	component>
+spherical HDL	spherical HDL:SR-BI complex	component>

@@ -1,0 +1,103 @@
+abstract	positive regulation of cyclin-dependent protein kinase activity
+abstract	T cell proliferation
+abstract	cell survival
+abstract	actin cytoskeleton organization
+abstract	natural killer cell activation
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	cell proliferation
+smallMolecule	DAG
+complex	AKT1/mTOR/p70S6K/Hsp90/TERT
+complex	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3
+smallMolecule	cAMP
+smallMolecule	UDP-D-glucose
+smallMolecule	Phosphatidylcholine
+complex	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+protein	ASM
+complex	RAC1/GDP
+smallMolecule	sphingomyelin
+smallMolecule	glucosylceramide
+complex	PAK1
+smallMolecule	PI-3-4-5-P3
+smallMolecule	ceramide
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K
+protein	NFAT1-c-4
+smallMolecule	PI-4-5-P2
+complex	PI3K
+complex	NF kappa B1 p50/RelA
+smallMolecule	GDP
+smallMolecule	GTP
+protein	UGCG
+protein	TERT
+protein	SGMS1
+protein	RPS6KB1
+protein	PRKCZ
+protein	MYC
+protein	MYB
+protein	HSP90AA1
+protein	FRAP1
+protein	FOXO3
+protein	E2F1
+protein	BCL2L1
+protein	BCL2
+protein	AKT1
+natural killer cell activation	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+PAK1	AKT1	-a>
+PI-3-4-5-P3	AKT1	-a>
+RPS6KB1	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	-a>
+ASM	sphingomyelin	-a|
+SGMS1	sphingomyelin	-a>
+PI3K	PAK1	-a>
+natural killer cell activation	PAK1	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	PI-3-4-5-P3	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	UGCG	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	ASM	-a>
+RPS6KB1	E2F1	-a>
+cAMP	RPS6KB1	-a|
+UGCG	glucosylceramide	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	SGMS1	-a>
+E2F1	MYB	-t>
+FRAP1	CaM/Ca2+/Calcineurin A alpha-beta B1	-a>
+TERT	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+HSP90AA1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+RPS6KB1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+FRAP1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+AKT1	AKT1/mTOR/p70S6K/Hsp90/TERT	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	PRKCZ	-a>
+natural killer cell activation	AKT1	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	AKT1	-a>
+40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	40S S6 ribosomal protein /40s Ribosomal subunit/eIF3	-a>
+BCL2	cell survival	-ap>
+FRAP1	NF kappa B1 p50/RelA	-a>
+Phosphatidylcholine	DAG	-a>
+Phosphatidylcholine	sphingomyelin	-a>
+ceramide	DAG	-a>
+ceramide	sphingomyelin	-a>
+glucosylceramide	cell proliferation	-ap>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+MYC	cell proliferation	-ap>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+natural killer cell activation	UGCG	-a>
+natural killer cell activation	ASM	-a>
+BCL2L1	cell survival	-ap>
+positive regulation of cyclin-dependent protein kinase activity	E2F1	-a>
+AKT1	FOXO3	-a>
+NFAT1-c-4	BCL2	-t>
+FOXO3	cell survival	-ap>
+IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	BCL2L1	-t>
+FRAP1	RPS6KB1	-a>
+UDP-D-glucose	glucosylceramide	-a>
+ceramide	glucosylceramide	-a>
+PRKCZ	T cell proliferation	-ap>
+natural killer cell activation	SGMS1	-a>
+sphingomyelin	cell proliferation	-ap>
+MYB	cell survival	-ap>
+AKT1	FRAP1	-a>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFAT1-c-4	-a>
+AKT1	MYC	-t>
+PRKCZ	actin cytoskeleton organization	-ap>
+positive regulation of NF-kappaB transcription factor activity	MYB	-t>
+FRAP1	BCL2	-t>

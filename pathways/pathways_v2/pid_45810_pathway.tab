@@ -1,0 +1,39 @@
+complex	GF/GF R
+complex	Integrin-beta/SHC/SOS-1/GRB2
+protein	FOXO3A
+smallMolecule	PIP2
+abstract	cell survival
+abstract	cell migration
+abstract	apoptosis
+complex	PI3K
+smallMolecule	PIP3
+protein	PTK2
+protein	PTEN
+protein	PDK2
+protein	ILK
+protein	FASLG
+protein	CDKN1B
+protein	BCAR1
+protein	AKT1
+PTEN	PIP2	-a>
+PI3K	PIP3	-a>
+PIP3	PIP2	-a>
+FOXO3A	FOXO3A	-a>
+GF/GF R	PI3K	-a>
+PIP2	PIP3	-a>
+FASLG	apoptosis	-ap>
+PIP3	PDK2	-a>
+PTK2	BCAR1	-a>
+FOXO3A	FASLG	-t>
+CDKN1B	apoptosis	-ap>
+PIP3	ILK	-a>
+PTEN	PTK2	-a>
+PDK2	AKT1	-a>
+AKT1	FOXO3A	-a>
+Integrin-beta/SHC/SOS-1/GRB2	PTK2	-a>
+FOXO3A	CDKN1B	-t>
+PTEN	Integrin-beta/SHC/SOS-1/GRB2	-a>
+BCAR1	cell migration	-ap>
+FOXO3A	cell survival	-ap>
+ILK	AKT1	-a>
+Integrin-beta/SHC/SOS-1/GRB2	ILK	-a>

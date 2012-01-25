@@ -1,0 +1,161 @@
+abstract	response to hypoxia
+complex	HIF1A/ARNT/Cbp/p300/Src-1
+complex	HIF1A/JAB1
+complex	HIF1A/ARNT/SMAD3/SMAD4/SP1
+complex	HIF1A/ARNT
+protein	RORA4
+complex	HIF1A/ARNT/Cbp/p300/HDAC7
+complex	Cbp/p300/CITED2
+protein	SP1/3
+complex	AP1
+complex	SMAD3/SMAD4
+complex	HIF1A/ARNT/Cbp/p300
+protein	GLUT3
+protein	Cbp/p300
+protein	VEGFA
+protein	TFRC
+protein	TFF3
+protein	TF
+protein	TERT
+protein	SP1
+protein	SLC2A1
+protein	SERPINE1
+protein	PKM2
+protein	PGM1
+protein	PGK1
+protein	PFKL
+protein	PFKFB3
+protein	NT5E
+protein	NPM1
+protein	NOS2
+protein	NDRG1
+protein	NCOA2
+protein	NCOA1
+protein	mdr1
+protein	MCL1
+protein	LEP
+protein	LDHA
+protein	ITGB2
+protein	IGFBP1
+protein	ID2
+protein	HNF4A
+protein	HMOX1
+protein	HK2
+protein	HK1
+protein	HIF1A
+protein	HDAC7
+protein	GCK
+protein	GATA2
+protein	FURIN
+protein	FECH
+protein	ETS1
+protein	EPO
+protein	ENO1
+protein	ENG
+protein	EGLN3
+protein	EGLN1
+protein	EDN1
+protein	CXCR4
+protein	CXCL12
+protein	CREB1
+protein	CP
+protein	CITED2
+protein	CA9
+protein	BNIP3
+protein	BHLHE41
+protein	BHLHE40
+protein	ALDOA
+protein	AKT1
+protein	ADM
+protein	ADFP
+protein	ABCG2
+SP1	mdr1	-t>
+NCOA2	EPO	-t>
+CREB1	LDHA	-t>
+GATA2	EDN1	-t>
+AP1	EDN1	-t>
+Cbp/p300	EDN1	-t>
+SP1/3	CA9	-t>
+AKT1	HIF1A/ARNT	-a>
+AKT1	Cbp/p300	-a>
+HNF4A	GCK	-t>
+Cbp/p300	GCK	-t>
+HIF1A/ARNT	ADFP	-t>
+HIF1A/ARNT	BHLHE40	-t>
+HIF1A/ARNT	PFKL	-t>
+HIF1A/ARNT	EGLN3	-t>
+HIF1A/ARNT	EGLN1	-t>
+HIF1A/ARNT	MCL1	-t>
+HIF1A/ARNT	PKM2	-t>
+HIF1A/ARNT/Cbp/p300/Src-1	EPO	-t>
+HIF1A/ARNT	mdr1	-t>
+HIF1A/JAB1	EPO	-t>
+HIF1A/ARNT	PFKFB3	-t>
+HIF1A/ARNT	BHLHE41	-t>
+HIF1A/ARNT	ITGB2	-t>
+HIF1A/ARNT	NPM1	-t>
+HIF1A/ARNT	FECH	-t>
+HIF1A/ARNT	EPO	-t>
+HIF1A/ARNT	PGM1	-t>
+HIF1A/ARNT	NOS2	-t>
+HIF1A/ARNT	NT5E	-t>
+HIF1A/ARNT	CITED2	-t>
+HIF1A/ARNT	SERPINE1	-t>
+HIF1A/ARNT/Cbp/p300	LDHA	-t>
+HIF1A/ARNT/Cbp/p300/HDAC7	VEGFA	-t>
+HIF1A/ARNT	CXCL12	-t>
+HIF1A/ARNT	ADM	-t>
+HIF1A/ARNT	EDN1	-t>
+HIF1A/ARNT	ID2	-t>
+HIF1A/ARNT	HMOX1	-t>
+HIF1A/ARNT	CA9	-t>
+HIF1A/ARNT	ETS1	-t>
+HIF1A/ARNT	CXCR4	-t>
+HIF1A/ARNT	ALDOA	-t>
+HIF1A/ARNT	TFRC	-t>
+SP1	HIF1A/ARNT/SMAD3/SMAD4/SP1	component>
+SMAD3/SMAD4	HIF1A/ARNT/SMAD3/SMAD4/SP1	component>
+HIF1A/ARNT	HIF1A/ARNT/SMAD3/SMAD4/SP1	component>
+HIF1A/ARNT	LEP	-t>
+HIF1A/ARNT	TERT	-t>
+response to hypoxia	HIF1A/ARNT	-a>
+HIF1A/ARNT/Cbp/p300/HDAC7	SLC2A1	-t>
+HIF1A/ARNT	ENO1	-t>
+HIF1A/ARNT	BNIP3	-t>
+HIF1A/ARNT	FURIN	-t>
+response to hypoxia	Cbp/p300	-a>
+HIF1A/ARNT	PGK1	-t>
+HIF1A/ARNT	TF	-t>
+HIF1A/ARNT	NDRG1	-t>
+HIF1A/ARNT	ABCG2	-t>
+HIF1A/ARNT	TFF3	-t>
+HDAC7	Cbp/p300/CITED2	component>
+HDAC7	HIF1A/ARNT/Cbp/p300/HDAC7	component>
+HDAC7	HIF1A	component>
+HDAC7	HIF1A/ARNT/Cbp/p300	component>
+CITED2	Cbp/p300/CITED2	component>
+CITED2	HIF1A/ARNT/Cbp/p300/HDAC7	component>
+CITED2	HIF1A	component>
+CITED2	HIF1A/ARNT/Cbp/p300	component>
+Cbp/p300	Cbp/p300/CITED2	component>
+Cbp/p300	HIF1A/ARNT/Cbp/p300/HDAC7	component>
+Cbp/p300	HIF1A	component>
+Cbp/p300	HIF1A/ARNT/Cbp/p300	component>
+HIF1A	Cbp/p300/CITED2	component>
+HIF1A	HIF1A/ARNT/Cbp/p300/HDAC7	component>
+HIF1A	HIF1A	component>
+HIF1A	HIF1A/ARNT/Cbp/p300	component>
+HIF1A/ARNT	Cbp/p300/CITED2	component>
+HIF1A/ARNT	HIF1A/ARNT/Cbp/p300/HDAC7	component>
+HIF1A/ARNT	HIF1A	component>
+HIF1A/ARNT	HIF1A/ARNT/Cbp/p300	component>
+HIF1A/ARNT	GLUT3	-t>
+HIF1A/ARNT	CP	-t>
+HIF1A/ARNT	IGFBP1	-t>
+HIF1A/ARNT	HK2	-t>
+HIF1A/ARNT	GCK	-t>
+HIF1A/ARNT	RORA4	-t>
+NCOA1	HIF1A/ARNT/Cbp/p300/Src-1	component>
+HIF1A/ARNT/Cbp/p300	HIF1A/ARNT/Cbp/p300/Src-1	component>
+HIF1A/ARNT	HK1	-t>
+HIF1A/ARNT/SMAD3/SMAD4/SP1	ENG	-t>

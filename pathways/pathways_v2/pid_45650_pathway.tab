@@ -1,0 +1,78 @@
+complex	p53/I-kappa-B-beta
+complex	ubiquitin/p53
+complex	HIF-1-alpha/ubiquitin
+complex	TFIID/RPA/JNK/p300
+complex	ubiquitin/p53/E2
+complex	TFIID/RPA/JNK/p300/p53
+complex	p53/mSin3A
+protein	CK-1
+complex	ubiquitin/p53/E2/HIF-1-alpha
+protein	ubiquitin
+protein	HSP40
+abstract	response to radiation
+abstract	protein ubiquitination
+abstract	response to hypoxia
+abstract	DNA damage
+protein	UBE2A
+protein	TP53
+protein	NFKBIB
+protein	MDM2
+protein	IGFBP3
+protein	HSPCA
+protein	HSPA1A
+protein	HIF1A
+protein	HIC1
+protein	GADD45A
+protein	FHL2
+protein	CDKN1A
+protein	BAX
+protein	ATM
+protein	AKT1
+protein	ABCB1
+DNA damage	TFIID/RPA/JNK/p300/p53	component>
+CK-1	TP53	-a>
+ATM	TP53	-a>
+TFIID/RPA/JNK/p300/p53	IGFBP3	-t>
+TFIID/RPA/JNK/p300/p53	CDKN1A	-t>
+HSPCA	ubiquitin/p53/E2	component>
+HSPA1A	ubiquitin/p53/E2	component>
+HSP40	ubiquitin/p53/E2	component>
+MDM2	ubiquitin/p53/E2	component>
+MDM2	ubiquitin/p53/E2/HIF-1-alpha	component>
+TFIID/RPA/JNK/p300/p53	FHL2	-t>
+TFIID/RPA/JNK/p300/p53	GADD45A	-t>
+response to radiation	TP53	component>
+TFIID/RPA/JNK/p300/p53	BAX	-t>
+response to radiation	p53/I-kappa-B-beta	component>
+TFIID/RPA/JNK/p300/p53	ABCB1	-t>
+TP53	MDM2	-t>
+TP53	TFIID/RPA/JNK/p300/p53	component>
+TFIID/RPA/JNK/p300	TFIID/RPA/JNK/p300/p53	component>
+response to radiation	TP53	-a>
+DNA damage	IGFBP3	-t>
+response to radiation	ATM	-a>
+DNA damage	CDKN1A	-t>
+HIF-1-alpha/ubiquitin	protein ubiquitination	-ap>
+ubiquitin/p53/E2/HIF-1-alpha	protein ubiquitination	-ap>
+ubiquitin	ubiquitin/p53/E2	component>
+UBE2A	ubiquitin/p53/E2	component>
+TP53	ubiquitin/p53/E2	component>
+response to hypoxia	p53/mSin3A	-a>
+HIC1	NFKBIB	-a>
+HIC1	p53/mSin3A	-a>
+p53/I-kappa-B-beta	NFKBIB	-a>
+p53/I-kappa-B-beta	p53/mSin3A	-a>
+AKT1	MDM2	-a>
+HIF1A	ubiquitin/p53/E2/HIF-1-alpha	component>
+ubiquitin/p53/E2	ubiquitin/p53/E2/HIF-1-alpha	component>
+response to hypoxia	AKT1	-a>
+DNA damage	FHL2	-t>
+DNA damage	GADD45A	-t>
+p53/I-kappa-B-beta	TP53	component>
+DNA damage	BAX	-t>
+NFKBIB	p53/I-kappa-B-beta	component>
+TP53	p53/I-kappa-B-beta	component>
+DNA damage	ABCB1	-t>
+ubiquitin/p53	protein ubiquitination	-ap>
+ubiquitin/p53/E2	protein ubiquitination	-ap>
+response to radiation	MDM2	-t>

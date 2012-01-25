@@ -1,0 +1,7 @@
+complex	NS1 Homodimer:PKR Complex
+complex	NS1 Homodimer
+complex	NS1:Viral dsRNA Complex
+protein	EIF2AK2
+NS1 Homodimer	NS1:Viral dsRNA Complex	-a>
+NS1 Homodimer	NS1 Homodimer:PKR Complex	component>
+EIF2AK2	NS1 Homodimer:PKR Complex	component>

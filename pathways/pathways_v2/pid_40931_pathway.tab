@@ -1,0 +1,38 @@
+complex	GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex
+complex	PACAP:PACAP type 1 receptor
+complex	GHRH receptor:GHRH
+complex	GLPR2:GLP2
+protein	VIP receptor
+complex	VIP receptor:VIP
+complex	Gastric inhibitory polypeptide receptor:Gastric inhibitory polypeptide
+protein	UniProt:P47871 GCGR_subunit_26_477_26-477
+complex	Glucagon:GCGR
+complex	Secretin receptor:secretin
+complex	GLP-1R: Heterotrimeric G(s): GDP Complex
+protein	VIP
+protein	SCTR
+protein	SCT
+protein	GLP2R
+protein	GIPR
+protein	GIP
+protein	GHRHR
+protein	GHRH
+protein	GCG
+protein	ADCYAP1R1
+protein	ADCYAP1
+ADCYAP1	PACAP:PACAP type 1 receptor	component>
+ADCYAP1R1	PACAP:PACAP type 1 receptor	component>
+VIP	VIP receptor:VIP	component>
+VIP receptor	VIP receptor:VIP	component>
+GHRH	GHRH receptor:GHRH	component>
+GHRHR	GHRH receptor:GHRH	component>
+SCTR	Secretin receptor:secretin	component>
+SCT	Secretin receptor:secretin	component>
+GLP2R	GLPR2:GLP2	component>
+GCG	GLPR2:GLP2	component>
+GLP-1R: Heterotrimeric G(s): GDP Complex	GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex	component>
+GCG	GLP-1: GLP-1R: Heterotrimeric G(s): GDP Complex	component>
+GCG	Glucagon:GCGR	component>
+UniProt:P47871 GCGR_subunit_26_477_26-477	Glucagon:GCGR	component>
+GIPR	Gastric inhibitory polypeptide receptor:Gastric inhibitory polypeptide	component>
+GIP	Gastric inhibitory polypeptide receptor:Gastric inhibitory polypeptide	component>

@@ -1,0 +1,10 @@
+smallMolecule	CoA
+smallMolecule	sn-Gro-1-P
+smallMolecule	Fatty acyl CoA
+smallMolecule	Lysophosphatidic acid
+protein	GPAM
+GPAM	Lysophosphatidic acid	-a>
+Fatty acyl CoA	CoA	-a>
+Fatty acyl CoA	Lysophosphatidic acid	-a>
+sn-Gro-1-P	CoA	-a>
+sn-Gro-1-P	Lysophosphatidic acid	-a>

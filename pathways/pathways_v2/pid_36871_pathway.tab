@@ -1,0 +1,90 @@
+abstract	myoblast fusion
+abstract	substrate adhesion-dependent cell spreading
+abstract	actin filament bundle formation
+abstract	epithelial cell
+abstract	fibronectin binding
+abstract	ruffle organization
+abstract	tube morphogenesis
+abstract	Tumor Cell Invasion
+abstract	regulation of epithelial cell migration
+abstract	cortical actin cytoskeleton organization
+abstract	regulation of calcium-dependent cell-cell adhesion
+abstract	liver development
+abstract	lamellipodium assembly
+abstract	regulation of axonogenesis
+complex	ARF1/GTP
+complex	ARF6/GTP
+smallMolecule	Phosphatidylcholine
+complex	ARF1/GDP
+protein	ERK1-2-active
+complex	ARF6/GDP
+protein	ERK1-2
+complex	ARF6/GTP/RAB11FIP3/RAB11A
+complex	RhoA/GDP
+protein	PLD1-2
+complex	RAC1/GDP
+complex	RAB11FIP3/RAB11A
+complex	ARF6/GTP/NME1/Tiam1
+complex	PAK1
+smallMolecule	GM1
+smallMolecule	Phosphatidic acid
+complex	RhoA/GTP
+smallMolecule	Choline
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TIAM1
+protein	PLAUR
+protein	PIP5K1A
+protein	NME1
+protein	KALRN
+KALRN	PAK1	-a>
+ARF6/GTP	PAK1	-a>
+Phosphatidic acid	PIP5K1A	-a>
+ERK1-2-active	PLAUR	-t>
+PLAUR	PAK1	-a>
+ARF6/GTP	ARF1/GTP	-a>
+ARF6/GTP	ERK1-2-active	-a>
+PLD1-2	Phosphatidic acid	-a>
+ARF6/GTP	RAC1/GDP	-a>
+ARF6/GTP	GM1	-a>
+ARF6/GTP/NME1/Tiam1	PAK1	-a|
+ARF6/GTP	RhoA/GDP	-a>
+PAK1	cortical actin cytoskeleton organization	-ap>
+ARF6/GDP	myoblast fusion	-ap|
+ARF6/GTP	PIP5K1A	-a>
+epithelial cell	PLAUR	-t>
+ARF6/GTP	substrate adhesion-dependent cell spreading	-ap>
+PAK1	lamellipodium assembly	-ap>
+GTP	ARF1/GTP	-a>
+ARF1/GDP	GDP	-a>
+ARF1/GDP	ARF1/GTP	-a>
+GM1	PAK1	-a>
+ERK1-2	ERK1-2-active	-a>
+RhoA/GDP	actin filament bundle formation	-ap|
+Phosphatidylcholine	Choline	-a>
+Phosphatidylcholine	Phosphatidic acid	-a>
+ARF6/GDP	KALRN	-a>
+epithelial cell	RAC1/GDP	-a>
+TIAM1	ARF6/GTP/NME1/Tiam1	component>
+NME1	ARF6/GTP/NME1/Tiam1	component>
+ARF6/GTP	ARF6/GTP/NME1/Tiam1	component>
+fibronectin binding	GM1	-a>
+ARF6/GTP	PLD1-2	-a>
+ERK1-2-active	Tumor Cell Invasion	-ap>
+PIP5K1A	ruffle organization	-ap>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+RAB11FIP3/RAB11A	ARF6/GTP/RAB11FIP3/RAB11A	component>
+ARF6/GTP	ARF6/GTP/RAB11FIP3/RAB11A	component>
+PAK1	tube morphogenesis	-ap>
+GDP	GTP	-a>
+GDP	RhoA/GDP	-a>
+RhoA/GTP	GTP	-a>
+RhoA/GTP	RhoA/GDP	-a>
+ARF6/GTP	regulation of epithelial cell migration	-ap>
+ARF6/GTP	cortical actin cytoskeleton organization	-ap>
+ARF6/GTP/NME1/Tiam1	regulation of calcium-dependent cell-cell adhesion	-ap|
+ARF6/GTP	liver development	-ap>
+PIP5K1A	regulation of axonogenesis	-ap|

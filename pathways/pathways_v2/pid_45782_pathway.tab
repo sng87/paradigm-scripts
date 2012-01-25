@@ -1,0 +1,35 @@
+complex	CamKIV/CaM/Ca ++
+complex	CaMKK/CaM/Ca ++
+protein	CaMKK
+complex	CaMKI/CaM/Ca ++
+complex	CaM/Ca ++
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++
+complex	CAMKII (8)
+protein	CaM
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++
+protein	CaMKI
+smallMolecule	Ca2+
+protein	CREB1
+protein	CAMK4
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+CaMKI/CaM/Ca ++	CREB1	-a>
+CAMKII (8)	CREB1	-a>
+CaM/Ca ++	CamKIV/CaM/Ca ++	component>
+CAMK4	CamKIV/CaM/Ca ++	component>
+CaMKK/CaM/Ca ++	CaMKI/CaM/Ca ++	-a>
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII (8)	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+CamKIV/CaM/Ca ++	CREB1	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CREB1	-a>
+CaM/Ca ++	CaMKK/CaM/Ca ++	component>
+CaMKK	CaMKK/CaM/Ca ++	component>
+CamKIV/CaM/Ca ++	CamKIV/CaM/Ca ++	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CAMKII (8)	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CaM/Ca ++	component>
+CaMKI	CaMKI/CaM/Ca ++	component>
+CaM/Ca ++	CaMKI/CaM/Ca ++	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+CaMKK/CaM/Ca ++	CamKIV/CaM/Ca ++	-a>

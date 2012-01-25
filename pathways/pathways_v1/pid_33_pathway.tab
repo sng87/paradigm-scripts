@@ -1,0 +1,66 @@
+protein	LNPEP
+protein	STXBP4
+protein	TRIP10
+protein	STX4
+protein	PRKCZ
+protein	YWHAH
+protein	YWHAZ
+protein	VAMP2
+protein	YWHAE
+protein	CALM1
+protein	YWHAG
+protein	GSK3B
+protein	ASIP
+protein	PRKCI
+protein	SFN
+protein	YWHAB
+protein	AKT2
+protein	AKT1
+protein	YWHAQ
+protein	RHOQ
+protein	SLC2A4
+protein	GYS1
+protein	TBC1D4
+complex	TC10/GTP/CIP4/Exocyst
+complex	SNARE/Synip
+complex	Insulin responsive Vesicles
+complex	CaM/Ca2+
+complex	AS160/CaM/Ca2+
+complex	AS160/14-3-3
+chemical	mol:glucose
+chemical	mol:GTP
+chemical	mol:Ca2+
+mol:GTP	TC10/GTP/CIP4/Exocyst	component>
+mol:Ca2+	CaM/Ca2+	component>
+mol:Ca2+	AS160/CaM/Ca2+	component>
+LNPEP	Insulin responsive Vesicles	component>
+STXBP4	SNARE/Synip	component>
+TRIP10	TC10/GTP/CIP4/Exocyst	component>
+STX4	SNARE/Synip	component>
+PRKCZ	SLC2A4	-a>
+YWHAH	AS160/14-3-3	component>
+YWHAZ	AS160/14-3-3	component>
+VAMP2	SNARE/Synip	component>
+VAMP2	Insulin responsive Vesicles	component>
+YWHAE	AS160/14-3-3	component>
+CALM1	CaM/Ca2+	component>
+CALM1	AS160/CaM/Ca2+	component>
+YWHAG	AS160/14-3-3	component>
+GSK3B	GYS1	-a>
+ASIP	SLC2A4	-a|
+PRKCI	SLC2A4	-a>
+SFN	AS160/14-3-3	component>
+YWHAB	AS160/14-3-3	component>
+AKT2	GSK3B	-a>
+AKT1	GSK3B	-a>
+AKT1	TBC1D4	-a>
+YWHAQ	AS160/14-3-3	component>
+RHOQ	TC10/GTP/CIP4/Exocyst	component>
+SLC2A4	mol:glucose	-a>
+SLC2A4	Insulin responsive Vesicles	component>
+TBC1D4	SLC2A4	-a|
+TBC1D4	AS160/14-3-3	component>
+TC10/GTP/CIP4/Exocyst	SLC2A4	-a>
+SNARE/Synip	SLC2A4	-a>
+AS160/CaM/Ca2+	SLC2A4	-a>
+AS160/14-3-3	SLC2A4	-a>

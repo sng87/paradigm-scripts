@@ -1,0 +1,18 @@
+complex	STAT3/STAT3 (Ser727)
+complex	STAT3/STAT3
+protein	Stat3 activating cytokines
+complex	Stat3 activating cytokines/cytokine receptor/JAKs/TYK2
+complex	Cytokine receptor/JAKs/TYK2
+protein	STAT3
+protein	MAPK3
+protein	MAPK1
+protein	FRAP1
+FRAP1	STAT3/STAT3 (Ser727)	-a>
+MAPK1	STAT3/STAT3 (Ser727)	-a>
+MAPK3	STAT3/STAT3 (Ser727)	-a>
+Cytokine receptor/JAKs/TYK2	Stat3 activating cytokines/cytokine receptor/JAKs/TYK2	component>
+Stat3 activating cytokines	Stat3 activating cytokines/cytokine receptor/JAKs/TYK2	component>
+Stat3 activating cytokines/cytokine receptor/JAKs/TYK2	STAT3	-a>
+STAT3	STAT3/STAT3	component>
+STAT3/STAT3	STAT3/STAT3	-a>
+STAT3/STAT3	STAT3/STAT3 (Ser727)	-a>

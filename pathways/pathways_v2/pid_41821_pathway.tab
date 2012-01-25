@@ -1,0 +1,17 @@
+smallMolecule	S-Adenosylhomocysteine
+smallMolecule	Acylcarnitine
+smallMolecule	H2O
+complex	MAOA-FAD complex
+smallMolecule	NH3
+smallMolecule	O2
+smallMolecule	Dopamine
+smallMolecule	H2O2
+protein	COMT
+MAOA-FAD complex	H2O2	-a>
+COMT	S-Adenosylhomocysteine	-a>
+O2	NH3	-a>
+O2	H2O2	-a>
+H2O	NH3	-a>
+H2O	H2O2	-a>
+Dopamine	S-Adenosylhomocysteine	-a>
+Acylcarnitine	S-Adenosylhomocysteine	-a>

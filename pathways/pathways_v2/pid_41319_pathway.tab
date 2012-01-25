@@ -1,0 +1,40 @@
+complex	PAK homodimer
+complex	Cdc42-GTP
+complex	pVav1:PIP3:Grb2:CD28
+complex	RAC:GDP
+complex	PAK bound to Rac1 and Cdc42
+complex	Cdc42-GDP
+complex	Vav1 bound to PIP3 and Grb2:CD28
+protein	PAK
+complex	phospho CD28:B7-1/B7-2
+complex	RAC:GTP
+complex	CD28:Grb2
+protein	UniProt:P62993-1 GRB2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV1
+protein	FYN
+pVav1:PIP3:Grb2:CD28	GDP	-a>
+pVav1:PIP3:Grb2:CD28	RAC:GTP	-a>
+FYN	ADP	-a>
+phospho CD28:B7-1/B7-2	CD28:Grb2	component>
+UniProt:P62993-1 GRB2	CD28:Grb2	component>
+PAK homodimer	PAK	component>
+PAK homodimer	PAK bound to Rac1 and Cdc42	component>
+Cdc42-GDP	Cdc42-GTP	-a>
+Cdc42-GDP	GDP	-a>
+GTP	Cdc42-GTP	-a>
+RAC:GDP	GDP	-a>
+RAC:GDP	RAC:GTP	-a>
+GTP	GDP	-a>
+GTP	RAC:GTP	-a>
+CD28:Grb2	Vav1 bound to PIP3 and Grb2:CD28	component>
+PIP3	Vav1 bound to PIP3 and Grb2:CD28	component>
+VAV1	Vav1 bound to PIP3 and Grb2:CD28	component>
+ATP	pVav1:PIP3:Grb2:CD28	-a>
+ATP	ADP	-a>
+Vav1 bound to PIP3 and Grb2:CD28	pVav1:PIP3:Grb2:CD28	-a>
+Vav1 bound to PIP3 and Grb2:CD28	ADP	-a>

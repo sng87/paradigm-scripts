@@ -1,0 +1,55 @@
+abstract	growth factor activity
+abstract	response to stress
+smallMolecule	phosphoethanolamine
+complex	G12/G13
+complex	S1P/S1P2/G12/G13
+complex	S1P1/S1P
+protein	SPHK
+complex	S1P/S1P4/Gi
+smallMolecule	Hexadecenal
+smallMolecule	Sphinganine
+smallMolecule	Sphinganine-1-P
+smallMolecule	pyridoxal 5-prime phosphate
+protein	S1P1
+complex	S1P/S1P5/G12
+smallMolecule	sphingosine
+complex	S1P/S1P3/Gq
+protein	Gq family
+smallMolecule	S1P
+protein	Gi family
+protein	SGPP1
+protein	SGPL1
+protein	S1PR5
+protein	S1PR4
+protein	S1PR3
+protein	S1PR2
+protein	GNA12
+protein	ABCC1
+pyridoxal 5-prime phosphate	Hexadecenal	-a>
+SGPL1	Hexadecenal	-a>
+response to stress	Hexadecenal	-a>
+SPHK	S1P	-a>
+growth factor activity	S1P	-a>
+SPHK	Sphinganine-1-P	-a>
+SGPP1	sphingosine	-a>
+Gi family	S1P/S1P4/Gi	component>
+S1P	S1P/S1P4/Gi	component>
+S1PR4	S1P/S1P4/Gi	component>
+S1P	phosphoethanolamine	-a>
+S1P	Hexadecenal	-a>
+Gq family	S1P/S1P3/Gq	component>
+S1P	S1P/S1P3/Gq	component>
+S1PR3	S1P/S1P3/Gq	component>
+S1P1	S1P1/S1P	component>
+S1P	S1P1/S1P	component>
+sphingosine	S1P	-a>
+S1P	S1P/S1P2/G12/G13	component>
+G12/G13	S1P/S1P2/G12/G13	component>
+S1PR2	S1P/S1P2/G12/G13	component>
+GNA12	S1P/S1P5/G12	component>
+S1P	S1P/S1P5/G12	component>
+S1PR5	S1P/S1P5/G12	component>
+Sphinganine-1-P	sphingosine	-a>
+Sphinganine	Sphinganine-1-P	-a>
+S1P	sphingosine	-a>
+ABCC1	S1P	-a>

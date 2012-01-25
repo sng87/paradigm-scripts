@@ -1,0 +1,50 @@
+complex	active caspase-7
+protein	UniProt:Q9HAW4 CLSPN_subunit_1_1072_1-1072
+protein	UniProt:Q05655 PRKCD_subunit_1_676_1-676
+protein	UniProt:Q05655 PRKCD_subunit_330_676_330-676
+protein	UniProt:Q05655 PRKCD_subunit_1_329_1-329
+protein	APC fragment (1-777)
+complex	Caspase-8 dimer
+protein	APC fragment (778-2843)
+protein	UniProt:Q9HAW4 CLSPN_subunit_1073_1332_1073-1332
+complex	active caspase-3
+protein	UniProt:Q9HAW4 CLSPN
+protein	STK24
+protein	ROCK1
+protein	PTK2
+protein	PRKCQ
+protein	MST4
+protein	FNTA
+protein	BMX
+protein	BIRC2
+protein	BCAP31
+protein	APC
+protein	ACIN1
+active caspase-3	ACIN1	-a>
+active caspase-3	MST4	-a>
+active caspase-3	PRKCQ	-a>
+active caspase-3	BIRC2	-a>
+active caspase-3	BMX	-a>
+active caspase-3	UniProt:Q05655 PRKCD_subunit_1_329_1-329	-a>
+active caspase-3	APC fragment (778-2843)	-a>
+active caspase-7	UniProt:Q9HAW4 CLSPN_subunit_1_1072_1-1072	-a>
+active caspase-7	PTK2	-a>
+Caspase-8 dimer	BCAP31	-a>
+active caspase-3	FNTA	-a>
+active caspase-3	ROCK1	-a>
+ACIN1	ACIN1	-a>
+MST4	MST4	-a>
+PRKCQ	PRKCQ	-a>
+BIRC2	BIRC2	-a>
+BMX	BMX	-a>
+UniProt:Q05655 PRKCD_subunit_1_676_1-676	UniProt:Q05655 PRKCD_subunit_330_676_330-676	-a>
+UniProt:Q05655 PRKCD_subunit_1_676_1-676	UniProt:Q05655 PRKCD_subunit_1_329_1-329	-a>
+APC	APC fragment (1-777)	-a>
+APC	APC fragment (778-2843)	-a>
+UniProt:Q9HAW4 CLSPN	UniProt:Q9HAW4 CLSPN_subunit_1073_1332_1073-1332	-a>
+UniProt:Q9HAW4 CLSPN	UniProt:Q9HAW4 CLSPN_subunit_1_1072_1-1072	-a>
+PTK2	PTK2	-a>
+STK24	STK24	-a>
+BCAP31	BCAP31	-a>
+FNTA	FNTA	-a>
+ROCK1	ROCK1	-a>

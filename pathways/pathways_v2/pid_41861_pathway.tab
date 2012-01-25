@@ -1,0 +1,27 @@
+complex	LPS bound to the signal-competent TLR4 complex
+complex	RIP1:TRIF:TRAM:activated TLR4
+complex	TRIF:TRAM:activated TLR4
+complex	TRAM:activated TLR4
+complex	IRF3-P:IRF3-P
+smallMolecule	ATP
+smallMolecule	ADP
+protein	TICAM2
+protein	TICAM1
+protein	TBK1
+protein	RIPK1
+protein	IRF3
+TRIF:TRAM:activated TLR4	ADP	-a>
+TBK1	ADP	-a>
+IRF3	IRF3-P:IRF3-P	component>
+ATP	IRF3	-a>
+ATP	ADP	-a>
+IRF3	IRF3	-a>
+IRF3	ADP	-a>
+RIP1:TRIF:TRAM:activated TLR4	RIPK1	component>
+RIP1:TRIF:TRAM:activated TLR4	TRIF:TRAM:activated TLR4	component>
+TRAM:activated TLR4	TRIF:TRAM:activated TLR4	component>
+TICAM1	TRIF:TRAM:activated TLR4	component>
+RIPK1	RIP1:TRIF:TRAM:activated TLR4	component>
+TRIF:TRAM:activated TLR4	RIP1:TRIF:TRAM:activated TLR4	component>
+TICAM2	TRAM:activated TLR4	component>
+LPS bound to the signal-competent TLR4 complex	TRAM:activated TLR4	component>

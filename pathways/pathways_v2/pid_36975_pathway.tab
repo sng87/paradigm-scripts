@@ -1,0 +1,199 @@
+abstract	regulation of nitric oxide biosynthetic process
+abstract	regulation of translation
+abstract	ganglioside biosynthetic process
+abstract	negative transcription elongation factor activity
+abstract	tumor necrosis factor receptor activity
+abstract	response to heat
+abstract	response to hydrogen peroxide
+abstract	response to radiation
+abstract	cell survival
+abstract	negative regulation of cell cycle
+abstract	response to UV
+abstract	response to oxidative stress
+abstract	cell proliferation
+abstract	MAPKKK cascade
+abstract	apoptosis
+complex	PKC zeta/PAR4
+complex	PKC zeta/ceramide
+complex	RelA/NF kappa B1
+complex	Cathepsin D/ceramide
+smallMolecule	GW4869
+smallMolecule	Free Fatty acid
+complex	PP2A Heterotrimer
+smallMolecule	Sphingosine-1-phosphate
+smallMolecule	OKADAIC ACID
+complex	NF kappa B1/RelA/I kappa B alpha
+smallMolecule	GD3
+smallMolecule	C11AG
+protein	IKKs
+complex	FADD/Caspase 8
+smallMolecule	sphingomyelin
+complex	ERK1/PKC delta
+protein	KSR
+complex	TNFR1A/BAG4/TNF-alpha
+smallMolecule	ceramide
+protein	MEKK1
+complex	TNF-alpha/TNFR1A/FAN
+smallMolecule	glutathione
+protein	Acid Sphingomyelinase
+complex	TNFR1A/BAG4
+smallMolecule	PHOSPHOCHOLINE
+smallMolecule	sphingosine
+protein	PKC delta
+complex	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD
+protein	TRAF2
+protein	TRADD
+protein	TNFRSF1A
+protein	TNF
+protein	SPHK2
+protein	SMPD3
+protein	RIPK1
+protein	RB1
+protein	RAF1
+protein	PRKRA
+protein	PRKCZ
+protein	PDGFA
+protein	PAWR
+protein	NSMAF
+protein	NFKBIA
+protein	MYC
+protein	MAPK8
+protein	MAPK3
+protein	MAPK1
+protein	MAP4K4
+protein	MAP2K4
+protein	MAP2K2
+protein	MAP2K1
+protein	MADD
+protein	IGF1
+protein	FADD
+protein	EIF2AK2
+protein	EIF2A
+protein	EGF
+protein	CYCS
+protein	CTSD
+protein	CRADD
+protein	CASP8
+protein	BIRC3
+protein	BID
+protein	BCL2
+protein	BAX
+protein	BAG4
+protein	BAD
+protein	ASAH1
+protein	AKT1
+protein	AIFM1
+GD3	BAX	-a>
+PDGFA	sphingosine	-a>
+ASAH1	sphingosine	-a>
+OKADAIC ACID	PP2A Heterotrimer	-a|
+ceramide	PP2A Heterotrimer	-a>
+SPHK2	Sphingosine-1-phosphate	-a>
+ceramide	ganglioside biosynthetic process	-ap>
+MAP2K2	MAPK3	-a>
+PP2A Heterotrimer	MYC	-t|
+TNF-alpha/TNFR1A/FAN	Acid Sphingomyelinase	-a>
+C11AG	ceramide	-a|
+GW4869	ceramide	-a|
+Sphingosine-1-phosphate	ceramide	-a|
+SMPD3	ceramide	-a>
+glutathione	SMPD3	-a|
+TNF-alpha/TNFR1A/FAN	SMPD3	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	SMPD3	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	CASP8	component>
+PKC zeta/ceramide	MAPK8	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	BID	-a>
+EGF	ceramide	-a|
+Acid Sphingomyelinase	ceramide	-a>
+PKC zeta/PAR4	NF kappa B1/RelA/I kappa B alpha	-a|
+IKKs	NF kappa B1/RelA/I kappa B alpha	-a>
+ceramide	ERK1/PKC delta	component>
+IGF1	ERK1/PKC delta	component>
+ceramide	BAX	-a>
+ceramide	Free Fatty acid	-a>
+ceramide	sphingosine	-a>
+BAX	AIFM1	-a>
+RIPK1	BAG4	component>
+RIPK1	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+MADD	BAG4	component>
+MADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+BIRC3	BAG4	component>
+BIRC3	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+TRAF2	BAG4	component>
+TRAF2	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+TRADD	BAG4	component>
+TRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+CRADD	BAG4	component>
+CRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+TNFR1A/BAG4/TNF-alpha	BAG4	component>
+TNFR1A/BAG4/TNF-alpha	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	component>
+BAD	AIFM1	-a>
+PRKRA	EIF2AK2	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+ceramide	PRKRA	-a>
+RelA/NF kappa B1	regulation of nitric oxide biosynthetic process	-ap>
+BAX	CYCS	-a>
+ceramide	BAD	-a>
+BCL2	CYCS	-a|
+tumor necrosis factor receptor activity	PP2A Heterotrimer	-a>
+EIF2A	regulation of translation	-ap>
+sphingosine	Sphingosine-1-phosphate	-a>
+GD3	ganglioside biosynthetic process	-ap>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+KSR	RAF1	-a>
+response to UV	Acid Sphingomyelinase	-a>
+negative transcription elongation factor activity	MYC	-t>
+ceramide	KSR	-a>
+MAP4K4	IKKs	-a>
+PDGFA	SPHK2	-a>
+BCL2	AIFM1	-a|
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	Acid Sphingomyelinase	-a>
+EIF2AK2	EIF2A	-a>
+response to radiation	Acid Sphingomyelinase	-a>
+sphingomyelin	PHOSPHOCHOLINE	-a>
+RB1	negative regulation of cell cycle	-ap>
+PP2A Heterotrimer	BCL2	-a>
+ceramide	Cathepsin D/ceramide	component>
+CTSD	Cathepsin D/ceramide	component>
+response to heat	Acid Sphingomyelinase	-a>
+ceramide	MEKK1	-a>
+response to oxidative stress	SMPD3	-a>
+MEKK1	MAP2K4	-a>
+FADD/Caspase 8	FADD	component>
+FADD/Caspase 8	CASP8	component>
+PKC zeta/ceramide	cell survival	-ap>
+ceramide	RB1	-a>
+sphingosine	apoptosis	-ap>
+BCL2	apoptosis	-ap>
+response to hydrogen peroxide	Acid Sphingomyelinase	-a>
+RelA/NF kappa B1	CASP8	-a>
+MAP2K4	MAPK8	-a>
+NF kappa B1/RelA/I kappa B alpha	NFKBIA	component>
+NF kappa B1/RelA/I kappa B alpha	RelA/NF kappa B1	component>
+PAWR	PKC zeta/PAR4	component>
+PAWR	PKC zeta/ceramide	component>
+ceramide	PKC zeta/PAR4	component>
+ceramide	PKC zeta/ceramide	component>
+PRKCZ	PKC zeta/PAR4	component>
+PRKCZ	PKC zeta/ceramide	component>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD	MAP4K4	-a>
+Cathepsin D/ceramide	BID	-a>
+sphingosine	MAPKKK cascade	-ap>
+PKC zeta/ceramide	AKT1	-a|
+NSMAF	TNF-alpha/TNFR1A/FAN	component>
+TNFRSF1A	TNF-alpha/TNFR1A/FAN	component>
+TNF	TNF-alpha/TNFR1A/FAN	component>
+sphingomyelin	ceramide	-a>
+NF kappa B1/RelA/I kappa B alpha	NF kappa B1/RelA/I kappa B alpha	-a>
+PKC delta	ERK1/PKC delta	component>
+MAPK3	ERK1/PKC delta	component>
+BAD	CYCS	-a>
+TNF	TNFR1A/BAG4/TNF-alpha	component>
+TNFR1A/BAG4	TNFR1A/BAG4/TNF-alpha	component>
+ERK1/PKC delta	cell proliferation	-ap>

@@ -1,0 +1,27 @@
+protein	FBXW11
+protein	MAP3K14
+protein	RELB
+protein	NFKB2
+protein	NFKB1
+protein	CHUK
+complex	beta TrCP1/SCF ubiquitin ligase complex
+complex	NF kappa B2 p52/RelB
+complex	NF kappa B2 p100/RelB
+complex	NF kappa B1 p50/RelB
+complex	IKK alpha homodimer
+abstract	regulation of B cell activation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+proteasomal ubiquitin-dependent protein catabolic process	NF kappa B2 p52/RelB	-ap>
+beta TrCP1/SCF ubiquitin ligase complex	NF kappa B2 p100/RelB	-a>
+FBXW11	beta TrCP1/SCF ubiquitin ligase complex	component>
+MAP3K14	NF kappa B2 p100/RelB	-a>
+MAP3K14	IKK alpha homodimer	-a>
+RELB	NF kappa B2 p52/RelB	component>
+RELB	NF kappa B2 p100/RelB	component>
+RELB	NF kappa B1 p50/RelB	component>
+NFKB2	NF kappa B2 p52/RelB	component>
+NFKB2	NF kappa B2 p100/RelB	component>
+NFKB1	NF kappa B1 p50/RelB	component>
+CHUK	IKK alpha homodimer	component>
+NF kappa B2 p52/RelB	regulation of B cell activation	-ap>
+IKK alpha homodimer	NF kappa B2 p100/RelB	-a>

@@ -1,0 +1,9 @@
+complex	Nuclear Pore Complex (NPC)
+complex	Vpr:importin-alpha complex
+complex	PIC anchored to the NPC
+complex	IN bound to sticky 3' ends of viral DNA in PIC
+protein	KPNA1
+IN bound to sticky 3' ends of viral DNA in PIC	PIC anchored to the NPC	component>
+Nuclear Pore Complex (NPC)	PIC anchored to the NPC	component>
+IN bound to sticky 3' ends of viral DNA in PIC	Vpr:importin-alpha complex	component>
+KPNA1	Vpr:importin-alpha complex	component>

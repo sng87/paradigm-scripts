@@ -1,0 +1,19 @@
+complex	BiP:unfolded protein complex
+complex	IRE1 homodimer
+complex	IRE1 homodimer (phosphorylated)
+complex	IRE1:BiP Complex
+protein	UniProt:P17861-2 XBP1
+complex	IRE1 homodimer (phosphorylated):ADP
+smallMolecule	ATP
+smallMolecule	ADP
+protein	ERN1
+ADP	IRE1 homodimer (phosphorylated):ADP	-a>
+IRE1 homodimer (phosphorylated)	IRE1 homodimer (phosphorylated):ADP	-a>
+IRE1 homodimer	IRE1 homodimer (phosphorylated)	-a>
+IRE1 homodimer	ADP	-a>
+ATP	IRE1 homodimer (phosphorylated)	-a>
+ATP	ADP	-a>
+ERN1	IRE1 homodimer	component>
+UniProt:P17861-2 XBP1	UniProt:P17861-2 XBP1	-a>
+IRE1:BiP Complex	ERN1	component>
+IRE1:BiP Complex	BiP:unfolded protein complex	component>

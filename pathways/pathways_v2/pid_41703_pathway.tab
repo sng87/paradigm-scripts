@@ -1,0 +1,70 @@
+smallMolecule	Rattex
+smallMolecule	Aflatoxin B1exo-8,9-epoxide-GSH
+smallMolecule	CYTOXAN (TN)
+smallMolecule	Aflatoxin B1
+protein	UniProt:P10635 CYP2D6
+smallMolecule	TPNH
+smallMolecule	Loperamide
+smallMolecule	H2O
+protein	UniProt:P24903 CYP2F1
+smallMolecule	TPN
+smallMolecule	TAXOL (TN)
+smallMolecule	Ethylene oxide
+smallMolecule	Skatole
+smallMolecule	7-Hydroxycoumarin
+smallMolecule	Ethylene
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	testosterone
+protein	CYP3A5
+protein	CYP2C9
+protein	CYP2C19
+protein	CYP2C18
+protein	CYP2B6
+protein	CYP2A6
+protein	CYP2A13
+protein	CYP1A1
+CYP2C19	H2O	-a>
+CYP2C9	TPN	-a>
+CYP2A6	TPN	-a>
+UniProt:P10635 CYP2D6	TPN	-a>
+UniProt:P24903 CYP2F1	H2O	-a>
+CYP3A5	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+CYP1A1	Ethylene oxide	-a>
+CYP2B6	TPN	-a>
+CYP2C18	TPN	-a>
+CYP2A13	7-Hydroxycoumarin	-a>
+Skatole	TPN	-a>
+Skatole	H2O	-a>
+Loperamide	TPN	-a>
+Loperamide	H2O	-a>
+H+	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+O2	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+TPNH	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+Aflatoxin B1	H2O	-a>
+Aflatoxin B1	TPN	-a>
+Aflatoxin B1	Aflatoxin B1exo-8,9-epoxide-GSH	-a>
+Ethylene	H2O	-a>
+Ethylene	TPN	-a>
+Ethylene	Ethylene oxide	-a>
+H+	Ethylene oxide	-a>
+TPNH	Ethylene oxide	-a>
+O2	Ethylene oxide	-a>
+TAXOL (TN)	H2O	-a>
+TAXOL (TN)	TPN	-a>
+testosterone	TPN	-a>
+testosterone	H2O	-a>
+CYTOXAN (TN)	H2O	-a>
+CYTOXAN (TN)	TPN	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+TPNH	7-Hydroxycoumarin	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+O2	7-Hydroxycoumarin	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+H+	7-Hydroxycoumarin	-a>
+Rattex	H2O	-a>
+Rattex	TPN	-a>
+Rattex	7-Hydroxycoumarin	-a>

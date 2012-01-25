@@ -1,0 +1,55 @@
+protein	CASP7_0-0
+protein	CASP3_0-0
+protein	tBID_0-0
+protein	CASP6_0-0
+complex	BAX/BCL-2/BCL-XL
+protein	Apoptotic Caspase Substrates (cleaved)_0-0
+protein	Apoptotic Caspase Substrates
+abstract	response to radiation
+abstract	response to DNA damage stimulus
+abstract	apoptosis
+complex	APAF-1/Caspase 9
+protein	TP53
+protein	CYCS
+protein	CASP7
+protein	CASP6
+protein	CASP3
+protein	BID
+protein	BCL2L1
+protein	BCL2
+protein	BAX
+protein	BAD
+protein	ATM
+protein	AKT1
+APAF-1/Caspase 9	CASP7_0-0	-a>
+CASP3_0-0	Apoptotic Caspase Substrates (cleaved)_0-0	-a>
+APAF-1/Caspase 9	CASP3_0-0	-a>
+CASP6_0-0	Apoptotic Caspase Substrates (cleaved)_0-0	-a>
+CASP7_0-0	Apoptotic Caspase Substrates (cleaved)_0-0	-a>
+response to radiation	tBID_0-0	-a>
+APAF-1/Caspase 9	CASP6_0-0	-a>
+BCL2	CYCS	-a|
+CASP7	CASP7_0-0	-a>
+BCL2L1	BAX/BCL-2/BCL-XL	component>
+BCL2	BAX/BCL-2/BCL-XL	component>
+BAX	BAX/BCL-2/BCL-XL	component>
+BAX	BAX	-a>
+AKT1	BAD	-a>
+CASP3_0-0	apoptosis	-ap>
+response to radiation	response to DNA damage stimulus	-ap>
+CASP3	CASP3_0-0	-a>
+BCL2L1	CYCS	-a|
+ATM	TP53	-a>
+TP53	BAX	-t>
+CYCS	APAF-1/Caspase 9	-a>
+BAD	CYCS	-a>
+BAX	CYCS	-a>
+Apoptotic Caspase Substrates	Apoptotic Caspase Substrates (cleaved)_0-0	-a>
+CASP6_0-0	apoptosis	-ap>
+Apoptotic Caspase Substrates (cleaved)_0-0	apoptosis	-ap>
+BID	tBID_0-0	-a>
+tBID_0-0	BAX	-a>
+CASP7_0-0	apoptosis	-ap>
+response to DNA damage stimulus	ATM	-a>
+AKT1	APAF-1/Caspase 9	-a>
+CASP6	CASP6_0-0	-a>

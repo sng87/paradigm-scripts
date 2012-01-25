@@ -1,0 +1,19 @@
+complex	PACAP:PACAP type 1 receptor
+complex	Adenosine:Adenosine A2a receptor
+protein	Intracellular Trk receptor
+smallMolecule	adenosine
+protein	Intracellular Phosphorylated Trk receptor
+protein	ADORA2A
+protein	ADCYAP1R1
+protein	ADCYAP1
+Intracellular Trk receptor	Adenosine:Adenosine A2a receptor	component>
+adenosine	Intracellular Phosphorylated Trk receptor	component>
+adenosine	Adenosine:Adenosine A2a receptor	component>
+ADORA2A	Intracellular Phosphorylated Trk receptor	component>
+ADORA2A	Adenosine:Adenosine A2a receptor	component>
+ADCYAP1	PACAP:PACAP type 1 receptor	component>
+ADCYAP1	Intracellular Phosphorylated Trk receptor	component>
+Intracellular Trk receptor	PACAP:PACAP type 1 receptor	component>
+Intracellular Trk receptor	Intracellular Phosphorylated Trk receptor	component>
+ADCYAP1R1	PACAP:PACAP type 1 receptor	component>
+ADCYAP1R1	Intracellular Phosphorylated Trk receptor	component>

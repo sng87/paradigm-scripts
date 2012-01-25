@@ -1,0 +1,172 @@
+abstract	tube development
+abstract	activation of MAPKK activity
+abstract	neurite development
+abstract	lamellipodium assembly
+abstract	JNK cascade
+abstract	MAPKKK cascade
+complex	RET51/GFRalpha1/GDNF/DOK/RasGAP/NCK
+complex	RET51/GFRalpha1/GDNF/FRS2
+complex	RET51/GFRalpha1/GDNF/GRB10
+complex	RET9/GFRalpha1/GDNF/Shank3
+complex	RET9/GFRalpha1/GDNF/SHC/Grb2/SOS1
+complex	RET9/GFRalpha1/GDNF/FRS2/SHP2/Grb2
+complex	RET9/GFRalpha1/GDNF
+protein	ERK1-2-active
+complex	RET51/GFRalpha1/GDNF/Dok6
+protein	ERK1-2
+complex	RET51/GFRalpha1/GDNF/SHC/GAB1/Grb2
+complex	RET51/GFRalpha1/GDNF/Dok5
+complex	RET51/GFRalpha1/GDNF/Grb7
+complex	RAC1/GDP
+complex	RET9/GFRalpha1/GDNF/SHC/GAB1/Grb2
+complex	GFRalpha1/GDNF
+complex	RAP1A/GDP
+complex	RET9/GFRalpha1/GDNF/Enigma
+complex	RET51/GFRalpha1/GDNF
+complex	HRAS/GDP
+complex	HRAS/GTP
+complex	RET51/GFRalpha1/GDNF/PKC alpha
+complex	PAK1
+complex	RET9/GFRalpha1/GDNF/FRS2
+complex	RET9/GFRalpha1/GDNF/Shank3/Grb2
+complex	RAP1A/GTP
+complex	RET51/GFRalpha1/GDNF/SHC/Grb2/SOS1
+complex	RET51/GFRalpha1/GDNF/IRS1
+complex	RET9/GFRalpha1/GDNF/IRS1
+complex	RET51/GFRalpha1/GDNF/SHC
+complex	PI3K
+protein	RET9
+complex	RET9/GFRalpha1/GDNF/SHC
+complex	RET51/GFRalpha1/GDNF/Dok4
+complex	RET51/GFRalpha1/GDNF/FRS2/SHP2/Grb2
+protein	FAK
+complex	RET51/GFRalpha1/GDNF/DOK1
+complex	Crk/p130 Cas/Paxillin
+protein	SHP2
+protein	SRC
+protein	SOS1
+protein	SHC1
+protein	SHANK3
+protein	RHOA
+protein	RET
+protein	RASA1
+protein	PRKCA
+protein	PRKACA
+protein	PDLIM7
+protein	NCK1
+protein	MAPK8
+protein	JUN
+protein	IRS2
+protein	IRS1
+protein	GRB7
+protein	GRB2
+protein	GRB10
+protein	GAB1
+protein	FRS2
+protein	DOK6
+protein	DOK5
+protein	DOK4
+protein	DOK1
+protein	CREB1
+RHOA	FAK	-a>
+PI3K	Crk/p130 Cas/Paxillin	-a>
+RET51/GFRalpha1/GDNF	Crk/p130 Cas/Paxillin	-a>
+SRC	RET51/GFRalpha1/GDNF/Dok6	component>
+PRKACA	RET51/GFRalpha1/GDNF	-a>
+RET51/GFRalpha1/GDNF/DOK/RasGAP/NCK	HRAS/GTP	-a|
+RET51/GFRalpha1/GDNF/DOK1	HRAS/GTP	-a>
+PI3K	PAK1	-a>
+RET51/GFRalpha1/GDNF/Dok4	RAP1A/GTP	-a>
+RAP1A/GTP	ERK1-2-active	-a>
+IRS2	PI3K	-a>
+RET51/GFRalpha1/GDNF	FAK	-a>
+RET9/GFRalpha1/GDNF/SHC/Grb2/SOS1	CREB1	-a>
+DOK5	RET51/GFRalpha1/GDNF/Dok5	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/Dok5	component>
+SOS1	RET51/GFRalpha1/GDNF/SHC/Grb2/SOS1	component>
+GRB2	RET51/GFRalpha1/GDNF/SHC/Grb2/SOS1	component>
+RET51/GFRalpha1/GDNF/SHC	RET51/GFRalpha1/GDNF/SHC/Grb2/SOS1	component>
+SOS1	RET9/GFRalpha1/GDNF/SHC/Grb2/SOS1	component>
+GRB2	RET9/GFRalpha1/GDNF/SHC/Grb2/SOS1	component>
+RET9/GFRalpha1/GDNF/SHC	RET9/GFRalpha1/GDNF/SHC/Grb2/SOS1	component>
+MAPK8	JUN	-a>
+GRB2	RET51/GFRalpha1/GDNF/SHC/GAB1/Grb2	component>
+GAB1	RET51/GFRalpha1/GDNF/SHC/GAB1/Grb2	component>
+RET51/GFRalpha1/GDNF/SHC	RET51/GFRalpha1/GDNF/SHC/GAB1/Grb2	component>
+HRAS/GTP	MAPKKK cascade	-ap>
+NCK1	RET51/GFRalpha1/GDNF/DOK/RasGAP/NCK	component>
+RASA1	RET51/GFRalpha1/GDNF/DOK/RasGAP/NCK	component>
+RET51/GFRalpha1/GDNF/DOK1	RET51/GFRalpha1/GDNF/DOK/RasGAP/NCK	component>
+IRS1	RET51/GFRalpha1/GDNF/IRS1	component>
+IRS1	RET51/GFRalpha1/GDNF/SHC	component>
+SHC1	RET51/GFRalpha1/GDNF/IRS1	component>
+SHC1	RET51/GFRalpha1/GDNF/SHC	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/IRS1	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/SHC	component>
+Crk/p130 Cas/Paxillin	Crk/p130 Cas/Paxillin	-a>
+RET9/GFRalpha1/GDNF	RET9/GFRalpha1/GDNF	-a>
+IRS1	RET9/GFRalpha1/GDNF/IRS1	component>
+IRS1	RET9/GFRalpha1/GDNF/SHC	component>
+SHC1	RET9/GFRalpha1/GDNF/IRS1	component>
+SHC1	RET9/GFRalpha1/GDNF/SHC	component>
+RET9/GFRalpha1/GDNF	RET9/GFRalpha1/GDNF/IRS1	component>
+RET9/GFRalpha1/GDNF	RET9/GFRalpha1/GDNF/SHC	component>
+GRB2	RET51/GFRalpha1/GDNF/FRS2/SHP2/Grb2	component>
+SHP2	RET51/GFRalpha1/GDNF/FRS2/SHP2/Grb2	component>
+RET51/GFRalpha1/GDNF/FRS2	RET51/GFRalpha1/GDNF/FRS2/SHP2/Grb2	component>
+RET51/GFRalpha1/GDNF/IRS1	PI3K	-a>
+PRKCA	RET51/GFRalpha1/GDNF/PKC alpha	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/PKC alpha	component>
+GFRalpha1/GDNF	RET9/GFRalpha1/GDNF	component>
+RET9	RET9/GFRalpha1/GDNF	component>
+RET51/GFRalpha1/GDNF/SHC/GAB1/Grb2	PI3K	-a>
+GRB2	RET9/GFRalpha1/GDNF/Shank3/Grb2	component>
+RET9/GFRalpha1/GDNF/Shank3	RET9/GFRalpha1/GDNF/Shank3/Grb2	component>
+JUN	JNK cascade	-ap>
+RET51/GFRalpha1/GDNF/SHC/Grb2/SOS1	CREB1	-a>
+GFRalpha1/GDNF	RET51/GFRalpha1/GDNF	component>
+RET	RET51/GFRalpha1/GDNF	component>
+GRB7	RET51/GFRalpha1/GDNF/GRB10	component>
+GRB7	RET51/GFRalpha1/GDNF/Grb7	component>
+GRB10	RET51/GFRalpha1/GDNF/GRB10	component>
+GRB10	RET51/GFRalpha1/GDNF/Grb7	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/GRB10	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/Grb7	component>
+RET9/GFRalpha1/GDNF/Shank3	tube development	-ap>
+RET9/GFRalpha1/GDNF/FRS2/SHP2/Grb2	activation of MAPKK activity	-ap>
+GRB2	RET9/GFRalpha1/GDNF/SHC/GAB1/Grb2	component>
+GAB1	RET9/GFRalpha1/GDNF/SHC/GAB1/Grb2	component>
+RET9/GFRalpha1/GDNF/SHC	RET9/GFRalpha1/GDNF/SHC/GAB1/Grb2	component>
+RET9/GFRalpha1/GDNF/Shank3/Grb2	tube development	-ap>
+FRS2	RET51/GFRalpha1/GDNF/FRS2	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/FRS2	component>
+DOK6	RET51/GFRalpha1/GDNF/Dok6	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/Dok6	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF	-a>
+RET51/GFRalpha1/GDNF/Dok6	neurite development	-ap>
+GRB2	RET9/GFRalpha1/GDNF/FRS2/SHP2/Grb2	component>
+SHP2	RET9/GFRalpha1/GDNF/FRS2/SHP2/Grb2	component>
+RET9/GFRalpha1/GDNF/FRS2	RET9/GFRalpha1/GDNF/FRS2/SHP2/Grb2	component>
+HRAS/GDP	HRAS/GTP	-a>
+FRS2	RET9/GFRalpha1/GDNF/FRS2	component>
+RET9/GFRalpha1/GDNF	RET9/GFRalpha1/GDNF/FRS2	component>
+RAC1/GDP	PAK1	-a>
+RET9/GFRalpha1/GDNF/Shank3/Grb2	MAPKKK cascade	-ap>
+RAP1A/GDP	RAP1A/GTP	-a>
+ERK1-2	ERK1-2-active	-a>
+RET51/GFRalpha1/GDNF/DOK/RasGAP/NCK	MAPK8	-a>
+RET51/GFRalpha1/GDNF/FRS2/SHP2/Grb2	activation of MAPKK activity	-ap>
+ERK1-2-active	neurite development	-ap>
+RET9/GFRalpha1/GDNF/Shank3/Grb2	PI3K	-a>
+DOK4	RET51/GFRalpha1/GDNF/Dok4	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/Dok4	component>
+RET9/GFRalpha1/GDNF/IRS1	PI3K	-a>
+PDLIM7	RET9/GFRalpha1/GDNF/Enigma	component>
+RET9/GFRalpha1/GDNF	RET9/GFRalpha1/GDNF/Enigma	component>
+RET51/GFRalpha1/GDNF	PI3K	-a>
+PAK1	lamellipodium assembly	-ap>
+RET9/GFRalpha1/GDNF/SHC/GAB1/Grb2	PI3K	-a>
+SHANK3	RET9/GFRalpha1/GDNF/Shank3	component>
+RET9/GFRalpha1/GDNF	RET9/GFRalpha1/GDNF/Shank3	component>
+DOK1	RET51/GFRalpha1/GDNF/DOK1	component>
+RET51/GFRalpha1/GDNF	RET51/GFRalpha1/GDNF/DOK1	component>

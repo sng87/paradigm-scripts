@@ -1,0 +1,105 @@
+abstract	regulation of S phase of mitotic cell cycle
+abstract	response to nutrient levels
+abstract	induction of apoptosis
+abstract	response to UV
+abstract	response to hypoxia
+abstract	cell motility
+abstract	muscle cell differentiation
+abstract	apoptosis
+complex	SIRT1/PGC1A
+complex	p53/SIRT1
+complex	RNA Pol I/SIRT7
+complex	KU70/SIRT1/BAX
+complex	Tubulin/SIRT2
+complex	Tubulin
+complex	SIRT1/MEF2D/HDAC4
+protein	Histone H3
+complex	SIRT1/FOXO3a
+complex	KU70/SIRT1
+complex	HIV-1 Tat/SIRT1
+complex	SIRT1/Histone H1b
+complex	SIRT1/FOXO4
+protein	HIV-1 Tat
+complex	RNA Pol I
+complex	SIRT2/HOXA10
+protein	p300
+complex	SIRT1/p300
+smallMolecule	Lysophosphatidic acid
+complex	FOXO1/FHL2/SIRT1
+complex	SIRT1/PCAF/MYOD
+protein	MYOD
+protein	Cbp/p300
+protein	XRCC6
+protein	TP53
+protein	SIRT7
+protein	SIRT3
+protein	SIRT2
+protein	SIRT1
+protein	PPARGC1A
+protein	MEF2D
+protein	KAT2B
+protein	HOXA10
+protein	HIST2H4A
+protein	HIST1H1E
+protein	HDAC4
+protein	FOXO4
+protein	FOXO3
+protein	FOXO1
+protein	FHL2
+protein	CDKN1A
+protein	BAX
+protein	ACSS2
+protein	ACSS1
+Lysophosphatidic acid	FOXO1/FHL2/SIRT1	component>
+Cbp/p300	FOXO4	-a>
+p300	FOXO3	-a|
+SIRT1/p300	FOXO3	-a|
+Cbp/p300	HIST1H1E	-a>
+response to nutrient levels	SIRT1/PGC1A	component>
+p53/SIRT1	CDKN1A	-t|
+SIRT1	SIRT1/FOXO4	component>
+FOXO4	SIRT1/FOXO4	component>
+SIRT1	SIRT1/p300	component>
+p300	SIRT1/p300	component>
+HIST1H1E	SIRT1/Histone H1b	component>
+SIRT1	SIRT1/Histone H1b	component>
+KAT2B	MYOD	-a>
+SIRT1	FOXO1/FHL2/SIRT1	component>
+FHL2	FOXO1/FHL2/SIRT1	component>
+FOXO1	FOXO1/FHL2/SIRT1	component>
+KU70/SIRT1/BAX	apoptosis	-ap|
+response to hypoxia	FOXO4	-a>
+HOXA10	SIRT2/HOXA10	component>
+SIRT2	SIRT2/HOXA10	component>
+SIRT1	KU70/SIRT1	component>
+XRCC6	KU70/SIRT1	component>
+RNA Pol I	RNA Pol I/SIRT7	component>
+SIRT7	RNA Pol I/SIRT7	component>
+response to UV	FOXO3	-a>
+SIRT1	ACSS2	-a>
+response to hypoxia	HIST1H1E	-a>
+SIRT1	SIRT1/FOXO3a	component>
+FOXO3	SIRT1/FOXO3a	component>
+SIRT1	Histone H3	-a>
+SIRT1	HIV-1 Tat/SIRT1	component>
+HIV-1 Tat	HIV-1 Tat/SIRT1	component>
+HIST2H4A	regulation of S phase of mitotic cell cycle	-ap|
+PPARGC1A	SIRT1/PGC1A	component>
+SIRT1	SIRT1/PGC1A	component>
+SIRT1	p53/SIRT1	component>
+TP53	p53/SIRT1	component>
+SIRT1	HIST2H4A	-a>
+induction of apoptosis	CDKN1A	-t>
+Tubulin/SIRT2	cell motility	-ap>
+MYOD	SIRT1/PCAF/MYOD	component>
+SIRT1	SIRT1/PCAF/MYOD	component>
+KAT2B	SIRT1/PCAF/MYOD	component>
+HDAC4	SIRT1/MEF2D/HDAC4	component>
+MEF2D	SIRT1/MEF2D/HDAC4	component>
+SIRT1	SIRT1/MEF2D/HDAC4	component>
+SIRT3	ACSS1	-a>
+SIRT2	Tubulin/SIRT2	component>
+Tubulin	Tubulin/SIRT2	component>
+BAX	KU70/SIRT1/BAX	component>
+KU70/SIRT1	KU70/SIRT1/BAX	component>
+SIRT1/PCAF/MYOD	muscle cell differentiation	-ap|

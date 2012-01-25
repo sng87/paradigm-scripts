@@ -1,0 +1,138 @@
+abstract	antigen processing and presentation of peptide antigen via MHC class II
+abstract	antigen processing and presentation of peptide antigen via MHC class I
+abstract	Antibacterial Response
+abstract	Immunoregulation
+abstract	Antiviral Response
+abstract	negative regulation of cell growth
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	apoptosis
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	Rap1/GTP
+complex	CEBPB/PTGES2/Cbp/p300
+complex	CRKL/C3G
+complex	CBL/CRKL/C3G
+complex	IFN-gammaR/JAK1/JAK1/JAK2/JAK2
+protein	ERK1-2-active
+complex	STAT3 (dimer)
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TCPTP
+complex	RAP1/GDP
+protein	ERK1-2
+protein	IL1 beta fragment
+complex	STAT1 (dimer)/SHP2
+complex	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1
+complex	STAT1 (dimer)/PIASy
+complex	STAT1 (dimer)/PIAS1
+complex	Caspase 1 (tetramer)
+protein	TCPTP p45
+complex	STAT1 (dimer)
+complex	CaM/Ca2+
+smallMolecule	PI-3-4-5-P3
+protein	MEKK1
+complex	STAT1 (dimer)/Cbp/p300
+protein	CAMKII family
+complex	CaM/Ca2+/CAMKII
+complex	IFN-gamma (dimer)
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+protein	PKC delta
+protein	SHP2
+smallMolecule	GDP
+protein	Cbp/p300
+smallMolecule	GTP
+protein	STAT1
+protein	SOCS1
+protein	SMAD7
+protein	PTGES2
+protein	PIAS4
+protein	PIAS1
+protein	MAP3K11
+protein	MAP2K1
+protein	IRF9
+protein	IRF1
+protein	IL1B
+protein	FRAP1
+protein	DAPK1
+protein	CEBPB
+protein	CBL
+protein	CASP1
+protein	CALM1
+protein	AKT1
+SHP2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+PI3K	PI-3-4-5-P3	-a>
+Caspase 1 (tetramer)	IL1 beta fragment	-a>
+CBL/CRKL/C3G	Rap1/GTP	-a>
+CaM/Ca2+/CAMKII	STAT1 (dimer)	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	CaM/Ca2+/CAMKII	component>
+STAT1 (dimer)/PIAS1	Antibacterial Response	-ap|
+STAT1 (dimer)/PIASy	SOCS1	-t|
+STAT1 (dimer)/PIAS1	Antiviral Response	-ap|
+STAT1 (dimer)/Cbp/p300	IRF1	-t>
+MAP3K11	CEBPB	-a>
+STAT3 (dimer)	apoptosis	-ap|
+PI-3-4-5-P3	AKT1	-a>
+STAT1 (dimer)	ERK1-2-active	-a>
+MAP2K1	ERK1-2-active	-a>
+TCPTP p45	STAT1 (dimer)	-a>
+PKC delta	STAT1 (dimer)	-a>
+STAT1 (dimer)	CASP1	-t>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	PI3K	-a>
+CASP1	Caspase 1 (tetramer)	component>
+PIAS4	STAT1 (dimer)/PIASy	component>
+STAT1 (dimer)	STAT1 (dimer)/PIASy	component>
+IFN-gammaR/JAK1/JAK1/JAK2/JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+IFN-gamma (dimer)	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	component>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	Ca2+	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+IL1B	IL1 beta fragment	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	STAT1	-a>
+TCPTP p45	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TCPTP	component>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2  /TCPTP	component>
+GTP	GDP	-a>
+GTP	Rap1/GTP	-a>
+RAP1/GDP	GDP	-a>
+RAP1/GDP	Rap1/GTP	-a>
+PIAS1	STAT1 (dimer)/PIAS1	component>
+STAT1 (dimer)	STAT1 (dimer)/PIAS1	component>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	MEKK1	-a>
+STAT1	STAT1 (dimer)	component>
+SOCS1	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	component>
+CALM1	CaM/Ca2+	component>
+Ca2+	CaM/Ca2+	component>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	MAP3K11	-a>
+STAT1 (dimer)	antigen processing and presentation of peptide antigen via MHC class II	-ap>
+DAPK1	apoptosis	-ap>
+CAMKII family	CaM/Ca2+/CAMKII	component>
+CaM/Ca2+	CaM/Ca2+/CAMKII	component>
+STAT1 (dimer)	antigen processing and presentation of peptide antigen via MHC class I	-ap>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2/SOCS1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+CEBPB/PTGES2/Cbp/p300	IRF9	-t>
+Cbp/p300	STAT1 (dimer)/Cbp/p300	component>
+STAT1 (dimer)	STAT1 (dimer)/Cbp/p300	component>
+STAT1 (dimer)	Antibacterial Response	-ap>
+IRF1	SOCS1	-t>
+SHP2	STAT1 (dimer)/SHP2	component>
+STAT1 (dimer)	STAT1 (dimer)/SHP2	component>
+STAT1 (dimer)	Immunoregulation	-ap>
+STAT1 (dimer)	negative regulation of cell growth	-ap>
+Cbp/p300	CEBPB/PTGES2/Cbp/p300	component>
+PTGES2	CEBPB/PTGES2/Cbp/p300	component>
+CEBPB	CEBPB/PTGES2/Cbp/p300	component>
+STAT1 (dimer)	Antiviral Response	-ap>
+positive regulation of NF-kappaB transcription factor activity	IRF1	-t>
+CEBPB	DAPK1	-t>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	SHP2	-a>
+ERK1-2-active	CEBPB	-a>
+STAT1 (dimer)	apoptosis	-ap>
+MEKK1	MAP2K1	-a>
+AKT1	FRAP1	-a>
+STAT1 (dimer)	SMAD7	-t>
+CRKL/C3G	CBL/CRKL/C3G	component>
+CBL	CBL/CRKL/C3G	component>
+PI3K	PKC delta	-a>
+IFN-gamma/IFN-gammaR/JAK1/JAK1/JAK2/JAK2	CBL	-a>
+PI3K	AKT1	-a>
+ERK1-2	ERK1-2-active	-a>
+STAT1 (dimer)	STAT1 (dimer)	-a>

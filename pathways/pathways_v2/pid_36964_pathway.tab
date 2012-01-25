@@ -1,0 +1,188 @@
+abstract	blood circulation
+abstract	focal adhesion formation
+abstract	tube development
+abstract	negative regulation of caspase activity
+abstract	chemokinesis
+abstract	negative regulation of cell cycle
+abstract	response to hypoxia
+abstract	vasculogenesis
+abstract	cell migration
+abstract	cell proliferation
+abstract	MAPKKK cascade
+smallMolecule	O2
+complex	Tie2/Ang1/GRB14
+complex	Angiotensin II/AT1
+smallMolecule	Phosphatidylcholine
+complex	alpha5/beta1 Integrin
+protein	NERF2
+complex	Rac/GDP
+protein	Ang1-4
+protein	ERK1-2-active
+complex	NCK1/Dok-R
+smallMolecule	L-arginine
+protein	ERK1-2
+complex	Tie2/Ang1/ABIN2
+complex	Crk/Dok-R
+smallMolecule	L-citrulline
+smallMolecule	NADPH
+complex	NF kappa B/RelA
+smallMolecule	beta2-estradiol
+complex	RasGAP/Dok-R
+complex	Tie2/Ang1/Shc
+complex	STAT5A (dimer)
+complex	PAK1
+smallMolecule	ROS
+protein	ABIN2
+protein	STAT5
+smallMolecule	NO
+complex	Tie2/Ang1/alpha5/beta1 Integrin
+protein	eNOS
+smallMolecule	NADP
+smallMolecule	Phosphatidic acid
+complex	Tie2/Ang1
+complex	Tie2/Ang1/GRB2
+protein	Fibronectin
+complex	PI3K
+complex	Tie2/SHP2
+complex	Tie2/Ang1/GRB7
+protein	FAK
+complex	NCK1/PAK1/Dok-R
+protein	SHP2
+protein	Tie2
+complex	Tie2/Ang2
+smallMolecule	Choline
+protein	TNF
+protein	SHC1
+protein	RPS6KB1
+protein	RASA1
+protein	PXN
+protein	PLG
+protein	PLD2
+protein	PAK1
+protein	NCK1
+protein	MMP2
+protein	MAPK8
+protein	MAPK14
+protein	GRB7
+protein	GRB2
+protein	GRB14
+protein	FYN
+protein	FOXO1
+protein	FGF2
+protein	FES
+protein	F2
+protein	ETS1
+protein	ELK1
+protein	ELF1
+protein	DOK2
+protein	CRK
+protein	CDKN1A
+protein	BMX
+protein	ANGPT2
+protein	ANGPT1
+protein	AKT1
+Tie2/Ang2	STAT5A (dimer)	component>
+Tie2/Ang1	NCK1/Dok-R	component>
+blood circulation	Tie2/SHP2	component>
+PAK1	NCK1/PAK1/Dok-R	component>
+ROS	NCK1/PAK1/Dok-R	component>
+eNOS	L-citrulline	-a>
+Fibronectin	Tie2/Ang1/alpha5/beta1 Integrin	component>
+PI3K	PAK1	-a>
+beta2-estradiol	ANGPT1	-t|
+F2	ANGPT1	-t|
+ETS1	ANGPT1	-t>
+TNF	ANGPT1	-t>
+PLD2	ERK1-2-active	-a>
+Tie2/Ang1/Shc	PI3K	-a>
+PLD2	Phosphatidic acid	-a>
+Tie2/Ang1	Crk/Dok-R	component>
+ELF1	Tie2	-t>
+Tie2/Ang1	RasGAP/Dok-R	component>
+Ang1-4	ANGPT2	-t|
+F2	ANGPT2	-t|
+FOXO1	ANGPT2	-t>
+ETS1	ANGPT2	-t>
+FGF2	ANGPT2	-t>
+Angiotensin II/AT1	ANGPT2	-t>
+Tie2/Ang2	CDKN1A	-t>
+AKT1	FOXO1	-a>
+Tie2/Ang1	Tie2/Ang1	-a>
+Tie2/Ang1/alpha5/beta1 Integrin	cell migration	-ap>
+STAT5	STAT5A (dimer)	component>
+NCK1	NCK1/Dok-R	component>
+DOK2	NCK1/Dok-R	component>
+NO	vasculogenesis	-ap>
+ERK1-2-active	cell proliferation	-ap>
+RPS6KB1	cell proliferation	-ap>
+Tie2/Ang1	FES	-a>
+PLD2	MAPKKK cascade	-ap>
+CDKN1A	negative regulation of cell cycle	-ap>
+SHP2	Tie2/SHP2	component>
+Tie2	Tie2/SHP2	component>
+Tie2/Ang1	MAPK8	-a>
+PAK1	NCK1/PAK1/Dok-R	component>
+NCK1/Dok-R	NCK1/PAK1/Dok-R	component>
+FES	PI3K	-a>
+ANGPT1	Tie2/Ang1	component>
+Tie2	Tie2/Ang1	component>
+PI3K	RPS6KB1	-a>
+GRB2	Tie2/Ang1/GRB2	component>
+Tie2/Ang1	Tie2/Ang1/GRB2	component>
+ANGPT2	Tie2/Ang2	component>
+Tie2	Tie2/Ang2	component>
+FAK	PXN	-a>
+O2	NADP	-a>
+O2	NO	-a>
+O2	L-citrulline	-a>
+NADPH	NADP	-a>
+NADPH	NO	-a>
+NADPH	L-citrulline	-a>
+L-arginine	NADP	-a>
+L-arginine	NO	-a>
+L-arginine	L-citrulline	-a>
+FYN	tube development	-ap>
+Tie2/Ang1	PLD2	-a>
+alpha5/beta1 Integrin	Tie2/Ang1/alpha5/beta1 Integrin	component>
+Tie2/Ang1	Tie2/Ang1/alpha5/beta1 Integrin	component>
+Tie2/Ang1/Shc	chemokinesis	-ap>
+FAK	focal adhesion formation	-ap>
+PXN	focal adhesion formation	-ap>
+ERK1-2-active	ELK1	-a>
+Tie2/Ang2	MAPK14	-a>
+Tie2/Ang1	MMP2	-a>
+Tie2/Ang2	FYN	-a>
+Rac/GDP	PAK1	-a>
+GRB14	Tie2/Ang1/GRB14	component>
+Tie2/Ang1	Tie2/Ang1/GRB14	component>
+response to hypoxia	ANGPT1	-t>
+ERK1-2	ERK1-2-active	-a>
+SHC1	Tie2/Ang1/Shc	component>
+Tie2/Ang1	Tie2/Ang1/Shc	component>
+NCK1/PAK1/Dok-R	cell migration	-ap>
+PI3K	FAK	-a>
+Tie2/Ang2	PI3K	-a>
+Tie2/Ang1	PI3K	-a>
+Tie2/Ang1	NERF2	-t>
+ABIN2	Tie2/Ang1/ABIN2	component>
+Tie2/Ang1	Tie2/Ang1/ABIN2	component>
+AKT1	negative regulation of caspase activity	-ap>
+Phosphatidylcholine	Choline	-a>
+Phosphatidylcholine	Phosphatidic acid	-a>
+CRK	Crk/Dok-R	component>
+DOK2	Crk/Dok-R	component>
+NERF2	Tie2	-t>
+GRB7	Tie2/Ang1/GRB7	component>
+Tie2/Ang1	Tie2/Ang1/GRB7	component>
+AKT1	eNOS	-a>
+PAK1	chemokinesis	-ap>
+Tie2/Ang1	PLG	-a>
+PI3K	AKT1	-a>
+Tie2/Ang1	MAPK14	-a>
+Tie2/Ang1/ABIN2	NF kappa B/RelA	-a>
+RASA1	RasGAP/Dok-R	component>
+DOK2	RasGAP/Dok-R	component>
+response to hypoxia	ANGPT2	-t>
+STAT5A (dimer)	CDKN1A	-t>
+Tie2/Ang1	BMX	-a>
+Tie2/Ang2	FES	-a>

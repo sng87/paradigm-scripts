@@ -1,0 +1,24 @@
+complex	PELP1/CBP
+complex	Estrogen/ER alpha
+complex	Estrogen/ER alpha/PELP1
+complex	PELP1/p300
+complex	Estrogen/ER alpha/PELP1/SRC
+smallMolecule	estrogen
+abstract	cell proliferation
+protein	SRC
+protein	PELP1
+protein	ESR1
+protein	EP300
+protein	CREBBP
+SRC	Estrogen/ER alpha/PELP1/SRC	component>
+Estrogen/ER alpha/PELP1	Estrogen/ER alpha/PELP1/SRC	component>
+ESR1	Estrogen/ER alpha	component>
+estrogen	Estrogen/ER alpha	component>
+CREBBP	PELP1/CBP	component>
+PELP1	PELP1/CBP	component>
+PELP1	Estrogen/ER alpha/PELP1	component>
+Estrogen/ER alpha	Estrogen/ER alpha/PELP1	component>
+EP300	PELP1/p300	component>
+PELP1	PELP1/p300	component>
+PELP1	PELP1	-a>
+Estrogen/ER alpha/PELP1/SRC	cell proliferation	-ap>

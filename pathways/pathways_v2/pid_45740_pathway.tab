@@ -1,0 +1,58 @@
+smallMolecule	SB203580
+protein	MEF2
+protein	Histone H3
+protein	STAT1
+protein	RPS6KA5
+protein	RAC1
+protein	PLA2G1B
+protein	NR2C2
+protein	MYC
+protein	MKNK1
+protein	MAX
+protein	MAPKAPK5
+protein	MAPKAPK2
+protein	MAPK14
+protein	MAP3K9
+protein	MAP3K5
+protein	MAP3K1
+protein	MAP2K6
+protein	MAP2K4
+protein	HSPB1
+protein	HRAS
+protein	HMGN1
+protein	ELK1
+protein	DDIT3
+protein	CREB1
+protein	CDC42
+protein	ATF2
+MAPK14	ELK1	-a>
+MAP3K9	MAP2K6	-a>
+RPS6KA5	CREB1	-a>
+MAPKAPK2	MAPKAPK2	-a>
+SB203580	MAPK14	-a>
+MAPK14	STAT1	-a>
+MAPK14	MAPKAPK2	-a>
+MAPKAPK2	HSPB1	-a>
+RAC1	MAP3K9	-a>
+RAC1	MAP3K1	-a>
+MAPK14	ATF2	-a>
+MAPK14	MAPK14	-a>
+MAP2K6	MAPK14	-a>
+MAP3K5	MAP2K6	-a>
+CDC42	MAP3K9	-a>
+MAPKAPK5	HSPB1	-a>
+MAPK14	RPS6KA5	-a>
+NR2C2	MAP2K6	-a>
+MAP2K4	MAPK14	-a>
+MAP3K1	MAP2K4	-a>
+HRAS	RAC1	-a>
+MAPK14	MKNK1	-a>
+MAPK14	MEF2	-a>
+RPS6KA5	Histone H3	-a>
+MAPK14	MAPKAPK5	-a>
+MAP3K9	MAP2K4	-a>
+MAPK14	MYC	-a>
+MAPK14	MAX	-a>
+RPS6KA5	HMGN1	-a>
+MAPK14	PLA2G1B	-a>
+MAPK14	DDIT3	-a>

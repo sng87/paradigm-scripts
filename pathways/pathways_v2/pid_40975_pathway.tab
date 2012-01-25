@@ -1,0 +1,46 @@
+protein	UniProt:Q99558 MAP3K14
+complex	Akt:pCot:pNIK
+complex	PIP3:PDK1:AKT
+complex	CD28:PI3K
+complex	TORC2 complex
+smallMolecule	PIP2
+complex	PI3K alpha
+complex	Akt:pCot
+complex	phospho CD28:B7-1/B7-2
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	PIP3
+smallMolecule	GDP
+protein	TRIB3
+protein	THEM4
+protein	PDPK1
+protein	MAP3K8
+protein	AKT1
+TRIB3	ADP	-a|
+CD28:PI3K	ADP	-a>
+THEM4	ADP	-a|
+TORC2 complex	ADP	-a>
+ATP	GDP	component>
+ATP	Akt:pCot:pNIK	component>
+UniProt:Q99558 MAP3K14	GDP	component>
+UniProt:Q99558 MAP3K14	Akt:pCot:pNIK	component>
+Akt:pCot	GDP	component>
+Akt:pCot	Akt:pCot:pNIK	component>
+ATP	PIP3	-a>
+PIP2	PIP3	-a>
+PIP2	ADP	-a>
+PI3K alpha	CD28:PI3K	component>
+phospho CD28:B7-1/B7-2	CD28:PI3K	component>
+ATP	PIP3:PDK1:AKT	-a>
+ATP	ADP	-a>
+PIP3:PDK1:AKT	PIP3:PDK1:AKT	-a>
+PIP3:PDK1:AKT	ADP	-a>
+PIP3	PIP3:PDK1:AKT	component>
+PDPK1	PIP3:PDK1:AKT	component>
+AKT1	PIP3:PDK1:AKT	component>
+PIP3:PDK1:AKT	ADP	component>
+PIP3:PDK1:AKT	Akt:pCot	component>
+ATP	ADP	component>
+ATP	Akt:pCot	component>
+MAP3K8	ADP	component>
+MAP3K8	Akt:pCot	component>

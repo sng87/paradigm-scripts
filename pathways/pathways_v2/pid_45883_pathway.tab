@@ -1,0 +1,80 @@
+complex	SHC/GRB2/SOS-1
+complex	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK
+protein	CaM
+smallMolecule	PIP2
+abstract	re-entry into mitotic cell cycle
+smallMolecule	DAG
+complex	B-cell antigen/BCR complex
+protein	PKC
+complex	BCR complex
+complex	AP-1
+complex	Calcineurin
+protein	B-cell antigen
+protein	NFATc
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV1
+protein	SYK
+protein	RAF1
+protein	RAC1
+protein	PLCG1
+protein	MAPK8
+protein	MAPK3
+protein	MAPK14
+protein	MAP3K1
+protein	MAP2K1
+protein	LYN
+protein	JUN
+protein	HRAS
+protein	FOS
+protein	ELK1
+protein	CSNK2A1
+protein	BTK
+protein	BLNK
+PLCG1	DAG	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+CSNK2A1	JUN	-a|
+DAG	PKC	-a>
+VAV1	RAC1	-a>
+B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	PLCG1	-a>
+B-cell antigen	B-cell antigen/BCR complex	component>
+BCR complex	B-cell antigen/BCR complex	component>
+ELK1	FOS	-a>
+MAP2K1	MAPK3	-a>
+MAPK8	JUN	-a>
+BLNK	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+LYN	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+BTK	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+B-cell antigen/BCR complex	B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+RAC1	MAP3K1	-a>
+PKC	ELK1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+MAP3K1	MAPK8	-a>
+Ca2+	CaM	-a>
+ELK1	re-entry into mitotic cell cycle	-ap>
+Ca2+	Ca2+	-a>
+RAF1	MAP2K1	-a>
+MAPK3	JUN	-a>
+SYK	VAV1	-a>
+MAP3K1	MAPK14	-a>
+B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	SHC/GRB2/SOS-1	-a>
+NFATc	re-entry into mitotic cell cycle	-ap>
+CaM	Calcineurin	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+B-cell antigen/BCR/CD79A/CD79B/Btk/LYN/BLNK	SYK	-a>
+FOS	AP-1	component>
+JUN	AP-1	component>
+AP-1	re-entry into mitotic cell cycle	-ap>
+MAPK14	JUN	-a>
+NFATc	NFATc	-a>
+MAPK3	MAPK3	-a>
+Calcineurin	NFATc	-a>

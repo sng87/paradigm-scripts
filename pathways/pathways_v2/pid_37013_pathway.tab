@@ -1,0 +1,84 @@
+abstract	regulation of stress fiber formation
+abstract	regulation of focal adhesion formation
+abstract	neuron projection morphogenesis
+abstract	platelet activation
+abstract	cell-cell signaling
+abstract	angiogenesis
+abstract	endothelial cell proliferation
+abstract	endothelial cell migration
+abstract	chemotaxis
+abstract	cell adhesion
+complex	Ephrin B2/EPHB4
+complex	Ephrin B1/EPHB1-2
+protein	Src Family Kinases
+complex	alphaIIb/beta3 Integrin
+complex	Ephrin B1/EPHB1-2/Src Family Kinases
+complex	Ephrin B1/EPHB1-2/Tiam1
+complex	RAC1/GDP
+complex	Fibrinogen complex
+complex	PAK1
+protein	Src Family Kinases-active
+complex	Ephrin B1/EPHB1-2/NCK2
+complex	Ephrin B1/EPHB1-2/RGS3
+complex	PI3K
+protein	EPHB1-2
+complex	Ephrin B2/EPHB1-2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TIAM1
+protein	RGS3
+protein	PTPN13
+protein	NCK2
+protein	MAPK8
+protein	MAP3K7
+protein	MAP2K4
+protein	EPHB4
+protein	EFNB2
+protein	EFNB1
+protein	DNM1
+protein	CXCR4
+cell-cell signaling	Ephrin B1/EPHB1-2	component>
+cell-cell signaling	Ephrin B2/EPHB4	component>
+PI3K	cell adhesion	-ap>
+alphaIIb/beta3 Integrin	cell adhesion	-ap>
+platelet activation	cell adhesion	-ap>
+cell-cell signaling	Ephrin B2/EPHB1-2	component>
+Ephrin B1/EPHB1-2/Tiam1	PAK1	-a>
+PTPN13	Ephrin B1/EPHB1-2	component>
+Ephrin B1/EPHB1-2	Src Family Kinases-active	-a>
+Ephrin B1/EPHB1-2/RGS3	chemotaxis	-ap|
+Src Family Kinases-active	Ephrin B1/EPHB1-2	-a>
+EPHB1-2	Ephrin B1/EPHB1-2	component>
+EFNB1	Ephrin B1/EPHB1-2	component>
+NCK2	Ephrin B1/EPHB1-2/NCK2	component>
+Ephrin B1/EPHB1-2	Ephrin B1/EPHB1-2/NCK2	component>
+Ephrin B1/EPHB1-2	angiogenesis	-ap>
+EPHB4	Ephrin B2/EPHB4	component>
+EFNB2	Ephrin B2/EPHB4	component>
+DNM1	EFNB1	-a>
+Ephrin B2/EPHB4	endothelial cell migration	-ap>
+Ephrin B1/EPHB1-2/NCK2	regulation of stress fiber formation	-ap|
+PAK1	neuron projection morphogenesis	-ap>
+TIAM1	Ephrin B1/EPHB1-2/Tiam1	component>
+Ephrin B1/EPHB1-2	Ephrin B1/EPHB1-2/Tiam1	component>
+Ephrin B1/EPHB1-2/NCK2	regulation of focal adhesion formation	-ap|
+Ephrin B2/EPHB4	endothelial cell proliferation	-ap>
+RGS3	Ephrin B1/EPHB1-2/RGS3	component>
+Ephrin B1/EPHB1-2	Ephrin B1/EPHB1-2/RGS3	component>
+MAP2K4	MAPK8	-a>
+Fibrinogen complex	cell adhesion	-ap>
+EPHB1-2	Ephrin B2/EPHB1-2	component>
+EFNB2	Ephrin B2/EPHB1-2	component>
+MAP3K7	MAP2K4	-a>
+Ephrin B1/EPHB1-2	PI3K	-a>
+Ephrin B1/EPHB1-2	MAP3K7	-a>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+Ephrin B1/EPHB1-2/Src Family Kinases	Src Family Kinases	component>
+Ephrin B1/EPHB1-2/Src Family Kinases	Ephrin B1/EPHB1-2	component>
+Src Family Kinases	Src Family Kinases-active	-a>
+CXCR4	chemotaxis	-ap>
+Ephrin B1/EPHB1-2	Ephrin B1/EPHB1-2	-a>
+Ephrin B1/EPHB1-2	endothelial cell migration	-ap>

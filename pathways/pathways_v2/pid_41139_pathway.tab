@@ -1,0 +1,16 @@
+complex	active caspase-3
+protein	UniProt:P35222-1 CTNNB1_subunit_1_115_1-115
+protein	OCLN
+protein	DSG3
+protein	DSG2
+protein	DSG1
+protein	CDH1
+active caspase-3	DSG3	-a>
+active caspase-3	DSG1	-a>
+active caspase-3	UniProt:P35222-1 CTNNB1_subunit_1_115_1-115	-a>
+active caspase-3	CDH1	-a>
+DSG3	DSG3	-a>
+OCLN	OCLN	-a>
+active caspase-3	DSG2	-a>
+DSG1	DSG1	-a>
+CDH1	CDH1	-a>

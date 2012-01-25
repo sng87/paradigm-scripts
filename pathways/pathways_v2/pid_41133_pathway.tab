@@ -1,0 +1,45 @@
+smallMolecule	Vitamin C
+smallMolecule	4a-hydroxytetrahydrobiopterin
+complex	Dopamine beta-oxygenase homotetramer (PQQ, copper cofactors)
+smallMolecule	S-Adenosylhomocysteine
+complex	Dopa decarboxylase homodimer (pyridoxal phosphate cofactor)
+smallMolecule	Acylcarnitine
+smallMolecule	H2O
+smallMolecule	L-Adrenaline
+smallMolecule	CO2
+smallMolecule	L-Tyrosine
+complex	Tyrosine 3-monooxygenase (Fe2+ cofactor)
+smallMolecule	Arterenol
+smallMolecule	Dehydroascorbate
+smallMolecule	Tetrahydrobiopterin
+smallMolecule	L-Dopa
+smallMolecule	O2
+smallMolecule	Dopamine
+protein	PNMT
+Tyrosine 3-monooxygenase (Fe2+ cofactor)	L-Dopa	-a>
+PNMT	L-Adrenaline	-a>
+Dopa decarboxylase homodimer (pyridoxal phosphate cofactor)	CO2	-a>
+Dopamine beta-oxygenase homotetramer (PQQ, copper cofactors)	Arterenol	-a>
+L-Tyrosine	4a-hydroxytetrahydrobiopterin	-a>
+L-Tyrosine	L-Dopa	-a>
+Tetrahydrobiopterin	4a-hydroxytetrahydrobiopterin	-a>
+Tetrahydrobiopterin	L-Dopa	-a>
+O2	4a-hydroxytetrahydrobiopterin	-a>
+O2	L-Dopa	-a>
+Arterenol	S-Adenosylhomocysteine	-a>
+Arterenol	L-Adrenaline	-a>
+Acylcarnitine	S-Adenosylhomocysteine	-a>
+Acylcarnitine	L-Adrenaline	-a>
+Arterenol	Arterenol	-a>
+L-Dopa	Dopamine	-a>
+L-Dopa	CO2	-a>
+Dopamine	Dehydroascorbate	-a>
+Dopamine	H2O	-a>
+Dopamine	Arterenol	-a>
+Vitamin C	Dehydroascorbate	-a>
+Vitamin C	H2O	-a>
+Vitamin C	Arterenol	-a>
+O2	Dehydroascorbate	-a>
+O2	H2O	-a>
+O2	Arterenol	-a>
+Dopamine	Dopamine	-a>

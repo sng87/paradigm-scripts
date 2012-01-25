@@ -1,0 +1,33 @@
+complex	Nectin-4 cis homodimer
+complex	Nectin-2 cis homodimer
+complex	Nectin-3 cis homodimer
+complex	Necl-1:Necl-2 trans heterodimer
+complex	Nectin-3:Necl-2 trans heterodimer
+complex	Necl-1:Nectin-3 trans heterodimer
+complex	Nectin-1 cis homodimer
+complex	Nectin-2:Nectin-3 transheterodimer
+complex	Necl-5:Nectin-3 trans heterodimer
+complex	Nectin-1:Nectin-4 trans heterodimer
+complex	Necl-1:Nectin-1 trans heterodimer
+protein	UniProt:Q9NQS3-1 PVRL3_subunit_58_549_58-549
+protein	UniProt:Q15223-1 PVRL1_subunit_31_517_31-517
+complex	Nectin-1:Nectin-3 trans heterodimer
+protein	PVR
+protein	CADM3
+protein	CADM1
+PVR	Necl-5:Nectin-3 trans heterodimer	component>
+UniProt:Q9NQS3-1 PVRL3_subunit_58_549_58-549	Necl-5:Nectin-3 trans heterodimer	component>
+Nectin-2 cis homodimer	Nectin-2:Nectin-3 transheterodimer	component>
+Nectin-3 cis homodimer	Nectin-2:Nectin-3 transheterodimer	component>
+CADM3	Necl-1:Nectin-1 trans heterodimer	component>
+UniProt:Q15223-1 PVRL1_subunit_31_517_31-517	Necl-1:Nectin-1 trans heterodimer	component>
+Nectin-4 cis homodimer	Nectin-1:Nectin-4 trans heterodimer	component>
+Nectin-1 cis homodimer	Nectin-1:Nectin-4 trans heterodimer	component>
+Nectin-3 cis homodimer	Nectin-1:Nectin-3 trans heterodimer	component>
+Nectin-1 cis homodimer	Nectin-1:Nectin-3 trans heterodimer	component>
+CADM1	Necl-1:Necl-2 trans heterodimer	component>
+CADM3	Necl-1:Necl-2 trans heterodimer	component>
+UniProt:Q9NQS3-1 PVRL3_subunit_58_549_58-549	Nectin-3:Necl-2 trans heterodimer	component>
+CADM1	Nectin-3:Necl-2 trans heterodimer	component>
+UniProt:Q9NQS3-1 PVRL3_subunit_58_549_58-549	Necl-1:Nectin-3 trans heterodimer	component>
+CADM3	Necl-1:Nectin-3 trans heterodimer	component>

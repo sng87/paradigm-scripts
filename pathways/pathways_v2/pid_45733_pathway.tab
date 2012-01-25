@@ -1,0 +1,25 @@
+complex	CPSF/PAP/pre-mRNA
+rna	polyadenylated mRNA
+complex	CPSF/PAP/polyadenylated mRNA
+complex	CPSF/PAP/mRNA
+complex	CPSF/PAP
+rna	pre-mRNA
+complex	CstF
+abstract	mRNA polyadenylation
+abstract	translational initiation
+smallMolecule	ATP
+smallMolecule	ADP
+protein	PABPN1
+PABPN1	mRNA polyadenylation	-ap>
+CstF	CPSF/PAP/mRNA	-a>
+CPSF/PAP/polyadenylated mRNA	mRNA polyadenylation	-ap>
+ADP	mRNA polyadenylation	-ap>
+CPSF/PAP/mRNA	mRNA polyadenylation	-ap>
+ATP	mRNA polyadenylation	-ap>
+CPSF/PAP/pre-mRNA	CPSF/PAP/mRNA	-a>
+pre-mRNA	CPSF/PAP/pre-mRNA	-a>
+CPSF/PAP	CPSF/PAP/pre-mRNA	-a>
+polyadenylated mRNA	translational initiation	-ap>
+polyadenylated mRNA	polyadenylated mRNA	-a>
+CPSF/PAP/polyadenylated mRNA	polyadenylated mRNA	-a>
+CPSF/PAP/polyadenylated mRNA	CPSF/PAP	-a>

@@ -1,0 +1,67 @@
+complex	GPCR/AC/G-alpha-s
+complex	SHC/GRB2/SOS-1
+protein	ERK1/ERK2
+protein	GF R
+complex	GF/GF R
+protein	GF
+complex	CaM/Ca ++
+complex	PKA
+complex	CREB/CREB
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++
+complex	CAMKII (8)
+protein	CaM
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++
+protein	NT (neurotransmitter)
+complex	NT/GPCR/AC/G-alpha-s
+smallMolecule	PIP2
+smallMolecule	DAG
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	PKC
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RPS6KA1
+protein	PDPK1
+protein	MSK1
+protein	MAPK14
+protein	HRAS
+protein	AKT1
+PI3K	PIP3	-a>
+NT/GPCR/AC/G-alpha-s	cAMP	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+DAG	PKC	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+AKT1	CREB/CREB	-a>
+PKC	HRAS	-a>
+GF/GF R	PI3K	-a>
+GPCR/AC/G-alpha-s	NT/GPCR/AC/G-alpha-s	component>
+NT (neurotransmitter)	NT/GPCR/AC/G-alpha-s	component>
+PIP2	PIP3	-a>
+GF R	GF/GF R	component>
+GF	GF/GF R	component>
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII (8)	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+ERK1/ERK2	RPS6KA1	-a>
+ATP	cAMP	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+cAMP	PKA	-a>
+Ca2+	Ca2+	-a>
+GF/GF R	SHC/GRB2/SOS-1	-a>
+RPS6KA1	CREB/CREB	-a>
+PDPK1	AKT1	-a>
+Ca2+	PKC	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	-a>
+MAPK14	MSK1	-a>
+PKA	CREB/CREB	-a>
+PIP3	PDPK1	-a>
+MSK1	CREB/CREB	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CREB/CREB	-a>

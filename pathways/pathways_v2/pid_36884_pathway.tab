@@ -1,0 +1,102 @@
+abstract	positive regulation of MAPKKK cascade
+abstract	cell adhesion
+abstract	apoptosis
+complex	IGF-1R heterotetramer/IGF1/IRS1
+complex	IGF-1R heterotetramer/IGF1/SHC/GRB10
+protein	PKC mu
+complex	IRS1/Crk
+complex	IGF-1R heterotetramer/IGF1/IRS/Nck
+complex	BAD/14-3-3
+complex	IGF-1R heterotetramer
+complex	IRS2/Crk
+complex	Crk/p130 Cas/Paxillin/FAK1
+complex	IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos
+complex	IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos/Shc/RACK1
+complex	IGF-1R heterotetramer/IGF1/IRS1/Shp2
+complex	GRB2/SOS1
+complex	IGF-1R heterotetramer/IGF1
+complex	IRS1/NCK2
+complex	HRAS/GDP
+complex	HRAS/GTP
+complex	IGF-1R heterotetramer/IGF1/GRB2/Sos/Shc
+complex	PI3K
+complex	GRB2/SOS1/SHC
+protein	PKC delta
+protein	FAK
+complex	IGF-1R heterotetramer/IGF1/PTP1B
+protein	p130 Cas
+complex	Crk/p130 Cas/Paxillin
+protein	SHP2
+complex	RAF1/14-3-3 E
+protein	YWHAZ
+protein	YWHAE
+protein	SHC1
+protein	RPS6KB1
+protein	RAF1
+protein	PXN
+protein	PTPN1
+protein	PRKCZ
+protein	PDPK1
+protein	IRS2
+protein	IRS1
+protein	IGF1
+protein	GRB10
+protein	GNB2L1
+protein	CRKL
+protein	CRK
+protein	BAD
+protein	AKT1
+IGF-1R heterotetramer/IGF1/IRS1	CRK	component>
+RAF1/14-3-3 E	positive regulation of MAPKKK cascade	-ap|
+cell adhesion	IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos/Shc/RACK1	component>
+IGF-1R heterotetramer/IGF1/GRB2/Sos/Shc	HRAS/GTP	-a>
+RPS6KB1	Crk/p130 Cas/Paxillin/FAK1	component>
+IGF-1R heterotetramer/IGF1/IRS1	Crk/p130 Cas/Paxillin	component>
+IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos	HRAS/GTP	-a>
+IGF1	IGF-1R heterotetramer/IGF1	component>
+IGF-1R heterotetramer	IGF-1R heterotetramer/IGF1	component>
+IRS2/Crk	IRS2	component>
+IRS2/Crk	CRK	component>
+IGF-1R heterotetramer/IGF1/IRS1	SHP2	-a>
+PTPN1	IGF-1R heterotetramer/IGF1/PTP1B	component>
+IGF-1R heterotetramer/IGF1	IGF-1R heterotetramer/IGF1/PTP1B	component>
+GRB2/SOS1	IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos	component>
+IGF-1R heterotetramer/IGF1/IRS1	IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos	component>
+YWHAE	RAF1/14-3-3 E	component>
+RAF1	RAF1/14-3-3 E	component>
+IGF-1R heterotetramer/IGF1/IRS1	CRKL	-a>
+IRS1/NCK2	IGF-1R heterotetramer/IGF1/IRS/Nck	component>
+IGF-1R heterotetramer/IGF1	IGF-1R heterotetramer/IGF1/IRS/Nck	component>
+IGF-1R heterotetramer/IGF1/IRS1	PI3K	-a>
+IRS1	IGF-1R heterotetramer/IGF1/IRS1	component>
+IGF-1R heterotetramer/IGF1	IGF-1R heterotetramer/IGF1/IRS1	component>
+IRS1/Crk	IRS1	component>
+IRS1/Crk	CRK	component>
+PDPK1	AKT1	-a>
+IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos/Shc/RACK1	PKC delta	-a>
+YWHAZ	BAD/14-3-3	component>
+BAD	BAD/14-3-3	component>
+IGF-1R heterotetramer/IGF1/IRS1	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+SHP2	IGF-1R heterotetramer/IGF1/IRS1/Shp2	component>
+RAF1	positive regulation of MAPKKK cascade	-ap>
+AKT1	BAD	-a>
+IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos/Shc/RACK1	PKC mu	-a>
+BAD/14-3-3	apoptosis	-ap|
+GNB2L1	IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos/Shc/RACK1	component>
+IGF-1R heterotetramer/IGF1/GRB2/Sos/Shc	IGF-1R heterotetramer/IGF1/IRS1/GRB2/Sos/Shc/RACK1	component>
+AKT1	RAF1	-a>
+PDPK1	RPS6KB1	-a>
+GRB2/SOS1/SHC	IGF-1R heterotetramer/IGF1/GRB2/Sos/Shc	component>
+IGF-1R heterotetramer/IGF1	IGF-1R heterotetramer/IGF1/GRB2/Sos/Shc	component>
+GRB10	IGF-1R heterotetramer/IGF1/SHC/GRB10	component>
+SHC1	IGF-1R heterotetramer/IGF1/SHC/GRB10	component>
+IGF-1R heterotetramer/IGF1	IGF-1R heterotetramer/IGF1/SHC/GRB10	component>
+PDPK1	PRKCZ	-a>
+FAK	Crk/p130 Cas/Paxillin/FAK1	component>
+Crk/p130 Cas/Paxillin	Crk/p130 Cas/Paxillin/FAK1	component>
+p130 Cas	Crk/p130 Cas/Paxillin	component>
+PXN	Crk/p130 Cas/Paxillin	component>
+CRK	Crk/p130 Cas/Paxillin	component>
+HRAS/GTP	RAF1	-a>
+HRAS/GDP	HRAS/GTP	-a>
+PI3K	PDPK1	-a>

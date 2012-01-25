@@ -1,0 +1,30 @@
+complex	Sema4D:pPlexin-B1:Met
+complex	Plexin-B1:Met
+complex	SEMA4D:pPlexin-B1:ErbB2 complex
+complex	SEMA4D:CD72 complex
+complex	SEMA4D dimer
+protein	UniProt:P08581 MET_subunit_25_1390_25-1390
+complex	SEMA4D:CD45 complex
+complex	Plexin-B1:ErbB2
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SEMA4D
+protein	PTPRC
+protein	ERBB2
+protein	CD72
+ERBB2	ADP	component>
+UniProt:P08581 MET_subunit_25_1390_25-1390	Sema4D:pPlexin-B1:Met	component>
+SEMA4D	SEMA4D:CD72 complex	component>
+CD72	SEMA4D:CD72 complex	component>
+ATP	SEMA4D:pPlexin-B1:ErbB2 complex	component>
+Plexin-B1:ErbB2	SEMA4D:pPlexin-B1:ErbB2 complex	component>
+Plexin-B1:ErbB2	ADP	component>
+SEMA4D dimer	SEMA4D:pPlexin-B1:ErbB2 complex	component>
+SEMA4D dimer	ADP	component>
+SEMA4D dimer	Sema4D:pPlexin-B1:Met	component>
+ATP	ADP	component>
+ATP	Sema4D:pPlexin-B1:Met	component>
+Plexin-B1:Met	ADP	component>
+Plexin-B1:Met	Sema4D:pPlexin-B1:Met	component>
+SEMA4D	SEMA4D:CD45 complex	component>
+PTPRC	SEMA4D:CD45 complex	component>

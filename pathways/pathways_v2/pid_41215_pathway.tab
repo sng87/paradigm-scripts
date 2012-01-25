@@ -1,0 +1,10 @@
+complex	Activated TrkA receptor complex
+protein	Phospho-STAT3
+smallMolecule	ATP
+smallMolecule	ADP
+protein	STAT3
+Activated TrkA receptor complex	Phospho-STAT3	-a>
+ATP	ADP	-a>
+ATP	Phospho-STAT3	-a>
+STAT3	ADP	-a>
+STAT3	Phospho-STAT3	-a>

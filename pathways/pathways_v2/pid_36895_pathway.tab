@@ -1,0 +1,164 @@
+abstract	pseudopodium formation
+abstract	regulation of stress fiber formation
+abstract	Monocyte
+abstract	ruffle organization
+abstract	JNK cascade
+abstract	cAMP biosynthetic process
+abstract	cell adhesion
+abstract	MAPKKK cascade
+abstract	apoptosis
+abstract	vasodilation
+complex	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1
+smallMolecule	DAG
+complex	E2/ER alpha (dimer)
+smallMolecule	O2
+complex	Gq family/GDP/Gbeta gamma
+complex	E2/ERA-ERB (dimer)
+complex	RAS family/GTP
+complex	E2/ER alpha (dimer)/PELP1/Src/p130 Cas
+protein	MMP9_107-707
+complex	Gai/GDP
+complex	G13/GTP
+complex	IGF-1R heterotetramer
+complex	E2/ER alpha (dimer)/PELP1/Src/p52 SHC
+complex	E2/ER alpha (dimer)/PELP1/Src/PI3K
+smallMolecule	L-arginine
+protein	PLC beta
+complex	ER alpha/Gai/GDP/Gbeta gamma
+complex	RhoA/GDP
+complex	G13/GDP/Gbeta gamma
+complex	E2/ER beta (dimer)
+complex	E2/ER alpha (dimer)/Striatin
+smallMolecule	L-citrulline
+smallMolecule	NADPH
+complex	GRB2/SOS1
+protein	ERA-ERB
+complex	Gq family/GTP
+complex	IGF-1R heterotetramer/IGF1
+complex	Gs family/GDP/Gbeta gamma
+complex	Gs family/GTP
+smallMolecule	PI-3-4-5-P3
+smallMolecule	NO
+protein	eNOS
+smallMolecule	NADP
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+protein	p52 SHC
+smallMolecule	IP3
+complex	GNB1/GNG2
+complex	RhoA/GTP
+protein	p130 Cas
+complex	E2/ER alpha (dimer)/PELP1/Src
+smallMolecule	E2
+complex	E2/ER alpha (dimer)/PELP1
+smallMolecule	GDP
+smallMolecule	GTP
+protein	STRN
+protein	SRC
+protein	ROCK2
+protein	PELP1
+protein	MSN
+protein	MMP2
+protein	MAPK11
+protein	IGF1
+protein	HBEGF
+protein	ESR2
+protein	ESR1
+protein	AKT1
+E2/ERA-ERB (dimer)	Gq family/GTP	component>
+PLC beta	DAG	-a>
+PI-3-4-5-P3	AKT1	-a>
+NO	cell adhesion	-ap|
+E2/ER alpha (dimer)	G13/GTP	component>
+E2/ER alpha (dimer)/PELP1/Src/p52 SHC	IGF-1R heterotetramer/IGF1	component>
+E2/ER alpha (dimer)/PELP1/Src/PI3K	PI-3-4-5-P3	-a>
+RAS family/GTP	RhoA/GTP	-a>
+G13/GTP	RhoA/GTP	-a>
+E2/ERA-ERB (dimer)	Gs family/GTP	component>
+eNOS	L-citrulline	-a>
+p52 SHC	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+E2/ER alpha (dimer)/PELP1/Src	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+AKT1	eNOS	-a>
+RhoA/GTP	ROCK2	-a>
+GTP	Gq family/GTP	component>
+Gq family/GDP/Gbeta gamma	GDP	component>
+Gq family/GDP/Gbeta gamma	GNB1/GNG2	component>
+Gq family/GDP/Gbeta gamma	Gq family/GTP	component>
+SRC	MMP2	-a>
+E2/ER alpha (dimer)/PELP1/Src	E2/ER alpha (dimer)/PELP1/Src	-a>
+Gq family/GTP	PLC beta	-a>
+ESR1	E2/ER alpha (dimer)	component>
+PI3K	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+E2/ER alpha (dimer)/PELP1/Src	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+GRB2/SOS1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+E2/ER alpha (dimer)/PELP1/Src/p52 SHC	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+E2/ER beta (dimer)	E2/ER beta (dimer)	-a>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+p130 Cas	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+E2/ER alpha (dimer)/PELP1/Src	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	MAPKKK cascade	-ap>
+MSN	pseudopodium formation	-ap>
+MSN	regulation of stress fiber formation	-ap|
+E2/ER alpha (dimer)/PELP1/Src/PI3K	AKT1	-a>
+IP3	Ca2+	-a>
+Monocyte	cell adhesion	-ap>
+ROCK2	MSN	-a>
+ER alpha/Gai/GDP/Gbeta gamma	SRC	-a>
+MSN	ruffle organization	-ap>
+E2/ER beta (dimer)	MAPK11	-a>
+E2/ER alpha (dimer)/Striatin	MAPKKK cascade	-ap>
+ER alpha/Gai/GDP/Gbeta gamma	eNOS	-a>
+AKT1	apoptosis	-ap|
+STRN	E2/ER alpha (dimer)/Striatin	component>
+E2/ER alpha (dimer)	E2/ER alpha (dimer)/Striatin	component>
+E2/ER alpha (dimer)/PELP1/Src/p130 Cas	MAPKKK cascade	-ap>
+PELP1	E2/ER alpha (dimer)/PELP1	component>
+E2/ER alpha (dimer)	E2/ER alpha (dimer)/PELP1	component>
+GTP	G13/GTP	component>
+G13/GDP/Gbeta gamma	GDP	component>
+G13/GDP/Gbeta gamma	GNB1/GNG2	component>
+G13/GDP/Gbeta gamma	G13/GTP	component>
+ER alpha/Gai/GDP/Gbeta gamma	GNB1/GNG2	component>
+ER alpha/Gai/GDP/Gbeta gamma	Gai/GDP	component>
+ER alpha/Gai/GDP/Gbeta gamma	E2/ER alpha (dimer)	component>
+E2	GNB1/GNG2	component>
+E2	Gai/GDP	component>
+E2	E2/ER alpha (dimer)	component>
+IGF1	IGF-1R heterotetramer/IGF1	component>
+IGF-1R heterotetramer	IGF-1R heterotetramer/IGF1	component>
+SRC	MMP9_107-707	-a>
+MMP2	HBEGF	-a>
+SRC	E2/ER alpha (dimer)/PELP1/Src	component>
+E2/ER alpha (dimer)/PELP1	E2/ER alpha (dimer)/PELP1/Src	component>
+E2	E2/ER beta (dimer)	component>
+ESR2	E2/ER beta (dimer)	component>
+E2/ER beta (dimer)	eNOS	-a>
+E2/ER beta (dimer)	JNK cascade	-ap>
+MMP9_107-707	HBEGF	-a>
+ERA-ERB	E2/ERA-ERB (dimer)	component>
+E2	E2/ERA-ERB (dimer)	component>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+E2/ER alpha (dimer)/Striatin	AKT1	-a>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+Gs family/GTP	cAMP biosynthetic process	-ap>
+NO	vasodilation	-ap>
+GTP	GDP	component>
+GTP	GNB1/GNG2	component>
+GTP	Gs family/GTP	component>
+Gs family/GDP/Gbeta gamma	GDP	component>
+Gs family/GDP/Gbeta gamma	GNB1/GNG2	component>
+Gs family/GDP/Gbeta gamma	Gs family/GTP	component>
+O2	NADP	-a>
+O2	NO	-a>
+O2	L-citrulline	-a>
+NADPH	NADP	-a>
+NADPH	NO	-a>
+NADPH	L-citrulline	-a>
+L-arginine	NADP	-a>
+L-arginine	NO	-a>
+L-arginine	L-citrulline	-a>

@@ -1,0 +1,56 @@
+abstract	neutrophil activation
+complex	G-alpha-s/GTP
+complex	Ligand/GPCR(+)/Arrestin
+complex	g-gamma/g-beta
+complex	Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)(cy)
+complex	Ligand/GPCR/g-beta/g-gamma
+complex	Ligand/GPCR(+)/g-beta/g-gamma
+complex	Arrestin/SRC/Hck/c-Fgr
+protein	SRC/Hck/c-Fgr
+complex	Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)
+complex	GPCR/g-alpha-s/g-beta/g-gamma/GDP
+abstract	degradation
+protein	Ligand
+smallMolecule	GDP
+smallMolecule	GTP
+protein	RAF1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	DNM1
+protein	ARRB1
+protein	ADRBK1
+MAP2K2	MAPK3	-a>
+ADRBK1	Ligand/GPCR(+)/g-beta/g-gamma	-a>
+DNM1	Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)(cy)	-a>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+ARRB1	g-gamma/g-beta	component>
+ARRB1	Ligand/GPCR(+)/Arrestin	component>
+Ligand/GPCR(+)/g-beta/g-gamma	g-gamma/g-beta	component>
+Ligand/GPCR(+)/g-beta/g-gamma	Ligand/GPCR(+)/Arrestin	component>
+Arrestin/SRC/Hck/c-Fgr	degradation	-ap>
+Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)(cy)	degradation	-ap>
+SRC/Hck/c-Fgr	Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)	component>
+Ligand/GPCR(+)/Arrestin	Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)	component>
+HRAS	RAF1	-a>
+Ligand/GPCR/g-beta/g-gamma	Ligand/GPCR(+)/g-beta/g-gamma	-a>
+Arrestin/SRC/Hck/c-Fgr	neutrophil activation	-ap>
+Ligand	G-alpha-s/GTP	component>
+Ligand	Ligand/GPCR/g-beta/g-gamma	component>
+GPCR/g-alpha-s/g-beta/g-gamma/GDP	G-alpha-s/GTP	component>
+GPCR/g-alpha-s/g-beta/g-gamma/GDP	Ligand/GPCR/g-beta/g-gamma	component>
+Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)	DNM1	-a>
+GTP	GDP	-a>
+GTP	HRAS	-a>
+HRAS	GDP	-a>
+Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)	HRAS	-a>
+Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)	Ligand/GPCR(+)/Arrestin/(SRC/Hck/c-Fgr)(cy)	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

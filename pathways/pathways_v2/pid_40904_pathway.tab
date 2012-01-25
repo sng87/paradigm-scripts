@@ -1,0 +1,10 @@
+complex	OXE receptor:5-oxo-ETE
+smallMolecule	LXA4
+complex	LXA4 receptor:LXA4
+smallMolecule	5-oxo-ETE
+protein	OXER1
+protein	FPR2
+FPR2	LXA4 receptor:LXA4	component>
+LXA4	LXA4 receptor:LXA4	component>
+OXER1	OXE receptor:5-oxo-ETE	component>
+5-oxo-ETE	OXE receptor:5-oxo-ETE	component>

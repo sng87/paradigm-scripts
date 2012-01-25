@@ -1,0 +1,47 @@
+protein	SOS1
+protein	GRB2
+protein	FRAP1
+protein	SHC1
+protein	EDNRA
+protein	EDN1
+protein	EGF
+protein	HRAS
+protein	EGFR
+complex	HRAS/GTP
+complex	HRAS/GDP
+complex	GRB2/SOS1
+complex	ETA receptor/Endothelin-1
+complex	EGF/EGFR dimer/SHC/GRB2/SOS1
+complex	EGF/EGFR dimer/SHC
+complex	EGF/EGFR dimer
+complex	EGF/EGFR
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Ca2+
+abstract	response to oxidative stress
+response to oxidative stress	EGF/EGFR	-ap>
+mol:GTP	HRAS/GTP	component>
+mol:GDP	HRAS/GDP	component>
+mol:Ca2+	EGF/EGFR	-a>
+SOS1	GRB2/SOS1	component>
+SOS1	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+GRB2	GRB2/SOS1	component>
+GRB2	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+SHC1	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+SHC1	EGF/EGFR dimer/SHC	component>
+EDNRA	ETA receptor/Endothelin-1	component>
+EDN1	ETA receptor/Endothelin-1	component>
+EGF	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+EGF	EGF/EGFR dimer/SHC	component>
+EGF	EGF/EGFR dimer	component>
+EGF	EGF/EGFR	component>
+HRAS	HRAS/GTP	component>
+HRAS	HRAS/GDP	component>
+EGFR	EGF/EGFR dimer/SHC/GRB2/SOS1	component>
+EGFR	EGF/EGFR dimer/SHC	component>
+EGFR	EGF/EGFR dimer	component>
+EGFR	EGF/EGFR	component>
+ETA receptor/Endothelin-1	EGF/EGFR	-a>
+EGF/EGFR dimer/SHC/GRB2/SOS1	mol:GDP	-a>
+EGF/EGFR dimer/SHC/GRB2/SOS1	FRAP1	-a>
+EGF/EGFR dimer/SHC/GRB2/SOS1	HRAS/GTP	-a>

@@ -1,0 +1,133 @@
+smallMolecule	(24S)-7alpha,24-dihydroxycholesterol
+smallMolecule	(24S)-24-hydroxycholesterol
+smallMolecule	Corticosterone
+smallMolecule	11-Deoxycortisol
+smallMolecule	Lanosterol
+smallMolecule	Estrone
+smallMolecule	Estradiol
+smallMolecule	TPNH
+smallMolecule	Progesterone
+smallMolecule	Androstenedione
+protein	UniProt:P08686 CYP21A2
+smallMolecule	Pregnenolone
+smallMolecule	Formate
+smallMolecule	Isohexanal
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	25-hydroxycholesterol
+smallMolecule	7alpha,25-dihydroxycholesterol
+smallMolecule	20alpha,22beta-Dihydroxycholesterol
+smallMolecule	ChEBI:28750
+protein	UniProt:P15538 CYP11B1_subunit_25_503_25-503
+smallMolecule	DOC
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	7alpha-Hydroxycholesterol
+smallMolecule	27-Hydroxycholesterol
+smallMolecule	cortisol
+smallMolecule	Cholesterol
+protein	CYP7B1
+protein	CYP7A1
+protein	CYP51A1
+protein	CYP46A1
+protein	CYP39A1
+protein	CYP27A1
+protein	CYP1B1
+protein	CYP19A1
+protein	CYP17A1
+protein	CYP11B2
+protein	CYP11A1
+CYP11B2	Corticosterone	-a>
+CYP11A1	H2O	-a>
+CYP7A1	H2O	-a>
+CYP51A1	Formate	-a>
+UniProt:P15538 CYP11B1_subunit_25_503_25-503	cortisol	-a>
+UniProt:P08686 CYP21A2	TPN	-a>
+CYP1B1	TPN	-a>
+CYP7B1	H2O	-a>
+CYP27A1	H2O	-a>
+CYP19A1	TPN	-a>
+CYP39A1	(24S)-7alpha,24-dihydroxycholesterol	-a>
+CYP17A1	ChEBI:28750	-a>
+CYP46A1	TPN	-a>
+H+	Corticosterone	-a>
+DOC	H2O	-a>
+DOC	TPN	-a>
+DOC	Corticosterone	-a>
+O2	Corticosterone	-a>
+TPNH	Corticosterone	-a>
+H+	Pregnenolone	-a>
+H+	Isohexanal	-a>
+O2	Pregnenolone	-a>
+O2	Isohexanal	-a>
+TPNH	Pregnenolone	-a>
+TPNH	Isohexanal	-a>
+20alpha,22beta-Dihydroxycholesterol	TPN	-a>
+20alpha,22beta-Dihydroxycholesterol	Pregnenolone	-a>
+20alpha,22beta-Dihydroxycholesterol	Isohexanal	-a>
+20alpha,22beta-Dihydroxycholesterol	H2O	-a>
+O2	7alpha-Hydroxycholesterol	-a>
+TPNH	7alpha-Hydroxycholesterol	-a>
+H+	7alpha-Hydroxycholesterol	-a>
+Cholesterol	7alpha-Hydroxycholesterol	-a>
+Lanosterol	H2O	-a>
+Lanosterol	TPN	-a>
+Lanosterol	Formate	-a>
+11-Deoxycortisol	H2O	-a>
+11-Deoxycortisol	TPN	-a>
+11-Deoxycortisol	cortisol	-a>
+O2	cortisol	-a>
+H+	cortisol	-a>
+TPNH	cortisol	-a>
+Progesterone	H2O	-a>
+Progesterone	DOC	-a>
+Progesterone	TPN	-a>
+H+	DOC	-a>
+TPNH	DOC	-a>
+O2	DOC	-a>
+Estradiol	H2O	-a>
+Estradiol	TPN	-a>
+TPNH	7alpha,25-dihydroxycholesterol	-a>
+O2	7alpha,25-dihydroxycholesterol	-a>
+H+	7alpha,25-dihydroxycholesterol	-a>
+25-hydroxycholesterol	7alpha,25-dihydroxycholesterol	-a>
+25-hydroxycholesterol	TPN	-a>
+25-hydroxycholesterol	H2O	-a>
+TPNH	27-Hydroxycholesterol	-a>
+Cholesterol	27-Hydroxycholesterol	-a>
+H+	27-Hydroxycholesterol	-a>
+O2	27-Hydroxycholesterol	-a>
+TPNH	Formate	-a>
+TPNH	Estrone	-a>
+Androstenedione	H2O	-a>
+Androstenedione	Formate	-a>
+Androstenedione	Estrone	-a>
+Androstenedione	TPN	-a>
+O2	Formate	-a>
+O2	Estrone	-a>
+H+	Formate	-a>
+H+	Estrone	-a>
+H+	(24S)-7alpha,24-dihydroxycholesterol	-a>
+TPNH	(24S)-7alpha,24-dihydroxycholesterol	-a>
+O2	(24S)-7alpha,24-dihydroxycholesterol	-a>
+(24S)-24-hydroxycholesterol	TPN	-a>
+(24S)-24-hydroxycholesterol	H2O	-a>
+(24S)-24-hydroxycholesterol	(24S)-7alpha,24-dihydroxycholesterol	-a>
+H+	ChEBI:28750	-a>
+Pregnenolone	H2O	-a>
+Pregnenolone	TPN	-a>
+Pregnenolone	ChEBI:28750	-a>
+TPNH	ChEBI:28750	-a>
+O2	ChEBI:28750	-a>
+Cholesterol	(24S)-24-hydroxycholesterol	-a>
+Cholesterol	H2O	-a>
+Cholesterol	TPN	-a>
+O2	(24S)-24-hydroxycholesterol	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+TPNH	(24S)-24-hydroxycholesterol	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+H+	(24S)-24-hydroxycholesterol	-a>
+H+	H2O	-a>
+H+	TPN	-a>

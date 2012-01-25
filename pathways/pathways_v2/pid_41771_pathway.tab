@@ -1,0 +1,18 @@
+complex	eEF1A:GTP
+complex	eEF1B complex
+complex	eEF1A:GTP:aminoacyl-tRNA complex
+complex	eEF1A:GDP
+complex	eEF1B:GDP exchange complex
+smallMolecule	Glu-tRNA(Glu)
+smallMolecule	GTP
+protein	EEF1A1
+GTP	eEF1A:GTP	-a>
+GTP	eEF1B:GDP exchange complex	-a>
+eEF1B complex	eEF1A:GTP	-a>
+eEF1B complex	eEF1B:GDP exchange complex	-a>
+eEF1A:GDP	eEF1A:GTP	-a>
+eEF1A:GDP	eEF1B:GDP exchange complex	-a>
+EEF1A1	eEF1A:GTP	component>
+GTP	eEF1A:GTP	component>
+Glu-tRNA(Glu)	eEF1A:GTP:aminoacyl-tRNA complex	-a>
+eEF1A:GTP	eEF1A:GTP:aminoacyl-tRNA complex	-a>

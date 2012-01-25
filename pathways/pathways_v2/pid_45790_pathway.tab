@@ -1,0 +1,95 @@
+abstract	actin filament organization
+complex	PDGF/PDGF/PDGF R/PDGF R
+complex	integrin alpha V/integrin beta 3
+complex	SHC/GRB2/SOS-1
+complex	EDG1/G-beta/G-gamma/G-alpha-i
+complex	S1P/EDG1/G-beta/G-gamma/G-alpha-i
+smallMolecule	PMA
+protein	SM
+complex	PDGF/PDGF R
+smallMolecule	Sphingoid
+smallMolecule	PIP2
+smallMolecule	K+
+abstract	cell survival
+abstract	lamellipodium assembly
+abstract	chemotaxis
+abstract	cell proliferation
+protein	PKC
+smallMolecule	sphingomyelin
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	S1P
+smallMolecule	GTP
+protein	SRC
+protein	SPHK1
+protein	SKIP
+protein	RAF1
+protein	RAC1
+protein	PTK2
+protein	PIK3C2G
+protein	PDPK1
+protein	PDGFRA
+protein	PDGFA
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	HRAS
+protein	ASAH1
+protein	AKT1
+protein	ADCY1
+MAP2K2	MAPK3	-a>
+ASAH1	S1P	-a>
+SM	S1P	-a>
+PI3K	PIP3	-a>
+MAPK1	cell survival	-ap>
+MAPK1	cell proliferation	-ap>
+SHC/GRB2/SOS-1	GDP	-a>
+SKIP	SPHK1	-a|
+SPHK1	S1P	-a>
+S1P/EDG1/G-beta/G-gamma/G-alpha-i	GDP	-a>
+PMA	PKC	-a>
+PI3K	lamellipodium assembly	-ap>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+PDGF/PDGF R	PDGF/PDGF/PDGF R/PDGF R	component>
+sphingomyelin	S1P	-a>
+S1P/EDG1/G-beta/G-gamma/G-alpha-i	PIK3C2G	-a>
+PIP2	PIP3	-a>
+AKT1	S1P/EDG1/G-beta/G-gamma/G-alpha-i	-a>
+S1P/EDG1/G-beta/G-gamma/G-alpha-i	SRC	-a>
+MAPK3	cell survival	-ap>
+MAPK3	cell proliferation	-ap>
+HRAS	RAF1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+PDGF/PDGF/PDGF R/PDGF R	SPHK1	-a>
+PIK3C2G	PTK2	-a>
+RAC1	chemotaxis	-ap>
+PKC	SPHK1	-a>
+S1P/EDG1/G-beta/G-gamma/G-alpha-i	ADCY1	-a>
+S1P/EDG1/G-beta/G-gamma/G-alpha-i	SHC/GRB2/SOS-1	-a>
+PDPK1	AKT1	-a>
+PTK2	integrin alpha V/integrin beta 3	-a>
+RAC1	actin filament organization	-ap>
+SRC	K+	-a>
+S1P	S1P	-a>
+Sphingoid	S1P	-a>
+S1P/EDG1/G-beta/G-gamma/G-alpha-i	PI3K	-a>
+EDG1/G-beta/G-gamma/G-alpha-i	S1P/EDG1/G-beta/G-gamma/G-alpha-i	-a>
+S1P	S1P/EDG1/G-beta/G-gamma/G-alpha-i	-a>
+PIP3	PDPK1	-a>
+PDGFRA	PDGF/PDGF R	component>
+PDGFA	PDGF/PDGF R	component>
+RAC1	RAC1	-a>
+RAC1	GDP	-a>
+GTP	RAC1	-a>
+GTP	GDP	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

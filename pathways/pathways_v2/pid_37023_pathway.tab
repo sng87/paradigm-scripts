@@ -1,0 +1,177 @@
+abstract	natural killer cell mediated cytotoxicity
+abstract	positive regulation of cell-cell adhesion
+abstract	T cell proliferation
+abstract	G1/S transition of mitotic cell cycle
+abstract	cell proliferation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+protein	MEK1-2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2
+complex	RAS family/GTP
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K
+protein	STAM1-2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/ERK1-2
+complex	GAB2/GRB2/SOS1
+complex	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K
+protein	ERK1-2-active
+complex	STAT3 (dimer)
+complex	RAS family/GDP/Aiolos
+protein	ERK1-2
+complex	SOCS3/RasGAP
+complex	RhoA/GDP
+protein	JNK1-2
+complex	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2
+complex	IL2R gamma/JAK3
+complex	IL2R beta/JAK1/LCK/CISH
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2
+complex	RasGAP/Dok-R
+complex	IL2R beta/JAK1/Fyn
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2
+complex	IL2R beta/JAK1/LCK
+complex	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3
+protein	p38alpha-beta-active
+complex	STAT1 (dimer)
+complex	IL2R beta/JAK1/LCK/SOCS1
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK
+protein	STAT5
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3
+complex	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K
+complex	IL2R beta/JAK1/LCK/SOCS3/SOCS2
+protein	IRS1-2
+protein	Aiolos
+complex	IL2R beta/JAK1/LCK/SOCS3
+complex	STAT5 (dimer)-active
+protein	p38alpha-beta
+complex	PI3K
+complex	RhoA/GTP
+complex	IL2R gamma/JAK3/SOCS1
+complex	IL2/IL2R beta/gamma/JAK1/LCK/JAK3
+protein	SHP2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SYK
+protein	STAT3
+protein	STAT1
+protein	SOCS3
+protein	SOCS2
+protein	SHC1
+protein	RASA1
+protein	RAF1
+protein	PTK2B
+protein	PRKCE
+protein	PRKCB
+protein	PPP2R5D
+protein	MYC
+protein	MAPKAPK2
+protein	JUN
+protein	IL2RA
+protein	IL2
+protein	IFNG
+protein	FOS
+protein	DOK2
+protein	CDK2
+protein	BCL2
+IL2R gamma/JAK3/SOCS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2R beta/JAK1/LCK/CISH	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2R beta/JAK1/LCK/SOCS3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2R beta/JAK1/LCK/SOCS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	positive regulation of cell-cell adhesion	-ap>
+IL2R beta/JAK1/LCK/SOCS3	STAT5 (dimer)-active	component>
+IL2R beta/JAK1/LCK/SOCS1	STAT5 (dimer)-active	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	STAT5 (dimer)-active	component>
+RhoA/GTP	FOS	-t>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	STAT1 (dimer)	component>
+MEK1-2	STAT3 (dimer)	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	STAT3 (dimer)	component>
+MEK1-2	ERK1-2-active	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	MEK1-2	-a>
+RhoA/GTP	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+RasGAP/Dok-R	RAS family/GTP	component>
+SOCS3/RasGAP	RAS family/GTP	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	RAS family/GTP	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	p38alpha-beta-active	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	RhoA/GTP	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	SOCS3	-t>
+IL2R gamma/JAK3	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+IL2R beta/JAK1/LCK	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+IL2	IL2/IL2R beta/gamma/JAK1/LCK/JAK3	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	SOCS3	-a>
+CDK2	G1/S transition of mitotic cell cycle	-ap>
+GAB2/GRB2/SOS1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	component>
+ERK1-2-active	JUN	-t>
+IRS1-2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	component>
+IL2R gamma/JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2R beta/JAK1/LCK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2RA	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+IL2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	component>
+ERK1-2-active	CDK2	-a>
+SHC1	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	component>
+PPP2R5D	positive regulation of cell-cell adhesion	-ap>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	PI3K	-a>
+PRKCE	T cell proliferation	-ap>
+STAT5	STAT5 (dimer)-active	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	cell proliferation	-ap>
+Aiolos	Aiolos	-a>
+ERK1-2-active	FOS	-t>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	DOK2	-a>
+IL2R beta/JAK1/LCK/SOCS3/SOCS2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+STAT1	STAT1 (dimer)	component>
+PI3K	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3/PI3K	component>
+ERK1-2-active	natural killer cell mediated cytotoxicity	-ap>
+p38alpha-beta-active	T cell proliferation	-ap>
+IL2R gamma/JAK3	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	component>
+IL2R beta/JAK1/Fyn	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	component>
+IL2	IL2/IL2R beta/gamma/JAK1/Fyn/JAK3	component>
+PI3K	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+IL2/IL2R beta/gamma/JAK1/LCK/JAK3	IL2/IL2R beta/gamma/JAK1/LCK/JAK3/PI3K	component>
+Aiolos	BCL2	-t>
+STAT3	STAT3 (dimer)	component>
+ERK1-2	ERK1-2-active	-a>
+PI3K	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/IRS1-2/PI3K	component>
+IL2/IL2R beta/gamma/JAK1/LCK/JAK3	PRKCB	-a>
+STAM1-2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	component>
+RAF1	MEK1-2	-a>
+p38alpha-beta-active	MAPKAPK2	-a>
+PTK2B	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/PYK2	component>
+SOCS2	IL2R beta/JAK1/LCK/SOCS3/SOCS2	component>
+IL2R beta/JAK1/LCK/SOCS3	IL2R beta/JAK1/LCK/SOCS3/SOCS2	component>
+ERK1-2-active	IFNG	-t>
+RASA1	RasGAP/Dok-R	component>
+DOK2	RasGAP/Dok-R	component>
+RAS family/GTP	RAF1	-a>
+PI3K	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GAB2/GRB2/SOS1/SHP2/PI3K	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC	JNK1-2	-a>
+RASA1	SOCS3/RasGAP	component>
+SOCS3	SOCS3/RasGAP	component>
+GTP	GDP	component>
+GTP	Aiolos	component>
+GTP	RAS family/GTP	component>
+RAS family/GDP/Aiolos	GDP	component>
+RAS family/GDP/Aiolos	Aiolos	component>
+RAS family/GDP/Aiolos	RAS family/GTP	component>
+p38alpha-beta	p38alpha-beta-active	-a>
+PRKCB	T cell proliferation	-ap>
+ERK1-2-active	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/ERK1-2	component>
+ERK1-2-active	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+SHP2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/ERK1-2	component>
+SHP2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/ERK1-2	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SHC/GRB2/SOS1/GAB2/SHP2	component>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/STAM1-2	MYC	-t>
+SYK	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3/SYK	component>
+IL2/IL2R alpha/beta/gamma/JAK1/LCK/JAK3	PRKCE	-a>

@@ -1,0 +1,198 @@
+protein	PIAS3
+protein	GAB2
+protein	MAPK14
+protein	MAPK11
+protein	GAB1
+protein	FOXO1
+protein	SOS1
+protein	MCL1
+protein	BCL2L1
+protein	PTPN11
+protein	PRKCD
+protein	RAC1
+protein	GRB2
+protein	LMO4
+protein	MAP2K6
+protein	CEBPD
+protein	MAP2K4
+protein	PIK3CA
+protein	STAT1
+protein	STAT3
+protein	IL6ST
+protein	AKT1
+protein	TYK2
+protein	PIK3R1
+protein	PTPRE
+protein	JAK1
+protein	LBP
+protein	CEBPB
+protein	JUNB
+protein	VAV1
+protein	HSP90B1
+protein	IRF1
+protein	IL6R
+protein	HCK
+protein	JUN
+protein	IL6
+protein	CRP
+protein	FGG
+protein	MYC
+protein	FOS
+protein	TIMP1
+protein	A2M
+protein	PIAS1
+protein	MITF
+protein	JAK2
+protein	TNFSF11
+protein	SOCS3
+complex	gp130 (dimer)/TYK2/TYK2/LMO4
+complex	gp130 (dimer)/JAK2/JAK2/LMO4
+complex	gp130 (dimer)/JAK1/JAK1/LMO4
+complex	STAT3 (dimer)/PIAS3
+complex	STAT3 (dimer)/FOXO1
+complex	STAT3 (dimer)
+complex	STAT1/PIAS1
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PIAS3/MITF
+complex	PI3K
+complex	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4
+complex	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK
+complex	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4
+complex	IL6/IL6RA
+complex	GRB2/SOS1/GAB family/SHP2/PI3K
+complex	GRB2/SOS1/GAB family/SHP2
+complex	GRB2/SOS1/GAB family
+complex	AP1
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	macrophage differentiation
+abstract	cell cycle arrest
+abstract	bone resorption
+abstract	MAPKKK cascade
+positive regulation of NF-kappaB transcription factor activity	JUNB	-ap>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	Rac1/GDP	component>
+PIAS3	STAT3 (dimer)/PIAS3	component>
+PIAS3	PIAS3/MITF	component>
+GAB2	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+GAB2	GRB2/SOS1/GAB family/SHP2	component>
+GAB2	GRB2/SOS1/GAB family	component>
+MAPK14	SOCS3	-t>
+MAPK11	SOCS3	-t>
+GAB1	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+GAB1	GRB2/SOS1/GAB family/SHP2	component>
+GAB1	GRB2/SOS1/GAB family	component>
+FOXO1	STAT3 (dimer)/FOXO1	component>
+SOS1	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+SOS1	GRB2/SOS1/GAB family/SHP2	component>
+SOS1	GRB2/SOS1/GAB family	component>
+PTPN11	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+PTPN11	GRB2/SOS1/GAB family/SHP2	component>
+PRKCD	STAT3	-a>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+GRB2	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+GRB2	GRB2/SOS1/GAB family/SHP2	component>
+GRB2	GRB2/SOS1/GAB family	component>
+LMO4	gp130 (dimer)/TYK2/TYK2/LMO4	component>
+LMO4	gp130 (dimer)/JAK2/JAK2/LMO4	component>
+LMO4	gp130 (dimer)/JAK1/JAK1/LMO4	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+LMO4	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+MAP2K6	MAPK14	-a>
+MAP2K6	MAPK11	-a>
+MAP2K4	PRKCD	-a>
+PIK3CA	PI3K	component>
+PIK3CA	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+STAT1	STAT1/PIAS1	component>
+STAT3	STAT3 (dimer)/PIAS3	component>
+STAT3	STAT3 (dimer)/FOXO1	component>
+STAT3	STAT3 (dimer)	component>
+IL6ST	gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6ST	gp130 (dimer)/JAK2/JAK2/LMO4	component>
+IL6ST	gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+IL6ST	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+AKT1	FOXO1	-a>
+AKT1	MCL1	-t>
+TYK2	gp130 (dimer)/TYK2/TYK2/LMO4	component>
+TYK2	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+PIK3R1	PI3K	component>
+PIK3R1	GRB2/SOS1/GAB family/SHP2/PI3K	component>
+PTPRE	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	-a|
+PTPRE	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	-a|
+JAK1	gp130 (dimer)/JAK1/JAK1/LMO4	component>
+JAK1	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+JAK1	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+JAK1	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+CEBPB	LBP	-t>
+CEBPB	HSP90B1	-t>
+VAV1	mol:GDP	-a>
+VAV1	Rac1/GTP	-a>
+IL6R	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+IL6R	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IL6R	IL6/IL6RA	component>
+HCK	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+JUN	AP1	component>
+IL6	IL6/IL6RA/gp130 (dimer)/TYK2/TYK2/LMO4	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	component>
+IL6	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	component>
+IL6	IL6/IL6RA	component>
+FOS	AP1	component>
+PIAS1	STAT1/PIAS1	component>
+MITF	PIAS3/MITF	component>
+JAK2	gp130 (dimer)/JAK2/JAK2/LMO4	component>
+JAK2	IL6/IL6RA/gp130 (dimer)/JAK2/JAK2/LMO4	component>
+TNFSF11	bone resorption	-ap>
+SOCS3	IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	component>
+STAT3 (dimer)/FOXO1	A2M	-t>
+STAT3 (dimer)	macrophage differentiation	-ap>
+STAT3 (dimer)	cell cycle arrest	-ap>
+STAT3 (dimer)	BCL2L1	-t>
+STAT3 (dimer)	CEBPD	-t>
+STAT3 (dimer)	LBP	-t>
+STAT3 (dimer)	JUNB	-t>
+STAT3 (dimer)	HSP90B1	-t>
+STAT3 (dimer)	IRF1	-t>
+STAT3 (dimer)	CRP	-t>
+STAT3 (dimer)	FGG	-t>
+STAT3 (dimer)	MYC	-t>
+STAT3 (dimer)	TIMP1	-t>
+STAT3 (dimer)	TNFSF11	-t>
+Rac1/GTP	MAP2K4	-a>
+MAPKKK cascade	AP1	-ap>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	PTPN11	-a|
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	STAT1	-a|
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/SOCS3	STAT3	-a|
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	GRB2/SOS1/GAB family/SHP2	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4/HCK	GRB2/SOS1/GAB family	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	PTPN11	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	MAP2K6	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT1	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	VAV1	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	MITF	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3 (dimer)/PIAS3	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT3 (dimer)/FOXO1	-a>
+IL6/IL6RA/gp130 (dimer)/JAK1/JAK1/LMO4	STAT1/PIAS1	-a>
+GRB2/SOS1/GAB family/SHP2/PI3K	AKT1	-a>
+GRB2/SOS1/GAB family/SHP2/PI3K	MAPKKK cascade	-ap>
+GRB2/SOS1/GAB family/SHP2	A2M	-t|
+GRB2/SOS1/GAB family/SHP2	MAPKKK cascade	-ap>
+AP1	LBP	-t>
+AP1	TIMP1	-t>

@@ -1,0 +1,22 @@
+complex	PHLPP (Mn2+ cofactor)
+complex	PTEN (Mg2+ cofactor)
+complex	AKT:CTMP:TRB3
+smallMolecule	H2O
+smallMolecule	PIP2
+smallMolecule	phosphate
+smallMolecule	PIP3
+protein	TRIB3
+protein	THEM4
+protein	AKT1
+PTEN (Mg2+ cofactor)	phosphate	-a>
+PHLPP (Mn2+ cofactor)	phosphate	-a>
+PIP3	PIP2	-a>
+PIP3	phosphate	-a>
+H2O	PIP2	-a>
+H2O	AKT1	-a>
+H2O	phosphate	-a>
+AKT1	AKT1	-a>
+AKT1	phosphate	-a>
+AKT1	AKT:CTMP:TRB3	component>
+TRIB3	AKT:CTMP:TRB3	component>
+THEM4	AKT:CTMP:TRB3	component>

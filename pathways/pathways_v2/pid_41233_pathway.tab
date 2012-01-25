@@ -1,0 +1,26 @@
+complex	phosphorylated pyruvate dehydrogenase complex
+complex	pyruvate dehydrogenase E1 complex
+complex	pyruvate dehydrogenase complex
+smallMolecule	Pyruvate
+complex	Inactive PDHE1 complex
+smallMolecule	H2O
+smallMolecule	NADH
+smallMolecule	Acetyl-CoA
+smallMolecule	Mg2+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	PDK2
+Mg2+	phosphate	-a>
+Pyruvate	phosphorylated pyruvate dehydrogenase complex	-a|
+Acetyl-CoA	phosphorylated pyruvate dehydrogenase complex	-a>
+NADH	phosphorylated pyruvate dehydrogenase complex	-a>
+PDK2	phosphorylated pyruvate dehydrogenase complex	-a>
+H2O	pyruvate dehydrogenase E1 complex	-a>
+H2O	phosphate	-a>
+Inactive PDHE1 complex	pyruvate dehydrogenase E1 complex	-a>
+Inactive PDHE1 complex	phosphate	-a>
+ATP	ADP	-a>
+ATP	phosphorylated pyruvate dehydrogenase complex	-a>
+pyruvate dehydrogenase complex	ADP	-a>
+pyruvate dehydrogenase complex	phosphorylated pyruvate dehydrogenase complex	-a>

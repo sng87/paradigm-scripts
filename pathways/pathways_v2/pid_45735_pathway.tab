@@ -1,0 +1,30 @@
+protein	glycolytic enzymes
+complex	EPO/EPO R/EPO R/JAK2/JAK2
+complex	p50/RELA/I-kappa-B-alpha
+complex	EPO R/EPO R/JAK2/JAK2
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	RELA/p50
+complex	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN
+abstract	protein ubiquitination
+abstract	response to hypoxia
+abstract	degradation
+smallMolecule	ROS
+protein	SOD2
+protein	EPO
+protein	CDKN1A
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	EPO	-t>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	glycolytic enzymes	-t>
+EPO/EPO R/EPO R/JAK2/JAK2	protein ubiquitination	-ap>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	CDKN1A	-t>
+response to hypoxia	EPO	-t>
+EPO	EPO/EPO R/EPO R/JAK2/JAK2	component>
+EPO R/EPO R/JAK2/JAK2	EPO/EPO R/EPO R/JAK2/JAK2	component>
+RELA/p50	SOD2	-t>
+response to hypoxia	glycolytic enzymes	-t>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+SOD2	ROS	-a>
+response to hypoxia	CDKN1A	-t>
+RELA/p50	RELA/p50	-a>

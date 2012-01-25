@@ -1,0 +1,32 @@
+protein	bZip
+complex	Nrf2/bZip
+complex	Nrf2/Keap1
+protein	gamma-glutyamylcysteine synthase
+protein	Small Mafs
+complex	Nrf2/Small Mafs
+protein	Heme oxygenase
+protein	PKC
+smallMolecule	ROS
+protein	UGT1A6
+protein	POR
+protein	NFE2L2
+protein	KEAP1
+protein	GSTA2
+protein	CRYZ
+protein	AKR7A2
+PKC	NFE2L2	component>
+Nrf2/bZip	AKR7A2	-t>
+Nrf2/bZip	GSTA2	-t>
+NFE2L2	NFE2L2	-a>
+Nrf2/bZip	POR	-t>
+Nrf2/Keap1	KEAP1	component>
+Nrf2/Keap1	NFE2L2	component>
+ROS	PKC	-a>
+Nrf2/bZip	UGT1A6	-t>
+Nrf2/bZip	gamma-glutyamylcysteine synthase	-t>
+bZip	Nrf2/bZip	component>
+NFE2L2	Nrf2/bZip	component>
+Nrf2/bZip	Heme oxygenase	-t>
+Small Mafs	Nrf2/Small Mafs	component>
+NFE2L2	Nrf2/Small Mafs	component>
+Nrf2/bZip	CRYZ	-t>

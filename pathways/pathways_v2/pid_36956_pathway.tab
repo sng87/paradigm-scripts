@@ -1,0 +1,47 @@
+protein	ERK1-2-active
+complex	TRAP-1/SMAD4
+protein	SCP1-3
+complex	SMAD3/SMAD4
+protein	MEKK1
+complex	SMAD4/Ubc9/PIASy
+complex	SMAD2/SMAD2/SMAD4
+protein	TRAP-1
+complex	SMAD2/SMAD4
+protein	UBE2I
+protein	SMAD4
+protein	SMAD3
+protein	SMAD2
+protein	PPM1A
+protein	PIAS4
+protein	NUP214
+protein	NUP153
+protein	KPNB1
+protein	KPNA2
+protein	CALM1
+CALM1	SMAD2	-a|
+KPNA2	SMAD3/SMAD4	-a>
+NUP153	SMAD3/SMAD4	-a>
+KPNA2	SMAD2/SMAD2/SMAD4	-a>
+NUP153	SMAD2/SMAD2/SMAD4	-a>
+PPM1A	SMAD2	-a>
+PIAS4	SMAD4/Ubc9/PIASy	component>
+UBE2I	SMAD4/Ubc9/PIASy	component>
+SMAD4	SMAD4/Ubc9/PIASy	component>
+KPNB1	SMAD3/SMAD4	-a>
+ERK1-2-active	SMAD2	-a>
+SCP1-3	SMAD3	-a>
+PPM1A	SMAD3	-a>
+SMAD2/SMAD4	SMAD2/SMAD4	-a>
+SCP1-3	SMAD2	-a>
+ERK1-2-active	SMAD3	-a>
+NUP214	SMAD3/SMAD4	-a>
+NUP214	SMAD2/SMAD2/SMAD4	-a>
+SMAD4	SMAD3/SMAD4	component>
+SMAD3	SMAD3/SMAD4	component>
+SMAD4	SMAD2/SMAD4	component>
+SMAD2	SMAD2/SMAD4	component>
+TRAP-1/SMAD4	TRAP-1	component>
+TRAP-1/SMAD4	SMAD2/SMAD2/SMAD4	component>
+SMAD2	TRAP-1	component>
+SMAD2	SMAD2/SMAD2/SMAD4	component>
+MEKK1	SMAD2	-a>

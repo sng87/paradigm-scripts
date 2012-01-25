@@ -1,0 +1,132 @@
+protein	TIAM1
+protein	PTPN13
+protein	DNM1
+protein	EFNB1
+protein	RAC1
+protein	EPHB1
+protein	EPHB4
+protein	EFNB2
+protein	BLK
+protein	RGS3
+protein	MAP2K4
+protein	MAPK8
+protein	PIK3CA
+protein	EPHB2
+protein	PIK3R1
+protein	SRC
+protein	FGR
+protein	HCK
+protein	ITGA2B
+protein	LYN
+protein	YES1
+protein	FYN
+protein	LCK
+protein	ITGB3
+protein	NCK2
+protein	MAP3K7
+complex	alphaIIb/beta3 Integrin
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PI3K
+complex	Ephrin B2/EPHB4
+complex	Ephrin B2/EPHB1-2
+complex	Ephrin B1/EPHB1-2/Tiam1
+complex	Ephrin B1/EPHB1-2/Src Family Kinases
+complex	Ephrin B1/EPHB1-2/RGS3
+complex	Ephrin B1/EPHB1-2/NCK2
+complex	Ephrin B1/EPHB1-2
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	regulation of stress fiber formation
+abstract	regulation of focal adhesion formation
+abstract	neuron projection morphogenesis
+abstract	endothelial cell proliferation
+abstract	endothelial cell migration
+abstract	chemotaxis
+abstract	cell-cell signaling
+abstract	cell adhesion
+abstract	angiogenesis
+mol:GTP	Rac1/GTP	component>
+mol:GDP	Rac1/GDP	component>
+cell-cell signaling	Ephrin B2/EPHB4	-ap>
+cell-cell signaling	Ephrin B2/EPHB1-2	-ap>
+cell-cell signaling	Ephrin B1/EPHB1-2	-ap>
+alphaIIb/beta3 Integrin	cell adhesion	-ap>
+TIAM1	Ephrin B1/EPHB1-2/Tiam1	component>
+PTPN13	BLK	-a>
+PTPN13	SRC	-a>
+PTPN13	FGR	-a>
+PTPN13	HCK	-a>
+PTPN13	LYN	-a>
+PTPN13	YES1	-a>
+PTPN13	FYN	-a>
+PTPN13	LCK	-a>
+PTPN13	Ephrin B1/EPHB1-2	-a>
+DNM1	EFNB1	-a>
+EFNB1	Ephrin B1/EPHB1-2/Tiam1	component>
+EFNB1	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+EFNB1	Ephrin B1/EPHB1-2/RGS3	component>
+EFNB1	Ephrin B1/EPHB1-2/NCK2	component>
+EFNB1	Ephrin B1/EPHB1-2	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+EPHB1	Ephrin B2/EPHB1-2	component>
+EPHB1	Ephrin B1/EPHB1-2/Tiam1	component>
+EPHB1	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+EPHB1	Ephrin B1/EPHB1-2/RGS3	component>
+EPHB1	Ephrin B1/EPHB1-2/NCK2	component>
+EPHB1	Ephrin B1/EPHB1-2	component>
+EPHB4	Ephrin B2/EPHB4	component>
+EFNB2	Ephrin B2/EPHB4	component>
+EFNB2	Ephrin B2/EPHB1-2	component>
+BLK	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+BLK	Ephrin B1/EPHB1-2	-a>
+RGS3	Ephrin B1/EPHB1-2/RGS3	component>
+MAP2K4	MAPK8	-a>
+PIK3CA	PI3K	component>
+EPHB2	Ephrin B2/EPHB1-2	component>
+EPHB2	Ephrin B1/EPHB1-2/Tiam1	component>
+EPHB2	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+EPHB2	Ephrin B1/EPHB1-2/RGS3	component>
+EPHB2	Ephrin B1/EPHB1-2/NCK2	component>
+EPHB2	Ephrin B1/EPHB1-2	component>
+PIK3R1	PI3K	component>
+SRC	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+SRC	Ephrin B1/EPHB1-2	-a>
+FGR	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+FGR	Ephrin B1/EPHB1-2	-a>
+HCK	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+HCK	Ephrin B1/EPHB1-2	-a>
+ITGA2B	alphaIIb/beta3 Integrin	component>
+LYN	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+LYN	Ephrin B1/EPHB1-2	-a>
+YES1	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+YES1	Ephrin B1/EPHB1-2	-a>
+FYN	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+FYN	Ephrin B1/EPHB1-2	-a>
+LCK	Ephrin B1/EPHB1-2/Src Family Kinases	component>
+LCK	Ephrin B1/EPHB1-2	-a>
+ITGB3	alphaIIb/beta3 Integrin	component>
+NCK2	Ephrin B1/EPHB1-2/NCK2	component>
+MAP3K7	MAP2K4	-a>
+Rac1/GTP	neuron projection morphogenesis	-ap>
+PI3K	cell adhesion	-ap>
+Ephrin B2/EPHB4	endothelial cell proliferation	-ap>
+Ephrin B2/EPHB4	endothelial cell migration	-ap>
+Ephrin B1/EPHB1-2/Tiam1	mol:GDP	-a>
+Ephrin B1/EPHB1-2/Tiam1	Rac1/GTP	-a>
+Ephrin B1/EPHB1-2/RGS3	chemotaxis	-ap|
+Ephrin B1/EPHB1-2/NCK2	regulation of stress fiber formation	-ap|
+Ephrin B1/EPHB1-2/NCK2	regulation of focal adhesion formation	-ap|
+Ephrin B1/EPHB1-2	endothelial cell migration	-ap>
+Ephrin B1/EPHB1-2	angiogenesis	-ap>
+Ephrin B1/EPHB1-2	BLK	-a>
+Ephrin B1/EPHB1-2	SRC	-a>
+Ephrin B1/EPHB1-2	FGR	-a>
+Ephrin B1/EPHB1-2	HCK	-a>
+Ephrin B1/EPHB1-2	LYN	-a>
+Ephrin B1/EPHB1-2	YES1	-a>
+Ephrin B1/EPHB1-2	FYN	-a>
+Ephrin B1/EPHB1-2	LCK	-a>
+Ephrin B1/EPHB1-2	MAP3K7	-a>
+Ephrin B1/EPHB1-2	PI3K	-a>

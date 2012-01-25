@@ -1,0 +1,45 @@
+protein	Preproghrelin and prepro-des-Gln14-ghrelin
+complex	Insulin-like growth factor
+smallMolecule	alpha-D-Glucose
+protein	Acyl Proghrelin
+smallMolecule	Fatty Acids
+smallMolecule	capric acid
+smallMolecule	Caprylic acid
+complex	Insulin
+protein	Des-acyl Ghrelin
+protein	Acyl Ghrelin
+protein	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117
+complex	Signal Peptidase Complex
+protein	UniProt:Q9UBU3-1 GHRL_subunit_24_117_24-117
+protein	Proghrelin and Pro-des-Gln14-ghrelin
+protein	PLA2G7
+protein	PCSK1
+protein	MBOAT4
+protein	LEP
+protein	KLF4
+protein	GH1
+protein	GCG
+protein	BCHE
+BCHE	Des-acyl Ghrelin	-a>
+PLA2G7	Des-acyl Ghrelin	-a>
+Signal Peptidase Complex	Proghrelin and Pro-des-Gln14-ghrelin	-a>
+PCSK1	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a>
+Fatty Acids	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a|
+alpha-D-Glucose	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a|
+Insulin	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a|
+GCG	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a|
+LEP	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a|
+GH1	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a|
+Insulin-like growth factor	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a>
+Acyl Ghrelin	Des-acyl Ghrelin	-a>
+Preproghrelin and prepro-des-Gln14-ghrelin	Proghrelin and Pro-des-Gln14-ghrelin	-a>
+Caprylic acid	UniProt:Q9UBU3-1 GHRL_subunit_24_117_24-117	-a>
+capric acid	UniProt:Q9UBU3-1 GHRL_subunit_24_117_24-117	-a>
+MBOAT4	UniProt:Q9UBU3-1 GHRL_subunit_24_117_24-117	-a>
+KLF4	Preproghrelin and prepro-des-Gln14-ghrelin	-t>
+Acyl Proghrelin	Acyl Ghrelin	-a>
+Acyl Proghrelin	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a>
+UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	Acyl Ghrelin	-a>
+UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a>
+Acyl Ghrelin	Acyl Ghrelin	-a>
+Acyl Ghrelin	UniProt:Q9UBU3-1 GHRL_subunit_52_117_52-117	-a>

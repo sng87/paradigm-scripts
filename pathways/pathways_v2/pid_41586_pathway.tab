@@ -1,0 +1,47 @@
+complex	branched-chain amino acid aminotransferase, mitochondrial, holoenzyme
+smallMolecule	2-Oxoglutarate
+smallMolecule	2-Oxoisocaproate
+complex	methylcrotonyl-CoA carboxylase complex
+complex	branched-chain amino acid aminotransferase, cytosolic, holoenzyme
+complex	isovaleryl-CoA dehydrogenase, holoenzyme
+smallMolecule	L-Leucine
+smallMolecule	H2O
+smallMolecule	CO2
+smallMolecule	HMG-CoA
+smallMolecule	3-Methylglutaconyl-CoA
+smallMolecule	L-Glutamate
+smallMolecule	3-Methylcrotonyl-CoA
+smallMolecule	Isovaleryl-CoA
+smallMolecule	FADH2
+smallMolecule	FAD
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	AUH
+AUH	HMG-CoA	-a>
+methylcrotonyl-CoA carboxylase complex	H2O	-a>
+branched-chain amino acid aminotransferase, mitochondrial, holoenzyme	2-Oxoisocaproate	-a>
+isovaleryl-CoA dehydrogenase, holoenzyme	3-Methylcrotonyl-CoA	-a>
+branched-chain amino acid aminotransferase, cytosolic, holoenzyme	2-Oxoisocaproate	-a>
+H2O	HMG-CoA	-a>
+3-Methylglutaconyl-CoA	HMG-CoA	-a>
+3-Methylcrotonyl-CoA	3-Methylglutaconyl-CoA	-a>
+3-Methylcrotonyl-CoA	ADP	-a>
+3-Methylcrotonyl-CoA	phosphate	-a>
+3-Methylcrotonyl-CoA	H2O	-a>
+CO2	3-Methylglutaconyl-CoA	-a>
+CO2	ADP	-a>
+CO2	phosphate	-a>
+CO2	H2O	-a>
+ATP	3-Methylglutaconyl-CoA	-a>
+ATP	ADP	-a>
+ATP	phosphate	-a>
+ATP	H2O	-a>
+FAD	FADH2	-a>
+FAD	3-Methylcrotonyl-CoA	-a>
+Isovaleryl-CoA	FADH2	-a>
+Isovaleryl-CoA	3-Methylcrotonyl-CoA	-a>
+2-Oxoglutarate	L-Glutamate	-a>
+2-Oxoglutarate	2-Oxoisocaproate	-a>
+L-Leucine	L-Glutamate	-a>
+L-Leucine	2-Oxoisocaproate	-a>

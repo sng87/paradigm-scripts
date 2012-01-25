@@ -1,0 +1,15 @@
+smallMolecule	H2O
+complex	phospho-APC/C:Cdh1 complex
+complex	anaphase promoting complex (APC/C)
+smallMolecule	PPi
+complex	Cdc20:Phospho-APC/C
+protein	FZR1
+protein	CDC20
+FZR1	FZR1	-a>
+FZR1	PPi	-a>
+H2O	FZR1	-a>
+H2O	PPi	-a>
+Cdc20:Phospho-APC/C	anaphase promoting complex (APC/C)	component>
+Cdc20:Phospho-APC/C	CDC20	component>
+FZR1	phospho-APC/C:Cdh1 complex	component>
+anaphase promoting complex (APC/C)	phospho-APC/C:Cdh1 complex	component>

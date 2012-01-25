@@ -1,0 +1,15 @@
+complex	CDC6:ORC:origin complex
+complex	geminin:ubiquitin complex
+complex	CDT1:CDC6:ORC:origin complex
+complex	Cdt1:geminin
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	26S Proteasome
+protein	CDT1
+26S Proteasome	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+CDT1	CDT1:CDC6:ORC:origin complex	component>
+CDC6:ORC:origin complex	CDT1:CDC6:ORC:origin complex	component>
+geminin:ubiquitin complex	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	geminin:ubiquitin complex	-a>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	CDT1	-a>
+Cdt1:geminin	geminin:ubiquitin complex	-a>
+Cdt1:geminin	CDT1	-a>

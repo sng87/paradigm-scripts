@@ -1,0 +1,16 @@
+complex	Calcitonin receptor:calcitonin
+complex	AMY receptors:Amylin
+complex	CGRP receptor
+complex	Adrenomedullin receptor:AM/AM2
+protein	CGRP ligands
+complex	CGRP1 receptor:CGRP
+protein	AM/AM2
+protein	IAPP
+protein	CALCR
+protein	CALCA
+AM/AM2	Adrenomedullin receptor:AM/AM2	component>
+CGRP ligands	CGRP1 receptor:CGRP	component>
+CGRP receptor	CGRP1 receptor:CGRP	component>
+IAPP	AMY receptors:Amylin	component>
+CALCR	Calcitonin receptor:calcitonin	component>
+CALCA	Calcitonin receptor:calcitonin	component>

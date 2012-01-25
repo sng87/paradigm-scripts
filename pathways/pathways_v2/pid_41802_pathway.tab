@@ -1,0 +1,21 @@
+complex	MDC1/NFBD1:gamma-H2AX complex
+complex	BRCA1:53BP1 complex at site of DNA double-strand break
+complex	ATM associated with DNA double-strand break ends
+complex	53BP1:H2AX complex at site of double-strand break
+complex	gamma H2AX:MDC1/NFBD1 complex at site of DNA double-strand break
+complex	gamma H2AX-coated DNA double-strand break ends
+protein	UniProt:Q13315 ATM
+protein	TP53BP1
+protein	MDC1
+protein	H2AFX
+protein	BRCA1
+H2AFX	gamma H2AX:MDC1/NFBD1 complex at site of DNA double-strand break	component>
+MDC1	BRCA1:53BP1 complex at site of DNA double-strand break	component>
+gamma H2AX-coated DNA double-strand break ends	gamma H2AX:MDC1/NFBD1 complex at site of DNA double-strand break	component>
+MDC1	gamma H2AX:MDC1/NFBD1 complex at site of DNA double-strand break	component>
+UniProt:Q13315 ATM	ATM associated with DNA double-strand break ends	component>
+MDC1/NFBD1:gamma-H2AX complex	ATM associated with DNA double-strand break ends	component>
+gamma H2AX:MDC1/NFBD1 complex at site of DNA double-strand break	53BP1:H2AX complex at site of double-strand break	component>
+TP53BP1	53BP1:H2AX complex at site of double-strand break	component>
+53BP1:H2AX complex at site of double-strand break	BRCA1:53BP1 complex at site of DNA double-strand break	component>
+BRCA1	BRCA1:53BP1 complex at site of DNA double-strand break	component>

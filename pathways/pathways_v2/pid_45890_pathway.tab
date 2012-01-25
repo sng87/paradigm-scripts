@@ -1,0 +1,47 @@
+complex	CDC25/14-3-3
+protein	CASP7_0-0
+protein	CASP3_0-0
+complex	ATR/ATRIP/ATM
+complex	CDC2/cyclin B
+protein	CASP6_0-0
+abstract	G2/M transition of mitotic cell cycle
+abstract	apoptosis
+abstract	DNA damage
+complex	APAF-1/Caspase 9
+protein	YWHAH
+protein	TP53
+protein	RASGRF1
+protein	PLK3
+protein	CYCS
+protein	CHEK2
+protein	CHEK1
+protein	CASP7
+protein	CASP6
+protein	CASP3
+protein	BAX
+APAF-1/Caspase 9	CASP7_0-0	-a>
+CHEK2	YWHAH	component>
+APAF-1/Caspase 9	CASP3_0-0	-a>
+CHEK1	YWHAH	component>
+PLK3	YWHAH	component>
+APAF-1/Caspase 9	CASP6_0-0	-a>
+CASP7	CASP7_0-0	-a>
+ATR/ATRIP/ATM	CHEK2	-a>
+TP53	BAX	-t>
+CASP3_0-0	apoptosis	-ap>
+CASP3	CASP3_0-0	-a>
+ATR/ATRIP/ATM	CHEK1	-a>
+CDC2/cyclin B	G2/M transition of mitotic cell cycle	-ap>
+CYCS	APAF-1/Caspase 9	-a>
+BAX	CYCS	-a>
+CHEK2	TP53	-a>
+CHEK1	TP53	-a>
+CDC25/14-3-3	CDC2/cyclin B	-a>
+ATR/ATRIP/ATM	PLK3	-a>
+DNA damage	ATR/ATRIP/ATM	-a>
+CASP6_0-0	apoptosis	-ap>
+PLK3	TP53	-a>
+CDC25/14-3-3	RASGRF1	component>
+CDC25/14-3-3	YWHAH	component>
+CASP7_0-0	apoptosis	-ap>
+CASP6	CASP6_0-0	-a>

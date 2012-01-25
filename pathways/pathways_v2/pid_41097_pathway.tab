@@ -1,0 +1,46 @@
+complex	Spliceosomal m3G capped snRNA:SMN:SM:Snurportin complex
+complex	Spliceosomal m7G capped snRNAs with SMN:SM protein complex bound
+complex	Spliceosomal m3G capped snRNA loaded with the SM complex
+complex	Nuclear Pore Complex (NPC)
+protein	UniProt:Q96RS0 TGS1
+smallMolecule	Acylcarnitine
+complex	m7G capped snRNA:CBC:PHAX complex
+complex	Spliceosomal m3G capped snRNAs with SMN:SM protein complex bound
+complex	SMN complex
+complex	m7G capped Spliceosomal snRNA
+complex	SMN:SM protein complex
+complex	Cap Binding Complex (CBC)
+complex	Methylosome
+protein	SNUPN
+protein	SNRPG
+protein	SNRPF
+protein	SNRPE
+protein	SNRPD3
+protein	SNRPD2
+protein	SNRPD1
+protein	SNRPB
+protein	PHAX
+Nuclear Pore Complex (NPC)	Spliceosomal m3G capped snRNA loaded with the SM complex	component>
+Nuclear Pore Complex (NPC)	m7G capped Spliceosomal snRNA	component>
+Methylosome	SMN:SM protein complex	component>
+UniProt:Q96RS0 TGS1	Spliceosomal m3G capped snRNAs with SMN:SM protein complex bound	-a>
+Spliceosomal m3G capped snRNA:SMN:SM:Snurportin complex	SNUPN	component>
+Spliceosomal m3G capped snRNA:SMN:SM:Snurportin complex	SMN complex	component>
+Spliceosomal m3G capped snRNA:SMN:SM:Snurportin complex	Spliceosomal m3G capped snRNA loaded with the SM complex	component>
+m7G capped snRNA:CBC:PHAX complex	Cap Binding Complex (CBC)	component>
+m7G capped snRNA:CBC:PHAX complex	PHAX	component>
+m7G capped snRNA:CBC:PHAX complex	m7G capped Spliceosomal snRNA	component>
+m7G capped Spliceosomal snRNA	Spliceosomal m7G capped snRNAs with SMN:SM protein complex bound	component>
+SMN:SM protein complex	Spliceosomal m7G capped snRNAs with SMN:SM protein complex bound	component>
+SNRPD1	SMN:SM protein complex	component>
+SMN complex	SMN:SM protein complex	component>
+SNRPB	SMN:SM protein complex	component>
+SNRPD3	SMN:SM protein complex	component>
+SNRPF	SMN:SM protein complex	component>
+SNRPD2	SMN:SM protein complex	component>
+SNRPE	SMN:SM protein complex	component>
+Acylcarnitine	SMN:SM protein complex	component>
+SNRPG	SMN:SM protein complex	component>
+SNUPN	Spliceosomal m3G capped snRNA:SMN:SM:Snurportin complex	component>
+Spliceosomal m3G capped snRNAs with SMN:SM protein complex bound	Spliceosomal m3G capped snRNA:SMN:SM:Snurportin complex	component>
+Spliceosomal m7G capped snRNAs with SMN:SM protein complex bound	Spliceosomal m3G capped snRNAs with SMN:SM protein complex bound	-a>

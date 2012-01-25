@@ -1,0 +1,15 @@
+complex	Apoptosome
+complex	active caspase-7
+complex	active caspase-3
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CASP7
+protein	CASP3
+Apoptosome	ADP	component>
+ATP	active caspase-7	component>
+CASP7	active caspase-7	component>
+CASP7	ADP	component>
+CASP3	active caspase-3	component>
+CASP3	ADP	component>
+ATP	active caspase-3	component>
+ATP	ADP	component>

@@ -1,0 +1,24 @@
+protein	picornavirus protease 2A
+complex	c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB
+protein	Active caspases
+rna	c-Myc mRNA
+complex	eIF-4G/eIF-4E/PTB
+protein	EIF3S10
+complex	eIF-4G/eIF3/EIF-4A
+protein	PTB
+complex	eIF-4G (dimer)
+abstract	translational initiation
+protein	EIF4E
+protein	EIF4A1
+Active caspases	eIF-4G/eIF3/EIF-4A	component>
+picornavirus protease 2A	eIF-4G/eIF3/EIF-4A	component>
+eIF-4G/eIF3/EIF-4A	translational initiation	-ap>
+PTB	c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	component>
+c-Myc mRNA	c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	component>
+EIF4A1	c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	component>
+EIF4E	c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	component>
+EIF3S10	c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	component>
+eIF-4G (dimer)	c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	component>
+c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	eIF-4G/eIF-4E/PTB	component>
+c-Myc mRNA/eIF-4G (dimer)/eIF-3/eIF-4E/eIF-4A/PTB	eIF-4G/eIF3/EIF-4A	component>
+eIF-4G/eIF-4E/PTB	translational initiation	-ap>

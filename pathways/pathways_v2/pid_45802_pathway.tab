@@ -1,0 +1,45 @@
+complex	IRS1/2/GRB2
+complex	STAT6/STAT6 (cleaved)
+protein	STAT6 protease
+complex	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2
+complex	IL-2R-gamma/IL-4R-alpha/JAK3/JAK1
+complex	STAT6/STAT6
+protein	IRS-1/2
+complex	MHC class II
+complex	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1
+abstract	cell survival
+abstract	G1 phase of mitotic cell cycle
+abstract	cell proliferation
+protein	STAT6
+protein	SHC1
+protein	RPS6KB1
+protein	IL4R
+protein	IL4
+protein	IGHE
+protein	HMGA1
+protein	GRB2
+protein	FCER2
+protein	AKT1
+STAT6 protease	STAT6/STAT6 (cleaved)	-a>
+STAT6/STAT6 (cleaved)	MHC class II	-t>
+RPS6KB1	HMGA1	-a>
+IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+IL4	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+SHC1	G1 phase of mitotic cell cycle	-ap>
+STAT6/STAT6 (cleaved)	IGHE	-t>
+STAT6/STAT6 (cleaved)	IL4R	-t>
+GRB2	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+GRB2	IRS1/2/GRB2	component>
+IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	component>
+IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	IRS1/2/GRB2	component>
+STAT6/STAT6 (cleaved)	FCER2	-t>
+STAT6/STAT6	STAT6/STAT6	-a>
+AKT1	cell survival	-ap>
+IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	SHC1	-a>
+IRS1/2/GRB2	AKT1	-a>
+STAT6/STAT6	STAT6/STAT6 (cleaved)	-a>
+STAT6	STAT6/STAT6	component>
+IRS-1/2	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>
+IL-4/IL-2R-gamma/IL-4R-alpha/JAK3/JAK1	IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	component>
+IL-4/IL-2R-gamma/IL-2R-alpha/JAK3/JAK1/IRS1/2	STAT6	-a>
+IRS1/2/GRB2	cell proliferation	-ap>

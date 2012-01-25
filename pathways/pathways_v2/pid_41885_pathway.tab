@@ -1,0 +1,9 @@
+complex	NGF ligand:p75NTR
+complex	NGF ligand:p75NTR:NADE
+complex	14-3-3E homodimer
+complex	NGF ligand:p75NTR:NADE:14-3-3epsilon
+protein	NGFRAP1
+NGFRAP1	NGF ligand:p75NTR:NADE	component>
+NGF ligand:p75NTR	NGF ligand:p75NTR:NADE	component>
+NGF ligand:p75NTR:NADE	NGF ligand:p75NTR:NADE:14-3-3epsilon	component>
+14-3-3E homodimer	NGF ligand:p75NTR:NADE:14-3-3epsilon	component>

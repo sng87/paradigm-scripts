@@ -1,0 +1,138 @@
+abstract	cellular response to amino acid starvation
+abstract	response to growth factor stimulus
+abstract	response to retinoic acid
+abstract	response to stress
+abstract	degradation
+abstract	DNA damage
+complex	ATF2/JDP2
+complex	ATF2/ATF2
+complex	ATF2/p300
+complex	ATF2/BRCA1/Oct-1/Neurofibromin
+protein	ERK1-2-active
+complex	ATF2/TIP49B
+protein	uPA
+protein	maspin
+protein	p38alpha-beta-active
+complex	ATF2/CREB1
+complex	ATF2/JUN
+complex	ATF2/JUND/macroH2A
+complex	ATF2/JUND
+protein	p300
+protein	TH
+protein	TGFB2
+protein	SOCS3
+protein	SELE
+protein	RUVBL2
+protein	RB1
+protein	PRKCA
+protein	PPARGC1A
+protein	POU2F1
+protein	PDGFRA
+protein	NOS2
+protein	NF1
+protein	MMP2
+protein	MAPK9
+protein	MAPK8
+protein	MAPK14
+protein	KAT5
+protein	JUND
+protein	JUN
+protein	JDP2
+protein	INS
+protein	IL6
+protein	IL23A
+protein	IFNG
+protein	HRK
+protein	H2AFY
+protein	GADD45A
+protein	FOS
+protein	DUSP8
+protein	DUSP5
+protein	DUSP10
+protein	DUSP1
+protein	DDIT3
+protein	CUL3
+protein	CSRP2
+protein	CREB1
+protein	COL24A1
+protein	CCND1
+protein	CCNA2
+protein	BRCA1
+protein	BCL2
+protein	ATF3
+protein	ATF2
+protein	ACHE
+MAPK9	ATF2	-a>
+FOS	uPA	-t|
+cellular response to amino acid starvation	ATF2/JDP2	component>
+p38alpha-beta-active	ATF2	-a>
+JDP2	JUN	-t|
+p300	JUN	-t>
+ERK1-2-active	ATF2	-a>
+MAPK8	ATF2	-a>
+PRKCA	ATF2	-a>
+ATF2/JDP2	DDIT3	-t|
+CUL3	KAT5	-a>
+ATF2	KAT5	-a>
+cellular response to amino acid starvation	ATF2	-a>
+ATF2/JUN	uPA	-t>
+ATF2	SOCS3	-t>
+JDP2	ATF2/JDP2	component>
+ATF2	ATF2/JDP2	component>
+ATF2	DUSP10	-t>
+ATF2	MMP2	-t>
+RUVBL2	ATF2/TIP49B	component>
+ATF2	ATF2/TIP49B	component>
+H2AFY	ATF2/JUND/macroH2A	component>
+ATF2/JUND	ATF2/JUND/macroH2A	component>
+NF1	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+POU2F1	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+BRCA1	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+ATF2	ATF2/BRCA1/Oct-1/Neurofibromin	component>
+ATF2	ATF2/JUN	component>
+JUN	ATF2/JUN	component>
+MAPK14	ATF2	-a>
+ATF2	JUN	-t>
+ATF2	PPARGC1A	-t>
+ATF2/ATF2	CCNA2	-t>
+ATF2/JUN	JUN	-t>
+response to growth factor stimulus	ATF2	-a>
+ATF2/JUN	HRK	-t>
+CREB1	ATF2/CREB1	component>
+ATF2	ATF2/CREB1	component>
+ATF2	DUSP5	-t>
+ATF2/JUN	SELE	-t>
+ATF2/JUN	ATF3	-t>
+ATF2/JUN	IFNG	-t>
+ATF2/JUN	COL24A1	-t>
+ATF2	CCND1	-t>
+ATF2	PDGFRA	-t>
+KAT5	degradation	-ap>
+ATF2	DUSP1	-t>
+ATF2/CREB1	BCL2	-t>
+JUND	ATF2/JUND	component>
+ATF2	ATF2/JUND	component>
+response to stress	ATF2	-a>
+response to retinoic acid	ATF2	-a>
+ATF2	CSRP2	-t>
+ATF2	INS	-t>
+ATF2	DDIT3	-t>
+ATF2	RB1	-t>
+ATF2	ATF2	-a>
+ATF2/ATF2	uPA	-t>
+ATF2/JUN	IL23A	-t>
+ATF2	ATF2/ATF2	component>
+ATF2/JUND	CCNA2	-t>
+ATF2	maspin	-t>
+p300	ATF2/p300	component>
+ATF2	ATF2/p300	component>
+ATF2	NOS2	-t>
+ATF2	DUSP8	-t>
+ATF2/CREB1	CCND1	-t>
+ATF2/JUN	ACHE	-t>
+ATF2	IL6	-t>
+ATF2	TGFB2	-t>
+ATF2/BRCA1/Oct-1/Neurofibromin	GADD45A	-t>
+ATF2	TH	-t>
+ATF2	degradation	-ap>
+DNA damage	KAT5	-a|

@@ -1,0 +1,21 @@
+complex	pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex
+complex	pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex
+complex	pol II closed pre-initiation complex
+complex	TFIID
+complex	TFIIA
+complex	RNA Polymerase II (unphosphorylated):TFIIF complex
+complex	pol II promoter:TFIID complex
+complex	TFIIE
+complex	pol II promoter:TFIID:TFIIA:TFIIB complex
+complex	TFIIH
+protein	GTF2B
+TFIID	pol II promoter:TFIID complex	-a>
+TFIIH	pol II closed pre-initiation complex	component>
+pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex	pol II closed pre-initiation complex	component>
+pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex	pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex	component>
+TFIIE	pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF:TFIIE complex	component>
+pol II promoter:TFIID complex	pol II promoter:TFIID:TFIIA:TFIIB complex	component>
+GTF2B	pol II promoter:TFIID:TFIIA:TFIIB complex	component>
+TFIIA	pol II promoter:TFIID:TFIIA:TFIIB complex	component>
+RNA Polymerase II (unphosphorylated):TFIIF complex	pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex	component>
+pol II promoter:TFIID:TFIIA:TFIIB complex	pol II promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex	component>

@@ -1,0 +1,59 @@
+smallMolecule	Triacylglycerol
+smallMolecule	2-acylglycerol
+protein	PP1 catalytic subunit
+smallMolecule	cholesterol ester
+complex	perilipin:CGI-58 complex
+smallMolecule	H2O
+smallMolecule	Long-chain fatty acid
+protein	PKA catalytic subunit
+smallMolecule	Diacylglycerol
+complex	phosphorylated HSL dimer
+complex	phosphorylated HSL dimer:FABP4 complex
+smallMolecule	Glycerol
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	Cholesterol
+protein	PLIN
+protein	MGLL
+protein	LIPE
+protein	FABP4
+protein	CAV1
+protein	ABHD5
+MGLL	Glycerol	-a>
+CAV1	ADP	-a>
+phosphorylated HSL dimer:FABP4 complex	Diacylglycerol	-a>
+PKA catalytic subunit	ADP	-a>
+phosphorylated HSL dimer:FABP4 complex	Long-chain fatty acid	-a>
+perilipin:CGI-58 complex	PLIN	component>
+perilipin:CGI-58 complex	ABHD5	component>
+2-acylglycerol	Long-chain fatty acid	-a>
+2-acylglycerol	Glycerol	-a>
+H2O	Glycerol	-a>
+H2O	PLIN	-a>
+PLIN	phosphate	-a>
+PP1 catalytic subunit	PLIN	-a>
+phosphorylated HSL dimer	phosphorylated HSL dimer	-a>
+ATP	PLIN	-a>
+PLIN	PLIN	-a>
+PLIN	ADP	-a>
+LIPE	phosphate	-a>
+H2O	LIPE	-a>
+H2O	phosphate	-a>
+Triacylglycerol	Long-chain fatty acid	-a>
+Triacylglycerol	Diacylglycerol	-a>
+H2O	Diacylglycerol	-a>
+FABP4	phosphorylated HSL dimer:FABP4 complex	component>
+phosphorylated HSL dimer	phosphorylated HSL dimer:FABP4 complex	component>
+H2O	Cholesterol	-a>
+cholesterol ester	Cholesterol	-a>
+cholesterol ester	Long-chain fatty acid	-a>
+ATP	LIPE	-a>
+ATP	ADP	-a>
+LIPE	LIPE	-a>
+LIPE	ADP	-a>
+LIPE	phosphorylated HSL dimer	component>
+H2O	2-acylglycerol	-a>
+H2O	Long-chain fatty acid	-a>
+Diacylglycerol	2-acylglycerol	-a>
+Diacylglycerol	Long-chain fatty acid	-a>

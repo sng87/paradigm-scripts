@@ -1,0 +1,45 @@
+protein	MKK7/MEK4
+complex	TNF-alpha/TNF R1/SODD
+complex	IKK2/IKK3/IKK1
+protein	MEK3/MEK6
+complex	TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2
+complex	TNF R1/SODD
+protein	TRAF2
+protein	TRADD
+protein	TNF
+protein	TANK
+protein	RIPK1
+protein	MAPK8
+protein	MAPK14
+protein	MAP4K4
+protein	MAP4K2
+protein	MAP3K1
+protein	JUN
+protein	CASP2
+protein	BAG4
+protein	ATF1
+MAP4K4	IKK2/IKK3/IKK1	-a>
+TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	MAP4K4	-a>
+MAPK14	ATF1	-a>
+MAP3K1	MEK3/MEK6	-a>
+MAP4K2	MAP3K1	-a>
+MAPK8	JUN	-a>
+TNF-alpha/TNF R1/SODD	BAG4	component>
+TNF-alpha/TNF R1/SODD	TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	component>
+CASP2	BAG4	component>
+CASP2	TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	component>
+RIPK1	BAG4	component>
+RIPK1	TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	component>
+TRADD	BAG4	component>
+TRADD	TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	component>
+TRAF2	BAG4	component>
+TRAF2	TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	component>
+TANK	BAG4	component>
+TANK	TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	component>
+TNF R1/SODD	TNF-alpha/TNF R1/SODD	component>
+TNF	TNF-alpha/TNF R1/SODD	component>
+MAP3K1	MKK7/MEK4	-a>
+TNF-alpha/TNF R1/TRADD/RIP/RAIDD/TRAF2/TANK/Caspase 2	MAP4K2	-a>
+MEK3/MEK6	MAPK14	-a>
+MAP3K1	IKK2/IKK3/IKK1	-a>
+MKK7/MEK4	MAPK8	-a>

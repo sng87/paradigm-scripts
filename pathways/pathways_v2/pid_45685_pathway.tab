@@ -1,0 +1,38 @@
+abstract	mitotic chromosome decondensation
+abstract	mitotic chromosome condensation
+abstract	M phase of mitotic cell cycle
+complex	Condensin
+complex	CDC2/cyclin B
+complex	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95
+complex	PKAc/RII-alpha/TII-beta
+complex	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95
+abstract	G1 phase of mitotic cell cycle
+protein	Histone H3
+protein	PPYR1
+protein	PPP2R5D
+protein	DDX5
+protein	AKAP8
+M phase of mitotic cell cycle	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95	component>
+PPYR1	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	-a>
+PPP2R5D	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	-a>
+M phase of mitotic cell cycle	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	-a>
+CDC2/cyclin B	Condensin	-a>
+PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	mitotic chromosome decondensation	-ap>
+PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95	mitotic chromosome condensation	-ap>
+CDC2/cyclin B	PKAc/RII-alpha/TII-beta	-a>
+M phase of mitotic cell cycle	PKAc/RII-alpha/TII-beta	component>
+AKAP8	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95	component>
+Histone H3	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95	component>
+Condensin	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95	component>
+PKAc/RII-alpha/TII-beta	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95	component>
+G1 phase of mitotic cell cycle	DDX5	-a>
+M phase of mitotic cell cycle	DDX5	-a>
+PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3 (+)/Akap95	PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	-a>
+M phase of mitotic cell cycle	Condensin	-a>
+M phase of mitotic cell cycle	mitotic chromosome decondensation	-ap>
+M phase of mitotic cell cycle	mitotic chromosome condensation	-ap>
+M phase of mitotic cell cycle	PKAc/RII-alpha/TII-beta	-a>
+PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	AKAP8	component>
+PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	Histone H3	component>
+PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	Condensin	component>
+PKA catalytic beta/PKA catalytic gamma/PKA regulatory type II alpha/PKA regulatory type II beta/PKA non-catalytic gamma/Eg7/Histone H3/Akap95	PKAc/RII-alpha/TII-beta	component>

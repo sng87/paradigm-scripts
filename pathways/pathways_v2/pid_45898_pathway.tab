@@ -1,0 +1,98 @@
+complex	TLR7/TLR7/MYD88/IRAK
+complex	PGN/PGRP
+protein	SITPEC
+complex	TLR3/TLR3/MYD88/IRAK
+complex	TLR2/TLR6/MYD88/IRAK
+complex	TLR2/TLR6 activating compounds/TLR2/TLR6/MYD88/IRAK/CD14
+protein	TLR2/TLR 6 activating compounds
+complex	TLR2/TLR6 activating compounds/TLR2/TLR2/MYD88/IRAK/CD14
+complex	IKK2/IKK3/IKK1
+complex	LPS/TLR4/TLR4/TIRAP/TOLLIP/PKR/MYD88/IRAK/MD-2/CD14
+complex	TLR9/TLR9/MYD88/IRAK
+smallMolecule	imiquimod
+complex	Imiquimod/TLR7/TLR7/MYD88/IRAK
+smallMolecule	R848
+complex	R848/TLR7/TLR7/MYD88/IRAK
+complex	NF-kappa-B
+complex	TLR2/TLR2/MYD88/IRAK
+complex	NF-kappa-B/I-kappa-B-alpha
+complex	Poly (I:c)TLR3/TLR3/MYD88/IRAK
+smallMolecule	Polyinosine-polycytidylic acid [Poly (I:c)]
+smallMolecule	(PGN) peptidoglycan
+smallMolecule	EPA (Eicosapentaenoic Acid)
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+smallMolecule	CpG DNA
+complex	CpG DNA/TLR9/TLR9/MYD88/IRAK
+complex	TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2
+abstract	protein ubiquitination
+abstract	degradation
+abstract	apoptosis
+smallMolecule	LPS
+complex	AP-1
+complex	TAK1/TAB1/TAB2
+protein	TRAF6
+protein	PPARA
+protein	PGLYRP1
+protein	MAPK8
+protein	MAPK14
+protein	MAP3K14
+protein	MAP3K1
+protein	MAP2K6
+protein	MAP2K4
+protein	MAP2K3
+protein	ELK1
+protein	CD14
+MAP3K1	protein ubiquitination	-ap>
+IKK2/IKK3/IKK1	protein ubiquitination	-ap>
+MAP2K6	MAPK14	-a>
+TLR3/TLR3/MYD88/IRAK	Poly (I:c)TLR3/TLR3/MYD88/IRAK	-a>
+Polyinosine-polycytidylic acid [Poly (I:c)]	Poly (I:c)TLR3/TLR3/MYD88/IRAK	-a>
+R848/TLR7/TLR7/MYD88/IRAK	TRAF6	-a>
+SITPEC	MAP3K1	-a>
+TLR2/TLR2/MYD88/IRAK	TLR2/TLR6 activating compounds/TLR2/TLR2/MYD88/IRAK/CD14	component>
+CD14	TLR2/TLR6 activating compounds/TLR2/TLR2/MYD88/IRAK/CD14	component>
+TLR2/TLR 6 activating compounds	TLR2/TLR6 activating compounds/TLR2/TLR2/MYD88/IRAK/CD14	component>
+EPA (Eicosapentaenoic Acid)	PPARA	-a>
+PPARA	NF-kappa-B	-a|
+LPS/TLR4/TLR4/TIRAP/TOLLIP/PKR/MYD88/IRAK/MD-2/CD14	TRAF6	-a>
+TAK1/TAB1/TAB2	MAP3K14	-a>
+MAP2K6	MAP2K6	-a>
+MAP2K6	MAP2K3	-a>
+MAP2K3	MAP2K6	-a>
+TAK1/TAB1/TAB2	MAP2K3	-a>
+TRAF6	SITPEC	-a>
+TLR9/TLR9/MYD88/IRAK	CpG DNA/TLR9/TLR9/MYD88/IRAK	-a>
+CpG DNA	CpG DNA/TLR9/TLR9/MYD88/IRAK	-a>
+TRAF6	TAK1/TAB1/TAB2	-a>
+MAPK14	ELK1	-a>
+EPA (Eicosapentaenoic Acid)	EPA (Eicosapentaenoic Acid)	-a>
+CD14	TLR2/TLR6 activating compounds/TLR2/TLR6/MYD88/IRAK/CD14	component>
+TLR2/TLR6/MYD88/IRAK	TLR2/TLR6 activating compounds/TLR2/TLR6/MYD88/IRAK/CD14	component>
+TLR2/TLR 6 activating compounds	TLR2/TLR6 activating compounds/TLR2/TLR6/MYD88/IRAK/CD14	component>
+MAP2K4	protein ubiquitination	-ap>
+MAP2K4	MAPK8	-a>
+NF-kappa-B	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+MAPK8	AP-1	-a>
+PGN/PGRP	apoptosis	-ap>
+TLR2/TLR6 activating compounds/TLR2/TLR2/MYD88/IRAK/CD14	TRAF6	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+NF-kappa-B/I-kappa-B-alpha	protein ubiquitination	-ap>
+TLR7/TLR7/MYD88/IRAK	R848/TLR7/TLR7/MYD88/IRAK	-a>
+R848	R848/TLR7/TLR7/MYD88/IRAK	-a>
+MAP2K3	MAPK14	-a>
+MAPK8	MAPK8	-a>
+CpG DNA/TLR9/TLR9/MYD88/IRAK	TRAF6	-a>
+CD14	LPS/TLR4/TLR4/TIRAP/TOLLIP/PKR/MYD88/IRAK/MD-2/CD14	component>
+TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2	LPS/TLR4/TLR4/TIRAP/TOLLIP/PKR/MYD88/IRAK/MD-2/CD14	component>
+LPS	LPS/TLR4/TLR4/TIRAP/TOLLIP/PKR/MYD88/IRAK/MD-2/CD14	component>
+Poly (I:c)TLR3/TLR3/MYD88/IRAK	TRAF6	-a>
+TLR7/TLR7/MYD88/IRAK	Imiquimod/TLR7/TLR7/MYD88/IRAK	-a>
+imiquimod	Imiquimod/TLR7/TLR7/MYD88/IRAK	-a>
+Imiquimod/TLR7/TLR7/MYD88/IRAK	TRAF6	-a>
+MAP3K1	IKK2/IKK3/IKK1	-a>
+TAK1/TAB1/TAB2	MAP2K4	-a>
+TLR2/TLR6 activating compounds/TLR2/TLR6/MYD88/IRAK/CD14	TRAF6	-a>
+MAP3K14	IKK2/IKK3/IKK1	-a>
+PGLYRP1	PGN/PGRP	component>
+(PGN) peptidoglycan	PGN/PGRP	component>

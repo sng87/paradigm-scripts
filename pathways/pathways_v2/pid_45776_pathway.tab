@@ -1,0 +1,19 @@
+abstract	glucose metabolic process
+abstract	fatty acid oxidation
+complex	Leptin/Leptin R
+complex	AMPK
+smallMolecule	Malonyl-CoA
+smallMolecule	Acetyl-CoA
+protein	LEPR
+protein	LEP
+protein	CPT1A
+protein	ACACA
+Malonyl-CoA	fatty acid oxidation	-ap|
+ACACA	Malonyl-CoA	-a>
+LEPR	Leptin/Leptin R	component>
+LEP	Leptin/Leptin R	component>
+CPT1A	fatty acid oxidation	-ap>
+Leptin/Leptin R	AMPK	-a>
+fatty acid oxidation	glucose metabolic process	-ap>
+AMPK	ACACA	-a>
+Acetyl-CoA	Malonyl-CoA	-a>

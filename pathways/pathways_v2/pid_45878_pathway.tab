@@ -1,0 +1,108 @@
+complex	TCR-CD3/MHC II/CD4
+complex	TCR-CD3/MHC II/CD4/LCK
+protein	GAP
+complex	SHC/GRB2/SOS-1
+smallMolecule	neoral (tn)
+complex	CaM/Ca ++
+complex	p50/RELA/I-kappa-B-alpha
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	TCR-CD3
+complex	TCR-CD3/MHC II/CD4/LCK/ZAP70
+complex	RELA/p50
+protein	CaM
+complex	MHC class II
+smallMolecule	PIP2
+abstract	protein ubiquitination
+abstract	degradation
+smallMolecule	DAG
+protein	PKC
+complex	AP-1
+complex	Calcineurin
+smallMolecule	FK506
+protein	NFATc
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ZAP70
+protein	VAV1
+protein	RAF1
+protein	RAC1
+protein	PTPRC
+protein	PTPN7
+protein	PLCG1
+protein	MAPK8
+protein	MAPK3
+protein	MAP3K1
+protein	MAP2K4
+protein	MAP2K1
+protein	LCK
+protein	LAT
+protein	JUN
+protein	HRAS
+protein	FYN
+protein	FOS
+protein	ELK1
+protein	CD4
+VAV1	GDP	-a>
+PLCG1	DAG	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+PKC	protein ubiquitination	-ap>
+DAG	PKC	-a>
+neoral (tn)	Calcineurin	-a>
+TCR-CD3/MHC II/CD4/LCK/ZAP70	LAT	-a>
+PI3K	VAV1	-a>
+MAP2K1	MAPK3	-a>
+MAPK8	JUN	-a>
+CD4	TCR-CD3/MHC II/CD4	component>
+MHC class II	TCR-CD3/MHC II/CD4	component>
+TCR-CD3	TCR-CD3/MHC II/CD4	component>
+CaM/Ca ++	Calcineurin	-a>
+PTPRC	FYN	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+LCK	TCR-CD3/MHC II/CD4/LCK	component>
+TCR-CD3/MHC II/CD4	TCR-CD3/MHC II/CD4/LCK	component>
+LAT	PLCG1	-a>
+Calcineurin	NFATc	-a>
+RAC1	RAC1	-a>
+RAC1	GDP	-a>
+GTP	RAC1	-a>
+TCR-CD3/MHC II/CD4/LCK/ZAP70	VAV1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+RAC1	MAP3K1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+MAPK3	ELK1	-a>
+PTPRC	LCK	-a>
+RAF1	MAP2K1	-a>
+MAPK3	FOS	-a>
+FYN	VAV1	-a>
+ZAP70	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+TCR-CD3/MHC II/CD4/LCK	TCR-CD3/MHC II/CD4/LCK/ZAP70	component>
+MAP3K1	MAP2K4	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+GDP	GTP	-a>
+GDP	HRAS	-a>
+HRAS	GTP	-a>
+GAP	HRAS	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+LAT	SHC/GRB2/SOS-1	-a>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+HRAS	PI3K	-a>
+FOS	AP-1	component>
+JUN	AP-1	component>
+FK506	Calcineurin	-a>
+NFATc	NFATc	-a>
+MAP2K4	MAPK8	-a>
+RELA/p50	RELA/p50	-a>
+PTPN7	MAPK3	-a>
+MAPK3	MAPK3	-a>

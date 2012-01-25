@@ -1,0 +1,67 @@
+smallMolecule	Lanosterol
+smallMolecule	TPNH
+smallMolecule	Zymosterol
+smallMolecule	Formate
+smallMolecule	Desmosterol
+smallMolecule	5alpha-cholesta-7,24-dien-3beta-ol
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	CO2
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	7-Dehydrodesmosterol
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Cholesterol
+protein	TM7SF2
+protein	SC5DL
+protein	SC4MOL
+protein	NSDHL
+protein	LBR
+protein	HSD17B7
+protein	EBP
+protein	DHCR7
+protein	DHCR24
+protein	CYP51A1
+DHCR7	TPN	-a>
+SC5DL	7-Dehydrodesmosterol	-a>
+NSDHL	NADH	-a>
+CYP51A1	Formate	-a>
+SC4MOL	TPN	-a>
+LBR	TPN	-a>
+EBP	5alpha-cholesta-7,24-dien-3beta-ol	-a>
+SC4MOL	H2O	-a>
+HSD17B7	Zymosterol	-a>
+DHCR24	Cholesterol	-a>
+TM7SF2	TPN	-a>
+7-Dehydrodesmosterol	Desmosterol	-a>
+7-Dehydrodesmosterol	TPN	-a>
+H+	Desmosterol	-a>
+TPNH	Desmosterol	-a>
+5alpha-cholesta-7,24-dien-3beta-ol	TPN	-a>
+5alpha-cholesta-7,24-dien-3beta-ol	H2O	-a>
+5alpha-cholesta-7,24-dien-3beta-ol	7-Dehydrodesmosterol	-a>
+TPNH	7-Dehydrodesmosterol	-a>
+H+	7-Dehydrodesmosterol	-a>
+O2	7-Dehydrodesmosterol	-a>
+O2	Formate	-a>
+Lanosterol	H2O	-a>
+Lanosterol	TPN	-a>
+Lanosterol	Formate	-a>
+H+	Formate	-a>
+TPNH	Formate	-a>
+Zymosterol	5alpha-cholesta-7,24-dien-3beta-ol	-a>
+H+	H2O	-a>
+TPNH	H2O	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+TPNH	Zymosterol	-a>
+H+	Zymosterol	-a>
+DPN	NADH	-a>
+DPN	CO2	-a>
+DPN	H+	-a>
+Desmosterol	Cholesterol	-a>
+TPNH	Cholesterol	-a>
+H+	Cholesterol	-a>
+H+	TPN	-a>
+TPNH	TPN	-a>

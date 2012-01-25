@@ -1,0 +1,36 @@
+complex	alpha tubulin/beta tubulin/stathmin
+complex	CamKIV/CaM/Ca ++
+complex	alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin
+complex	Phycoerythrin/CD2/CD3Z antigen zeta polypeptide
+complex	CDC2/cyclin B
+complex	alpha tubulin/beta tubulin
+smallMolecule	Phycoerythrin
+complex	PKA
+smallMolecule	Phycohemagglutinin
+complex	Phycohemagglutinin/CD2/CD3Z antigen zeta polypeptide
+complex	CD2/CD3Z antigen zeta polypeptide
+complex	Ca ++/CD2/CD3Z antigen zeta polypeptide
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++
+smallMolecule	Ca2+
+smallMolecule	GTP
+protein	STMN1
+protein	MAPK13
+GTP	alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin	component>
+Ca ++/CD2/CD3Z antigen zeta polypeptide	PKA	-a>
+CD2/CD3Z antigen zeta polypeptide	Ca ++/CD2/CD3Z antigen zeta polypeptide	-a>
+Ca2+	Ca ++/CD2/CD3Z antigen zeta polypeptide	-a>
+CDC2/cyclin B	STMN1	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	STMN1	-a>
+PKA	STMN1	-a>
+CD2/CD3Z antigen zeta polypeptide	Phycoerythrin/CD2/CD3Z antigen zeta polypeptide	-a>
+Phycoerythrin	Phycoerythrin/CD2/CD3Z antigen zeta polypeptide	-a>
+Phycohemagglutinin/CD2/CD3Z antigen zeta polypeptide	PKA	-a>
+CamKIV/CaM/Ca ++	STMN1	-a>
+alpha tubulin/beta tubulin	alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin	component>
+Phycoerythrin/CD2/CD3Z antigen zeta polypeptide	PKA	-a>
+CD2/CD3Z antigen zeta polypeptide	Phycohemagglutinin/CD2/CD3Z antigen zeta polypeptide	-a>
+Phycohemagglutinin	Phycohemagglutinin/CD2/CD3Z antigen zeta polypeptide	-a>
+STMN1	alpha tubulin/beta tubulin/stathmin	component>
+alpha tubulin/beta tubulin	alpha tubulin/beta tubulin/stathmin	component>
+alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin/alpha tubulin/beta tubulin	alpha tubulin/beta tubulin	component>
+MAPK13	STMN1	-a>

@@ -1,0 +1,8 @@
+complex	Caspase-8 dimer
+protein	NMT1
+protein	GZMB
+protein	BID
+GZMB	BID	-a>
+NMT1	BID	-a>
+BID	BID	-a>
+Caspase-8 dimer	BID	-a>

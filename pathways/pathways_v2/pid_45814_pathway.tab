@@ -1,0 +1,39 @@
+complex	G-alpha-s/GTP
+complex	G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP
+complex	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb
+complex	PKA
+complex	G-protein receptor/G-gamma/G-beta/Ligand
+complex	TCR-CD3
+complex	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/ZAP70/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb
+complex	MHC class II
+abstract	T cell activation
+smallMolecule	cAMP
+smallMolecule	ATP
+protein	Ligand
+protein	ZAP70
+protein	PTPRC
+protein	LCK
+protein	CSK
+protein	CREBBP
+protein	CD4
+protein	ADCY1
+PTPRC	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	-a>
+ADCY1	cAMP	-a>
+CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/ZAP70/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	T cell activation	-ap>
+cAMP	PKA	-a>
+ZAP70	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/ZAP70/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	component>
+CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/ZAP70/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	G-protein receptor/G-gamma/G-beta/Ligand	component>
+G-protein receptor/G-gamma/G-beta/G-alpha-S/GDP	G-alpha-s/GTP	component>
+Ligand	G-protein receptor/G-gamma/G-beta/Ligand	component>
+Ligand	G-alpha-s/GTP	component>
+CREBBP	CSK	-a>
+G-alpha-s/GTP	ADCY1	-a>
+CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	-a>
+CSK	LCK	-a>
+PKA	CSK	-a>
+ATP	cAMP	-a>
+LCK	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	component>
+CD4	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	component>
+TCR-CD3	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	component>
+MHC class II	CD3Z antigen zeta polypeptide/MHC class II alpha/CD4/LCK/CD3Z antigen zeta polypeptide/TCR-alpha/TCR-beta/CD3G antigen gamma polypeptide/CD3E antigen epsilon polypeptide/CD3E antigen epsilon polypeptide/CD3D antigen delta polypeptide/MHC IIb	component>

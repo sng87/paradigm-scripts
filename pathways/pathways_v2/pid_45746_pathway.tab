@@ -1,0 +1,23 @@
+abstract	transcription termination
+abstract	transcription initiation
+complex	TFIIIB/TFIIIC
+complex	TFIIIC
+protein	SSB
+protein	NR3C1
+protein	GTF3C5
+protein	GTF3C4
+protein	GTF3C3
+protein	GTF3C1
+protein	BRF1
+protein	BDP1
+SSB	transcription termination	-ap>
+transcription initiation	transcription termination	-ap>
+GTF3C1	TFIIIC	component>
+GTF3C4	TFIIIC	component>
+GTF3C3	TFIIIC	component>
+GTF3C5	TFIIIC	component>
+NR3C1	TFIIIB/TFIIIC	component>
+BRF1	TFIIIB/TFIIIC	component>
+BDP1	TFIIIB/TFIIIC	component>
+TFIIIC	TFIIIB/TFIIIC	component>
+TFIIIB/TFIIIC	transcription initiation	-ap>

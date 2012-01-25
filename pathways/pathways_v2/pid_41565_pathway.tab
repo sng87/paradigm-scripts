@@ -1,0 +1,13 @@
+complex	DNA double-strand break ends: MRN complex
+complex	MRN
+complex	gamma-H2AX:NBS1 complex at the site of double-strand break
+complex	RAD50:MRE11 complex
+protein	RAD50
+protein	NBN
+protein	MRE11A
+NBN	MRN	component>
+RAD50:MRE11 complex	MRN	component>
+RAD50	RAD50:MRE11 complex	component>
+MRE11A	RAD50:MRE11 complex	component>
+gamma-H2AX:NBS1 complex at the site of double-strand break	DNA double-strand break ends: MRN complex	component>
+MRN	DNA double-strand break ends: MRN complex	component>

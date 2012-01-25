@@ -1,0 +1,123 @@
+complex	HLA-A3
+complex	VLA-4
+protein	_19-406
+complex	CD226 bound to Nectin 2
+complex	HLA-C group 1 interacting with KIR2DS2
+complex	C3d complexed with antigen
+complex	Integrin CD11a-CD18 (LFA-1)
+complex	Complex of CD19, CD81, CD225 and CD21
+complex	HLA-A3 interacting with KIR3DL2
+complex	MadCAM inetracting with Integrin alpha-4 beta-7
+complex	KIR2DS2 complexed with DAP12
+complex	HLA-C group 1 interacting with KIR2DL2/3
+complex	Integrin alpha-4 beta-7
+protein	UniProt:P25942-1 CD40_subunit_21_277_21-277
+complex	CD40 complexed with CD40L
+complex	VLA-4 bound to VCAM-1
+complex	CD200 bound to CD200R
+protein	UniProt:Q86YT9-1 AMICA1_subunit_20_394_20-394
+complex	CXADR bound to JAML
+complex	L-selectin interacting with known ligands
+complex	HLA-G
+complex	T-cell receptor complex with CD8
+complex	MHC Class I interacting with LILRs
+complex	Nectin-like 5 bound to CD96
+complex	NKG2D complexed with DAP10
+complex	CRTAM bound to NECL2
+protein	UniProt:P26715-1 KLRC1_subunit_1_233_1-233
+complex	HLA-E interacting with NKG2A-CD94 heterdimer
+protein	UniProt:Q92692-1 PVRL2_subunit_32_538_32-538
+complex	HLA-Bw4
+complex	HLA-C Cw4 (group I)
+complex	Antigen-antibody complex
+complex	HLA-C group 2 interacting with KIR2DS1
+complex	ICAM bound to integrin CD11a-CD18
+protein	UniProt:Q13241-1 KLRD1_subunit_1_179_1-179
+complex	MHC Class I bearing antigen peptide
+protein	UniProt:Q99706 KIR2DL4_subunit_22_377_22-377
+complex	HLA-G interacting with KIR2DL4
+protein	UniProt:Q13477-1 MADCAM1_subunit_19_406_19-406
+protein	UniProt:P25942-1 CD40_subunit_21_277_subunit_21_277_subunit_21_277_21-277
+complex	E-cadherin bound to KLRG1
+complex	Complex of CD19, CD81, CD225 and CD21 with C3d-bound Antigen
+protein	Lymphoid-expressed Fc-gamma receptors
+complex	Antigen-bound antibody bound to lymphoid Fc gamma receptors
+complex	LILR-interacting MHC Class I molecules
+protein	UniProt:P25942-1 CD40_subunit_21_277_subunit_21_277_21-277
+complex	MHC Class I interacting with CD160
+complex	HLA Bw4 interacting with KIR3DL1
+protein	UniProt:Q8TD46 CD200R1_subunit_29_325_29-325
+complex	HLA-E
+protein	UniProt:P15151-1 PVR_subunit_21_417_21-417
+protein	UniProt:Q15762 CD226_subunit_19_336_19-336
+complex	CD226 bound to nectin-like 5
+protein	UniProt:P43626 KIR2DL1_subunit_22_348_22-348
+complex	HLA-C group 2 interacting with KIR2DL1
+complex	KIR2DS1 complexed with DAP12
+complex	TCR interacting with antigen-bearing MHC Class I
+protein	_32-538
+complex	HLA-C Cw3 (group 2)
+complex	Ligand interacting with NKG2D
+protein	UniProt:P41217 CD200_subunit_31_278_31-278
+protein	VCAM1
+protein	SELL
+protein	KLRG1
+protein	KIR3DL2
+protein	KIR3DL1
+protein	CXADR
+protein	CRTAM
+protein	CDH1
+protein	CD96
+protein	CD40LG
+protein	CD160
+KIR3DL1	HLA Bw4 interacting with KIR3DL1	component>
+HLA-Bw4	HLA Bw4 interacting with KIR3DL1	component>
+NKG2D complexed with DAP10	Ligand interacting with NKG2D	-a>
+UniProt:P41217 CD200_subunit_31_278_31-278	CD200 bound to CD200R	component>
+UniProt:Q8TD46 CD200R1_subunit_29_325_29-325	CD200 bound to CD200R	component>
+UniProt:P15151-1 PVR_subunit_21_417_21-417	Nectin-like 5 bound to CD96	component>
+CD96	Nectin-like 5 bound to CD96	component>
+HLA-C Cw4 (group I)	HLA-C group 1 interacting with KIR2DL2/3	-a>
+_32-538	CD226 bound to Nectin 2	component>
+UniProt:Q92692-1 PVRL2_subunit_32_538_32-538	CD226 bound to Nectin 2	component>
+UniProt:Q15762 CD226_subunit_19_336_19-336	CD226 bound to Nectin 2	component>
+Antigen-antibody complex	Antigen-bound antibody bound to lymphoid Fc gamma receptors	component>
+Lymphoid-expressed Fc-gamma receptors	Antigen-bound antibody bound to lymphoid Fc gamma receptors	component>
+MHC Class I bearing antigen peptide	TCR interacting with antigen-bearing MHC Class I	component>
+T-cell receptor complex with CD8	TCR interacting with antigen-bearing MHC Class I	component>
+VCAM1	VLA-4 bound to VCAM-1	component>
+VLA-4	VLA-4 bound to VCAM-1	component>
+Integrin alpha-4 beta-7	MadCAM inetracting with Integrin alpha-4 beta-7	component>
+_19-406	MadCAM inetracting with Integrin alpha-4 beta-7	component>
+UniProt:Q13477-1 MADCAM1_subunit_19_406_19-406	MadCAM inetracting with Integrin alpha-4 beta-7	component>
+CD160	MHC Class I interacting with CD160	component>
+Integrin CD11a-CD18 (LFA-1)	ICAM bound to integrin CD11a-CD18	-a>
+SELL	L-selectin interacting with known ligands	component>
+HLA-A3	HLA-A3 interacting with KIR3DL2	component>
+KIR3DL2	HLA-A3 interacting with KIR3DL2	component>
+UniProt:Q99706 KIR2DL4_subunit_22_377_22-377	HLA-G interacting with KIR2DL4	component>
+HLA-G	HLA-G interacting with KIR2DL4	component>
+UniProt:Q13241-1 KLRD1_subunit_1_179_1-179	HLA-E interacting with NKG2A-CD94 heterdimer	component>
+UniProt:P26715-1 KLRC1_subunit_1_233_1-233	HLA-E interacting with NKG2A-CD94 heterdimer	component>
+HLA-E	HLA-E interacting with NKG2A-CD94 heterdimer	component>
+UniProt:Q86YT9-1 AMICA1_subunit_20_394_20-394	CXADR bound to JAML	component>
+CXADR	CXADR bound to JAML	component>
+LILR-interacting MHC Class I molecules	MHC Class I interacting with LILRs	-a>
+KLRG1	E-cadherin bound to KLRG1	component>
+CDH1	E-cadherin bound to KLRG1	component>
+CD40LG	CD40 complexed with CD40L	component>
+UniProt:P25942-1 CD40_subunit_21_277_subunit_21_277_subunit_21_277_21-277	CD40 complexed with CD40L	component>
+UniProt:P25942-1 CD40_subunit_21_277_subunit_21_277_21-277	CD40 complexed with CD40L	component>
+UniProt:P25942-1 CD40_subunit_21_277_21-277	CD40 complexed with CD40L	component>
+KIR2DS1 complexed with DAP12	HLA-C group 2 interacting with KIR2DS1	component>
+HLA-C Cw3 (group 2)	HLA-C group 2 interacting with KIR2DS1	component>
+CRTAM	CRTAM bound to NECL2	component>
+UniProt:Q92692-1 PVRL2_subunit_32_538_32-538	CRTAM bound to NECL2	component>
+UniProt:P15151-1 PVR_subunit_21_417_21-417	CD226 bound to nectin-like 5	component>
+UniProt:Q15762 CD226_subunit_19_336_19-336	CD226 bound to nectin-like 5	component>
+Complex of CD19, CD81, CD225 and CD21	Complex of CD19, CD81, CD225 and CD21 with C3d-bound Antigen	component>
+C3d complexed with antigen	Complex of CD19, CD81, CD225 and CD21 with C3d-bound Antigen	component>
+HLA-C Cw3 (group 2)	HLA-C group 2 interacting with KIR2DL1	component>
+UniProt:P43626 KIR2DL1_subunit_22_348_22-348	HLA-C group 2 interacting with KIR2DL1	component>
+KIR2DS2 complexed with DAP12	HLA-C group 1 interacting with KIR2DS2	component>
+HLA-C Cw4 (group I)	HLA-C group 1 interacting with KIR2DS2	component>

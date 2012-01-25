@@ -1,0 +1,43 @@
+abstract	superoxide release
+complex	SHC/GRB2/SOS-1
+complex	SOD/catalase
+protein	FOXO3A
+complex	IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/IRS-1
+complex	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta
+smallMolecule	PIP2
+abstract	cell survival
+abstract	degradation
+smallMolecule	ROS
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	PDPK1
+protein	IRS1
+protein	IGF1
+protein	HRAS
+protein	AKT1
+PI3K	PIP3	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+SOD/catalase	degradation	-ap>
+SHC/GRB2/SOS-1	superoxide release	-ap>
+AKT1	SOD/catalase	-a>
+PIP2	PIP3	-a>
+IGF1	IRS1	component>
+IGF1	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	component>
+IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/IRS-1	IRS1	component>
+IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/IRS-1	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	component>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+FOXO3A	cell survival	-ap>
+IRS1	PI3K	-a>
+IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	SHC/GRB2/SOS-1	-a>
+SOD/catalase	cell survival	-ap>
+ROS	degradation	-ap>
+PDPK1	AKT1	-a>
+ROS	FOXO3A	-a>
+PIP3	PDPK1	-a>
+ROS	superoxide release	-ap>
+ROS	cell survival	-ap|

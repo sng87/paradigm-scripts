@@ -1,0 +1,118 @@
+abstract	absorption of light
+complex	Cone Metarhodopsin II/X-Arrestin
+complex	Cone CNG Channel
+complex	Cone Transducin
+complex	PDE6H/GNAT2/GTP
+smallMolecule	all-trans-retinol
+complex	GC2/GCAP Family
+smallMolecule	GMP (4 units)
+smallMolecule	ATP
+complex	Cone Metarhodopsin II/Cone Transducin
+smallMolecule	Lecithin
+smallMolecule	ADP
+complex	GNAT2/GDP
+smallMolecule	NADPH
+complex	GNAT2/GTP
+smallMolecule	Na +
+complex	Na + (4 Units)
+smallMolecule	2-acylglycerophosphocholine
+complex	GNB3/GNGT2
+smallMolecule	phosphate
+complex	Cone Metarhodopsin II
+complex	RGS9-1/Gbeta5/R9AP
+smallMolecule	cGMP
+smallMolecule	all-trans-retinylester
+complex	cGMP/Cone CNG Channel
+smallMolecule	NADP
+protein	Cone pigment (S/M/L)
+smallMolecule	11-cis-retinal
+complex	Cone Visual Pigment
+complex	Cone PDE6
+smallMolecule	all-trans-retinal
+smallMolecule	Ca2+
+smallMolecule	11-cis-retinol
+complex	GCAP Family/Ca ++
+smallMolecule	K +
+protein	GCAP Family
+complex	GC1/GCAP Family
+smallMolecule	GTP
+protein	SLC24A2
+protein	RPE65
+protein	RDH5
+protein	RDH12
+protein	PDE6C
+protein	LRAT
+protein	GUCY2F
+protein	GUCY2D
+protein	GRK7
+protein	GRK1
+protein	ARR3
+RPE65	11-cis-retinol	-a>
+GRK1	Cone Metarhodopsin II	-a>
+GC1/GCAP Family	cGMP	-a>
+PDE6C	GMP (4 units)	-a>
+PDE6H/GNAT2/GTP	GMP (4 units)	-a>
+RDH12	all-trans-retinol	-a>
+LRAT	all-trans-retinylester	-a>
+RGS9-1/Gbeta5/R9AP	Cone PDE6	component>
+RDH5	11-cis-retinal	-a>
+GRK7	Cone Metarhodopsin II	-a>
+absorption of light	Cone Metarhodopsin II	-a>
+GC2/GCAP Family	cGMP	-a>
+all-trans-retinylester	11-cis-retinol	-a>
+GNAT2/GTP	PDE6C	component>
+GNAT2/GTP	PDE6H/GNAT2/GTP	component>
+Cone PDE6	PDE6C	component>
+Cone PDE6	PDE6H/GNAT2/GTP	component>
+Cone Metarhodopsin II	Cone Metarhodopsin II/Cone Transducin	component>
+Cone Transducin	Cone Metarhodopsin II/Cone Transducin	component>
+Cone Metarhodopsin II	Cone pigment (S/M/L)	component>
+Cone Metarhodopsin II	all-trans-retinal	component>
+cGMP/Cone CNG Channel	Cone CNG Channel	-a>
+cGMP/Cone CNG Channel	GMP (4 units)	-a>
+GCAP Family/Ca ++	Ca2+	component>
+GCAP Family/Ca ++	GCAP Family	component>
+ARR3	Cone Metarhodopsin II/X-Arrestin	component>
+Cone Metarhodopsin II	Cone Metarhodopsin II/X-Arrestin	component>
+Cone Metarhodopsin II/Cone Transducin	GNAT2/GTP	component>
+Cone Metarhodopsin II/Cone Transducin	GNB3/GNGT2	component>
+Cone Metarhodopsin II/Cone Transducin	Cone Metarhodopsin II	component>
+GCAP Family	GC2/GCAP Family	component>
+GUCY2F	GC2/GCAP Family	component>
+NADPH	NADP	-a>
+NADPH	all-trans-retinol	-a>
+all-trans-retinal	NADP	-a>
+all-trans-retinal	all-trans-retinol	-a>
+cGMP/Cone CNG Channel	Ca2+	-a>
+Lecithin	2-acylglycerophosphocholine	-a>
+Lecithin	all-trans-retinylester	-a>
+all-trans-retinol	2-acylglycerophosphocholine	-a>
+all-trans-retinol	all-trans-retinylester	-a>
+cGMP/Cone CNG Channel	Na +	-a>
+Cone Metarhodopsin II/X-Arrestin	ARR3	component>
+Cone Metarhodopsin II/X-Arrestin	Cone pigment (S/M/L)	component>
+Cone Metarhodopsin II/X-Arrestin	all-trans-retinal	component>
+PDE6C	phosphate	component>
+PDE6C	GNAT2/GDP	component>
+PDE6C	Cone PDE6	component>
+PDE6H/GNAT2/GTP	phosphate	component>
+PDE6H/GNAT2/GTP	GNAT2/GDP	component>
+PDE6H/GNAT2/GTP	Cone PDE6	component>
+K +	K +	-a>
+K +	Ca2+	-a>
+Ca2+	K +	-a>
+SLC24A2	Ca2+	-a>
+GNB3/GNGT2	Cone Transducin	component>
+GNAT2/GDP	Cone Transducin	component>
+11-cis-retinol	11-cis-retinal	-a>
+11-cis-retinal	Cone Visual Pigment	component>
+Cone pigment (S/M/L)	Cone Visual Pigment	component>
+GCAP Family	GC1/GCAP Family	component>
+GUCY2D	GC1/GCAP Family	component>
+ATP	ADP	-a>
+ATP	Cone Metarhodopsin II	-a>
+Cone Metarhodopsin II	ADP	-a>
+Cone Metarhodopsin II	Cone Metarhodopsin II	-a>
+Cone Visual Pigment	Cone Metarhodopsin II	-a>
+GTP	cGMP	-a>
+SLC24A2	Na + (4 Units)	-a>

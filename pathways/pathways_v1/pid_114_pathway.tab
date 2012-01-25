@@ -1,0 +1,114 @@
+protein	ONECUT1
+protein	AURKB
+protein	HIST1H2BA
+protein	CREBBP
+protein	CDKN2A
+protein	LAMA4
+protein	SKP2
+protein	NFATC3
+protein	EP300
+protein	FOXM1
+protein	FOXM1
+protein	FOXM1
+protein	MAP2K1
+protein	CKS1B
+protein	GAS1
+protein	PLK1
+protein	NEK2
+protein	BRCA2
+protein	GSK3A
+protein	CENPF
+protein	CENPA
+protein	ETV5
+protein	CDC25B
+protein	CDK2
+protein	CCNE1
+protein	CCND1
+protein	CCNA2
+protein	XRCC1
+protein	CCNB1
+protein	CDK4
+protein	MMP2
+protein	HSPA1B
+protein	SP1
+protein	CENPB
+protein	CDC2
+protein	RB1
+protein	ESR1
+protein	TGFA
+protein	MYC
+protein	FOS
+protein	CHEK2
+protein	CCNB2
+protein	BIRC5
+complex	RB1/FOXM1C
+complex	FOXM1C/SP1
+complex	FOXM1B/p19
+complex	FOXM1B/HNF6
+complex	FOXM1B/Cbp/p300
+complex	Cyclin D1/CDK4
+complex	Cyclin A-E1/CDK1-2
+complex	CCNB1/CDK1
+abstract	response to radiation
+abstract	G2/M transition of mitotic cell cycle
+response to radiation	FOXM1	-ap>
+ONECUT1	FOXM1B/HNF6	component>
+CREBBP	FOXM1B/Cbp/p300	component>
+CDKN2A	FOXM1B/p19	component>
+EP300	FOXM1B/Cbp/p300	component>
+FOXM1	BRCA2	-t>
+FOXM1	CDC25B	-t>
+FOXM1	XRCC1	-t>
+FOXM1	MMP2	-t>
+FOXM1	FOXM1B/p19	component>
+FOXM1	FOXM1B/HNF6	component>
+FOXM1	FOXM1B/Cbp/p300	component>
+FOXM1	HIST1H2BA	-t>
+FOXM1	CDC25B	-t>
+FOXM1	CCNB1	-t>
+FOXM1	HSPA1B	-t>
+FOXM1	ESR1	-t>
+FOXM1	FOS	-t>
+FOXM1	RB1/FOXM1C	component>
+FOXM1	FOXM1C/SP1	component>
+FOXM1	AURKB	-t>
+FOXM1	LAMA4	-t>
+FOXM1	SKP2	-t>
+FOXM1	NFATC3	-t>
+FOXM1	CKS1B	-t>
+FOXM1	GAS1	-t>
+FOXM1	PLK1	-t>
+FOXM1	NEK2	-t>
+FOXM1	CENPF	-t>
+FOXM1	CENPA	-t>
+FOXM1	ETV5	-t>
+FOXM1	CCNB1	-t>
+FOXM1	CENPB	-t>
+FOXM1	CDC2	-t>
+FOXM1	CCNB2	-t>
+FOXM1	BIRC5	-t>
+MAP2K1	FOXM1	-a>
+GSK3A	FOXM1	-a>
+CDK2	Cyclin A-E1/CDK1-2	component>
+CCNE1	Cyclin A-E1/CDK1-2	component>
+CCND1	Cyclin D1/CDK4	component>
+CCNA2	Cyclin A-E1/CDK1-2	component>
+CCNB1	CCNB1/CDK1	component>
+CDK4	Cyclin D1/CDK4	component>
+SP1	FOXM1C/SP1	component>
+CDC2	CCNB1/CDK1	component>
+RB1	RB1/FOXM1C	component>
+CHEK2	FOXM1	-a>
+G2/M transition of mitotic cell cycle	FOXM1	-ap>
+FOXM1C/SP1	MYC	-t>
+FOXM1B/p19	AURKB	-t|
+FOXM1B/p19	PLK1	-t|
+FOXM1B/p19	BIRC5	-t|
+FOXM1B/HNF6	ONECUT1	-t>
+FOXM1B/HNF6	CCND1	-t>
+FOXM1B/HNF6	TGFA	-t>
+Cyclin D1/CDK4	FOXM1	-a>
+Cyclin D1/CDK4	RB1	-a>
+Cyclin A-E1/CDK1-2	FOXM1	-a>
+Cyclin A-E1/CDK1-2	RB1	-a>
+CCNB1/CDK1	FOXM1	-a>

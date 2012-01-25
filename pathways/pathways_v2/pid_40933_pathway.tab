@@ -1,0 +1,44 @@
+protein	Spermidine Oxidase (SMOX)
+smallMolecule	N1-Acetylspermidine
+smallMolecule	N1-Acetylspermine
+smallMolecule	Spermidine
+smallMolecule	3-Aminopropanal
+complex	PAO-FAD complex
+smallMolecule	H2O
+smallMolecule	Acetyl-CoA
+smallMolecule	Putrescine
+smallMolecule	3-Acetamidopropanal
+smallMolecule	O2
+smallMolecule	Spermine
+smallMolecule	H2O2
+protein	SAT1
+Spermidine Oxidase (SMOX)	3-Aminopropanal	-a>
+PAO-FAD complex	Spermidine	-a>
+SAT1	N1-Acetylspermine	-a>
+PAO-FAD complex	Putrescine	-a>
+SAT1	N1-Acetylspermidine	-a>
+N1-Acetylspermine	N1-Acetylspermine	-a>
+Spermine	Spermidine	-a>
+Spermine	H2O2	-a>
+Spermine	3-Aminopropanal	-a>
+O2	3-Aminopropanal	-a>
+H2O	3-Aminopropanal	-a>
+H2O	Spermidine	-a>
+O2	Spermidine	-a>
+N1-Acetylspermine	3-Acetamidopropanal	-a>
+N1-Acetylspermine	H2O2	-a>
+N1-Acetylspermine	Spermidine	-a>
+Acetyl-CoA	N1-Acetylspermine	-a>
+Spermine	N1-Acetylspermine	-a>
+N1-Acetylspermidine	3-Acetamidopropanal	-a>
+N1-Acetylspermidine	H2O2	-a>
+N1-Acetylspermidine	Putrescine	-a>
+H2O	3-Acetamidopropanal	-a>
+H2O	H2O2	-a>
+H2O	Putrescine	-a>
+O2	3-Acetamidopropanal	-a>
+O2	H2O2	-a>
+O2	Putrescine	-a>
+N1-Acetylspermidine	N1-Acetylspermidine	-a>
+Spermidine	N1-Acetylspermidine	-a>
+Acetyl-CoA	N1-Acetylspermidine	-a>

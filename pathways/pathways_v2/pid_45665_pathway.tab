@@ -1,0 +1,15 @@
+complex	G-alpha-q/PLC-beta/TUBBY
+complex	GPCR/G-alpha-q/G-beta/G-gamma/TUBBY
+complex	ligand/GPCR
+smallMolecule	PIP2
+protein	Ligand
+smallMolecule	IP3
+protein	TUB
+G-alpha-q/PLC-beta/TUBBY	IP3	-a>
+GPCR/G-alpha-q/G-beta/G-gamma/TUBBY	G-alpha-q/PLC-beta/TUBBY	component>
+GPCR/G-alpha-q/G-beta/G-gamma/TUBBY	ligand/GPCR	component>
+Ligand	G-alpha-q/PLC-beta/TUBBY	component>
+Ligand	ligand/GPCR	component>
+PIP2	TUB	-a>
+PIP2	IP3	-a>
+TUB	TUB	-a>

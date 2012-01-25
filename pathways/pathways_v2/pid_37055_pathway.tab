@@ -1,0 +1,80 @@
+abstract	axonogenesis
+abstract	neuron apoptosis
+abstract	regulation of long-term neuronal synaptic plasticity
+smallMolecule	DAG
+complex	PIKE/GTP/4.1N
+complex	NGF (dimer)/TRKA/PLCgamma1/TRPV1
+complex	NGF (dimer)/TRKA
+complex	FOXO3a/14-3-3 family
+complex	SHC/Grb2/SOS1/GAB1/PI3K
+complex	PIKE/GTP
+complex	STAT5A (dimer)
+protein	CaMKIIA
+smallMolecule	PI-3-4-5-P3
+complex	RAS family/GTP/PI3K
+complex	PI3K/PIKE/GTP
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	PKC delta
+protein	14-3-3 family
+protein	TRPV1
+protein	TRPC3
+protein	STAT5A
+protein	SRC
+protein	PLCG1
+protein	PDPK1
+protein	GSK3B
+protein	FOXO3
+protein	EPB41L1
+protein	EGR1
+protein	CREB1
+protein	CCND1
+protein	CAMK4
+protein	BAD
+protein	AKT1
+RAS family/GTP/PI3K	PI-3-4-5-P3	-a>
+SRC	STAT5A (dimer)	component>
+PLCG1	STAT5A (dimer)	component>
+NGF (dimer)/TRKA	PIKE/GTP/4.1N	component>
+SRC	TRPV1	-a>
+SHC/Grb2/SOS1/GAB1/PI3K	PI-3-4-5-P3	-a>
+Ca2+	TRPC3	-a|
+NGF (dimer)/TRKA	PI3K/PIKE/GTP	component>
+PLCG1	DAG	-a>
+PI-3-4-5-P3	AKT1	-a>
+PI3K/PIKE/GTP	CCND1	-t>
+AKT1	GSK3B	-a>
+STAT5A	STAT5A (dimer)	component>
+EPB41L1	PI3K	component>
+EPB41L1	PIKE/GTP/4.1N	component>
+PI3K/PIKE/GTP	PI3K	component>
+PI3K/PIKE/GTP	PIKE/GTP/4.1N	component>
+AKT1	axonogenesis	-ap>
+PLCG1	EGR1	-t>
+AKT1	FOXO3	-a>
+RAS family/GTP/PI3K	TRPV1	-a>
+PLCG1	CAMK4	-a>
+IP3	Ca2+	-a>
+TRPV1	TRPV1	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+AKT1	BAD	-a>
+PLCG1	CaMKIIA	-a>
+PLCG1	CREB1	-a>
+TRPC3	Ca2+	-a>
+DAG	TRPC3	-a>
+PIKE/GTP	PI3K/PIKE/GTP	component>
+PI3K	PI3K/PIKE/GTP	component>
+PI-3-4-5-P3	PDPK1	-a>
+14-3-3 family	FOXO3a/14-3-3 family	component>
+FOXO3	FOXO3a/14-3-3 family	component>
+DAG	PKC delta	-a>
+AKT1	neuron apoptosis	-ap|
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PDPK1	AKT1	-a>
+PLCG1	regulation of long-term neuronal synaptic plasticity	-ap>
+TRPV1	NGF (dimer)/TRKA/PLCgamma1/TRPV1	component>
+PLCG1	NGF (dimer)/TRKA/PLCgamma1/TRPV1	component>
+NGF (dimer)/TRKA	NGF (dimer)/TRKA/PLCgamma1/TRPV1	component>

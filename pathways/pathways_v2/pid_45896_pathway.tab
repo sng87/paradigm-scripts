@@ -1,0 +1,49 @@
+protein	SMAD
+complex	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2
+complex	TGF-beta/TGF-beta R1
+protein	TGF-beta
+complex	TGF-beta/TGF-beta-R1/TGF-beta-R2
+smallMolecule	PIP2
+complex	B-cell antigen/BCR complex
+complex	BCR complex
+protein	B-cell antigen
+complex	PI3K
+smallMolecule	PIP3
+protein	TGFBR2
+protein	TGFBR1
+protein	RPS6KB1
+protein	PTEN
+protein	PPP2R5D
+protein	MYC
+protein	MDM2
+protein	FRAP1
+protein	CTCF
+protein	CDKN2A
+protein	CDKN1B
+PI3K	PIP3	-a>
+PTEN	PIP2	-a>
+RPS6KB1	CTCF	-a>
+PI3K	MYC	-a>
+CTCF	CDKN2A	-t>
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	SMAD	-a>
+PIP2	PIP3	-a>
+B-cell antigen	B-cell antigen/BCR complex	component>
+BCR complex	B-cell antigen/BCR complex	component>
+SMAD	CTCF	-a>
+B-cell antigen/BCR complex	FRAP1	-a>
+CTCF	CDKN1B	-t>
+TGFBR1	TGF-beta/TGF-beta R1	component>
+TGF-beta	TGF-beta/TGF-beta R1	component>
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	PPP2R5D	-a>
+FRAP1	PPP2R5D	-a>
+CDKN2A	MDM2	-a>
+TGFBR2	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGF-beta/TGF-beta R1	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+B-cell antigen/BCR complex	PTEN	-a>
+PIP3	PIP2	-a>
+CTCF	MYC	-t|
+PPP2R5D	RPS6KB1	-a>
+RPS6KB1	MYC	-a>
+TGF-beta/TGF-beta-R1/TGF-beta-R2	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	component>
+MYC	CTCF	-t>
+B-cell antigen/BCR complex	RPS6KB1	-a>

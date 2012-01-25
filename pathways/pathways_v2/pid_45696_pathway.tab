@@ -1,0 +1,25 @@
+smallMolecule	CDP-choline
+smallMolecule	CTP
+smallMolecule	CMP
+smallMolecule	DAG
+smallMolecule	ATP
+smallMolecule	Lecithin
+smallMolecule	ADP
+smallMolecule	PHOSPHOCHOLINE
+smallMolecule	Choline
+protein	PCYT1A
+protein	CHKA
+protein	CEPT1
+CHKA	PHOSPHOCHOLINE	-a>
+CEPT1	Lecithin	-a>
+PCYT1A	CDP-choline	-a>
+ATP	ADP	-a>
+ATP	PHOSPHOCHOLINE	-a>
+Choline	ADP	-a>
+Choline	PHOSPHOCHOLINE	-a>
+DAG	CMP	-a>
+DAG	Lecithin	-a>
+CDP-choline	CMP	-a>
+CDP-choline	Lecithin	-a>
+CTP	CDP-choline	-a>
+PHOSPHOCHOLINE	CDP-choline	-a>

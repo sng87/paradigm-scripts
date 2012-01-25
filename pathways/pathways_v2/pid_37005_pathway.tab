@@ -1,0 +1,387 @@
+abstract	Lymphoid Tissue
+abstract	primary microRNA processing
+abstract	G2/M transition DNA damage checkpoint
+abstract	female pregnancy
+abstract	DNA methylation
+abstract	Ultraviolet Radiation
+abstract	activation of caspase activity by cytochrome c
+abstract	response to hypoxia
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	Ionizing Radiation
+abstract	response to stress
+abstract	apoptosis
+abstract	DNA damage
+protein	ASPP
+complex	Drosha/DGCR8/p68 helicase
+rna	MIR34A
+protein	PTGFB
+complex	p53/Cbp/p300/CARM1/PRMT1 (tetramer)
+complex	p53 (tetramer)/Drosha/DGCR8/p68 helicase
+complex	E2F1-3/DP
+complex	Cbp/p300/JMY
+complex	p53 (tetramer)/SP1
+complex	PUMA/BCL2 subfamily
+complex	BAK/p53
+complex	GCN5-L/ADA2B/TAF9
+protein	BLIMP1
+protein	maspin
+complex	NF-Y
+complex	p53/BCL2 subfamily
+complex	p53 (tetramer)
+complex	BAK/MCL1
+protein	TRAILR4
+complex	p53 (tetramer)/NF-Y
+protein	BCL2 subfamily
+smallMolecule	E2
+protein	Cbp/p300
+protein	ZNF385A
+protein	VDR
+protein	VCAN
+protein	TYRP1
+protein	TSC2
+protein	TRRAP
+protein	TRIAP1
+protein	TP73
+protein	TP63
+protein	TP53INP1
+protein	TP53I3
+protein	TP53
+protein	TNFRSF10C
+protein	TNFRSF10B
+protein	TNFRSF10A
+protein	TGFA
+protein	TAP1
+protein	STEAP3
+protein	SPP1
+protein	SP1
+protein	SNAI2
+protein	SMARCA4
+protein	SH2D1A
+protein	SFN
+protein	SESN1
+protein	SERPINE1
+protein	SCN3B
+protein	S100A2
+protein	RRM2B
+protein	RPS27L
+protein	RNF144B
+protein	RFWD2
+protein	RCHY1
+protein	RB1
+protein	PYCARD
+protein	PTEN
+protein	PRMT1
+protein	PRKAB1
+protein	PPM1J
+protein	POU4F2
+protein	POU4F1
+protein	PMS2
+protein	PML
+protein	PMAIP1
+protein	PLK3
+protein	PERP
+protein	PCNA
+protein	PCBP4
+protein	NLRC4
+protein	NDRG1
+protein	MSH2
+protein	MMP2
+protein	MLH1
+protein	MET
+protein	MDM2
+protein	MCL1
+protein	MAP4K4
+protein	LRDD
+protein	LIF
+protein	JUN
+protein	IRF5
+protein	IGFBP3
+protein	HTT
+protein	HSPA1B
+protein	HIC1
+protein	HGF
+protein	HDAC2
+protein	GPX1
+protein	GADD45A
+protein	FOXA1
+protein	FDXR
+protein	FAS
+protein	EPHA2
+protein	EGFR
+protein	EDN2
+protein	DUSP5
+protein	DUSP1
+protein	DKK1
+protein	DDIT4
+protein	DDB2
+protein	CX3CL1
+protein	CTSD
+protein	CSE1L
+protein	COL18A1
+protein	CEBPZ
+protein	CDKN1A
+protein	CD82
+protein	CCNK
+protein	CCNG1
+protein	CCNB1
+protein	CAV1
+protein	CASP6
+protein	CASP10
+protein	CASP1
+protein	CARM1
+protein	C13orf15
+protein	C12orf5
+protein	BTG2
+protein	BNIP3L
+protein	BID
+protein	BDKRB2
+protein	BCL6
+protein	BCL2L14
+protein	BCL2
+protein	BBC3
+protein	BAX
+protein	ATF3
+protein	ARID3A
+protein	APC
+protein	APAF1
+protein	AIFM2
+protein	AFP
+HDAC2	FDXR	-t|
+p53 (tetramer)	FDXR	-t>
+p53 (tetramer)	HTT	-t>
+p53 (tetramer)	BCL2	-t|
+p53 (tetramer)	SNAI2	-t>
+p53 (tetramer)	PTEN	-t>
+p53 (tetramer)	RPS27L	-t>
+TP63	TP63	-t|
+p53 (tetramer)	TP63	-t>
+p53 (tetramer)	maspin	-t>
+HDAC2	MDM2	-t|
+TRRAP	MDM2	-t>
+p53 (tetramer)	MDM2	-t>
+HDAC2	DKK1	-t|
+p53 (tetramer)	C12orf5	-t>
+CSE1L	TP53I3	-t>
+ASPP	TP53I3	-t>
+p53 (tetramer)	CCNK	-t>
+p53 (tetramer)/SP1	CCNB1	-t|
+p53 (tetramer)	SH2D1A	-t>
+DNA damage	SH2D1A	-t>
+p53 (tetramer)	HSPA1B	-t|
+p53 (tetramer)	SESN1	-t>
+Cbp/p300/JMY	BAX	-t>
+Cbp/p300	BNIP3L	-t>
+p53 (tetramer)	BNIP3L	-t>
+p53 (tetramer)	TP73	-t>
+p53 (tetramer)	CASP10	-t>
+p53 (tetramer)	PCNA	-t>
+p53 (tetramer)	PMS2	-t>
+p53 (tetramer)	EPHA2	-t>
+p53 (tetramer)	MET	-t>
+Cbp/p300	BDKRB2	-t>
+DNA damage	PUMA/BCL2 subfamily	-a>
+p53 (tetramer)	RCHY1	-t>
+POU4F1	PMAIP1	-t|
+p53 (tetramer)	TP53	-t>
+p53 (tetramer)	MLH1	-t>
+p53 (tetramer)	TSC2	-t>
+p53 (tetramer)	PTGFB	-t>
+p53 (tetramer)	LRDD	-t>
+E2F1-3/DP	CAV1	-t>
+SP1	CAV1	-t>
+p53 (tetramer)	PLK3	-t>
+DNA damage	p53 (tetramer)	-a>
+p53 (tetramer)	PERP	-t>
+p53 (tetramer)	TP53INP1	-t>
+p53 (tetramer)	APC	-t|
+SP1	APC	-t>
+p53 (tetramer)	IRF5	-t>
+p53 (tetramer)	TRAILR4	-t>
+p53 (tetramer)	MIR34A	-t>
+p53 (tetramer)	BID	-t>
+p53 (tetramer)	PYCARD	-t>
+p53 (tetramer)	PCBP4	-t>
+ZNF385A	SFN	-t>
+p53 (tetramer)	SFN	-t>
+p53 (tetramer)	PRKAB1	-t>
+p53 (tetramer)	CTSD	-t>
+p53 (tetramer)	C13orf15	-t>
+p53 (tetramer)	IGFBP3	-t>
+p53 (tetramer)	CASP1	-t>
+DNA damage	p53 (tetramer)/Drosha/DGCR8/p68 helicase	component>
+p53 (tetramer)	BCL6	-t>
+p53 (tetramer)	NLRC4	-t>
+p53 (tetramer)	TRIAP1	-t>
+SNAI2	BBC3	-t|
+p53 (tetramer)	BBC3	-t|
+SP1	BBC3	-t>
+GCN5-L/ADA2B/TAF9	BBC3	-t>
+p53 (tetramer)	RNF144B	-t>
+p53 (tetramer)	ATF3	-t>
+CSE1L	RRM2B	-t>
+p53 (tetramer)	RRM2B	-t>
+p53 (tetramer)	DUSP5	-t>
+p53 (tetramer)	TNFRSF10A	-t>
+p53 (tetramer)	DDIT4	-t>
+p53 (tetramer)	CASP6	-t>
+p53 (tetramer)	CX3CL1	-t>
+p53 (tetramer)	TAP1	-t>
+p53 (tetramer)	ARID3A	-t>
+p53 (tetramer)	NDRG1	-t>
+E2	LIF	-t>
+p53 (tetramer)	LIF	-t>
+GCN5-L/ADA2B/TAF9	GADD45A	-t>
+p53/Cbp/p300/CARM1/PRMT1 (tetramer)	GADD45A	-t>
+p53 (tetramer)	DDB2	-t>
+p53 (tetramer)	HIC1	-t>
+ASPP	BAX	-t>
+p53 (tetramer)	AFP	-t|
+FOXA1	AFP	-t>
+p53 (tetramer)	SCN3B	-t>
+p53 (tetramer)	GPX1	-t>
+p53 (tetramer)	TNFRSF10B	-t>
+p53 (tetramer)	EDN2	-t>
+HDAC2	CDKN1A	-t|
+p53 (tetramer)	CDKN1A	-t|
+ZNF385A	CDKN1A	-t>
+POU4F1	CDKN1A	-t>
+SMARCA4	CDKN1A	-t>
+GCN5-L/ADA2B/TAF9	CDKN1A	-t>
+POU4F1	BAX	-t|
+POU4F2	BAX	-t>
+SP1	BAX	-t>
+p53 (tetramer)	MMP2	-t>
+JUN	MSH2	-t>
+p53 (tetramer)	FAS	-t>
+p53 (tetramer)	PPM1J	-t>
+p53 (tetramer)	S100A2	-t>
+p53 (tetramer)	APAF1	-t>
+p53 (tetramer)	AIFM2	-t>
+DNA damage	FDXR	-t>
+response to stress	HTT	-t>
+POU4F1	BCL2	-t>
+Ionizing Radiation	SNAI2	-t>
+SP1	p53 (tetramer)/SP1	component>
+p53 (tetramer)	p53 (tetramer)/SP1	component>
+response to stress	PTEN	-t>
+DNA damage	RPS27L	-t>
+DNA damage	TP63	-t|
+DNA damage	maspin	-t>
+p53 (tetramer)	BTG2	-t>
+Ionizing Radiation	MDM2	-t>
+p53 (tetramer)	DKK1	-t>
+Ionizing Radiation	C12orf5	-t>
+p53 (tetramer)	RB1	-t>
+p53 (tetramer)	EGFR	-t>
+p53 (tetramer)	TP53I3	-t>
+BCL2 subfamily	p53/BCL2 subfamily	component>
+TP53	p53/BCL2 subfamily	component>
+DNA damage	CCNK	-t>
+SP1	CCNB1	-t>
+Lymphoid Tissue	SH2D1A	-t>
+CEBPZ	HSPA1B	-t>
+DNA damage	SESN1	-t>
+response to hypoxia	BNIP3L	-t>
+DNA damage	TP73	-t>
+p53 (tetramer)/Drosha/DGCR8/p68 helicase	primary microRNA processing	-ap>
+p53 (tetramer)	TGFA	-t>
+PRMT1	p53/Cbp/p300/CARM1/PRMT1 (tetramer)	component>
+CARM1	p53/Cbp/p300/CARM1/PRMT1 (tetramer)	component>
+Cbp/p300	p53/Cbp/p300/CARM1/PRMT1 (tetramer)	component>
+p53 (tetramer)	p53/Cbp/p300/CARM1/PRMT1 (tetramer)	component>
+DNA damage	CASP10	-t>
+DNA damage	PCNA	-t>
+DNA damage	PMS2	-t>
+p53 (tetramer)	p53 (tetramer)/NF-Y	component>
+NF-Y	p53 (tetramer)/NF-Y	component>
+DNA damage	EPHA2	-t>
+Ultraviolet Radiation	MET	-t>
+p53 (tetramer)	BDKRB2	-t>
+BBC3	TP53	-a>
+BBC3	PUMA/BCL2 subfamily	-a>
+p53/BCL2 subfamily	TP53	-a>
+p53/BCL2 subfamily	PUMA/BCL2 subfamily	-a>
+p53 (tetramer)	PML	-t>
+DNA damage	RCHY1	-t>
+p53 (tetramer)	PMAIP1	-t>
+positive regulation of NF-kappaB transcription factor activity	TP53	-t>
+DNA damage	MLH1	-t>
+response to stress	TSC2	-t>
+DNA damage	PTGFB	-t>
+Ionizing Radiation	LRDD	-t>
+p53 (tetramer)	STEAP3	-t>
+p53 (tetramer)	CAV1	-t>
+Ionizing Radiation	PLK3	-t>
+p53 (tetramer)/NF-Y	G2/M transition DNA damage checkpoint	-ap>
+p53 (tetramer)	p53 (tetramer)	-a>
+apoptosis	PERP	-t>
+DNA damage	TP53INP1	-t>
+p53 (tetramer)	APC	-t>
+DNA damage	IRF5	-t>
+DNA damage	TRAILR4	-t>
+DNA damage	MIR34A	-t>
+p53 (tetramer)	BCL2L14	-t>
+DNA damage	BID	-t>
+DNA damage	PYCARD	-t>
+p53 (tetramer)	TYRP1	-t>
+DNA damage	PCBP4	-t>
+DNA damage	SFN	-t>
+Ionizing Radiation	PRKAB1	-t>
+DNA damage	CTSD	-t>
+DNA damage	C13orf15	-t>
+DNA damage	IGFBP3	-t>
+DNA damage	CASP1	-t>
+Drosha/DGCR8/p68 helicase	p53 (tetramer)/Drosha/DGCR8/p68 helicase	component>
+p53 (tetramer)	p53 (tetramer)/Drosha/DGCR8/p68 helicase	component>
+BAX	activation of caspase activity by cytochrome c	-ap>
+DNA damage	BCL6	-t>
+DNA damage	NLRC4	-t>
+DNA damage	TRIAP1	-t|
+p53 (tetramer)	BBC3	-t>
+p53 (tetramer)	BLIMP1	-t>
+p53 (tetramer)	VDR	-t>
+DNA damage	RNF144B	-t>
+p53 (tetramer)	TNFRSF10C	-t>
+Ultraviolet Radiation	ATF3	-t>
+DNA damage	RRM2B	-t>
+p53 (tetramer)	HGF	-t>
+DNA damage	DUSP5	-t>
+DNA damage	TNFRSF10A	-t>
+DNA damage	DDIT4	-t>
+DNA damage	CASP6	-t>
+p53 (tetramer)	DUSP1	-t>
+DNA damage	CX3CL1	-t>
+DNA damage	TAP1	-t>
+DNA damage	ARID3A	-t>
+DNA damage	NDRG1	-t>
+female pregnancy	LIF	-t>
+Ultraviolet Radiation	GADD45A	-t>
+Ultraviolet Radiation	DDB2	-t>
+TP53	BAX	-a>
+p53 (tetramer)	MAP4K4	-t>
+DNA methylation	HIC1	-t|
+p53 (tetramer)	COL18A1	-t>
+p53 (tetramer)	SERPINE1	-t>
+BAK/p53	activation of caspase activity by cytochrome c	-ap>
+response to hypoxia	AFP	-t|
+DNA damage	SCN3B	-t>
+Ionizing Radiation	GPX1	-t>
+BAK/MCL1	MCL1	-a>
+BAK/MCL1	BAK/p53	-a>
+TP53	MCL1	-a>
+TP53	BAK/p53	-a>
+p53 (tetramer)	RFWD2	-t>
+DNA damage	TNFRSF10B	-t>
+p53 (tetramer)	SPP1	-t>
+DNA damage	EDN2	-t>
+p53 (tetramer)	CDKN1A	-t>
+p53 (tetramer)	BAX	-t>
+DNA damage	MMP2	-t>
+p53 (tetramer)	VCAN	-t>
+p53 (tetramer)	CCNG1	-t>
+p53 (tetramer)	CD82	-t>
+p53 (tetramer)	MSH2	-t>
+DNA damage	FAS	-t>
+DNA damage	PPM1J	-t>
+DNA damage	S100A2	-t>
+DNA damage	APAF1	-t>

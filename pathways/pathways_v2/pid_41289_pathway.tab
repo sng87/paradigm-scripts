@@ -1,0 +1,20 @@
+complex	GABAB receptors
+complex	Metabotropic glutamate receptors:L-Glutamate
+protein	Metabotropic glutamate receptors
+complex	CaR:calcium
+smallMolecule	L-Glutamate
+smallMolecule	Calcium
+complex	GPRC6A receptor:GPRC6A ligands
+smallMolecule	4-Aminobutylate
+complex	GABAB receptors:GABA
+smallMolecule	Ca2+
+protein	GPRC6A
+protein	CASR
+CASR	CaR:calcium	component>
+Ca2+	CaR:calcium	component>
+L-Glutamate	Metabotropic glutamate receptors:L-Glutamate	component>
+Metabotropic glutamate receptors	Metabotropic glutamate receptors:L-Glutamate	component>
+GPRC6A	GPRC6A receptor:GPRC6A ligands	component>
+Calcium	GPRC6A receptor:GPRC6A ligands	component>
+4-Aminobutylate	GABAB receptors:GABA	-a>
+GABAB receptors	GABAB receptors:GABA	-a>

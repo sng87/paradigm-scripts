@@ -1,0 +1,103 @@
+protein	AKT3
+protein	S1PR3
+protein	GNA13
+protein	GNA12
+protein	GNAI1
+protein	RAC1
+protein	RHOA
+protein	CXCR4
+protein	GNAQ
+protein	AKT1
+protein	GNA15
+protein	GNA11
+protein	GNAO1
+protein	MAPK1
+protein	MAPK3
+protein	EDG1
+protein	GNAZ
+protein	FLT1
+protein	VEGFA
+protein	SRC
+protein	PDGFRB
+protein	GNAO1
+protein	GNAI3
+protein	GNAI2
+protein	GNA14
+protein	S1PR2
+protein	JAK2
+complex	VEGFR1 homodimer/VEGFA homodimer
+complex	S1P1/S1P/Gi
+complex	S1P/S1P3/Gq
+complex	S1P/S1P3/Gi
+complex	S1P/S1P3/G12/G13
+complex	S1P/S1P2/Gi
+complex	RhoA/GTP
+complex	RhoA/GDP
+complex	Rac1/GTP
+complex	Rac1/GDP
+complex	PDGFB-D/PDGFRB
+complex	G12/G13
+chemical	mol:S1P
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:Ca2+
+mol:S1P	S1P1/S1P/Gi	component>
+mol:S1P	S1P/S1P3/Gq	component>
+mol:S1P	S1P/S1P3/Gi	component>
+mol:S1P	S1P/S1P3/G12/G13	component>
+mol:S1P	S1P/S1P2/Gi	component>
+mol:GTP	RhoA/GTP	component>
+mol:GTP	Rac1/GTP	component>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Rac1/GDP	component>
+VEGFR1 homodimer/VEGFA homodimer	AKT3	-t>
+S1PR3	S1P/S1P3/Gq	component>
+S1PR3	S1P/S1P3/Gi	component>
+S1PR3	S1P/S1P3/G12/G13	component>
+GNA13	S1P/S1P3/G12/G13	component>
+GNA13	G12/G13	component>
+GNA12	S1P/S1P3/G12/G13	component>
+GNA12	G12/G13	component>
+GNAI1	S1P1/S1P/Gi	component>
+GNAI1	S1P/S1P3/Gi	component>
+GNAI1	S1P/S1P2/Gi	component>
+RAC1	Rac1/GTP	component>
+RAC1	Rac1/GDP	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+CXCR4	JAK2	-a>
+GNAQ	S1P/S1P3/Gq	component>
+GNA15	S1P/S1P3/Gq	component>
+GNA11	S1P/S1P3/Gq	component>
+GNAO1	S1P1/S1P/Gi	component>
+GNAO1	S1P/S1P3/Gi	component>
+GNAO1	S1P/S1P2/Gi	component>
+EDG1	S1P1/S1P/Gi	component>
+GNAZ	S1P1/S1P/Gi	component>
+GNAZ	S1P/S1P3/Gi	component>
+GNAZ	S1P/S1P2/Gi	component>
+FLT1	VEGFR1 homodimer/VEGFA homodimer	component>
+VEGFA	VEGFR1 homodimer/VEGFA homodimer	component>
+SRC	JAK2	-a>
+PDGFRB	PDGFB-D/PDGFRB	component>
+GNAO1	S1P1/S1P/Gi	component>
+GNAO1	S1P/S1P3/Gi	component>
+GNAO1	S1P/S1P2/Gi	component>
+GNAI3	S1P1/S1P/Gi	component>
+GNAI3	S1P/S1P3/Gi	component>
+GNAI3	S1P/S1P2/Gi	component>
+GNAI2	S1P1/S1P/Gi	component>
+GNAI2	S1P/S1P3/Gi	component>
+GNAI2	S1P/S1P2/Gi	component>
+GNA14	S1P/S1P3/Gq	component>
+S1PR2	S1P/S1P2/Gi	component>
+S1P/S1P3/Gi	mol:Ca2+	-a>
+S1P/S1P3/Gi	AKT3	-t>
+S1P/S1P3/Gi	CXCR4	-a>
+S1P/S1P3/Gi	AKT1	-a>
+S1P/S1P3/Gi	MAPK1	-a>
+S1P/S1P3/Gi	MAPK3	-a>
+S1P/S1P3/Gi	SRC	-a>
+S1P/S1P3/Gi	RhoA/GTP	-a>
+S1P/S1P3/Gi	Rac1/GTP	-a>
+PDGFB-D/PDGFRB	AKT1	-a>

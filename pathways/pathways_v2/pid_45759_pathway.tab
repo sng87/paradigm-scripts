@@ -1,0 +1,88 @@
+complex	PYK2/SRC/P130cas/CRKL
+complex	SHC/GRB2/SOS-1
+complex	AT1-R/G-alpha-q
+complex	c-JUN/ATF-2
+complex	PYK2/SRC
+complex	Angiotensin II/AT1-R/G-alpha-q
+complex	CaM/Ca ++
+protein	CaM
+protein	MEF2
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PKC
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SRC
+protein	RAF1
+protein	RAC1
+protein	PTK2B
+protein	PLCG1
+protein	PAK1
+protein	MAPK8
+protein	MAPK3
+protein	MAPK1
+protein	MAP3K1
+protein	MAP2K4
+protein	MAP2K2
+protein	MAP2K1
+protein	JUN
+protein	HRAS
+protein	FOS
+protein	ELK1
+protein	EGFR
+protein	CRKL
+protein	BCAR1
+protein	ATF2
+protein	AGT
+MAPK1	ELK1	-a>
+MAP2K2	MAPK3	-a>
+MEF2	JUN	-t>
+PLCG1	DAG	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+PKC	PTK2B	-a>
+ATF2	c-JUN/ATF-2	component>
+JUN	c-JUN/ATF-2	component>
+MAPK3	ELK1	-a>
+PYK2/SRC	EGFR	-a>
+MAP2K1	MAPK3	-a>
+MAP2K4	MAPK8	-a>
+ELK1	FOS	-a>
+AGT	Angiotensin II/AT1-R/G-alpha-q	component>
+AT1-R/G-alpha-q	Angiotensin II/AT1-R/G-alpha-q	component>
+c-JUN/ATF-2	JUN	-t>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	MAPK3	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+EGFR	SHC/GRB2/SOS-1	-a>
+PAK1	MAP3K1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+GTP	RAC1	-a>
+RAC1	GDP	-a>
+PYK2/SRC/P130cas/CRKL	RAC1	-a>
+CaM/Ca ++	PTK2B	-a>
+MAPK8	JUN	-a>
+MAP3K1	MAP2K4	-a>
+MAPK8	MAPK8	-a>
+RAC1	PAK1	-a>
+SRC	PYK2/SRC	component>
+PTK2B	PYK2/SRC	component>
+IP3	Ca2+	-a>
+CRKL	PYK2/SRC/P130cas/CRKL	component>
+BCAR1	PYK2/SRC/P130cas/CRKL	component>
+PYK2/SRC	PYK2/SRC/P130cas/CRKL	component>
+Angiotensin II/AT1-R/G-alpha-q	PLCG1	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

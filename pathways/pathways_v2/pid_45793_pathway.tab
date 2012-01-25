@@ -1,0 +1,70 @@
+complex	DELTA/NOTCH/NOTCH
+protein	NAKED
+protein	CK-1
+protein	NICD_0-0
+complex	NICD/CSL
+protein	NEXT_0-0
+complex	LRP6/FRIZZLED
+complex	DELTA/NOTCH/NOTCH(cleaved)
+complex	AXIN/APC/beta-catenin
+complex	DKK1/LRP6/KRM2
+complex	DKK2/LRP6/KRM2
+complex	WNT/LRP6/FRIZZLED
+protein	RBPSUH
+complex	Gamma Secretase
+protein	WNT1
+protein	WIF1
+protein	PROC
+protein	LRP6
+protein	LFNG
+protein	KREMEN2
+protein	HEY2
+protein	HES7
+protein	HES1
+protein	GSK3B
+protein	FZD1
+protein	DVL1
+protein	DKK2
+protein	DKK1
+protein	CTNNB1
+protein	CSNK2A1
+protein	AXIN1
+protein	ADAM17
+NAKED	DVL1	-a|
+WNT/LRP6/FRIZZLED	DVL1	-a>
+HES7	HES7	-t|
+ADAM17	NEXT_0-0	component>
+WIF1	WNT/LRP6/FRIZZLED	component>
+LFNG	NICD_0-0	-a|
+DVL1	NICD_0-0	-a|
+Gamma Secretase	NICD_0-0	-a>
+HES1	HES1	-t|
+DVL1	AXIN1	component>
+GSK3B	AXIN1	component>
+KREMEN2	DKK2/LRP6/KRM2	component>
+LRP6	DKK2/LRP6/KRM2	component>
+DKK2	DKK2/LRP6/KRM2	component>
+HES7	HES7	-a>
+CK-1	DVL1	-a>
+NICD_0-0	NICD_0-0	-a>
+HES1	HES1	-a>
+CSNK2A1	DVL1	-a>
+NICD/CSL	HES7	-t>
+RBPSUH	NICD/CSL	component>
+NICD_0-0	NICD/CSL	component>
+DELTA/NOTCH/NOTCH	DELTA/NOTCH/NOTCH(cleaved)	component>
+DELTA/NOTCH/NOTCH	NEXT_0-0	component>
+WNT1	WNT/LRP6/FRIZZLED	component>
+LRP6/FRIZZLED	WNT/LRP6/FRIZZLED	component>
+NICD_0-0	LFNG	-t>
+KREMEN2	DKK1/LRP6/KRM2	component>
+LRP6	DKK1/LRP6/KRM2	component>
+DKK1	DKK1/LRP6/KRM2	component>
+NEXT_0-0	NICD_0-0	-a>
+NICD_0-0	HES1	-t>
+AXIN/APC/beta-catenin	CTNNB1	component>
+AXIN/APC/beta-catenin	PROC	component>
+AXIN/APC/beta-catenin	AXIN1	component>
+NICD_0-0	HEY2	-t>
+FZD1	LRP6/FRIZZLED	component>
+LRP6	LRP6/FRIZZLED	component>

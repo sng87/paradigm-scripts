@@ -1,0 +1,17 @@
+complex	RNA Polymerase III Holoenzyme
+complex	TFIIIA:Type 1 Promoter complex
+complex	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex
+complex	TFIIIB-Type 1 and 2 Promoter Selective Complex
+complex	TFIIIC:TFIIIA:Type I Promoter Complex
+complex	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Open Promoter Complex
+complex	TFIIIC
+complex	TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex
+protein	GTF3A
+RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Open Promoter Complex	-a>
+RNA Polymerase III Holoenzyme	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	component>
+TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	component>
+TFIIIA:Type 1 Promoter complex	TFIIIC:TFIIIA:Type I Promoter Complex	component>
+TFIIIC	TFIIIC:TFIIIA:Type I Promoter Complex	component>
+TFIIIC:TFIIIA:Type I Promoter Complex	TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	component>
+TFIIIB-Type 1 and 2 Promoter Selective Complex	TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	component>
+GTF3A	TFIIIA:Type 1 Promoter complex	component>

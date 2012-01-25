@@ -1,0 +1,42 @@
+complex	M2 Tetramer
+complex	Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex
+complex	NP:Lipid Raft
+complex	Gycosylated NA Tetramer:Lipid Raft
+complex	Trimeric palmitylated HA
+complex	Gycosylated NA Tetramer
+protein	UniProt:P06821 M
+protein	UniProt:P03452 HA
+protein	UniProt:P03468 NA
+protein	UniProt:P03485 M
+protein	UniProt:P03466 NP
+protein	CANX
+protein	CALR
+CALR	UniProt:P03452 HA	-a>
+UniProt:P03468 NA	Gycosylated NA Tetramer	component>
+Trimeric palmitylated HA	Trimeric palmitylated HA	-a>
+M2 Tetramer	NP:Lipid Raft	-a>
+M2 Tetramer	Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	-a>
+M2 Tetramer	Gycosylated NA Tetramer:Lipid Raft	-a>
+NP:Lipid Raft	NP:Lipid Raft	-a>
+NP:Lipid Raft	Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	-a>
+NP:Lipid Raft	M2 Tetramer	-a>
+NP:Lipid Raft	Gycosylated NA Tetramer:Lipid Raft	-a>
+Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	NP:Lipid Raft	-a>
+Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	-a>
+Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	M2 Tetramer	-a>
+Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	Gycosylated NA Tetramer:Lipid Raft	-a>
+Gycosylated NA Tetramer:Lipid Raft	NP:Lipid Raft	-a>
+Gycosylated NA Tetramer:Lipid Raft	Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	-a>
+Gycosylated NA Tetramer:Lipid Raft	M2 Tetramer	-a>
+Gycosylated NA Tetramer:Lipid Raft	Gycosylated NA Tetramer:Lipid Raft	-a>
+CANX	UniProt:P03452 HA	-a>
+UniProt:P03468 NA	UniProt:P03468 NA	-a>
+UniProt:P03452 HA	Trimeric palmitylated HA	component>
+Gycosylated NA Tetramer	Gycosylated NA Tetramer:Lipid Raft	-a>
+UniProt:P03452 HA	UniProt:P03452 HA	-a>
+UniProt:P06821 M	UniProt:P06821 M	-a>
+Trimeric palmitylated HA	Glycosylated, palmitylated and folded HA trimer:Lipid Raft Complex	-a>
+UniProt:P03485 M	UniProt:P03485 M	-a>
+UniProt:P03466 NP	NP:Lipid Raft	component>
+M2 Tetramer	M2 Tetramer	-a>
+UniProt:P06821 M	M2 Tetramer	component>

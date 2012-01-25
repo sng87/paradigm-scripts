@@ -1,0 +1,193 @@
+abstract	focal adhesion formation
+abstract	cell-cell adhesion
+abstract	ruffle organization
+abstract	axon guidance
+abstract	neuron projection morphogenesis
+abstract	receptor internalization
+abstract	cell adhesion mediated by integrin
+abstract	lamellipodium assembly
+abstract	cell-cell signaling
+abstract	actin cytoskeleton reorganization
+abstract	cell migration
+abstract	JNK cascade
+abstract	endothelial cell migration
+complex	CDC42/GDP
+complex	Rap1/GTP
+complex	Ephrin B1/EPHB1
+complex	Ephrin B/EPHB2/Intersectin/N-WASP
+complex	Ephrin B1/EPHB1-2/NCK1
+complex	Endophilin/SYNJ1
+complex	Ephrin B/EPHB2/KALRN
+complex	RAS family/GTP
+complex	Ephrin B2/EPHB4
+complex	Ephrin B/EPHB1/Src/p52 SHC/GRB2
+complex	Ephrin B/EPHB1/Src
+complex	RAS family/GDP
+complex	Intersectin/N-WASP
+complex	Ephrin B/EPHB1/Src/Paxillin
+protein	CRK-I
+complex	Ephrin B1/EPHB1-2
+protein	ERK1-2-active
+complex	RAP1/GDP
+complex	Ephrin B/EPHB2
+protein	ERK1-2
+protein	Endophilin
+complex	Ephrin B/EPHB3
+complex	RAC1/GDP
+complex	CDC42/GTP
+complex	RAC1-CDC42/GTP
+complex	HRAS/GDP
+complex	HRAS/GTP
+complex	Ephrin B/EPHB1/GRB7
+complex	PAK1
+complex	Ephrin A5/EPHB2
+complex	Ephrin B/EPHB1
+complex	PI3K
+protein	Ephrin B
+complex	Ephrin B/EPHB2/RasGAP
+protein	p52 SHC
+complex	RAC1-CDC42/GDP
+complex	Ephrin B1/EPHB3
+protein	FAK
+protein	EPHB1-2
+complex	Ephrin B2/EPHB1-2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	TF
+protein	SYNJ1
+protein	SRC
+protein	RRAS
+protein	ROCK1
+protein	RASA1
+protein	PXN
+protein	PAK1
+protein	NCK1
+protein	MAP4K4
+protein	MAP2K1
+protein	KALRN
+protein	GRIA1
+protein	GRB7
+protein	GRB2
+protein	EPHB4
+protein	EPHB3
+protein	EPHB2
+protein	EphB1
+protein	EFNB2
+protein	EFNB1
+protein	EFNA5
+protein	DNM1
+Ephrin B/EPHB2/RasGAP	RAS family/GDP	-a>
+cell-cell signaling	Ephrin B1/EPHB1-2	component>
+Ephrin B2/EPHB4	PAK1	-a>
+CRK-I	Rap1/GTP	-a>
+cell-cell signaling	Ephrin B2/EPHB4	component>
+MAP2K1	ERK1-2-active	-a>
+Ephrin B1/EPHB3	RAC1-CDC42/GTP	-a|
+cell-cell signaling	Ephrin A5/EPHB2	component>
+DNM1	receptor internalization	-ap>
+lamellipodium assembly	receptor internalization	-ap>
+Ephrin B/EPHB2	SYNJ1	component>
+cell-cell signaling	Ephrin B2/EPHB1-2	component>
+cell-cell signaling	Ephrin B/EPHB1	component>
+Ephrin B/EPHB2/Intersectin/N-WASP	CDC42/GTP	-a>
+PAK1	cell-cell adhesion	-ap|
+Ephrin B/EPHB1	PAK1	-a>
+Ephrin B1/EPHB1-2	PAK1	-a|
+cell-cell signaling	Ephrin B/EPHB3	component>
+SYNJ1	receptor internalization	-ap>
+cell-cell signaling	Ephrin B1/EPHB1	component>
+cell-cell signaling	Ephrin B/EPHB2	component>
+cell-cell signaling	Ephrin B1/EPHB3	component>
+Ephrin B/EPHB1	HRAS/GDP	-a>
+GDP	RAS family/GDP	-a>
+RAS family/GTP	GTP	-a>
+RAS family/GTP	RAS family/GDP	-a>
+Ephrin B/EPHB1/Src/Paxillin	cell migration	-ap>
+Ephrin B/EPHB3	cell adhesion mediated by integrin	-ap|
+CRK-I	ruffle organization	-ap>
+EPHB1-2	Ephrin B1/EPHB1-2	component>
+EFNB1	Ephrin B1/EPHB1-2	component>
+Ephrin B/EPHB2/KALRN	PAK1	-a>
+GTP	Rap1/GTP	-a>
+RAP1/GDP	GDP	-a>
+RAP1/GDP	Rap1/GTP	-a>
+Ephrin B1/EPHB3	ROCK1	-a>
+RASA1	Ephrin B/EPHB2/RasGAP	component>
+Ephrin B/EPHB2	Ephrin B/EPHB2/RasGAP	component>
+EPHB4	Ephrin B2/EPHB4	component>
+EFNB2	Ephrin B2/EPHB4	component>
+GRB7	Ephrin B/EPHB1/GRB7	component>
+Ephrin B/EPHB1	Ephrin B/EPHB1/GRB7	component>
+CDC42/GTP	neuron projection morphogenesis	-ap>
+ERK1-2	ERK1-2-active	-a>
+Ephrin B1/EPHB1	EFNB1	component>
+Ephrin B1/EPHB1	EphB1	component>
+MAP4K4	cell adhesion mediated by integrin	-ap>
+Ephrin B/EPHB2	RRAS	-a>
+GTP	RAC1-CDC42/GTP	-a>
+RAC1-CDC42/GDP	GDP	-a>
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+Rap1/GTP	focal adhesion formation	-ap>
+EPHB2	Ephrin A5/EPHB2	component>
+EFNA5	Ephrin A5/EPHB2	component>
+Ephrin B2/EPHB4	PI3K	-a>
+SRC	Ephrin B/EPHB1/Src	component>
+Ephrin B/EPHB1	Ephrin B/EPHB1/Src	component>
+Ephrin B2/EPHB4	receptor internalization	-ap>
+PAK1	neuron projection morphogenesis	-ap>
+PAK1	neuron projection morphogenesis	-ap>
+PXN	Ephrin B/EPHB1/Src/Paxillin	component>
+Ephrin B/EPHB1/Src	Ephrin B/EPHB1/Src/Paxillin	component>
+Ephrin B1/EPHB1-2	FAK	-a|
+EphB1	receptor internalization	-ap>
+PI3K	endothelial cell migration	-ap>
+Intersectin/N-WASP	Ephrin B/EPHB2/Intersectin/N-WASP	component>
+Ephrin B/EPHB2	Ephrin B/EPHB2/Intersectin/N-WASP	component>
+Endophilin/SYNJ1	Endophilin	component>
+Endophilin/SYNJ1	SYNJ1	component>
+EPHB1-2	Ephrin B2/EPHB1-2	component>
+EFNB2	Ephrin B2/EPHB1-2	component>
+EphB1	Ephrin B/EPHB1	component>
+Ephrin B	Ephrin B/EPHB1	component>
+Ephrin B/EPHB1/Src/p52 SHC/GRB2	MAP2K1	-a>
+RRAS	cell adhesion mediated by integrin	-ap|
+ROCK1	cell migration	-ap|
+MAP4K4	JNK cascade	-ap>
+GTP	CDC42/GTP	-a>
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>
+Ephrin A5/EPHB2	axon guidance	-ap>
+Ephrin B1/EPHB1-2/NCK1	MAP4K4	-a>
+lamellipodium assembly	cell-cell adhesion	-ap>
+RAS family/GDP	actin cytoskeleton reorganization	-ap>
+PAK1	ruffle organization	-ap>
+ERK1-2-active	cell migration	-ap>
+Ephrin B/EPHB1/GRB7	cell migration	-ap>
+GTP	GDP	-a>
+GTP	PAK1	-a>
+RAC1/GDP	GDP	-a>
+RAC1/GDP	PAK1	-a>
+Ephrin B1/EPHB1-2	actin cytoskeleton reorganization	-ap>
+EPHB3	Ephrin B/EPHB3	component>
+Ephrin B	Ephrin B/EPHB3	component>
+GRIA1	receptor internalization	-ap>
+EphB1	Ephrin B1/EPHB1	component>
+EFNB1	Ephrin B1/EPHB1	component>
+EPHB2	Ephrin B/EPHB2	component>
+Ephrin B	Ephrin B/EPHB2	component>
+EPHB3	Ephrin B1/EPHB3	component>
+EFNB1	Ephrin B1/EPHB3	component>
+KALRN	Ephrin B/EPHB2/KALRN	component>
+Ephrin B/EPHB2	Ephrin B/EPHB2/KALRN	component>
+PAK1	lamellipodium assembly	-ap>
+Ephrin B/EPHB1	CRK-I	-a>
+NCK1	Ephrin B1/EPHB1-2/NCK1	component>
+Ephrin B1/EPHB1-2	Ephrin B1/EPHB1-2/NCK1	component>
+GDP	GTP	-a>
+GDP	HRAS/GDP	-a>
+HRAS/GTP	GTP	-a>
+HRAS/GTP	HRAS/GDP	-a>
+GRB2	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+p52 SHC	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+Ephrin B/EPHB1/Src	Ephrin B/EPHB1/Src/p52 SHC/GRB2	component>
+SYNJ1	TF	-a>

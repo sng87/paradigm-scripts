@@ -1,0 +1,50 @@
+smallMolecule	Homocysteine
+smallMolecule	L-Methionine
+smallMolecule	Protocatechuate
+smallMolecule	THF-polyglutamate
+smallMolecule	S-Adenosylhomocysteine
+smallMolecule	N-Methylpyridinium
+smallMolecule	6-Methylmercaptopurine
+smallMolecule	Acylcarnitine
+complex	SAH hydrolase homotetramer
+smallMolecule	H2O
+smallMolecule	adenosine
+smallMolecule	Thioglycol
+smallMolecule	PPi
+smallMolecule	Pyridine
+smallMolecule	6-Mercaptopurine
+smallMolecule	ATP
+smallMolecule	phosphate
+protein	TPMT
+protein	NNMT
+protein	MTR
+protein	COMT
+COMT	S-Adenosylhomocysteine	-a>
+NNMT	S-Adenosylhomocysteine	-a>
+SAH hydrolase homotetramer	adenosine	-a>
+MTR	THF-polyglutamate	-a>
+TPMT	6-Methylmercaptopurine	-a>
+Thioglycol	S-Adenosylhomocysteine	-a>
+Protocatechuate	S-Adenosylhomocysteine	-a>
+Acylcarnitine	N-Methylpyridinium	-a>
+Pyridine	N-Methylpyridinium	-a>
+Pyridine	S-Adenosylhomocysteine	-a>
+H2O	Homocysteine	-a>
+H2O	adenosine	-a>
+S-Adenosylhomocysteine	Homocysteine	-a>
+S-Adenosylhomocysteine	adenosine	-a>
+ATP	PPi	-a>
+ATP	phosphate	-a>
+ATP	Acylcarnitine	-a>
+L-Methionine	PPi	-a>
+L-Methionine	phosphate	-a>
+L-Methionine	Acylcarnitine	-a>
+H2O	PPi	-a>
+H2O	phosphate	-a>
+H2O	Acylcarnitine	-a>
+Homocysteine	L-Methionine	-a>
+Homocysteine	THF-polyglutamate	-a>
+6-Mercaptopurine	S-Adenosylhomocysteine	-a>
+6-Mercaptopurine	6-Methylmercaptopurine	-a>
+Acylcarnitine	S-Adenosylhomocysteine	-a>
+Acylcarnitine	6-Methylmercaptopurine	-a>

@@ -1,0 +1,20 @@
+complex	Processive complex loaded on telomere:Okazaki fragment complex
+complex	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments
+smallMolecule	dATP
+complex	DNA Polymerase delta tetramer
+smallMolecule	dCTP
+complex	Processive complex loaded on telomere
+complex	Processive complex loaded on telomere:ligated C-strand Okazaki fragments
+smallMolecule	TTP
+complex	Processive complex loaded on telomere:Okazaki fragment:Flap
+smallMolecule	dGTP
+protein	LIG1
+DNA Polymerase delta tetramer	Processive complex loaded on telomere:Okazaki fragment complex	-a>
+LIG1	Processive complex loaded on telomere:ligated C-strand Okazaki fragments	-a>
+Processive complex loaded on telomere:Okazaki fragment complex	Processive complex loaded on telomere:Okazaki fragment:Flap	-a>
+dATP	Processive complex loaded on telomere:Okazaki fragment complex	-a>
+TTP	Processive complex loaded on telomere:Okazaki fragment complex	-a>
+dCTP	Processive complex loaded on telomere:Okazaki fragment complex	-a>
+dGTP	Processive complex loaded on telomere:Okazaki fragment complex	-a>
+Processive complex loaded on telomere	Processive complex loaded on telomere:Okazaki fragment complex	-a>
+Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments	Processive complex loaded on telomere:ligated C-strand Okazaki fragments	-a>

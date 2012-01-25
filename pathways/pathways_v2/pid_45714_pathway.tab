@@ -1,0 +1,15 @@
+complex	Cadherin/beta-catenin/alpha-catenin/alpha-catenin/alpha-catenin/vinculin/actin
+complex	FAK/p130CAS/SRC/CSK/paxillin/actin
+complex	PECAM-1(P)/SHP-2
+abstract	cell-cell adhesion
+abstract	cell migration
+protein	SRC
+protein	PTPN11
+protein	PECAM1
+FAK/p130CAS/SRC/CSK/paxillin/actin	cell-cell adhesion	-ap>
+PECAM-1(P)/SHP-2	FAK/p130CAS/SRC/CSK/paxillin/actin	-a>
+SRC	PECAM1	-a>
+FAK/p130CAS/SRC/CSK/paxillin/actin	cell migration	-ap>
+Cadherin/beta-catenin/alpha-catenin/alpha-catenin/alpha-catenin/vinculin/actin	cell-cell adhesion	-ap>
+PTPN11	PECAM-1(P)/SHP-2	component>
+PECAM1	PECAM-1(P)/SHP-2	component>

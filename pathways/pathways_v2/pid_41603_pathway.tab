@@ -1,0 +1,41 @@
+complex	DNA polymerase epsilon:origin complex
+complex	DNA polymerase epsilon
+complex	Mcm10:pre-replicative complex
+complex	CDK:DDK:Mcm10:pre-replicative complex
+complex	primosome
+complex	Cdc45:CDK:DDK:Mcm10:pre-replicative complex
+complex	preRC
+complex	phosphorylated Mcm2-7 complex
+complex	Mcm2-7 complex
+complex	CDK
+complex	RPA:Cdc45:CDK:DDK:Mcm10:pre-replicative complex
+complex	Mcm10:active pre-replicative complex
+complex	RPA
+complex	DDK
+complex	DNA polymerase alpha:primase:DNA polymerase alpha:origin complex
+smallMolecule	ATP
+smallMolecule	ADP
+protein	MCM10
+protein	CDT1
+protein	CDC45L
+DDK	phosphorylated Mcm2-7 complex	-a>
+RPA:Cdc45:CDK:DDK:Mcm10:pre-replicative complex	DNA polymerase epsilon:origin complex	-a>
+RPA:Cdc45:CDK:DDK:Mcm10:pre-replicative complex	DNA polymerase alpha:primase:DNA polymerase alpha:origin complex	component>
+MCM10	Mcm10:pre-replicative complex	component>
+preRC	Mcm10:pre-replicative complex	component>
+Mcm10:pre-replicative complex	CDT1	component>
+Mcm10:pre-replicative complex	Mcm10:active pre-replicative complex	component>
+Cdc45:CDK:DDK:Mcm10:pre-replicative complex	RPA:Cdc45:CDK:DDK:Mcm10:pre-replicative complex	component>
+RPA	RPA:Cdc45:CDK:DDK:Mcm10:pre-replicative complex	component>
+Mcm10:active pre-replicative complex	CDK:DDK:Mcm10:pre-replicative complex	component>
+DDK	CDK:DDK:Mcm10:pre-replicative complex	component>
+CDK	CDK:DDK:Mcm10:pre-replicative complex	component>
+CDC45L	Cdc45:CDK:DDK:Mcm10:pre-replicative complex	component>
+CDK:DDK:Mcm10:pre-replicative complex	Cdc45:CDK:DDK:Mcm10:pre-replicative complex	component>
+Mcm2-7 complex	ADP	-a>
+Mcm2-7 complex	phosphorylated Mcm2-7 complex	-a>
+ATP	ADP	-a>
+ATP	phosphorylated Mcm2-7 complex	-a>
+DNA polymerase epsilon	DNA polymerase epsilon:origin complex	-a>
+primosome	DNA polymerase alpha:primase:DNA polymerase alpha:origin complex	component>
+DNA polymerase epsilon:origin complex	DNA polymerase alpha:primase:DNA polymerase alpha:origin complex	component>

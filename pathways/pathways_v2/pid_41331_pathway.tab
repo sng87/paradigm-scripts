@@ -1,0 +1,7 @@
+complex	CDC6:ORC:origin complex
+complex	ORC:origin
+protein	E2F transcription factors
+protein	CDC6
+E2F transcription factors	CDC6	-t>
+CDC6	CDC6:ORC:origin complex	component>
+ORC:origin	CDC6:ORC:origin complex	component>

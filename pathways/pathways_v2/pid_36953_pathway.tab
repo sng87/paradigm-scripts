@@ -1,0 +1,76 @@
+abstract	neuron differentiation
+abstract	BMP signaling pathway
+abstract	fibroblast growth factor receptor signaling pathway
+abstract	positive regulation of MAPKKK cascade
+abstract	cell growth
+abstract	cell death
+complex	GPC1/TGFB/TGFBR1/TGFBR2
+complex	GPC1/VEGF165 homodimer/VEGFR1 homodimer
+complex	ATIII/GPC1
+smallMolecule	Spermine
+complex	TGFBR1 (dimer)
+complex	GPC1/SLIT2
+complex	PrPc/Cu2+
+protein	Src Family Kinases
+complex	GPC1/Laminin alpha1
+complex	APP/GPC1
+complex	PLA2G2A/GPC1
+complex	TGFBR2 (dimer)
+complex	CRIPTO/GPC1
+complex	VEGF165 homodimer
+complex	GPC1/FGF2 dimer/FGFR1 dimer
+complex	GPC1/PrPc/Cu2+
+protein	Src Family Kinases-active
+smallMolecule	NO
+complex	GPC1/NRG
+complex	TGFB family (dimer)
+complex	VEGFR1 homodimer
+protein	TDGF1
+protein	SMAD2
+protein	SLIT2
+protein	SERPINC1
+protein	PLA2G2A
+protein	NRG1
+protein	LAMA1
+protein	GPC1
+protein	FGFR1
+protein	FGF2
+protein	APP
+CRIPTO/GPC1	Src Family Kinases-active	-a>
+NO	Spermine	-a>
+GPC1	APP/GPC1	component>
+APP	APP/GPC1	component>
+GPC1	PLA2G2A/GPC1	component>
+PLA2G2A	PLA2G2A/GPC1	component>
+LAMA1	GPC1/Laminin alpha1	component>
+GPC1	GPC1/Laminin alpha1	component>
+GPC1/NRG	neuron differentiation	-ap>
+VEGFR1 homodimer	GPC1/VEGF165 homodimer/VEGFR1 homodimer	component>
+VEGF165 homodimer	GPC1/VEGF165 homodimer/VEGFR1 homodimer	component>
+GPC1	GPC1/VEGF165 homodimer/VEGFR1 homodimer	component>
+Src Family Kinases-active	positive regulation of MAPKKK cascade	-ap>
+NRG1	GPC1/NRG	component>
+GPC1	GPC1/NRG	component>
+GPC1	BMP signaling pathway	-ap|
+TGFBR1 (dimer)	GPC1/TGFB/TGFBR1/TGFBR2	component>
+TGFBR2 (dimer)	GPC1/TGFB/TGFBR1/TGFBR2	component>
+TGFB family (dimer)	GPC1/TGFB/TGFBR1/TGFBR2	component>
+GPC1	GPC1/TGFB/TGFBR1/TGFBR2	component>
+SLIT2	GPC1/SLIT2	component>
+GPC1	GPC1/SLIT2	component>
+GPC1/TGFB/TGFBR1/TGFBR2	SMAD2	-a>
+GPC1/FGF2 dimer/FGFR1 dimer	cell growth	-ap>
+GPC1/FGF2 dimer/FGFR1 dimer	fibroblast growth factor receptor signaling pathway	-ap>
+GPC1	CRIPTO/GPC1	component>
+TDGF1	CRIPTO/GPC1	component>
+PrPc/Cu2+	GPC1/PrPc/Cu2+	component>
+GPC1	GPC1/PrPc/Cu2+	component>
+FGFR1	GPC1/FGF2 dimer/FGFR1 dimer	component>
+FGF2	GPC1/FGF2 dimer/FGFR1 dimer	component>
+GPC1	GPC1/FGF2 dimer/FGFR1 dimer	component>
+Src Family Kinases	Src Family Kinases-active	-a>
+Spermine	Spermine	-a>
+GPC1	Spermine	-a>
+APP/GPC1	cell death	-ap>
+GPC1	ATIII/GPC1	component>
+SERPINC1	ATIII/GPC1	component>

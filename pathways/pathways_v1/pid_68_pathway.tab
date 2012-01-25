@@ -1,0 +1,123 @@
+protein	PTCH2
+protein	BOC
+protein	SMO
+protein	HHIP
+protein	HHAT
+protein	CDON
+protein	STIL
+protein	SHH
+protein	IHH
+protein	PTCH1
+protein	LRP2
+protein	TGFB2
+protein	GAS1
+protein	PIK3CA
+protein	ARRB2
+protein	AKT1
+protein	LRPAP1
+protein	PIK3R1
+protein	ADRBK1
+protein	PTHLH
+protein	DHH
+protein	EntrezGene:84976
+complex	SMO/beta Arrestin2
+complex	SMO/Vitamin D3
+complex	SHH Np/Cholesterol/PTCH2
+complex	SHH Np/Cholesterol/PTCH1
+complex	SHH Np/Cholesterol/Megalin
+complex	SHH Np/Cholesterol/Hhip
+complex	SHH Np/Cholesterol/GAS1
+complex	SHH Np/Cholesterol/CDO
+complex	SHH Np/Cholesterol/BOC
+complex	SHH Np/Cholesterol
+complex	PI3K
+complex	Megalin/LRPAP1
+complex	IHH N/PTCH2
+complex	IHH N/PTCH1
+complex	IHH N/Hhip
+complex	DHH N/PTCH2
+complex	DHH N/PTCH1
+complex	DHH N/Hhip
+chemical	mol:Vitamin D3
+chemical	mol:Cholesterol
+abstract	somite specification
+abstract	skeletal system development
+abstract	receptor-mediated endocytosis
+abstract	pancreas development
+abstract	mesenchymal cell differentiation
+abstract	heart looping
+abstract	heart development
+abstract	dorsoventral neural tube patterning
+abstract	determination of left/right symmetry
+abstract	catabolic process
+mol:Vitamin D3	SMO/Vitamin D3	component>
+mol:Cholesterol	SHH Np/Cholesterol/PTCH2	component>
+mol:Cholesterol	SHH Np/Cholesterol/PTCH1	component>
+mol:Cholesterol	SHH Np/Cholesterol/Megalin	component>
+mol:Cholesterol	SHH Np/Cholesterol/Hhip	component>
+mol:Cholesterol	SHH Np/Cholesterol/GAS1	component>
+mol:Cholesterol	SHH Np/Cholesterol/CDO	component>
+mol:Cholesterol	SHH Np/Cholesterol/BOC	component>
+mol:Cholesterol	SHH Np/Cholesterol	component>
+PTCH2	SHH Np/Cholesterol/PTCH2	component>
+PTCH2	IHH N/PTCH2	component>
+PTCH2	DHH N/PTCH2	component>
+BOC	SHH Np/Cholesterol/BOC	component>
+SMO	somite specification	-ap>
+SMO	heart looping	-ap>
+SMO	heart development	-ap>
+SMO	determination of left/right symmetry	-ap>
+SMO	AKT1	-a>
+SMO	SMO/beta Arrestin2	component>
+SMO	SMO/Vitamin D3	component>
+HHIP	pancreas development	-ap>
+HHIP	SHH Np/Cholesterol/Hhip	component>
+HHIP	IHH N/Hhip	component>
+HHIP	DHH N/Hhip	component>
+HHAT	SHH	-a>
+HHAT	SHH Np/Cholesterol	-a>
+CDON	SHH Np/Cholesterol/CDO	component>
+SHH	SHH Np/Cholesterol/PTCH2	component>
+SHH	SHH Np/Cholesterol/PTCH1	component>
+SHH	SHH Np/Cholesterol/Megalin	component>
+SHH	SHH Np/Cholesterol/Hhip	component>
+SHH	SHH Np/Cholesterol/GAS1	component>
+SHH	SHH Np/Cholesterol/CDO	component>
+SHH	SHH Np/Cholesterol/BOC	component>
+SHH	SHH Np/Cholesterol	component>
+IHH	IHH N/PTCH2	component>
+IHH	IHH N/PTCH1	component>
+IHH	IHH N/Hhip	component>
+PTCH1	catabolic process	-ap>
+PTCH1	SMO/Vitamin D3	-a>
+PTCH1	SHH Np/Cholesterol/PTCH1	component>
+PTCH1	IHH N/PTCH1	component>
+PTCH1	DHH N/PTCH1	component>
+LRP2	SHH Np/Cholesterol/Megalin	component>
+LRP2	Megalin/LRPAP1	component>
+TGFB2	PTHLH	-t>
+GAS1	SHH Np/Cholesterol/GAS1	component>
+PIK3CA	PI3K	component>
+ARRB2	SMO/beta Arrestin2	component>
+LRPAP1	Megalin/LRPAP1	component>
+PIK3R1	PI3K	component>
+ADRBK1	SMO	-a>
+PTHLH	skeletal system development	-ap>
+DHH	DHH N/PTCH2	component>
+DHH	DHH N/PTCH1	component>
+DHH	DHH N/Hhip	component>
+SMO/beta Arrestin2	receptor-mediated endocytosis	-ap>
+SHH Np/Cholesterol/PTCH1	receptor-mediated endocytosis	-ap>
+SHH Np/Cholesterol/PTCH1	mol:Vitamin D3	-a>
+SHH Np/Cholesterol/PTCH1	SMO	-a>
+SHH Np/Cholesterol/PTCH1	STIL	-a>
+SHH Np/Cholesterol/Megalin	receptor-mediated endocytosis	-ap>
+SHH Np/Cholesterol/Hhip	mesenchymal cell differentiation	-ap|
+SHH Np/Cholesterol/GAS1	dorsoventral neural tube patterning	-ap|
+PI3K	AKT1	-a>
+IHH N/PTCH1	mol:Vitamin D3	-a>
+IHH N/PTCH1	SMO	-a>
+IHH N/PTCH1	PTCH1	-t>
+IHH N/PTCH1	TGFB2	-t>
+IHH N/PTCH1	PTHLH	-t>
+EntrezGene:84976	SHH Np/Cholesterol	-a>

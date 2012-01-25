@@ -1,0 +1,43 @@
+complex	DNA containing UNG2-bound apurinic/apyrimidinic site
+complex	DNA containing a hNTH1-bound apurinic/apyrimidinic site
+complex	DNA containing a TDG-bound apurinic/apyrimidinic site
+complex	DNA containing an hOGG1-bound apurinic/apyrimidinic site
+complex	DNA containing an MBD4-bound apurinic/apyrimidinic site
+complex	DNA containing an MYH-bound apurinic/apyrimidinic site
+complex	DNA containing an MPG-bound apurinic/apyrimidinic site
+complex	DNA containing an APE1-bound AP site
+complex	DNA containing an hSMUG1-bound apurinic/apyrimidinic site
+protein	UniProt:P29372 MPG
+protein	UniProt:O95243-1 MBD4
+protein	TDG
+protein	SMUG1
+protein	OGG1
+protein	NTHL1
+protein	MUTYH
+protein	CCNO
+protein	APEX1
+APEX1	TDG	-a>
+DNA containing a TDG-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+DNA containing a TDG-bound apurinic/apyrimidinic site	TDG	-a>
+DNA containing an hOGG1-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+DNA containing an hOGG1-bound apurinic/apyrimidinic site	OGG1	-a>
+APEX1	OGG1	-a>
+APEX1	UniProt:O95243-1 MBD4	-a>
+DNA containing an MBD4-bound apurinic/apyrimidinic site	UniProt:O95243-1 MBD4	-a>
+DNA containing an MBD4-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+APEX1	CCNO	-a>
+DNA containing UNG2-bound apurinic/apyrimidinic site	CCNO	-a>
+DNA containing UNG2-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+DNA containing an MPG-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+DNA containing an MPG-bound apurinic/apyrimidinic site	UniProt:P29372 MPG	-a>
+APEX1	UniProt:P29372 MPG	-a>
+APEX1	SMUG1	-a>
+DNA containing an hSMUG1-bound apurinic/apyrimidinic site	SMUG1	-a>
+DNA containing an hSMUG1-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+DNA containing an MYH-bound apurinic/apyrimidinic site	MUTYH	-a>
+DNA containing an MYH-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+APEX1	MUTYH	-a>
+DNA containing a hNTH1-bound apurinic/apyrimidinic site	DNA containing an APE1-bound AP site	-a>
+DNA containing a hNTH1-bound apurinic/apyrimidinic site	NTHL1	-a>
+APEX1	DNA containing an APE1-bound AP site	-a>
+APEX1	NTHL1	-a>

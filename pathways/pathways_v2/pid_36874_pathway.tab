@@ -1,0 +1,16 @@
+abstract	metaphase
+abstract	anaphase
+abstract	mitosis
+protein	Histone H3
+complex	Aurora C/Aurora B/INCENP
+protein	INCENP
+protein	AURKC
+protein	AURKB
+metaphase	Aurora C/Aurora B/INCENP	component>
+Aurora C/Aurora B/INCENP	Histone H3	-a>
+anaphase	Aurora C/Aurora B/INCENP	-a>
+Aurora C/Aurora B/INCENP	Aurora C/Aurora B/INCENP	-a>
+INCENP	Aurora C/Aurora B/INCENP	component>
+AURKB	Aurora C/Aurora B/INCENP	component>
+AURKC	Aurora C/Aurora B/INCENP	component>
+mitosis	Histone H3	-a>

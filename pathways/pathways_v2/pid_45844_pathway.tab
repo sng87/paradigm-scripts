@@ -1,0 +1,17 @@
+complex	D4-GDI/RHO
+abstract	apoptosis
+protein	RHOA
+protein	JUN
+protein	CASP3
+protein	CASP1
+protein	ARHGDIB
+protein	ARHGAP5
+CASP1	ARHGDIB	component>
+CASP3	ARHGDIB	component>
+ARHGDIB	ARHGDIB	-a>
+ARHGDIB	JUN	-a>
+D4-GDI/RHO	RHOA	component>
+D4-GDI/RHO	ARHGDIB	component>
+JUN	apoptosis	-ap>
+ARHGAP5	RHOA	-a>
+ARHGAP5	apoptosis	-ap>

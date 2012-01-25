@@ -1,0 +1,145 @@
+abstract	endocytosis
+abstract	cell-cell signaling
+abstract	receptor clustering
+abstract	degradation
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	NOTCH1/Jagged 1
+protein	NEXT_1721-2555
+complex	NECD/MAGP1-2
+complex	DMN1/GTP
+complex	SCF/SEL10
+complex	NOTCH1 heterodimer/DSL
+complex	NOTCH1 heterodimer/DNER
+complex	NOTCH3 heterodimer/DSL
+complex	NOTCH4/Delta 4
+complex	NOTCH1 heterodimer/CNTN1
+complex	NOTCH2 heterodimer/DSL
+complex	NECD/DSL
+complex	NECD2/DSL
+complex	NOTCH1 heterodimer/MAGP1-2
+complex	NOTCH3 heterodimer
+complex	NOTCH1 heterodimer/DLK1
+complex	NOTCH1 heterodimer/NB-3
+complex	NOTCH2 heterodimer/CNTN1
+protein	NOTCH1_19-2555
+protein	DSL ligands
+complex	NECD3/DSL
+protein	NTMIC_1665-2555
+complex	NOTCH1 heterodimer
+protein	NICD_1754-2555
+protein	MAGP1-2
+complex	RAB11/GTP
+complex	NUMB/ITCH
+complex	Gamma Secretase
+complex	NOTCH2 heterodimer
+protein	NUMB
+protein	NOTCH4
+protein	NOTCH3
+protein	NOTCH2
+protein	NEURL
+protein	MIB1
+protein	MFAP5
+protein	MARK2
+protein	LNX1
+protein	JAG1
+protein	ITCH
+protein	FURIN
+protein	EPS15
+protein	DNER
+protein	DLL4
+protein	DLL3
+protein	DLL1
+protein	DLK1
+protein	CNTN6
+protein	CNTN1
+protein	CBL
+protein	ADAM12
+protein	ADAM10
+FURIN	NOTCH1 heterodimer	component>
+Gamma Secretase	NOTCH3	-a>
+Gamma Secretase	NICD_1754-2555	-a>
+DMN1/GTP	NECD/DSL	-a>
+EPS15	NECD/DSL	-a>
+NUMB/ITCH	NOTCH1 heterodimer	-a>
+endocytosis	NOTCH1 heterodimer	-a>
+cell-cell signaling	NOTCH3 heterodimer/DSL	component>
+Gamma Secretase	NOTCH2	component>
+DLL3	NOTCH1 heterodimer/DSL	component>
+cell-cell signaling	NOTCH1 heterodimer/DSL	component>
+receptor clustering	NOTCH1 heterodimer/DSL	component>
+MFAP5	NECD/DSL	component>
+SCF/SEL10	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+cell-cell signaling	NOTCH1 heterodimer/CNTN1	component>
+CBL	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+Gamma Secretase	NOTCH2	-a>
+ADAM10	NEXT_1721-2555	-a>
+cell-cell signaling	NOTCH2 heterodimer/CNTN1	component>
+cell-cell signaling	NOTCH1/Jagged 1	component>
+cell-cell signaling	NOTCH1 heterodimer/DNER	component>
+Gamma Secretase	NOTCH4	component>
+cell-cell signaling	NOTCH1 heterodimer/NB-3	component>
+cell-cell signaling	NOTCH4/Delta 4	component>
+cell-cell signaling	NOTCH2 heterodimer/DSL	component>
+Gamma Secretase	NICD_1754-2555	component>
+NEURL	JAG1	-a>
+NOTCH1_19-2555	NOTCH1 heterodimer	component>
+NICD_1754-2555	NICD_1754-2555	-a>
+NOTCH3	NOTCH3	-a>
+NOTCH1 heterodimer	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+RAB11/GTP	DSL ligands	-a>
+MAGP1-2	NOTCH1 heterodimer/MAGP1-2	component>
+NOTCH1 heterodimer	NOTCH1 heterodimer/MAGP1-2	component>
+DLK1	NOTCH1 heterodimer/DLK1	component>
+NOTCH1 heterodimer	NOTCH1 heterodimer/DLK1	component>
+NEXT_1721-2555	NICD_1754-2555	-a>
+NOTCH3 heterodimer/DSL	NECD3/DSL	component>
+NOTCH3 heterodimer/DSL	NOTCH3	component>
+LNX1	NUMB	-a>
+endocytosis	NECD/DSL	-a>
+NOTCH1 heterodimer	NOTCH1 heterodimer	-a>
+NOTCH2 heterodimer/DSL	NECD2/DSL	component>
+NOTCH2 heterodimer/DSL	NOTCH2	component>
+NOTCH1 heterodimer/MAGP1-2	NECD/MAGP1-2	-a>
+MIB1	DSL ligands	-a>
+NOTCH1 heterodimer/CNTN1	NICD_1754-2555	component>
+ITCH	NUMB/ITCH	component>
+NUMB	NUMB/ITCH	component>
+DSL ligands	NOTCH3 heterodimer/DSL	component>
+NOTCH3 heterodimer	NOTCH3 heterodimer/DSL	component>
+NUMB	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MIB1	degradation	-ap>
+NOTCH2 heterodimer/CNTN1	NOTCH2	component>
+DSL ligands	NOTCH1 heterodimer/DSL	component>
+NOTCH1 heterodimer	NOTCH1 heterodimer/DSL	component>
+NOTCH2	NOTCH2 heterodimer	component>
+NOTCH1 heterodimer/DSL	NTMIC_1665-2555	component>
+NOTCH1 heterodimer/DSL	NECD/DSL	component>
+NICD_1754-2555	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+CNTN1	NOTCH1 heterodimer/CNTN1	component>
+NOTCH1 heterodimer	NOTCH1 heterodimer/CNTN1	component>
+NTMIC_1665-2555	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+NOTCH2	NOTCH2	-a>
+ADAM12	DLL1	-a>
+NOTCH4	NOTCH4	-a>
+NOTCH3	NOTCH3 heterodimer	component>
+NTMIC_1665-2555	NEXT_1721-2555	-a>
+CNTN1	NOTCH2 heterodimer/CNTN1	component>
+NOTCH2 heterodimer	NOTCH2 heterodimer/CNTN1	component>
+JAG1	NOTCH1/Jagged 1	component>
+NOTCH1_19-2555	NOTCH1/Jagged 1	component>
+DNER	NOTCH1 heterodimer/DNER	component>
+NOTCH1 heterodimer	NOTCH1 heterodimer/DNER	component>
+NOTCH4/Delta 4	NOTCH4	component>
+CNTN6	NOTCH1 heterodimer/NB-3	component>
+NOTCH1 heterodimer	NOTCH1 heterodimer/NB-3	component>
+Gamma Secretase	DLL1	-a>
+DLL4	NOTCH4/Delta 4	component>
+NOTCH4	NOTCH4/Delta 4	component>
+NOTCH1_19-2555	NOTCH1_19-2555	-a>
+NOTCH1 heterodimer/DNER	NICD_1754-2555	component>
+DSL ligands	NOTCH2 heterodimer/DSL	component>
+NOTCH2 heterodimer	NOTCH2 heterodimer/DSL	component>
+MARK2	MIB1	-a>
+NOTCH1 heterodimer/NB-3	NICD_1754-2555	component>
+ADAM10	DLL1	-a>
+JAG1	degradation	-ap>

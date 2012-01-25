@@ -1,0 +1,37 @@
+smallMolecule	L-Tryptophan
+protein	Hydroxyindole O-methyltransferase
+smallMolecule	4a-hydroxytetrahydrobiopterin
+smallMolecule	N-Acetylserotonin
+smallMolecule	CoA
+smallMolecule	S-Adenosylhomocysteine
+complex	Dopa decarboxylase homodimer (pyridoxal phosphate cofactor)
+smallMolecule	Melatonin
+smallMolecule	Acylcarnitine
+smallMolecule	CO2
+protein	Tryptophan 5-hydroxylase 1
+smallMolecule	Serotonin
+smallMolecule	5-Hydroxy-L-tryptophan
+smallMolecule	Acetyl-CoA
+smallMolecule	Tetrahydrobiopterin
+smallMolecule	O2
+protein	AANAT
+Tryptophan 5-hydroxylase 1	4a-hydroxytetrahydrobiopterin	-a>
+Hydroxyindole O-methyltransferase	S-Adenosylhomocysteine	-a>
+AANAT	N-Acetylserotonin	-a>
+Dopa decarboxylase homodimer (pyridoxal phosphate cofactor)	Serotonin	-a>
+Tetrahydrobiopterin	5-Hydroxy-L-tryptophan	-a>
+Tetrahydrobiopterin	4a-hydroxytetrahydrobiopterin	-a>
+O2	5-Hydroxy-L-tryptophan	-a>
+O2	4a-hydroxytetrahydrobiopterin	-a>
+L-Tryptophan	5-Hydroxy-L-tryptophan	-a>
+L-Tryptophan	4a-hydroxytetrahydrobiopterin	-a>
+Acylcarnitine	Melatonin	-a>
+Acylcarnitine	S-Adenosylhomocysteine	-a>
+N-Acetylserotonin	Melatonin	-a>
+N-Acetylserotonin	S-Adenosylhomocysteine	-a>
+Serotonin	CoA	-a>
+Serotonin	N-Acetylserotonin	-a>
+Acetyl-CoA	CoA	-a>
+Acetyl-CoA	N-Acetylserotonin	-a>
+5-Hydroxy-L-tryptophan	CO2	-a>
+5-Hydroxy-L-tryptophan	Serotonin	-a>

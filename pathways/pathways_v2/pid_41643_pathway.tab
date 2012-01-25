@@ -1,0 +1,10 @@
+complex	BiP:unfolded protein complex
+complex	ATF6-alpha:BiP Complex
+protein	MBTPS2
+protein	MBTPS1
+protein	ATF6
+MBTPS2	ATF6	-a>
+MBTPS1	ATF6	-a>
+ATF6	ATF6	-a>
+ATF6-alpha:BiP Complex	ATF6	component>
+ATF6-alpha:BiP Complex	BiP:unfolded protein complex	component>

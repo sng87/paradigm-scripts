@@ -1,0 +1,31 @@
+complex	TRAP homodimer
+complex	Riboflavin kinase (Mg2+)
+smallMolecule	Vitamin B2
+complex	Nucleotide pyrophosphatase homodimer
+smallMolecule	H2O
+smallMolecule	PPi
+smallMolecule	FAD
+smallMolecule	FMN
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	FLAD1
+FLAD1	PPi	-a>
+TRAP homodimer	Vitamin B2	-a>
+Nucleotide pyrophosphatase homodimer	phosphate	-a>
+Riboflavin kinase (Mg2+)	FMN	-a>
+ATP	FAD	-a>
+ATP	PPi	-a>
+FMN	FAD	-a>
+FMN	PPi	-a>
+FMN	phosphate	-a>
+FMN	Vitamin B2	-a>
+H2O	Vitamin B2	-a>
+H2O	FMN	-a>
+H2O	phosphate	-a>
+FAD	FMN	-a>
+FAD	phosphate	-a>
+Vitamin B2	ADP	-a>
+Vitamin B2	FMN	-a>
+ATP	ADP	-a>
+ATP	FMN	-a>

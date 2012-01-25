@@ -1,0 +1,74 @@
+smallMolecule	I-
+smallMolecule	L-Diiodotyrosine
+smallMolecule	TPNH
+smallMolecule	3,3',5'-Triiodothyronine
+smallMolecule	H2O
+smallMolecule	L-Thyroxine
+smallMolecule	I2
+smallMolecule	TPN
+smallMolecule	DPN
+protein	Thyroid peroxidase
+smallMolecule	L-Tyrosine
+smallMolecule	3-Iodo-L-tyrosine
+complex	DEHAL1 (FMN cofactor)
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	Na+
+smallMolecule	H2O2
+protein	SLC5A5
+DEHAL1 (FMN cofactor)	I-	-a>
+Thyroid peroxidase	L-Diiodotyrosine	-a>
+Thyroid peroxidase	3-Iodo-L-tyrosine	-a>
+Thyroid peroxidase	I2	-a>
+Thyroid peroxidase	L-Thyroxine	-a>
+Thyroid peroxidase	3,3',5'-Triiodothyronine	-a>
+TPNH	DPN	-a>
+L-Diiodotyrosine	H2O	-a>
+L-Diiodotyrosine	DPN	-a>
+L-Diiodotyrosine	L-Tyrosine	-a>
+L-Diiodotyrosine	I-	-a>
+H+	DPN	-a>
+O2	L-Tyrosine	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+O2	I-	-a>
+3-Iodo-L-tyrosine	L-Tyrosine	-a>
+3-Iodo-L-tyrosine	TPN	-a>
+3-Iodo-L-tyrosine	H2O	-a>
+3-Iodo-L-tyrosine	I-	-a>
+H+	L-Tyrosine	-a>
+H+	I-	-a>
+TPNH	L-Tyrosine	-a>
+TPNH	I-	-a>
+L-Tyrosine	TPN	-a>
+L-Tyrosine	H2O	-a>
+L-Tyrosine	L-Diiodotyrosine	-a>
+TPNH	L-Diiodotyrosine	-a>
+H+	L-Diiodotyrosine	-a>
+I2	TPN	-a>
+I2	H2O	-a>
+I2	L-Diiodotyrosine	-a>
+H2O2	L-Diiodotyrosine	-a>
+I2	I-	-a>
+I2	3-Iodo-L-tyrosine	-a>
+L-Tyrosine	I-	-a>
+L-Tyrosine	3-Iodo-L-tyrosine	-a>
+TPNH	H2O	-a>
+TPNH	TPN	-a>
+TPNH	I2	-a>
+I-	H2O	-a>
+I-	TPN	-a>
+I-	I2	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+H+	I2	-a>
+H2O2	H2O	-a>
+H2O2	TPN	-a>
+H2O2	I2	-a>
+Na+	Na+	-a>
+Na+	I-	-a>
+I-	Na+	-a>
+SLC5A5	I-	-a>
+L-Diiodotyrosine	L-Thyroxine	-a>
+3-Iodo-L-tyrosine	3,3',5'-Triiodothyronine	-a>
+L-Diiodotyrosine	3,3',5'-Triiodothyronine	-a>

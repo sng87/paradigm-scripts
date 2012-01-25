@@ -1,0 +1,64 @@
+complex	SMAD2/SARA
+complex	TAB1/TAK1
+complex	SMAD3/SMAD4/p300/CBP
+complex	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2
+complex	TGF-beta/TGF-beta R1
+complex	p300/CBP
+complex	SMAD4/SNON
+complex	CDH1/APC/SMAD3
+complex	SMAD2/SMAD2/SMAD4/p300/CBP
+protein	TGF-beta
+complex	TGF-beta/TGF-beta-R1/TGF-beta-R2
+complex	SMAD3/SMAD4
+complex	SMAD2/SMAD2/SMAD4
+protein	TGFBR2
+protein	TGFBR1
+protein	SMAD7
+protein	SMAD4
+protein	SMAD3
+protein	SMAD2
+protein	SKIL
+protein	PROC
+protein	NR2C2
+protein	MAPK3
+protein	MAP3K7IP1
+protein	MAP2K1
+protein	CDH1
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	TAB1/TAK1	component>
+SMAD7	SMAD3	-a|
+CDH1/APC/SMAD3	SMAD3	component>
+SMAD7	SMAD2	component>
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	SMAD2	component>
+TAB1/TAK1	MAP2K1	-a>
+TGF-beta/TGF-beta R1	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+TGFBR2	TGF-beta/TGF-beta-R1/TGF-beta-R2	component>
+p300/CBP	SMAD3/SMAD4/p300/CBP	component>
+SMAD3/SMAD4	SMAD3/SMAD4/p300/CBP	component>
+NR2C2	TAB1/TAK1	component>
+MAP3K7IP1	TAB1/TAK1	component>
+p300/CBP	SMAD2/SMAD2/SMAD4/p300/CBP	component>
+SMAD2/SMAD2/SMAD4	SMAD2/SMAD2/SMAD4/p300/CBP	component>
+SMAD3	SMAD3	-a>
+TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	SMAD3	-a>
+TGF-beta/TGF-beta-R1/TGF-beta-R2	TGF-beta/TGF-beta/TGF-beta-R1/TGF-beta-R1/TGF-beta-R2/TGF-beta-R2	component>
+MAP2K1	MAPK3	-a>
+PROC	CDH1/APC/SMAD3	component>
+CDH1	CDH1/APC/SMAD3	component>
+SMAD3	CDH1/APC/SMAD3	component>
+SMAD4	SMAD2/SMAD2/SMAD4	component>
+SMAD2	SMAD2/SMAD2/SMAD4	component>
+SMAD4/SNON	CDH1	component>
+SMAD4/SNON	PROC	component>
+SMAD4/SNON	SMAD4	component>
+SMAD4/SNON	SMAD3	component>
+SMAD2/SMAD2/SMAD4	SMAD2/SMAD2/SMAD4	-a>
+SKIL	SMAD4/SNON	component>
+SMAD4	SMAD4/SNON	component>
+SMAD2	SMAD2	-a>
+CDH1/APC/SMAD3	CDH1/APC/SMAD3	-a>
+SMAD2/SARA	SMAD2	component>
+SMAD2/SMAD2/SMAD4/p300/CBP	SKIL	-t>
+SMAD4	SMAD3/SMAD4	component>
+SMAD3	SMAD3/SMAD4	component>
+TGF-beta	TGF-beta/TGF-beta R1	component>
+TGFBR1	TGF-beta/TGF-beta R1	component>

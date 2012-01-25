@@ -1,0 +1,12 @@
+complex	NF-kB:p75NTR ICD:TRAF6
+complex	gamma-secretase complex
+complex	ADAM 17 metalloprotease (Zn cofactor)
+complex	NF-kB complex
+protein	TRAF6
+protein	NGFR
+ADAM 17 metalloprotease (Zn cofactor)	NGFR	-a>
+gamma-secretase complex	NGFR	-a>
+NGFR	NF-kB:p75NTR ICD:TRAF6	component>
+TRAF6	NF-kB:p75NTR ICD:TRAF6	component>
+NF-kB complex	NF-kB:p75NTR ICD:TRAF6	component>
+NGFR	NGFR	-a>

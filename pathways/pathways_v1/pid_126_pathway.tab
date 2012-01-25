@@ -1,0 +1,151 @@
+protein	WIF1
+protein	FZD1
+protein	FBXW11
+protein	DKK2
+protein	NLK
+protein	PSENEN
+protein	APH1A
+protein	NKD1
+protein	FRAT1
+protein	CREBBP
+protein	NCSTN
+protein	APH1B
+protein	KREMEN2
+protein	DTX1
+protein	MAP3K7IP1
+protein	PPP2R5D
+protein	HDAC1
+protein	CTBP1
+protein	AES
+protein	RBPJ
+protein	TLE1
+protein	PPARD
+protein	CSNK2A1
+protein	GSK3B
+protein	PSEN1
+protein	CSNK1A1
+protein	NOTCH1
+protein	CTNNB1
+protein	MAPK1
+protein	MAPK3
+protein	APC
+protein	CCND1
+protein	HNF1A
+protein	JUN
+protein	WNT1
+protein	MYC
+protein	FOS
+protein	DKK1
+protein	LRP6
+protein	MAP3K7
+protein	AXIN1
+protein	ADAM10
+protein	DVL1
+protein	DLL1
+complex	beta catenin/beta TrCP1
+complex	WNT1/LRP6/FZD1
+complex	NOTCH1 precursor/Deltex homolog 1
+complex	NOTCH1 precursor/DVL1
+complex	NOTCH/Deltex homolog 1
+complex	NICD/RBPSUH
+complex	LRP6/FZD1
+complex	Gamma Secretase
+complex	Delta 1/NOTCHprecursor
+complex	Delta 1/NOTCH/NOTCH(cleaved)
+complex	DKK2/LRP6/Kremen 2
+complex	DKK1/LRP6/Kremen 2
+complex	CtBP/CBP/TCF1/TLE1/AES
+complex	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4
+complex	Axin1/APC/beta catenin
+complex	AP1
+abstract	apoptosis
+WNT1/LRP6/FZD1	DVL1	-a>
+WIF1	WNT1/LRP6/FZD1	-a|
+FZD1	WNT1/LRP6/FZD1	component>
+FZD1	LRP6/FZD1	component>
+FBXW11	beta catenin/beta TrCP1	component>
+DKK2	DKK2/LRP6/Kremen 2	component>
+NLK	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	-a|
+PSENEN	Gamma Secretase	component>
+APH1A	Gamma Secretase	component>
+NKD1	PPP2R5D	-a|
+NKD1	AP1	-a>
+FRAT1	CTNNB1	-a|
+FRAT1	APC	-a|
+FRAT1	AXIN1	-a|
+CREBBP	CtBP/CBP/TCF1/TLE1/AES	component>
+CREBBP	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+NCSTN	Gamma Secretase	component>
+APH1B	Gamma Secretase	component>
+KREMEN2	DKK2/LRP6/Kremen 2	component>
+KREMEN2	DKK1/LRP6/Kremen 2	component>
+DTX1	NOTCH1 precursor/Deltex homolog 1	component>
+DTX1	NOTCH/Deltex homolog 1	component>
+MAP3K7IP1	NLK	-a>
+PPP2R5D	CTNNB1	-a|
+PPP2R5D	CTNNB1	-a>
+PPP2R5D	APC	-a|
+PPP2R5D	APC	-a>
+PPP2R5D	AXIN1	-a|
+PPP2R5D	AXIN1	-a>
+HDAC1	CtBP/CBP/TCF1/TLE1/AES	-a>
+CTBP1	CtBP/CBP/TCF1/TLE1/AES	component>
+CTBP1	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+AES	CtBP/CBP/TCF1/TLE1/AES	component>
+AES	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+RBPJ	NICD/RBPSUH	component>
+TLE1	CtBP/CBP/TCF1/TLE1/AES	component>
+TLE1	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+CSNK2A1	DVL1	-a>
+GSK3B	CTNNB1	-a>
+GSK3B	APC	-a>
+GSK3B	AXIN1	-a>
+PSEN1	Gamma Secretase	component>
+CSNK1A1	DVL1	-a>
+NOTCH1	CTNNB1	-a>
+NOTCH1	APC	-a>
+NOTCH1	AXIN1	-a>
+NOTCH1	NOTCH1 precursor/Deltex homolog 1	component>
+NOTCH1	NOTCH1 precursor/DVL1	component>
+NOTCH1	NOTCH/Deltex homolog 1	component>
+NOTCH1	NICD/RBPSUH	component>
+NOTCH1	Delta 1/NOTCHprecursor	component>
+NOTCH1	Delta 1/NOTCH/NOTCH(cleaved)	component>
+NOTCH1	AP1	-a|
+CTNNB1	beta catenin/beta TrCP1	component>
+CTNNB1	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+CTNNB1	Axin1/APC/beta catenin	component>
+MAPK1	AP1	-a>
+MAPK3	AP1	-a>
+APC	Axin1/APC/beta catenin	component>
+HNF1A	CtBP/CBP/TCF1/TLE1/AES	component>
+HNF1A	Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	component>
+JUN	AP1	component>
+WNT1	WNT1/LRP6/FZD1	component>
+FOS	AP1	component>
+DKK1	DKK1/LRP6/Kremen 2	component>
+LRP6	WNT1/LRP6/FZD1	component>
+LRP6	LRP6/FZD1	component>
+LRP6	DKK2/LRP6/Kremen 2	component>
+LRP6	DKK1/LRP6/Kremen 2	component>
+MAP3K7	NLK	-a>
+AXIN1	Axin1/APC/beta catenin	component>
+ADAM10	NOTCH1	-a>
+ADAM10	NOTCH/Deltex homolog 1	-a>
+ADAM10	Delta 1/NOTCH/NOTCH(cleaved)	-a>
+DVL1	PPP2R5D	-a>
+DVL1	CTNNB1	-a|
+DVL1	APC	-a|
+DVL1	AXIN1	-a|
+DVL1	NOTCH1 precursor/DVL1	component>
+DLL1	Delta 1/NOTCHprecursor	component>
+DLL1	Delta 1/NOTCH/NOTCH(cleaved)	component>
+Gamma Secretase	NOTCH1	-a>
+Gamma Secretase	CTNNB1	-a>
+CtBP/CBP/TCF1/TLE1/AES	PPARD	-t|
+CtBP/CBP/TCF1/TLE1/AES	CCND1	-t|
+CtBP/CBP/TCF1/TLE1/AES	MYC	-t|
+Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	PPARD	-t>
+Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	CCND1	-t>
+Beta Catenin/TCF1/CtBP/CBP/TLE1/AES/SMAD4	MYC	-t>
+AP1	apoptosis	-ap>

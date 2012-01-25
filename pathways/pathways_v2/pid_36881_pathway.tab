@@ -1,0 +1,179 @@
+abstract	DNA methylation
+abstract	cell cycle arrest
+abstract	histone deacetylase activity
+abstract	cell proliferation
+rna	MIR22
+rna	MIR34A
+rna	MIR26A2
+complex	MIZ-1/IRF8
+rna	MIR146A
+complex	SMAD2-3/SMAD4
+complex	MYC/Max/MIZ-1
+rna	MIR23B
+complex	MYC/Max/HDAC3
+complex	SMAD2-3/SMAD4/MYC/Max/MIZ-1
+complex	MYC/Max/MIZ-1/DNMT3A/GFI1
+rna	MIRLET7G
+complex	MYC/Max/NF-Y
+protein	ZO2
+complex	MYC/Max/MIZ-1/ZO2
+complex	SMAD2-3/SMAD4/SP1
+complex	NF-Y
+rna	MIR26A1
+complex	MIZ-1/p300
+rna	DLEU1
+complex	MYC/Max
+protein	beta1 Integrin
+protein	p300
+rna	DLEU2
+protein	alpha6 Integrin
+rna	MIR26B
+protein	ZFP36L1
+protein	ZBTB17
+protein	WNT5A
+protein	TSC2
+protein	TMEM126A
+protein	TMEFF2
+protein	TBP
+protein	SPI1
+protein	SP1
+protein	SLC11A1
+protein	SFXN3
+protein	SFRP1
+protein	S100A7
+protein	RBL1
+protein	PPP2R4
+protein	PDGFRB
+protein	NDRG2
+protein	NDRG1
+protein	MYC
+protein	MXD4
+protein	LGALS1
+protein	ITGB4
+protein	IRF8
+protein	ID2
+protein	HMGCS2
+protein	HDAC3
+protein	HDAC1
+protein	GTF2H2D
+protein	GFI1
+protein	GADD45A
+protein	FTH1
+protein	FOXO3
+protein	ERBB2
+protein	DNTT
+protein	DNMT3A
+protein	DKK1
+protein	DDIT3
+protein	CSDE1
+protein	CREB1
+protein	COL1A2
+protein	CLU
+protein	CFLAR
+protein	CEBPD
+protein	CEBPA
+protein	CDKN2B
+protein	CDKN1B
+protein	CDKN1A
+protein	CCND1
+protein	CCL5
+protein	BRCA1
+protein	BCL2
+protein	ALDH9A1
+MYC/Max/MIZ-1	HMGCS2	-t|
+SP1	HMGCS2	-t>
+HDAC1	CCND1	-t|
+MYC/Max/MIZ-1	cell cycle arrest	-ap|
+MYC/Max	MYC	-t|
+MYC/Max/MIZ-1	MXD4	-t|
+ZBTB17	MXD4	-t>
+MYC/Max/MIZ-1/DNMT3A/GFI1	CDKN1A	-t|
+ZBTB17	CDKN1A	-t>
+MYC/Max/MIZ-1	CCL5	-t|
+SMAD2-3/SMAD4/MYC/Max/MIZ-1	CDKN2B	-t|
+MYC/Max/MIZ-1	NDRG2	-t|
+BRCA1	S100A7	-t|
+MYC/Max	S100A7	-t|
+SPI1	SLC11A1	-t>
+MYC/Max/HDAC3	DDIT3	-t|
+MYC/Max/NF-Y	PDGFRB	-t|
+MYC/Max/MIZ-1	BCL2	-t|
+MYC/Max/MIZ-1	CEBPD	-t|
+TBP	CEBPD	-t>
+CREB1	CEBPD	-t>
+SP1	CEBPD	-t>
+MYC/Max	CDKN1B	-t|
+MYC/Max/HDAC3	ID2	-t|
+MYC/Max	MIR22	-t|
+ZBTB17	HMGCS2	-t>
+MYC/Max	MIRLET7G	-t|
+ZBTB17	CCND1	-t>
+MYC/Max	TSC2	-t|
+MYC/Max	SFXN3	-t|
+MYC/Max	GTF2H2D	-t|
+ZBTB17	cell cycle arrest	-ap>
+MYC/Max/MIZ-1	ITGB4	-t|
+RBL1	MYC	-t|
+MYC/Max	CSDE1	-t|
+MYC/Max	WNT5A	-t|
+MYC/Max/MIZ-1	SMAD2-3/SMAD4/MYC/Max/MIZ-1	component>
+SMAD2-3/SMAD4	SMAD2-3/SMAD4/MYC/Max/MIZ-1	component>
+MYC/Max	MIR34A	-t|
+cell proliferation	MXD4	-t|
+MYC/Max	NDRG1	-t|
+MYC/Max/MIZ-1	beta1 Integrin	-t|
+MYC/Max	MIR146A	-t|
+MYC/Max	SFRP1	-t|
+DNA methylation	CDKN1A	-t|
+MYC/Max/MIZ-1	alpha6 Integrin	-t|
+GFI1	MYC/Max/MIZ-1/DNMT3A/GFI1	component>
+DNMT3A	MYC/Max/MIZ-1/DNMT3A/GFI1	component>
+MYC/Max/MIZ-1	MYC/Max/MIZ-1/DNMT3A/GFI1	component>
+ZBTB17	CCL5	-t>
+SMAD2-3/SMAD4/SP1	CDKN2B	-t>
+HDAC3	MYC/Max/HDAC3	component>
+MYC/Max	MYC/Max/HDAC3	component>
+ZBTB17	NDRG2	-t>
+MYC/Max	CEBPA	-t|
+MYC/Max/MIZ-1	LGALS1	-t|
+MYC/Max	GADD45A	-t|
+MYC/Max	TMEM126A	-t|
+MYC/Max	ALDH9A1	-t|
+NF-Y	MYC/Max/NF-Y	component>
+MYC/Max	MYC/Max/NF-Y	component>
+TBP	S100A7	-t>
+MIZ-1/IRF8	SLC11A1	-t>
+MYC/Max	DNTT	-t|
+MYC/Max/MIZ-1	DDIT3	-t|
+MYC/Max	DLEU1	-t|
+MYC/Max	TMEFF2	-t|
+NF-Y	PDGFRB	-t>
+ZBTB17	BCL2	-t>
+MYC/Max/MIZ-1	CLU	-t|
+MYC/Max	MIR26B	-t|
+MYC/Max	CFLAR	-t|
+MYC/Max	PPP2R4	-t|
+IRF8	MIZ-1/IRF8	component>
+IRF8	MYC/Max/MIZ-1	component>
+ZBTB17	MIZ-1/IRF8	component>
+MYC/Max	MIZ-1/IRF8	component>
+p300	MIZ-1/p300	component>
+p300	MYC/Max/MIZ-1	component>
+ZBTB17	MIZ-1/p300	component>
+ZBTB17	MYC/Max/MIZ-1	component>
+MYC/Max	MIZ-1/p300	component>
+MYC/Max	MYC/Max/MIZ-1	component>
+MYC/Max	ERBB2	-t|
+MYC/Max	DKK1	-t|
+MYC/Max	DLEU2	-t|
+MYC/Max	MIR26A2	-t|
+MYC/Max	MIR23B	-t|
+cell proliferation	CEBPD	-t|
+MYC/Max/MIZ-1	COL1A2	-t|
+FOXO3	CDKN1B	-t>
+MYC/Max	ZFP36L1	-t|
+ZO2	MYC/Max/MIZ-1/ZO2	component>
+MYC/Max/MIZ-1	MYC/Max/MIZ-1/ZO2	component>
+MYC/Max	MIR26A1	-t|
+histone deacetylase activity	ID2	-t|
+MYC/Max	FTH1	-t|

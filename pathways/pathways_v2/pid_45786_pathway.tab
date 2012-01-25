@@ -1,0 +1,71 @@
+abstract	acid secretion
+abstract	degranulation
+complex	SHC/GRB2/SOS-1
+smallMolecule	nucleoside diphosphate
+complex	Fc epsilon receptor I/LYN/SYK
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PRKCB1
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	VAV1
+protein	RAF1
+protein	PLCG1
+protein	PLA2G1B
+protein	PAK2
+protein	MAPK8
+protein	MAPK3
+protein	MAPK1
+protein	MAP3K1
+protein	MAP2K7
+protein	MAP2K4
+protein	MAP2K2
+protein	MAP2K1
+protein	JUN
+protein	HRAS
+protein	FOS
+protein	ELK1
+protein	BTK
+MAPK1	PLA2G1B	-a>
+PLCG1	DAG	-a>
+Ca2+	PRKCB1	-a>
+MAP2K2	MAPK3	-a>
+MAPK3	PLA2G1B	-a>
+PRKCB1	degranulation	-ap>
+Fc epsilon receptor I/LYN/SYK	PI3K	-a>
+ELK1	FOS	-a>
+MAPK8	JUN	-a>
+Fc epsilon receptor I/LYN/SYK	VAV1	-a>
+MAP2K7	MAP2K4	-a>
+BTK	HRAS	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+HRAS	RAF1	-a>
+DAG	PRKCB1	-a>
+PI3K	BTK	-a>
+PLA2G1B	acid secretion	-ap>
+Ca2+	degranulation	-ap>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+VAV1	HRAS	-a>
+MAP3K1	MAP2K4	-a>
+HRAS	PAK2	-a>
+IP3	Ca2+	-a>
+Fc epsilon receptor I/LYN/SYK	BTK	-a>
+HRAS	PI3K	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+Fc epsilon receptor I/LYN/SYK	SHC/GRB2/SOS-1	-a>
+MAP2K4	MAPK8	-a>
+BTK	PLCG1	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>
+PAK2	MAP3K1	-a>

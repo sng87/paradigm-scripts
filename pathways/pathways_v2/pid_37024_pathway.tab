@@ -1,0 +1,114 @@
+protein	p190RHOGEF
+protein	myosinIXB
+complex	RhoA/GTP/RHOGDI
+protein	p190RhoGAP
+protein	smgGDS
+complex	RhoA/GDP/RHOGDI
+complex	RhoA/GDP
+protein	DBS
+smallMolecule	phosphate
+complex	RhoA/GDP/Rho GDI gamma
+complex	RhoA/GTP
+complex	RhoA/GDP/Rho GDI beta
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV3
+protein	VAV2
+protein	VAV1
+protein	TRIO
+protein	SRGAP1
+protein	RICS
+protein	PLEKHG6
+protein	OPHN1
+protein	OBSCN
+protein	NGEF
+protein	NET1
+protein	MCF2
+protein	GEFT
+protein	FARP1
+protein	ECT2
+protein	DLC1
+protein	DEF6
+protein	CDKN1B
+protein	BCR
+protein	ARHGEF5
+protein	ARHGEF3
+protein	ARHGEF2
+protein	ARHGEF18
+protein	ARHGEF17
+protein	ARHGEF15
+protein	ARHGEF12
+protein	ARHGEF11
+protein	ARHGEF10L
+protein	ARHGEF10
+protein	ARHGEF1
+protein	ARHGDIG
+protein	ARHGDIB
+protein	ARHGDIA
+protein	ARHGAP9
+protein	ARHGAP8
+protein	ARHGAP6
+protein	ARHGAP5
+protein	ARHGAP4
+protein	ARAP3
+protein	ARAP1
+protein	AKAP13
+protein	ABR
+myosinIXB	RhoA/GDP	-a>
+DLC1	RhoA/GDP	-a>
+ABR	RhoA/GTP	-a>
+RICS	RhoA/GDP	-a>
+ARHGAP8	RhoA/GDP	-a>
+FARP1	RhoA/GTP	-a>
+GEFT	RhoA/GTP	-a>
+DEF6	RhoA/GTP	-a>
+VAV1	RhoA/GTP	-a>
+VAV3	RhoA/GTP	-a>
+ARHGEF1	RhoA/GTP	-a>
+MCF2	RhoA/GTP	-a>
+ARHGAP6	RhoA/GDP	-a>
+OBSCN	RhoA/GTP	-a>
+BCR	RhoA/GTP	-a>
+ARAP3	RhoA/GDP	-a>
+NET1	RhoA/GTP	-a>
+ARHGEF18	RhoA/GTP	-a>
+ARHGEF2	RhoA/GTP	-a>
+ARHGAP5	RhoA/GDP	-a>
+smgGDS	RhoA/GTP	-a>
+ECT2	RhoA/GTP	-a>
+ARAP1	RhoA/GDP	-a>
+ARHGEF10	RhoA/GTP	-a>
+ARHGEF10L	RhoA/GTP	-a>
+ARHGAP4	RhoA/GDP	-a>
+ARHGEF15	RhoA/GTP	-a>
+NGEF	RhoA/GTP	-a>
+TRIO	RhoA/GTP	-a>
+SRGAP1	RhoA/GDP	-a>
+ARHGEF11	RhoA/GTP	-a>
+ARHGEF12	RhoA/GTP	-a>
+p190RhoGAP	RhoA/GDP	-a>
+ARHGEF3	RhoA/GTP	-a>
+VAV2	RhoA/GTP	-a>
+OPHN1	RhoA/GDP	-a>
+ARHGEF5	RhoA/GTP	-a>
+ARHGEF17	RhoA/GTP	-a>
+ARHGAP9	RhoA/GDP	-a>
+DBS	RhoA/GTP	-a>
+p190RHOGEF	RhoA/GTP	-a>
+PLEKHG6	RhoA/GTP	-a>
+CDKN1B	RhoA/GTP	-a|
+AKAP13	RhoA/GTP	-a>
+ARHGDIG	RhoA/GDP/Rho GDI gamma	component>
+RhoA/GDP	RhoA/GDP/Rho GDI gamma	component>
+ARHGDIA	RhoA/GTP/RHOGDI	component>
+RhoA/GTP	RhoA/GTP/RHOGDI	component>
+ARHGDIA	RhoA/GDP/RHOGDI	component>
+RhoA/GDP	RhoA/GDP/RHOGDI	component>
+ARHGDIB	RhoA/GDP/Rho GDI beta	component>
+RhoA/GDP	RhoA/GDP/Rho GDI beta	component>
+RhoA/GTP	phosphate	-a>
+RhoA/GTP	RhoA/GDP	-a>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>

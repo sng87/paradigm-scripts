@@ -1,0 +1,175 @@
+protein	NCOR2
+protein	HDAC5
+protein	HDAC9
+protein	HDAC6
+protein	ANKRA2
+protein	HDAC11
+protein	HDAC10
+protein	HDAC7
+protein	BCOR
+protein	CAMK4
+protein	TUBB2A
+protein	MEF2C
+protein	TUBA1B
+protein	UBE2I
+protein	SUMO1
+protein	GNB1
+protein	RAN
+protein	YWHAE
+protein	GNG2
+protein	HDAC4
+protein	RANBP2
+protein	RANGAP1
+protein	BCL6
+protein	YWHAB
+protein	ADRBK1
+protein	GATA2
+protein	GATA1
+protein	SRF
+protein	HSP90AA1
+protein	NR3C1
+protein	ESR1
+protein	HDAC3
+protein	XPO1
+protein	RFXANK
+protein	EntrezGene:9972
+protein	EntrezGene:8021
+protein	EntrezGene:23636
+protein	EntrezGene:23225
+complex	Tubulin/HDAC6
+complex	Tubulin
+complex	SUMO1/HDAC4
+complex	Ran/GTP/Exportin 1/HDAC4
+complex	Ran/GTP/Exportin 1
+complex	NPC/RanGAP1/SUMO1/Ubc9
+complex	NPC
+complex	Hsp90/HDAC6
+complex	Histones
+complex	HDAC7/HDAC3
+complex	HDAC6/HDAC11
+complex	HDAC5/YWHAB
+complex	HDAC5/RFXANK
+complex	HDAC5/BCL6/BCoR
+complex	HDAC5/ANKRA2
+complex	HDAC5/14-3-3 E
+complex	HDAC4/YWHAB
+complex	HDAC4/Ubc9
+complex	HDAC4/SRF
+complex	HDAC4/RFXANK
+complex	HDAC4/MEF2C
+complex	HDAC4/HDAC3/SMRT (N-CoR2)
+complex	HDAC4/ER alpha
+complex	HDAC4/CaMK II delta B
+complex	HDAC4/ANKRA2
+complex	HDAC4/14-3-3 E
+complex	Glucocorticoid receptor/Hsp90/HDAC6
+complex	GNB1/GNG2
+complex	GATA2/HDAC5
+complex	GATA1/HDAC5
+complex	GATA1/HDAC4
+complex	G beta1gamma2/HDAC5
+complex	BCL6/BCoR
+chemical	mol:GTP
+abstract	positive regulation of chromatin silencing
+abstract	nuclear import
+abstract	cell motility
+mol:GTP	Ran/GTP/Exportin 1/HDAC4	component>
+mol:GTP	Ran/GTP/Exportin 1	component>
+NCOR2	HDAC4/HDAC3/SMRT (N-CoR2)	component>
+HDAC5	Histones	-a>
+HDAC5	HDAC5/YWHAB	component>
+HDAC5	HDAC5/RFXANK	component>
+HDAC5	HDAC5/BCL6/BCoR	component>
+HDAC5	HDAC5/ANKRA2	component>
+HDAC5	HDAC5/14-3-3 E	component>
+HDAC5	GATA2/HDAC5	component>
+HDAC5	GATA1/HDAC5	component>
+HDAC5	G beta1gamma2/HDAC5	component>
+HDAC9	Histones	-a>
+HDAC6	Tubulin/HDAC6	component>
+HDAC6	Hsp90/HDAC6	component>
+HDAC6	Histones	-a>
+HDAC6	HDAC6/HDAC11	component>
+HDAC6	Glucocorticoid receptor/Hsp90/HDAC6	component>
+ANKRA2	HDAC5/ANKRA2	component>
+ANKRA2	HDAC4/ANKRA2	component>
+HDAC11	Histones	-a>
+HDAC11	HDAC6/HDAC11	component>
+HDAC10	Histones	-a>
+HDAC7	Histones	-a>
+HDAC7	HDAC7/HDAC3	component>
+BCOR	HDAC5/BCL6/BCoR	component>
+BCOR	BCL6/BCoR	component>
+CAMK4	HDAC4/SRF	-a|
+TUBB2A	Tubulin/HDAC6	component>
+TUBB2A	Tubulin	component>
+MEF2C	HDAC4/MEF2C	component>
+TUBA1B	Tubulin/HDAC6	component>
+TUBA1B	Tubulin	component>
+UBE2I	NPC/RanGAP1/SUMO1/Ubc9	component>
+UBE2I	HDAC4/Ubc9	component>
+SUMO1	SUMO1/HDAC4	component>
+SUMO1	NPC/RanGAP1/SUMO1/Ubc9	component>
+GNB1	GNB1/GNG2	component>
+GNB1	G beta1gamma2/HDAC5	component>
+RAN	Ran/GTP/Exportin 1/HDAC4	component>
+RAN	Ran/GTP/Exportin 1	component>
+YWHAE	HDAC5/14-3-3 E	component>
+YWHAE	HDAC4/14-3-3 E	component>
+GNG2	GNB1/GNG2	component>
+GNG2	G beta1gamma2/HDAC5	component>
+HDAC4	SUMO1/HDAC4	component>
+HDAC4	Ran/GTP/Exportin 1/HDAC4	component>
+HDAC4	Histones	-a>
+HDAC4	HDAC4/YWHAB	component>
+HDAC4	HDAC4/Ubc9	component>
+HDAC4	HDAC4/SRF	component>
+HDAC4	HDAC4/RFXANK	component>
+HDAC4	HDAC4/MEF2C	component>
+HDAC4	HDAC4/HDAC3/SMRT (N-CoR2)	component>
+HDAC4	HDAC4/ER alpha	component>
+HDAC4	HDAC4/CaMK II delta B	component>
+HDAC4	HDAC4/ANKRA2	component>
+HDAC4	HDAC4/14-3-3 E	component>
+HDAC4	GATA1/HDAC4	component>
+RANBP2	NPC/RanGAP1/SUMO1/Ubc9	component>
+RANBP2	NPC	component>
+RANGAP1	NPC/RanGAP1/SUMO1/Ubc9	component>
+BCL6	HDAC5/BCL6/BCoR	component>
+BCL6	BCL6/BCoR	component>
+YWHAB	HDAC5/YWHAB	component>
+YWHAB	HDAC4/YWHAB	component>
+ADRBK1	G beta1gamma2/HDAC5	-a>
+GATA2	GATA2/HDAC5	component>
+GATA1	GATA1/HDAC5	component>
+GATA1	GATA1/HDAC4	component>
+SRF	HDAC4/SRF	component>
+HSP90AA1	Hsp90/HDAC6	component>
+HSP90AA1	Glucocorticoid receptor/Hsp90/HDAC6	component>
+NR3C1	Glucocorticoid receptor/Hsp90/HDAC6	component>
+ESR1	HDAC4/ER alpha	component>
+HDAC3	HDAC7/HDAC3	component>
+HDAC3	HDAC4/HDAC3/SMRT (N-CoR2)	component>
+XPO1	Ran/GTP/Exportin 1/HDAC4	component>
+XPO1	Ran/GTP/Exportin 1	component>
+RFXANK	HDAC5/RFXANK	component>
+RFXANK	HDAC4/RFXANK	component>
+Tubulin/HDAC6	cell motility	-ap>
+NPC/RanGAP1/SUMO1/Ubc9	SUMO1/HDAC4	-a>
+NPC/RanGAP1/SUMO1/Ubc9	Ran/GTP/Exportin 1	-a>
+NPC	Ran/GTP/Exportin 1/HDAC4	-a>
+Histones	positive regulation of chromatin silencing	-ap>
+HDAC5/YWHAB	nuclear import	-ap|
+HDAC5/14-3-3 E	nuclear import	-ap|
+HDAC4/YWHAB	nuclear import	-ap|
+HDAC4/Ubc9	HDAC4/MEF2C	-a>
+HDAC4/HDAC3/SMRT (N-CoR2)	HDAC4/MEF2C	-a>
+HDAC4/14-3-3 E	nuclear import	-ap|
+EntrezGene:9972	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:9972	NPC	component>
+EntrezGene:8021	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:8021	NPC	component>
+EntrezGene:23636	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:23636	NPC	component>
+EntrezGene:23225	NPC/RanGAP1/SUMO1/Ubc9	component>
+EntrezGene:23225	NPC	component>

@@ -1,0 +1,14 @@
+complex	C5b
+complex	C4b:C2b:C3b complex
+complex	Complement factor 5
+complex	C3b
+complex	C4b:C2b complex
+complex	C3(H2O)
+protein	C5
+protein	C3
+Complement factor 5	C5	component>
+Complement factor 5	C5b	component>
+C3b	C4b:C2b:C3b complex	component>
+C4b:C2b complex	C4b:C2b:C3b complex	component>
+C3(H2O)	C3b	component>
+C3(H2O)	C3	component>

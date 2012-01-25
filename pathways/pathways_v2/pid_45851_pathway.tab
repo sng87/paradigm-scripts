@@ -1,0 +1,94 @@
+complex	p300/CBP/Pitx2
+complex	Pitx2/HDAC
+complex	Tip60/TRRAP/Pitx2
+complex	HDAC/LEF1
+complex	Tip60/TRRAP
+complex	Pitx2/Ldb1
+protein	NAKED
+protein	CK-1
+complex	p300/CBP
+complex	LRP6/FRIZZLED
+complex	AXIN/APC/beta-catenin
+complex	DKK1/LRP6/KRM2
+complex	DKK2/LRP6/KRM2
+protein	PPARBP
+complex	WNT/LRP6/FRIZZLED
+protein	WNT1
+protein	WIF1
+protein	PROC
+protein	PPP2R5D
+protein	PITX2
+protein	LRP6
+protein	LEF1
+protein	LDB1
+protein	KREMEN2
+protein	HDAC1
+protein	GSK3B
+protein	FZD1
+protein	FRAT1
+protein	DVL1
+protein	DKK2
+protein	DKK1
+protein	CTNNB1
+protein	CSNK2A1
+protein	CCND2
+protein	AXIN1
+Tip60/TRRAP/Pitx2	CCND2	-t>
+Pitx2/Ldb1	CCND2	-t>
+CTNNB1	p300/CBP/Pitx2	component>
+CTNNB1	Tip60/TRRAP/Pitx2	component>
+FRAT1	AXIN1	component>
+NAKED	DVL1	-a|
+WNT/LRP6/FRIZZLED	DVL1	-a>
+WIF1	WNT/LRP6/FRIZZLED	component>
+CTNNB1	HDAC1	component>
+DVL1	AXIN1	component>
+GSK3B	AXIN1	component>
+CTNNB1	Pitx2/Ldb1	-a>
+p300/CBP/Pitx2	CCND2	-t>
+PROC	AXIN/APC/beta-catenin	component>
+AXIN1	AXIN/APC/beta-catenin	component>
+CTNNB1	AXIN/APC/beta-catenin	component>
+KREMEN2	DKK2/LRP6/KRM2	component>
+LRP6	DKK2/LRP6/KRM2	component>
+DKK2	DKK2/LRP6/KRM2	component>
+CTNNB1	PROC	-a>
+CTNNB1	AXIN1	-a>
+PROC	CTNNB1	-a>
+PROC	PROC	-a>
+PROC	AXIN1	-a>
+AXIN1	CTNNB1	-a>
+AXIN1	PROC	-a>
+PPP2R5D	AXIN1	-a>
+p300/CBP	HDAC1	component>
+p300/CBP	p300/CBP/Pitx2	component>
+Pitx2/HDAC	p300/CBP/Pitx2	component>
+CK-1	DVL1	-a>
+PPARBP	HDAC1	component>
+PPARBP	Tip60/TRRAP/Pitx2	component>
+Tip60/TRRAP	HDAC1	component>
+Tip60/TRRAP	Tip60/TRRAP/Pitx2	component>
+Pitx2/HDAC	HDAC1	component>
+Pitx2/HDAC	Tip60/TRRAP/Pitx2	component>
+CTNNB1	CTNNB1	-a>
+HDAC1	Pitx2/HDAC	component>
+PITX2	Pitx2/HDAC	component>
+CSNK2A1	DVL1	-a>
+DVL1	PPP2R5D	-a>
+LEF1	PITX2	-t>
+WNT1	WNT/LRP6/FRIZZLED	component>
+LRP6/FRIZZLED	WNT/LRP6/FRIZZLED	component>
+HDAC/LEF1	LEF1	component>
+HDAC/LEF1	HDAC1	component>
+KREMEN2	DKK1/LRP6/KRM2	component>
+LRP6	DKK1/LRP6/KRM2	component>
+DKK1	DKK1/LRP6/KRM2	component>
+AXIN/APC/beta-catenin	CTNNB1	component>
+AXIN/APC/beta-catenin	PROC	component>
+AXIN/APC/beta-catenin	AXIN1	component>
+FZD1	LRP6/FRIZZLED	component>
+LRP6	LRP6/FRIZZLED	component>
+LDB1	HDAC1	-a>
+LDB1	Pitx2/Ldb1	-a>
+Pitx2/HDAC	HDAC1	-a>
+Pitx2/HDAC	Pitx2/Ldb1	-a>

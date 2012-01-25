@@ -1,0 +1,76 @@
+smallMolecule	5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol
+smallMolecule	(24S)-7alpha,24-dihydroxycholesterol
+protein	UniProt:Q9UHK6 AMACR
+smallMolecule	(24S)-24-hydroxycholesterol
+smallMolecule	CoA
+smallMolecule	TPNH
+smallMolecule	H2O
+smallMolecule	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA
+smallMolecule	TPN
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	H+
+smallMolecule	O2
+smallMolecule	ATP
+smallMolecule	Cholesterol
+protein	SLC27A5
+protein	SLC27A2
+protein	HSD3B7
+protein	CYP8B1
+protein	CYP46A1
+protein	CYP39A1
+protein	CYP27A1
+protein	AKR1D1
+protein	AKR1C4
+CYP8B1	TPN	-a>
+SLC27A5	PPi	-a>
+HSD3B7	H+	-a>
+UniProt:Q9UHK6 AMACR	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	-a>
+AKR1C4	TPN	-a>
+SLC27A2	H2O	-a>
+CYP27A1	H2O	-a>
+CYP39A1	(24S)-7alpha,24-dihydroxycholesterol	-a>
+SLC27A2	AMP	-a>
+AKR1D1	TPN	-a>
+CYP27A1	TPN	-a>
+CYP46A1	TPN	-a>
+(24S)-7alpha,24-dihydroxycholesterol	NADH	-a>
+(24S)-7alpha,24-dihydroxycholesterol	H+	-a>
+DPN	NADH	-a>
+DPN	H+	-a>
+H+	5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol	-a>
+TPNH	5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol	-a>
+(24S)-24-hydroxycholesterol	(24S)-24-hydroxycholesterol	-a>
+3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA	3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA	-a>
+CoA	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	-a>
+ATP	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	-a>
+H+	(24S)-7alpha,24-dihydroxycholesterol	-a>
+TPNH	(24S)-7alpha,24-dihydroxycholesterol	-a>
+O2	(24S)-7alpha,24-dihydroxycholesterol	-a>
+(24S)-24-hydroxycholesterol	TPN	-a>
+(24S)-24-hydroxycholesterol	H2O	-a>
+(24S)-24-hydroxycholesterol	(24S)-7alpha,24-dihydroxycholesterol	-a>
+3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA	-a>
+ATP	3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA	-a>
+ATP	H2O	-a>
+ATP	PPi	-a>
+ATP	AMP	-a>
+CoA	3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA	-a>
+CoA	H2O	-a>
+CoA	PPi	-a>
+CoA	AMP	-a>
+Cholesterol	(24S)-24-hydroxycholesterol	-a>
+Cholesterol	H2O	-a>
+Cholesterol	TPN	-a>
+O2	(24S)-24-hydroxycholesterol	-a>
+O2	H2O	-a>
+O2	TPN	-a>
+TPNH	(24S)-24-hydroxycholesterol	-a>
+TPNH	H2O	-a>
+H+	(24S)-24-hydroxycholesterol	-a>
+H+	H2O	-a>
+H+	TPN	-a>
+TPNH	TPN	-a>

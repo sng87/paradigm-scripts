@@ -1,0 +1,15 @@
+complex	Cyclin B:Cdc2 complex
+complex	Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)
+complex	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)
+complex	Cyclin B:phospho-Cdc2(Thr 14)
+smallMolecule	ATP
+smallMolecule	ADP
+protein	WEE1
+WEE1	ADP	-a>
+ATP	Cyclin B:phospho-Cdc2(Thr 14)	-a>
+Cyclin B:Cdc2 complex	Cyclin B:phospho-Cdc2(Thr 14)	-a>
+Cyclin B:Cdc2 complex	ADP	-a>
+ATP	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+ATP	ADP	-a>
+Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	ADP	-a>

@@ -1,0 +1,17 @@
+complex	RTC with minus sssDNA:tRNA primer:RNA template
+complex	APOBEC3G:RTC with deaminated minus sssDNA:tRNA primer:RNA template
+smallMolecule	H2O
+complex	APOBEC3G:HIV-1PIC
+complex	IN bound to sticky 3' ends of viral DNA in PIC
+complex	APOBEC3G:RTC with minus sssDNA:tRNA primer:RNA template
+smallMolecule	NH3
+protein	APOBEC3G
+APOBEC3G	NH3	-a>
+APOBEC3G	APOBEC3G:HIV-1PIC	component>
+IN bound to sticky 3' ends of viral DNA in PIC	APOBEC3G:HIV-1PIC	component>
+H2O	APOBEC3G:RTC with deaminated minus sssDNA:tRNA primer:RNA template	-a>
+H2O	NH3	-a>
+APOBEC3G:RTC with minus sssDNA:tRNA primer:RNA template	APOBEC3G:RTC with deaminated minus sssDNA:tRNA primer:RNA template	-a>
+APOBEC3G:RTC with minus sssDNA:tRNA primer:RNA template	NH3	-a>
+RTC with minus sssDNA:tRNA primer:RNA template	APOBEC3G:RTC with minus sssDNA:tRNA primer:RNA template	component>
+APOBEC3G	APOBEC3G:RTC with minus sssDNA:tRNA primer:RNA template	component>

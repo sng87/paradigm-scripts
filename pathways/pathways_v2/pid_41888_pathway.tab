@@ -1,0 +1,25 @@
+complex	CF II
+complex	3' end cleaved, ligated exon containing complex
+complex	CstF
+complex	CF I
+complex	Ligated exon containing complex
+complex	CPSF
+complex	3'-polyadenylated, capped mRNA complex
+complex	mRNA 3'-end cleavage factor
+smallMolecule	ATP
+protein	PAPOLA
+protein	PABPN1
+mRNA 3'-end cleavage factor	3' end cleaved, ligated exon containing complex	component>
+PAPOLA	PABPN1	component>
+Ligated exon containing complex	CstF	component>
+Ligated exon containing complex	CF II	component>
+Ligated exon containing complex	CF I	component>
+Ligated exon containing complex	3' end cleaved, ligated exon containing complex	component>
+3' end cleaved, ligated exon containing complex	3'-polyadenylated, capped mRNA complex	component>
+3' end cleaved, ligated exon containing complex	PAPOLA	component>
+3' end cleaved, ligated exon containing complex	CPSF	component>
+3' end cleaved, ligated exon containing complex	PABPN1	component>
+ATP	3'-polyadenylated, capped mRNA complex	component>
+ATP	PAPOLA	component>
+ATP	CPSF	component>
+ATP	PABPN1	component>

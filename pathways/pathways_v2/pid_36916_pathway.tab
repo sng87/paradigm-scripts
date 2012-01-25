@@ -1,0 +1,31 @@
+complex	FKBP12/ALK2 (dimer)
+complex	MIS/MISR2/ALK2 (dimer)
+complex	MISR2 (dimer)
+protein	SMAD1-5-8
+complex	MIS (dimer)
+protein	SMAD1-5-8-active
+complex	SMAD4/SMAD1-5-8 (dimer)
+complex	BMPR2 (homodimer)
+complex	BMP7/BMPR2/ALK2 (dimer)
+complex	BMP7 (dimer)
+protein	TLX2
+protein	SMAD4
+protein	FKBP1A
+BMP7/BMPR2/ALK2 (dimer)	SMAD1-5-8-active	-a>
+MIS/MISR2/ALK2 (dimer)	SMAD1-5-8-active	-a>
+SMAD4/SMAD1-5-8 (dimer)	SMAD4/SMAD1-5-8 (dimer)	-a>
+SMAD4/SMAD1-5-8 (dimer)	TLX2	-t>
+SMAD1-5-8	SMAD1-5-8-active	-a>
+MISR2 (dimer)	FKBP1A	component>
+MISR2 (dimer)	MIS/MISR2/ALK2 (dimer)	component>
+MIS (dimer)	FKBP1A	component>
+MIS (dimer)	MIS/MISR2/ALK2 (dimer)	component>
+FKBP12/ALK2 (dimer)	MIS/MISR2/ALK2 (dimer)	component>
+SMAD4	SMAD4/SMAD1-5-8 (dimer)	component>
+SMAD1-5-8-active	SMAD4/SMAD1-5-8 (dimer)	component>
+BMPR2 (homodimer)	FKBP1A	component>
+BMPR2 (homodimer)	BMP7/BMPR2/ALK2 (dimer)	component>
+BMP7 (dimer)	FKBP1A	component>
+BMP7 (dimer)	BMP7/BMPR2/ALK2 (dimer)	component>
+FKBP12/ALK2 (dimer)	FKBP1A	component>
+FKBP12/ALK2 (dimer)	BMP7/BMPR2/ALK2 (dimer)	component>

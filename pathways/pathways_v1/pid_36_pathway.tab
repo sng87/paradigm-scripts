@@ -1,0 +1,31 @@
+protein	ADCY4
+protein	ADCY1
+protein	ADCY2
+protein	PRKCE
+protein	ADCY7
+protein	ADCY8
+protein	ADCY5
+protein	ADCY9
+protein	ADCY3
+protein	ADCY6
+chemical	mol:DAG
+abstract	cAMP biosynthetic process
+mol:DAG	PRKCE	-a>
+ADCY4	cAMP biosynthetic process	-ap>
+ADCY1	cAMP biosynthetic process	-ap>
+ADCY2	cAMP biosynthetic process	-ap>
+PRKCE	ADCY4	-a>
+PRKCE	ADCY1	-a>
+PRKCE	ADCY2	-a>
+PRKCE	ADCY7	-a>
+PRKCE	ADCY8	-a>
+PRKCE	ADCY5	-a>
+PRKCE	ADCY9	-a>
+PRKCE	ADCY3	-a>
+PRKCE	ADCY6	-a>
+ADCY7	cAMP biosynthetic process	-ap>
+ADCY8	cAMP biosynthetic process	-ap>
+ADCY5	cAMP biosynthetic process	-ap>
+ADCY9	cAMP biosynthetic process	-ap>
+ADCY3	cAMP biosynthetic process	-ap>
+ADCY6	cAMP biosynthetic process	-ap>

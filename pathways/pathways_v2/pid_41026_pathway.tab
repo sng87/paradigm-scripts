@@ -1,0 +1,60 @@
+smallMolecule	Methacrylyl-CoA
+complex	3-hydroxyisobutyrate dehydrogenase, homodimer
+smallMolecule	2-Ketovaline
+smallMolecule	3-Oxo-2-methylpropanoate
+complex	branched-chain amino acid aminotransferase, mitochondrial, holoenzyme
+smallMolecule	2-Oxoglutarate
+complex	isobutyryl-CoA dehydrogenase, holoenzyme
+smallMolecule	Isobutyryl-CoA
+smallMolecule	CoA
+smallMolecule	(S)-3-Hydroxyisobutyryl-CoA
+complex	branched-chain amino acid aminotransferase, cytosolic, holoenzyme
+smallMolecule	Hydracrylic acid
+smallMolecule	H2O
+smallMolecule	Propionyl-CoA
+complex	methylmalonate semialdehyde dehydrogenase, homotetramer
+smallMolecule	CO2
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	L-Glutamate
+smallMolecule	L-Valine
+smallMolecule	FADH2
+smallMolecule	FAD
+smallMolecule	H+
+protein	HIBCH
+branched-chain amino acid aminotransferase, mitochondrial, holoenzyme	2-Ketovaline	-a>
+branched-chain amino acid aminotransferase, cytosolic, holoenzyme	L-Glutamate	-a>
+methylmalonate semialdehyde dehydrogenase, homotetramer	Propionyl-CoA	-a>
+3-hydroxyisobutyrate dehydrogenase, homodimer	H+	-a>
+isobutyryl-CoA dehydrogenase, holoenzyme	Methacrylyl-CoA	-a>
+HIBCH	Hydracrylic acid	-a>
+L-Valine	2-Ketovaline	-a>
+L-Valine	L-Glutamate	-a>
+2-Oxoglutarate	2-Ketovaline	-a>
+2-Oxoglutarate	L-Glutamate	-a>
+3-Oxo-2-methylpropanoate	NADH	-a>
+3-Oxo-2-methylpropanoate	H+	-a>
+3-Oxo-2-methylpropanoate	CO2	-a>
+3-Oxo-2-methylpropanoate	Propionyl-CoA	-a>
+CoA	NADH	-a>
+CoA	H+	-a>
+CoA	CO2	-a>
+CoA	Propionyl-CoA	-a>
+DPN	CO2	-a>
+DPN	Propionyl-CoA	-a>
+DPN	NADH	-a>
+DPN	3-Oxo-2-methylpropanoate	-a>
+DPN	H+	-a>
+Hydracrylic acid	NADH	-a>
+Hydracrylic acid	3-Oxo-2-methylpropanoate	-a>
+Hydracrylic acid	H+	-a>
+FAD	FADH2	-a>
+FAD	Methacrylyl-CoA	-a>
+Isobutyryl-CoA	FADH2	-a>
+Isobutyryl-CoA	Methacrylyl-CoA	-a>
+(S)-3-Hydroxyisobutyryl-CoA	CoA	-a>
+(S)-3-Hydroxyisobutyryl-CoA	Hydracrylic acid	-a>
+H2O	CoA	-a>
+H2O	Hydracrylic acid	-a>
+H2O	(S)-3-Hydroxyisobutyryl-CoA	-a>
+Methacrylyl-CoA	(S)-3-Hydroxyisobutyryl-CoA	-a>

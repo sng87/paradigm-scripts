@@ -1,0 +1,113 @@
+abstract	absorption of light
+complex	Transducin
+complex	GNAT1/GTP
+complex	CNG Channel
+complex	PDE6A/B
+complex	Metarhodopsin II/Arrestin
+complex	GNB1/GNGT1
+smallMolecule	all-trans-retinol
+complex	GC2/GCAP Family
+smallMolecule	GMP (4 units)
+smallMolecule	ATP
+smallMolecule	Lecithin
+smallMolecule	ADP
+protein	NCKX1
+complex	cGMP/CNG Channel
+complex	Rhodopsin
+smallMolecule	Na +
+complex	Na + (4 Units)
+smallMolecule	2-acylglycerophosphocholine
+complex	Metarhodopsin II/Transducin
+complex	GNAT1/GDP
+smallMolecule	phosphate
+complex	PDE6
+complex	RGS9-1/Gbeta5/R9AP
+smallMolecule	cGMP
+smallMolecule	all-trans-retinylester
+complex	Metarhodopsin II
+protein	phospho-opsin phosphatase
+smallMolecule	11-cis-retinal
+complex	PDE6G/GNAT1/GTP
+smallMolecule	all-trans-retinal
+smallMolecule	Ca2+
+smallMolecule	11-cis-retinol
+complex	GCAP Family/Ca ++
+smallMolecule	K +
+protein	GCAP Family
+complex	GC1/GCAP Family
+smallMolecule	GTP
+protein	SAG
+protein	RPE65
+protein	RHO
+protein	RDH5
+protein	RDH12
+protein	LRAT
+protein	GUCY2F
+protein	GUCY2D
+protein	GRK1
+phospho-opsin phosphatase	all-trans-retinal	component>
+LRAT	all-trans-retinylester	-a>
+RGS9-1/Gbeta5/R9AP	GNAT1/GDP	component>
+GRK1	Metarhodopsin II	-a>
+PDE6A/B	GMP (4 units)	-a>
+PDE6G/GNAT1/GTP	GMP (4 units)	-a>
+GC1/GCAP Family	cGMP	-a>
+RDH12	all-trans-retinol	-a>
+RDH5	11-cis-retinal	-a>
+absorption of light	Metarhodopsin II	-a>
+GC2/GCAP Family	cGMP	-a>
+RPE65	11-cis-retinol	-a>
+K +	K +	-a>
+K +	Ca2+	-a>
+Ca2+	K +	-a>
+NCKX1	Ca2+	-a>
+SAG	Metarhodopsin II/Arrestin	component>
+Metarhodopsin II	Metarhodopsin II/Arrestin	component>
+cGMP/CNG Channel	Ca2+	-a>
+Metarhodopsin II/Arrestin	SAG	component>
+Metarhodopsin II/Arrestin	RHO	component>
+Metarhodopsin II/Arrestin	all-trans-retinal	component>
+GNB1/GNGT1	Transducin	component>
+GNAT1/GDP	Transducin	component>
+Metarhodopsin II	RHO	component>
+Metarhodopsin II	all-trans-retinal	component>
+Lecithin	2-acylglycerophosphocholine	-a>
+Lecithin	all-trans-retinylester	-a>
+all-trans-retinol	2-acylglycerophosphocholine	-a>
+all-trans-retinol	all-trans-retinylester	-a>
+cGMP/CNG Channel	Na +	-a>
+PDE6G/GNAT1/GTP	phosphate	component>
+PDE6G/GNAT1/GTP	PDE6	component>
+PDE6G/GNAT1/GTP	GNAT1/GDP	component>
+PDE6A/B	phosphate	component>
+PDE6A/B	PDE6	component>
+PDE6A/B	GNAT1/GDP	component>
+ATP	ADP	-a>
+ATP	Metarhodopsin II	-a>
+Metarhodopsin II	ADP	-a>
+Metarhodopsin II	Metarhodopsin II	-a>
+GCAP Family	GC2/GCAP Family	component>
+GUCY2F	GC2/GCAP Family	component>
+GCAP Family/Ca ++	Ca2+	component>
+GCAP Family/Ca ++	GCAP Family	component>
+cGMP/CNG Channel	CNG Channel	-a>
+cGMP/CNG Channel	GMP (4 units)	-a>
+GCAP Family	GC1/GCAP Family	component>
+GUCY2D	GC1/GCAP Family	component>
+all-trans-retinal	all-trans-retinol	-a>
+GNAT1/GTP	PDE6A/B	component>
+GNAT1/GTP	PDE6G/GNAT1/GTP	component>
+PDE6	PDE6A/B	component>
+PDE6	PDE6G/GNAT1/GTP	component>
+11-cis-retinal	Rhodopsin	component>
+RHO	Rhodopsin	component>
+11-cis-retinol	11-cis-retinal	-a>
+Metarhodopsin II	Metarhodopsin II/Transducin	component>
+Transducin	Metarhodopsin II/Transducin	component>
+Rhodopsin	Metarhodopsin II	-a>
+NCKX1	Na + (4 Units)	-a>
+Metarhodopsin II/Transducin	GNAT1/GTP	component>
+Metarhodopsin II/Transducin	GNB1/GNGT1	component>
+Metarhodopsin II/Transducin	Metarhodopsin II	component>
+GTP	cGMP	-a>
+all-trans-retinylester	11-cis-retinol	-a>

@@ -1,0 +1,7 @@
+smallMolecule	Biotin
+smallMolecule	Na+
+protein	SLC5A6
+Na+	Na+	-a>
+Na+	Biotin	-a>
+Biotin	Na+	-a>
+SLC5A6	Biotin	-a>

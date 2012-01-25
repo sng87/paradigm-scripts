@@ -1,0 +1,51 @@
+abstract	misfolded or incompletely synthesized protein catabolic process
+abstract	protein folding
+protein	alpha-MAN1
+complex	Glc1Man8/ubiquitin
+smallMolecule	Man9
+smallMolecule	Man8
+complex	Man8/ubiquitin
+smallMolecule	Glc3Man9
+smallMolecule	Glc1Man9
+smallMolecule	Glc1Man8
+complex	FBX2/SKP1/Roc1/CUL1/SAE1/Ubc9
+smallMolecule	Man8-7
+protein	alpha-MANII
+abstract	protein ubiquitination
+abstract	degradation
+protein	UGCGL1
+protein	SEC61A1
+protein	GCS1
+protein	GANAB
+protein	EDEM1
+protein	CANX
+alpha-MAN1	Glc1Man8	-a>
+misfolded or incompletely synthesized protein catabolic process	Glc1Man8	-a>
+alpha-MANII	Man8-7	-a>
+alpha-MAN1	Man8-7	-a>
+SEC61A1	Glc1Man8	-a>
+alpha-MAN1	Man8	-a>
+misfolded or incompletely synthesized protein catabolic process	Man8	-a>
+GANAB	Man9	-a>
+protein folding	Man9	-a>
+FBX2/SKP1/Roc1/CUL1/SAE1/Ubc9	protein ubiquitination	-ap>
+UGCGL1	Glc1Man9	-a>
+GCS1	Glc1Man9	-a>
+GANAB	Glc1Man9	-a>
+Man8-7	Man8-7	-a>
+Glc1Man9	Glc1Man8	-a>
+EDEM1	Man8	-a>
+CANX	protein folding	-ap>
+Man9	Man8-7	-a>
+EDEM1	Glc1Man8	-a>
+Man8/ubiquitin	protein ubiquitination	-ap>
+Man8	protein ubiquitination	-ap>
+Man9	Man8	-a>
+Man8/ubiquitin	degradation	-ap>
+Glc1Man9	Man9	-a>
+Glc1Man8/ubiquitin	protein ubiquitination	-ap>
+Glc1Man8	protein ubiquitination	-ap>
+Man9	Glc1Man9	-a>
+Glc1Man8/ubiquitin	degradation	-ap>
+Glc3Man9	Glc3Man9	-a>
+Glc3Man9	Glc1Man9	-a>

@@ -1,0 +1,20 @@
+complex	phospho-CREB dimer
+complex	Calmodulin:CaMK IV
+complex	Ca(4)CaM
+complex	phospho-CaMK IV:Calmodulin
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CREB1
+protein	CAMK4
+phospho-CaMK IV:Calmodulin	CREB1	-a>
+Calmodulin:CaMK IV	phospho-CaMK IV:Calmodulin	-a>
+Calmodulin:CaMK IV	ADP	-a>
+ATP	phospho-CaMK IV:Calmodulin	-a>
+CAMK4	Calmodulin:CaMK IV	component>
+Ca(4)CaM	Calmodulin:CaMK IV	component>
+CREB1	ADP	-a>
+CREB1	CREB1	-a>
+ATP	ADP	-a>
+ATP	CREB1	-a>
+Calmodulin:CaMK IV	Calmodulin:CaMK IV	-a>
+CREB1	phospho-CREB dimer	component>

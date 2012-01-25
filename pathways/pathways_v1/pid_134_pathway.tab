@@ -1,0 +1,25 @@
+abstract	G1/S progression
+protein	RB1
+protein	CDK6
+protein	CCND2
+protein	CDKN2C
+protein	CDKN2B
+protein	CDK4
+protein	CDKN2A
+CDK6	RB1	-a|
+CCND2	RB1	-a|
+CDK4	RB1	-a|
+CCND2	CDK6	-a>
+CDK6	CCND2	-a>
+CCND2	CDK4	-a>
+CDK4	CCND2	-a>
+CDKN2C	CDK6	-a|
+CDKN2B	CDK6	-a|
+CDKN2A	CDK6	-a|
+CDKN2C	CCND2	-a|
+CDKN2B	CCND2	-a|
+CDKN2A	CCND2	-a|
+CDKN2C	CDK4	-a|
+CDKN2B	CDK4	-a|
+CDKN2A	CDK4	-a|
+RB1	G1/S progression	-ap|

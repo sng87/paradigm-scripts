@@ -1,0 +1,34 @@
+smallMolecule	I-
+protein	VGLUTs
+smallMolecule	N-acetylneuraminic acids
+smallMolecule	Acetate
+protein	UniProt:Q14916 SLC17A1_subunit_1_467_1-467
+smallMolecule	L-Glutamine
+smallMolecule	L-Glutamate
+smallMolecule	H+
+smallMolecule	phosphate
+smallMolecule	Na+
+protein	SLC5A8
+protein	SLC5A5
+protein	SLC17A5
+SLC17A5	H+	-a>
+VGLUTs	H+	-a>
+SLC5A5	Na+	-a>
+H+	N-acetylneuraminic acids	-a>
+N-acetylneuraminic acids	N-acetylneuraminic acids	-a>
+N-acetylneuraminic acids	H+	-a>
+H+	L-Glutamate	-a>
+H+	H+	-a>
+L-Glutamine	L-Glutamate	-a>
+L-Glutamine	H+	-a>
+SLC5A8	I-	-a>
+Na+	Acetate	-a>
+Acetate	Na+	-a>
+SLC5A8	Acetate	-a>
+Na+	I-	-a>
+I-	I-	-a>
+I-	Na+	-a>
+Na+	Na+	-a>
+Na+	phosphate	-a>
+phosphate	Na+	-a>
+UniProt:Q14916 SLC17A1_subunit_1_467_1-467	phosphate	-a>

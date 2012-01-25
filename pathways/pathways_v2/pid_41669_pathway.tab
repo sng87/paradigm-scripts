@@ -1,0 +1,42 @@
+complex	Phospho-R-SMAD:CO-SMAD complex
+complex	TGF-beta 1 precursor complex
+complex	Type I receptor dimer
+complex	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA complex
+complex	Dimeric TGF-beta1:type II receptor complex
+complex	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:Phospho-R-SMAD complex
+complex	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:R-SMAD complex
+complex	Type II receptor complex
+protein	SARA
+complex	Phospho-R-SMAD:CO-SMAD:SKI complex
+complex	Dimeric TGF-beta 1
+complex	TGF-beta 1:type II receptor:Phospho-type I receptor complex
+complex	TGF-beta 1:type II receptor:Phospho-type I receptor:I-SMAD complex
+complex	TGF-beta 1:type II receptor:type I receptor complex
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SMAD4
+protein	SKI
+protein	FURIN
+TGF-beta 1:type II receptor:Phospho-type I receptor:SARA complex	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:Phospho-R-SMAD complex	-a>
+FURIN	Dimeric TGF-beta 1	-a>
+TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:Phospho-R-SMAD complex	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA complex	-a>
+TGF-beta 1:type II receptor:Phospho-type I receptor complex	TGF-beta 1:type II receptor:Phospho-type I receptor:I-SMAD complex	-a>
+TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:R-SMAD complex	ADP	-a>
+TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:R-SMAD complex	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:Phospho-R-SMAD complex	-a>
+ATP	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:Phospho-R-SMAD complex	-a>
+Type II receptor complex	Dimeric TGF-beta1:type II receptor complex	component>
+Dimeric TGF-beta 1	Dimeric TGF-beta1:type II receptor complex	component>
+SARA	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:R-SMAD complex	component>
+TGF-beta 1:type II receptor:Phospho-type I receptor complex	TGF-beta 1:type II receptor:Phospho-type I receptor:SARA:R-SMAD complex	component>
+ATP	ADP	-a>
+ATP	TGF-beta 1:type II receptor:Phospho-type I receptor complex	-a>
+TGF-beta 1:type II receptor:type I receptor complex	ADP	-a>
+TGF-beta 1:type II receptor:type I receptor complex	TGF-beta 1:type II receptor:Phospho-type I receptor complex	-a>
+SMAD4	Phospho-R-SMAD:CO-SMAD complex	component>
+Dimeric TGF-beta 1	Dimeric TGF-beta 1	-a>
+SKI	Phospho-R-SMAD:CO-SMAD:SKI complex	component>
+Phospho-R-SMAD:CO-SMAD complex	Phospho-R-SMAD:CO-SMAD:SKI complex	component>
+TGF-beta 1 precursor complex	Dimeric TGF-beta 1	-a>
+Dimeric TGF-beta1:type II receptor complex	TGF-beta 1:type II receptor:type I receptor complex	component>
+Type I receptor dimer	TGF-beta 1:type II receptor:type I receptor complex	component>
+Phospho-R-SMAD:CO-SMAD complex	Phospho-R-SMAD:CO-SMAD complex	-a>

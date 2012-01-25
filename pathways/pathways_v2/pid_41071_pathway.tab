@@ -1,0 +1,25 @@
+smallMolecule	dGMP
+smallMolecule	GMP
+smallMolecule	dGDP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+protein	GUK1
+GUK1	GMP	-a>
+GUK1	ADP	-a>
+GUK1	dGMP	-a>
+GUK1	GDP	-a>
+GDP	ATP	-a>
+GDP	GMP	-a>
+ADP	GMP	-a>
+ATP	dGDP	-a>
+dGMP	dGDP	-a>
+dGMP	ADP	-a>
+ADP	ATP	-a>
+ADP	dGMP	-a>
+dGDP	ATP	-a>
+dGDP	dGMP	-a>
+GMP	ADP	-a>
+GMP	GDP	-a>
+ATP	ADP	-a>
+ATP	GDP	-a>

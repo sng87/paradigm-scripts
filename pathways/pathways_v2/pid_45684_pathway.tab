@@ -1,0 +1,47 @@
+abstract	cellular response to starvation
+abstract	heme deficiency
+abstract	viral genome expression
+protein	GF
+smallMolecule	nucleoside diphosphate
+complex	EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta
+complex	EIF-2-alpha(P)/EIF-2-beta/EIF-2-gamma/EIF-2B
+complex	EIF-2-beta/EIF-2-gamma/EIF-2-alpha
+protein	40s Ribosome subunit
+rna	Met-tRNA
+complex	43S Ribosome
+smallMolecule	guanosine 5`-triphosphate
+abstract	response to stress
+abstract	apoptosis
+protein	PPYR1
+protein	GSK3B
+protein	EIF5
+protein	EIF2B5
+protein	EIF2AK4
+protein	EIF2AK3
+protein	EIF2AK2
+protein	EIF2AK1
+PPYR1	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+EIF2AK2	EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta	-a>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	43S Ribosome	component>
+EIF2AK4	EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta	-a>
+EIF2AK1	EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta	-a>
+EIF2AK3	EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta	-a>
+EIF2B5	EIF-2-alpha(P)/EIF-2-beta/EIF-2-gamma/EIF-2B	component>
+EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta	EIF-2-alpha(P)/EIF-2-beta/EIF-2-gamma/EIF-2B	component>
+cellular response to starvation	EIF2AK4	-a>
+EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	nucleoside diphosphate	-a>
+EIF2B5	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+Met-tRNA	43S Ribosome	component>
+40s Ribosome subunit	43S Ribosome	component>
+response to stress	EIF2AK3	-a>
+GSK3B	EIF2B5	-a>
+EIF-2-beta/EIF-2-gamma/EIF-2-alpha	EIF-2-alpha(P)/EIF-2-gamma/EIF-2-beta	-a>
+heme deficiency	EIF2AK1	-a>
+viral genome expression	EIF2AK2	-a>
+GF	GSK3B	-a>
+EIF5	EIF-2-beta/EIF-2-gamma/EIF-2-alpha	-a>
+EIF-2-alpha(P)/EIF-2-beta/EIF-2-gamma/EIF-2B	apoptosis	-ap>

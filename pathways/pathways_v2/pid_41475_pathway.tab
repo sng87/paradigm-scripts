@@ -1,0 +1,17 @@
+complex	Lutropin
+complex	Gonadotropin
+protein	UniProt:P01222 TSHB_subunit_21_132_21-132
+complex	Thyrotropin
+complex	Follitropin
+protein	LHB
+protein	FSHB
+protein	CGB5
+protein	CGA
+CGA	Gonadotropin	component>
+CGB5	Gonadotropin	component>
+FSHB	Follitropin	component>
+CGA	Follitropin	component>
+LHB	Lutropin	component>
+CGA	Lutropin	component>
+CGA	Thyrotropin	component>
+UniProt:P01222 TSHB_subunit_21_132_21-132	Thyrotropin	component>

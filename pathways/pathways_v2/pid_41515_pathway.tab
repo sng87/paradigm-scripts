@@ -1,0 +1,7 @@
+protein	WEE1
+protein	PLK1
+protein	PKMYT1
+protein	CDC25C
+PLK1	WEE1	-a>
+PLK1	CDC25C	-a>
+PLK1	PKMYT1	-a>

@@ -1,0 +1,176 @@
+protein	SENP1
+protein	RCHY1
+protein	EHMT2
+protein	SIRT1
+protein	SMARCE1
+protein	KAT5
+protein	SMARCC1
+protein	KAT2B
+protein	HOXB13
+protein	CREBBP
+protein	APPBP2
+protein	HDAC7
+protein	ZMIZ2
+protein	CARM1
+protein	MAPK14
+protein	PKN1
+protein	NCOA1
+protein	NCOA2
+protein	HDAC1
+protein	FOXO1
+protein	EP300
+protein	SRY
+protein	REL
+protein	MDM2
+protein	GNB2L1
+protein	MAP2K6
+protein	NR0B1
+protein	SMARCA2
+protein	GSK3B
+protein	CEBPA
+protein	NR2C2
+protein	RXRG
+protein	MAP2K4
+protein	MAPK8
+protein	DNAJA1
+protein	RXRB
+protein	RXRB
+protein	GATA2
+protein	KLK2
+protein	RXRA
+protein	EGR1
+protein	POU2F1
+protein	NR2C1
+protein	SRC
+protein	AR
+protein	HSP90AA1
+protein	KLK3
+protein	JUN
+protein	NR3C1
+protein	MYST2
+protein	SPDEF
+protein	PDE9A
+protein	TMPRSS2
+protein	TRIM24
+complex	T-DHT/AR/TIP60
+complex	T-DHT/AR/TIF2/CARM1
+complex	T-DHT/AR/TIF2
+complex	T-DHT/AR/RACK1/Src
+complex	T-DHT/AR/Hsp90
+complex	T-DHT/AR/DAX-1
+complex	T-DHT/AR
+complex	RXRs/9cRA
+complex	BRM/BAF57
+complex	AR/RACK1/Src
+complex	AR/GR
+chemical	mol:T-DHT
+chemical	mol:9cRA
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+abstract	positive regulation of transcription
+abstract	epidermal growth factor receptor activity
+abstract	cell proliferation
+positive regulation of transcription	KLK3	-ap>
+positive regulation of transcription	PDE9A	-ap>
+positive regulation of transcription	TMPRSS2	-ap>
+mol:T-DHT	SRC	-a>
+mol:T-DHT	T-DHT/AR/TIP60	component>
+mol:T-DHT	T-DHT/AR/TIF2/CARM1	component>
+mol:T-DHT	T-DHT/AR/TIF2	component>
+mol:T-DHT	T-DHT/AR/RACK1/Src	component>
+mol:T-DHT	T-DHT/AR/Hsp90	component>
+mol:T-DHT	T-DHT/AR/DAX-1	component>
+mol:T-DHT	T-DHT/AR	component>
+mol:9cRA	RXRs/9cRA	component>
+epidermal growth factor receptor activity	AR/RACK1/Src	-ap>
+SENP1	HDAC1	-a>
+RCHY1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+EHMT2	KLK3	-t>
+SIRT1	T-DHT/AR/TIF2	-a>
+SMARCE1	BRM/BAF57	component>
+KAT5	T-DHT/AR/TIP60	component>
+SMARCC1	SMARCC1	-t>
+SMARCC1	KLK3	-t>
+KAT2B	T-DHT/AR/TIF2	-a>
+HOXB13	KLK3	-t|
+CREBBP	T-DHT/AR/TIF2	-a>
+APPBP2	T-DHT/AR	-a|
+HDAC7	KLK3	-t|
+ZMIZ2	KLK3	-t>
+CARM1	T-DHT/AR/TIF2/CARM1	component>
+MAPK14	mol:T-DHT	-a>
+MAPK14	AR	-a>
+PKN1	T-DHT/AR/TIF2	-a>
+NCOA1	SMARCC1	-t>
+NCOA1	KLK3	-t>
+NCOA2	T-DHT/AR/TIF2/CARM1	component>
+NCOA2	T-DHT/AR/TIF2	component>
+HDAC1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+HDAC1	KLK3	-t|
+FOXO1	cell proliferation	-ap|
+FOXO1	KLK3	-t|
+EP300	T-DHT/AR/TIF2	-a>
+SRY	KLK3	-t|
+REL	KLK3	-t|
+MDM2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+MDM2	KLK3	-t|
+GNB2L1	T-DHT/AR/RACK1/Src	component>
+GNB2L1	AR/RACK1/Src	component>
+MAP2K6	MAPK14	-a>
+NR0B1	T-DHT/AR/DAX-1	component>
+SMARCA2	BRM/BAF57	component>
+GSK3B	AR	-a>
+CEBPA	KLK3	-t|
+NR2C2	KLK3	-t|
+RXRG	RXRs/9cRA	component>
+MAP2K4	MAPK8	-a>
+MAPK8	mol:T-DHT	-a>
+MAPK8	AR	-a>
+DNAJA1	T-DHT/AR	-a>
+RXRB	RXRs/9cRA	component>
+RXRB	RXRs/9cRA	component>
+GATA2	positive regulation of transcription	-ap>
+GATA2	cell proliferation	-ap>
+RXRA	RXRs/9cRA	component>
+EGR1	KLK3	-t>
+POU2F1	cell proliferation	-ap>
+POU2F1	KLK3	-t>
+POU2F1	PDE9A	-t>
+POU2F1	TMPRSS2	-t>
+NR2C1	KLK3	-t|
+SRC	T-DHT/AR/RACK1/Src	component>
+SRC	AR/RACK1/Src	component>
+AR	KLK3	-t>
+AR	T-DHT/AR/TIP60	component>
+AR	T-DHT/AR/TIF2/CARM1	component>
+AR	T-DHT/AR/TIF2	component>
+AR	T-DHT/AR/RACK1/Src	component>
+AR	T-DHT/AR/Hsp90	component>
+AR	T-DHT/AR/DAX-1	component>
+AR	T-DHT/AR	component>
+AR	AR/RACK1/Src	component>
+AR	AR/GR	component>
+HSP90AA1	T-DHT/AR/Hsp90	component>
+JUN	KLK3	-t>
+NR3C1	AR/GR	component>
+MYST2	KLK3	-t|
+SPDEF	KLK3	-t>
+TRIM24	KLK3	-t>
+T-DHT/AR/TIP60	KLK3	-t>
+T-DHT/AR/TIF2/CARM1	KLK2	-t>
+T-DHT/AR/TIF2/CARM1	KLK3	-t>
+T-DHT/AR/TIF2	cell proliferation	-ap>
+T-DHT/AR/TIF2	KLK3	-t>
+T-DHT/AR/RACK1/Src	cell proliferation	-ap>
+T-DHT/AR/RACK1/Src	KLK3	-t|
+T-DHT/AR	cell proliferation	-ap>
+T-DHT/AR	SMARCC1	-t>
+T-DHT/AR	HDAC7	-a>
+T-DHT/AR	KLK3	-t>
+T-DHT/AR	PDE9A	-t>
+T-DHT/AR	TMPRSS2	-t>
+RXRs/9cRA	KLK3	-t|
+BRM/BAF57	cell proliferation	-ap>
+BRM/BAF57	KLK3	-t>
+AR/RACK1/Src	cell proliferation	-ap>
+AR/RACK1/Src	KLK2	-t>
+AR/RACK1/Src	KLK3	-t>

@@ -1,0 +1,153 @@
+protein	CSNK1G3
+protein	KIF3A
+protein	FOXA2
+protein	SUFU
+protein	RAB23
+protein	IFT172
+protein	STK36
+protein	CSNK1G1
+protein	SMO
+protein	SIN3A
+protein	CREBBP
+protein	HDAC2
+protein	RBBP7
+protein	PTCH1
+protein	HDAC1
+protein	IFT88
+protein	RBBP4
+protein	CSNK1G2
+protein	GNAI1
+protein	GNB1
+protein	GNG2
+protein	GSK3B
+protein	CSNK1E
+protein	CSNK1D
+protein	CSNK1A1
+protein	ARRB2
+protein	GNAO1
+protein	GNAZ
+protein	LGALS3
+protein	PRKACA
+protein	GLI3
+protein	GLI2
+protein	GNAO1
+protein	GNAI3
+protein	GLI1
+protein	GNAI2
+protein	PIAS1
+protein	SAP30
+protein	SIN3B
+protein	SPOP
+protein	MTSS1
+protein	XPO1
+protein	SAP18
+complex	Su(fu)/SIN3/HDAC complex
+complex	Su(fu)/PIAS1
+complex	Su(fu)/Galectin3
+complex	SMO/beta Arrestin2
+complex	SIN3/HDAC complex
+complex	MIM/GLI2A
+complex	MIM/GLI1
+complex	Gi family/GTP
+complex	Gi family/GNB1/GNG2/GDP
+complex	GNB1/GNG2
+complex	GLI3A/CBP
+complex	GLI3/Su(fu)
+complex	GLI3/SPOP
+complex	GLI2/Su(fu)
+complex	GLI2/SPOP
+complex	GLI1/Su(fu)
+chemical	mol:GTP
+chemical	mol:GDP
+abstract	neural tube patterning
+abstract	forebrain development
+abstract	embryonic limb morphogenesis
+abstract	embryonic digit morphogenesis
+abstract	catabolic process
+mol:GTP	Gi family/GTP	component>
+mol:GDP	Gi family/GNB1/GNG2/GDP	component>
+CSNK1G3	GLI2	-a>
+KIF3A	GLI3	-a>
+SUFU	Su(fu)/SIN3/HDAC complex	component>
+SUFU	Su(fu)/PIAS1	component>
+SUFU	Su(fu)/Galectin3	component>
+SUFU	GLI3/Su(fu)	component>
+SUFU	GLI2/Su(fu)	component>
+SUFU	GLI1/Su(fu)	component>
+RAB23	GLI3	-a>
+IFT172	GLI3	-a>
+STK36	SUFU	-a>
+STK36	GLI1	-a>
+CSNK1G1	GLI2	-a>
+SMO	mol:GDP	-a>
+SMO	GLI3	-a|
+SMO	SMO/beta Arrestin2	component>
+SMO	Gi family/GTP	-a>
+SMO	GNB1/GNG2	-a>
+SIN3A	Su(fu)/SIN3/HDAC complex	component>
+SIN3A	SIN3/HDAC complex	component>
+CREBBP	GLI3A/CBP	component>
+HDAC2	Su(fu)/SIN3/HDAC complex	component>
+RBBP7	Su(fu)/SIN3/HDAC complex	component>
+HDAC1	Su(fu)/SIN3/HDAC complex	component>
+IFT88	embryonic digit morphogenesis	-ap>
+IFT88	GLI3	-a>
+RBBP4	Su(fu)/SIN3/HDAC complex	component>
+CSNK1G2	GLI2	-a>
+GNAI1	Gi family/GTP	component>
+GNAI1	Gi family/GNB1/GNG2/GDP	component>
+GNB1	Gi family/GNB1/GNG2/GDP	component>
+GNB1	GNB1/GNG2	component>
+GNG2	Gi family/GNB1/GNG2/GDP	component>
+GNG2	GNB1/GNG2	component>
+GSK3B	GLI3	-a>
+GSK3B	GLI2	-a>
+CSNK1E	GLI2	-a>
+CSNK1D	GLI2	-a>
+CSNK1A1	GLI2	-a>
+ARRB2	SMO/beta Arrestin2	component>
+GNAO1	Gi family/GTP	component>
+GNAO1	Gi family/GNB1/GNG2/GDP	component>
+GNAZ	Gi family/GTP	component>
+GNAZ	Gi family/GNB1/GNG2/GDP	component>
+LGALS3	Su(fu)/Galectin3	component>
+PRKACA	GLI3	-a>
+PRKACA	GLI2	-a>
+GLI3	GLI3/Su(fu)	component>
+GLI3	GLI3/SPOP	component>
+GLI2	GLI2/Su(fu)	component>
+GLI2	GLI2/SPOP	component>
+GNAO1	Gi family/GTP	component>
+GNAO1	Gi family/GNB1/GNG2/GDP	component>
+GNAI3	Gi family/GTP	component>
+GNAI3	Gi family/GNB1/GNG2/GDP	component>
+GLI1	neural tube patterning	-ap>
+GLI1	forebrain development	-ap>
+GLI1	embryonic limb morphogenesis	-ap>
+GLI1	PTCH1	-t>
+GLI1	MIM/GLI1	component>
+GLI1	GLI1/Su(fu)	component>
+GNAI2	Gi family/GTP	component>
+GNAI2	Gi family/GNB1/GNG2/GDP	component>
+PIAS1	Su(fu)/PIAS1	component>
+SAP30	Su(fu)/SIN3/HDAC complex	component>
+SAP30	SIN3/HDAC complex	component>
+SIN3B	Su(fu)/SIN3/HDAC complex	component>
+SIN3B	SIN3/HDAC complex	component>
+SPOP	GLI3/SPOP	component>
+SPOP	GLI2/SPOP	component>
+MTSS1	MIM/GLI2A	component>
+MTSS1	MIM/GLI1	component>
+XPO1	GLI1	-a>
+SAP18	Su(fu)/SIN3/HDAC complex	component>
+SAP18	SIN3/HDAC complex	component>
+Su(fu)/SIN3/HDAC complex	GLI3	-a>
+Su(fu)/SIN3/HDAC complex	GLI1	-a|
+SMO/beta Arrestin2	SUFU	-a>
+SMO/beta Arrestin2	GLI1	-a>
+MIM/GLI2A	FOXA2	-t>
+MIM/GLI1	FOXA2	-t>
+Gi family/GTP	GLI1	-a>
+GLI3A/CBP	GLI1	-t>
+GLI3/SPOP	catabolic process	-ap>
+GLI2/SPOP	catabolic process	-ap>

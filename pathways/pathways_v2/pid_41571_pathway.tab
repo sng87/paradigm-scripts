@@ -1,0 +1,74 @@
+smallMolecule	D-Xylulose 5-phosphate
+smallMolecule	Sedoheptulose 7-phosphate
+smallMolecule	Neuberg ester
+smallMolecule	6-Phospho-D-gluconate
+smallMolecule	D-Glyceraldehyde 3-phosphate
+smallMolecule	6-Phospho-D-glucono-1,5-lactone
+smallMolecule	TPNH
+complex	transketolase dimer
+complex	G6PD tetramer
+smallMolecule	D-Ribulose 5-phosphate
+smallMolecule	H2O
+smallMolecule	Ribose 5-phosphate
+smallMolecule	TPN
+complex	G6PD dimer
+smallMolecule	CO2
+smallMolecule	alpha-D-Glucose 6-phosphate
+smallMolecule	D-Erythrose 4-phosphate
+smallMolecule	H+
+protein	TALDO1
+protein	RPIA
+protein	RPE
+protein	PGLS
+protein	PGD
+RPIA	D-Ribulose 5-phosphate	-a>
+transketolase dimer	Sedoheptulose 7-phosphate	-a>
+G6PD dimer	6-Phospho-D-glucono-1,5-lactone	-a>
+RPE	D-Ribulose 5-phosphate	-a>
+PGLS	6-Phospho-D-gluconate	-a>
+transketolase dimer	Neuberg ester	-a>
+G6PD tetramer	H+	-a>
+TALDO1	D-Erythrose 4-phosphate	-a>
+RPE	D-Xylulose 5-phosphate	-a>
+RPIA	Ribose 5-phosphate	-a>
+PGD	CO2	-a>
+transketolase dimer	D-Xylulose 5-phosphate	-a>
+TALDO1	Sedoheptulose 7-phosphate	-a>
+Ribose 5-phosphate	D-Ribulose 5-phosphate	-a>
+D-Xylulose 5-phosphate	Sedoheptulose 7-phosphate	-a>
+Ribose 5-phosphate	D-Glyceraldehyde 3-phosphate	-a>
+Ribose 5-phosphate	Sedoheptulose 7-phosphate	-a>
+D-Xylulose 5-phosphate	D-Ribulose 5-phosphate	-a>
+6-Phospho-D-glucono-1,5-lactone	6-Phospho-D-gluconate	-a>
+H2O	6-Phospho-D-gluconate	-a>
+D-Erythrose 4-phosphate	Neuberg ester	-a>
+D-Xylulose 5-phosphate	D-Glyceraldehyde 3-phosphate	-a>
+D-Xylulose 5-phosphate	Neuberg ester	-a>
+alpha-D-Glucose 6-phosphate	TPNH	-a>
+alpha-D-Glucose 6-phosphate	6-Phospho-D-glucono-1,5-lactone	-a>
+alpha-D-Glucose 6-phosphate	H+	-a>
+TPN	6-Phospho-D-glucono-1,5-lactone	-a>
+D-Glyceraldehyde 3-phosphate	Neuberg ester	-a>
+Sedoheptulose 7-phosphate	Neuberg ester	-a>
+Sedoheptulose 7-phosphate	D-Erythrose 4-phosphate	-a>
+D-Ribulose 5-phosphate	D-Xylulose 5-phosphate	-a>
+D-Ribulose 5-phosphate	Ribose 5-phosphate	-a>
+D-Glyceraldehyde 3-phosphate	Ribose 5-phosphate	-a>
+Sedoheptulose 7-phosphate	Ribose 5-phosphate	-a>
+Sedoheptulose 7-phosphate	D-Xylulose 5-phosphate	-a>
+TPN	D-Ribulose 5-phosphate	-a>
+TPN	H+	-a>
+TPN	TPNH	-a>
+TPN	CO2	-a>
+6-Phospho-D-gluconate	D-Ribulose 5-phosphate	-a>
+6-Phospho-D-gluconate	H+	-a>
+6-Phospho-D-gluconate	TPNH	-a>
+6-Phospho-D-gluconate	CO2	-a>
+D-Glyceraldehyde 3-phosphate	D-Erythrose 4-phosphate	-a>
+D-Glyceraldehyde 3-phosphate	D-Xylulose 5-phosphate	-a>
+Neuberg ester	D-Erythrose 4-phosphate	-a>
+Neuberg ester	D-Xylulose 5-phosphate	-a>
+Neuberg ester	D-Glyceraldehyde 3-phosphate	-a>
+Neuberg ester	Sedoheptulose 7-phosphate	-a>
+D-Erythrose 4-phosphate	D-Glyceraldehyde 3-phosphate	-a>
+D-Erythrose 4-phosphate	Sedoheptulose 7-phosphate	-a>

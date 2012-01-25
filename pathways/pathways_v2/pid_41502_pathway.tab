@@ -1,0 +1,14 @@
+complex	glycogenin-2 dimer
+complex	glycogenin-1 dimer
+smallMolecule	UDPglucose
+smallMolecule	UDP
+protein	GYG2
+protein	GYG1
+glycogenin-1 dimer	GYG1	-a>
+GYG1	UDP	-a>
+GYG1	GYG1	-a>
+UDPglucose	GYG1	-a>
+UDPglucose	UDP	-a>
+UDPglucose	GYG2	-a>
+GYG2	UDP	-a>
+glycogenin-2 dimer	GYG2	-a>

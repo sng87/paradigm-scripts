@@ -1,0 +1,48 @@
+complex	phopshorylated PLC-gamma1 bound to SLP-76
+complex	PLC-gamma1 bound to SLP-76:Gads:LAT
+complex	phosphorylated SLP-76:Gads: LAT
+complex	phosphorylated PLC-gamma1 bound to LAT
+complex	Activated PLC gamma1 bound to PIP2
+complex	PLC-gamma1 bound to LAT at pY312
+complex	Gads bound to LAT at phosphotyrosine
+complex	ITK bound to SLP-76:Gads:LAT
+smallMolecule	H2O
+smallMolecule	PIP2
+complex	SLP-76 bound to Gads:LAT
+complex	Activated ZAP-70
+smallMolecule	diacylglycerols
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	IP3
+protein	PLCG1
+protein	LCP2
+protein	LAT
+protein	ITK
+protein	GRAP2
+Activated ZAP-70	phosphorylated SLP-76:Gads: LAT	-a>
+Activated PLC gamma1 bound to PIP2	diacylglycerols	-a>
+LAT	Gads bound to LAT at phosphotyrosine	component>
+GRAP2	Gads bound to LAT at phosphotyrosine	component>
+ATP	LAT	-a>
+LAT	ADP	-a>
+Activated ZAP-70	LAT	-a>
+SLP-76 bound to Gads:LAT	phosphorylated SLP-76:Gads: LAT	-a>
+PIP2	IP3	-a>
+PIP2	diacylglycerols	-a>
+H2O	IP3	-a>
+H2O	diacylglycerols	-a>
+ITK	ITK bound to SLP-76:Gads:LAT	component>
+phosphorylated SLP-76:Gads: LAT	ITK bound to SLP-76:Gads:LAT	component>
+LCP2	SLP-76 bound to Gads:LAT	component>
+Gads bound to LAT at phosphotyrosine	SLP-76 bound to Gads:LAT	component>
+PLCG1	PLC-gamma1 bound to SLP-76:Gads:LAT	component>
+phosphorylated SLP-76:Gads: LAT	PLC-gamma1 bound to SLP-76:Gads:LAT	component>
+PLCG1	Activated PLC gamma1 bound to PIP2	component>
+PIP2	Activated PLC gamma1 bound to PIP2	component>
+LAT	PLC-gamma1 bound to LAT at pY312	component>
+PLCG1	PLC-gamma1 bound to LAT at pY312	component>
+phosphorylated PLC-gamma1 bound to LAT	LAT	component>
+phosphorylated PLC-gamma1 bound to LAT	PLCG1	component>
+ATP	ADP	-a>
+phopshorylated PLC-gamma1 bound to SLP-76	phosphorylated SLP-76:Gads: LAT	component>
+phopshorylated PLC-gamma1 bound to SLP-76	PLCG1	component>

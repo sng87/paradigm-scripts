@@ -1,0 +1,34 @@
+complex	cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor
+smallMolecule	Thiazolidinedione drugs
+complex	cortisol/glucocorticoid receptor
+smallMolecule	Triglycerides
+complex	PPAR-gamma/RXR
+smallMolecule	fatty acid
+smallMolecule	Cortisone
+smallMolecule	cortisol
+protein	TNF
+protein	RXRA
+protein	RETN
+protein	PPARG
+protein	NR3C1
+protein	LPL
+protein	HSD11B1
+protein	ADIPOQ
+LPL	fatty acid	-a>
+HSD11B1	cortisol	-a>
+Thiazolidinedione drugs	PPAR-gamma/RXR	component>
+cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor	cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor	-a>
+cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor	ADIPOQ	-t|
+cortisol/glucocorticoid receptor	cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor	component>
+cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor	RETN	-t|
+Triglycerides	fatty acid	-a>
+Cortisone	cortisol	-a>
+cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor	TNF	-t>
+PPAR-gamma/RXR	HSD11B1	-t|
+cortisol/glucocorticoid receptor/cortisol/glucocorticoid receptor	LPL	-t>
+cortisol	cortisol	-a>
+RXRA	PPAR-gamma/RXR	component>
+PPARG	PPAR-gamma/RXR	component>
+Cortisone	Cortisone	-a>
+NR3C1	cortisol/glucocorticoid receptor	component>
+cortisol	cortisol/glucocorticoid receptor	component>

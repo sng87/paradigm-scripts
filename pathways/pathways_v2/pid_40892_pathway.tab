@@ -1,0 +1,8 @@
+protein	UniProt:P46531 NOTCH1
+protein	NOTCH4
+protein	NOTCH3
+protein	NOTCH2
+UniProt:P46531 NOTCH1	UniProt:P46531 NOTCH1	-a>
+NOTCH2	NOTCH2	-a>
+NOTCH3	NOTCH3	-a>
+NOTCH4	NOTCH4	-a>

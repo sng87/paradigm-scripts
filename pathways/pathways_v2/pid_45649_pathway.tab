@@ -1,0 +1,59 @@
+protein	glycolytic enzymes
+complex	ubiquitin/HIF-1-alpha
+complex	VHL/E2/HIF-1-alpha/ubiquitin
+complex	VHL/E2/ubiquitin
+protein	glucose transporters
+complex	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN
+protein	VEGF
+smallMolecule	Pyruvate
+abstract	protein ubiquitination
+abstract	response to hypoxia
+smallMolecule	glucose
+smallMolecule	ATP
+protein	P4HB
+protein	NOS3
+protein	LDHA
+protein	JUN
+protein	HSPCA
+protein	HIF1A
+protein	EPO
+protein	EP300
+protein	EDN1
+protein	CREB1
+protein	COPS5
+protein	ASPH
+protein	ARNT
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	NOS3	-t>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	EPO	-t>
+glycolytic enzymes	ATP	-a>
+response to hypoxia	ATP	-a>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	glycolytic enzymes	-t>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	LDHA	-t>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	VEGF	-t>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	glucose transporters	-t>
+ASPH	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+response to hypoxia	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	EDN1	-t>
+HSPCA	HIF1A	-a|
+P4HB	HIF1A	-a>
+response to hypoxia	NOS3	-t>
+response to hypoxia	EPO	-t>
+VHL/E2/ubiquitin	VHL/E2/HIF-1-alpha/ubiquitin	component>
+HIF1A	VHL/E2/HIF-1-alpha/ubiquitin	component>
+glucose	Pyruvate	-a>
+glucose	ATP	-a>
+response to hypoxia	glucose transporters	-a>
+response to hypoxia	glycolytic enzymes	-t>
+response to hypoxia	LDHA	-t>
+response to hypoxia	VEGF	-t>
+ubiquitin/HIF-1-alpha	protein ubiquitination	-ap>
+VHL/E2/HIF-1-alpha/ubiquitin	protein ubiquitination	-ap>
+response to hypoxia	glucose transporters	-t>
+JUN	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+COPS5	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+EP300	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+CREB1	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+ARNT	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+HIF1A	HIF-1-alpha/ARNT/CREB/p300/JAB1/c-JUN	component>
+response to hypoxia	EDN1	-t>
+response to hypoxia	HIF1A	-a>

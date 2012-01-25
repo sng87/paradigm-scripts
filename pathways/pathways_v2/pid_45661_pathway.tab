@@ -1,0 +1,78 @@
+complex	Angiotensin II/Angiotensin R/g-alpha-s/g-beta/g-gamma
+complex	CaM/Ca++/MLCK
+complex	SHC/GRB2/SOS-1
+protein	STATs
+complex	STATS/STATS
+complex	Angiotensin R/G-alpha-S/G-beta/G-gamma
+complex	Angiotensin II/Angiotensin R/Gq11/g-beta/g-gamma
+complex	CaM/Ca ++
+complex	Angiotensin R/Gq11/g-beta/g-gamma
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++
+complex	CAMKII (8)
+protein	CaM
+complex	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++
+smallMolecule	PIP2
+smallMolecule	DAG
+protein	PRKCB1
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	PTK2B
+protein	PRKCA
+protein	PLCG1
+protein	MYLK
+protein	MAPT
+protein	MAPK8
+protein	MAPK3
+protein	MAPK14
+protein	MAPK1
+protein	JAK2
+protein	HRAS
+protein	FYN
+protein	CDK5
+protein	AGT
+MAPK1	STATS/STATS	component>
+PI3K	PIP3	-a>
+Ca2+	PRKCB1	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+FYN	STATS/STATS	component>
+MAPK3	STATS/STATS	component>
+JAK2	STATS/STATS	component>
+PLCG1	IP3	-a>
+Ca2+	PRKCA	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+Angiotensin II/Angiotensin R/Gq11/g-beta/g-gamma	PI3K	-a>
+Angiotensin II/Angiotensin R/g-alpha-s/g-beta/g-gamma	SHC/GRB2/SOS-1	-a>
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	component>
+PIP2	PIP3	-a>
+PTK2B	MAPK8	-a>
+CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+CAMKII (8)	CAMKII/CaM/Ca ++/CaM/Ca ++	component>
+DAG	PRKCB1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+CaM/Ca ++	PTK2B	-a>
+PTK2B	MAPK14	-a>
+CDK5	MAPT	-a>
+MAPT	MAPT	-a>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	MAPT	-a>
+STATs	STATS/STATS	component>
+IP3	Ca2+	-a>
+MAPK8	MAPT	-a>
+PIP3	DAG	-a>
+PIP3	IP3	-a>
+Angiotensin R/G-alpha-S/G-beta/G-gamma	Angiotensin II/Angiotensin R/g-alpha-s/g-beta/g-gamma	component>
+AGT	Angiotensin II/Angiotensin R/g-alpha-s/g-beta/g-gamma	component>
+CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	CAMKII/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++/CaM/Ca ++	-a>
+DAG	PRKCA	-a>
+Angiotensin R/Gq11/g-beta/g-gamma	Angiotensin II/Angiotensin R/Gq11/g-beta/g-gamma	component>
+AGT	Angiotensin II/Angiotensin R/Gq11/g-beta/g-gamma	component>
+MYLK	CaM/Ca++/MLCK	component>
+CaM/Ca ++	CaM/Ca++/MLCK	component>

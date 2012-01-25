@@ -1,0 +1,20 @@
+complex	p21 RAS:GTP
+complex	Activated TrkA receptor complex:Phosphorylated Shc complex
+complex	p21 RAS:GDP
+complex	Activated TrkA receptor complex:Shc complex
+complex	GRB2:SOS:Phospho-SHC
+complex	Activated TrkA receptor complex
+complex	GRB2:SOS
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SHC1
+GRB2:SOS:Phospho-SHC	GDP	-a>
+Activated TrkA receptor complex	Activated TrkA receptor complex:Shc complex	-a>
+Activated TrkA receptor complex:Shc complex	Activated TrkA receptor complex:Phosphorylated Shc complex	-a>
+Activated TrkA receptor complex:Phosphorylated Shc complex	Activated TrkA receptor complex	-a>
+SHC1	GRB2:SOS:Phospho-SHC	component>
+GRB2:SOS	GRB2:SOS:Phospho-SHC	component>
+GTP	p21 RAS:GTP	-a>
+GTP	GDP	-a>
+p21 RAS:GDP	p21 RAS:GTP	-a>
+p21 RAS:GDP	GDP	-a>

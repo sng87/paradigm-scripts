@@ -1,0 +1,56 @@
+complex	palmitoylated, myristoylated eNOS dimer
+complex	eNOS:CaM:HSP90:Phospho-AKT1
+complex	eNOS:CaM:HSP90
+smallMolecule	TPNH
+smallMolecule	Myristoyl-CoA
+complex	Phospho-eNOS (S1177):CaM:HSP90:Phospho-Akt1
+smallMolecule	ChEBI:16480
+complex	Ca(4)CaM
+smallMolecule	TPN
+complex	eNOS:Caveolin-1:CaM:HSP90
+complex	eNOS:Caveolin-1:CaM
+protein	UniProt:P29474 NOS3
+complex	eNOS:Caveolin-1
+smallMolecule	O2
+smallMolecule	ATP
+smallMolecule	L-arginine
+smallMolecule	ADP
+smallMolecule	L-citrulline
+smallMolecule	Ca2+
+protein	ZDHHC21
+protein	HSP90AA1
+protein	CAV1
+protein	CALM1
+protein	AKT1
+Phospho-eNOS (S1177):CaM:HSP90:Phospho-Akt1	TPN	-a>
+Ca(4)CaM	eNOS:Caveolin-1:CaM	component>
+eNOS:Caveolin-1	eNOS:Caveolin-1:CaM	component>
+ZDHHC21	UniProt:P29474 NOS3	-a>
+UniProt:P29474 NOS3	palmitoylated, myristoylated eNOS dimer	component>
+L-arginine	ChEBI:16480	-a>
+L-arginine	L-citrulline	-a>
+L-arginine	TPN	-a>
+TPNH	ChEBI:16480	-a>
+TPNH	L-citrulline	-a>
+TPNH	TPN	-a>
+O2	ChEBI:16480	-a>
+O2	L-citrulline	-a>
+O2	TPN	-a>
+HSP90AA1	CALM1	-a>
+HSP90AA1	eNOS:Caveolin-1:CaM:HSP90	-a>
+eNOS:Caveolin-1:CaM	CALM1	-a>
+eNOS:Caveolin-1:CaM	eNOS:Caveolin-1:CaM:HSP90	-a>
+AKT1	eNOS:CaM:HSP90:Phospho-AKT1	component>
+eNOS:CaM:HSP90	eNOS:CaM:HSP90:Phospho-AKT1	component>
+UniProt:P29474 NOS3	UniProt:P29474 NOS3	-a>
+Myristoyl-CoA	UniProt:P29474 NOS3	-a>
+palmitoylated, myristoylated eNOS dimer	eNOS:Caveolin-1	component>
+CAV1	eNOS:Caveolin-1	component>
+eNOS:Caveolin-1:CaM:HSP90	CAV1	component>
+eNOS:Caveolin-1:CaM:HSP90	eNOS:CaM:HSP90	component>
+CALM1	Ca(4)CaM	component>
+Ca2+	Ca(4)CaM	component>
+ATP	ADP	-a>
+ATP	Phospho-eNOS (S1177):CaM:HSP90:Phospho-Akt1	-a>
+eNOS:CaM:HSP90:Phospho-AKT1	ADP	-a>
+eNOS:CaM:HSP90:Phospho-AKT1	Phospho-eNOS (S1177):CaM:HSP90:Phospho-Akt1	-a>

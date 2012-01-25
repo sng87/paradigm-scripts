@@ -1,0 +1,94 @@
+smallMolecule	10-Formyl-THF
+smallMolecule	5'-Phosphoribosylformylglycinamidine
+smallMolecule	AICAR
+smallMolecule	IMP
+complex	adenylosuccinate lyase tetramer
+smallMolecule	N-Formyl-GAR
+smallMolecule	Gly
+smallMolecule	5-Phosphoribosylamine
+smallMolecule	5'-phosphoribosyl-5-formaminoimidazole-4-carboxamide
+smallMolecule	AIR
+smallMolecule	SAICAR
+smallMolecule	GAR
+complex	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase dimer
+protein	UniProt:O15067 PFAS
+smallMolecule	L-Aspartate
+complex	ATASE-(4Fe-4S)-(PRPP-Glutamine) reactive complex
+complex	PAICS octamer
+smallMolecule	H2O
+smallMolecule	Fumarate
+smallMolecule	CO2
+smallMolecule	CAIR
+smallMolecule	THF
+smallMolecule	L-Glutamine
+smallMolecule	L-Glutamate
+smallMolecule	PPi
+smallMolecule	PRPP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	GART
+5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase dimer	5'-phosphoribosyl-5-formaminoimidazole-4-carboxamide	-a>
+GART	N-Formyl-GAR	-a>
+PAICS octamer	CAIR	-a>
+GART	AIR	-a>
+adenylosuccinate lyase tetramer	Fumarate	-a>
+PAICS octamer	phosphate	-a>
+ATASE-(4Fe-4S)-(PRPP-Glutamine) reactive complex	PPi	-a>
+5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase dimer	IMP	-a>
+GART	phosphate	-a>
+UniProt:O15067 PFAS	ADP	-a>
+10-Formyl-THF	5'-phosphoribosyl-5-formaminoimidazole-4-carboxamide	-a>
+AICAR	THF	-a>
+AICAR	5'-phosphoribosyl-5-formaminoimidazole-4-carboxamide	-a>
+GAR	THF	-a>
+GAR	N-Formyl-GAR	-a>
+10-Formyl-THF	THF	-a>
+10-Formyl-THF	N-Formyl-GAR	-a>
+AIR	CAIR	-a>
+CO2	CAIR	-a>
+ATP	AIR	-a>
+5'-Phosphoribosylformylglycinamidine	phosphate	-a>
+5'-Phosphoribosylformylglycinamidine	ADP	-a>
+5'-Phosphoribosylformylglycinamidine	AIR	-a>
+SAICAR	AICAR	-a>
+SAICAR	Fumarate	-a>
+ATP	SAICAR	-a>
+L-Aspartate	SAICAR	-a>
+L-Aspartate	ADP	-a>
+L-Aspartate	phosphate	-a>
+CAIR	SAICAR	-a>
+CAIR	ADP	-a>
+CAIR	phosphate	-a>
+PRPP	L-Glutamate	-a>
+PRPP	5-Phosphoribosylamine	-a>
+PRPP	PPi	-a>
+L-Glutamine	5-Phosphoribosylamine	-a>
+L-Glutamine	PPi	-a>
+H2O	5-Phosphoribosylamine	-a>
+H2O	PPi	-a>
+5'-phosphoribosyl-5-formaminoimidazole-4-carboxamide	H2O	-a>
+5'-phosphoribosyl-5-formaminoimidazole-4-carboxamide	IMP	-a>
+5-Phosphoribosylamine	GAR	-a>
+5-Phosphoribosylamine	ADP	-a>
+5-Phosphoribosylamine	phosphate	-a>
+ATP	GAR	-a>
+Gly	GAR	-a>
+Gly	ADP	-a>
+Gly	phosphate	-a>
+H2O	5'-Phosphoribosylformylglycinamidine	-a>
+H2O	L-Glutamate	-a>
+H2O	phosphate	-a>
+H2O	ADP	-a>
+ATP	5'-Phosphoribosylformylglycinamidine	-a>
+ATP	L-Glutamate	-a>
+ATP	phosphate	-a>
+ATP	ADP	-a>
+L-Glutamine	5'-Phosphoribosylformylglycinamidine	-a>
+L-Glutamine	L-Glutamate	-a>
+L-Glutamine	phosphate	-a>
+L-Glutamine	ADP	-a>
+N-Formyl-GAR	5'-Phosphoribosylformylglycinamidine	-a>
+N-Formyl-GAR	L-Glutamate	-a>
+N-Formyl-GAR	phosphate	-a>
+N-Formyl-GAR	ADP	-a>

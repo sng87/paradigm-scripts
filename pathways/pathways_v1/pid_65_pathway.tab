@@ -1,0 +1,103 @@
+protein	SMAD2
+protein	NRG1
+protein	BLK
+protein	TGFBR2
+protein	TGFBR1
+protein	GPC1
+protein	LAMA1
+protein	FLT1
+protein	VEGFA
+protein	PLA2G2A
+protein	TDGF1
+protein	SRC
+protein	FGFR1
+protein	FGR
+protein	FGF2
+protein	HCK
+protein	LYN
+protein	YES1
+protein	FYN
+protein	LCK
+protein	APP
+protein	PRNP
+protein	SERPINC1
+protein	SLIT2
+complex	VEGFR1 homodimer
+complex	TGFBR2 (dimer)
+complex	TGFBR1 (dimer)
+complex	PrPc/Cu2+
+complex	PLA2G2A/GPC1
+complex	GPC1/VEGF165 homodimer/VEGFR1 homodimer
+complex	GPC1/TGFB/TGFBR1/TGFBR2
+complex	GPC1/SLIT2
+complex	GPC1/PrPc/Cu2+
+complex	GPC1/NRG
+complex	GPC1/Laminin alpha1
+complex	GPC1/FGF2 dimer/FGFR1 dimer
+complex	CRIPTO/GPC1
+complex	ATIII/GPC1
+complex	APP/GPC1
+chemical	mol:Spermine
+chemical	mol:NO
+chemical	mol:Cu2+
+abstract	positive regulation of MAPKKK cascade
+abstract	neuron differentiation
+abstract	fibroblast growth factor receptor signaling pathway
+abstract	cell growth
+abstract	cell death
+abstract	BMP signaling pathway
+mol:NO	mol:Spermine	-a>
+mol:Cu2+	PrPc/Cu2+	component>
+mol:Cu2+	GPC1/PrPc/Cu2+	component>
+NRG1	GPC1/NRG	component>
+BLK	positive regulation of MAPKKK cascade	-ap>
+TGFBR2	TGFBR2 (dimer)	component>
+TGFBR2	GPC1/TGFB/TGFBR1/TGFBR2	component>
+TGFBR1	TGFBR1 (dimer)	component>
+TGFBR1	GPC1/TGFB/TGFBR1/TGFBR2	component>
+GPC1	mol:Spermine	-a>
+GPC1	PLA2G2A/GPC1	component>
+GPC1	GPC1/VEGF165 homodimer/VEGFR1 homodimer	component>
+GPC1	GPC1/TGFB/TGFBR1/TGFBR2	component>
+GPC1	GPC1/SLIT2	component>
+GPC1	GPC1/PrPc/Cu2+	component>
+GPC1	GPC1/NRG	component>
+GPC1	GPC1/Laminin alpha1	component>
+GPC1	GPC1/FGF2 dimer/FGFR1 dimer	component>
+GPC1	CRIPTO/GPC1	component>
+GPC1	BMP signaling pathway	-ap|
+GPC1	ATIII/GPC1	component>
+GPC1	APP/GPC1	component>
+LAMA1	GPC1/Laminin alpha1	component>
+FLT1	VEGFR1 homodimer	component>
+FLT1	GPC1/VEGF165 homodimer/VEGFR1 homodimer	component>
+VEGFA	GPC1/VEGF165 homodimer/VEGFR1 homodimer	component>
+PLA2G2A	PLA2G2A/GPC1	component>
+TDGF1	CRIPTO/GPC1	component>
+SRC	positive regulation of MAPKKK cascade	-ap>
+FGFR1	GPC1/FGF2 dimer/FGFR1 dimer	component>
+FGR	positive regulation of MAPKKK cascade	-ap>
+FGF2	GPC1/FGF2 dimer/FGFR1 dimer	component>
+HCK	positive regulation of MAPKKK cascade	-ap>
+LYN	positive regulation of MAPKKK cascade	-ap>
+YES1	positive regulation of MAPKKK cascade	-ap>
+FYN	positive regulation of MAPKKK cascade	-ap>
+LCK	positive regulation of MAPKKK cascade	-ap>
+APP	APP/GPC1	component>
+PRNP	PrPc/Cu2+	component>
+PRNP	GPC1/PrPc/Cu2+	component>
+SERPINC1	ATIII/GPC1	component>
+SLIT2	GPC1/SLIT2	component>
+GPC1/TGFB/TGFBR1/TGFBR2	SMAD2	-a>
+GPC1/NRG	neuron differentiation	-ap>
+GPC1/FGF2 dimer/FGFR1 dimer	fibroblast growth factor receptor signaling pathway	-ap>
+GPC1/FGF2 dimer/FGFR1 dimer	cell growth	-ap>
+CRIPTO/GPC1	BLK	-a>
+CRIPTO/GPC1	SRC	-a>
+CRIPTO/GPC1	FGR	-a>
+CRIPTO/GPC1	HCK	-a>
+CRIPTO/GPC1	LYN	-a>
+CRIPTO/GPC1	YES1	-a>
+CRIPTO/GPC1	FYN	-a>
+CRIPTO/GPC1	LCK	-a>
+APP/GPC1	cell death	-ap>

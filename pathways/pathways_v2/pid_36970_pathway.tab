@@ -1,0 +1,191 @@
+abstract	positive T cell selection
+abstract	catabolic process
+abstract	activation-induced cell death of T cells
+abstract	apoptosis
+rna	NRON
+complex	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV
+complex	Caspase 3 (tetramer)
+smallMolecule	DAG
+complex	Calcineurin A alpha-beta B1/DSCR1L1
+complex	RCH1/ importin beta
+complex	14-3-3 family/BAD/CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	Exportin 1/Ran/NUP214
+protein	NFAT1-c-4-inactive1
+complex	NFATc/p38 alpha
+complex	CaM/Ca2+/FKBP38
+protein	NFAT1 (cleaved)
+complex	JNK2/NFAT4
+complex	CaM/Ca2+/CAMK IV
+complex	CABIN1/Cbp/p300
+complex	Calcineurin A alpha-beta B1/AKAP79/PKA
+complex	BCL2/BAX
+complex	NFATc/ERK1
+complex	Calcineurin A alpha-beta B1/BCL2
+complex	MEF2D/NFAT1/Cbp/p300
+complex	FKBP12/FK506
+complex	CABIN1/MEF2D
+complex	Calcineurin A alpha-beta B1/FKBP12/FK506
+complex	CaM/Ca2+/Calcineurin A alpha-beta B1
+complex	Calcineurin A alpha-beta B1/CABIN1
+complex	FKBP38/BCL2
+protein	NFAT1-c-4-inactive2
+complex	NFAT1-c-4/YWHAQ
+protein	BCL-XL
+protein	AKAP79
+complex	CABIN1/MEF2D/CaM/Ca2+/CAMK IV
+complex	CaM/Ca2+
+complex	BAD/BCL-XL
+protein	MEKK1
+protein	Typical PKCs
+protein	NFAT1-c-4
+protein	NFAT1-c-4-active
+complex	NFAT1/CK1 alpha
+protein	NFATc
+complex	NFATc/JNK1
+complex	NFAT4/CK1 alpha
+smallMolecule	Ca2+
+complex	Calcineurin A alpha-beta B1/DSCR1
+complex	Calcineurin A alpha-beta B1
+complex	Calcineurin A alpha-beta B1/CHP1
+protein	14-3-3 family
+protein	Cbp/p300
+protein	YWHAQ
+protein	RCAN2
+protein	RCAN1
+protein	PRKCZ
+protein	PRKACA
+protein	PIM1
+protein	NR4A1
+protein	NFATC3
+protein	NFATC2
+protein	MEF2D
+protein	MAPK9
+protein	MAPK8
+protein	MAPK3
+protein	MAPK14
+protein	MAP3K8
+protein	GSK3B
+protein	FKBP8
+protein	CSNK2A1
+protein	CSNK1A1
+protein	CHP
+protein	CAMK4
+protein	CALM1
+protein	CABIN1
+protein	BCL2
+protein	BAX
+protein	BAD
+NRON	NFATc	-a|
+Ca2+	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+NRON	NFAT1-c-4	-a|
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC2	component>
+PRKCZ	NFAT1-c-4-active	-a>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFAT1-c-4-active	-a>
+DAG	NFATC2	-a>
+Ca2+	NFATC2	-a|
+MAPK14	NFATC2	-a>
+GSK3B	NFATC2	-a>
+PRKACA	NFATC2	-a>
+Caspase 3 (tetramer)	NFAT1 (cleaved)	-a>
+Ca2+	NFAT4/CK1 alpha	component>
+MEKK1	NFAT4/CK1 alpha	component>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC2	-a>
+RCH1/ importin beta	NFATc	-a>
+FKBP12/FK506	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/FKBP12/FK506	component>
+MEF2D/NFAT1/Cbp/p300	NR4A1	-t>
+14-3-3 family/BAD/CaM/Ca2+/Calcineurin A alpha-beta B1	14-3-3 family	component>
+14-3-3 family/BAD/CaM/Ca2+/Calcineurin A alpha-beta B1	BAD	component>
+14-3-3 family/BAD/CaM/Ca2+/Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+YWHAQ	MEF2D	-a>
+YWHAQ	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	-a>
+CABIN1/MEF2D/CaM/Ca2+/CAMK IV	MEF2D	-a>
+CABIN1/MEF2D/CaM/Ca2+/CAMK IV	CABIN1/YWHAQ/CaM/Ca2+/CAMK IV	-a>
+RCH1/ importin beta	NFAT1-c-4	-a>
+GSK3B	NFATc	-a>
+BCL-XL	BAD/BCL-XL	component>
+BAD	BAD/BCL-XL	component>
+CABIN1	CABIN1/Cbp/p300	component>
+CABIN1	MEF2D/NFAT1/Cbp/p300	component>
+Cbp/p300	CABIN1/Cbp/p300	component>
+Cbp/p300	MEF2D/NFAT1/Cbp/p300	component>
+NFATC2	CABIN1/Cbp/p300	component>
+NFATC2	MEF2D/NFAT1/Cbp/p300	component>
+MEF2D	CABIN1/Cbp/p300	component>
+MEF2D	MEF2D/NFAT1/Cbp/p300	component>
+Exportin 1/Ran/NUP214	NFATC2	-a>
+MAPK8	NFATC2	-a>
+NFAT1/CK1 alpha	CSNK1A1	component>
+NFAT1/CK1 alpha	NFATC2	component>
+NFAT1-c-4-inactive1	NFAT1-c-4-active	-a>
+NFATC3	positive T cell selection	-ap>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATc	-a>
+CHP	Calcineurin A alpha-beta B1/CHP1	component>
+CHP	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+CaM/Ca2+	Calcineurin A alpha-beta B1/CHP1	component>
+CaM/Ca2+	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/CHP1	component>
+Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+CALM1	CaM/Ca2+	component>
+Ca2+	CaM/Ca2+	component>
+Exportin 1/Ran/NUP214	NFATc	-a>
+Ca2+	NFATC2	-a>
+BAD/BCL-XL	apoptosis	-ap>
+BAX	BCL2/BAX	component>
+BAX	Calcineurin A alpha-beta B1/BCL2	component>
+BCL2	BCL2/BAX	component>
+BCL2	Calcineurin A alpha-beta B1/BCL2	component>
+Calcineurin A alpha-beta B1	BCL2/BAX	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/BCL2	component>
+CSNK1A1	NFATC2	-a>
+BCL2/BAX	apoptosis	-ap>
+CaM/Ca2+	CaM/Ca2+/FKBP38	component>
+FKBP8	CaM/Ca2+/FKBP38	component>
+CABIN1/MEF2D	activation-induced cell death of T cells	-ap|
+MAP3K8	NFATC2	-a>
+MAPK9	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+MAPK9	JNK2/NFAT4	component>
+CaM/Ca2+/Calcineurin A alpha-beta B1	JNK2/NFAT4	component>
+NFATC3	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+NFATC3	JNK2/NFAT4	component>
+CaM/Ca2+/Calcineurin A alpha-beta B1	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATc/JNK1	component>
+MAPK8	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+MAPK8	NFATc/JNK1	component>
+NFATc	CaM/Ca2+/Calcineurin A alpha-beta B1	component>
+NFATc	NFATc/JNK1	component>
+RCAN1	Calcineurin A alpha-beta B1/DSCR1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/DSCR1	component>
+Typical PKCs	CABIN1	-a>
+YWHAQ	NFAT1-c-4/YWHAQ	component>
+NFAT1-c-4-inactive2	NFAT1-c-4/YWHAQ	component>
+CaM/Ca2+/Calcineurin A alpha-beta B1	NFATC3	-a>
+PIM1	NFATc	-a>
+NFATC2	NFAT1 (cleaved)	-a>
+CABIN1	Calcineurin A alpha-beta B1/CABIN1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/CABIN1	component>
+CSNK1A1	NFAT1/CK1 alpha	component>
+NFATC2	NFAT1/CK1 alpha	component>
+PRKACA	NFATc	-a>
+PRKACA	Calcineurin A alpha-beta B1/AKAP79/PKA	component>
+AKAP79	Calcineurin A alpha-beta B1/AKAP79/PKA	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/AKAP79/PKA	component>
+CAMK4	CaM/Ca2+/CAMK IV	component>
+CaM/Ca2+	CaM/Ca2+/CAMK IV	component>
+CSNK2A1	NFATc	-a>
+CSNK1A1	NFAT4/CK1 alpha	component>
+NFATC3	NFAT4/CK1 alpha	component>
+CaM/Ca2+/FKBP38	FKBP38/BCL2	-a>
+CaM/Ca2+/FKBP38	CaM/Ca2+/Calcineurin A alpha-beta B1	-a>
+Calcineurin A alpha-beta B1/BCL2	FKBP38/BCL2	-a>
+Calcineurin A alpha-beta B1/BCL2	CaM/Ca2+/Calcineurin A alpha-beta B1	-a>
+RCAN2	Calcineurin A alpha-beta B1/DSCR1L1	component>
+Calcineurin A alpha-beta B1	Calcineurin A alpha-beta B1/DSCR1L1	component>
+RCAN1	catabolic process	-ap>
+FKBP38/BCL2	apoptosis	-ap|
+MAPK14	NFATc/p38 alpha	component>
+NFATc	NFATc/p38 alpha	component>
+MAPK3	NFATc/ERK1	component>
+NFATc	NFATc/ERK1	component>
+CaM/Ca2+/CAMK IV	CABIN1/MEF2D/CaM/Ca2+/CAMK IV	component>
+CABIN1/MEF2D	CABIN1/MEF2D/CaM/Ca2+/CAMK IV	component>

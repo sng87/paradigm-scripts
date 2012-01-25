@@ -1,0 +1,54 @@
+smallMolecule	Corticosterone
+smallMolecule	TPNH
+smallMolecule	Progesterone
+protein	UniProt:P08686 CYP21A2
+smallMolecule	Aldosterone
+smallMolecule	Pregnenolone
+smallMolecule	H2O
+smallMolecule	TPN
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	18-Hydroxycorticosterone
+protein	UniProt:P15538 CYP11B1_subunit_25_503_25-503
+smallMolecule	DOC
+smallMolecule	H+
+smallMolecule	O2
+protein	CYP11B2
+UniProt:P08686 CYP21A2	TPN	-a>
+CYP11B2	H2O	-a>
+UniProt:P15538 CYP11B1_subunit_25_503_25-503	H2O	-a>
+CYP11B2	TPN	-a>
+Pregnenolone	NADH	-a>
+Pregnenolone	H+	-a>
+DPN	NADH	-a>
+DPN	H+	-a>
+DOC	DOC	-a>
+Progesterone	H2O	-a>
+Progesterone	DOC	-a>
+Progesterone	TPN	-a>
+H+	DOC	-a>
+TPNH	DOC	-a>
+O2	DOC	-a>
+TPNH	18-Hydroxycorticosterone	-a>
+H+	18-Hydroxycorticosterone	-a>
+O2	18-Hydroxycorticosterone	-a>
+Corticosterone	18-Hydroxycorticosterone	-a>
+Corticosterone	TPN	-a>
+Corticosterone	H2O	-a>
+O2	Corticosterone	-a>
+O2	TPN	-a>
+O2	H2O	-a>
+H+	Corticosterone	-a>
+TPNH	Corticosterone	-a>
+DOC	Corticosterone	-a>
+DOC	TPN	-a>
+DOC	H2O	-a>
+TPNH	H2O	-a>
+TPNH	Aldosterone	-a>
+TPNH	TPN	-a>
+18-Hydroxycorticosterone	H2O	-a>
+18-Hydroxycorticosterone	Aldosterone	-a>
+18-Hydroxycorticosterone	TPN	-a>
+H+	H2O	-a>
+H+	Aldosterone	-a>
+H+	TPN	-a>

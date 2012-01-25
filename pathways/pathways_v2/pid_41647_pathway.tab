@@ -1,0 +1,74 @@
+complex	pro-factor X, uncarboxylated
+complex	pro-factor X
+smallMolecule	H2O
+smallMolecule	Vitamin K hydroquinone
+complex	pro-protein C, uncarboxylated
+smallMolecule	CO2
+complex	pro-protein C
+protein	UniProt:Q14393 GAS6_subunit_31_691_31-691
+smallMolecule	Vitamin K1 oxide
+smallMolecule	O2
+protein	PROZ
+protein	PROS1
+protein	GGCX
+protein	F9
+protein	F7
+protein	F2
+GGCX	H2O	-a>
+GGCX	PROS1	-a>
+GGCX	F9	-a>
+GGCX	Vitamin K1 oxide	-a>
+CO2	UniProt:Q14393 GAS6_subunit_31_691_31-691	-a>
+UniProt:Q14393 GAS6_subunit_31_691_31-691	UniProt:Q14393 GAS6_subunit_31_691_31-691	-a>
+UniProt:Q14393 GAS6_subunit_31_691_31-691	Vitamin K1 oxide	-a>
+UniProt:Q14393 GAS6_subunit_31_691_31-691	H2O	-a>
+O2	UniProt:Q14393 GAS6_subunit_31_691_31-691	-a>
+Vitamin K hydroquinone	UniProt:Q14393 GAS6_subunit_31_691_31-691	-a>
+F2	F2	-a>
+F2	Vitamin K1 oxide	-a>
+F2	H2O	-a>
+CO2	F2	-a>
+O2	F2	-a>
+Vitamin K hydroquinone	F2	-a>
+pro-factor X, uncarboxylated	pro-factor X	-a>
+pro-factor X, uncarboxylated	Vitamin K1 oxide	-a>
+pro-factor X, uncarboxylated	H2O	-a>
+O2	pro-factor X	-a>
+CO2	pro-factor X	-a>
+Vitamin K hydroquinone	pro-factor X	-a>
+PROS1	Vitamin K1 oxide	-a>
+PROS1	H2O	-a>
+PROS1	PROS1	-a>
+CO2	PROS1	-a>
+O2	PROS1	-a>
+Vitamin K hydroquinone	PROS1	-a>
+Vitamin K hydroquinone	PROZ	-a>
+PROZ	PROZ	-a>
+PROZ	H2O	-a>
+PROZ	Vitamin K1 oxide	-a>
+O2	PROZ	-a>
+CO2	PROZ	-a>
+O2	F7	-a>
+CO2	F7	-a>
+F7	F7	-a>
+F7	H2O	-a>
+F7	Vitamin K1 oxide	-a>
+Vitamin K hydroquinone	F7	-a>
+F9	H2O	-a>
+F9	Vitamin K1 oxide	-a>
+F9	F9	-a>
+O2	F9	-a>
+Vitamin K hydroquinone	F9	-a>
+CO2	F9	-a>
+pro-protein C, uncarboxylated	H2O	-a>
+pro-protein C, uncarboxylated	pro-protein C	-a>
+pro-protein C, uncarboxylated	Vitamin K1 oxide	-a>
+Vitamin K hydroquinone	H2O	-a>
+Vitamin K hydroquinone	pro-protein C	-a>
+Vitamin K hydroquinone	Vitamin K1 oxide	-a>
+CO2	H2O	-a>
+CO2	pro-protein C	-a>
+CO2	Vitamin K1 oxide	-a>
+O2	H2O	-a>
+O2	pro-protein C	-a>
+O2	Vitamin K1 oxide	-a>

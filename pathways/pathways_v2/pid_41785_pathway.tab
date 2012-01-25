@@ -1,0 +1,47 @@
+smallMolecule	(S)-3-Hydroxy-2-methylbutyryl-CoA
+smallMolecule	2-Methylacetoacetyl-CoA
+complex	branched-chain amino acid aminotransferase, mitochondrial, holoenzyme
+smallMolecule	2-Oxoglutarate
+smallMolecule	CoA
+smallMolecule	2-Oxo-3-methylvalerate
+complex	branched-chain amino acid aminotransferase, cytosolic, holoenzyme
+smallMolecule	Tiglyl-CoA
+smallMolecule	H2O
+smallMolecule	Propionyl-CoA
+complex	2-methyl branched chain acyl-CoA dehydrogenase, holoenzyme
+complex	acetyl-CoA acetyltransferase tetramer
+smallMolecule	DPN
+smallMolecule	L-Isoleucine
+smallMolecule	NADH
+smallMolecule	L-Glutamate
+smallMolecule	Acetyl-CoA
+smallMolecule	2-Methylbutyryl-CoA
+smallMolecule	FADH2
+smallMolecule	FAD
+smallMolecule	H+
+protein	HSD17B10
+HSD17B10	NADH	-a>
+2-methyl branched chain acyl-CoA dehydrogenase, holoenzyme	Tiglyl-CoA	-a>
+branched-chain amino acid aminotransferase, mitochondrial, holoenzyme	L-Glutamate	-a>
+acetyl-CoA acetyltransferase tetramer	Propionyl-CoA	-a>
+branched-chain amino acid aminotransferase, cytosolic, holoenzyme	L-Glutamate	-a>
+(S)-3-Hydroxy-2-methylbutyryl-CoA	H+	-a>
+(S)-3-Hydroxy-2-methylbutyryl-CoA	2-Methylacetoacetyl-CoA	-a>
+(S)-3-Hydroxy-2-methylbutyryl-CoA	NADH	-a>
+DPN	H+	-a>
+DPN	2-Methylacetoacetyl-CoA	-a>
+DPN	NADH	-a>
+H2O	(S)-3-Hydroxy-2-methylbutyryl-CoA	-a>
+Tiglyl-CoA	(S)-3-Hydroxy-2-methylbutyryl-CoA	-a>
+2-Methylbutyryl-CoA	FADH2	-a>
+2-Methylbutyryl-CoA	Tiglyl-CoA	-a>
+FAD	FADH2	-a>
+FAD	Tiglyl-CoA	-a>
+2-Methylacetoacetyl-CoA	Acetyl-CoA	-a>
+2-Methylacetoacetyl-CoA	Propionyl-CoA	-a>
+CoA	Acetyl-CoA	-a>
+CoA	Propionyl-CoA	-a>
+L-Isoleucine	2-Oxo-3-methylvalerate	-a>
+L-Isoleucine	L-Glutamate	-a>
+2-Oxoglutarate	2-Oxo-3-methylvalerate	-a>
+2-Oxoglutarate	L-Glutamate	-a>

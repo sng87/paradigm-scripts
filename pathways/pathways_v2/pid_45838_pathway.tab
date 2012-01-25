@@ -1,0 +1,48 @@
+complex	PAR1/PAR4
+protein	F2_0-0
+protein	GEF
+complex	G12/G13-alpha/G-beta/G-gamma
+complex	G-alpha-q/G-gamma/G-beta
+complex	G-alpha-I/G-gamma/G-beta
+smallMolecule	PIP2
+abstract	degradation
+smallMolecule	DAG
+protein	PKC
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ROCK1
+protein	RHOA
+protein	PTK2B
+protein	PPP1R12B
+protein	PLCB1
+protein	MAP3K7
+protein	ADCY1
+DAG	PKC	-a>
+GEF	GDP	-a>
+PLCB1	DAG	-a>
+PAR1/PAR4	G-alpha-q/G-gamma/G-beta	-a>
+PAR1/PAR4	PAR1/PAR4	-a>
+ROCK1	PPP1R12B	-a>
+PAR1/PAR4	G-alpha-I/G-gamma/G-beta	-a>
+PAR1/PAR4	degradation	-ap>
+G-alpha-I/G-gamma/G-beta	PI3K	-a>
+G-alpha-I/G-gamma/G-beta	ADCY1	-a>
+G-alpha-q/G-gamma/G-beta	PLCB1	-a>
+G-alpha-I/G-gamma/G-beta	PTK2B	-a>
+PAR1/PAR4	G12/G13-alpha/G-beta/G-gamma	-a>
+G-alpha-I/G-gamma/G-beta	PLCB1	-a>
+IP3	Ca2+	-a>
+Ca2+	PKC	-a>
+RHOA	ROCK1	-a>
+G-alpha-I/G-gamma/G-beta	MAP3K7	-a>
+RHOA	RHOA	-a>
+RHOA	GDP	-a>
+GTP	RHOA	-a>
+GTP	GDP	-a>
+G12/G13-alpha/G-beta/G-gamma	GEF	-a>
+F2_0-0	PAR1/PAR4	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>

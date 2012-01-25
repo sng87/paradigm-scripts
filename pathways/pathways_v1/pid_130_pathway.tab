@@ -1,0 +1,126 @@
+protein	IKBKG
+protein	TNFRSF10D
+protein	CASP10
+protein	TRADD
+protein	CASP8
+protein	RIPK1
+protein	MAP3K1
+protein	FADD
+protein	TRAF2
+protein	DAP3
+protein	TNFSF10
+protein	MAP2K4
+protein	MAPK8
+protein	MAPK1
+protein	MAPK3
+protein	SMPD1
+protein	CFLAR
+protein	CHUK
+protein	IKBKB
+protein	TNFRSF10C
+protein	TNFRSF10B
+protein	TNFRSF10A
+complex	TRAILR4 (trimer)
+complex	TRAILR3 (trimer)
+complex	TRAILR2 (trimer)
+complex	TRAILR1 (trimer)
+complex	TRAIL/TRAILR4
+complex	TRAIL/TRAILR3
+complex	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2
+complex	TRAIL/TRAILR2/FADD/TRADD/RIP
+complex	TRAIL/TRAILR2/FADD
+complex	TRAIL/TRAILR2
+complex	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2
+complex	TRAIL/TRAILR1/FADD/TRADD/RIP
+complex	TRAIL/TRAILR1/FADD
+complex	TRAIL/TRAILR1/DAP3/GTP/FADD
+complex	TRAIL/TRAILR1/DAP3/GTP
+complex	TRAIL/TRAILR1
+complex	TRAIL (trimer)
+complex	IKK complex
+complex	DAP3/GTP
+chemical	mol:ceramide
+chemical	mol:GTP
+abstract	response to oxidative stress
+abstract	positive regulation of NF-kappaB transcription factor activity
+abstract	negative regulation of caspase activity
+abstract	cell death
+abstract	JNK cascade
+response to oxidative stress	SMPD1	-ap>
+negative regulation of caspase activity	IKK complex	-ap>
+mol:ceramide	cell death	-ap>
+mol:GTP	TRAIL/TRAILR1/DAP3/GTP/FADD	component>
+mol:GTP	TRAIL/TRAILR1/DAP3/GTP	component>
+mol:GTP	DAP3/GTP	component>
+IKBKG	IKK complex	component>
+TNFRSF10D	TRAILR4 (trimer)	component>
+TNFRSF10D	TRAIL/TRAILR4	component>
+TRADD	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+TRADD	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+TRADD	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+TRADD	TRAIL/TRAILR1/FADD/TRADD/RIP	component>
+RIPK1	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+RIPK1	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+RIPK1	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+RIPK1	TRAIL/TRAILR1/FADD/TRADD/RIP	component>
+MAP3K1	MAP2K4	-a>
+FADD	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+FADD	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+FADD	TRAIL/TRAILR2/FADD	component>
+FADD	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+FADD	TRAIL/TRAILR1/FADD/TRADD/RIP	component>
+FADD	TRAIL/TRAILR1/FADD	component>
+FADD	TRAIL/TRAILR1/DAP3/GTP/FADD	component>
+TRAF2	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+TRAF2	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+DAP3	TRAIL/TRAILR1/DAP3/GTP/FADD	component>
+DAP3	TRAIL/TRAILR1/DAP3/GTP	component>
+DAP3	DAP3/GTP	component>
+TNFSF10	TRAIL/TRAILR4	component>
+TNFSF10	TRAIL/TRAILR3	component>
+TNFSF10	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+TNFSF10	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+TNFSF10	TRAIL/TRAILR2/FADD	component>
+TNFSF10	TRAIL/TRAILR2	component>
+TNFSF10	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+TNFSF10	TRAIL/TRAILR1/FADD/TRADD/RIP	component>
+TNFSF10	TRAIL/TRAILR1/FADD	component>
+TNFSF10	TRAIL/TRAILR1/DAP3/GTP/FADD	component>
+TNFSF10	TRAIL/TRAILR1/DAP3/GTP	component>
+TNFSF10	TRAIL/TRAILR1	component>
+TNFSF10	TRAIL (trimer)	component>
+MAP2K4	MAPK8	-a>
+MAPK1	CASP8	-a|
+MAPK3	CASP8	-a|
+SMPD1	mol:ceramide	-a>
+CFLAR	CASP8	-a|
+CHUK	IKK complex	component>
+IKBKB	IKK complex	component>
+TNFRSF10C	TRAILR3 (trimer)	component>
+TNFRSF10C	TRAIL/TRAILR3	component>
+TNFRSF10B	TRAILR2 (trimer)	component>
+TNFRSF10B	TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	component>
+TNFRSF10B	TRAIL/TRAILR2/FADD/TRADD/RIP	component>
+TNFRSF10B	TRAIL/TRAILR2/FADD	component>
+TNFRSF10B	TRAIL/TRAILR2	component>
+TNFRSF10A	TRAILR1 (trimer)	component>
+TNFRSF10A	TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	component>
+TNFRSF10A	TRAIL/TRAILR1/FADD/TRADD/RIP	component>
+TNFRSF10A	TRAIL/TRAILR1/FADD	component>
+TNFRSF10A	TRAIL/TRAILR1/DAP3/GTP/FADD	component>
+TNFRSF10A	TRAIL/TRAILR1/DAP3/GTP	component>
+TNFRSF10A	TRAIL/TRAILR1	component>
+TRAILR4 (trimer)	CASP10	-a|
+TRAIL/TRAILR4	positive regulation of NF-kappaB transcription factor activity	-ap>
+TRAIL/TRAILR4	JNK cascade	-ap>
+TRAIL/TRAILR2/FADD/TRADD/RIP/TRAF2	MAP3K1	-a>
+TRAIL/TRAILR2/FADD/TRADD/RIP	IKK complex	-a>
+TRAIL/TRAILR2/FADD	CASP10	-a>
+TRAIL/TRAILR2/FADD	CASP8	-a>
+TRAIL/TRAILR2	SMPD1	-a>
+TRAIL/TRAILR1/FADD/TRADD/RIP/TRAF2	MAP3K1	-a>
+TRAIL/TRAILR1/FADD/TRADD/RIP	IKK complex	-a>
+TRAIL/TRAILR1/FADD	CASP10	-a>
+TRAIL/TRAILR1/DAP3/GTP/FADD	CASP8	-a>
+TRAIL (trimer)	MAPK1	-a>
+TRAIL (trimer)	MAPK3	-a>

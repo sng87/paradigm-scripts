@@ -1,0 +1,17 @@
+complex	CD36/FYN
+complex	TSP-1/CD36/FYN
+abstract	apoptosis
+complex	AP-1
+protein	MAPK14
+protein	JUN
+protein	GZMA
+protein	FOS
+protein	CASP3
+MAPK14	AP-1	component>
+CASP3	MAPK14	-a>
+CD36/FYN	TSP-1/CD36/FYN	component>
+GZMA	TSP-1/CD36/FYN	component>
+JUN	AP-1	component>
+FOS	AP-1	component>
+AP-1	apoptosis	-ap>
+TSP-1/CD36/FYN	MAPK14	-a>

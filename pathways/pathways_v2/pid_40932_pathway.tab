@@ -1,0 +1,50 @@
+complex	TARP-PSD95-Mdm2
+protein	UniProt:Q12959 DLG1_subunit_1_904_1-904
+protein	UniProt:P24588 AKAP5
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	MYO6
+protein	EPB41L1
+EPB41L1	UniProt:Q12959 DLG1_subunit_1_904_1-904	-a>
+EPB41L1	phosphate	-a>
+EPB41L1	UniProt:P24588 AKAP5	-a>
+EPB41L1	MYO6	-a>
+EPB41L1	EPB41L1	-a>
+EPB41L1	ADP	-a>
+EPB41L1	TARP-PSD95-Mdm2	-a>
+UniProt:Q12959 DLG1_subunit_1_904_1-904	UniProt:Q12959 DLG1_subunit_1_904_1-904	-a>
+UniProt:Q12959 DLG1_subunit_1_904_1-904	phosphate	-a>
+UniProt:Q12959 DLG1_subunit_1_904_1-904	UniProt:P24588 AKAP5	-a>
+UniProt:Q12959 DLG1_subunit_1_904_1-904	MYO6	-a>
+UniProt:Q12959 DLG1_subunit_1_904_1-904	EPB41L1	-a>
+UniProt:Q12959 DLG1_subunit_1_904_1-904	ADP	-a>
+UniProt:Q12959 DLG1_subunit_1_904_1-904	TARP-PSD95-Mdm2	-a>
+ATP	UniProt:Q12959 DLG1_subunit_1_904_1-904	-a>
+ATP	phosphate	-a>
+ATP	UniProt:P24588 AKAP5	-a>
+ATP	MYO6	-a>
+ATP	EPB41L1	-a>
+ATP	ADP	-a>
+ATP	TARP-PSD95-Mdm2	-a>
+MYO6	UniProt:Q12959 DLG1_subunit_1_904_1-904	-a>
+MYO6	phosphate	-a>
+MYO6	UniProt:P24588 AKAP5	-a>
+MYO6	MYO6	-a>
+MYO6	EPB41L1	-a>
+MYO6	ADP	-a>
+MYO6	TARP-PSD95-Mdm2	-a>
+TARP-PSD95-Mdm2	UniProt:Q12959 DLG1_subunit_1_904_1-904	-a>
+TARP-PSD95-Mdm2	phosphate	-a>
+TARP-PSD95-Mdm2	UniProt:P24588 AKAP5	-a>
+TARP-PSD95-Mdm2	MYO6	-a>
+TARP-PSD95-Mdm2	EPB41L1	-a>
+TARP-PSD95-Mdm2	ADP	-a>
+TARP-PSD95-Mdm2	TARP-PSD95-Mdm2	-a>
+UniProt:P24588 AKAP5	UniProt:Q12959 DLG1_subunit_1_904_1-904	-a>
+UniProt:P24588 AKAP5	phosphate	-a>
+UniProt:P24588 AKAP5	UniProt:P24588 AKAP5	-a>
+UniProt:P24588 AKAP5	MYO6	-a>
+UniProt:P24588 AKAP5	EPB41L1	-a>
+UniProt:P24588 AKAP5	ADP	-a>
+UniProt:P24588 AKAP5	TARP-PSD95-Mdm2	-a>

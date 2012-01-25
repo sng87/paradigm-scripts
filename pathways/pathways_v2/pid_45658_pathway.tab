@@ -1,0 +1,33 @@
+complex	CXCR4/g-alpha-q
+smallMolecule	EGTA
+complex	gp120/CCR5/g-alpha-q
+complex	CCR5/g-alpha-q
+complex	SDF-1/CXCR4/g-alpha-q
+complex	MIP-1beta/CCR5/g-alpha-q
+smallMolecule	Lanthanum
+protein	HSMCR30
+protein	gp120
+smallMolecule	PIP2
+smallMolecule	DAG
+complex	AP-1
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	PLCG1
+protein	CXCL12
+protein	CCL4
+EGTA	Ca2+	-a|
+PLCG1	DAG	-a>
+Lanthanum	Ca2+	-a|
+CXCR4/g-alpha-q	SDF-1/CXCR4/g-alpha-q	component>
+CXCL12	SDF-1/CXCR4/g-alpha-q	component>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+SDF-1/CXCR4/g-alpha-q	PLCG1	-a>
+IP3	Ca2+	-a>
+AP-1	CCL4	-t>
+CCR5/g-alpha-q	MIP-1beta/CCR5/g-alpha-q	component>
+CCL4	MIP-1beta/CCR5/g-alpha-q	component>
+AP-1	HSMCR30	-t>
+MIP-1beta/CCR5/g-alpha-q	PLCG1	-a>
+CCR5/g-alpha-q	gp120/CCR5/g-alpha-q	component>
+gp120	gp120/CCR5/g-alpha-q	component>

@@ -1,0 +1,105 @@
+abstract	cholesterol transport
+smallMolecule	PGJ2
+complex	VDR/Vit D3/DNA
+protein	ABC1
+protein	SREBP1c
+complex	RXR alpha/CCPG
+complex	RXRs/RXRs/DNA/9cRA
+complex	RXRs/NUR77
+complex	RARs/THRs
+complex	RXRs/LXRs/DNA/9cRA
+complex	RXRs/NUR77/BCL2
+smallMolecule	Bile acids
+complex	RARs/THRs/DNA/Src-1
+complex	VDR/VDR/DNA
+complex	RARs/RARs/DNA/9cRA
+complex	RXRs/LXRs/DNA
+complex	RXRs/PPAR
+complex	RXRs/PPAR/9cRA/PGJ2/DNA
+complex	RARs/VDR/DNA/Vit D3
+complex	RXRs/VDR/DNA/Vit D3
+smallMolecule	TH
+smallMolecule	ATRA
+protein	SMRT (N-CoR2)
+complex	RARs/THRs/DNA/SMRT
+rna	DNA
+smallMolecule	Oxysterols
+complex	RXRs/LXRs/DNA/Oxysterols
+complex	RXRs/FXR/9cRA/MED1
+protein	RXRs
+complex	RXRs/FXR
+smallMolecule	Vit D3
+complex	VDR/VDR/Vit D3
+smallMolecule	9cRA
+protein	TNF
+protein	TGFB1
+protein	RXRA
+protein	RPS6KB1
+protein	RARS
+protein	NR4A1
+protein	NCOA1
+protein	MED1
+protein	FAM120B
+protein	BCL2
+Bile acids	RXRs/FXR/9cRA/MED1	component>
+9cRA	RXRs/NUR77/BCL2	component>
+RXRs/PPAR/9cRA/PGJ2/DNA	RPS6KB1	-a|
+DNA	RARs/THRs/DNA/SMRT	component>
+SMRT (N-CoR2)	RARs/THRs/DNA/SMRT	component>
+RARs/THRs	RARs/THRs/DNA/SMRT	component>
+RPS6KB1	TGFB1	-t>
+DNA	RXRs/LXRs/DNA/9cRA	component>
+DNA	RXRs/LXRs/DNA/Oxysterols	component>
+9cRA	RXRs/LXRs/DNA/9cRA	component>
+9cRA	RXRs/LXRs/DNA/Oxysterols	component>
+Oxysterols	RXRs/LXRs/DNA/9cRA	component>
+Oxysterols	RXRs/LXRs/DNA/Oxysterols	component>
+RXRs/LXRs/DNA	RXRs/LXRs/DNA/9cRA	component>
+RXRs/LXRs/DNA	RXRs/LXRs/DNA/Oxysterols	component>
+RXRs/LXRs/DNA/Oxysterols	TNF	-t>
+MED1	RXRs/FXR/9cRA/MED1	component>
+9cRA	RXRs/FXR/9cRA/MED1	component>
+RXRs/FXR	RXRs/FXR/9cRA/MED1	component>
+RXRs/LXRs/DNA/Oxysterols	ABC1	-t>
+BCL2	RXRs/NUR77/BCL2	component>
+RXRs/NUR77	RXRs/NUR77/BCL2	component>
+FAM120B	RXR alpha/CCPG	component>
+RXRA	RXR alpha/CCPG	component>
+ATRA	VDR/Vit D3/DNA	component>
+ATRA	RARs/RARs/DNA/9cRA	component>
+9cRA	RARs/RARs/DNA/9cRA	component>
+RARs/VDR/DNA/Vit D3	VDR/Vit D3/DNA	component>
+RARs/VDR/DNA/Vit D3	RARs/RARs/DNA/9cRA	component>
+RXRs/LXRs/DNA/Oxysterols	SREBP1c	-t>
+9cRA	RXRs/NUR77	component>
+NR4A1	RXRs/NUR77	component>
+RXRs	RXRs/NUR77	component>
+9cRA	VDR/Vit D3/DNA	component>
+9cRA	RXRs/RXRs/DNA/9cRA	component>
+RXRs/VDR/DNA/Vit D3	VDR/Vit D3/DNA	component>
+RXRs/VDR/DNA/Vit D3	RXRs/RXRs/DNA/9cRA	component>
+RXRs/LXRs/DNA/Oxysterols	cholesterol transport	-ap>
+DNA	RXRs/PPAR/9cRA/PGJ2/DNA	-a>
+PGJ2	RXRs/PPAR/9cRA/PGJ2/DNA	-a>
+9cRA	RXRs/PPAR/9cRA/PGJ2/DNA	-a>
+RXRs/PPAR	RXRs/PPAR/9cRA/PGJ2/DNA	-a>
+RARS	RARs/VDR/DNA/Vit D3	component>
+RARS	RXRs/VDR/DNA/Vit D3	component>
+RARS	VDR/VDR/Vit D3	component>
+VDR/VDR/DNA	RARs/VDR/DNA/Vit D3	component>
+VDR/VDR/DNA	RXRs/VDR/DNA/Vit D3	component>
+VDR/VDR/DNA	VDR/VDR/Vit D3	component>
+Vit D3	RARs/VDR/DNA/Vit D3	component>
+Vit D3	RXRs/VDR/DNA/Vit D3	component>
+Vit D3	VDR/VDR/Vit D3	component>
+RXRs	RARs/VDR/DNA/Vit D3	component>
+RXRs	RXRs/VDR/DNA/Vit D3	component>
+RXRs	VDR/VDR/Vit D3	component>
+NCOA1	SMRT (N-CoR2)	-a>
+NCOA1	RARs/THRs/DNA/Src-1	-a>
+ATRA	SMRT (N-CoR2)	-a>
+ATRA	RARs/THRs/DNA/Src-1	-a>
+TH	SMRT (N-CoR2)	-a>
+TH	RARs/THRs/DNA/Src-1	-a>
+RARs/THRs/DNA/SMRT	SMRT (N-CoR2)	-a>
+RARs/THRs/DNA/SMRT	RARs/THRs/DNA/Src-1	-a>

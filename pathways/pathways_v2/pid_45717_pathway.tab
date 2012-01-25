@@ -1,0 +1,55 @@
+complex	SHC/GRB2/SOS-1
+complex	SHP-2/GRB2/SOS-1
+smallMolecule	nucleoside diphosphate
+complex	ELK-1/SRF/SRF
+complex	IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/IRS-1
+complex	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta
+smallMolecule	guanosine 5`-triphosphate
+complex	AP-1
+complex	PI3K
+protein	SRF
+protein	SOS1
+protein	RASA1
+protein	RAF1
+protein	PTPN11
+protein	MAPK8
+protein	MAPK3
+protein	MAP2K1
+protein	JUN
+protein	IRS1
+protein	IGF1
+protein	HRAS
+protein	GRB2
+protein	FOS
+protein	ELK1
+protein	CSNK2A1
+SRF	ELK-1/SRF/SRF	component>
+ELK1	ELK-1/SRF/SRF	component>
+SOS1	SHP-2/GRB2/SOS-1	component>
+PTPN11	SHP-2/GRB2/SOS-1	component>
+GRB2	SHP-2/GRB2/SOS-1	component>
+IRS1	GRB2	-a>
+ELK1	FOS	-a>
+MAP2K1	MAPK3	-a>
+MAPK8	JUN	-a>
+HRAS	RAF1	-a>
+IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	SHC/GRB2/SOS-1	-a>
+MAPK3	ELK1	-a>
+IRS1	PI3K	-a>
+RAF1	MAP2K1	-a>
+RASA1	HRAS	-a>
+IRS1	PTPN11	-a>
+SHP-2/GRB2/SOS-1	HRAS	-a>
+IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/IRS-1	IRS1	component>
+IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta/IRS-1	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	component>
+IGF1	IRS1	component>
+IGF1	IGF-1/IGF-1/IGF-1R-alpha/IGF-1R-alpha/IGF-1R-beta/IGF-1R-beta	component>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+FOS	AP-1	component>
+JUN	AP-1	component>
+CSNK2A1	SRF	-a>
+CSNK2A1	JUN	-a>
+MAPK3	MAPK3	-a>

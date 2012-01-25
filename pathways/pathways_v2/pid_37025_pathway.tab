@@ -1,0 +1,135 @@
+abstract	positive regulation of JNK cascade
+abstract	positive regulation of focal adhesion formation
+abstract	integrin-mediated signaling pathway
+abstract	positive regulation of MAPKKK cascade
+abstract	vasculogenesis
+abstract	cytoskeleton organization
+abstract	positive regulation of cell adhesion
+abstract	cell migration
+abstract	cell adhesion
+complex	Syndecan-4/Syntenin
+complex	Syndecan-4/CXCL12/CXCR4
+complex	Syndecan-4/TSP1
+complex	Syndecan-4/GIPC
+complex	Syndecan-4/PI-4-5-P2/PKC alpha
+complex	Syndecan-4/Midkine
+complex	Syndecan-4/TFPI
+complex	alpha5/beta1 Integrin
+complex	Syndecan-4/PKC alpha
+protein	MMP9_107-707
+complex	Syndecan-4/RANTES
+complex	Syndecan-4/ADAM12
+complex	Syndecan-4/PI-4-5-P2
+complex	RAC1/GDP
+complex	Syndecan-4/Laminin alpha3
+complex	Syndecan-4/FZD7
+complex	PAK1
+complex	Syndecan-4/Dynamin
+protein	Tenascin C
+complex	Syndecan-4/Tenascin C
+complex	Syndecan-4/alpha-Actinin
+complex	Syndecan-4/CXCL12
+complex	Syndecan-4/Syndesmos
+complex	Syndecan-4/FGFR1/FGF
+complex	Syndecan-4/TACI
+protein	Fibronectin
+smallMolecule	PI-4-5-P2
+complex	Syndecan-4/Laminin alpha1
+protein	PKC delta
+protein	Laminin alpha3
+protein	FAK
+protein	TNFRSF13B
+protein	THBS1
+protein	TFPI
+protein	SDCBP
+protein	SDC4
+protein	RHOA
+protein	PRKCA
+protein	PLG
+protein	NUDT16L1
+protein	MDK
+protein	LAMA1
+protein	GIPC1
+protein	FZD7
+protein	FGFR1
+protein	FGF2
+protein	F2
+protein	DNM2
+protein	CXCR4
+protein	CXCL12
+protein	CCL5
+protein	ADAM12
+protein	ACTN1
+PRKCA	PAK1	-a>
+Fibronectin	PAK1	-a>
+alpha5/beta1 Integrin	PAK1	-a>
+SDC4	PAK1	-a>
+Fibronectin	SDC4	-a>
+RHOA	FAK	-a>
+Fibronectin	FAK	-a>
+F2	SDC4	-a>
+MMP9_107-707	SDC4	-a>
+PLG	SDC4	-a>
+Syndecan-4/GIPC	cell migration	-ap>
+Laminin alpha3	Syndecan-4/Laminin alpha3	component>
+SDC4	Syndecan-4/Laminin alpha3	component>
+Syndecan-4/Tenascin C	integrin-mediated signaling pathway	-ap>
+Syndecan-4/PI-4-5-P2	Syndecan-4/PKC alpha	component>
+Syndecan-4/PI-4-5-P2	Syndecan-4/PI-4-5-P2/PKC alpha	component>
+Syndecan-4/PI-4-5-P2	PRKCA	component>
+PRKCA	Syndecan-4/PKC alpha	component>
+PRKCA	Syndecan-4/PI-4-5-P2/PKC alpha	component>
+SDC4	PRKCA	component>
+Syndecan-4/Laminin alpha3	positive regulation of cell adhesion	-ap>
+FZD7	Syndecan-4/FZD7	component>
+SDC4	Syndecan-4/FZD7	component>
+RAC1/GDP	PAK1	-a>
+CXCL12	Syndecan-4/CXCL12	component>
+SDC4	Syndecan-4/CXCL12	component>
+Syndecan-4/CXCL12/CXCR4	positive regulation of JNK cascade	-ap>
+ADAM12	Syndecan-4/ADAM12	component>
+SDC4	Syndecan-4/ADAM12	component>
+SDCBP	Syndecan-4/Syntenin	component>
+SDC4	Syndecan-4/Syntenin	component>
+PRKCA	SDC4	-a>
+ACTN1	Syndecan-4/alpha-Actinin	component>
+SDC4	Syndecan-4/alpha-Actinin	component>
+SDC4	FAK	-a>
+CCL5	Syndecan-4/RANTES	component>
+SDC4	Syndecan-4/RANTES	component>
+Syndecan-4/CXCL12/CXCR4	positive regulation of MAPKKK cascade	-ap>
+LAMA1	Syndecan-4/Laminin alpha1	component>
+SDC4	Syndecan-4/Laminin alpha1	component>
+FGFR1	Syndecan-4/FGFR1/FGF	component>
+FGF2	Syndecan-4/FGFR1/FGF	component>
+SDC4	Syndecan-4/FGFR1/FGF	component>
+PRKCA	positive regulation of focal adhesion formation	-ap>
+RHOA	positive regulation of focal adhesion formation	-ap>
+Syndecan-4/ADAM12	positive regulation of focal adhesion formation	-ap>
+DNM2	Syndecan-4/Dynamin	component>
+SDC4	Syndecan-4/Dynamin	component>
+PAK1	cell adhesion	-ap>
+CXCR4	Syndecan-4/CXCL12/CXCR4	component>
+Syndecan-4/CXCL12	Syndecan-4/CXCL12/CXCR4	component>
+THBS1	Syndecan-4/TSP1	component>
+SDC4	Syndecan-4/TSP1	component>
+GIPC1	Syndecan-4/GIPC	component>
+SDC4	Syndecan-4/GIPC	component>
+Syndecan-4/TSP1	vasculogenesis	-ap>
+TNFRSF13B	Syndecan-4/TACI	component>
+SDC4	Syndecan-4/TACI	component>
+PI-4-5-P2	Syndecan-4/PI-4-5-P2	component>
+SDC4	Syndecan-4/PI-4-5-P2	component>
+NUDT16L1	Syndecan-4/Syndesmos	component>
+SDC4	Syndecan-4/Syndesmos	component>
+MDK	Syndecan-4/Midkine	component>
+SDC4	Syndecan-4/Midkine	component>
+SDC4	cell migration	-ap|
+SDC4	SDC4	-a>
+Tenascin C	Syndecan-4/Tenascin C	component>
+SDC4	Syndecan-4/Tenascin C	component>
+Syndecan-4/Syndesmos	cytoskeleton organization	-ap>
+PKC delta	SDC4	-a>
+Syndecan-4/Laminin alpha1	positive regulation of cell adhesion	-ap>
+TFPI	Syndecan-4/TFPI	component>
+SDC4	Syndecan-4/TFPI	component>

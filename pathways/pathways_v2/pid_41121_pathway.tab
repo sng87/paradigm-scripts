@@ -1,0 +1,79 @@
+smallMolecule	L-2-Aminoadipate
+smallMolecule	(S)-3-Hydroxybutyryl-CoA
+smallMolecule	L-2-Aminoadipate 6-semialdehyde
+smallMolecule	2-Oxoglutarate
+smallMolecule	Glutaryl-CoA
+complex	glutaryl-CoA dehydrogenase holoenzyme tetramer
+smallMolecule	TPNH
+smallMolecule	Crotonyl-CoA
+smallMolecule	2-Oxoadipate
+complex	short chain 3-hydroxyacyl-CoA dehydrogenase homodimer
+smallMolecule	Acetoacetyl-CoA
+smallMolecule	Saccharopine
+smallMolecule	H2O
+complex	enoyl-CoA hydratase hexamer
+smallMolecule	TPN
+smallMolecule	CO2
+smallMolecule	DPN
+smallMolecule	NADH
+smallMolecule	L-Glutamate
+complex	lysine-ketoglutarate reductase /saccharopine dehydrogenase homotetramer
+smallMolecule	L-Lysine
+smallMolecule	FADH2
+smallMolecule	FAD
+smallMolecule	H+
+protein	SLC25A21
+protein	AADAT
+AADAT	2-Oxoadipate	-a>
+lysine-ketoglutarate reductase /saccharopine dehydrogenase homotetramer	H2O	-a>
+lysine-ketoglutarate reductase /saccharopine dehydrogenase homotetramer	L-2-Aminoadipate 6-semialdehyde	-a>
+short chain 3-hydroxyacyl-CoA dehydrogenase homodimer	NADH	-a>
+enoyl-CoA hydratase hexamer	(S)-3-Hydroxybutyryl-CoA	-a>
+glutaryl-CoA dehydrogenase holoenzyme tetramer	FADH2	-a>
+DPN	L-2-Aminoadipate	-a>
+L-2-Aminoadipate 6-semialdehyde	L-2-Aminoadipate	-a>
+L-2-Aminoadipate 6-semialdehyde	NADH	-a>
+L-2-Aminoadipate 6-semialdehyde	H+	-a>
+2-Oxoglutarate	L-Glutamate	-a>
+L-2-Aminoadipate	L-Glutamate	-a>
+L-2-Aminoadipate	2-Oxoadipate	-a>
+2-Oxoglutarate	TPN	-a>
+2-Oxoglutarate	Saccharopine	-a>
+2-Oxoglutarate	H2O	-a>
+H+	TPN	-a>
+H+	Saccharopine	-a>
+H+	H2O	-a>
+TPNH	TPN	-a>
+TPNH	Saccharopine	-a>
+TPNH	H2O	-a>
+L-Lysine	TPN	-a>
+L-Lysine	Saccharopine	-a>
+L-Lysine	H2O	-a>
+H2O	NADH	-a>
+H2O	L-Glutamate	-a>
+H2O	H+	-a>
+H2O	L-2-Aminoadipate 6-semialdehyde	-a>
+DPN	L-Glutamate	-a>
+DPN	L-2-Aminoadipate 6-semialdehyde	-a>
+Saccharopine	NADH	-a>
+Saccharopine	L-Glutamate	-a>
+Saccharopine	H+	-a>
+Saccharopine	L-2-Aminoadipate 6-semialdehyde	-a>
+DPN	H+	-a>
+DPN	Acetoacetyl-CoA	-a>
+DPN	NADH	-a>
+(S)-3-Hydroxybutyryl-CoA	H+	-a>
+(S)-3-Hydroxybutyryl-CoA	Acetoacetyl-CoA	-a>
+(S)-3-Hydroxybutyryl-CoA	NADH	-a>
+2-Oxoadipate	2-Oxoadipate	-a>
+2-Oxoadipate	2-Oxoglutarate	-a>
+2-Oxoglutarate	2-Oxoadipate	-a>
+SLC25A21	2-Oxoglutarate	-a>
+Crotonyl-CoA	(S)-3-Hydroxybutyryl-CoA	-a>
+H2O	(S)-3-Hydroxybutyryl-CoA	-a>
+FAD	Crotonyl-CoA	-a>
+FAD	CO2	-a>
+FAD	FADH2	-a>
+Glutaryl-CoA	Crotonyl-CoA	-a>
+Glutaryl-CoA	CO2	-a>
+Glutaryl-CoA	FADH2	-a>

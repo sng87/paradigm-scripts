@@ -1,0 +1,108 @@
+abstract	ceramide biosynthetic process
+complex	beta-catenin/ubiquitin
+complex	CD14/LBP
+protein	NAKED
+complex	beta-catenin/beta-TRCP
+complex	beta-catenin/LEF1
+protein	CK-1
+complex	LRP6/FRIZZLED
+complex	p50/RELA/I-kappa-B-alpha
+complex	AXIN/APC/beta-catenin
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+complex	LPS/TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2/CD14/LBP
+complex	RELA/p50
+complex	DKK1/LRP6/KRM2
+complex	DKK2/LRP6/KRM2
+complex	WNT/LRP6/FRIZZLED
+complex	TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2
+smallMolecule	PIP2
+abstract	protein ubiquitination
+abstract	degradation
+smallMolecule	LPS
+protein	IKKs
+smallMolecule	ceramide
+complex	PI3K
+smallMolecule	PIP3
+protein	WNT1
+protein	WIF1
+protein	PROC
+protein	PPP2R5D
+protein	PDPK1
+protein	LRP6
+protein	LEF1
+protein	KREMEN2
+protein	GSK3B
+protein	GJA1
+protein	FZD1
+protein	FRAT1
+protein	DVL1
+protein	DKK2
+protein	DKK1
+protein	CTNNB1
+protein	CSNK2A1
+protein	CCND1
+protein	BTRC
+protein	AXIN1
+protein	AKT1
+IKKs	protein ubiquitination	-ap>
+PI3K	PIP3	-a>
+LPS/TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2/CD14/LBP	ceramide biosynthetic process	-ap>
+FRAT1	AXIN1	component>
+NAKED	DVL1	-a|
+WNT/LRP6/FRIZZLED	DVL1	-a>
+WIF1	WNT/LRP6/FRIZZLED	component>
+DVL1	AXIN1	component>
+GSK3B	AXIN1	component>
+PROC	AXIN/APC/beta-catenin	component>
+AXIN1	AXIN/APC/beta-catenin	component>
+CTNNB1	AXIN/APC/beta-catenin	component>
+KREMEN2	DKK2/LRP6/KRM2	component>
+LRP6	DKK2/LRP6/KRM2	component>
+DKK2	DKK2/LRP6/KRM2	component>
+beta-catenin/ubiquitin	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+p50/RELA/I-kappa-B-alpha	protein ubiquitination	-ap>
+beta-catenin/LEF1	GJA1	-t>
+CTNNB1	PROC	-a>
+CTNNB1	AXIN1	-a>
+PROC	CTNNB1	-a>
+PROC	PROC	-a>
+PROC	AXIN1	-a>
+AXIN1	CTNNB1	-a>
+AXIN1	PROC	-a>
+PPP2R5D	AXIN1	-a>
+PIP2	PIP3	-a>
+CK-1	DVL1	-a>
+ceramide	ceramide biosynthetic process	-ap>
+AKT1	IKKs	-a>
+CTNNB1	CTNNB1	-a>
+LEF1	beta-catenin/LEF1	component>
+CTNNB1	beta-catenin/LEF1	component>
+PPP2R5D	AKT1	-a>
+CSNK2A1	DVL1	-a>
+beta-catenin/LEF1	CCND1	-t>
+DVL1	PPP2R5D	-a>
+TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2	LPS/TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2/CD14/LBP	component>
+CD14/LBP	LPS/TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2/CD14/LBP	component>
+LPS	LPS/TLR4/TLR4/TIRAP/TOLLIP/MYD88/IRAK/PKR/MD-2/CD14/LBP	component>
+AKT1	GSK3B	-a>
+ceramide	PI3K	-a>
+PDPK1	AKT1	-a>
+WNT1	WNT/LRP6/FRIZZLED	component>
+LRP6/FRIZZLED	WNT/LRP6/FRIZZLED	component>
+BTRC	beta-catenin/beta-TRCP	component>
+CTNNB1	beta-catenin/beta-TRCP	component>
+RELA/p50	degradation	-ap>
+I-kappa-B-alpha/RELA/p50/ubiquitin	degradation	-ap>
+KREMEN2	DKK1/LRP6/KRM2	component>
+LRP6	DKK1/LRP6/KRM2	component>
+DKK1	DKK1/LRP6/KRM2	component>
+AXIN/APC/beta-catenin	CTNNB1	component>
+AXIN/APC/beta-catenin	PROC	component>
+AXIN/APC/beta-catenin	AXIN1	component>
+FZD1	LRP6/FRIZZLED	component>
+LRP6	LRP6/FRIZZLED	component>
+RELA/p50	RELA/p50	-a>
+PIP3	PDPK1	-a>
+beta-catenin/ubiquitin	protein ubiquitination	-ap>
+beta-catenin/beta-TRCP	protein ubiquitination	-ap>

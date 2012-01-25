@@ -1,0 +1,35 @@
+abstract	viral genome replication
+protein	CASP7_0-0
+protein	CASP3_0-0
+protein	CASP6_0-0
+rna	WNV RNA
+abstract	apoptosis
+complex	APAF-1/Caspase 9
+protein	TIAL1
+protein	TIA1
+protein	EEF1A1
+protein	CYCS
+protein	CASP9
+protein	CASP7
+protein	CASP6
+protein	CASP3
+protein	APAF1
+APAF-1/Caspase 9	CASP7_0-0	-a>
+TIAL1	viral genome replication	-ap>
+TIA1	viral genome replication	-ap>
+APAF-1/Caspase 9	CASP3_0-0	-a>
+EEF1A1	CASP9	-a>
+APAF-1/Caspase 9	CASP6_0-0	-a>
+viral genome replication	WNV RNA	-a>
+CASP7	CASP7_0-0	-a>
+APAF1	APAF-1/Caspase 9	component>
+CASP9	APAF-1/Caspase 9	component>
+WNV RNA	viral genome replication	-ap>
+CASP3_0-0	apoptosis	-ap>
+CASP3	CASP3_0-0	-a>
+CYCS	APAF-1/Caspase 9	-a>
+WNV RNA	WNV RNA	-a>
+CASP6_0-0	apoptosis	-ap>
+WNV RNA	CASP9	-a>
+CASP7	apoptosis	-ap>
+CASP6	CASP6_0-0	-a>

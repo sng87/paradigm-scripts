@@ -1,0 +1,52 @@
+abstract	oocyte maturation
+complex	progesterone/iPR
+complex	progesterone/mPR/G-beta/G-gamma/G-alpha-I
+smallMolecule	crinone (tn)
+complex	progesterone/iPR/SRC
+complex	CDC2/cyclin B
+complex	MYT1/pin1
+complex	PKA
+complex	mPR/G-alpha-S/G-beta/G-gamma/G-alpha-I
+smallMolecule	cAMP
+smallMolecule	ATP
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SRC
+protein	PGR
+protein	MAPK3
+protein	MAPK1
+protein	HRAS
+protein	GNAS
+protein	CDC25C
+protein	CAP1
+protein	ADCY1
+PKA	MAPK3	-a|
+MAPK1	MYT1/pin1	-a>
+progesterone/mPR/G-beta/G-gamma/G-alpha-I	GDP	-a|
+ADCY1	cAMP	-a>
+PGR	progesterone/iPR	component>
+crinone (tn)	progesterone/iPR	component>
+CDC2/cyclin B	oocyte maturation	-ap>
+ADCY1	CAP1	-a>
+MYT1/pin1	CDC2/cyclin B	-a>
+PKA	CDC25C	-a|
+HRAS	ADCY1	-a>
+SRC	progesterone/iPR/SRC	component>
+progesterone/iPR	progesterone/iPR/SRC	component>
+CDC25C	CDC2/cyclin B	-a>
+mPR/G-alpha-S/G-beta/G-gamma/G-alpha-I	GNAS	component>
+mPR/G-alpha-S/G-beta/G-gamma/G-alpha-I	progesterone/mPR/G-beta/G-gamma/G-alpha-I	component>
+crinone (tn)	GNAS	component>
+crinone (tn)	progesterone/mPR/G-beta/G-gamma/G-alpha-I	component>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+progesterone/iPR/SRC	MAPK3	-a>
+MAPK3	MYT1/pin1	-a>
+cAMP	PKA	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+ATP	cAMP	-a>
+crinone (tn)	crinone (tn)	-a>

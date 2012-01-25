@@ -1,0 +1,76 @@
+complex	CDC42/GDP
+complex	ASEF2/APC
+complex	PLCgamma1/betaPIX/GIT1
+protein	DBS
+complex	CDC42/GTP/DOCK11
+complex	CDC42/GTP
+smallMolecule	phosphate
+smallMolecule	PI-4-5-P2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV3
+protein	VAV2
+protein	RALBP1
+protein	RACGAP1
+protein	NME1
+protein	NGEF
+protein	MCF2
+protein	ITSN2
+protein	ITSN1
+protein	GEFT
+protein	FGD1
+protein	FARP2
+protein	DOCK9
+protein	DOCK6
+protein	DOCK11
+protein	DOCK10
+protein	DNMBP
+protein	BCAR3
+protein	ARHGEF9
+protein	ARHGEF7
+protein	ARHGEF6
+protein	ARHGDIA
+protein	ARHGAP17
+protein	ARHGAP10
+protein	ARHGAP1
+ARHGAP17	CDC42/GDP	-a>
+DOCK10	CDC42/GTP	-a>
+FARP2	CDC42/GTP	-a>
+DBS	CDC42/GTP	-a>
+ITSN1	CDC42/GTP	-a>
+DOCK6	CDC42/GTP	-a>
+FGD1	CDC42/GTP	-a>
+BCAR3	CDC42/GTP	-a>
+ARHGEF9	CDC42/GTP	-a>
+ARHGAP1	CDC42/GDP	-a>
+PI-4-5-P2	CDC42/GTP	-a>
+CDC42/GTP/DOCK11	CDC42/GTP	-a>
+ASEF2/APC	CDC42/GTP	-a>
+VAV2	CDC42/GTP	-a>
+RACGAP1	CDC42/GDP	-a>
+ARHGEF6	CDC42/GTP	-a>
+DOCK9	CDC42/GTP	-a>
+ITSN2	CDC42/GTP	-a>
+GEFT	CDC42/GTP	-a>
+VAV3	CDC42/GTP	-a>
+RALBP1	CDC42/GDP	-a>
+NGEF	CDC42/GTP	-a>
+ARHGEF7	CDC42/GTP	-a>
+ARHGDIA	CDC42/GTP	-a|
+ARHGAP10	CDC42/GDP	-a>
+PLCgamma1/betaPIX/GIT1	CDC42/GTP	-a>
+DOCK11	CDC42/GTP	-a>
+DNMBP	CDC42/GTP	-a>
+NME1	CDC42/GTP	-a|
+MCF2	CDC42/GTP	-a>
+GDP	phosphate	-a>
+GDP	CDC42/GDP	-a>
+DOCK11	CDC42/GTP/DOCK11	component>
+CDC42/GTP	CDC42/GTP/DOCK11	component>
+ARHGDIA	CDC42/GDP	-a|
+CDC42/GTP	phosphate	-a>
+CDC42/GTP	CDC42/GDP	-a>
+GTP	GDP	-a>
+GTP	CDC42/GTP	-a>
+CDC42/GDP	GDP	-a>
+CDC42/GDP	CDC42/GTP	-a>

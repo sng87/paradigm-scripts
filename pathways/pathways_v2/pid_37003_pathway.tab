@@ -1,0 +1,36 @@
+abstract	cell migration
+complex	CDC42/GDP
+complex	G12/G13
+protein	ERK1-2-active
+protein	ERK1-2
+complex	S1P/S1P4/Gi
+complex	CDC42/GTP
+complex	S1P/S1P5/G12
+complex	S1P/S1P4/G12/G13
+smallMolecule	S1P
+protein	Gi family
+complex	S1P/S1P5/Gi
+protein	S1PR5
+protein	S1PR4
+protein	RHOA
+protein	PLCG1
+protein	GNA12
+S1P/S1P4/Gi	ERK1-2-active	-a>
+S1P/S1P4/Gi	CDC42/GTP	-a>
+Gi family	S1P/S1P4/Gi	component>
+S1P	S1P/S1P4/Gi	component>
+S1PR4	S1P/S1P4/Gi	component>
+CDC42/GTP	cell migration	-ap>
+G12/G13	S1P/S1P4/G12/G13	component>
+S1P	S1P/S1P4/G12/G13	component>
+S1PR4	S1P/S1P4/G12/G13	component>
+GNA12	S1P/S1P5/G12	component>
+S1P	S1P/S1P5/G12	component>
+S1PR5	S1P/S1P5/G12	component>
+Gi family	S1P/S1P5/Gi	component>
+S1P	S1P/S1P5/Gi	component>
+S1PR5	S1P/S1P5/Gi	component>
+ERK1-2	ERK1-2-active	-a>
+S1P/S1P4/Gi	PLCG1	-a>
+S1P/S1P4/G12/G13	RHOA	-a>
+CDC42/GDP	CDC42/GTP	-a>

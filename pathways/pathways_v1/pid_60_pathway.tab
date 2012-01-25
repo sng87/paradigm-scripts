@@ -1,0 +1,87 @@
+protein	SLC24A2
+protein	CNGB3
+protein	GRK7
+protein	RGS9BP
+protein	CNGA3
+protein	GRK1
+protein	PDE6H
+protein	PDE6C
+protein	ARR3
+protein	GNAT2
+protein	GNB3
+protein	RGS9
+protein	GNB5
+protein	GNGT2
+complex	cGMP/Cone CNG Channel
+complex	RGS9-1/Gbeta5/R9AP
+complex	PDE6H/GNAT2/GTP
+complex	Na + (4 Units)
+complex	GNB3/GNGT2
+complex	GNAT2/GTP
+complex	GNAT2/GDP
+complex	Cone Transducin
+complex	Cone PDE6
+complex	Cone Metarhodopsin II/X-Arrestin
+complex	Cone Metarhodopsin II/Cone Transducin
+complex	Cone Metarhodopsin II
+complex	Cone CNG Channel
+chemical	mol:cGMP (4 units)
+chemical	mol:all-trans-retinal
+chemical	mol:Pi
+chemical	mol:Na +
+chemical	mol:K +
+chemical	mol:GTP
+chemical	mol:GMP (4 units)
+chemical	mol:GDP
+chemical	mol:Ca2+
+chemical	mol:ADP
+abstract	absorption of light
+mol:cGMP (4 units)	cGMP/Cone CNG Channel	component>
+mol:all-trans-retinal	Cone Metarhodopsin II/X-Arrestin	component>
+mol:all-trans-retinal	Cone Metarhodopsin II/Cone Transducin	component>
+mol:all-trans-retinal	Cone Metarhodopsin II	component>
+mol:Na +	Na + (4 Units)	component>
+mol:GTP	PDE6H/GNAT2/GTP	component>
+mol:GTP	GNAT2/GTP	component>
+mol:GDP	GNAT2/GDP	component>
+mol:GDP	Cone Transducin	component>
+mol:GDP	Cone Metarhodopsin II/Cone Transducin	component>
+cGMP/Cone CNG Channel	mol:Na +	-a>
+cGMP/Cone CNG Channel	mol:Ca2+	-a>
+absorption of light	Cone Metarhodopsin II	-ap>
+SLC24A2	mol:K +	-a>
+SLC24A2	mol:Ca2+	-a>
+SLC24A2	Na + (4 Units)	-a>
+CNGB3	cGMP/Cone CNG Channel	component>
+CNGB3	Cone CNG Channel	component>
+GRK7	mol:ADP	-a>
+GRK7	Cone Metarhodopsin II	-a>
+RGS9BP	RGS9-1/Gbeta5/R9AP	component>
+CNGA3	cGMP/Cone CNG Channel	component>
+CNGA3	Cone CNG Channel	component>
+GRK1	mol:ADP	-a>
+GRK1	Cone Metarhodopsin II	-a>
+PDE6H	PDE6H/GNAT2/GTP	component>
+PDE6H	Cone PDE6	component>
+PDE6C	mol:GMP (4 units)	-a>
+PDE6C	Cone PDE6	component>
+PDE6C	Cone CNG Channel	-a>
+ARR3	Cone Metarhodopsin II/X-Arrestin	component>
+GNAT2	PDE6H/GNAT2/GTP	component>
+GNAT2	GNAT2/GTP	component>
+GNAT2	GNAT2/GDP	component>
+GNAT2	Cone Transducin	component>
+GNAT2	Cone Metarhodopsin II/Cone Transducin	component>
+GNB3	GNB3/GNGT2	component>
+GNB3	Cone Transducin	component>
+GNB3	Cone Metarhodopsin II/Cone Transducin	component>
+RGS9	RGS9-1/Gbeta5/R9AP	component>
+GNB5	RGS9-1/Gbeta5/R9AP	component>
+GNGT2	GNB3/GNGT2	component>
+GNGT2	Cone Transducin	component>
+GNGT2	Cone Metarhodopsin II/Cone Transducin	component>
+RGS9-1/Gbeta5/R9AP	mol:Pi	-a>
+RGS9-1/Gbeta5/R9AP	GNAT2/GDP	-a>
+RGS9-1/Gbeta5/R9AP	Cone PDE6	-a>
+PDE6H/GNAT2/GTP	mol:GMP (4 units)	-a>
+PDE6H/GNAT2/GTP	Cone CNG Channel	-a>

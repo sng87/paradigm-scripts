@@ -1,0 +1,20 @@
+smallMolecule	Deoxynucleoside triphosphate
+complex	LIG3:XRCC1:POL Beta complex at site of base repair
+complex	POL Beta-bound DNA strand break containing gap left by excised residue
+complex	LIG3:XRRC1 complex
+complex	LIG3:XRCC1:POL Beta:DNA strand break containing replaced unligated residue
+complex	LIG3:XRRC1-bound DNA strand containing the ligated residue
+smallMolecule	PPi
+protein	POLB
+protein	LIG3
+LIG3	LIG3:XRRC1-bound DNA strand containing the ligated residue	-a>
+POLB	PPi	-a>
+LIG3:XRCC1:POL Beta:DNA strand break containing replaced unligated residue	LIG3:XRRC1-bound DNA strand containing the ligated residue	-a>
+Deoxynucleoside triphosphate	LIG3:XRCC1:POL Beta:DNA strand break containing replaced unligated residue	-a>
+Deoxynucleoside triphosphate	PPi	-a>
+LIG3:XRCC1:POL Beta complex at site of base repair	LIG3:XRCC1:POL Beta:DNA strand break containing replaced unligated residue	-a>
+LIG3:XRCC1:POL Beta complex at site of base repair	PPi	-a>
+LIG3:XRRC1-bound DNA strand containing the ligated residue	LIG3:XRRC1 complex	component>
+LIG3:XRRC1-bound DNA strand containing the ligated residue	POLB	component>
+POL Beta-bound DNA strand break containing gap left by excised residue	LIG3:XRCC1:POL Beta complex at site of base repair	component>
+LIG3:XRRC1 complex	LIG3:XRCC1:POL Beta complex at site of base repair	component>

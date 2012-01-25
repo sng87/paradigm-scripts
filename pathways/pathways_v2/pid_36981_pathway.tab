@@ -1,0 +1,195 @@
+abstract	nuclear fragmentation during apoptosis
+abstract	negative regulation of DNA binding
+abstract	positive regulation of apoptosis
+abstract	stress fiber formation
+abstract	apoptotic nuclear changes
+abstract	actin filament polymerization
+abstract	DNA repair
+abstract	neuron apoptosis
+abstract	DNA fragmentation during apoptosis
+abstract	response to UV
+abstract	JNK cascade
+abstract	response to stress
+abstract	apoptosis
+complex	APAF-1/Caspase 9
+complex	Caspase 3 (tetramer)
+complex	Caspase 8 (tetramer)
+protein	AP-24
+protein	Gelsolin (cleaved)
+protein	SREBF1 (cleaved)
+complex	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD/PIDD
+protein	crmA
+complex	Caspase 6 (tetramer)
+complex	Caspase 2 (tetramer)
+smallMolecule	NAD
+protein	AP-2 alpha (cleaved)
+protein	MEKK1 fragment 1_0-0
+protein	MEKK1 fragment 2_0-0
+complex	Caspase 4 (tetramer)
+complex	p15 BID/BAX
+protein	SLK fragment_436-1204
+complex	Caspase 1 (tetramer)
+protein	Lamins (cleaved)
+protein	Mammalian IAPs
+complex	Mammalian IAPs/DIABLO
+protein	MEKK1
+complex	Caspase 10 (tetramer)
+protein	Gas2 (cleaved)
+protein	PARP1 (cleaved)
+complex	Caspase 7 (tetramer)
+complex	ICAD/DFFB
+protein	Lamins
+smallMolecule	Activated DNA
+smallMolecule	Ca2+
+protein	AP-24 (cleaved)_0-0
+protein	VIM
+protein	TOP1
+protein	TNF
+protein	TFAP2A
+protein	SREBF1
+protein	SPTAN1
+protein	SLK
+protein	SATB1
+protein	PTK2
+protein	PRF1
+protein	PARP1
+protein	NUMA1
+protein	LIMK1
+protein	KRT18
+protein	GZMB
+protein	GSN
+protein	GAS2
+protein	DIABLO
+protein	DFFB
+protein	DFFA
+protein	CYCS
+protein	CFL2
+protein	CASP8
+protein	CASP7
+protein	CASP6
+protein	CASP3
+protein	CASP2
+protein	CASP10
+protein	CASP1
+protein	BID
+protein	BCL2
+protein	BAX
+protein	ARHGDIB
+protein	APP
+protein	ACTA1
+Caspase 3 (tetramer)	MEKK1 fragment 1_0-0	-a>
+Caspase 10 (tetramer)	Caspase 3 (tetramer)	component>
+Caspase 3 (tetramer)	NUMA1	-a>
+Caspase 10 (tetramer)	CYCS	-a>
+Caspase 2 (tetramer)	Caspase 3 (tetramer)	component>
+Caspase 3 (tetramer)	ACTA1	-a>
+Caspase 3 (tetramer)	SLK fragment_436-1204	-a>
+Caspase 8 (tetramer)	APP	-a>
+GZMB	Caspase 10 (tetramer)	component>
+crmA	Caspase 8 (tetramer)	component>
+GSN	CYCS	-a|
+Ca2+	ACTA1	-a>
+Gelsolin (cleaved)	ACTA1	-a>
+Caspase 3 (tetramer)	SPTAN1	-a>
+TNF	AP-2 alpha (cleaved)	-a>
+Caspase 6 (tetramer)	AP-2 alpha (cleaved)	-a>
+Caspase 8 (tetramer)	BID	-a>
+response to stress	BID	-a>
+Caspase 3 (tetramer)	PTK2	-a>
+Caspase 6 (tetramer)	Lamins (cleaved)	-a>
+GZMB	Caspase 7 (tetramer)	component>
+GZMB	Caspase 3 (tetramer)	component>
+GZMB	BID	-a>
+Caspase 3 (tetramer)	PARP1 (cleaved)	-a>
+Caspase 3 (tetramer)	VIM	-a>
+Caspase 3 (tetramer)	Gelsolin (cleaved)	-a>
+NAD	PARP1	-a>
+APAF-1/Caspase 9	Caspase 7 (tetramer)	component>
+Caspase 6 (tetramer)	VIM	-a>
+Caspase 6 (tetramer)	NUMA1	-a>
+Caspase 6 (tetramer)	PTK2	-a>
+BCL2	AP-24 (cleaved)_0-0	-a|
+Caspase 3 (tetramer)	AP-24 (cleaved)_0-0	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP/TRAF2/RAIDD/PIDD	Caspase 2 (tetramer)	component>
+Caspase 7 (tetramer)	VIM	-a>
+Caspase 6 (tetramer)	SATB1	-a>
+Caspase 3 (tetramer)	DFFB	component>
+Caspase 7 (tetramer)	PARP1 (cleaved)	-a>
+Caspase 1 (tetramer)	Caspase 3 (tetramer)	component>
+Caspase 3 (tetramer)	LIMK1	-a>
+Caspase 3 (tetramer)	SREBF1 (cleaved)	-a>
+Caspase 3 (tetramer)	TOP1	-a>
+Caspase 3 (tetramer)	ARHGDIB	-a>
+Caspase 3 (tetramer)	Caspase 6 (tetramer)	component>
+Caspase 2 (tetramer)	Lamins (cleaved)	-a>
+Caspase 2 (tetramer)	Caspase 6 (tetramer)	component>
+Caspase 6 (tetramer)	APP	-a>
+Caspase 6 (tetramer)	TOP1	-a>
+Caspase 8 (tetramer)	Caspase 3 (tetramer)	component>
+Mammalian IAPs	Caspase 7 (tetramer)	component>
+Caspase 2 (tetramer)	Caspase 7 (tetramer)	component>
+Caspase 6 (tetramer)	KRT18	-a>
+response to UV	KRT18	-a>
+Mammalian IAPs	Caspase 3 (tetramer)	component>
+APAF-1/Caspase 9	Caspase 3 (tetramer)	component>
+Mammalian IAPs	APAF-1/Caspase 9	-a|
+Mammalian IAPs/DIABLO	APAF-1/Caspase 9	-a>
+crmA	Caspase 1 (tetramer)	component>
+Caspase 4 (tetramer)	Caspase 1 (tetramer)	component>
+Caspase 3 (tetramer)	Gas2 (cleaved)	-a>
+MEKK1	MEKK1 fragment 2_0-0	-a>
+MEKK1	MEKK1 fragment 1_0-0	-a>
+PTK2	PTK2	-a|
+response to stress	CYCS	-a>
+SLK	SLK fragment_436-1204	-a>
+AP-2 alpha (cleaved)	negative regulation of DNA binding	-ap>
+CASP10	Caspase 10 (tetramer)	component>
+CASP8	Caspase 8 (tetramer)	component>
+NUMA1	nuclear fragmentation during apoptosis	-ap>
+p15 BID/BAX	CYCS	-a>
+BAX	p15 BID/BAX	component>
+BID	p15 BID/BAX	component>
+LIMK1	CFL2	-a>
+ACTA1	ACTA1	-a>
+SPTAN1	SPTAN1	-a>
+TFAP2A	AP-2 alpha (cleaved)	-a>
+PARP1 (cleaved)	DNA repair	-ap|
+BID	BID	-a>
+DFFB	DNA fragmentation during apoptosis	-ap>
+GSN	Gelsolin (cleaved)	-a>
+Activated DNA	PARP1	-a>
+Lamins (cleaved)	positive regulation of apoptosis	-ap>
+NUMA1	NUMA1	-a>
+PTK2	PTK2	-a>
+APP	neuron apoptosis	-ap>
+CFL2	actin filament polymerization	-ap|
+AP-24	AP-24 (cleaved)_0-0	-a>
+CASP2	Caspase 2 (tetramer)	component>
+VIM	VIM	-a>
+SATB1	SATB1	-a>
+ICAD/DFFB	DFFA	component>
+ICAD/DFFB	DFFB	component>
+PARP1	PARP1 (cleaved)	-a>
+DIABLO	Mammalian IAPs/DIABLO	component>
+Mammalian IAPs	Mammalian IAPs/DIABLO	component>
+LIMK1	LIMK1	-a>
+SREBF1	SREBF1 (cleaved)	-a>
+ARHGDIB	ARHGDIB	-a>
+SLK fragment_436-1204	stress fiber formation	-ap>
+PRF1	GZMB	-a>
+Lamins	Lamins (cleaved)	-a>
+CASP6	Caspase 6 (tetramer)	component>
+APP	APP	-a>
+SPTAN1	apoptotic nuclear changes	-ap>
+MEKK1 fragment 2_0-0	JNK cascade	-ap|
+TOP1	TOP1	-a>
+CASP7	Caspase 7 (tetramer)	component>
+SLK fragment_436-1204	apoptosis	-ap>
+NUMA1	DNA fragmentation during apoptosis	-ap>
+KRT18	KRT18	-a>
+CASP3	Caspase 3 (tetramer)	component>
+CYCS	APAF-1/Caspase 9	-a>
+MEKK1 fragment 1_0-0	JNK cascade	-ap|
+CASP1	Caspase 1 (tetramer)	component>
+VIM	apoptosis	-ap>
+GAS2	Gas2 (cleaved)	-a>

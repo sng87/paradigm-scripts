@@ -1,0 +1,17 @@
+complex	ubiquitinated Cdc6
+complex	CDK
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	26S Proteasome
+smallMolecule	ATP
+smallMolecule	ADP
+protein	CDC6
+CDK	ADP	-a>
+26S Proteasome	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+ATP	CDC6	-a>
+ATP	ADP	-a>
+CDC6	CDC6	-a>
+CDC6	ADP	-a>
+ubiquitinated Cdc6	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+CDC6	ubiquitinated Cdc6	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	ubiquitinated Cdc6	component>
+ATP	ubiquitinated Cdc6	component>

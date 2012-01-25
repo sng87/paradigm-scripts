@@ -1,0 +1,194 @@
+abstract	regulation of telomere maintenance
+abstract	positive regulation of telomere maintenance
+abstract	response to DNA damage stimulus
+abstract	cell cycle
+abstract	telomeric DNA binding
+abstract	DNA damage response signal transduction by p53 class mediator resulting in induction of apoptosis
+abstract	ubiquitin-dependent protein catabolic process
+complex	TGFB1/TGF beta receptor Type II
+complex	911 complex
+complex	Mad/Max
+complex	TRF2/PARP2
+protein	TERT isoform 2
+complex	Telomerase catalytic core complex
+complex	Telomerase/PinX1
+protein	ERK1-2-active
+complex	Telomerase/EST1B
+complex	HPV-16 E6/E6AP
+complex	TRF2/BLM
+complex	TRF1 dimer
+protein	ERK1-2
+complex	KU/TERT
+complex	Telomerase
+complex	Telomerase/Nucleolin
+complex	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex
+complex	SP1/HDAC2
+complex	MRN complex/TRF2/Rap1
+complex	Telomerase/EST1A
+complex	IFN-gamma/IRF1
+complex	Shelterin Complex
+complex	KU
+complex	AP1
+protein	PKC isoenzymes
+complex	MRN complex
+complex	Telomerase/hnRNP C1/C2
+complex	TERT/c-Abl
+complex	Telomerase/911
+complex	Shelterin Complex/Apollo
+complex	KU/TER
+complex	NFX1/SIN3/HDAC complex
+complex	ATM/TRF2
+rna	TER
+complex	Telomerase/AKT1/mTOR/p70S6K
+smallMolecule	Oestrogen
+complex	ER alpha/Oestrogen
+complex	EGF/EGFR
+protein	TRF1
+protein	Tankyrase1
+complex	TRF1/Tankyrase1
+complex	TRF2/WRN
+protein	Apollo
+complex	SP3/HDAC2
+complex	TERT/NF kappa B1/14-3-3
+complex	Smad3/MYC
+protein	YWHAE
+protein	WT1
+protein	WRN
+protein	TINF2
+protein	TERT
+protein	TERF2IP
+protein	TERF2
+protein	SP1
+protein	SMG6
+protein	SMG5
+protein	SMAD3
+protein	RPS6KB1
+protein	PTGES3
+protein	POT1
+protein	PINX1
+protein	PIF1
+protein	PARP2
+protein	NR2F2
+protein	NFKB1
+protein	NCL
+protein	MYC
+protein	IL2
+protein	IFNAR2
+protein	HSP90AA1
+protein	HNRNPC
+protein	FRAP1
+protein	ESR1
+protein	E2F1
+protein	DKC1
+protein	CDKN1B
+protein	CCND1
+protein	BLM
+protein	ATM
+protein	AKT1
+protein	ACD
+protein	ABL1
+AKT1	TERT/NF kappa B1/14-3-3	component>
+response to DNA damage stimulus	TERT/c-Abl	component>
+TRF1 dimer	regulation of telomere maintenance	-ap|
+IL2	Telomerase/AKT1/mTOR/p70S6K	component>
+IL2	ERK1-2-active	-a>
+HPV-16 E6/E6AP	Telomerase	-a>
+PKC isoenzymes	Telomerase	-a>
+WT1	TERT	-t|
+SP3/HDAC2	TERT	-t|
+SP1/HDAC2	TERT	-t|
+NFX1/SIN3/HDAC complex	TERT	-t|
+NR2F2	TERT	-t|
+Mad/Max	TERT	-t|
+IFNAR2	TERT	-t|
+E2F1	TERT	-t|
+AP1	TERT	-t|
+IFN-gamma/IRF1	TERT	-t|
+Smad3/MYC	TERT	-t|
+HPV-16 E6/E6AP	TERT	-t>
+SP1	TERT	-t>
+MYC	TERT	-t>
+PKC isoenzymes	TERT	-t>
+AKT1	TERT	-t>
+IL2	TERT	-t>
+PIF1	Telomerase	-a>
+CDKN1B	Telomerase	-a|
+ATM/TRF2	ATM	-a|
+ATM	DNA damage response signal transduction by p53 class mediator resulting in induction of apoptosis	-ap>
+TER	KU/TER	-a>
+KU	KU/TER	-a>
+NFX1/SIN3/HDAC complex	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+HPV-16 E6/E6AP	HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	component>
+YWHAE	TERT/NF kappa B1/14-3-3	component>
+NFKB1	TERT/NF kappa B1/14-3-3	component>
+TERT	TERT/NF kappa B1/14-3-3	component>
+MRN complex	MRN complex/TRF2/Rap1	component>
+TERF2IP	MRN complex/TRF2/Rap1	component>
+TERF2	MRN complex/TRF2/Rap1	component>
+IFN-gamma/IRF1	CDKN1B	-t>
+PARP2	TRF2/PARP2	component>
+TERF2	TRF2/PARP2	component>
+TRF1	TRF1 dimer	component>
+NCL	Telomerase/Nucleolin	component>
+Telomerase	Telomerase/Nucleolin	component>
+Telomerase	Telomerase/911	component>
+911 complex	Telomerase/911	component>
+ABL1	TERT/c-Abl	component>
+TERT	TERT/c-Abl	component>
+HPV-16 E6/E6AP/NFX1/SIN3/HDAC complex	ubiquitin-dependent protein catabolic process	-ap>
+Apollo	Shelterin Complex/Apollo	component>
+Shelterin Complex	Shelterin Complex/Apollo	component>
+telomeric DNA binding	regulation of telomere maintenance	-ap>
+RPS6KB1	Telomerase/AKT1/mTOR/p70S6K	component>
+FRAP1	Telomerase/AKT1/mTOR/p70S6K	component>
+AKT1	Telomerase/AKT1/mTOR/p70S6K	component>
+Telomerase	Telomerase/AKT1/mTOR/p70S6K	component>
+ERK1-2	ERK1-2-active	-a>
+SMG5	Telomerase/EST1B	component>
+Telomerase	Telomerase/EST1B	component>
+Telomerase	Telomerase	-a>
+TER	Telomerase	component>
+TERT isoform 2	Telomerase	component>
+ESR1	ER alpha/Oestrogen	component>
+Oestrogen	ER alpha/Oestrogen	component>
+SMG6	Telomerase/EST1A	component>
+Telomerase	Telomerase/EST1A	component>
+MYC	Smad3/MYC	component>
+SMAD3	Smad3/MYC	component>
+EGF/EGFR	TERT	-t>
+TRF1/Tankyrase1	positive regulation of telomere maintenance	-ap>
+telomeric DNA binding	Telomerase	-a>
+IFN-gamma/IRF1	Telomerase	-a|
+ERK1-2-active	cell cycle	-ap>
+POT1	Shelterin Complex	component>
+ACD	Shelterin Complex	component>
+TERF2IP	Shelterin Complex	component>
+TINF2	Shelterin Complex	component>
+TERF2	Shelterin Complex	component>
+TRF1	Shelterin Complex	component>
+Tankyrase1	TRF1/Tankyrase1	component>
+TRF1	TRF1/Tankyrase1	component>
+ER alpha/Oestrogen	AKT1	-a>
+IL2	AKT1	-a>
+TERF2	ATM/TRF2	component>
+ATM	ATM/TRF2	component>
+BLM	TRF2/BLM	component>
+TERF2	TRF2/BLM	component>
+TERT	KU/TERT	component>
+KU	KU/TERT	component>
+TERT	CCND1	-t>
+WRN	TRF2/WRN	component>
+TERF2	TRF2/WRN	component>
+TGFB1/TGF beta receptor Type II	SMAD3	-a>
+response to DNA damage stimulus	ATM	-a>
+HNRNPC	Telomerase/hnRNP C1/C2	component>
+Telomerase	Telomerase/hnRNP C1/C2	component>
+DKC1	Telomerase	component>
+HSP90AA1	Telomerase	component>
+PTGES3	Telomerase	component>
+Telomerase catalytic core complex	Telomerase	component>
+PINX1	Telomerase/PinX1	component>
+Telomerase	Telomerase/PinX1	component>
+TER	Telomerase catalytic core complex	component>
+TERT	Telomerase catalytic core complex	component>
+telomeric DNA binding	DNA damage response signal transduction by p53 class mediator resulting in induction of apoptosis	-ap>

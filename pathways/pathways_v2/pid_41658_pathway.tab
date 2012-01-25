@@ -1,0 +1,35 @@
+complex	MPG glycosylase:hypoxanthine complex
+complex	MPG glycosylase:ethenoadenine complex
+complex	DNA containing an hOGG1-bound apurinic/apyrimidinic site
+complex	MYH glycosylase:adenine complex
+complex	MPG glycosylase:3-methyladenine complex
+complex	DNA containing an MYH-bound apurinic/apyrimidinic site
+smallMolecule	3-Methyladenine
+smallMolecule	Purine-6-ol
+complex	DNA containing an MPG-bound apurinic/apyrimidinic site
+smallMolecule	8-oxoguanine
+complex	hOGG1 glycosylase: formamidopyrimidine complex
+protein	UniProt:P29372 MPG
+smallMolecule	ethenoadenine
+smallMolecule	formamidopyrimidine
+complex	hOGG1 glycosylase:8-oxo guanine complex
+protein	OGG1
+protein	MUTYH
+UniProt:P29372 MPG	DNA containing an MPG-bound apurinic/apyrimidinic site	-a>
+OGG1	DNA containing an hOGG1-bound apurinic/apyrimidinic site	-a>
+OGG1	8-oxoguanine	-a>
+UniProt:P29372 MPG	3-Methyladenine	-a>
+UniProt:P29372 MPG	Purine-6-ol	-a>
+MUTYH	8-oxoguanine	-a>
+MPG glycosylase:ethenoadenine complex	ethenoadenine	-a>
+MPG glycosylase:ethenoadenine complex	DNA containing an MPG-bound apurinic/apyrimidinic site	-a>
+hOGG1 glycosylase: formamidopyrimidine complex	formamidopyrimidine	-a>
+hOGG1 glycosylase: formamidopyrimidine complex	DNA containing an hOGG1-bound apurinic/apyrimidinic site	-a>
+hOGG1 glycosylase:8-oxo guanine complex	DNA containing an hOGG1-bound apurinic/apyrimidinic site	-a>
+hOGG1 glycosylase:8-oxo guanine complex	8-oxoguanine	-a>
+MPG glycosylase:3-methyladenine complex	DNA containing an MPG-bound apurinic/apyrimidinic site	-a>
+MPG glycosylase:3-methyladenine complex	3-Methyladenine	-a>
+MPG glycosylase:hypoxanthine complex	DNA containing an MPG-bound apurinic/apyrimidinic site	-a>
+MPG glycosylase:hypoxanthine complex	Purine-6-ol	-a>
+MYH glycosylase:adenine complex	DNA containing an MYH-bound apurinic/apyrimidinic site	-a>
+MYH glycosylase:adenine complex	8-oxoguanine	-a>

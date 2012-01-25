@@ -1,0 +1,14 @@
+protein	Na+/H+ exchanger proteins 7/8
+protein	Na+/H+ exchanger proteins
+smallMolecule	H+
+smallMolecule	Na+
+protein	SLC9A9
+protein	SLC9A6
+Na+/H+ exchanger proteins	Na+	-a>
+SLC9A9	H+	-a>
+Na+/H+ exchanger proteins 7/8	Na+	-a>
+SLC9A6	Na+	-a>
+Na+	H+	-a>
+Na+	Na+	-a>
+H+	H+	-a>
+H+	Na+	-a>

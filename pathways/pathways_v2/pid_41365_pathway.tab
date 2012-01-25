@@ -1,0 +1,18 @@
+protein	NKCC cotransporters
+smallMolecule	Chloride
+smallMolecule	K+
+protein	KCC cotransporters
+smallMolecule	Na+
+protein	SLC12A3
+NKCC cotransporters	Na+	-a>
+SLC12A3	Chloride	-a>
+KCC cotransporters	Chloride	-a>
+K+	K+	-a>
+K+	Chloride	-a>
+K+	Na+	-a>
+Na+	K+	-a>
+Chloride	K+	-a>
+Chloride	Na+	-a>
+Chloride	Chloride	-a>
+Na+	Na+	-a>
+Na+	Chloride	-a>

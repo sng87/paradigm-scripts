@@ -1,0 +1,55 @@
+complex	SHC/GRB2/SOS-1
+complex	STAT3/STAT3
+smallMolecule	nucleoside diphosphate
+complex	EGF/EGF-R
+smallMolecule	guanosine 5`-triphosphate
+smallMolecule	PIP2
+complex	STAT1/STAT3
+smallMolecule	DAG
+protein	PKC
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+protein	STAT3
+protein	STAT1
+protein	RASA1
+protein	PLCG1
+protein	MAPK8
+protein	MAP3K1
+protein	MAP2K4
+protein	MAP2K1
+protein	JAK1
+protein	HRAS
+protein	ELK1
+protein	EGFR
+protein	EGF
+PLCG1	DAG	-a>
+DAG	PKC	-a>
+EGF/EGF-R	STAT3	-a>
+MAP3K1	MAP2K1	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+EGF/EGF-R	PI3K	-a>
+PKC	ELK1	-a>
+HRAS	MAP3K1	-a>
+STAT1/STAT3	STAT1/STAT3	-a>
+EGF/EGF-R	RASA1	-a>
+EGFR	EGF/EGF-R	component>
+EGF	EGF/EGF-R	component>
+MAP3K1	MAP2K4	-a>
+EGF/EGF-R	PLCG1	-a>
+IP3	Ca2+	-a>
+EGF/EGF-R	JAK1	-a>
+Ca2+	PKC	-a>
+RASA1	HRAS	-a>
+EGF/EGF-R	SHC/GRB2/SOS-1	-a>
+guanosine 5`-triphosphate	nucleoside diphosphate	-a>
+guanosine 5`-triphosphate	HRAS	-a>
+HRAS	nucleoside diphosphate	-a>
+SHC/GRB2/SOS-1	HRAS	-a>
+STAT3	STAT3/STAT3	component>
+STAT3	STAT1/STAT3	component>
+STAT1	STAT1/STAT3	component>
+STAT3/STAT3	STAT3/STAT3	-a>
+MAP2K4	MAPK8	-a>
+EGF/EGF-R	STAT1	-a>

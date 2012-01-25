@@ -1,0 +1,18 @@
+complex	Mcm10:pre-replicative complex
+complex	Mcm4:Mcm6:Mcm7
+complex	Mcm2-7 complex
+complex	Mcm10:active pre-replicative complex
+complex	Cdt1:geminin
+protein	MCM5
+protein	MCM3
+protein	MCM2
+protein	GMNN
+protein	CDT1
+Mcm10:pre-replicative complex	CDT1	component>
+Mcm10:pre-replicative complex	Mcm10:active pre-replicative complex	component>
+Mcm2-7 complex	MCM2	component>
+Mcm2-7 complex	Mcm4:Mcm6:Mcm7	component>
+Mcm2-7 complex	MCM5	component>
+Mcm2-7 complex	MCM3	component>
+GMNN	Cdt1:geminin	component>
+CDT1	Cdt1:geminin	component>

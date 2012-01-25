@@ -1,0 +1,30 @@
+protein	UniProt:O00142 TK2
+protein	E2F transcription factors
+complex	DP-1:E2F1 complex
+protein	TYMS
+protein	RRM2
+protein	POLA1
+protein	PCNA
+protein	ORC1L
+protein	DHFR
+protein	CDT1
+protein	CDC6
+protein	CDC45L
+protein	CDC25A
+protein	CDC2
+protein	CCNE1
+protein	CCNA1
+DP-1:E2F1 complex	POLA1	-t>
+DP-1:E2F1 complex	CDT1	-t>
+DP-1:E2F1 complex	RRM2	-t>
+DP-1:E2F1 complex	CDC45L	-t>
+DP-1:E2F1 complex	CDC2	-t>
+DP-1:E2F1 complex	CCNE1	-t>
+DP-1:E2F1 complex	PCNA	-t>
+DP-1:E2F1 complex	TYMS	-t>
+DP-1:E2F1 complex	CCNA1	-t>
+DP-1:E2F1 complex	DHFR	-t>
+DP-1:E2F1 complex	CDC25A	-t>
+DP-1:E2F1 complex	ORC1L	-t>
+E2F transcription factors	CDC6	-t>
+DP-1:E2F1 complex	UniProt:O00142 TK2	-t>

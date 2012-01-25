@@ -1,0 +1,20 @@
+complex	TNF-beta/TNF R2/RIP/TRAF1/TRAF2/TRAF3/I-TRAF
+complex	NF-kappa-B/I-kappa-B-alpha
+complex	TNF R2/RIP/TRAF1/TRAF2/TRAF3/I-TRAF
+complex	I-kappa-B-alpha/RELA/p50/ubiquitin
+protein	NF-kappa-B activators
+abstract	protein ubiquitination
+protein	TNFAIP3
+protein	MAP3K14
+protein	MAP3K1
+protein	LTA
+TNFAIP3	protein ubiquitination	-ap|
+NF-kappa-B activators	protein ubiquitination	-ap>
+TNF R2/RIP/TRAF1/TRAF2/TRAF3/I-TRAF	TNF-beta/TNF R2/RIP/TRAF1/TRAF2/TRAF3/I-TRAF	component>
+LTA	TNF-beta/TNF R2/RIP/TRAF1/TRAF2/TRAF3/I-TRAF	component>
+TNF-beta/TNF R2/RIP/TRAF1/TRAF2/TRAF3/I-TRAF	MAP3K14	-a>
+I-kappa-B-alpha/RELA/p50/ubiquitin	protein ubiquitination	-ap>
+NF-kappa-B/I-kappa-B-alpha	protein ubiquitination	-ap>
+TNF-beta/TNF R2/RIP/TRAF1/TRAF2/TRAF3/I-TRAF	MAP3K1	-a>
+MAP3K1	NF-kappa-B activators	-a>
+MAP3K14	NF-kappa-B activators	-a>

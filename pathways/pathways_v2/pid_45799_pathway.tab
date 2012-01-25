@@ -1,0 +1,18 @@
+abstract	skeletal muscle development
+complex	MITR/14-3-3
+complex	MITR/MEF2
+complex	CaMKI/CaM/Ca ++ (nuc)
+complex	MEF2/MYOD
+protein	MEF2
+protein	YWHAH
+protein	MYOD1
+protein	HDAC9
+CaMKI/CaM/Ca ++ (nuc)	HDAC9	-a>
+MYOD1	MEF2/MYOD	component>
+MEF2	MEF2/MYOD	component>
+YWHAH	MITR/14-3-3	component>
+HDAC9	MITR/14-3-3	component>
+MITR/MEF2	skeletal muscle development	-ap|
+MEF2	MITR/MEF2	component>
+HDAC9	MITR/MEF2	component>
+MEF2/MYOD	skeletal muscle development	-ap>

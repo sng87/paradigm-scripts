@@ -1,0 +1,79 @@
+complex	EIF-4F
+complex	GH/GH R
+smallMolecule	Rapamycin
+smallMolecule	LY294002
+complex	GH R/IRS-1
+complex	PABP/EIF-4F
+complex	EIF-4E/EIF4EBP
+complex	48S/S6
+complex	43S Ribosome
+smallMolecule	Wortmannin
+smallMolecule	PIP2
+protein	PKC
+complex	PI3K
+smallMolecule	PIP3
+protein	RPS6KB1
+protein	PTEN
+protein	PPP2CA
+protein	PDPK1
+protein	PDK2
+protein	PABPC1
+protein	MKNK1
+protein	MAPK3
+protein	MAPK14
+protein	MAPK1
+protein	IRS1
+protein	GH1
+protein	FRAP1
+protein	EIF4G1
+protein	EIF4EBP1
+protein	EIF4E
+protein	EIF4A1
+protein	AKT1
+PTEN	PIP2	-a>
+PI3K	PIP3	-a>
+MKNK1	EIF-4F	component>
+FRAP1	EIF4E	component>
+PIP3	PIP2	-a>
+PDPK1	RPS6KB1	-a>
+PPP2CA	RPS6KB1	-a>
+EIF4E	EIF-4E/EIF4EBP	component>
+EIF4EBP1	EIF-4E/EIF4EBP	component>
+PABPC1	PABP/EIF-4F	component>
+EIF-4F	PABP/EIF-4F	component>
+PIP2	PIP3	-a>
+PPP2CA	EIF4EBP1	-a>
+MAPK1	RPS6KB1	-a>
+PDK2	PDK2	-a>
+PDK2	PDPK1	-a>
+PDPK1	PDK2	-a>
+PIP3	PDPK1	-a>
+EIF4A1	EIF-4F	component>
+EIF4G1	EIF-4F	component>
+EIF4E	EIF-4F	component>
+FRAP1	RPS6KB1	-a>
+GH1	IRS1	-a>
+GH1	GH/GH R	-a>
+GH R/IRS-1	IRS1	-a>
+GH R/IRS-1	GH/GH R	-a>
+MAPK3	MKNK1	-a>
+PDK2	AKT1	-a>
+PDPK1	PKC	-a>
+PDK2	RPS6KB1	-a>
+Wortmannin	PI3K	-a>
+PKC	RPS6KB1	-a>
+MAPK1	MKNK1	-a>
+EIF-4E/EIF4EBP	EIF4EBP1	component>
+EIF-4E/EIF4EBP	EIF4E	component>
+PDK2	PKC	-a>
+PDPK1	AKT1	-a>
+FRAP1	PPP2CA	-a>
+AKT1	RPS6KB1	-a>
+PABP/EIF-4F	48S/S6	component>
+43S Ribosome	48S/S6	component>
+Rapamycin	FRAP1	-a>
+AKT1	FRAP1	-a>
+IRS1	PI3K	-a>
+LY294002	PI3K	-a>
+MAPK14	MKNK1	-a>
+MAPK3	RPS6KB1	-a>

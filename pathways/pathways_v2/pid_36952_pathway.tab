@@ -1,0 +1,165 @@
+abstract	diapedesis
+abstract	magnesium ion binding
+abstract	dendritic cell antigen processing and presentation
+abstract	fibrinolysis
+abstract	complement component iC3b receptor activity
+abstract	Atherosclerosis
+abstract	leukocyte activation during inflammatory response
+abstract	positive regulation of phagocytosis
+abstract	Ligand binding
+abstract	phagocytosis triggered by activation of immune response cell surface activating receptor
+abstract	activation of caspase activity
+abstract	actin filament polymerization
+abstract	cell migration
+abstract	leukocyte adhesion
+abstract	cell adhesion
+abstract	elevation of cytosolic calcium ion concentration
+protein	aMb2 protein lignads
+complex	alphaM/beta2 Integrin/ICAM1
+complex	Rap1/GTP
+complex	alphaM/beta2 Integrin/Talin
+complex	alphaM/beta2 Integrin/RAGE/HMGB1
+complex	alphaM/beta2 Integrin/proMMP-9
+protein	aMb2 non-protein ligands
+complex	JAM3 homodimer
+complex	alphaM/beta2 Integrin/GPIbA
+complex	alphaM/beta2 Integrin/uPAR/uPA
+complex	alphaM/beta2 Integrin/uPA
+complex	alphaM/beta2 Integrin
+complex	Fc receptor complex
+complex	RAP1/GDP
+protein	proMMP-9
+complex	Ron/MSP
+complex	RhoA/GDP
+complex	P-selectin oligomer
+complex	alphaM/beta2 Integrin/CTGF
+protein	uPA
+complex	alphaM/beta2 Integrin/uPA/Plg
+complex	alphaM/beta2 Integrin/lipoprotein(a)
+complex	alphaM/beta2 Integrin/Hck
+complex	alphaM/beta2 Integrin/JAM2/JAM3
+complex	Lipoprotein(a)
+complex	alphaM/beta2 Integrin/Thy1
+protein	Src Family Kinases-active
+complex	alphaM/beta2 Integrin/CYR61
+protein	aMb2 protein ligands
+complex	alphaM/beta2 Integrin/P-Selectin/PSGL1
+protein	GPIbA
+complex	alphaM/beta2 Integrin/proMMP-2
+complex	alphaM/beta2 Integrin/LRP/tPA
+complex	alphaM/beta2 Integrin/uPAR
+complex	RhoA/GTP
+protein	VTN
+protein	TNF
+protein	TLN1
+protein	THY1
+protein	SELPLG
+protein	ROCK1
+protein	PRKCZ
+protein	PLG
+protein	PLAUR
+protein	PLAT
+protein	NFKB1
+protein	MYH2
+protein	MMP2
+protein	LRP1
+protein	JAM3
+protein	JAM2
+protein	IL6
+protein	ICAM1
+protein	HMGB1
+protein	HCK
+protein	CYR61
+protein	CTGF
+protein	AKT1
+protein	AGER
+aMb2 non-protein ligands	Rap1/GTP	-a>
+alphaM/beta2 Integrin	Rap1/GTP	-a>
+complement component iC3b receptor activity	Rap1/GTP	-a>
+alphaM/beta2 Integrin	dendritic cell antigen processing and presentation	-ap>
+aMb2 protein ligands	RhoA/GTP	-a>
+alphaM/beta2 Integrin	RhoA/GTP	-a>
+complement component iC3b receptor activity	RhoA/GTP	-a>
+alphaM/beta2 Integrin/lipoprotein(a)	leukocyte activation during inflammatory response	-ap>
+actin filament polymerization	positive regulation of phagocytosis	-ap>
+aMb2 protein ligands	alphaM/beta2 Integrin	-a>
+Ron/MSP	alphaM/beta2 Integrin/ICAM1	component>
+RAP1/GDP	Rap1/GTP	-a>
+MYH2	MYH2	-a>
+MYH2	ROCK1	-a>
+ROCK1	MYH2	-a>
+RhoA/GTP	ROCK1	-a>
+VTN	diapedesis	-ap>
+alphaM/beta2 Integrin/uPAR/uPA	diapedesis	-ap>
+alphaM/beta2 Integrin/JAM2/JAM3	leukocyte adhesion	-ap>
+uPA	alphaM/beta2 Integrin/uPA	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/uPA	component>
+LRP1	alphaM/beta2 Integrin/LRP/tPA	component>
+PLAT	alphaM/beta2 Integrin/LRP/tPA	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/LRP/tPA	component>
+alphaM/beta2 Integrin/proMMP-2	cell migration	-ap>
+MYH2	positive regulation of phagocytosis	-ap>
+ROCK1	positive regulation of phagocytosis	-ap>
+JAM2	JAM3	component>
+JAM2	alphaM/beta2 Integrin/JAM2/JAM3	component>
+JAM3 homodimer	JAM3	component>
+JAM3 homodimer	alphaM/beta2 Integrin/JAM2/JAM3	component>
+alphaM/beta2 Integrin	JAM3	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/JAM2/JAM3	component>
+proMMP-9	alphaM/beta2 Integrin/proMMP-9	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/proMMP-9	component>
+magnesium ion binding	dendritic cell antigen processing and presentation	-ap>
+uPA	alphaM/beta2 Integrin/uPAR/uPA	component>
+alphaM/beta2 Integrin/uPAR	alphaM/beta2 Integrin/uPAR/uPA	component>
+PLG	alphaM/beta2 Integrin/uPA/Plg	component>
+alphaM/beta2 Integrin/uPA	alphaM/beta2 Integrin/uPA/Plg	component>
+THY1	alphaM/beta2 Integrin/Thy1	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/Thy1	component>
+alphaM/beta2 Integrin/uPA/Plg	fibrinolysis	-ap>
+RhoA/GDP	RhoA/GTP	-a>
+TLN1	alphaM/beta2 Integrin/Talin	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/Talin	component>
+alphaM/beta2 Integrin/proMMP-9	cell migration	-ap>
+Atherosclerosis	leukocyte activation during inflammatory response	-ap>
+alphaM/beta2 Integrin/Hck	positive regulation of phagocytosis	-ap>
+Rap1/GTP	positive regulation of phagocytosis	-ap>
+HMGB1	alphaM/beta2 Integrin/RAGE/HMGB1	component>
+AGER	alphaM/beta2 Integrin/RAGE/HMGB1	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/RAGE/HMGB1	component>
+AKT1	positive regulation of phagocytosis	-ap>
+PRKCZ	positive regulation of phagocytosis	-ap>
+alphaM/beta2 Integrin/ICAM1	positive regulation of phagocytosis	-ap>
+alphaM/beta2 Integrin/uPAR	Ligand binding	-ap|
+HCK	alphaM/beta2 Integrin/Hck	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/Hck	component>
+alphaM/beta2 Integrin	phagocytosis triggered by activation of immune response cell surface activating receptor	-ap>
+alphaM/beta2 Integrin/Thy1	leukocyte adhesion	-ap>
+SELPLG	alphaM/beta2 Integrin/P-Selectin/PSGL1	component>
+P-selectin oligomer	alphaM/beta2 Integrin/P-Selectin/PSGL1	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/P-Selectin/PSGL1	component>
+MYH2	actin filament polymerization	-ap>
+NFKB1	IL6	-t>
+MMP2	alphaM/beta2 Integrin/proMMP-2	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/proMMP-2	component>
+Fc receptor complex	alphaM/beta2 Integrin	-a>
+aMb2 protein lignads	activation of caspase activity	-ap>
+alphaM/beta2 Integrin	activation of caspase activity	-ap>
+ICAM1	alphaM/beta2 Integrin/ICAM1	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/ICAM1	component>
+NFKB1	TNF	-t>
+alphaM/beta2 Integrin/RAGE/HMGB1	NFKB1	-a>
+CYR61	alphaM/beta2 Integrin/CYR61	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/CYR61	component>
+Src Family Kinases-active	leukocyte adhesion	-ap>
+alphaM/beta2 Integrin/P-Selectin/PSGL1	leukocyte adhesion	-ap>
+GPIbA	alphaM/beta2 Integrin/GPIbA	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/GPIbA	component>
+alphaM/beta2 Integrin/uPAR/uPA	elevation of cytosolic calcium ion concentration	-ap>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/lipoprotein(a)	component>
+Lipoprotein(a)	alphaM/beta2 Integrin/lipoprotein(a)	component>
+PLAUR	alphaM/beta2 Integrin/uPAR	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/uPAR	component>
+CTGF	alphaM/beta2 Integrin/CTGF	component>
+alphaM/beta2 Integrin	alphaM/beta2 Integrin/CTGF	component>
+alphaM/beta2 Integrin/RAGE/HMGB1	leukocyte adhesion	-ap>
+alphaM/beta2 Integrin/GPIbA	cell adhesion	-ap>

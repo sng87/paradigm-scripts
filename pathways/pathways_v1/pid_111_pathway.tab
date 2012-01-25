@@ -1,0 +1,13 @@
+protein	WNT6
+protein	FZD3
+protein	WNT4
+protein	WNT5A
+protein	WNT11
+protein	FZD6
+complex	Noncanonical Wnts/FZD
+WNT6	Noncanonical Wnts/FZD	component>
+FZD3	Noncanonical Wnts/FZD	component>
+WNT4	Noncanonical Wnts/FZD	component>
+WNT5A	Noncanonical Wnts/FZD	component>
+WNT11	Noncanonical Wnts/FZD	component>
+FZD6	Noncanonical Wnts/FZD	component>

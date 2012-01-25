@@ -1,0 +1,55 @@
+smallMolecule	dGMP
+smallMolecule	dATP
+smallMolecule	XMP
+smallMolecule	H2O
+smallMolecule	GMP
+smallMolecule	dGDP
+complex	nucleoside diphosphate kinase A,B heterohexamer
+smallMolecule	L-Glutamine
+smallMolecule	dAMP
+smallMolecule	L-Glutamate
+smallMolecule	PPi
+smallMolecule	AMP
+smallMolecule	dADP
+smallMolecule	dGTP
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	GDP
+protein	GUK1
+protein	GMPS
+GMPS	AMP	-a>
+nucleoside diphosphate kinase A,B heterohexamer	ADP	-a>
+GUK1	ADP	-a>
+GUK1	GDP	-a>
+L-Glutamine	PPi	-a>
+L-Glutamine	GMP	-a>
+L-Glutamine	L-Glutamate	-a>
+L-Glutamine	AMP	-a>
+ATP	PPi	-a>
+ATP	GMP	-a>
+ATP	L-Glutamate	-a>
+ATP	AMP	-a>
+H2O	PPi	-a>
+H2O	GMP	-a>
+H2O	L-Glutamate	-a>
+H2O	AMP	-a>
+XMP	PPi	-a>
+XMP	GMP	-a>
+XMP	L-Glutamate	-a>
+XMP	AMP	-a>
+dADP	dATP	-a>
+dADP	ADP	-a>
+ATP	dATP	-a>
+dAMP	ADP	-a>
+dAMP	dADP	-a>
+ATP	dADP	-a>
+dGDP	dGTP	-a>
+dGDP	ADP	-a>
+ATP	dGTP	-a>
+ATP	dGDP	-a>
+dGMP	dGDP	-a>
+dGMP	ADP	-a>
+GMP	ADP	-a>
+GMP	GDP	-a>
+ATP	ADP	-a>
+ATP	GDP	-a>

@@ -1,0 +1,96 @@
+protein	ABCG2
+protein	HIF1AN
+protein	EGLN3
+protein	EGLN1
+protein	CITED2
+protein	EPAS1
+protein	EGLN2
+protein	SIRT1
+protein	CREBBP
+protein	FXN
+protein	TWIST1
+protein	TCEB2
+protein	TCEB1
+protein	EP300
+protein	POU5F1
+protein	MMP14
+protein	SLC11A2
+protein	VHL
+protein	KDR
+protein	ADORA2A
+protein	APEX1
+protein	ARNT
+protein	EFNA1
+protein	ELK1
+protein	FLT1
+protein	VEGFA
+protein	ETS1
+protein	SLC2A1
+protein	SP1
+protein	SERPINE1
+protein	EPO
+protein	PGK1
+protein	BHLHE40
+complex	VHL/Elongin B/Elongin C/HIF2A
+complex	VHL/Elongin B/Elongin C
+complex	HIF2A/ARNT/SIRT1
+complex	HIF2A/ARNT/Cbp/p300
+complex	HIF2A/ARNT
+complex	FIH (dimer)
+abstract	response to hypoxia
+abstract	oxygen homeostasis
+abstract	neuron apoptosis
+abstract	germ cell development
+response to hypoxia	CITED2	-ap>
+response to hypoxia	FXN	-ap>
+response to hypoxia	TWIST1	-ap>
+response to hypoxia	ADORA2A	-ap>
+response to hypoxia	SLC2A1	-ap>
+response to hypoxia	HIF2A/ARNT/SIRT1	-ap>
+oxygen homeostasis	EPAS1	-ap>
+HIF1AN	FIH (dimer)	component>
+EGLN3	EPAS1	-a>
+EGLN1	EPAS1	-a>
+EPAS1	VHL/Elongin B/Elongin C/HIF2A	component>
+EPAS1	HIF2A/ARNT/SIRT1	component>
+EPAS1	HIF2A/ARNT/Cbp/p300	component>
+EPAS1	HIF2A/ARNT	component>
+EGLN2	EPAS1	-a>
+SIRT1	HIF2A/ARNT/SIRT1	component>
+CREBBP	HIF2A/ARNT/Cbp/p300	component>
+TCEB2	VHL/Elongin B/Elongin C/HIF2A	component>
+TCEB2	VHL/Elongin B/Elongin C	component>
+TCEB1	VHL/Elongin B/Elongin C/HIF2A	component>
+TCEB1	VHL/Elongin B/Elongin C	component>
+EP300	HIF2A/ARNT/Cbp/p300	component>
+POU5F1	germ cell development	-ap>
+VHL	VHL/Elongin B/Elongin C/HIF2A	component>
+VHL	VHL/Elongin B/Elongin C	component>
+APEX1	HIF2A/ARNT	-a>
+ARNT	HIF2A/ARNT/SIRT1	component>
+ARNT	HIF2A/ARNT/Cbp/p300	component>
+ARNT	HIF2A/ARNT	component>
+ELK1	CITED2	-t>
+ETS1	KDR	-t>
+ETS1	FLT1	-t>
+SP1	MMP14	-t>
+HIF2A/ARNT/SIRT1	EPO	-t>
+HIF2A/ARNT	neuron apoptosis	-ap|
+HIF2A/ARNT	ABCG2	-t>
+HIF2A/ARNT	CITED2	-t>
+HIF2A/ARNT	FXN	-t>
+HIF2A/ARNT	TWIST1	-t>
+HIF2A/ARNT	POU5F1	-t>
+HIF2A/ARNT	MMP14	-t>
+HIF2A/ARNT	SLC11A2	-t>
+HIF2A/ARNT	KDR	-t>
+HIF2A/ARNT	ADORA2A	-t>
+HIF2A/ARNT	EFNA1	-t>
+HIF2A/ARNT	FLT1	-t>
+HIF2A/ARNT	VEGFA	-t>
+HIF2A/ARNT	SLC2A1	-t>
+HIF2A/ARNT	SERPINE1	-t>
+HIF2A/ARNT	EPO	-t>
+HIF2A/ARNT	PGK1	-t>
+HIF2A/ARNT	BHLHE40	-t>
+FIH (dimer)	EPAS1	-a>

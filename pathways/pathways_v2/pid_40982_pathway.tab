@@ -1,0 +1,18 @@
+complex	adenylosuccinate lyase tetramer
+complex	ADP/ATP translocase dimer (generic)
+smallMolecule	Fumarate
+smallMolecule	adenylosuccinate
+smallMolecule	AMP
+smallMolecule	ATP
+smallMolecule	ADP
+protein	AK1
+AK1	ADP	-a>
+ADP/ATP translocase dimer (generic)	ATP	-a>
+adenylosuccinate lyase tetramer	Fumarate	-a>
+AMP	ADP	-a>
+ATP	ADP	-a>
+ATP	ATP	-a>
+ADP	ADP	-a>
+ADP	ATP	-a>
+adenylosuccinate	AMP	-a>
+adenylosuccinate	Fumarate	-a>

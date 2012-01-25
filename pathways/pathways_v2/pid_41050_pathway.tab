@@ -1,0 +1,59 @@
+complex	AP-1 Complex
+complex	Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex
+complex	Arf1-GDP
+complex	Arf1-GTP
+complex	HSC70:Auxillin Complex
+complex	Clathrin
+complex	Lysosome Destined Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex
+protein	UniProt:P50570-1 DNM2
+complex	Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+smallMolecule	GDP
+smallMolecule	GTP
+protein	SH3GL2
+protein	ARRB1
+Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	HSC70:Auxillin Complex	component>
+Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	ARRB1	component>
+Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	Clathrin	component>
+Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	ADP	component>
+Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	phosphate	component>
+Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	AP-1 Complex	component>
+HSC70:Auxillin Complex	HSC70:Auxillin Complex	component>
+HSC70:Auxillin Complex	ARRB1	component>
+HSC70:Auxillin Complex	Clathrin	component>
+HSC70:Auxillin Complex	ADP	component>
+HSC70:Auxillin Complex	phosphate	component>
+HSC70:Auxillin Complex	AP-1 Complex	component>
+ATP	HSC70:Auxillin Complex	component>
+ATP	ARRB1	component>
+ATP	Clathrin	component>
+ATP	ADP	component>
+ATP	phosphate	component>
+ATP	AP-1 Complex	component>
+Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	phosphate	component>
+Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	SH3GL2	component>
+Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	UniProt:P50570-1 DNM2	component>
+Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	component>
+Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	GDP	component>
+GTP	phosphate	component>
+GTP	SH3GL2	component>
+GTP	UniProt:P50570-1 DNM2	component>
+GTP	Lysosome Cargo:AP-1:Beta-arrestin:Clathrin Triskelion:Vamp Complex	component>
+GTP	GDP	component>
+UniProt:P50570-1 DNM2	Arf1-GDP	component>
+UniProt:P50570-1 DNM2	Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+UniProt:P50570-1 DNM2	phosphate	component>
+Clathrin	Arf1-GDP	component>
+Clathrin	Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+Clathrin	phosphate	component>
+Lysosome Destined Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	Arf1-GDP	component>
+Lysosome Destined Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+Lysosome Destined Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	phosphate	component>
+SH3GL2	Arf1-GDP	component>
+SH3GL2	Lysosome Destined Cargo:AP-1:Beta-arrestin:Vamp:Clathrin Triskelion:Dynamin:Endophilin Complex	component>
+SH3GL2	phosphate	component>
+ARRB1	Lysosome Destined Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	component>
+AP-1 Complex	Lysosome Destined Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	component>
+Arf1-GTP	Lysosome Destined Cargo:AP-1:Arf1-GTP:beta-Arrestin-1:Vamp Complex	component>

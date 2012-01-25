@@ -1,0 +1,27 @@
+complex	G-protein alpha (q):GRK2
+smallMolecule	1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+complex	G-protein alpha (q):PI3K alpha
+protein	PLC-beta
+complex	PLC beta:G alpha (q)
+smallMolecule	1,2-Diacylglycerol
+complex	G-protein alpha (q):GRK5
+complex	G-protein alpha (q): GTP
+complex	PI3K alpha
+complex	G-protein alpha (q):Trio family RhoGEFs
+complex	G-protein alpha (q):GDP
+smallMolecule	IP3
+protein	GRK5
+protein	ADRBK1
+PLC beta:G alpha (q)	IP3	-a>
+G-protein alpha (q): GTP	G-protein alpha (q):GDP	-a>
+PLC-beta	PLC beta:G alpha (q)	component>
+G-protein alpha (q): GTP	PLC beta:G alpha (q)	component>
+ADRBK1	G-protein alpha (q):GRK2	component>
+G-protein alpha (q): GTP	G-protein alpha (q):GRK2	component>
+G-protein alpha (q): GTP	G-protein alpha (q):Trio family RhoGEFs	-a>
+GRK5	G-protein alpha (q):GRK5	component>
+G-protein alpha (q): GTP	G-protein alpha (q):GRK5	component>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	1,2-Diacylglycerol	-a>
+1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate	IP3	-a>
+G-protein alpha (q): GTP	G-protein alpha (q):PI3K alpha	component>
+PI3K alpha	G-protein alpha (q):PI3K alpha	component>

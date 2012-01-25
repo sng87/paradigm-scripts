@@ -1,0 +1,23 @@
+smallMolecule	D-Xylulose 5-phosphate
+complex	pPF2K-Pase complex
+smallMolecule	Neuberg ester
+smallMolecule	D-Fructose 2,6-bisphosphate
+complex	PP2A-ABdeltaC complex
+complex	PF2K-Pase1 homodimer
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	MLXIPL
+PP2A-ABdeltaC complex	phosphate	-a>
+D-Xylulose 5-phosphate	ADP	-a>
+PF2K-Pase1 homodimer	ADP	-a>
+D-Fructose 2,6-bisphosphate	ADP	-a>
+PP2A-ABdeltaC complex	MLXIPL	-a>
+MLXIPL	MLXIPL	-a>
+MLXIPL	phosphate	-a>
+pPF2K-Pase complex	PF2K-Pase1 homodimer	-a>
+pPF2K-Pase complex	phosphate	-a>
+Neuberg ester	D-Fructose 2,6-bisphosphate	-a>
+Neuberg ester	ADP	-a>
+ATP	D-Fructose 2,6-bisphosphate	-a>
+ATP	ADP	-a>

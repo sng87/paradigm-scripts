@@ -1,0 +1,13 @@
+complex	Mitotic checkpoint complex
+complex	anaphase promoting complex (APC/C)
+complex	MCC:APC/C complex
+protein	UniProt:O60566 BUB1B
+protein	MAD2L1
+protein	CDC20
+protein	BUB3
+BUB3	Mitotic checkpoint complex	component>
+UniProt:O60566 BUB1B	Mitotic checkpoint complex	component>
+CDC20	Mitotic checkpoint complex	component>
+MAD2L1	Mitotic checkpoint complex	component>
+anaphase promoting complex (APC/C)	MCC:APC/C complex	component>
+Mitotic checkpoint complex	MCC:APC/C complex	component>

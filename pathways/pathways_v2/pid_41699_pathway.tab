@@ -1,0 +1,21 @@
+complex	Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)
+complex	phospho-Cdc25C:14-3-3 protein complex
+complex	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)
+protein	UniProt:O14757 CHEK1
+smallMolecule	ATP
+smallMolecule	ADP
+protein	WEE1
+protein	CDC25C
+UniProt:O14757 CHEK1	ADP	-a>
+ATP	WEE1	-a>
+WEE1	WEE1	-a>
+WEE1	ADP	-a>
+phospho-Cdc25C:14-3-3 protein complex	phospho-Cdc25C:14-3-3 protein complex	-a>
+CDC25C	phospho-Cdc25C:14-3-3 protein complex	component>
+ATP	CDC25C	-a>
+CDC25C	CDC25C	-a>
+CDC25C	ADP	-a>
+ATP	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+ATP	ADP	-a>
+Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	Cyclin B1:phospho-Cdc2(Thr 161, Thr 14, Tyr 15)	-a>
+Cyclin B1:phospho-Cdc2 (Thr 14, Thr 161)	ADP	-a>

@@ -1,0 +1,91 @@
+complex	Ach R/G-alpha-q/G-beta/G-gamma
+complex	PDE III
+smallMolecule	cCMP
+complex	NOS III/Caveolin-1
+protein	guanylate cyclase
+complex	CaM/Ca ++
+complex	PKA
+complex	Ach/Ach R/G-alpha-q/G-beta/G-gamma
+protein	bradykinin
+complex	bradykinin/Bradykinin receptor B2
+protein	PKG
+protein	CaM
+protein	VEGF
+protein	VEGF R
+complex	VEGF/VEGF R
+smallMolecule	PIP2
+smallMolecule	K+
+smallMolecule	AMP
+smallMolecule	DAG
+smallMolecule	L-arginine
+smallMolecule	L-citrulline
+smallMolecule	ACh
+smallMolecule	cGMP
+smallMolecule	NO
+complex	PI3K
+smallMolecule	Ca2+
+smallMolecule	IP3
+smallMolecule	PIP3
+smallMolecule	GTP
+protein	TNNI1
+protein	SLC7A1
+protein	RYR2
+protein	PLN
+protein	PLCG1
+protein	PDPK1
+protein	PDE2A
+protein	NOS3
+protein	HSPCA
+protein	CAV1
+protein	BDKRB2
+protein	AKT1
+PDE III	AMP	-a>
+NOS3	L-citrulline	-a>
+PI3K	PIP3	-a>
+PKG	Ca2+	-a|
+PKA	Ca2+	-a>
+PLCG1	DAG	-a>
+AKT1	NOS3	component>
+CaM/Ca ++	NOS3	component>
+guanylate cyclase	cGMP	-a>
+PDE2A	AMP	-a>
+bradykinin/Bradykinin receptor B2	NOS3	-a|
+HSPCA	NOS3	-a>
+RYR2	Ca2+	-a>
+K+	PI3K	-a>
+Ach/Ach R/G-alpha-q/G-beta/G-gamma	PLCG1	-a>
+L-arginine	L-citrulline	-a>
+VEGF R	VEGF/VEGF R	component>
+VEGF	VEGF/VEGF R	component>
+NOS3	NO	-t>
+cGMP	PDE2A	-a>
+PIP2	PIP3	-a>
+CaM	CaM/Ca ++	component>
+Ca2+	CaM/Ca ++	component>
+BDKRB2	bradykinin/Bradykinin receptor B2	component>
+bradykinin	bradykinin/Bradykinin receptor B2	component>
+PKG	PLN	-a>
+NO	Ca2+	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+cGMP	PDE III	-a>
+NOS III/Caveolin-1	NOS3	component>
+K+	K+	-a>
+Ca2+	Ca2+	-a>
+NO	guanylate cyclase	-a>
+SLC7A1	L-arginine	-a>
+GTP	cGMP	-a>
+cCMP	PKA	-a>
+Ach R/G-alpha-q/G-beta/G-gamma	Ach/Ach R/G-alpha-q/G-beta/G-gamma	-a>
+ACh	Ach/Ach R/G-alpha-q/G-beta/G-gamma	-a>
+cCMP	AMP	-a>
+PDPK1	AKT1	-a>
+CaM/Ca ++	NOS3	-a>
+cGMP	PKG	-a>
+NO	NO	-a>
+IP3	Ca2+	-a>
+CAV1	NOS III/Caveolin-1	component>
+NOS3	NOS III/Caveolin-1	component>
+PIP3	PDPK1	-a>
+VEGF/VEGF R	PI3K	-a>
+PKG	TNNI1	-a>

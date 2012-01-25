@@ -1,0 +1,182 @@
+abstract	positive regulation of MAPKKK cascade
+abstract	cell cycle arrest
+abstract	cell survival
+abstract	actin cytoskeleton reorganization
+abstract	cell migration
+abstract	chemotaxis
+abstract	cell proliferation
+abstract	MAPKKK cascade
+smallMolecule	DAG
+complex	PLCgamma1/SPHK1
+complex	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB
+complex	PDGFB-D/PDGFRB/DEP1
+complex	NCK1-2/p130 Cas
+complex	PDGFB-D/PDGFRB/SLAP
+protein	Src Family Kinases
+complex	NHERF1-2/PDGFRB/PTEN
+protein	PKC
+smallMolecule	Sphingosine-1-phosphate
+complex	S1P1/Sphingosine-1-phosphate
+complex	Bovine Papilomavirus E5/PDGFRB
+complex	PDGFB-D/PDGFRB/GRB10
+complex	PDGFB-D/PDGFRB/CBL
+complex	PDGFB-D/PDGFRB/GRB7/SHC
+complex	PDGFB-D/PDGFRB/LMW-PTP
+complex	PDGFB-D/PDGFRB/APS/CBL
+protein	NHERF1-2
+complex	NHERF/PDGFRB
+complex	p62DOK/Csk
+complex	LRP1/PDGFRB/PDGFB
+complex	HRAS/GDP
+complex	HRAS/GTP
+protein	TCPTP p45
+protein	Bovine Papilomavirus E5
+protein	Src Family Kinases-active
+protein	APS
+complex	PDGFB-D/PDGFRB/GRB7
+complex	SHC/GRB2/SOS1
+complex	PDGFB-D/PDGFRB/SHB
+complex	PDGFB-D/PDGFRB/SNX15
+protein	STAT1-3-5
+complex	STAT1-3-5/STAT1-3-5
+protein	S1P1
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	sphingosine
+smallMolecule	Ca2+
+complex	PDGFB-D/PDGFRB/SHP2
+smallMolecule	IP3
+complex	PDGFB-D
+complex	PDGFB-D/PDGFRB
+protein	PKC delta
+protein	p130 Cas
+protein	SHP2
+protein	NCK1-2
+protein	VAV2
+protein	SPHK1
+protein	SNX15
+protein	SLA
+protein	SHC1
+protein	SHB
+protein	RASA1
+protein	RAC1
+protein	PTPRJ
+protein	PTPN1
+protein	PTEN
+protein	PLCG1
+protein	PDGFRB
+protein	PDGFB
+protein	MYC
+protein	LRP1
+protein	HIF1A
+protein	GRB7
+protein	GRB10
+protein	GAB1
+protein	FER
+protein	DOK1
+protein	DNM2
+protein	CSK
+protein	CBL
+protein	AKT1
+protein	ACP1
+protein	ABL1
+TCPTP p45	PDGFB-D/PDGFRB	-a>
+Ca2+	PKC	-a>
+PLCG1	DAG	-a>
+RASA1	HRAS/GDP	-a>
+PDGFB-D/PDGFRB	STAT1-3-5/STAT1-3-5	component>
+p62DOK/Csk	Src Family Kinases	-a|
+PDGFB-D/PDGFRB	Src Family Kinases-active	-a>
+PLCgamma1/SPHK1	Sphingosine-1-phosphate	-a>
+PLCG1	ABL1	-a>
+PDGFB-D/PDGFRB	NCK1-2/p130 Cas	component>
+NHERF1-2/PDGFRB/PTEN	PI3K	-a|
+PDGFB-D/PDGFRB	PLCG1	-a|
+PTPN1	PDGFB-D/PDGFRB	-a>
+PDGFB-D/PDGFRB	GAB1	-a>
+Src Family Kinases-active	PDGFB-D/PDGFRB/CBL	component>
+S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	Src Family Kinases-active	-a>
+CSK	p62DOK/Csk	component>
+DOK1	p62DOK/Csk	component>
+GRB7	PDGFB-D/PDGFRB/GRB7	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/GRB7	component>
+PDGFB-D/PDGFRB	DOK1	-a>
+PTEN	NHERF1-2/PDGFRB/PTEN	component>
+NHERF/PDGFRB	NHERF1-2/PDGFRB/PTEN	component>
+PTPRJ	PDGFB-D/PDGFRB/DEP1	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/DEP1	component>
+HRAS/GDP	MAPKKK cascade	-ap|
+DAG	PKC	-a>
+ABL1	PLCG1	-a>
+PDGFB-D/PDGFRB	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	component>
+S1P1/Sphingosine-1-phosphate	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	component>
+AKT1	HIF1A	-a>
+PDGFB-D/PDGFRB	RASA1	-a>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/SLAP	component>
+SLA	PDGFB-D/PDGFRB/SLAP	component>
+CBL	PDGFB-D/PDGFRB/APS/CBL	component>
+APS	PDGFB-D/PDGFRB/APS/CBL	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/APS/CBL	component>
+S1P1	S1P1/Sphingosine-1-phosphate	component>
+Sphingosine-1-phosphate	S1P1/Sphingosine-1-phosphate	component>
+HRAS/GTP	HRAS/GDP	-a>
+PDGFB-D/PDGFRB/SLAP	cell cycle arrest	-ap>
+IP3	Ca2+	-a>
+Bovine Papilomavirus E5	Bovine Papilomavirus E5/PDGFRB	component>
+PDGFRB	Bovine Papilomavirus E5/PDGFRB	component>
+PI-4-5-P2	ABL1	-a>
+SNX15	PDGFB-D/PDGFRB/SNX15	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/SNX15	component>
+STAT1-3-5	STAT1-3-5/STAT1-3-5	component>
+SHC/GRB2/SOS1	MAPKKK cascade	-ap>
+PDGFB-D/PDGFRB	FER	-a>
+PLCG1	PLCgamma1/SPHK1	component>
+SPHK1	PLCgamma1/SPHK1	component>
+ACP1	PDGFB-D/PDGFRB/LMW-PTP	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/LMW-PTP	component>
+Src Family Kinases-active	Src Family Kinases	-a>
+ABL1	chemotaxis	-ap>
+PDGFB-D/PDGFRB	PKC delta	-a>
+PDGFB-D/PDGFRB/SHB	actin cytoskeleton reorganization	-ap>
+sphingosine	Sphingosine-1-phosphate	-a>
+Src Family Kinases-active	VAV2	-a>
+Src Family Kinases-active	ABL1	-a>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/SHB	component>
+SHB	PDGFB-D/PDGFRB/SHB	component>
+Bovine Papilomavirus E5/PDGFRB	PI3K	-a>
+SHP2	PDGFB-D/PDGFRB/SHP2	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/SHP2	component>
+PDGFRB	PDGFB-D/PDGFRB	component>
+PDGFB-D	PDGFB-D/PDGFRB	component>
+NCK1-2/p130 Cas	actin cytoskeleton reorganization	-ap>
+VAV2	RAC1	-a>
+PDGFB-D/PDGFRB	SHC/GRB2/SOS1	-a>
+HIF1A	cell survival	-ap>
+DNM2	S1P1/Sphingosine-1-phosphate/PDGFB-D/PDGFRB	-a>
+p130 Cas	NCK1-2/p130 Cas	component>
+NCK1-2	NCK1-2/p130 Cas	component>
+PDGFB-D/PDGFRB/SHP2	positive regulation of MAPKKK cascade	-ap>
+PDGFB-D/PDGFRB	PI3K	-a>
+PDGFB-D/PDGFRB	PLCG1	-a>
+PDGFB	LRP1/PDGFRB/PDGFB	component>
+LRP1	LRP1/PDGFRB/PDGFB	component>
+PDGFRB	LRP1/PDGFRB/PDGFB	component>
+GAB1	DNM2	-a>
+PDGFRB	NHERF/PDGFRB	component>
+NHERF1-2	NHERF/PDGFRB	component>
+RAC1	MYC	-t>
+NHERF/PDGFRB	cell migration	-ap>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB	-a>
+Src Family Kinases-active	GAB1	-a>
+MYC	cell proliferation	-ap>
+GRB10	PDGFB-D/PDGFRB/GRB10	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/GRB10	component>
+CBL	PDGFB-D/PDGFRB/CBL	component>
+PDGFB-D/PDGFRB	PDGFB-D/PDGFRB/CBL	component>
+PI3K	AKT1	-a>
+Src Family Kinases	Src Family Kinases-active	-a>
+Bovine Papilomavirus E5/PDGFRB	PLCG1	-a>
+SHC1	PDGFB-D/PDGFRB/GRB7/SHC	component>
+PDGFB-D/PDGFRB/GRB7	PDGFB-D/PDGFRB/GRB7/SHC	component>

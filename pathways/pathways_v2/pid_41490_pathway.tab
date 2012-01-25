@@ -1,0 +1,5 @@
+protein	GYG2
+protein	GYG1
+protein	GBE1
+GBE1	GYG1	-a>
+GBE1	GYG2	-a>

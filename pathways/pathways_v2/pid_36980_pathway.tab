@@ -1,0 +1,129 @@
+abstract	skeletal system development
+abstract	pancreas development
+abstract	dorsoventral neural tube patterning
+abstract	heart development
+abstract	heart looping
+abstract	mesenchymal cell differentiation
+abstract	receptor-mediated endocytosis
+abstract	somite specification
+abstract	catabolic process
+abstract	determination of left/right symmetry
+complex	DHH N/Hhip
+complex	DHH N/PTCH2
+complex	Megalin/LRPAP1
+complex	SHH Np/Cholesterol/GAS1
+complex	DHH N/PTCH1
+complex	SHH Np/Cholesterol/Hhip
+complex	SHH Np/Cholesterol/PTCH1
+complex	SHH Np/Cholesterol
+complex	SMO/Vitamin D3
+complex	SHH Np/Cholesterol/PTCH2
+smallMolecule	Vitamin D3
+complex	SHH Np/Cholesterol/CDO
+complex	SMO/beta Arrestin2
+complex	IHH N/Hhip
+complex	IHH N/PTCH2
+protein	GLI3R
+complex	SHH Np/Cholesterol/BOC
+protein	Dnchc2
+complex	PI3K
+protein	GLI2A
+complex	IHH N/PTCH1
+smallMolecule	Cholesterol
+complex	SHH Np/Cholesterol/Megalin
+protein	TGFB2
+protein	STIL
+protein	SMO
+protein	SHH
+protein	PTHLH
+protein	PTCH2
+protein	PTCH1
+protein	LRPAP1
+protein	LRP2
+protein	IHH
+protein	HHIP
+protein	HHAT
+protein	GLI2
+protein	GAS1
+protein	DISP1
+protein	DHH
+protein	CDON
+protein	BOC
+protein	ARRB2
+protein	AKT1
+protein	ADRBK1
+GLI3R	PTCH1	-t|
+PTCH1	SMO/Vitamin D3	component>
+Dnchc2	SMO	component>
+GLI3R	PTHLH	-t|
+SHH Np/Cholesterol/CDO	GLI2A	-a>
+IHH N/PTCH1	SMO	component>
+PI3K	AKT1	-a>
+SHH Np/Cholesterol/PTCH1	SMO	component>
+HHAT	SHH Np/Cholesterol	component>
+IHH N/PTCH1	PTCH1	-t>
+SHH Np/Cholesterol/PTCH1	receptor-mediated endocytosis	-ap>
+HHIP	IHH N/Hhip	component>
+IHH	IHH N/Hhip	component>
+PTCH2	DHH N/PTCH2	component>
+DHH	DHH N/PTCH2	component>
+PTHLH	skeletal system development	-ap>
+IHH N/PTCH1	TGFB2	-t>
+SHH Np/Cholesterol/Hhip	mesenchymal cell differentiation	-ap|
+TGFB2	PTHLH	-t>
+HHIP	pancreas development	-ap>
+SHH Np/Cholesterol/PTCH1	STIL	-a>
+PTCH1	IHH N/PTCH1	component>
+IHH	IHH N/PTCH1	component>
+SHH Np/Cholesterol/GAS1	dorsoventral neural tube patterning	-ap|
+Vitamin D3	SMO/Vitamin D3	component>
+SMO	SMO/Vitamin D3	component>
+PTCH1	SHH Np/Cholesterol/PTCH1	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/PTCH1	component>
+SMO/beta Arrestin2	ARRB2	component>
+SMO/beta Arrestin2	SMO	component>
+LRPAP1	Megalin/LRPAP1	component>
+LRPAP1	SHH Np/Cholesterol/Megalin	component>
+LRP2	Megalin/LRPAP1	component>
+LRP2	SHH Np/Cholesterol/Megalin	component>
+SHH Np/Cholesterol	Megalin/LRPAP1	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/Megalin	component>
+IHH N/PTCH1	PTHLH	-t>
+PTCH2	SHH Np/Cholesterol/PTCH2	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/PTCH2	component>
+GLI2	GLI2A	-a>
+BOC	SHH Np/Cholesterol/BOC	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/BOC	component>
+SMO	heart development	-ap>
+SMO	AKT1	-a>
+PTCH1	DHH N/PTCH1	component>
+DHH	DHH N/PTCH1	component>
+CDON	SHH Np/Cholesterol/CDO	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/CDO	component>
+SHH Np/Cholesterol/PTCH1	SHH Np/Cholesterol	component>
+SHH Np/Cholesterol/PTCH1	PTCH1	component>
+SMO/Vitamin D3	Vitamin D3	component>
+SMO/Vitamin D3	SMO	component>
+SMO/beta Arrestin2	receptor-mediated endocytosis	-ap>
+SMO	heart looping	-ap>
+GAS1	SHH Np/Cholesterol/GAS1	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/GAS1	component>
+SHH Np/Cholesterol/Megalin	receptor-mediated endocytosis	-ap>
+PTCH2	IHH N/PTCH2	component>
+IHH	IHH N/PTCH2	component>
+SMO	somite specification	-ap>
+ARRB2	SMO/beta Arrestin2	component>
+SMO	SMO/beta Arrestin2	component>
+DISP1	SHH Np/Cholesterol	-a>
+PTCH1	catabolic process	-ap>
+HHIP	SHH Np/Cholesterol/Hhip	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/Hhip	component>
+HHIP	DHH N/Hhip	component>
+DHH	DHH N/Hhip	component>
+Cholesterol	SHH	component>
+Cholesterol	SHH Np/Cholesterol	component>
+SHH	SHH	component>
+SHH	SHH Np/Cholesterol	component>
+SMO	determination of left/right symmetry	-ap>
+PTCH1	PTCH1	-a>
+ADRBK1	SMO	-a>

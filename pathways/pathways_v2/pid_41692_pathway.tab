@@ -1,0 +1,55 @@
+complex	synaptic vesicle
+smallMolecule	CoA
+complex	SNARE complex
+complex	Rab3-RIM complex
+protein	UniProt:P60880-1 SNAP25
+protein	UniProt:P61764-1 STXBP1
+protein	UniProt:Q16623-3 STX1A
+complex	Docked acetylcholine loaded Synaptic Vesicle
+smallMolecule	Acetyl-CoA
+smallMolecule	O-acetylcholine
+complex	Acetylcholine Loaded Synaptic Vesicle
+protein	UniProt:Q16572 SLC18A3
+smallMolecule	H+
+smallMolecule	ATP
+smallMolecule	ADP
+smallMolecule	Na+
+smallMolecule	Choline
+protein	SYT1
+protein	SLC5A7
+protein	RIMS1
+protein	CPLX1
+protein	CHAT
+CHAT	CoA	-a>
+SLC5A7	Na+	-a>
+UniProt:Q16572 SLC18A3	Acetylcholine Loaded Synaptic Vesicle	-a>
+Acetyl-CoA	O-acetylcholine	-a>
+Acetyl-CoA	CoA	-a>
+Choline	O-acetylcholine	-a>
+Choline	CoA	-a>
+Docked acetylcholine loaded Synaptic Vesicle	SNARE complex	component>
+Docked acetylcholine loaded Synaptic Vesicle	CPLX1	component>
+Docked acetylcholine loaded Synaptic Vesicle	SYT1	component>
+Docked acetylcholine loaded Synaptic Vesicle	UniProt:P61764-1 STXBP1	component>
+Docked acetylcholine loaded Synaptic Vesicle	Rab3-RIM complex	component>
+Docked acetylcholine loaded Synaptic Vesicle	O-acetylcholine	component>
+Docked acetylcholine loaded Synaptic Vesicle	UniProt:Q16572 SLC18A3	component>
+Na+	Choline	-a>
+Na+	Na+	-a>
+Choline	Choline	-a>
+Choline	Na+	-a>
+RIMS1	Docked acetylcholine loaded Synaptic Vesicle	component>
+UniProt:Q16623-3 STX1A	Docked acetylcholine loaded Synaptic Vesicle	component>
+UniProt:P60880-1 SNAP25	Docked acetylcholine loaded Synaptic Vesicle	component>
+Acetylcholine Loaded Synaptic Vesicle	Docked acetylcholine loaded Synaptic Vesicle	component>
+CPLX1	Docked acetylcholine loaded Synaptic Vesicle	component>
+UniProt:P61764-1 STXBP1	Docked acetylcholine loaded Synaptic Vesicle	component>
+H+	Acetylcholine Loaded Synaptic Vesicle	-a>
+O-acetylcholine	H+	-a>
+O-acetylcholine	Acetylcholine Loaded Synaptic Vesicle	-a>
+synaptic vesicle	H+	-a>
+synaptic vesicle	Acetylcholine Loaded Synaptic Vesicle	-a>
+ATP	ADP	-a>
+ATP	H+	-a>
+H+	ADP	-a>
+H+	H+	-a>

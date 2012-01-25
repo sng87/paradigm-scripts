@@ -1,0 +1,37 @@
+abstract	skeletal system development
+abstract	embryonic digit morphogenesis
+abstract	degradation
+abstract	apoptosis
+abstract	kidney development
+complex	GPC3 heterodimer
+protein	Non-canonical Wnts
+protein	JNK1-2-active
+complex	SHH Np/Cholesterol/PTCH1
+protein	JNK1-2
+complex	SHH Np/Cholesterol
+complex	SHH Np/Cholesterol/GPC3
+protein	PTCH1
+protein	GPC3
+protein	FURIN
+protein	FGF7
+protein	BMP4
+GPC3	skeletal system development	-ap>
+FURIN	GPC3 heterodimer	component>
+GPC3	embryonic digit morphogenesis	-ap>
+GPC3 heterodimer	JNK1-2-active	-a>
+GPC3	kidney development	-ap>
+BMP4	skeletal system development	-ap>
+GPC3 heterodimer	Non-canonical Wnts	-a>
+SHH Np/Cholesterol/GPC3	degradation	-ap>
+GPC3	GPC3 heterodimer	component>
+SHH Np/Cholesterol/GPC3	SHH Np/Cholesterol/GPC3	-a>
+GPC3	SHH Np/Cholesterol/PTCH1	component>
+GPC3	SHH Np/Cholesterol/GPC3	component>
+PTCH1	SHH Np/Cholesterol/PTCH1	component>
+PTCH1	SHH Np/Cholesterol/GPC3	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/PTCH1	component>
+SHH Np/Cholesterol	SHH Np/Cholesterol/GPC3	component>
+BMP4	embryonic digit morphogenesis	-ap>
+JNK1-2-active	apoptosis	-ap>
+JNK1-2	JNK1-2-active	-a>
+FGF7	kidney development	-ap>

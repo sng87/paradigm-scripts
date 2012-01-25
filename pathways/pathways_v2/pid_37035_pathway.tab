@@ -1,0 +1,226 @@
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	BMP2-4/FETUA
+complex	BMP2-4/BMPR2/BMPR1A-1B/RGM/FS
+complex	BMPR1A-1B/BAMBI
+complex	SMAD5/SKI
+complex	BMP7/USAG1
+complex	SMAD1/SMAD6
+complex	SMAD1/SMURF2
+complex	BMP2-4/GREM1
+complex	SMAD5/SMAD5/SMAD4
+complex	BMPR1A-1B (homodimer)
+complex	BMP2-4 (homodimer)
+complex	BMP2-4/BMPR2/BMPR1A-1B/RGM/SMAD7/SMURF1
+complex	ENDOFIN/SMAD1
+protein	FETUA
+complex	BMP6/FETUA
+complex	BMP6 (homodimer)
+complex	BMP2-4/BMPR2/BMPR1A-1B/RGM
+complex	SMAD7/SMURF1
+complex	GADD34/PP1CA
+complex	SMAD8A/SMAD8A/SMAD4
+complex	BMP2-4/CHRDL1
+complex	TAK1/SMAD6
+complex	SMAD1/SMAD1/SMAD4
+protein	SCP1-3
+complex	BMP2-4/NOG
+complex	BMP2-4/USAG1
+complex	BMP2-4/CHRD
+complex	BMP6/BMPR2/BMPR1A-1B
+complex	BMPR2 (homodimer)
+complex	TAK1/TAB family
+complex	BMP2-4/BMPR2/BMPR1A-1B/RGM/XIAP
+complex	BMP2-4/CER1
+complex	BMP7/BMPR2/BMPR1A-1B
+complex	BMP7 (dimer)
+complex	SMAD6/SMURF1
+complex	SMAD6-7/SMURF1/SMAD1
+complex	BMP7/BMPR2/BMPR1A-1B/SMAD6/SMURF1
+protein	RGM family
+complex	BMP2-4/BMPR2/BMPR1A-1B/RGM/ENDOFIN/GADD34/PP1CA
+complex	BMP7/BMPR2/BMPR1A-1B/FS
+complex	SMAD1/SKI
+complex	SMAD6-7/SMURF1
+complex	SMAD6/SMURF1/SMAD5
+protein	XIAP
+protein	SOSTDC1
+protein	SMURF2
+protein	SMAD9
+protein	SMAD6
+protein	SMAD5
+protein	SMAD4
+protein	SMAD1
+protein	SKI
+protein	PPM1A
+protein	NUP214
+protein	NOG
+protein	MAPK1
+protein	GSK3B
+protein	GREM1
+protein	FST
+protein	CHRDL1
+protein	CHRD
+protein	CER1
+protein	BAMBI
+SMAD6-7/SMURF1/SMAD1	SMAD1/SMAD1/SMAD4	-a|
+TAK1/SMAD6	TAK1/TAB family	-a|
+BMP2-4/BMPR2/BMPR1A-1B/RGM/XIAP	TAK1/TAB family	-a>
+GSK3B	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+SMAD1/SMURF2	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+BMP2-4/BMPR2/BMPR1A-1B/RGM	SMAD5	-a>
+SMAD8A/SMAD8A/SMAD4	SMAD8A/SMAD8A/SMAD4	-a>
+SMAD6	SMAD1/SMAD6	component>
+SMAD6	SMAD1/SMAD1/SMAD4	component>
+SMAD4	SMAD1/SMAD6	component>
+SMAD4	SMAD1/SMAD1/SMAD4	component>
+SMAD1	SMAD1/SMAD6	component>
+SMAD1	SMAD1/SMAD1/SMAD4	component>
+GREM1	BMP2-4/GREM1	component>
+GREM1	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+GREM1	BMPR1A-1B/BAMBI	component>
+RGM family	BMP2-4/GREM1	component>
+BAMBI	BMP2-4/GREM1	component>
+BMPR1A-1B (homodimer)	BMP2-4/GREM1	component>
+BMPR2 (homodimer)	BMP2-4/GREM1	component>
+BMP2-4 (homodimer)	BMP2-4/GREM1	component>
+SKI	SMAD1/SKI	component>
+SMAD1	SMAD1/SKI	component>
+SMAD6/SMURF1/SMAD5	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+FST	BMP2-4/BMPR2/BMPR1A-1B/RGM/FS	component>
+FST	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+RGM family	BMP2-4/BMPR2/BMPR1A-1B/RGM/FS	component>
+BAMBI	BMP2-4/BMPR2/BMPR1A-1B/RGM/FS	component>
+BMPR1A-1B (homodimer)	BMP2-4/BMPR2/BMPR1A-1B/RGM/FS	component>
+BMPR2 (homodimer)	BMP2-4/BMPR2/BMPR1A-1B/RGM/FS	component>
+BMP2-4 (homodimer)	BMP2-4/BMPR2/BMPR1A-1B/RGM/FS	component>
+FETUA	BMP6/FETUA	component>
+FETUA	BMP6/BMPR2/BMPR1A-1B	component>
+BAMBI	BMP6/FETUA	component>
+BAMBI	BMP6/BMPR2/BMPR1A-1B	component>
+BMPR1A-1B (homodimer)	BMP6/FETUA	component>
+BMPR1A-1B (homodimer)	BMP6/BMPR2/BMPR1A-1B	component>
+BMPR2 (homodimer)	BMP6/FETUA	component>
+BMPR2 (homodimer)	BMP6/BMPR2/BMPR1A-1B	component>
+BMP6 (homodimer)	BMP6/FETUA	component>
+BMP6 (homodimer)	BMP6/BMPR2/BMPR1A-1B	component>
+BMP6 (homodimer)	BMPR1A-1B/BAMBI	component>
+NUP214	SMAD1/SMAD1/SMAD4	-a>
+CHRDL1	BMP2-4/CHRDL1	component>
+CHRDL1	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+CHRDL1	BMPR1A-1B/BAMBI	component>
+RGM family	BMP2-4/CHRDL1	component>
+BAMBI	BMP2-4/CHRDL1	component>
+BMPR1A-1B (homodimer)	BMP2-4/CHRDL1	component>
+BMPR2 (homodimer)	BMP2-4/CHRDL1	component>
+BMP2-4 (homodimer)	BMP2-4/CHRDL1	component>
+SOSTDC1	BMP7/USAG1	component>
+SOSTDC1	BMP7/BMPR2/BMPR1A-1B	component>
+BAMBI	BMP7/USAG1	component>
+BMPR1A-1B (homodimer)	BMP7/USAG1	component>
+BMPR2 (homodimer)	BMP7/USAG1	component>
+BMP7 (dimer)	BMP7/USAG1	component>
+SMURF2	SMAD1/SMURF2	component>
+SMAD1	SMAD1/SMURF2	component>
+TAK1/TAB family	TAK1/TAB family	-a>
+CHRD	BMP2-4/CHRD	component>
+CHRD	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+CHRD	BMPR1A-1B/BAMBI	component>
+RGM family	BMP2-4/CHRD	component>
+BAMBI	BMP2-4/CHRD	component>
+BMPR1A-1B (homodimer)	BMP2-4/CHRD	component>
+BMPR2 (homodimer)	BMP2-4/CHRD	component>
+BMP2-4 (homodimer)	BMP2-4/CHRD	component>
+SMAD6/SMURF1	SMAD6/SMURF1/SMAD5	component>
+SMAD5	SMAD6/SMURF1/SMAD5	component>
+FST	BMP7/BMPR2/BMPR1A-1B/FS	component>
+FST	BMP7/BMPR2/BMPR1A-1B	component>
+FST	BMPR1A-1B/BAMBI	component>
+BAMBI	BMP7/BMPR2/BMPR1A-1B/FS	component>
+BAMBI	BMP7/BMPR2/BMPR1A-1B	component>
+BMPR1A-1B (homodimer)	BMP7/BMPR2/BMPR1A-1B/FS	component>
+BMPR1A-1B (homodimer)	BMP7/BMPR2/BMPR1A-1B	component>
+BMPR2 (homodimer)	BMP7/BMPR2/BMPR1A-1B/FS	component>
+BMPR2 (homodimer)	BMP7/BMPR2/BMPR1A-1B	component>
+BMP7 (dimer)	BMP7/BMPR2/BMPR1A-1B/FS	component>
+BMP7 (dimer)	BMP7/BMPR2/BMPR1A-1B	component>
+BMP7 (dimer)	BMPR1A-1B/BAMBI	component>
+SMAD4	SMAD5/SMAD5/SMAD4	component>
+SMAD5	SMAD5/SMAD5/SMAD4	component>
+PPM1A	SMAD5	-a>
+FETUA	BMP2-4/FETUA	component>
+FETUA	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+FETUA	BMPR1A-1B/BAMBI	component>
+RGM family	BMP2-4/FETUA	component>
+BAMBI	BMP2-4/FETUA	component>
+BMPR1A-1B (homodimer)	BMP2-4/FETUA	component>
+BMPR2 (homodimer)	BMP2-4/FETUA	component>
+BMP2-4 (homodimer)	BMP2-4/FETUA	component>
+GADD34/PP1CA	SMAD1	component>
+GADD34/PP1CA	BMP2-4/BMPR2/BMPR1A-1B/RGM/ENDOFIN/GADD34/PP1CA	component>
+ENDOFIN/SMAD1	SMAD1	component>
+ENDOFIN/SMAD1	BMP2-4/BMPR2/BMPR1A-1B/RGM/ENDOFIN/GADD34/PP1CA	component>
+BMP2-4/BMPR2/BMPR1A-1B/RGM	BMP2-4/BMPR2/BMPR1A-1B/RGM/ENDOFIN/GADD34/PP1CA	component>
+SMAD6-7/SMURF1	SMAD6-7/SMURF1/SMAD1	component>
+SMAD1	SMAD6-7/SMURF1/SMAD1	component>
+SMAD7/SMURF1	SMAD1	component>
+SMAD7/SMURF1	BMP2-4/BMPR2/BMPR1A-1B/RGM/SMAD7/SMURF1	component>
+SMAD1	BMP2-4/BMPR2/BMPR1A-1B/RGM/SMAD7/SMURF1	component>
+BMP2-4/BMPR2/BMPR1A-1B/RGM	SMAD1	component>
+BMP2-4/BMPR2/BMPR1A-1B/RGM	BMP2-4/BMPR2/BMPR1A-1B/RGM/SMAD7/SMURF1	component>
+SMAD5/SMAD5/SMAD4	SMAD5/SMAD5/SMAD4	-a>
+SKI	SMAD5/SKI	component>
+SMAD5	SMAD5/SKI	component>
+MAPK1	SMAD1	-a>
+SOSTDC1	BMP2-4/USAG1	component>
+SOSTDC1	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+SOSTDC1	BMPR1A-1B/BAMBI	component>
+RGM family	BMP2-4/USAG1	component>
+BAMBI	BMP2-4/USAG1	component>
+BMPR1A-1B (homodimer)	BMP2-4/USAG1	component>
+BMPR2 (homodimer)	BMP2-4/USAG1	component>
+BMP2-4 (homodimer)	BMP2-4/USAG1	component>
+BMP7/BMPR2/BMPR1A-1B/SMAD6/SMURF1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+BMP2-4/BMPR2/BMPR1A-1B/RGM	SMAD9	-a>
+BMP6/BMPR2/BMPR1A-1B	SMAD5	-a>
+PPM1A	SMAD1	-a>
+XIAP	BMP2-4/BMPR2/BMPR1A-1B/RGM/XIAP	component>
+BMP2-4/BMPR2/BMPR1A-1B/RGM	BMP2-4/BMPR2/BMPR1A-1B/RGM/XIAP	component>
+NOG	BMP2-4/NOG	component>
+NOG	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+NOG	BMPR1A-1B/BAMBI	component>
+RGM family	BMP2-4/NOG	component>
+BAMBI	BMP2-4/NOG	component>
+BMPR1A-1B (homodimer)	BMP2-4/NOG	component>
+BMPR2 (homodimer)	BMP2-4/NOG	component>
+BMP2-4 (homodimer)	BMP2-4/NOG	component>
+SCP1-3	SMAD1	-a>
+BMP6/BMPR2/BMPR1A-1B	SMAD1	-a>
+SMAD4	SMAD8A/SMAD8A/SMAD4	component>
+SMAD9	SMAD8A/SMAD8A/SMAD4	component>
+SMAD6-7/SMURF1/SMAD1	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+CER1	BMP2-4/CER1	component>
+CER1	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+CER1	BMPR1A-1B/BAMBI	component>
+RGM family	BMP2-4/CER1	component>
+RGM family	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+RGM family	BMPR1A-1B/BAMBI	component>
+BAMBI	BMP2-4/CER1	component>
+BAMBI	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+BAMBI	BMPR1A-1B/BAMBI	component>
+BMPR1A-1B (homodimer)	BMP2-4/CER1	component>
+BMPR1A-1B (homodimer)	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+BMPR1A-1B (homodimer)	BMPR1A-1B/BAMBI	component>
+BMPR2 (homodimer)	BMP2-4/CER1	component>
+BMPR2 (homodimer)	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+BMPR2 (homodimer)	BMPR1A-1B/BAMBI	component>
+BMP2-4 (homodimer)	BMP2-4/CER1	component>
+BMP2-4 (homodimer)	BMP2-4/BMPR2/BMPR1A-1B/RGM	component>
+BMP2-4 (homodimer)	BMPR1A-1B/BAMBI	component>
+PPM1A	SMAD9	-a>
+SMAD6/SMURF1	SMAD1	component>
+SMAD6/SMURF1	BMP7/BMPR2/BMPR1A-1B/SMAD6/SMURF1	component>
+SMAD1	SMAD1	component>
+SMAD1	BMP7/BMPR2/BMPR1A-1B/SMAD6/SMURF1	component>
+BMP7/BMPR2/BMPR1A-1B	SMAD1	component>
+BMP7/BMPR2/BMPR1A-1B	BMP7/BMPR2/BMPR1A-1B/SMAD6/SMURF1	component>
+BMP2-4/BMPR2/BMPR1A-1B/RGM/SMAD7/SMURF1	proteasomal ubiquitin-dependent protein catabolic process	-ap>

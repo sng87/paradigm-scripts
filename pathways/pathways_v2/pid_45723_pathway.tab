@@ -1,0 +1,21 @@
+smallMolecule	Alkylating xenobiotics
+smallMolecule	Hydrophobic compounds
+smallMolecule	GS-conjugates
+smallMolecule	GSH
+smallMolecule	bile salts
+smallMolecule	Lecithin
+protein	GSTP1
+protein	ABCC3
+protein	ABCC1
+protein	ABCB4
+protein	ABCB11
+protein	ABCB1
+GSTP1	GS-conjugates	-a>
+ABCB4	Lecithin	-a>
+GSH	GS-conjugates	-a>
+Alkylating xenobiotics	GS-conjugates	-a>
+ABCB1	Hydrophobic compounds	-a>
+ABCC3	bile salts	-a>
+ABCB4	GS-conjugates	-a>
+ABCB11	bile salts	-a>
+ABCC1	GS-conjugates	-a>

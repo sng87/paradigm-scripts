@@ -1,0 +1,173 @@
+protein	SMPD3
+protein	SPHK2
+protein	PAWR
+protein	BAD
+protein	MADD
+protein	EIF2A
+protein	NSMAF
+protein	KSR1
+protein	RB1
+protein	TRADD
+protein	CASP8
+protein	RIPK1
+protein	ASAH1
+protein	BIRC3
+protein	MAP3K1
+protein	FADD
+protein	TRAF2
+protein	BAX
+protein	PRKCD
+protein	PRKCZ
+protein	RELA
+protein	MAP2K1
+protein	CYCS
+protein	CRADD
+protein	BID
+protein	MAP2K4
+protein	MAPK8
+protein	MAP2K2
+protein	AKT1
+protein	MAPK1
+protein	MAPK3
+protein	NFKBIA
+protein	NFKB1
+protein	EIF2AK2
+protein	TNFRSF1A
+protein	SMPD1
+protein	BCL2
+protein	CTSD
+protein	PDGFA
+protein	RAF1
+protein	TNF
+protein	IGF1
+protein	EGF
+protein	AIFM1
+protein	MAP4K4
+protein	BAG4
+protein	PRKRA
+complex	TNFR1A/BAG4/TNF-alpha
+complex	TNFR1A/BAG4
+complex	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD
+complex	TNF-alpha/TNFR1A/FAN
+complex	RelA/NF kappa B1
+complex	PKC zeta/ceramide
+complex	PKC zeta/PAR4
+complex	NF kappa B1/RelA/I kappa B alpha
+complex	FADD/Caspase 8
+complex	ERK1/PKC delta
+complex	Cathepsin D/ceramide
+chemical	mol:sphingosine
+chemical	mol:glutathione
+chemical	mol:ceramide
+chemical	mol:Sphingosine-1-phosphate
+chemical	mol:PHOSPHOCHOLINE
+chemical	mol:GW4869
+chemical	mol:GD3
+chemical	mol:Free Fatty acid
+chemical	mol:C11AG
+abstract	response to radiation
+abstract	response to oxidative stress
+abstract	response to hydrogen peroxide
+abstract	response to heat
+abstract	response to UV
+abstract	regulation of nitric oxide biosynthetic process
+abstract	negative regulation of cell cycle
+abstract	ganglioside biosynthetic process
+abstract	cell proliferation
+response to radiation	SMPD1	-ap>
+response to oxidative stress	SMPD3	-ap>
+response to hydrogen peroxide	SMPD1	-ap>
+response to heat	SMPD1	-ap>
+response to UV	SMPD1	-ap>
+mol:glutathione	SMPD3	-a|
+mol:ceramide	ganglioside biosynthetic process	-ap>
+mol:ceramide	BAD	-a>
+mol:ceramide	KSR1	-a>
+mol:ceramide	RB1	-a>
+mol:ceramide	MAP3K1	-a>
+mol:ceramide	BAX	-a>
+mol:ceramide	PRKRA	-a>
+mol:ceramide	PKC zeta/ceramide	component>
+mol:ceramide	ERK1/PKC delta	-a|
+mol:ceramide	Cathepsin D/ceramide	component>
+mol:Sphingosine-1-phosphate	mol:ceramide	-a|
+mol:Sphingosine-1-phosphate	mol:PHOSPHOCHOLINE	-a|
+mol:GW4869	mol:ceramide	-a|
+mol:GW4869	mol:PHOSPHOCHOLINE	-a|
+mol:GD3	BAX	-a>
+mol:C11AG	mol:ceramide	-a|
+mol:C11AG	mol:PHOSPHOCHOLINE	-a|
+SMPD3	mol:ceramide	-a>
+SMPD3	mol:PHOSPHOCHOLINE	-a>
+SPHK2	mol:Sphingosine-1-phosphate	-a>
+PAWR	PKC zeta/PAR4	component>
+BAD	CYCS	-a>
+BAD	AIFM1	-a>
+MADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+NSMAF	TNF-alpha/TNFR1A/FAN	component>
+KSR1	RAF1	-a>
+RB1	negative regulation of cell cycle	-ap>
+TRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+CASP8	FADD/Caspase 8	component>
+RIPK1	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+ASAH1	mol:sphingosine	-a>
+ASAH1	mol:Free Fatty acid	-a>
+BIRC3	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+MAP3K1	MAP2K4	-a>
+FADD	FADD/Caspase 8	component>
+TRAF2	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+BAX	CYCS	-a>
+BAX	AIFM1	-a>
+PRKCD	ERK1/PKC delta	component>
+PRKCZ	PKC zeta/ceramide	component>
+PRKCZ	PKC zeta/PAR4	component>
+RELA	RelA/NF kappa B1	component>
+RELA	NF kappa B1/RelA/I kappa B alpha	component>
+MAP2K1	MAPK1	-a>
+MAP2K1	MAPK3	-a>
+CRADD	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+MAP2K4	MAPK8	-a>
+MAP2K2	MAPK1	-a>
+MAP2K2	MAPK3	-a>
+MAPK3	ERK1/PKC delta	component>
+NFKBIA	NF kappa B1/RelA/I kappa B alpha	component>
+NFKB1	RelA/NF kappa B1	component>
+NFKB1	NF kappa B1/RelA/I kappa B alpha	component>
+EIF2AK2	EIF2A	-a>
+TNFRSF1A	TNFR1A/BAG4/TNF-alpha	component>
+TNFRSF1A	TNFR1A/BAG4	component>
+TNFRSF1A	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+TNFRSF1A	TNF-alpha/TNFR1A/FAN	component>
+SMPD1	mol:ceramide	-a>
+BCL2	CYCS	-a|
+BCL2	AIFM1	-a|
+CTSD	Cathepsin D/ceramide	component>
+PDGFA	mol:sphingosine	-a>
+PDGFA	mol:Free Fatty acid	-a>
+PDGFA	SPHK2	-a>
+RAF1	MAP2K1	-a>
+RAF1	MAP2K2	-a>
+TNF	TNFR1A/BAG4/TNF-alpha	component>
+TNF	TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	component>
+TNF	TNF-alpha/TNFR1A/FAN	component>
+IGF1	ERK1/PKC delta	-a>
+EGF	mol:ceramide	-a|
+EGF	mol:PHOSPHOCHOLINE	-a|
+BAG4	TNFR1A/BAG4/TNF-alpha	component>
+BAG4	TNFR1A/BAG4	component>
+PRKRA	EIF2AK2	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	SMPD3	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	CASP8	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	FADD	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	BID	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	SMPD1	-a>
+TNF-alpha/TNFR1A/TRADD/MADD/cIAP2/RIP1/TRAF2/RAIDD	MAP4K4	-a>
+TNF-alpha/TNFR1A/FAN	SMPD3	-a>
+TNF-alpha/TNFR1A/FAN	SMPD1	-a>
+RelA/NF kappa B1	regulation of nitric oxide biosynthetic process	-ap>
+RelA/NF kappa B1	CASP8	-a>
+PKC zeta/ceramide	MAPK8	-a>
+PKC zeta/ceramide	AKT1	-a|
+PKC zeta/PAR4	NF kappa B1/RelA/I kappa B alpha	-a|
+ERK1/PKC delta	cell proliferation	-ap>
+Cathepsin D/ceramide	BID	-a>

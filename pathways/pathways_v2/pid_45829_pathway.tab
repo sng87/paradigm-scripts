@@ -1,0 +1,118 @@
+abstract	smooth muscle contraction
+abstract	blood coagulation
+abstract	fever
+abstract	sensory perception of pain
+abstract	vasoconstriction
+complex	Thromboxanes/TB R
+complex	PGH2 synthase
+complex	Prostaglandin E2/EP3R
+smallMolecule	HPETEs
+smallMolecule	Diols
+smallMolecule	Prostaglandin F2
+complex	Prostaglandin F2/FPR
+complex	LTA4/CysLT2
+protein	Epoxide hydrolyase
+complex	LTD4/CysLT2
+smallMolecule	Thromboxanes
+complex	Prostaglandin E2/EP2R
+complex	LTA4/CysLT1
+complex	Prostaglandin E2/EP4R
+smallMolecule	phospholipid
+smallMolecule	Epoxides
+complex	PGI2/IP R
+smallMolecule	dinoprostone
+complex	Prostaglandin E2/EP1R
+complex	LTD4/CysLT1
+smallMolecule	NSAIDs
+smallMolecule	Arachidonate
+smallMolecule	LTA4
+smallMolecule	LTD4
+smallMolecule	LTE4
+smallMolecule	Prostaglandin H2
+smallMolecule	Prostaglandin D2
+abstract	vasodilation
+smallMolecule	DAG
+smallMolecule	PGI2
+protein	TBXAS1
+protein	TBXA2R
+protein	PTGIS
+protein	PTGIR
+protein	PTGFR
+protein	PTGES
+protein	PTGER4
+protein	PTGER3
+protein	PTGER2
+protein	PTGER1
+protein	PLCB1
+protein	PLA2G1B
+protein	PGDS
+protein	CYSLTR2
+protein	CYSLTR1
+protein	CYP2J2
+protein	ALOX5AP
+protein	ALOX5
+PGDS	Prostaglandin D2	-a>
+PLA2G1B	Arachidonate	-a>
+Prostaglandin E2/EP4R	vasodilation	-ap>
+Prostaglandin E2/EP3R	vasodilation	-ap>
+Prostaglandin E2/EP2R	vasodilation	-ap>
+CYP2J2	Epoxides	-a>
+PLCB1	Arachidonate	-a>
+Prostaglandin E2/EP4R	fever	-ap>
+Prostaglandin E2/EP3R	fever	-ap>
+Prostaglandin E2/EP2R	fever	-ap>
+Epoxide hydrolyase	Diols	-a>
+ALOX5AP	HPETEs	-a>
+PTGIS	PGI2	-a>
+PGI2/IP R	blood coagulation	-ap|
+Prostaglandin E2/EP4R	sensory perception of pain	-ap>
+Prostaglandin E2/EP3R	sensory perception of pain	-ap>
+Prostaglandin E2/EP2R	sensory perception of pain	-ap>
+ALOX5	HPETEs	-a>
+PTGES	dinoprostone	-a>
+NSAIDs	Prostaglandin H2	-a|
+PGH2 synthase	Prostaglandin H2	-a>
+PGI2/IP R	vasoconstriction	-ap|
+TBXAS1	Thromboxanes	-a>
+LTD4	LTE4	-a>
+Prostaglandin H2	Prostaglandin D2	-a>
+PTGFR	Prostaglandin F2/FPR	component>
+Prostaglandin F2	Prostaglandin F2/FPR	component>
+CYSLTR2	LTA4/CysLT2	component>
+LTA4	LTA4/CysLT2	component>
+PTGER1	Prostaglandin E2/EP1R	component>
+dinoprostone	Prostaglandin E2/EP1R	component>
+CYSLTR1	LTA4/CysLT1	component>
+LTA4	LTA4/CysLT1	component>
+Prostaglandin F2/FPR	smooth muscle contraction	-ap>
+phospholipid	Arachidonate	-a>
+Prostaglandin E2/EP1R	vasodilation	-ap>
+Arachidonate	Epoxides	-a>
+DAG	Arachidonate	-a>
+CYSLTR1	LTD4/CysLT1	component>
+LTD4	LTD4/CysLT1	component>
+TBXA2R	Thromboxanes/TB R	component>
+Thromboxanes	Thromboxanes/TB R	component>
+PTGER4	Prostaglandin E2/EP4R	component>
+dinoprostone	Prostaglandin E2/EP4R	component>
+Prostaglandin E2/EP1R	fever	-ap>
+Epoxides	Diols	-a>
+Prostaglandin H2	PGI2	-a>
+PTGER3	Prostaglandin E2/EP3R	component>
+dinoprostone	Prostaglandin E2/EP3R	component>
+CYSLTR2	LTD4/CysLT2	component>
+LTD4	LTD4/CysLT2	component>
+HPETEs	LTA4	-a>
+dinoprostone	Prostaglandin F2	-a>
+PTGIR	PGI2/IP R	component>
+PGI2	PGI2/IP R	component>
+Thromboxanes/TB R	blood coagulation	-ap>
+Prostaglandin E2/EP1R	sensory perception of pain	-ap>
+Arachidonate	HPETEs	-a>
+Prostaglandin H2	dinoprostone	-a>
+Arachidonate	Prostaglandin H2	-a>
+LTA4	LTD4	-a>
+Thromboxanes/TB R	vasoconstriction	-ap>
+PTGER2	Prostaglandin E2/EP2R	component>
+dinoprostone	Prostaglandin E2/EP2R	component>
+Prostaglandin H2	Thromboxanes	-a>

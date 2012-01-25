@@ -1,0 +1,56 @@
+abstract	proliferation/survival/translation
+family	RAS
+family	PI3K
+family	FOXO
+family	AKT
+protein	PTEN
+protein	NF1
+protein	MET
+protein	PDGFRA
+protein	ERBB2
+protein	EGFR
+protein	FOXO4
+protein	FOXO3
+protein	FOXO1
+protein	AKT3
+protein	AKT2
+protein	AKT1
+protein	NRAS
+protein	HRAS
+protein	KRAS
+protein	PIK3R3
+protein	PIK3R2
+protein	PIK3R1
+protein	PIK3CG
+protein	PIK3CB
+protein	PIK3CA
+RAS	proliferation/survival/translation	-ap>
+FOXO	proliferation/survival/translation	-ap|
+AKT	FOXO	-a|
+PI3K	AKT	-a|
+PTEN	PI3K	-a|
+RAS	PI3K	-a>
+NF1	RAS	-a|
+MET	PI3K	-a>
+PDGFRA	PI3K	-a>
+ERBB2	PI3K	-a>
+EGFR	PI3K	-a>
+MET	RAS	-a>
+PDGFRA	RAS	-a>
+ERBB2	RAS	-a>
+EGFR	RAS	-a>
+FOXO4	FOXO	member>
+FOXO3	FOXO	member>
+FOXO1	FOXO	member>
+AKT3	AKT	member>
+AKT2	AKT	member>
+AKT1	AKT	member>
+HRAS	RAS	member>
+NRAS	RAS	member>
+KRAS	RAS	member>
+PIK3R3	PI3K	member>
+PIK3R2	PI3K	member>
+PIK3R1	PI3K	member>
+PIK3CG	PI3K	member>
+PIK3CB	PI3K	member>
+PIK3CA	PI3K	member>

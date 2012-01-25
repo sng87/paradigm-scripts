@@ -1,0 +1,33 @@
+smallMolecule	Phosphocreatine
+smallMolecule	Gly
+smallMolecule	L-Ornithine
+smallMolecule	Creatine
+smallMolecule	S-Adenosylhomocysteine
+smallMolecule	Acylcarnitine
+smallMolecule	Glycocyamine
+smallMolecule	H2O
+complex	glycine amidinotransferase homodimer
+smallMolecule	Creatinine
+smallMolecule	ATP
+smallMolecule	L-arginine
+smallMolecule	ADP
+smallMolecule	phosphate
+protein	GAMT
+GAMT	Creatine	-a>
+glycine amidinotransferase homodimer	Glycocyamine	-a>
+Glycocyamine	S-Adenosylhomocysteine	-a>
+Glycocyamine	Creatine	-a>
+Acylcarnitine	S-Adenosylhomocysteine	-a>
+Acylcarnitine	Creatine	-a>
+Gly	L-Ornithine	-a>
+Gly	Glycocyamine	-a>
+L-arginine	L-Ornithine	-a>
+L-arginine	Glycocyamine	-a>
+Phosphocreatine	Creatinine	-a>
+Phosphocreatine	phosphate	-a>
+H2O	Creatinine	-a>
+H2O	phosphate	-a>
+ATP	Phosphocreatine	-a>
+ATP	ADP	-a>
+Creatine	Phosphocreatine	-a>
+Creatine	ADP	-a>

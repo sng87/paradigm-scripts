@@ -1,0 +1,7 @@
+smallMolecule	L-Glutamine
+smallMolecule	L-Glutamate
+protein	SLC38A1
+protein	GLUL
+GLUL	L-Glutamine	-a>
+SLC38A1	L-Glutamine	-a>
+L-Glutamate	L-Glutamine	-a>

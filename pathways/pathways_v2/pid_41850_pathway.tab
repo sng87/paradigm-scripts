@@ -1,0 +1,9 @@
+complex	Grb2 bound to pFADK1 in Focal adhesion
+complex	ECM ligands: alphaIIbbeta3:phospho c-Src:phosphorylated FADK1:Talin complex
+complex	SOS bound to Grb2:pFADK1
+protein	UniProt:P62993-1 GRB2
+protein	SOS1
+SOS1	SOS bound to Grb2:pFADK1	component>
+Grb2 bound to pFADK1 in Focal adhesion	SOS bound to Grb2:pFADK1	component>
+UniProt:P62993-1 GRB2	Grb2 bound to pFADK1 in Focal adhesion	component>
+ECM ligands: alphaIIbbeta3:phospho c-Src:phosphorylated FADK1:Talin complex	Grb2 bound to pFADK1 in Focal adhesion	component>

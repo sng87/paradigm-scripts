@@ -1,0 +1,201 @@
+complex	Integrin alpha-V beta-1
+complex	Alpha-V beta 3:Tenascin complex
+complex	Integrin alpha 3 beta 1
+complex	Laminin-2 (Merosin)
+complex	Integrin alpha 6 beta 1
+complex	Integrin alpha-V beta-8
+complex	Alpha 1 Beta 1 Integrin : Laminin-1:Mg++ complex
+complex	Integrin alpha 7 beta 1
+complex	Integrin alpha Xbeta 2 bound to JAM-C
+complex	VLA-4
+protein	_19-406
+complex	Integrin alpha-V beta-3
+complex	Integrin alpha IIb beta 3:Fibrin complex
+complex	Thrombospondin-1 trimer
+complex	Collagen type-II
+complex	Integrin CD11a-CD18 (LFA-1)
+complex	Integrin alpha 9 beta 1
+complex	Alpha v beta 3:BSP II complex
+complex	Alpha 2 Beta 1 Integrin
+complex	Integrin alpha D beta 2: Fibrin:Mg++ complex
+complex	Alpha 3 Beta 1 Integrin : Thrombospondin-1 complex
+complex	Alpha v beta 6:Fn complex
+complex	Integrin alpha 11 beta 1
+complex	Alpha 8 beta 1:Tenascin-c complex
+complex	Alpha2beta1 complex with Laminin-5
+complex	MadCAM inetracting with Integrin alpha-4 beta-7
+complex	Integrin alpha E beta 7
+complex	Alpha 6 Beta 1 Integrin : Laminin-1 complex
+complex	Alpha v beta 3:Fn complex
+complex	Alpha 10 beta 1 integrin:Collagen type-II: Mg++ complex
+complex	Integrin alpha-4 beta-7
+complex	Alpha 5 Beta 1 receptor bound to Ostepontin
+complex	VLA-4 bound to VCAM-1
+complex	Integrin alpha IIb beta 3:Fibronectin complex
+complex	Alpha 6 Beta 4 Integrin : Laminin-5 complex
+complex	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin
+complex	Alpha v beta 3:Vitronectin complex
+complex	Integrin alpha x beta 2:fibrin complex
+complex	Integrin alpha-V beta-5
+complex	Alpha 8 beta 1:Fibronectin complex
+complex	Integrin alpha-V beta-6
+complex	Alpha 11 beta 1 integrin: Collagen type-I:Mg++ complex
+complex	Fibronectin dimer
+complex	Integrin alpha 10 beta 1
+complex	alpha E beta 7:E-cadherin complex
+complex	Basigin bound to integrins
+complex	Alpha 1 Beta 1 Integrin : Collagen IV: Mg++ complex
+complex	Integrin alpha D beta 2
+complex	Integrin MAC-1
+complex	PECAM-1:integrin alpha-V beta-3 complex
+protein	UniProt:Q86YT9-3 AMICA1_subunit_20_394_20-394
+complex	Alpha v beta 5:Vitronectin complex
+complex	VLA-4 bound to JAM-B
+complex	LFA-1 bound to JAM-A
+complex	Integrin alpha-6 beta-4
+complex	Alpha 7 beta 1 integrin: Laminin-2 complex
+complex	Collagen I
+complex	MAC-1 bound to JAM-C
+complex	Alpha-V beta 3:vWF complex
+complex	ICAM bound to integrin CD11a-CD18
+complex	Alpha 9 beta 1:Tenascin-c complex
+complex	Laminin-1 (EHS laminin)
+complex	Laminin-5
+complex	Integrin alpha 8 beta 1
+protein	UniProt:Q13477-1 MADCAM1_subunit_19_406_19-406
+complex	Alpha IIb Beta 3 Integrin
+protein	UniProt:P24821 TNC_subunit_23_-1_23--1
+complex	Tenascin hexamer
+complex	Integrin alpha IIb beta 3:Thrombospondin complex
+complex	VLA-4:Osteopontin complex
+complex	VLA-4:Fibronectin complex
+complex	Alpha 9 beta 1:VCAM-1 complex
+complex	Alpha 2 Beta 1 Integrin : Collagen IV: Mg++ complex
+complex	Alpha 3 Beta 1 Integrin : Laminin-5 complex
+complex	Integrin alpha IIb beta 3:Van Willibrand factor complex
+complex	Alpha 5 Beta 1 Fibronectin receptor
+complex	Alpha 7 Beta 1 Integrin : Laminin-1 complex
+complex	Alpha 8 beta 1:Osteopontin complex
+protein	UniProt:P35555 FBN1_subunit_28_2871_28-2871
+complex	Alpha-V beta 3:Fibrillin-1 complex
+complex	Alpha v beta 8:Vitronectin complex
+complex	Integrin alpha X beta 2
+complex	Alpha 9 beta 1:Osteopontin complex
+complex	Integrin alpha 1 beta 1
+complex	VLA-4:Thrombospondin-1 complex
+protein	UniProt:P02751 FN1_subunit_32_2386_32-2386
+complex	Alpha v beta 1:Fn complex
+smallMolecule	Mn2+
+complex	fibrin multimer
+smallMolecule	Mg2+
+protein	VTN
+protein	VCAM1
+protein	THBS1
+protein	SPP1
+protein	PECAM1
+protein	JAM3
+protein	JAM2
+protein	IBSP
+protein	F11R
+protein	CDH1
+protein	BSG
+Integrin alpha 9 beta 1	Alpha 9 beta 1:Tenascin-c complex	component>
+Tenascin hexamer	Alpha 9 beta 1:Tenascin-c complex	component>
+Alpha IIb Beta 3 Integrin	Integrin alpha IIb beta 3:Fibronectin complex	component>
+UniProt:P02751 FN1_subunit_32_2386_32-2386	Integrin alpha IIb beta 3:Fibronectin complex	component>
+Fibronectin dimer	Alpha 8 beta 1:Fibronectin complex	component>
+Integrin alpha 8 beta 1	Alpha 8 beta 1:Fibronectin complex	component>
+Thrombospondin-1 trimer	Alpha 3 Beta 1 Integrin : Thrombospondin-1 complex	component>
+Integrin alpha 3 beta 1	Alpha 3 Beta 1 Integrin : Thrombospondin-1 complex	component>
+Alpha 2 Beta 1 Integrin	Alpha2beta1 complex with Laminin-5	component>
+Laminin-5	Alpha2beta1 complex with Laminin-5	component>
+fibrin multimer	Integrin alpha IIb beta 3:Fibrin complex	component>
+Alpha IIb Beta 3 Integrin	Integrin alpha IIb beta 3:Fibrin complex	component>
+Laminin-2 (Merosin)	Alpha 7 beta 1 integrin: Laminin-2 complex	component>
+Integrin alpha 7 beta 1	Alpha 7 beta 1 integrin: Laminin-2 complex	component>
+Mg2+	Alpha 2 Beta 1 Integrin : Collagen IV: Mg++ complex	-a>
+Alpha 2 Beta 1 Integrin	Alpha 2 Beta 1 Integrin : Collagen IV: Mg++ complex	-a>
+Integrin alpha D beta 2	Integrin alpha D beta 2: Fibrin:Mg++ complex	component>
+Mg2+	Integrin alpha D beta 2: Fibrin:Mg++ complex	component>
+fibrin multimer	Integrin alpha D beta 2: Fibrin:Mg++ complex	component>
+F11R	LFA-1 bound to JAM-A	component>
+Integrin CD11a-CD18 (LFA-1)	LFA-1 bound to JAM-A	component>
+PECAM1	PECAM-1:integrin alpha-V beta-3 complex	component>
+Integrin alpha-V beta-3	PECAM-1:integrin alpha-V beta-3 complex	component>
+BSG	Basigin bound to integrins	component>
+Integrin alpha-V beta-6	Alpha v beta 6:Fn complex	component>
+Fibronectin dimer	Alpha v beta 6:Fn complex	component>
+Integrin alpha 11 beta 1	Alpha 11 beta 1 integrin: Collagen type-I:Mg++ complex	component>
+Collagen I	Alpha 11 beta 1 integrin: Collagen type-I:Mg++ complex	component>
+Mg2+	Alpha 11 beta 1 integrin: Collagen type-I:Mg++ complex	component>
+Integrin alpha 8 beta 1	Alpha 8 beta 1:Tenascin-c complex	component>
+Tenascin hexamer	Alpha 8 beta 1:Tenascin-c complex	component>
+UniProt:P35555 FBN1_subunit_28_2871_28-2871	Alpha-V beta 3:Fibrillin-1 complex	component>
+Integrin alpha-V beta-3	Alpha-V beta 3:Fibrillin-1 complex	component>
+VLA-4	VLA-4 bound to JAM-B	component>
+JAM2	VLA-4 bound to JAM-B	component>
+Integrin alpha 1 beta 1	Alpha 1 Beta 1 Integrin : Laminin-1:Mg++ complex	component>
+Laminin-1 (EHS laminin)	Alpha 1 Beta 1 Integrin : Laminin-1:Mg++ complex	component>
+Mg2+	Alpha 1 Beta 1 Integrin : Laminin-1:Mg++ complex	component>
+Integrin alpha X beta 2	Integrin alpha Xbeta 2 bound to JAM-C	component>
+UniProt:Q86YT9-3 AMICA1_subunit_20_394_20-394	Integrin alpha Xbeta 2 bound to JAM-C	component>
+Integrin alpha E beta 7	alpha E beta 7:E-cadherin complex	component>
+CDH1	alpha E beta 7:E-cadherin complex	component>
+VCAM1	VLA-4 bound to VCAM-1	component>
+VLA-4	VLA-4 bound to VCAM-1	component>
+Integrin alpha-4 beta-7	MadCAM inetracting with Integrin alpha-4 beta-7	component>
+_19-406	MadCAM inetracting with Integrin alpha-4 beta-7	component>
+UniProt:Q13477-1 MADCAM1_subunit_19_406_19-406	MadCAM inetracting with Integrin alpha-4 beta-7	component>
+Integrin alpha 1 beta 1	Alpha 1 Beta 1 Integrin : Collagen IV: Mg++ complex	-a>
+Mg2+	Alpha 1 Beta 1 Integrin : Collagen IV: Mg++ complex	-a>
+VTN	Alpha v beta 5:Vitronectin complex	component>
+Integrin alpha-V beta-5	Alpha v beta 5:Vitronectin complex	component>
+Integrin alpha 8 beta 1	Alpha 8 beta 1:Osteopontin complex	component>
+SPP1	Alpha 8 beta 1:Osteopontin complex	component>
+Fibronectin dimer	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin	component>
+Alpha 5 Beta 1 Fibronectin receptor	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin	component>
+Mn2+	Alpha 5 Beta 1 Fibronectin receptor bound to Fibronectin	component>
+Integrin CD11a-CD18 (LFA-1)	ICAM bound to integrin CD11a-CD18	-a>
+Laminin-1 (EHS laminin)	Alpha 6 Beta 1 Integrin : Laminin-1 complex	component>
+Integrin alpha 6 beta 1	Alpha 6 Beta 1 Integrin : Laminin-1 complex	component>
+Integrin alpha-V beta-3	Alpha-V beta 3:Tenascin complex	component>
+UniProt:P24821 TNC_subunit_23_-1_23--1	Alpha-V beta 3:Tenascin complex	component>
+Integrin alpha-V beta-3	Alpha-V beta 3:vWF complex	-a>
+fibrin multimer	Integrin alpha x beta 2:fibrin complex	component>
+Integrin alpha X beta 2	Integrin alpha x beta 2:fibrin complex	component>
+Integrin alpha-V beta-3	Alpha v beta 3:Fn complex	component>
+Fibronectin dimer	Alpha v beta 3:Fn complex	component>
+SPP1	Alpha 5 Beta 1 receptor bound to Ostepontin	component>
+Alpha 5 Beta 1 Fibronectin receptor	Alpha 5 Beta 1 receptor bound to Ostepontin	component>
+Integrin alpha 9 beta 1	Alpha 9 beta 1:VCAM-1 complex	component>
+VCAM1	Alpha 9 beta 1:VCAM-1 complex	component>
+Integrin MAC-1	MAC-1 bound to JAM-C	component>
+JAM3	MAC-1 bound to JAM-C	component>
+VTN	Alpha v beta 8:Vitronectin complex	component>
+Integrin alpha-V beta-8	Alpha v beta 8:Vitronectin complex	component>
+Alpha IIb Beta 3 Integrin	Integrin alpha IIb beta 3:Thrombospondin complex	component>
+THBS1	Integrin alpha IIb beta 3:Thrombospondin complex	component>
+VTN	Alpha v beta 3:Vitronectin complex	component>
+Integrin alpha-V beta-3	Alpha v beta 3:Vitronectin complex	component>
+SPP1	VLA-4:Osteopontin complex	component>
+VLA-4	VLA-4:Osteopontin complex	component>
+Integrin alpha 9 beta 1	Alpha 9 beta 1:Osteopontin complex	component>
+SPP1	Alpha 9 beta 1:Osteopontin complex	component>
+Fibronectin dimer	Alpha v beta 1:Fn complex	component>
+Integrin alpha-V beta-1	Alpha v beta 1:Fn complex	component>
+Laminin-1 (EHS laminin)	Alpha 7 Beta 1 Integrin : Laminin-1 complex	component>
+Integrin alpha 7 beta 1	Alpha 7 Beta 1 Integrin : Laminin-1 complex	component>
+Alpha IIb Beta 3 Integrin	Integrin alpha IIb beta 3:Van Willibrand factor complex	-a>
+VLA-4	VLA-4:Thrombospondin-1 complex	component>
+Thrombospondin-1 trimer	VLA-4:Thrombospondin-1 complex	component>
+Laminin-5	Alpha 6 Beta 4 Integrin : Laminin-5 complex	component>
+Integrin alpha-6 beta-4	Alpha 6 Beta 4 Integrin : Laminin-5 complex	component>
+Collagen type-II	Alpha 10 beta 1 integrin:Collagen type-II: Mg++ complex	component>
+Mg2+	Alpha 10 beta 1 integrin:Collagen type-II: Mg++ complex	component>
+Integrin alpha 10 beta 1	Alpha 10 beta 1 integrin:Collagen type-II: Mg++ complex	component>
+VLA-4	VLA-4:Fibronectin complex	component>
+Fibronectin dimer	VLA-4:Fibronectin complex	component>
+Integrin alpha-V beta-3	Alpha v beta 3:BSP II complex	component>
+IBSP	Alpha v beta 3:BSP II complex	component>
+Laminin-5	Alpha 3 Beta 1 Integrin : Laminin-5 complex	component>
+Integrin alpha 3 beta 1	Alpha 3 Beta 1 Integrin : Laminin-5 complex	component>

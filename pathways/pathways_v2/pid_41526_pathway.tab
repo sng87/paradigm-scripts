@@ -1,0 +1,10 @@
+protein	Electrogenic Na+/Pi cotransporters
+smallMolecule	phosphate
+smallMolecule	Na+
+protein	SLC34A3
+SLC34A3	phosphate	-a>
+Electrogenic Na+/Pi cotransporters	phosphate	-a>
+phosphate	Na+	-a>
+phosphate	phosphate	-a>
+Na+	Na+	-a>
+Na+	phosphate	-a>

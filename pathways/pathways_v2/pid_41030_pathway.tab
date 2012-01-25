@@ -1,0 +1,17 @@
+complex	FGFR1c homodimer
+complex	Activated FGFR complexed with phosphorylated FRS2, GRB2  and CBL
+complex	FGF23 bound to Klotho and FGFR1c
+complex	Klotho bound to FGF23
+smallMolecule	Heparan Sulphate
+smallMolecule	ATP
+smallMolecule	ADP
+protein	SDC2
+Activated FGFR complexed with phosphorylated FRS2, GRB2  and CBL	FGF23 bound to Klotho and FGFR1c	component>
+SDC2	FGF23 bound to Klotho and FGFR1c	component>
+Klotho bound to FGF23	FGF23 bound to Klotho and FGFR1c	component>
+Heparan Sulphate	FGF23 bound to Klotho and FGFR1c	component>
+FGFR1c homodimer	FGF23 bound to Klotho and FGFR1c	component>
+ATP	ADP	-a>
+ATP	FGF23 bound to Klotho and FGFR1c	-a>
+FGF23 bound to Klotho and FGFR1c	ADP	-a>
+FGF23 bound to Klotho and FGFR1c	FGF23 bound to Klotho and FGFR1c	-a>

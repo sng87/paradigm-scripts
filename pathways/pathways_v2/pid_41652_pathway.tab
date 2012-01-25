@@ -1,0 +1,26 @@
+complex	Caspase cleaved DFF45 (117)
+complex	importin-alpha:importin-beta
+complex	DFF cleaved DNA
+complex	DFF40 associated with chromatin
+complex	DFF45:DFF40 complex
+complex	DFF:associated with the importin-alpha:importin-beta complex
+complex	Histone H1 bound chromatin DNA
+complex	DFF40 homodimer
+complex	caspase-3-cleaved DFF45 (117,224):DFF40 complex
+complex	active caspase-3
+protein	DFFB
+protein	DFFA
+active caspase-3	caspase-3-cleaved DFF45 (117,224):DFF40 complex	-a>
+active caspase-3	Caspase cleaved DFF45 (117)	-a>
+Caspase cleaved DFF45 (117)	caspase-3-cleaved DFF45 (117,224):DFF40 complex	-a>
+DFF40 associated with chromatin	DFF cleaved DNA	-a>
+DFF:associated with the importin-alpha:importin-beta complex	DFF:associated with the importin-alpha:importin-beta complex	-a>
+DFF45:DFF40 complex	Caspase cleaved DFF45 (117)	-a>
+DFFB	DFF40 homodimer	component>
+caspase-3-cleaved DFF45 (117,224):DFF40 complex	DFFB	component>
+caspase-3-cleaved DFF45 (117,224):DFF40 complex	DFFA	component>
+Histone H1 bound chromatin DNA	DFF40 associated with chromatin	-a>
+importin-alpha:importin-beta	DFF:associated with the importin-alpha:importin-beta complex	component>
+DFF45:DFF40 complex	DFF:associated with the importin-alpha:importin-beta complex	component>
+DFFA	DFF45:DFF40 complex	component>
+DFFB	DFF45:DFF40 complex	component>

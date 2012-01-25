@@ -1,0 +1,261 @@
+abstract	T cell receptor signaling pathway
+abstract	actin filament depolymerization
+abstract	positive regulation of lamellipodium assembly
+abstract	receptor internalization
+abstract	Pro-B-Lymphocyte
+abstract	T-Lymphocyte
+abstract	B-Lymphocyte
+abstract	Hematopoietic Stem Cell
+abstract	regulation of heterotypic cell-cell adhesion
+abstract	cAMP biosynthetic process
+abstract	chemotaxis
+abstract	cell adhesion
+abstract	establishment of cell polarity
+abstract	cell proliferation
+abstract	degradation
+complex	RAP2A-B/GTP
+complex	SDF1/CXCR4/SHP1-2
+smallMolecule	DAG
+complex	SDF1/CXCR4/JAK2
+complex	SDF1/CXCR4/VAV1
+protein	VPS4
+protein	MMP9_107-707
+complex	RALB/GDP
+complex	G13/GTP
+complex	DMN1/GTP
+protein	PLC beta
+complex	SDF1/CXCR4 (dimer)
+complex	Integrin beta 1-Integrin alpha
+complex	G13/GDP/Gbeta gamma
+protein	SHP1-2
+complex	Gi family/GTP/RGS1
+complex	RAP1B/GDP
+complex	STAT2 (dimer)
+complex	PYK2/Paxillin/CRK
+protein	Src Family Kinase
+complex	Gi family/GDP/G beta/gamma
+complex	PTEN
+complex	RhoA-B-C/GDP
+complex	G beta/gamma/PLIC-1
+complex	RAC1-CDC42/GTP
+complex	mTORC2
+complex	FAK/p130 Cas/Paxillin
+complex	G beta/gamma/RACK1
+complex	TCR/CD3/MHC II/CD4
+complex	Gi family/GTP
+protein	STAT1-3-5-active
+complex	STAT1-3-5 (dimer)
+protein	SHIP
+complex	RALB/GTP
+protein	Src Family Kinases-active
+smallMolecule	PI-3-4-5-P3
+complex	CXCR4 (dimer)
+complex	RhoA-B-C/GTP
+complex	TCR/CD3/MHC II/CD4/LCK
+protein	STAT1-3-5
+complex	RAP2A-B/GDP
+complex	alpha4/beta1 Integrin
+smallMolecule	PI-3-4-P2
+complex	RAP1B/GTP
+complex	PI3K Class I family
+smallMolecule	PI-4-5-P2
+protein	Src Family Kinase-active
+smallMolecule	Ca2+
+complex	CSK/PAG1
+complex	RAC1-CDC42/GDP
+smallMolecule	IP3
+complex	GNB1/GNG2
+protein	FAK
+complex	SDF1/CXCR4
+complex	SDF1/CXCR4/CD45
+protein	p130 Cas
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAV1
+protein	UBQLN1
+protein	STAT2
+protein	SSH1
+protein	RGS1
+protein	PXN
+protein	PTPRC
+protein	PTK2B
+protein	PRKCZ
+protein	PDPK1
+protein	PAK1
+protein	LIMK1
+protein	LCK
+protein	JAK2
+protein	ITCH
+protein	HGS
+protein	GRK6
+protein	GNB2L1
+protein	FOXO1
+protein	CXCR4
+protein	CXCL12
+protein	CRK
+protein	CFL1
+protein	BAD
+protein	ARRB2
+protein	ARR3
+protein	AKT1
+protein	ADRBK1
+VPS4	HGS	-a|
+Gi family/GTP/RGS1	TCR/CD3/MHC II/CD4/LCK	component>
+GNB1/GNG2	TCR/CD3/MHC II/CD4/LCK	component>
+PLC beta	DAG	-a>
+VPS4	degradation	-ap>
+G beta/gamma/PLIC-1	receptor internalization	-ap|
+T cell receptor signaling pathway	receptor internalization	-ap>
+RAP1B/GTP	PYK2/Paxillin/CRK	component>
+ITCH	SDF1/CXCR4	-a>
+SDF1/CXCR4	RALB/GTP	-a>
+B-Lymphocyte	RALB/GTP	-a>
+PDPK1	AKT1	-a>
+SDF1/CXCR4	RAP2A-B/GTP	-a>
+B-Lymphocyte	RAP2A-B/GTP	-a>
+GNB1/GNG2	PLC beta	-a>
+RGS1	regulation of heterotypic cell-cell adhesion	-ap|
+Pro-B-Lymphocyte	regulation of heterotypic cell-cell adhesion	-ap>
+SHIP	PI-3-4-P2	-a>
+GNB1/GNG2	SDF1/CXCR4/SHP1-2	component>
+PTEN	PI-3-4-5-P3	-a|
+PI3K Class I family	PI-3-4-5-P3	-a>
+FAK/p130 Cas/Paxillin	RAP1B/GTP	-a>
+Pro-B-Lymphocyte	RAP1B/GTP	-a>
+SDF1/CXCR4	G13/GTP	component>
+RGS1	chemotaxis	-ap|
+ARRB2	SDF1/CXCR4	-a>
+CFL1	chemotaxis	-ap>
+SSH1	chemotaxis	-ap>
+G13/GTP	RhoA-B-C/GTP	-a>
+PRKCZ	cell proliferation	-ap>
+GRK6	SDF1/CXCR4	-a>
+SDF1/CXCR4	LCK	-a>
+Gi family/GTP/RGS1	FAK/p130 Cas/Paxillin	component>
+Src Family Kinases-active	FAK/p130 Cas/Paxillin	component>
+GNB1/GNG2	FAK/p130 Cas/Paxillin	component>
+SDF1/CXCR4/JAK2	FAK/p130 Cas/Paxillin	component>
+SDF1/CXCR4/VAV1	RAC1-CDC42/GTP	-a>
+GNB1/GNG2	RAC1-CDC42/GTP	-a>
+SDF1/CXCR4/JAK2	STAT1-3-5-active	-a>
+HGS	SDF1/CXCR4	-a>
+DMN1/GTP	SDF1/CXCR4	-a>
+ARR3	SDF1/CXCR4	-a>
+PRKCZ	MMP9_107-707	-t>
+RAC1-CDC42/GTP	cell adhesion	-ap>
+T-Lymphocyte	cell adhesion	-ap>
+SDF1/CXCR4/JAK2	PI3K Class I family	-a>
+Gi family/GTP/RGS1	Src Family Kinase-active	-a|
+GNB1/GNG2	Src Family Kinase-active	-a>
+FAK/p130 Cas/Paxillin	cell adhesion	-ap>
+Pro-B-Lymphocyte	cell adhesion	-ap>
+PRKCZ	regulation of heterotypic cell-cell adhesion	-ap>
+Hematopoietic Stem Cell	regulation of heterotypic cell-cell adhesion	-ap>
+SDF1/CXCR4	Gi family/GTP	component>
+ADRBK1	SDF1/CXCR4	-a>
+AKT1	chemotaxis	-ap>
+ITCH	HGS	-a>
+LCK	TCR/CD3/MHC II/CD4/LCK	component>
+TCR/CD3/MHC II/CD4	TCR/CD3/MHC II/CD4/LCK	component>
+PYK2/Paxillin/CRK	chemotaxis	-ap>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+PRKCZ	chemotaxis	-ap>
+PAK1	LIMK1	-a>
+SDF1/CXCR4	degradation	-ap>
+SDF1/CXCR4	receptor internalization	-ap>
+CRK	PYK2/Paxillin/CRK	component>
+PXN	PYK2/Paxillin/CRK	component>
+PTK2B	PYK2/Paxillin/CRK	component>
+STAT1-3-5 (dimer)	STAT1-3-5 (dimer)	-a>
+PI3K Class I family	PRKCZ	-a>
+LCK	chemotaxis	-ap>
+UBQLN1	G beta/gamma/PLIC-1	component>
+GNB1/GNG2	G beta/gamma/PLIC-1	component>
+GTP	RALB/GTP	-a>
+RALB/GDP	GDP	-a>
+RALB/GDP	RALB/GTP	-a>
+PI-3-4-5-P3	AKT1	-a>
+GTP	RAP2A-B/GTP	-a>
+RAP2A-B/GDP	GDP	-a>
+RAP2A-B/GDP	RAP2A-B/GTP	-a>
+T-Lymphocyte	PLC beta	-a>
+SDF1/CXCR4	SSH1	-a>
+PI-3-4-5-P3	PI-3-4-P2	-a>
+SHP1-2	SDF1/CXCR4/SHP1-2	component>
+SDF1/CXCR4	SDF1/CXCR4/SHP1-2	component>
+IP3	Ca2+	-a>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+GTP	RAP1B/GTP	-a>
+RAP1B/GDP	GDP	-a>
+RAP1B/GDP	RAP1B/GTP	-a>
+Gi family/GTP	cAMP biosynthetic process	-ap|
+GNB2L1	G beta/gamma/RACK1	component>
+GNB1/GNG2	G beta/gamma/RACK1	component>
+RAP2A-B/GTP	chemotaxis	-ap>
+mTORC2	AKT1	-a>
+GTP	G13/GTP	component>
+G13/GDP/Gbeta gamma	GDP	component>
+G13/GDP/Gbeta gamma	GNB1/GNG2	component>
+G13/GDP/Gbeta gamma	G13/GTP	component>
+Ca2+	chemotaxis	-ap>
+LIMK1	CFL1	-a>
+Pro-B-Lymphocyte	chemotaxis	-ap>
+AKT1	FOXO1	-a>
+SDF1/CXCR4/SHP1-2	chemotaxis	-ap>
+GNB1/GNG2	PI3K Class I family	-a>
+SSH1	establishment of cell polarity	-ap>
+LIMK1	chemotaxis	-ap>
+SDF1/CXCR4/JAK2	STAT2	-a>
+PI3K Class I family	establishment of cell polarity	-ap>
+RALB/GTP	chemotaxis	-ap>
+AKT1	BAD	-a>
+CXCR4 (dimer)	SDF1/CXCR4 (dimer)	component>
+CXCL12	SDF1/CXCR4 (dimer)	component>
+SDF1/CXCR4/CD45	LCK	-a>
+GTP	RhoA-B-C/GTP	-a>
+RhoA-B-C/GDP	GDP	-a>
+RhoA-B-C/GDP	RhoA-B-C/GTP	-a>
+CXCR4	SDF1/CXCR4	component>
+CXCL12	SDF1/CXCR4	component>
+CFL1	actin filament depolymerization	-ap>
+Hematopoietic Stem Cell	cell proliferation	-ap>
+SSH1	CFL1	-a>
+LIMK1	positive regulation of lamellipodium assembly	-ap>
+T-Lymphocyte	LCK	-a>
+JAK2	SDF1/CXCR4/JAK2	component>
+SDF1/CXCR4	SDF1/CXCR4/JAK2	component>
+PTPRC	SDF1/CXCR4/CD45	component>
+SDF1/CXCR4	SDF1/CXCR4/CD45	component>
+VAV1	SDF1/CXCR4/VAV1	component>
+SDF1/CXCR4	SDF1/CXCR4/VAV1	component>
+PXN	FAK/p130 Cas/Paxillin	component>
+p130 Cas	FAK/p130 Cas/Paxillin	component>
+FAK	FAK/p130 Cas/Paxillin	component>
+SDF1/CXCR4 (dimer)	chemotaxis	-ap|
+GTP	GDP	-a>
+GTP	RAC1-CDC42/GTP	-a>
+RAC1-CDC42/GDP	GDP	-a>
+RAC1-CDC42/GDP	RAC1-CDC42/GTP	-a>
+CSK/PAG1	LCK	-a>
+STAT1-3-5	STAT1-3-5-active	-a>
+receptor internalization	SDF1/CXCR4	-a>
+Hematopoietic Stem Cell	MMP9_107-707	-t>
+alpha4/beta1 Integrin	cell adhesion	-ap>
+RAC1-CDC42/GTP	establishment of cell polarity	-ap>
+Hematopoietic Stem Cell	PI3K Class I family	-a>
+RAC1-CDC42/GTP	PAK1	-a>
+Src Family Kinase	Src Family Kinase-active	-a>
+Integrin beta 1-Integrin alpha	cell adhesion	-ap>
+STAT2	STAT2 (dimer)	component>
+Integrin beta 1-Integrin alpha	regulation of heterotypic cell-cell adhesion	-ap>
+STAT1-3-5-active	STAT1-3-5 (dimer)	component>
+GTP	GDP	component>
+GTP	GNB1/GNG2	component>
+GTP	Gi family/GTP	component>
+Gi family/GDP/G beta/gamma	GDP	component>
+Gi family/GDP/G beta/gamma	GNB1/GNG2	component>
+Gi family/GDP/G beta/gamma	Gi family/GTP	component>
+SDF1/CXCR4	SDF1/CXCR4	-a>
+RhoA-B-C/GTP	chemotaxis	-ap>
+STAT2 (dimer)	STAT2 (dimer)	-a>

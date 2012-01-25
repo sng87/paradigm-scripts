@@ -1,0 +1,72 @@
+complex	ER alpha/ER alpha/GRIP1/CARM1/p300
+complex	SHC/GRB2/SOS-1
+protein	ERBB ligand
+complex	ERBB ligand/ERBB2/ERBB 1/3/4
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2
+complex	IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2
+complex	ERBB2/ERBB 1/3/4
+complex	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130
+protein	JAKs
+complex	ERBB2/ERBB3
+smallMolecule	PIP2
+complex	PI3K
+smallMolecule	PIP3
+smallMolecule	GDP
+smallMolecule	GTP
+protein	STAT3
+protein	RAF1
+protein	PDPK1
+protein	MAPK3
+protein	MAPK1
+protein	MAP2K2
+protein	MAP2K1
+protein	IL6
+protein	HRAS
+protein	GRIP1
+protein	ESR1
+protein	ERBB3
+protein	ERBB2
+protein	EP300
+protein	CARM1
+protein	AKT1
+MAP2K2	MAPK3	-a>
+PI3K	PIP3	-a>
+MAPK1	ESR1	-a>
+SHC/GRB2/SOS-1	GDP	-a>
+ERBB ligand/ERBB2/ERBB 1/3/4	SHC/GRB2/SOS-1	-a>
+MAP2K1	MAPK3	-a>
+PIP2	PIP3	-a>
+MAPK3	ESR1	-a>
+EP300	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+CARM1	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+GRIP1	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+ESR1	ER alpha/ER alpha/GRIP1/CARM1/p300	component>
+MAPK1	MAPK1	-a>
+MAPK1	MAPK3	-a>
+MAPK3	MAPK1	-a>
+MAPK3	MAPK3	-a>
+HRAS	RAF1	-a>
+HRAS	HRAS	-a>
+HRAS	GDP	-a>
+GTP	HRAS	-a>
+GTP	GDP	-a>
+ERBB2/ERBB3	SHC/GRB2/SOS-1	-a>
+JAKs	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	component>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	component>
+ERBB3	ERBB2/ERBB3	component>
+ERBB2	ERBB2/ERBB3	component>
+PDPK1	AKT1	-a>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/JAKS	STAT3	-a>
+IL6	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	component>
+IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	component>
+HRAS	PI3K	-a>
+ERBB ligand	ERBB ligand/ERBB2/ERBB 1/3/4	component>
+ERBB2/ERBB 1/3/4	ERBB ligand/ERBB2/ERBB 1/3/4	component>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	ERBB2	component>
+IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130/ERBB2	IL-6/IL-6/IL-6R-alpha/IL-6R-alpha/GP130/GP130	component>
+PIP3	PDPK1	-a>
+MAP2K2	MAP2K2	-a>
+MAP2K2	MAP2K1	-a>
+MAP2K1	MAP2K2	-a>
+RAF1	MAP2K1	-a>

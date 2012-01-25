@@ -1,0 +1,11 @@
+complex	polyubiquitinated PAK-2p34
+protein	UniProt:Q29502 PAK2_subunit_213_524_213-524
+complex	ubiquitinated PAK-2p34
+protein	UniProt:P62988 RPS27A_subunit_1_76_1-76
+complex	26S Proteasome
+protein	PAK2
+26S Proteasome	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>
+UniProt:Q29502 PAK2_subunit_213_524_213-524	ubiquitinated PAK-2p34	component>
+UniProt:P62988 RPS27A_subunit_1_76_1-76	ubiquitinated PAK-2p34	component>
+PAK2	ubiquitinated PAK-2p34	component>
+polyubiquitinated PAK-2p34	UniProt:P62988 RPS27A_subunit_1_76_1-76	component>

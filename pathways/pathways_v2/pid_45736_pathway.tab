@@ -1,0 +1,28 @@
+complex	Estrogen/ER alpha
+complex	CDKs/Cyclin B1/2/14-3-3-sigma/ubiquitin
+complex	CDKs/Cyclin B1/2
+complex	CDKs/Cyclin B1/2/14-3-3-sigma
+smallMolecule	estrogen
+abstract	protein ubiquitination
+abstract	mitosis
+abstract	degradation
+protein	TRIM25
+protein	TP53
+protein	SMURF1
+protein	SFN
+protein	ESR1
+SMURF1	protein ubiquitination	-ap>
+TRIM25	protein ubiquitination	-ap>
+CDKs/Cyclin B1/2	mitosis	-ap>
+CDKs/Cyclin B1/2	degradation	-ap>
+CDKs/Cyclin B1/2/14-3-3-sigma/ubiquitin	degradation	-ap>
+SFN	CDKs/Cyclin B1/2/14-3-3-sigma	component>
+CDKs/Cyclin B1/2	CDKs/Cyclin B1/2/14-3-3-sigma	component>
+TP53	SFN	-t>
+Estrogen/ER alpha	Estrogen/ER alpha	-a>
+CDKs/Cyclin B1/2/14-3-3-sigma/ubiquitin	protein ubiquitination	-ap>
+CDKs/Cyclin B1/2/14-3-3-sigma	protein ubiquitination	-ap>
+ESR1	Estrogen/ER alpha	component>
+estrogen	Estrogen/ER alpha	component>
+Estrogen/ER alpha	TRIM25	-t>
+CDKs/Cyclin B1/2	CDKs/Cyclin B1/2	-a>

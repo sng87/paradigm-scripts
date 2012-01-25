@@ -1,0 +1,174 @@
+protein	NOX4
+protein	TRPV6
+protein	DOK1
+protein	CAV1
+protein	YBX1
+protein	GRB2
+protein	RHOA
+protein	BCAR1
+protein	STAT5B
+protein	BLK
+protein	LEPR
+protein	CRK
+protein	PIK3CA
+protein	STAT5A
+protein	CSK
+protein	LEP
+protein	STAT3
+protein	IRS1
+protein	AKT1
+protein	TYK2
+protein	SHC1
+protein	PIK3R1
+protein	CDH2
+protein	PTPN1
+protein	FER
+protein	PRLR
+protein	SRC
+protein	FCGR2A
+protein	TXN
+protein	FGR
+protein	PDGFRB
+protein	CSF1
+protein	HCK
+protein	ITGA2B
+protein	LYN
+protein	YES1
+protein	CAPN1
+protein	CSF1R
+protein	FYN
+protein	LCK
+protein	INSR
+protein	CSN2
+protein	ITGB3
+protein	INS
+protein	PRL
+protein	EGF
+protein	EGFR
+protein	JAK2
+protein	SPRY2
+protein	LAT
+protein	SOCS3
+complex	p210 bcr-abl/PTP1B
+complex	p210 bcr-abl/Grb2
+complex	alphaIIb/beta3 Integrin
+complex	STAT3 (dimer)
+complex	Prolactin Receptor/Prolactin
+complex	PTP1B/p130 Cas
+complex	PTP1B/N-cadherin
+complex	PTP1B/IRS1/GRB2
+complex	PTP1B/AKT1
+complex	PI3K
+complex	PDGFB-D/PDGFRB
+complex	Jak2/Leptin Receptor/Leptin
+complex	Jak2/Leptin Receptor
+complex	Insulin Receptor/Insulin/Shc
+complex	Insulin Receptor/Insulin/IRS1
+complex	Insulin Receptor/Insulin
+complex	EGF/EGFR
+complex	Crk/p130 Cas
+complex	CSF1/CSF1R
+complex	CAT1/PTP1B
+chemical	mol:NADPH
+chemical	mol:H2O2
+abstract	negative regulation of transcription
+abstract	cell migration
+abstract	Ras protein signal transduction
+p210 bcr-abl/PTP1B	Ras protein signal transduction	-ap|
+p210 bcr-abl/Grb2	Ras protein signal transduction	-ap>
+mol:NADPH	PTPN1	-a>
+mol:H2O2	PTPN1	-a>
+alphaIIb/beta3 Integrin	PTPN1	-a>
+NOX4	PTPN1	-a>
+TRPV6	CAT1/PTP1B	component>
+YBX1	PTPN1	-t>
+GRB2	p210 bcr-abl/Grb2	component>
+GRB2	PTP1B/IRS1/GRB2	component>
+RHOA	PTPN1	-a>
+BCAR1	PTP1B/p130 Cas	component>
+BCAR1	Crk/p130 Cas	component>
+BLK	TRPV6	-a>
+LEPR	Jak2/Leptin Receptor/Leptin	component>
+LEPR	Jak2/Leptin Receptor	component>
+CRK	Crk/p130 Cas	component>
+PIK3CA	PI3K	component>
+CSK	SRC	-a>
+LEP	Jak2/Leptin Receptor/Leptin	component>
+STAT3	STAT3 (dimer)	component>
+IRS1	PTP1B/IRS1/GRB2	component>
+IRS1	Insulin Receptor/Insulin/IRS1	component>
+AKT1	PTP1B/AKT1	component>
+SHC1	Insulin Receptor/Insulin/Shc	component>
+PIK3R1	PI3K	component>
+CDH2	PTP1B/N-cadherin	component>
+PTPN1	p210 bcr-abl/PTP1B	component>
+PTPN1	cell migration	-ap|
+PTPN1	DOK1	-a>
+PTPN1	CAV1	-a>
+PTPN1	STAT5B	-a>
+PTPN1	STAT5A	-a>
+PTPN1	TYK2	-a>
+PTPN1	SRC	-a>
+PTPN1	CSN2	-t|
+PTPN1	JAK2	-a>
+PTPN1	LAT	-a>
+PTPN1	PTP1B/p130 Cas	component>
+PTPN1	PTP1B/N-cadherin	component>
+PTPN1	PTP1B/IRS1/GRB2	component>
+PTPN1	PTP1B/AKT1	component>
+PTPN1	PI3K	-a|
+PTPN1	PDGFB-D/PDGFRB	-a>
+PTPN1	Jak2/Leptin Receptor/Leptin	-a>
+PTPN1	Insulin Receptor/Insulin	-a>
+PTPN1	EGF/EGFR	-a>
+PTPN1	Crk/p130 Cas	-a>
+PTPN1	CSF1/CSF1R	-a>
+PTPN1	CAT1/PTP1B	component>
+FER	PTPN1	-a>
+PRLR	Prolactin Receptor/Prolactin	component>
+SRC	TRPV6	-a>
+SRC	CAV1	-a>
+FCGR2A	LAT	-a>
+TXN	PTPN1	-a>
+FGR	TRPV6	-a>
+PDGFRB	PDGFB-D/PDGFRB	component>
+CSF1	CSF1/CSF1R	component>
+HCK	TRPV6	-a>
+ITGA2B	alphaIIb/beta3 Integrin	component>
+LYN	TRPV6	-a>
+YES1	TRPV6	-a>
+CAPN1	PTPN1	-a>
+CSF1R	CSF1/CSF1R	component>
+FYN	TRPV6	-a>
+LCK	TRPV6	-a>
+INSR	Insulin Receptor/Insulin/Shc	component>
+INSR	Insulin Receptor/Insulin/IRS1	component>
+INSR	Insulin Receptor/Insulin	component>
+ITGB3	alphaIIb/beta3 Integrin	component>
+INS	Insulin Receptor/Insulin/Shc	component>
+INS	Insulin Receptor/Insulin/IRS1	component>
+INS	Insulin Receptor/Insulin	component>
+PRL	Prolactin Receptor/Prolactin	component>
+EGF	EGF/EGFR	component>
+EGFR	EGF/EGFR	component>
+JAK2	negative regulation of transcription	-ap>
+JAK2	STAT5B	-a>
+JAK2	STAT5A	-a>
+JAK2	Jak2/Leptin Receptor/Leptin	component>
+JAK2	Jak2/Leptin Receptor	component>
+SPRY2	PTPN1	-a>
+SOCS3	Jak2/Leptin Receptor/Leptin	-a|
+STAT3 (dimer)	SOCS3	-t>
+Prolactin Receptor/Prolactin	CSN2	-t>
+Prolactin Receptor/Prolactin	JAK2	-a>
+PTP1B/p130 Cas	Crk/p130 Cas	-a|
+PTP1B/AKT1	Insulin Receptor/Insulin	-a|
+PDGFB-D/PDGFRB	DOK1	-a>
+Jak2/Leptin Receptor/Leptin	STAT3 (dimer)	-a>
+Jak2/Leptin Receptor	SOCS3	-t|
+Insulin Receptor/Insulin	DOK1	-a>
+Insulin Receptor/Insulin	CAV1	-a>
+Insulin Receptor/Insulin	PTPN1	-a>
+Insulin Receptor/Insulin	PI3K	-a>
+EGF/EGFR	CAV1	-a>
+EGF/EGFR	PTPN1	-a>

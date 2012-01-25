@@ -1,0 +1,39 @@
+complex	Vamp8:SNAP23:Syn4 Secretory granule docking and fusion complex
+complex	Arf1-GDP
+complex	Vamp7:SNAP23:Syn4 Plasma membrane vesicle docking and fusion complex
+complex	Arf1-GTP
+complex	Vamp2:SNAP23:Syn4 Secretory granule docking and fusion complex
+protein	UniProt:P63027 VAMP2
+smallMolecule	GDP
+smallMolecule	GTP
+protein	VAMP8
+protein	VAMP7
+protein	STX4
+protein	SNAP23
+protein	GBF1
+Vamp7:SNAP23:Syn4 Plasma membrane vesicle docking and fusion complex	SNAP23	-a>
+GBF1	Arf1-GTP	-a>
+Vamp8:SNAP23:Syn4 Secretory granule docking and fusion complex	SNAP23	-a>
+SNAP23	UniProt:P63027 VAMP2	-a>
+STX4	UniProt:P63027 VAMP2	-a>
+UniProt:P63027 VAMP2	STX4	-a>
+UniProt:P63027 VAMP2	SNAP23	-a>
+Vamp2:SNAP23:Syn4 Secretory granule docking and fusion complex	UniProt:P63027 VAMP2	-a>
+VAMP7	VAMP7	-a>
+VAMP7	STX4	-a>
+VAMP7	SNAP23	-a>
+SNAP23	VAMP7	-a>
+STX4	VAMP7	-a>
+Arf1-GDP	GDP	-a>
+Arf1-GDP	Arf1-GTP	-a>
+GTP	GDP	-a>
+GTP	Arf1-GTP	-a>
+SNAP23	VAMP8	-a>
+SNAP23	STX4	-a>
+SNAP23	SNAP23	-a>
+STX4	VAMP8	-a>
+STX4	STX4	-a>
+STX4	SNAP23	-a>
+VAMP8	VAMP8	-a>
+VAMP8	STX4	-a>
+VAMP8	SNAP23	-a>

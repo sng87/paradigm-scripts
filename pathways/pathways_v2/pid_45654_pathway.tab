@@ -1,0 +1,46 @@
+complex	GRB2/SOS-1
+smallMolecule	Gleevec
+protein	STAT5
+complex	PI3K
+protein	STAT1
+protein	RAF1
+protein	MYC
+protein	MAPK8
+protein	MAPK3
+protein	MAP3K1
+protein	MAP2K4
+protein	MAP2K1
+protein	JUN
+protein	JAK2
+protein	HRAS
+protein	FOS
+protein	CRKL
+protein	BCR
+protein	BCL2
+protein	AKT1
+Gleevec	GRB2/SOS-1	-a|
+Gleevec	CRKL	-a|
+Gleevec	JAK2	-a|
+JAK2	STAT1	-a>
+AKT1	MYC	-a>
+STAT1	STAT1	-a>
+JUN	JUN	-a>
+STAT5	STAT5	-a>
+JAK2	STAT5	-a>
+FOS	FOS	-a>
+CRKL	PI3K	-a>
+AKT1	BCL2	-a>
+MAP2K1	MAPK3	-a>
+HRAS	RAF1	-a>
+HRAS	MAP3K1	-a>
+PI3K	AKT1	-a>
+BCR	GRB2/SOS-1	-a>
+MAP2K4	MAPK8	-a>
+RAF1	MAP2K1	-a>
+BCR	CRKL	-a>
+MAP3K1	MAP2K4	-a>
+MYC	MYC	-a>
+BCR	JAK2	-a>
+GRB2/SOS-1	HRAS	-a>
+MAPK8	JUN	-a>
+MAPK3	FOS	-a>

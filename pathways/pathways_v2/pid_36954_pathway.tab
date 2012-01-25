@@ -1,0 +1,181 @@
+abstract	transcription from RNA polymerase III promoter
+abstract	DNA methylation
+abstract	histone acetylation
+abstract	rRNA transcription
+protein	HSP70
+complex	MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53
+rna	MIR17
+complex	MYC/Max/P-TEFb
+protein	Dyskerin
+rna	MIR338
+protein	MMP9_107-707
+rna	MIR9-3
+complex	RNA polymerase transcription factor SL1 complex
+complex	MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator
+protein	IRP2
+complex	MYC/Max/PIM1
+complex	SMAD3/SMAD4
+complex	MYC/Max/Cbp/p300
+rna	MIR200A
+rna	MIR429
+complex	MYC/Max
+rna	MIR141
+complex	MYC/Max/RPL11
+protein	Cbp/p300
+protein	UBTF
+protein	TRRAP
+protein	TP53
+protein	TK1
+protein	TFRC
+protein	TERT
+protein	TAF4B
+protein	SNHG3-RCC1
+protein	SNAI1
+protein	SLC2A1
+protein	SHMT1
+protein	SERPINI1
+protein	RPL11
+protein	PTMA
+protein	PRDX3
+protein	POLR3D
+protein	PMAIP1
+protein	PIM1
+protein	PFKM
+protein	PEG10
+protein	PDCD10
+protein	ODC1
+protein	NPM1
+protein	NME2
+protein	NME1
+protein	NDUFAF2
+protein	NCL
+protein	NBN
+protein	MYCT1
+protein	MTDH
+protein	MTA1
+protein	MINA
+protein	LIN28B
+protein	LDHA
+protein	KIR3DL1
+protein	ID2
+protein	HUWE1
+protein	HSPD1
+protein	HSP90AA1
+protein	HMGA1
+protein	GPAM
+protein	GAPDH
+protein	FOSL1
+protein	ENO1
+protein	EIF4G1
+protein	EIF4E
+protein	EIF4A1
+protein	EIF2S1
+protein	E2F3
+protein	DDX18
+protein	CDK4
+protein	CDCA7
+protein	CDC25A
+protein	CCND2
+protein	CCNB1
+protein	CAD
+protein	BMI1
+protein	BIRC5
+protein	BCAT1
+protein	BAX
+MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	PTMA	-t>
+MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	CAD	-t>
+MYC/Max	NME2	-t>
+MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	GPAM	-t>
+MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	NME1	-t>
+MYC/Max	PDCD10	-t>
+MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	HSPD1	-t>
+MYC/Max	SERPINI1	-t>
+Cbp/p300	TERT	-t>
+MYC/Max/RPL11	NCL	-t|
+Cbp/p300	NCL	-t>
+MYC/Max/TRRAP/TIP60/TIP49A/TIP49B/BAF53	NCL	-t>
+HUWE1	MYC/Max	-a>
+SMAD3/SMAD4	SNAI1	-t>
+UBTF	rRNA transcription	-ap>
+RNA polymerase transcription factor SL1 complex	rRNA transcription	-ap>
+MYC/Max	rRNA transcription	-ap>
+Cbp/p300	CCND2	-t>
+MYC/Max	EIF4G1	-t>
+MYC/Max	SLC2A1	-t>
+MYC/Max	CDCA7	-t>
+MYC/Max	CDC25A	-t>
+MYC/Max	TK1	-t>
+MYC/Max	MTDH	-t>
+MYC/Max	MIR200A	-t>
+MYC/Max	UBTF	-t>
+MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	CAD	-t>
+MYC/Max	NPM1	-t>
+histone acetylation	PTMA	-t>
+MYC/Max	IRP2	-t>
+MYC/Max	SHMT1	-t>
+MYC/Max	BCAT1	-t>
+MYC/Max	NDUFAF2	-t>
+MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	CDK4	-t>
+MYC/Max	POLR3D	-t>
+MYC/Max	BIRC5	-t>
+MYC/Max	MTA1	-t>
+MYC/Max	LIN28B	-t>
+MYC/Max	MIR429	-t>
+MYC/Max	PRDX3	-t>
+MYC/Max	TFRC	-t>
+MYC/Max	KIR3DL1	-t>
+MYC/Max	DDX18	-t>
+MYC/Max	LDHA	-t>
+histone acetylation	CAD	-t>
+MYC/Max	E2F3	-t>
+MYC/Max	MMP9_107-707	-t>
+MYC/Max	SNHG3-RCC1	-t>
+MYC/Max	EIF4A1	-t>
+MYC/Max/PIM1	FOSL1	-t>
+histone acetylation	NME2	-t>
+histone acetylation	GPAM	-t>
+MYC/Max	MIR9-3	-t>
+MYC/Max	EIF4E	-t>
+MYC/Max	ENO1	-t>
+MYC/Max	BMI1	-t>
+MYC/Max	HSP90AA1	-t>
+MYC/Max	MIR141	-t>
+histone acetylation	NME1	-t>
+DNA methylation	PDCD10	-t|
+histone acetylation	HSPD1	-t>
+DNA methylation	SERPINI1	-t|
+MYC/Max	BAX	-t>
+MYC/Max	MINA	-t>
+MYC/Max	PMAIP1	-t>
+MYC/Max/Cbp/p300	EIF2S1	-t>
+MYC/Max	PFKM	-t>
+MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	transcription from RNA polymerase III promoter	-ap>
+PIM1	MYC/Max/PIM1	component>
+MYC/Max	MYC/Max/PIM1	component>
+MYC/Max	MIR17	-t>
+MYC/Max	Dyskerin	-t>
+MYC/Max	NBN	-t>
+MYC/Max/Cbp/p300	ODC1	-t>
+MYC/Max	GAPDH	-t>
+MYC/Max	PEG10	-t>
+MYC/Max	TAF4B	-t>
+RPL11	MYC/Max/RPL11	component>
+MYC/Max	MYC/Max/RPL11	component>
+Cbp/p300	MYC/Max/Cbp/p300	component>
+MYC/Max	MYC/Max/Cbp/p300	component>
+MYC/Max	HMGA1	-t>
+MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	TERT	-t>
+histone acetylation	NCL	-t>
+MYC/Max	MYC/Max	-a>
+MYC/Max	SNAI1	-t>
+MYC/Max/PIM1	ID2	-t>
+MYC/Max	MIR338	-t>
+MYC/Max/P-TEFb	CAD	-t>
+MYC/Max	RPL11	-t>
+MYC/Max	MYCT1	-t>
+MYC/Max	CCNB1	-t>
+MYC/Max	TP53	-t>
+MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	HSPD1	-t>
+TRRAP	rRNA transcription	-ap>
+MYC/Max/TRRAP/GCN5/STAF65G/SPT3/TAF9/TAF10/TAF12/core Mediator	CCND2	-t>
+MYC/Max	HSP70	-t>

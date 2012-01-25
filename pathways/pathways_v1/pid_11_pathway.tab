@@ -1,0 +1,9 @@
+protein	ITGB7
+protein	ITGA4
+protein	ITGB1
+complex	alpha4/beta7 Integrin
+complex	alpha4/beta1 Integrin
+ITGB7	alpha4/beta7 Integrin	component>
+ITGA4	alpha4/beta7 Integrin	component>
+ITGA4	alpha4/beta1 Integrin	component>
+ITGB1	alpha4/beta1 Integrin	component>

@@ -1,0 +1,7 @@
+complex	Cohesin Complex with Phosphorylated SA2 and Scc1 Subunits
+complex	Cohesin Complex with a phosphorylated SA2 Subunit
+protein	PLK1
+protein	FBXO5
+PLK1	Cohesin Complex with Phosphorylated SA2 and Scc1 Subunits	-a>
+PLK1	FBXO5	-a>
+Cohesin Complex with a phosphorylated SA2 Subunit	Cohesin Complex with Phosphorylated SA2 and Scc1 Subunits	-a>

@@ -1,0 +1,16 @@
+smallMolecule	Cytidine
+smallMolecule	CMP
+smallMolecule	UMP
+smallMolecule	uridine
+smallMolecule	ATP
+smallMolecule	ADP
+protein	UCK2
+UCK2	CMP	-a>
+UCK2	UMP	-a>
+Cytidine	ADP	-a>
+Cytidine	CMP	-a>
+ATP	CMP	-a>
+uridine	ADP	-a>
+uridine	UMP	-a>
+ATP	ADP	-a>
+ATP	UMP	-a>

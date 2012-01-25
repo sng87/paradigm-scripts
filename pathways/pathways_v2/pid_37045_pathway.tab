@@ -1,0 +1,180 @@
+abstract	negative regulation of receptor internalization
+abstract	negative regulation of apoptosis
+abstract	cytoskeleton organization
+abstract	cell migration
+abstract	senescence
+abstract	degradation
+abstract	MAPKKK cascade
+smallMolecule	DAG
+complex	PYK2/SHP2
+protein	E-cadherin
+complex	FGFR3c/FGF23
+complex	FGFR4-FGF complex/NCAM
+complex	FGFR3-FGF complex
+complex	FGFR3-FGF complex/Pyk2
+complex	FGFR/FGF/Syndecan-2
+complex	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Grb2
+complex	HGF/MET
+complex	FGFR4/FGF19
+complex	FGFR4-FGF complex
+complex	FGFR4/FGF19/Klotho
+protein	MMP9_107-707
+smallMolecule	ATP
+complex	FGFR2b/FGF1/PAK4/GRB2
+protein	ERK1-2-active
+protein	NCAM isoforms
+complex	FGFR1-FGF complex/NCAM isoforms
+complex	Grb2/SOS1/SHC/FRS2/FGFR/FGF
+protein	ERK1-2
+complex	FGFR/FGF/Syndecan-2/FRS2/Cbl/GRB2/SOS1/SHC
+complex	FGFR3c/FGF23/Klotho
+protein	uPA
+complex	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2
+complex	AP1
+protein	CaMKIIA
+complex	FGFR1-FGF complex/Src/Cortactin
+complex	STAT5B (dimer)
+smallMolecule	PI-3-4-5-P3
+complex	FGFR/FGF/Syndecan-2/FRS2/Sprouty2
+complex	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Cbl
+complex	FGFR2/NCAM
+complex	FGFR1-FGF complex
+complex	FGFR1-FGF complex/Sef
+complex	FGFR2b/FGF1
+complex	FGFR/FGF/Syndecan-2/FRS2
+complex	FGFR-FGF2 complex
+complex	FGFR-FGF2 complex/N-cadherin
+smallMolecule	PI-4-5-P2
+complex	PI3K
+smallMolecule	Ca2+
+complex	FGFR1/NCAM
+smallMolecule	IP3
+protein	Cortactin
+protein	SHP2
+protein	STAT5B
+protein	STAT1
+protein	SRC
+protein	SPRY2
+protein	SPP1
+protein	SOS1
+protein	SHC1
+protein	RUNX2
+protein	RPS6KA1
+protein	PTK2B
+protein	PLCG1
+protein	PLAUR
+protein	PDPK1
+protein	PAK4
+protein	NCAM1
+protein	KLB
+protein	IL17RD
+protein	GRB2
+protein	GAB1
+protein	FRS2
+protein	FGFR2
+protein	FGFR1
+protein	CTNND1
+protein	CDH2
+protein	CDH1
+protein	CBL
+protein	BGLAP
+protein	AKT1
+ATP	FGFR2/NCAM	component>
+SRC	FGFR/FGF/Syndecan-2/FRS2/Sprouty2	component>
+CTNND1	CDH1	-a>
+FGFR-FGF2 complex	BGLAP	-t>
+ATP	FGFR1/NCAM	component>
+E-cadherin	FGFR1-FGF complex	-a|
+FGFR3-FGF complex/Pyk2	STAT5B (dimer)	component>
+FGFR1-FGF complex/Sef	MAPKKK cascade	-ap|
+Grb2/SOS1/SHC/FRS2/FGFR/FGF	MAPKKK cascade	-ap>
+PI3K	PI-3-4-5-P3	-a>
+PI3K	uPA	-t|
+PLCG1	DAG	-a>
+E-cadherin	ERK1-2-active	-a|
+FGFR-FGF2 complex	ERK1-2-active	-a>
+PDPK1	AKT1	-a>
+ERK1-2-active	FGFR/FGF/Syndecan-2/FRS2	-a>
+senescence	FGFR1-FGF complex/Src/Cortactin	component>
+SHP2	PYK2/SHP2	component>
+SHP2	FGFR3-FGF complex/Pyk2	component>
+PTK2B	PYK2/SHP2	component>
+PTK2B	FGFR3-FGF complex/Pyk2	component>
+FGFR3-FGF complex	PYK2/SHP2	component>
+FGFR3-FGF complex	FGFR3-FGF complex/Pyk2	component>
+NCAM1	FGFR4-FGF complex/NCAM	component>
+FGFR4-FGF complex	FGFR4-FGF complex/NCAM	component>
+SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	PI3K	-a>
+FGFR2	FGFR2/NCAM	component>
+NCAM1	FGFR2/NCAM	component>
+FGFR/FGF/Syndecan-2	SPP1	-t>
+FGFR/FGF/Syndecan-2	STAT1	-a>
+FGFR1-FGF complex/Src/Cortactin	cell migration	-ap>
+FGFR/FGF/Syndecan-2/FRS2/Sprouty2	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Grb2	component>
+FGFR/FGF/Syndecan-2/FRS2/Sprouty2	Grb2/SOS1/SHC/FRS2/FGFR/FGF	component>
+SHC1	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Grb2	component>
+SHC1	Grb2/SOS1/SHC/FRS2/FGFR/FGF	component>
+SOS1	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Grb2	component>
+SOS1	Grb2/SOS1/SHC/FRS2/FGFR/FGF	component>
+GRB2	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Grb2	component>
+GRB2	Grb2/SOS1/SHC/FRS2/FGFR/FGF	component>
+FGFR/FGF/Syndecan-2/FRS2	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Grb2	component>
+FGFR/FGF/Syndecan-2/FRS2	Grb2/SOS1/SHC/FRS2/FGFR/FGF	component>
+SPRY2	FGFR/FGF/Syndecan-2/FRS2/Sprouty2	component>
+FGFR/FGF/Syndecan-2/FRS2	FGFR/FGF/Syndecan-2/FRS2/Sprouty2	component>
+GAB1	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+GRB2	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+SHP2	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+FGFR/FGF/Syndecan-2/FRS2	SHP2/GAB/GRB2/FRS2/FGFR/FGF/Syndecan-2	component>
+FGFR-FGF2 complex/N-cadherin	negative regulation of receptor internalization	-ap>
+FGFR-FGF2 complex	uPA	-a>
+FGFR1-FGF complex	CDH1	-a>
+RUNX2	BGLAP	-t>
+Ca2+	CaMKIIA	-a>
+FGFR1	FGFR1/NCAM	component>
+NCAM1	FGFR1/NCAM	component>
+CBL	FGFR/FGF/Syndecan-2/FRS2/Cbl/GRB2/SOS1/SHC	component>
+Grb2/SOS1/SHC/FRS2/FGFR/FGF	FGFR/FGF/Syndecan-2/FRS2/Cbl/GRB2/SOS1/SHC	component>
+IP3	Ca2+	-a>
+FGFR/FGF/Syndecan-2	FGFR/FGF/Syndecan-2/FRS2	component>
+FRS2	FGFR/FGF/Syndecan-2/FRS2	component>
+FGFR/FGF/Syndecan-2/FRS2/Cbl/GRB2/SOS1/SHC	degradation	-ap>
+CDH2	FGFR-FGF2 complex/N-cadherin	component>
+FGFR-FGF2 complex	FGFR-FGF2 complex/N-cadherin	component>
+CTNND1	FGFR1-FGF complex	-a>
+STAT5B	STAT5B (dimer)	component>
+FGFR-FGF2 complex/N-cadherin	MMP9_107-707	-t>
+FGFR/FGF/Syndecan-2	PLCG1	-a>
+ERK1-2-active	MAPKKK cascade	-ap>
+FGFR2b/FGF1/PAK4/GRB2	negative regulation of apoptosis	-ap>
+PI-4-5-P2	PI-3-4-5-P3	-a>
+NCAM isoforms	FGFR1-FGF complex/NCAM isoforms	component>
+FGFR1-FGF complex	FGFR1-FGF complex/NCAM isoforms	component>
+IL17RD	FGFR1-FGF complex/Sef	component>
+FGFR1-FGF complex	FGFR1-FGF complex/Sef	component>
+FGFR-FGF2 complex	uPA	-t>
+FGFR-FGF2 complex	PLAUR	-a>
+GRB2	FGFR2b/FGF1/PAK4/GRB2	component>
+PAK4	FGFR2b/FGF1/PAK4/GRB2	component>
+FGFR2b/FGF1	FGFR2b/FGF1/PAK4/GRB2	component>
+CBL	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Cbl	component>
+FGFR/FGF/Syndecan-2/FRS2/Sprouty2	FGFR/FGF/Syndecan-2/FRS2/Sprouty2/Cbl	component>
+PI-4-5-P2	IP3	-a>
+PI-4-5-P2	DAG	-a>
+ERK1-2-active	RPS6KA1	-a>
+KLB	FGFR4/FGF19/Klotho	component>
+FGFR4/FGF19	FGFR4/FGF19/Klotho	component>
+HGF/MET	cell migration	-ap>
+PLAUR	cell migration	-ap>
+uPA	cell migration	-ap>
+ERK1-2	ERK1-2-active	-a>
+PI-3-4-5-P3	AKT1	-a>
+KLB	FGFR3c/FGF23/Klotho	component>
+FGFR3c/FGF23	FGFR3c/FGF23/Klotho	component>
+FGFR/FGF/Syndecan-2/FRS2	FGFR/FGF/Syndecan-2/FRS2	-a>
+ERK1-2-active	RUNX2	-a>
+CaMKIIA	cytoskeleton organization	-ap>
+FGFR/FGF/Syndecan-2	AP1	-a>
+Cortactin	FGFR1-FGF complex/Src/Cortactin	component>
+SRC	FGFR1-FGF complex/Src/Cortactin	component>
+FGFR1-FGF complex	FGFR1-FGF complex/Src/Cortactin	component>

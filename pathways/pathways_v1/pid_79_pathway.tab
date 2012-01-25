@@ -1,0 +1,474 @@
+protein	PLCB1
+protein	HBEGF
+protein	ESR2
+protein	PELP1
+protein	MAPK11
+protein	GNA13
+protein	SOS1
+protein	PLCB2
+protein	GNAI1
+protein	GRB2
+protein	GNB1
+protein	RHOA
+protein	GNG2
+protein	BCAR1
+protein	GNAQ
+protein	PIK3CA
+protein	GNAL
+protein	AKT1
+protein	GNA15
+protein	GNA11
+protein	GNAO1
+protein	NOS3
+protein	SHC1
+protein	PIK3R1
+protein	MSN
+protein	GNAZ
+protein	MMP9
+protein	SRC
+protein	GNAO1
+protein	GNAI3
+protein	MMP2
+protein	IGF1R
+protein	GNAI2
+protein	ESR1
+protein	IGF1
+protein	KRAS
+protein	KRAS
+protein	HRAS
+protein	NRAS
+protein	GNA14
+protein	ROCK2
+protein	STRN
+protein	EntrezGene:2778
+complex	RhoA/GTP
+complex	RhoA/GDP
+complex	RAS family/GTP
+complex	PI3K
+complex	IGF-1R heterotetramer/IGF1
+complex	IGF-1R heterotetramer
+complex	Gs family/GTP
+complex	Gs family/GDP/Gbeta gamma
+complex	Gq family/GTP
+complex	Gq family/GDP/Gbeta gamma
+complex	Gai/GDP
+complex	GRB2/SOS1
+complex	GNB1/GNG2
+complex	G13/GTP
+complex	G13/GDP/Gbeta gamma
+complex	ER alpha/Gai/GDP/Gbeta gamma
+complex	E2/ERA-ERB (dimer)
+complex	E2/ER beta (dimer)
+complex	E2/ER alpha (dimer)/Striatin
+complex	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1
+complex	E2/ER alpha (dimer)/PELP1/Src/p52 SHC
+complex	E2/ER alpha (dimer)/PELP1/Src/p130 Cas
+complex	E2/ER alpha (dimer)/PELP1/Src/PI3K
+complex	E2/ER alpha (dimer)/PELP1/Src
+complex	E2/ER alpha (dimer)/PELP1
+complex	E2/ER alpha (dimer)
+chemical	mol:PI-3-4-5-P3
+chemical	mol:NO
+chemical	mol:NADP
+chemical	mol:L-citrulline
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:E2
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	vasodilation
+abstract	ruffle organization
+abstract	regulation of stress fiber formation
+abstract	pseudopodium formation
+abstract	cell adhesion
+abstract	cAMP biosynthetic process
+abstract	apoptosis
+abstract	MAPKKK cascade
+abstract	JNK cascade
+protein	PLCB1
+protein	HBEGF
+protein	ESR2
+protein	PELP1
+protein	MAPK11
+protein	GNA13
+protein	SOS1
+protein	PLCB2
+protein	GNAI1
+protein	GRB2
+protein	GNB1
+protein	RHOA
+protein	GNG2
+protein	BCAR1
+protein	GNAQ
+protein	PIK3CA
+protein	GNAL
+protein	AKT1
+protein	GNA15
+protein	GNA11
+protein	GNAO1
+protein	NOS3
+protein	SHC1
+protein	PIK3R1
+protein	MSN
+protein	GNAZ
+protein	MMP9
+protein	SRC
+protein	GNAO1
+protein	GNAI3
+protein	MMP2
+protein	IGF1R
+protein	GNAI2
+protein	ESR1
+protein	IGF1
+protein	KRAS
+protein	KRAS
+protein	HRAS
+protein	NRAS
+protein	GNA14
+protein	ROCK2
+protein	STRN
+protein	EntrezGene:2778
+complex	RhoA/GTP
+complex	RhoA/GDP
+complex	RAS family/GTP
+complex	PI3K
+complex	IGF-1R heterotetramer/IGF1
+complex	IGF-1R heterotetramer
+complex	Gs family/GTP
+complex	Gs family/GDP/Gbeta gamma
+complex	Gq family/GTP
+complex	Gq family/GDP/Gbeta gamma
+complex	Gai/GDP
+complex	GRB2/SOS1
+complex	GNB1/GNG2
+complex	G13/GTP
+complex	G13/GDP/Gbeta gamma
+complex	ER alpha/Gai/GDP/Gbeta gamma
+complex	E2/ERA-ERB (dimer)
+complex	E2/ER beta (dimer)
+complex	E2/ER alpha (dimer)/Striatin
+complex	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1
+complex	E2/ER alpha (dimer)/PELP1/Src/p52 SHC
+complex	E2/ER alpha (dimer)/PELP1/Src/p130 Cas
+complex	E2/ER alpha (dimer)/PELP1/Src/PI3K
+complex	E2/ER alpha (dimer)/PELP1/Src
+complex	E2/ER alpha (dimer)/PELP1
+complex	E2/ER alpha (dimer)
+chemical	mol:PI-3-4-5-P3
+chemical	mol:NO
+chemical	mol:NADP
+chemical	mol:L-citrulline
+chemical	mol:IP3
+chemical	mol:GTP
+chemical	mol:GDP
+chemical	mol:E2
+chemical	mol:DAG
+chemical	mol:Ca2+
+abstract	vasodilation
+abstract	ruffle organization
+abstract	regulation of stress fiber formation
+abstract	pseudopodium formation
+abstract	cell adhesion
+abstract	cAMP biosynthetic process
+abstract	apoptosis
+abstract	MAPKKK cascade
+abstract	JNK cascade
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:NO	vasodilation	-ap>
+mol:NO	cell adhesion	-ap|
+mol:IP3	mol:Ca2+	-a>
+mol:GTP	RhoA/GTP	component>
+mol:GTP	RAS family/GTP	component>
+mol:GTP	Gs family/GTP	component>
+mol:GTP	Gq family/GTP	component>
+mol:GTP	G13/GTP	component>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Gs family/GDP/Gbeta gamma	component>
+mol:GDP	Gq family/GDP/Gbeta gamma	component>
+mol:GDP	Gai/GDP	component>
+mol:GDP	G13/GDP/Gbeta gamma	component>
+mol:GDP	ER alpha/Gai/GDP/Gbeta gamma	component>
+mol:E2	E2/ERA-ERB (dimer)	component>
+mol:E2	E2/ER beta (dimer)	component>
+mol:E2	E2/ER alpha (dimer)/Striatin	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src	component>
+mol:E2	E2/ER alpha (dimer)/PELP1	component>
+mol:E2	E2/ER alpha (dimer)	component>
+PLCB1	mol:IP3	-a>
+PLCB1	mol:DAG	-a>
+ESR2	E2/ERA-ERB (dimer)	component>
+ESR2	E2/ER beta (dimer)	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src	component>
+PELP1	E2/ER alpha (dimer)/PELP1	component>
+GNA13	G13/GTP	component>
+GNA13	G13/GDP/Gbeta gamma	component>
+SOS1	GRB2/SOS1	component>
+SOS1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+PLCB2	mol:IP3	-a>
+PLCB2	mol:DAG	-a>
+GNAI1	Gai/GDP	component>
+GNAI1	ER alpha/Gai/GDP/Gbeta gamma	component>
+GRB2	GRB2/SOS1	component>
+GRB2	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+GNB1	Gs family/GDP/Gbeta gamma	component>
+GNB1	Gq family/GDP/Gbeta gamma	component>
+GNB1	GNB1/GNG2	component>
+GNB1	G13/GDP/Gbeta gamma	component>
+GNB1	ER alpha/Gai/GDP/Gbeta gamma	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+GNG2	Gs family/GDP/Gbeta gamma	component>
+GNG2	Gq family/GDP/Gbeta gamma	component>
+GNG2	GNB1/GNG2	component>
+GNG2	G13/GDP/Gbeta gamma	component>
+GNG2	ER alpha/Gai/GDP/Gbeta gamma	component>
+BCAR1	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+GNAQ	Gq family/GTP	component>
+GNAQ	Gq family/GDP/Gbeta gamma	component>
+PIK3CA	PI3K	component>
+PIK3CA	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+GNAL	Gs family/GTP	component>
+GNAL	Gs family/GDP/Gbeta gamma	component>
+AKT1	apoptosis	-ap|
+AKT1	NOS3	-a>
+GNA15	Gq family/GTP	component>
+GNA15	Gq family/GDP/Gbeta gamma	component>
+GNA11	Gq family/GTP	component>
+GNA11	Gq family/GDP/Gbeta gamma	component>
+GNAO1	Gai/GDP	component>
+GNAO1	ER alpha/Gai/GDP/Gbeta gamma	component>
+NOS3	mol:NO	-a>
+NOS3	mol:NADP	-a>
+NOS3	mol:L-citrulline	-a>
+SHC1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+SHC1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+PIK3R1	PI3K	component>
+PIK3R1	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+MSN	ruffle organization	-ap>
+MSN	regulation of stress fiber formation	-ap|
+MSN	pseudopodium formation	-ap>
+GNAZ	Gai/GDP	component>
+GNAZ	ER alpha/Gai/GDP/Gbeta gamma	component>
+MMP9	HBEGF	-a>
+SRC	MMP9	-a>
+SRC	MMP2	-a>
+SRC	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src	component>
+GNAO1	Gai/GDP	component>
+GNAO1	ER alpha/Gai/GDP/Gbeta gamma	component>
+GNAI3	Gai/GDP	component>
+GNAI3	ER alpha/Gai/GDP/Gbeta gamma	component>
+MMP2	HBEGF	-a>
+IGF1R	IGF-1R heterotetramer/IGF1	component>
+IGF1R	IGF-1R heterotetramer	component>
+GNAI2	Gai/GDP	component>
+GNAI2	ER alpha/Gai/GDP/Gbeta gamma	component>
+ESR1	ER alpha/Gai/GDP/Gbeta gamma	component>
+ESR1	E2/ERA-ERB (dimer)	component>
+ESR1	E2/ER alpha (dimer)/Striatin	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src	component>
+ESR1	E2/ER alpha (dimer)/PELP1	component>
+ESR1	E2/ER alpha (dimer)	component>
+IGF1	IGF-1R heterotetramer/IGF1	component>
+KRAS	RAS family/GTP	component>
+KRAS	RAS family/GTP	component>
+HRAS	RAS family/GTP	component>
+NRAS	RAS family/GTP	component>
+GNA14	Gq family/GTP	component>
+GNA14	Gq family/GDP/Gbeta gamma	component>
+ROCK2	MSN	-a>
+STRN	E2/ER alpha (dimer)/Striatin	component>
+RhoA/GTP	ROCK2	-a>
+RAS family/GTP	mol:GDP	-a>
+RAS family/GTP	RhoA/GTP	-a>
+Gs family/GTP	cAMP biosynthetic process	-ap>
+Gq family/GTP	PLCB1	-a>
+Gq family/GTP	PLCB2	-a>
+G13/GTP	mol:GDP	-a>
+G13/GTP	RhoA/GTP	-a>
+EntrezGene:2778	Gs family/GTP	component>
+EntrezGene:2778	Gs family/GDP/Gbeta gamma	component>
+ER alpha/Gai/GDP/Gbeta gamma	NOS3	-a>
+ER alpha/Gai/GDP/Gbeta gamma	SRC	-a>
+E2/ERA-ERB (dimer)	mol:GDP	-a>
+E2/ERA-ERB (dimer)	Gs family/GTP	-a>
+E2/ERA-ERB (dimer)	Gq family/GTP	-a>
+E2/ERA-ERB (dimer)	GNB1/GNG2	-a>
+E2/ER beta (dimer)	MAPK11	-a>
+E2/ER beta (dimer)	NOS3	-a>
+E2/ER beta (dimer)	JNK cascade	-ap>
+E2/ER alpha (dimer)/Striatin	AKT1	-a>
+E2/ER alpha (dimer)/Striatin	MAPKKK cascade	-ap>
+E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	MAPKKK cascade	-ap>
+E2/ER alpha (dimer)/PELP1/Src/p52 SHC	IGF-1R heterotetramer/IGF1	-a>
+E2/ER alpha (dimer)/PELP1/Src/p130 Cas	MAPKKK cascade	-ap>
+E2/ER alpha (dimer)/PELP1/Src/PI3K	mol:PI-3-4-5-P3	-a>
+E2/ER alpha (dimer)/PELP1/Src/PI3K	AKT1	-a>
+E2/ER alpha (dimer)	mol:GDP	-a>
+E2/ER alpha (dimer)	GNB1/GNG2	-a>
+E2/ER alpha (dimer)	G13/GTP	-a>
+mol:PI-3-4-5-P3	AKT1	-a>
+mol:NO	vasodilation	-ap>
+mol:NO	cell adhesion	-ap|
+mol:IP3	mol:Ca2+	-a>
+mol:GTP	RhoA/GTP	component>
+mol:GTP	RAS family/GTP	component>
+mol:GTP	Gs family/GTP	component>
+mol:GTP	Gq family/GTP	component>
+mol:GTP	G13/GTP	component>
+mol:GDP	RhoA/GDP	component>
+mol:GDP	Gs family/GDP/Gbeta gamma	component>
+mol:GDP	Gq family/GDP/Gbeta gamma	component>
+mol:GDP	Gai/GDP	component>
+mol:GDP	G13/GDP/Gbeta gamma	component>
+mol:GDP	ER alpha/Gai/GDP/Gbeta gamma	component>
+mol:E2	E2/ERA-ERB (dimer)	component>
+mol:E2	E2/ER beta (dimer)	component>
+mol:E2	E2/ER alpha (dimer)/Striatin	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+mol:E2	E2/ER alpha (dimer)/PELP1/Src	component>
+mol:E2	E2/ER alpha (dimer)/PELP1	component>
+mol:E2	E2/ER alpha (dimer)	component>
+PLCB1	mol:IP3	-a>
+PLCB1	mol:DAG	-a>
+ESR2	E2/ERA-ERB (dimer)	component>
+ESR2	E2/ER beta (dimer)	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+PELP1	E2/ER alpha (dimer)/PELP1/Src	component>
+PELP1	E2/ER alpha (dimer)/PELP1	component>
+GNA13	G13/GTP	component>
+GNA13	G13/GDP/Gbeta gamma	component>
+SOS1	GRB2/SOS1	component>
+SOS1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+PLCB2	mol:IP3	-a>
+PLCB2	mol:DAG	-a>
+GNAI1	Gai/GDP	component>
+GNAI1	ER alpha/Gai/GDP/Gbeta gamma	component>
+GRB2	GRB2/SOS1	component>
+GRB2	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+GNB1	Gs family/GDP/Gbeta gamma	component>
+GNB1	Gq family/GDP/Gbeta gamma	component>
+GNB1	GNB1/GNG2	component>
+GNB1	G13/GDP/Gbeta gamma	component>
+GNB1	ER alpha/Gai/GDP/Gbeta gamma	component>
+RHOA	RhoA/GTP	component>
+RHOA	RhoA/GDP	component>
+GNG2	Gs family/GDP/Gbeta gamma	component>
+GNG2	Gq family/GDP/Gbeta gamma	component>
+GNG2	GNB1/GNG2	component>
+GNG2	G13/GDP/Gbeta gamma	component>
+GNG2	ER alpha/Gai/GDP/Gbeta gamma	component>
+BCAR1	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+GNAQ	Gq family/GTP	component>
+GNAQ	Gq family/GDP/Gbeta gamma	component>
+PIK3CA	PI3K	component>
+PIK3CA	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+GNAL	Gs family/GTP	component>
+GNAL	Gs family/GDP/Gbeta gamma	component>
+AKT1	apoptosis	-ap|
+AKT1	NOS3	-a>
+GNA15	Gq family/GTP	component>
+GNA15	Gq family/GDP/Gbeta gamma	component>
+GNA11	Gq family/GTP	component>
+GNA11	Gq family/GDP/Gbeta gamma	component>
+GNAO1	Gai/GDP	component>
+GNAO1	ER alpha/Gai/GDP/Gbeta gamma	component>
+NOS3	mol:NO	-a>
+NOS3	mol:NADP	-a>
+NOS3	mol:L-citrulline	-a>
+SHC1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+SHC1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+PIK3R1	PI3K	component>
+PIK3R1	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+MSN	ruffle organization	-ap>
+MSN	regulation of stress fiber formation	-ap|
+MSN	pseudopodium formation	-ap>
+GNAZ	Gai/GDP	component>
+GNAZ	ER alpha/Gai/GDP/Gbeta gamma	component>
+MMP9	HBEGF	-a>
+SRC	MMP9	-a>
+SRC	MMP2	-a>
+SRC	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+SRC	E2/ER alpha (dimer)/PELP1/Src	component>
+GNAO1	Gai/GDP	component>
+GNAO1	ER alpha/Gai/GDP/Gbeta gamma	component>
+GNAI3	Gai/GDP	component>
+GNAI3	ER alpha/Gai/GDP/Gbeta gamma	component>
+MMP2	HBEGF	-a>
+IGF1R	IGF-1R heterotetramer/IGF1	component>
+IGF1R	IGF-1R heterotetramer	component>
+GNAI2	Gai/GDP	component>
+GNAI2	ER alpha/Gai/GDP/Gbeta gamma	component>
+ESR1	ER alpha/Gai/GDP/Gbeta gamma	component>
+ESR1	E2/ERA-ERB (dimer)	component>
+ESR1	E2/ER alpha (dimer)/Striatin	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/p52 SHC	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/p130 Cas	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src/PI3K	component>
+ESR1	E2/ER alpha (dimer)/PELP1/Src	component>
+ESR1	E2/ER alpha (dimer)/PELP1	component>
+ESR1	E2/ER alpha (dimer)	component>
+IGF1	IGF-1R heterotetramer/IGF1	component>
+KRAS	RAS family/GTP	component>
+KRAS	RAS family/GTP	component>
+HRAS	RAS family/GTP	component>
+NRAS	RAS family/GTP	component>
+GNA14	Gq family/GTP	component>
+GNA14	Gq family/GDP/Gbeta gamma	component>
+ROCK2	MSN	-a>
+STRN	E2/ER alpha (dimer)/Striatin	component>
+RhoA/GTP	ROCK2	-a>
+RAS family/GTP	mol:GDP	-a>
+RAS family/GTP	RhoA/GTP	-a>
+Gs family/GTP	cAMP biosynthetic process	-ap>
+Gq family/GTP	PLCB1	-a>
+Gq family/GTP	PLCB2	-a>
+G13/GTP	mol:GDP	-a>
+G13/GTP	RhoA/GTP	-a>
+EntrezGene:2778	Gs family/GTP	component>
+EntrezGene:2778	Gs family/GDP/Gbeta gamma	component>
+ER alpha/Gai/GDP/Gbeta gamma	NOS3	-a>
+ER alpha/Gai/GDP/Gbeta gamma	SRC	-a>
+E2/ERA-ERB (dimer)	mol:GDP	-a>
+E2/ERA-ERB (dimer)	Gs family/GTP	-a>
+E2/ERA-ERB (dimer)	Gq family/GTP	-a>
+E2/ERA-ERB (dimer)	GNB1/GNG2	-a>
+E2/ER beta (dimer)	MAPK11	-a>
+E2/ER beta (dimer)	NOS3	-a>
+E2/ER beta (dimer)	JNK cascade	-ap>
+E2/ER alpha (dimer)/Striatin	AKT1	-a>
+E2/ER alpha (dimer)/Striatin	MAPKKK cascade	-ap>
+E2/ER alpha (dimer)/PELP1/Src/p52 SHC/GRB2/SOS1	MAPKKK cascade	-ap>
+E2/ER alpha (dimer)/PELP1/Src/p52 SHC	IGF-1R heterotetramer/IGF1	-a>
+E2/ER alpha (dimer)/PELP1/Src/p130 Cas	MAPKKK cascade	-ap>
+E2/ER alpha (dimer)/PELP1/Src/PI3K	mol:PI-3-4-5-P3	-a>
+E2/ER alpha (dimer)/PELP1/Src/PI3K	AKT1	-a>
+E2/ER alpha (dimer)	mol:GDP	-a>
+E2/ER alpha (dimer)	GNB1/GNG2	-a>
+E2/ER alpha (dimer)	G13/GTP	-a>

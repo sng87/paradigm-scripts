@@ -1,0 +1,19 @@
+complex	LPS bound to the signal-competent TLR4 complex
+complex	LPS complexed with CD14
+complex	LBP complexed with bacterial LPS
+complex	Chlamydial HSP60 bound to TLR4
+complex	TLR4:MD2 complex
+protein	UniProt:O84760 groEL
+complex	RP105:MD1
+smallMolecule	LPS
+protein	LBP
+protein	CD14
+RP105:MD1	LPS bound to the signal-competent TLR4 complex	component>
+TLR4:MD2 complex	CD14	component>
+TLR4:MD2 complex	LPS bound to the signal-competent TLR4 complex	component>
+LPS complexed with CD14	CD14	component>
+LPS complexed with CD14	LPS bound to the signal-competent TLR4 complex	component>
+LBP	LBP complexed with bacterial LPS	component>
+LPS	LBP complexed with bacterial LPS	component>
+UniProt:O84760 groEL	Chlamydial HSP60 bound to TLR4	component>
+TLR4:MD2 complex	Chlamydial HSP60 bound to TLR4	component>

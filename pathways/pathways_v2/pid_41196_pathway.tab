@@ -1,0 +1,57 @@
+complex	MBD4 glycosylase:uracil complex
+complex	DNA containing UNG2-bound apurinic/apyrimidinic site
+complex	hNTH1 glycosylase:cytosine glycol complex
+smallMolecule	Thymine
+complex	DNA containing a hNTH1-bound apurinic/apyrimidinic site
+complex	DNA containing a TDG-bound apurinic/apyrimidinic site
+complex	hNTH1 glycosylase:thymine glycol
+complex	hNTH1 glycosylase:dihydrouracil complex
+smallMolecule	ethenocytosine
+complex	TDG glycosylase:thymine complex
+smallMolecule	5-hydroxyuracil
+complex	DNA containing an MBD4-bound apurinic/apyrimidinic site
+complex	UNG2 glycosylase:5-hydroxyuracil complex
+complex	UNG2 glycosylase:uracil complex
+complex	DNA containing an hSMUG1-bound apurinic/apyrimidinic site
+smallMolecule	Hydrouracil
+complex	TDG glycosylase:ethenocytosine complex
+protein	UniProt:O95243-1 MBD4
+complex	MBD4 glycosylase:thymine complex
+complex	TDG glycosylase:uracil complex
+smallMolecule	Uracil
+complex	hSMUG1glycosylase:uracil complex
+smallMolecule	formamidopyrimidine
+complex	hNTH1 glycosylase: foramidopyrimidine complex
+protein	TDG
+protein	SMUG1
+protein	NTHL1
+protein	CCNO
+CCNO	5-hydroxyuracil	-a>
+TDG	DNA containing a TDG-bound apurinic/apyrimidinic site	-a>
+SMUG1	DNA containing an hSMUG1-bound apurinic/apyrimidinic site	-a>
+UniProt:O95243-1 MBD4	DNA containing an MBD4-bound apurinic/apyrimidinic site	-a>
+NTHL1	DNA containing a hNTH1-bound apurinic/apyrimidinic site	-a>
+CCNO	DNA containing UNG2-bound apurinic/apyrimidinic site	-a>
+TDG	Thymine	-a>
+MBD4 glycosylase:thymine complex	Thymine	-a>
+MBD4 glycosylase:thymine complex	DNA containing an MBD4-bound apurinic/apyrimidinic site	-a>
+UNG2 glycosylase:5-hydroxyuracil complex	DNA containing UNG2-bound apurinic/apyrimidinic site	-a>
+UNG2 glycosylase:5-hydroxyuracil complex	5-hydroxyuracil	-a>
+TDG glycosylase:ethenocytosine complex	ethenocytosine	-a>
+TDG glycosylase:ethenocytosine complex	DNA containing a TDG-bound apurinic/apyrimidinic site	-a>
+hNTH1 glycosylase:cytosine glycol complex	DNA containing a hNTH1-bound apurinic/apyrimidinic site	-a>
+hSMUG1glycosylase:uracil complex	Uracil	-a>
+hSMUG1glycosylase:uracil complex	DNA containing an hSMUG1-bound apurinic/apyrimidinic site	-a>
+hNTH1 glycosylase:dihydrouracil complex	Hydrouracil	-a>
+hNTH1 glycosylase:dihydrouracil complex	DNA containing a hNTH1-bound apurinic/apyrimidinic site	-a>
+MBD4 glycosylase:uracil complex	Uracil	-a>
+MBD4 glycosylase:uracil complex	DNA containing an MBD4-bound apurinic/apyrimidinic site	-a>
+hNTH1 glycosylase:thymine glycol	DNA containing a hNTH1-bound apurinic/apyrimidinic site	-a>
+TDG glycosylase:uracil complex	Uracil	-a>
+TDG glycosylase:uracil complex	DNA containing a TDG-bound apurinic/apyrimidinic site	-a>
+hNTH1 glycosylase: foramidopyrimidine complex	formamidopyrimidine	-a>
+hNTH1 glycosylase: foramidopyrimidine complex	DNA containing a hNTH1-bound apurinic/apyrimidinic site	-a>
+UNG2 glycosylase:uracil complex	Uracil	-a>
+UNG2 glycosylase:uracil complex	DNA containing UNG2-bound apurinic/apyrimidinic site	-a>
+TDG glycosylase:thymine complex	DNA containing a TDG-bound apurinic/apyrimidinic site	-a>
+TDG glycosylase:thymine complex	Thymine	-a>

@@ -1,0 +1,15 @@
+smallMolecule	PIP2
+smallMolecule	DAG
+complex	PI3K
+smallMolecule	IP3
+smallMolecule	PIP3
+protein	PLCG1
+protein	PLCB1
+protein	PDPK1
+PI3K	PIP3	-a>
+PLCG1	DAG	-a>
+PLCB1	DAG	-a>
+PIP2	PIP3	-a>
+PIP2	IP3	-a>
+PIP2	DAG	-a>
+PIP3	PDPK1	-a>

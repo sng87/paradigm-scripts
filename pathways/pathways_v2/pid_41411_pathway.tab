@@ -1,0 +1,23 @@
+complex	SHP-1/SHP-2:pBTLA:HVEM
+complex	Grb2:pBTLA:HVEM
+complex	pBTLA-HVEM complex
+protein	UniProt:Q7Z6A9 BTLA_subunit_31_289_31-289
+complex	BTLA-HVEM complex
+complex	ICOS:ICOSL
+protein	SHP-2/SHP-1
+protein	UniProt:Q9Y6W8-1 ICOS_subunit_21_199_21-199
+complex	ICOS:PI3K
+complex	PI3K alpha
+protein	UniProt:P62993-1 GRB2
+protein	TNFRSF14
+protein	ICOSLG
+UniProt:Q9Y6W8-1 ICOS_subunit_21_199_21-199	ICOS:PI3K	component>
+PI3K alpha	ICOS:PI3K	component>
+UniProt:Q9Y6W8-1 ICOS_subunit_21_199_21-199	ICOS:ICOSL	component>
+ICOSLG	ICOS:ICOSL	component>
+SHP-2/SHP-1	SHP-1/SHP-2:pBTLA:HVEM	component>
+pBTLA-HVEM complex	SHP-1/SHP-2:pBTLA:HVEM	component>
+TNFRSF14	BTLA-HVEM complex	component>
+UniProt:Q7Z6A9 BTLA_subunit_31_289_31-289	BTLA-HVEM complex	component>
+UniProt:P62993-1 GRB2	Grb2:pBTLA:HVEM	component>
+pBTLA-HVEM complex	Grb2:pBTLA:HVEM	component>

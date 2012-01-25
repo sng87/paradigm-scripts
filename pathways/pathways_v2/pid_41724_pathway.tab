@@ -1,0 +1,11 @@
+complex	Centrosomes containing recruited CDK11p58
+complex	centrosome
+complex	gamma-tubulin complex
+complex	Centrosome associated  Plk1
+complex	Mature centrosomes enriched in gamma-TURC complexes
+protein	PLK1
+centrosome	Centrosomes containing recruited CDK11p58	-a>
+centrosome	Centrosome associated  Plk1	component>
+PLK1	Centrosome associated  Plk1	component>
+centrosome	Mature centrosomes enriched in gamma-TURC complexes	component>
+gamma-tubulin complex	Mature centrosomes enriched in gamma-TURC complexes	component>

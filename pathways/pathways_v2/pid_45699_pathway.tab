@@ -1,0 +1,57 @@
+complex	TERT(+1)/TEP1/hTR RNA
+complex	TERT(+1)/hTR RNA/KU/TRF1
+protein	TERT transcription factors
+smallMolecule	mezerein
+complex	TERT(+1)/hTR RNA
+complex	p53/RB
+smallMolecule	Aplysiatoxin
+smallMolecule	PMA
+smallMolecule	Teleocidin
+complex	TERT(+1)/hTR RNA/KU
+complex	TERT(+)/TEP1/hTR RNA
+complex	TERT/TEP1/hTR RNA
+protein	E6
+rna	hTR RNA
+smallMolecule	Tamoxifen
+complex	KU
+protein	TNKS
+protein	TERT
+protein	TERF1
+protein	TEP1
+protein	PRKCA
+protein	PPP2R5D
+protein	POLR2A
+protein	MYC
+protein	KRAS
+protein	BCL2
+protein	AKT1
+TNKS	TERT(+1)/hTR RNA	component>
+PPP2R5D	TERT/TEP1/hTR RNA	-a>
+AKT1	TERT(+1)/TEP1/hTR RNA	-a>
+PRKCA	TERT(+)/TEP1/hTR RNA	-a>
+p53/RB	TERT	-t|
+POLR2A	TERT	-t>
+TNKS	TERT(+1)/hTR RNA/KU	component>
+Teleocidin	PRKCA	-a>
+MYC	TERT transcription factors	-a>
+TERT(+1)/TEP1/hTR RNA	TEP1	component>
+TERT(+1)/TEP1/hTR RNA	TERT(+1)/hTR RNA	component>
+mezerein	PRKCA	-a>
+BCL2	TERT transcription factors	-a>
+TERT(+)/TEP1/hTR RNA	TERT/TEP1/hTR RNA	-a>
+TERT(+)/TEP1/hTR RNA	TERT(+1)/TEP1/hTR RNA	-a>
+hTR RNA	TERT/TEP1/hTR RNA	component>
+TEP1	TERT/TEP1/hTR RNA	component>
+TERT	TERT/TEP1/hTR RNA	component>
+Tamoxifen	PRKCA	-a|
+TERF1	TERT(+1)/hTR RNA/KU/TRF1	component>
+KU	TERT(+1)/hTR RNA/KU/TRF1	component>
+TERT(+1)/hTR RNA	TERT(+1)/hTR RNA/KU/TRF1	component>
+PMA	PRKCA	-a>
+E6	TERT transcription factors	-a>
+TERT/TEP1/hTR RNA	TERT(+)/TEP1/hTR RNA	-a>
+TERT transcription factors	TERT	-t>
+KRAS	TERT transcription factors	-a>
+TERT(+1)/hTR RNA/KU/TRF1	TERF1	component>
+TERT(+1)/hTR RNA/KU/TRF1	TERT(+1)/hTR RNA/KU	component>
+Aplysiatoxin	PRKCA	-a>

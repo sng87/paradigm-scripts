@@ -1,0 +1,24 @@
+complex	Viral dsRNA:TLR3:TRIF:TBK1:IRF3 Complex
+complex	Viral dsRNA:TLR3:TRIF:TBK1 Complex
+complex	Viral dsRNA:TLR3:TRIF complex
+complex	IRF3-P:IRF3-P
+smallMolecule	ATP
+smallMolecule	ADP
+protein	TBK1
+protein	RIPK1
+protein	IRF3
+RIPK1	ADP	component>
+ATP	IRF3	component>
+Viral dsRNA:TLR3:TRIF:TBK1:IRF3 Complex	IRF3	component>
+Viral dsRNA:TLR3:TRIF:TBK1:IRF3 Complex	Viral dsRNA:TLR3:TRIF:TBK1 Complex	component>
+Viral dsRNA:TLR3:TRIF:TBK1:IRF3 Complex	ADP	component>
+IRF3	IRF3-P:IRF3-P	component>
+Viral dsRNA:TLR3:TRIF:TBK1 Complex	Viral dsRNA:TLR3:TRIF:TBK1:IRF3 Complex	component>
+IRF3	Viral dsRNA:TLR3:TRIF:TBK1:IRF3 Complex	component>
+ATP	Viral dsRNA:TLR3:TRIF:TBK1 Complex	component>
+ATP	ADP	component>
+TBK1	Viral dsRNA:TLR3:TRIF:TBK1 Complex	component>
+TBK1	ADP	component>
+Viral dsRNA:TLR3:TRIF complex	Viral dsRNA:TLR3:TRIF:TBK1 Complex	component>
+Viral dsRNA:TLR3:TRIF complex	ADP	component>
+IRF3-P:IRF3-P	IRF3-P:IRF3-P	-a>

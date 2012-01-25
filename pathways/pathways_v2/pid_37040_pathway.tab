@@ -1,0 +1,111 @@
+abstract	regulation of stress fiber formation
+abstract	actin filament depolymerization
+abstract	cell-cell adhesion
+abstract	axon guidance
+abstract	neuron projection morphogenesis
+abstract	beta-integrin mediated adhesion
+abstract	cell-cell signaling
+abstract	cell migration
+abstract	proteasomal ubiquitin-dependent protein catabolic process
+complex	CBL/CRK family
+complex	Ephrin A1/EPHA1-4/Ephexin
+protein	Src Family Kinases
+complex	Ephrin A3-5/EPHA4
+complex	RhoA/GDP
+protein	Ephrin A3-5
+complex	Ephrin A5/EPHA3-4-5-6-7/Src Family Kinases
+complex	Ephrin A1/EPHA4/VSM-RhoGEF
+complex	Ephrin A2/EPHA3-4-5-6-7
+complex	Ephrin A1/EPHA1-4
+complex	Ephrin A5/EPHA3/Crk
+complex	Ephrin A5/EPHA8
+protein	Src Family Kinases-active
+complex	Ephrin A1/EPHA4
+complex	Ephrin A5/EPHA3
+complex	PI3K Class IB family
+protein	EPHA1-4
+protein	VAV2-VAV3
+complex	Ephrin A1/EPHA4/VAV2-VAV3
+protein	EPHA3-4-5-6-7
+complex	Ephrin A5/EPHA3-4-5-6-7
+complex	RhoA/GTP
+protein	CRK family
+smallMolecule	GDP
+smallMolecule	GTP
+protein	ROCK1
+protein	PLCG1
+protein	NGEF
+protein	EPHA8
+protein	EPHA4
+protein	EPHA3
+protein	EFNA5
+protein	EFNA2
+protein	EFNA1
+protein	CRK
+protein	CDK5
+protein	CBL
+protein	ARHGEF15
+Ephrin A2/EPHA3-4-5-6-7	RhoA/GTP	-a>
+Ephrin A5/EPHA3/Crk	RhoA/GTP	-a>
+cell-cell signaling	Ephrin A2/EPHA3-4-5-6-7	component>
+cell-cell signaling	Ephrin A5/EPHA8	component>
+Ephrin A1/EPHA4/VSM-RhoGEF	RhoA/GTP	-a>
+CBL	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+cell-cell signaling	Ephrin A3-5/EPHA4	component>
+Src Family Kinases-active	Ephrin A1/EPHA1-4/Ephexin	component>
+Src Family Kinases-active	CBL	-a>
+Ephrin A5/EPHA3-4-5-6-7	RhoA/GTP	-a>
+cell-cell signaling	Ephrin A1/EPHA4	component>
+cell-cell signaling	Ephrin A1/EPHA1-4	component>
+cell-cell signaling	Ephrin A5/EPHA3	component>
+cell-cell signaling	Ephrin A5/EPHA3-4-5-6-7	component>
+Ephrin A1/EPHA1-4/Ephexin	RhoA/GTP	-a>
+ARHGEF15	Ephrin A1/EPHA4/VSM-RhoGEF	component>
+Ephrin A1/EPHA4	Ephrin A1/EPHA4/VSM-RhoGEF	component>
+ROCK1	axon guidance	-ap>
+VAV2-VAV3	Ephrin A1/EPHA4/VAV2-VAV3	component>
+Ephrin A1/EPHA4	Ephrin A1/EPHA4/VAV2-VAV3	component>
+Ephrin A1/EPHA4	Ephrin A1/EPHA4	component>
+RhoA/GTP	regulation of stress fiber formation	-ap>
+Ephrin A5/EPHA8	PI3K Class IB family	-a>
+EPHA3-4-5-6-7	Ephrin A2/EPHA3-4-5-6-7	component>
+EFNA2	Ephrin A2/EPHA3-4-5-6-7	component>
+RhoA/GTP	ROCK1	-a>
+Ephrin A3-5/EPHA4	PLCG1	-a>
+EPHA8	Ephrin A5/EPHA8	component>
+EFNA5	Ephrin A5/EPHA8	component>
+PLCG1	neuron projection morphogenesis	-ap>
+Ephrin A1/EPHA4/VAV2-VAV3	axon guidance	-ap>
+CDK5	axon guidance	-ap>
+CRK family	CBL/CRK family	component>
+CBL	CBL/CRK family	component>
+Ephrin A2/EPHA3-4-5-6-7	actin filament depolymerization	-ap>
+RhoA/GTP	cell-cell adhesion	-ap|
+PI3K Class IB family	beta-integrin mediated adhesion	-ap>
+Ephrin A5/EPHA3-4-5-6-7/Src Family Kinases	axon guidance	-ap>
+PI3K Class IB family	cell migration	-ap>
+Ephrin A5/EPHA3	Ephrin A5/EPHA3	component>
+Src Family Kinases	Ephrin A5/EPHA3-4-5-6-7/Src Family Kinases	component>
+Ephrin A5/EPHA3-4-5-6-7	Ephrin A5/EPHA3-4-5-6-7/Src Family Kinases	component>
+Ephrin A5/EPHA3-4-5-6-7	CDK5	-a>
+EPHA4	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+EPHA3	proteasomal ubiquitin-dependent protein catabolic process	-ap>
+EPHA4	Ephrin A3-5/EPHA4	component>
+Ephrin A3-5	Ephrin A3-5/EPHA4	component>
+CRK	Ephrin A5/EPHA3/Crk	component>
+Ephrin A5/EPHA3	Ephrin A5/EPHA3/Crk	component>
+NGEF	Ephrin A1/EPHA1-4/Ephexin	component>
+Ephrin A1/EPHA1-4	Ephrin A1/EPHA1-4/Ephexin	component>
+Ephrin A1/EPHA1-4	CBL	-a>
+EPHA4	Ephrin A1/EPHA4	component>
+EFNA1	Ephrin A1/EPHA4	component>
+EPHA1-4	Ephrin A1/EPHA1-4	component>
+EFNA1	Ephrin A1/EPHA1-4	component>
+EPHA3	Ephrin A5/EPHA3	component>
+EFNA5	Ephrin A5/EPHA3	component>
+EPHA3-4-5-6-7	Ephrin A5/EPHA3-4-5-6-7	component>
+EFNA5	Ephrin A5/EPHA3-4-5-6-7	component>
+GTP	GDP	-a>
+GTP	RhoA/GTP	-a>
+RhoA/GDP	GDP	-a>
+RhoA/GDP	RhoA/GTP	-a>
