@@ -86,7 +86,7 @@ nullBatchSize = 500
 
 targetJobLength = 45 # seconds
 
-disc = 0.025
+disc = "0.333;0667"
 
 ### If dogmaDir is defined, files in that directory are copied to the 
 ### destination directory.  Additionally, if the files 'configTop' or
@@ -207,15 +207,19 @@ def evidenceStreamCommand(evidenceSpec):
         usage(1)
     return (evidenceTypes[type] % name)
 
-def evidenceStub(attachment, evidspec):
+def evidenceStub(attachment, evidspec, index):
     (type, sep, name)= evidspec.partition(":")
     bname = os.path.basename(name)
     (where, sep, options) = attachment.partition(":")
+    if (len(re.split(",", disc)) > 1):
+        eviddisc = re.split(",", disc)[index]
+    else:
+        eviddisc = disc
     stub = {"attachment" : where, 
             "spec" : evidspec, 
             "suffix" : bname, 
             "outputFile" : dataDir + "/" + bname,
-            "disc" : disc}
+            "disc" : eviddisc}
     if options != "":
         stub.update(json.loads(options))
     return stub
@@ -298,7 +302,7 @@ def prepareParadigm(args):
     log("Making sub-directories\n")
     mkdir(dataDir)
 
-    evidence = [evidenceStub(a,e) for a, e in zip(args[0::2], args[1::2])]
+    evidence = [evidenceStub(a,e,i) for a, e, i in zip(args[0::2], args[1::2], range(len(args[0::2])))]
     for e in evidence:
         log("Evidence:\n")
         for k in e.keys():
