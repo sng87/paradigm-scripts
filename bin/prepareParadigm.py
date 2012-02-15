@@ -26,19 +26,20 @@ Evidence is specified as:
                              through quantile transformation
 
 Options:
-   -n int      the number of null batches (500 each) to create (default: 2)
-   -s int      size of null batches (or 'same', see createNullSamples.py)
-   -e path     path to paradigm exe (default: /hive/users/$USER/bin)
-   -d dir      dogma directory (take top of config from here)
-   -p dir      the directory containing pathway files 
-               (default is /hive/groups/cancerGB/paradigm/pathwayfiles/v1)
-   -i string   inference parameters 
-               (default is method=JTREE,updates=HUGIN,verbose=1)
-   -c options  options to pass to createNullFiles.py (quote them all)
-   -d          dry-run; don't actually run system commands, just print them
-   -b flt;flt  boundaries for discretiation (default 0.2;0.4;0.6;0.8)
-   -q          run quietly, don't output status
-   -n          no commands run
+   -n int               the number of null batches (500 each) to create (default: 2)
+   -s int               size of null batches (or 'same', see createNullSamples.py)
+   -e path              path to paradigm exe (default: /hive/users/$USER/bin)
+   -d dir               dogma directory (take top of config from here)
+   -p dir               the directory containing pathway files 
+                        (default is /hive/groups/cancerGB/paradigm/pathwayfiles/v1)
+   -i string            inference parameters 
+                        (default is method=JTREE,updates=HUGIN,verbose=1)
+   -c options           options to pass to createNullFiles.py (quote them all)
+   -d                   dry-run; don't actually run system commands, just print them
+   -b flt;flt[,flt;flt] boundaries for discretization, use comma to specify different
+                        boundaries per evidence (default 0.333;0.667)
+   -q                   run quietly, don't output status
+   -n                   no commands run
 """
 import os, sys, glob, getopt, re, subprocess, math, json
 

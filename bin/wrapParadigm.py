@@ -3,6 +3,12 @@
 
 Usage:
   wrapParadigm.py [options] attachment file:path [attachment file:path ...]
+
+Options:
+   -d dir               dogma directory (take top of config from here)
+   -p dir               the directory containing pathway files 
+   -b flt;flt[,flt;flt] boundaries for discretization, use comma to specify different
+                        boundaries per evidence (default 0.333;0.667)
 """
 import getopt, os, os.path, re, sys
 from optparse import OptionParser
@@ -25,16 +31,17 @@ paradigmExec = "%s/paradigm" % (exeDir)
 inferSpec = "method=BP,updates=SEQFIX,tol=1e-9,maxiter=10000,logdomain=0"
 
 class prepareParadigm(Target):
-    def __init__(self, evidSpec, paradigmExec, dogmaLib, pathwayLib, directory):
+    def __init__(self, evidSpec, disc, paradigmExec, dogmaLib, pathwayLib, directory):
         Target.__init__(self, time=10000)
         self.evidSpec = evidSpec
+        self.disc = disc
         self.paradigmExec = paradigmExec
         self.dogmaLib = dogmaLib
         self.pathwayLib = pathwayLib
         self.directory = directory
     def run(self):
         os.chdir(self.directory)
-        cmd = "prepareParadigm.py -b \"0.3333;0.6667\" -s same -n 0 -i %s -e %s -d %s -p %s %s" % (inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+        cmd = "prepareParadigm.py -b \"%s\" -s same -n 0 -i %s -e %s -d %s -p %s %s" % (self.disc, inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         system(cmd)
         self.setFollowOnTarget(jtParadigm(self.directory))
 
@@ -54,6 +61,7 @@ def wrapParadigm():
                       "than making a new jobTree")
     parser.add_option("-d", "--dogma", dest="dogmaPath", default="")
     parser.add_option("-p", "--pathway", dest="pathwayPath", default="")
+    parser.add_option("-b", "--boundaries", dest="discBound", default="")
     options, args = parser.parse_args()
     print "Using Batch System '" + options.batchSystem + "'"
    
@@ -62,6 +70,10 @@ def wrapParadigm():
         sys.stderr.write("ERROR: incorrect number of arguments\n")
         sys.exit(1)
     
+    if len(options.discBound) == 0:
+        disc = "0.3333;0.6667"
+    else:
+        disc = options.discBound
     if len(options.dogmaPath) == 0:
         dogma = "%s/%s" % (dogmaDir, dogmaDefault)
     else:
@@ -75,7 +87,7 @@ def wrapParadigm():
     
     ## run
     logger.info("starting first iteration")
-    s = Stack(prepareParadigm(" ".join(evidList), paradigmExec, dogma, pathway, os.getcwd()))
+    s = Stack(prepareParadigm(" ".join(evidList), disc, paradigmExec, dogma, pathway, os.getcwd()))
     if options.jobFile:
         s.addToJobFile(options.jobFile)
     else:
