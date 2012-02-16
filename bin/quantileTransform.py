@@ -32,7 +32,7 @@ def transformFile(fh, startRow, startCol, sep="\t"):
     startTime = time.time()
     log("reading file...")
 
-    stringValues = [l.rstrip().split(sep) for l in fh] # everything in file
+    stringValues = [l.rstrip("\n\r").split(sep) for l in fh] # everything in file
 
     numRows = len(stringValues)
     if (numRows == 0):
