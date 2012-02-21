@@ -31,17 +31,19 @@ paradigmExec = "%s/paradigm" % (exeDir)
 inferSpec = "method=BP,updates=SEQFIX,tol=1e-9,maxiter=10000,logdomain=0"
 
 class prepareParadigm(Target):
-    def __init__(self, evidSpec, disc, paradigmExec, dogmaLib, pathwayLib, directory):
+    def __init__(self, evidSpec, disc, batches, paradigmExec, inferSpec, dogmaLib, pathwayLib, directory):
         Target.__init__(self, time=10000)
         self.evidSpec = evidSpec
         self.disc = disc
+        self.batches = batches
         self.paradigmExec = paradigmExec
+        self.inferSpec = inferSpec
         self.dogmaLib = dogmaLib
         self.pathwayLib = pathwayLib
         self.directory = directory
     def run(self):
         os.chdir(self.directory)
-        cmd = "prepareParadigm.py -b \"%s\" -s same -n 0 -i %s -e %s -d %s -p %s %s" % (self.disc, inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+        cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.batches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         system(cmd)
         self.setFollowOnTarget(jtParadigm(self.directory))
 
@@ -86,8 +88,8 @@ def wrapParadigm():
     logger.info("options: " + str(options))
     
     ## run
-    logger.info("starting first iteration")
-    s = Stack(prepareParadigm(" ".join(evidList), disc, paradigmExec, dogma, pathway, os.getcwd()))
+    logger.info("starting prepare")
+    s = Stack(prepareParadigm(" ".join(evidList), disc, 0, paradigmExec, inferSpec, dogma, pathway, os.getcwd()))
     if options.jobFile:
         s.addToJobFile(options.jobFile)
     else:
