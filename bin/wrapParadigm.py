@@ -31,11 +31,11 @@ paradigmExec = "%s/paradigm" % (exeDir)
 inferSpec = "method=BP,updates=SEQFIX,tol=1e-9,maxiter=10000,logdomain=0"
 
 class prepareParadigm(Target):
-    def __init__(self, evidSpec, disc, batches, paradigmExec, inferSpec, dogmaLib, pathwayLib, directory):
+    def __init__(self, evidSpec, disc, nullBatches, paradigmExec, inferSpec, dogmaLib, pathwayLib, directory):
         Target.__init__(self, time=10000)
         self.evidSpec = evidSpec
         self.disc = disc
-        self.batches = batches
+        self.nullBatches = nullBatches
         self.paradigmExec = paradigmExec
         self.inferSpec = inferSpec
         self.dogmaLib = dogmaLib
@@ -43,7 +43,7 @@ class prepareParadigm(Target):
         self.directory = directory
     def run(self):
         os.chdir(self.directory)
-        cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.batches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+        cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         system(cmd)
         self.setFollowOnTarget(jtParadigm(self.directory))
 
@@ -64,6 +64,7 @@ def wrapParadigm():
     parser.add_option("-d", "--dogma", dest="dogmaPath", default="")
     parser.add_option("-p", "--pathway", dest="pathwayPath", default="")
     parser.add_option("-b", "--boundaries", dest="discBound", default="")
+    parser.add_option("-n", "--nulls", dest="nullBatches", default="")
     options, args = parser.parse_args()
     print "Using Batch System '" + options.batchSystem + "'"
    
@@ -84,12 +85,16 @@ def wrapParadigm():
         pathway = "%s/%s" % (pathwayDir, pathwayDefault)
     else:
         pathway = options.pathwayPath
+    if len(options.nullBatches) == 0:
+        nullBatches = 0
+    else:
+        nullBatches = int(options.nullBatches)
     
     logger.info("options: " + str(options))
     
     ## run
     logger.info("starting prepare")
-    s = Stack(prepareParadigm(" ".join(evidList), disc, 0, paradigmExec, inferSpec, dogma, pathway, os.getcwd()))
+    s = Stack(prepareParadigm(" ".join(evidList), disc, nullBatches, paradigmExec, inferSpec, dogma, pathway, os.getcwd()))
     if options.jobFile:
         s.addToJobFile(options.jobFile)
     else:
