@@ -28,7 +28,6 @@ from jobTree.scriptTree.stack import Stack
 
 ## default variables
 mFolds = 5
-nShuffle = 1
 
 ## executables and directories
 binDir = os.path.realpath(os.path.dirname(sys.argv[0]))
@@ -373,6 +372,7 @@ def jtFitness():
     parser.add_option("-p", "--pathway", dest="pathwayPath", default="")
     parser.add_option("-b", "--boundaries", dest="discBound", default="")
     parser.add_option("-s", "--shuffle", dest="shuffleNode", default="")
+    parser.add_option("-n", "--nulls", dest="nNulls", default="10")
     
     options, args = parser.parse_args()
     print "Using Batch System '" + options.batchSystem + "'"
@@ -390,14 +390,19 @@ def jtFitness():
         dogma = "%s/%s" % (dogmaDir, dogmaDefault)
     else:
         dogma = options.dogmaPath
+        if not dogma.startswith("/"):
+            dogma = "%s/%s" % (os.getcwd(), dogma)        
     if len(options.pathwayPath) == 0:
         pathway = "%s/%s" % (pathwayDir, pathwayDefault)
     else:
         pathway = options.pathwayPath
+        if not pathway.startswith("/"):
+            pathway = "%s/%s" % (os.getcwd(), pathway)
     if len(options.shuffleNode) == 0:
         shuffleNode = "genome"
     else:
         shuffleNode = options.shuffleNode
+    nShuffle = int(options.nNulls)
     
     ## clean
     if len(args) == 1:
