@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""jtFitness.py:
+"""jtFitness.py: handles setup and running paradigm in a cross validation framework for calculation of fitness
 
 Usage:
   jtFitness.py [options] attachment file:path [attachment file:path ...]
@@ -11,7 +11,6 @@ Options:
                         boundaries per evidence (default 0.333;0.667)
 """
 ## Written By: Sam Ng
-## Last Updated: ##/##/####
 import math, os, os.path, sys, random, re, types
 
 from wrapParadigm import prepareParadigm
@@ -153,10 +152,11 @@ class jtCmd(Target):
         system(self.cmd)
 
 class branchFolds(Target):
-    def __init__(self, evidSpec, disc, paradigmExec, inferSpec, dogmaLib, pathwayLib, shuffleNode, nShuffle, mFolds, directory):
+    def __init__(self, evidSpec, disc, paramFile, paradigmExec, inferSpec, dogmaLib, pathwayLib, shuffleNode, nShuffle, mFolds, directory):
         Target.__init__(self, time=10000)
         self.evidSpec = evidSpec
         self.disc = disc
+        self.paramFile = paramFile
         self.paradigmExec = paradigmExec
         self.inferSpec = inferSpec
         self.dogmaLib = dogmaLib
@@ -219,13 +219,14 @@ class branchFolds(Target):
         
         ## kick off runs
         for f in range(1, self.mFolds+1):
-            self.addChildTarget(branchTrain(self.evidSpec, self.disc, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, self.shuffleNode, self.nShuffle, "%s/fold%s" % (self.directory, f)))
+            self.addChildTarget(branchTrain(self.evidSpec, self.disc, self.paramFile, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, self.shuffleNode, self.nShuffle, "%s/fold%s" % (self.directory, f)))
 
 class branchTrain(Target):
-    def __init__(self, evidSpec, disc, paradigmExec, inferSpec, dogmaLib, pathwayLib, shuffleNode, nShuffle, directory):
+    def __init__(self, evidSpec, disc, paramFile, paradigmExec, inferSpec, dogmaLib, pathwayLib, shuffleNode, nShuffle, directory):
         Target.__init__(self, time=10000)
         self.evidSpec = evidSpec
         self.disc = disc
+        self.paramFile = paramFile
         self.paradigmExec = paradigmExec
         self.inferSpec = inferSpec
         self.dogmaLib = dogmaLib
@@ -285,17 +286,17 @@ class branchTrain(Target):
         ## kick off train.real run
         if not os.path.exists("train/real/outputFiles"):
             if os.path.exists("%s/real" % (self.pathwayLib)):
-                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/real" % (self.pathwayLib), "%s/train/real" % (self.directory)))
+                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/real" % (self.pathwayLib), "%s/train/real" % (self.directory)))
             else:
-                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, "%s/train/real" % (self.directory)))
+                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, "%s/train/real" % (self.directory)))
         
         ## kick off train.shuffle runs
         for shuffle in range(1, self.nShuffle+1):
             if not os.path.exists("train/shuffle%s/outputFiles" % (shuffle)):
                 if os.path.exists("%s/shuffle%s" % (self.pathwayLib, shuffle)):
-                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/shuffle%s" % (self.pathwayLib, shuffle), "%s/train/shuffle%s" % (self.directory, shuffle)))
+                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/shuffle%s" % (self.pathwayLib, shuffle), "%s/train/shuffle%s" % (self.directory, shuffle)))
                 else:
-                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, "%s/train/shuffle%s" % (self.directory, shuffle)))
+                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, "%s/train/shuffle%s" % (self.directory, shuffle)))
         
         ## kick off test.real and test.shuffle runs
         self.setFollowOnTarget(branchTest(self.evidSpec, self.disc, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, self.nShuffle, self.directory))
@@ -373,6 +374,7 @@ def jtFitness():
     parser.add_option("-b", "--boundaries", dest="discBound", default="")
     parser.add_option("-s", "--shuffle", dest="shuffleNode", default="")
     parser.add_option("-n", "--nulls", dest="nNulls", default="10")
+    parser.add_option("-t", "--storedparam", dest="paramFile", default="")
     
     options, args = parser.parse_args()
     print "Using Batch System '" + options.batchSystem + "'"
@@ -403,7 +405,11 @@ def jtFitness():
     else:
         shuffleNode = options.shuffleNode
     nShuffle = int(options.nNulls)
-    
+    if len(options.paramFile) == 0:
+        paramFile = None
+    else:
+        paramFile = options.paramFile
+
     ## clean
     if len(args) == 1:
         if args[0] == "clean":
@@ -413,7 +419,7 @@ def jtFitness():
     
     ## run
     logger.info("options: " + str(options))
-    s = Stack(branchFolds(" ".join(evidList), disc, paradigmExec, inferSpec, dogma, pathway, shuffleNode, nShuffle, mFolds, os.getcwd()))
+    s = Stack(branchFolds(" ".join(evidList), disc, paramFile, paradigmExec, inferSpec, dogma, pathway, shuffleNode, nShuffle, mFolds, os.getcwd()))
     if options.jobFile:
         s.addToJobFile(options.jobFile)
     else:

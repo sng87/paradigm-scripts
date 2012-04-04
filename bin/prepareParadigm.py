@@ -32,15 +32,16 @@ Options:
    -d dir               dogma directory (take top of config from here)
    -p dir               the directory containing pathway files 
                         (default is /hive/groups/cancerGB/paradigm/pathwayfiles/v1)
+   -t str               use initial parameters stored from another params.txt
    -i string            inference parameters 
                         (default is method=JTREE,updates=HUGIN,verbose=1)
    -c options           options to pass to createNullFiles.py (quote them all)
-   -d                   dry-run; don't actually run system commands, just print them
    -b flt;flt[,flt;flt] boundaries for discretization, use comma to specify different
                         boundaries per evidence (default 0.333;0.667)
    -q                   run quietly, don't output status
-   -n                   no commands run
 """
+## Written by: Charles Vaske
+## Modified by: Sam Ng
 import os, sys, glob, getopt, re, subprocess, math, json
 
 ###
@@ -88,6 +89,7 @@ nullBatchSize = 500
 targetJobLength = 45 # seconds
 
 disc = "0.333;0667"
+paramFile = ""
 
 ### If dogmaDir is defined, files in that directory are copied to the 
 ### destination directory.  Additionally, if the files 'configTop' or
@@ -150,7 +152,23 @@ def initParams(numBins, reverse=False):
     down.reverse()
     return "\n".join(down + zero + up) + "\n"
 
-def writeBaseParamsFile(pfilename, evidence):
+def readParams(paramFile):
+    storedParams = {}
+    f = open(paramFile, "r")
+    f.readline()
+    for line in f:
+        if line.isspace():
+            continue
+        line = line.rstrip("\n\r")
+        if line.startswith(">"):
+            attachment = re.split("=", line)[-1]
+            storedParams[attachment] = ""
+        else:
+            storedParams[attachment] += "%s\n" % (line)
+    f.close()
+    return storedParams
+
+def writeBaseParamsFile(pfilename, evidence, storedParams = {}):
     writeHeader = not os.path.exists(pfilename)
     pfile = open(pfilename, "a")
     if writeHeader:
@@ -164,7 +182,10 @@ def writeBaseParamsFile(pfilename, evidence):
             spec = "-obs>"
         if e["attachment"] != "codeMut":
             pfile.write("> shared CondProbEstimation [pseudo_count=1,target_dim=%i,total_dim=%i] %s=%s\n" % (bins, 3*bins, e["suffix"], spec))
-            pfile.write(initParams(bins, reverse=("reversed" in e)))
+            if e["attachment"] in storedParams:
+                pfile.write(storedParams[e["attachment"]])
+            else:
+                pfile.write(initParams(bins, reverse=("reversed" in e)))
         else:
             pfile.write(mutationParams % e["suffix"])
             if os.path.exists("mask.params"):
@@ -255,7 +276,7 @@ def mkdir(dirname):
 def prepareParadigm(args):
     pathwayDir = '/hive/groups/cancerGB/paradigm/pathwayfiles/v1'
     try:
-        opts, args = getopt.getopt(args, "p:n:e:qc:b:s:i:d:")
+        opts, args = getopt.getopt(args, "p:n:e:qc:b:s:t:i:d:")
     except getopt.GetoptError, err:
         print str(err)
         usage(2)
@@ -265,7 +286,7 @@ def prepareParadigm(args):
         usage(1)
 
     global paradigmExec, dryrun, nullOptions, disc
-    global nullBatches, nullBatchSize, inference, dogmaDir
+    global nullBatches, nullBatchSize, paramFile, inference, dogmaDir
     global configTop, configTopEM
     for o, a in opts:
         if o == "-p":
@@ -297,6 +318,8 @@ def prepareParadigm(args):
             nullOptions = a
         elif o == "-b":
             disc = a
+        elif o == "-t":
+            paramFile = a
         elif o == "-i":
             inference = a
         
@@ -415,8 +438,12 @@ def prepareParadigm(args):
                         (paradigmExec, p, batch, out, k, buckets)
                     jfile.write(c)
     jfile.close()
-
-    writeBaseParamsFile("params0.txt", evidence)
+    
+    if len(paramFile) > 0:
+        writeBaseParamsFile("params0.txt", evidence, storedParams = readParams(paramFile))
+    else:
+        writeBaseParamsFile("params0.txt", evidence)
+    
     syscmd("ln -s params0.txt params.txt")
 
 if __name__ == "__main__":

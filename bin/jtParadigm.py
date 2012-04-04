@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-
+## Written by: Charles Vaske
+## Modified by: Sam Ng
 import sys
 import os
 import os.path

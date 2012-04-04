@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""wrapParadigm.py: 
+"""wrapParadigm.py: handles setup and running of paradigm on multiple cohorts and/or pathways
 
 Usage:
   wrapParadigm.py [options] attachment file:path [attachment file:path ...]
@@ -10,6 +10,7 @@ Options:
    -b flt;flt[,flt;flt] boundaries for discretization, use comma to specify different
                         boundaries per evidence (default 0.333;0.667)
 """
+## Written by: Sam Ng
 import getopt, os, os.path, re, sys
 from optparse import OptionParser
 from jtParadigm import *
@@ -31,29 +32,38 @@ paradigmExec = "%s/paradigm" % (exeDir)
 inferSpec = "method=BP,updates=SEQFIX,tol=1e-9,maxiter=10000,logdomain=0"
 
 class prepareParadigm(Target):
-    def __init__(self, evidSpec, disc, nullBatches, paradigmExec, inferSpec, dogmaLib, pathwayLib, directory):
+    def __init__(self, evidSpec, disc, paramFile, nullBatches, paradigmExec, inferSpec, dogmaLib, pathwayLib, em, directory):
         Target.__init__(self, time=10000)
         self.evidSpec = evidSpec
         self.disc = disc
+        self.paramFile = paramFile
         self.nullBatches = nullBatches
         self.paradigmExec = paradigmExec
         self.inferSpec = inferSpec
         self.dogmaLib = dogmaLib
         self.pathwayLib = pathwayLib
+        self.em = em
         self.directory = directory
     def run(self):
         os.chdir(self.directory)
-        cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+        if self.paramFile is not None:
+            cmd = "prepareParadigm.py -b \"%s\" -t %s -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.paramFile, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+        else:
+            cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         system(cmd)
-        self.setFollowOnTarget(jtParadigm(self.directory))
+        self.setFollowOnTarget(jtParadigm(self.em, self.directory))
 
 class jtParadigm(Target):
-    def __init__(self, directory):
+    def __init__(self, em, directory):
         Target.__init__(self, time=10000)
+        self.em = em
         self.directory = directory
     def run(self):
         os.chdir(self.directory)
-        self.addChildTarget(ExpectationIteration(0, 0.001, "%s" % (self.directory)))
+        if em:
+            self.addChildTarget(ExpectationIteration(0, 0.001, "%s" % (self.directory)))
+        else:
+            self.addChildTarget(FinalRun(0, "%s" % (self.directory)))
 
 def wrapParadigm():
     ## parse arguments
@@ -65,6 +75,8 @@ def wrapParadigm():
     parser.add_option("-p", "--pathway", dest="pathwayPath", default="")
     parser.add_option("-b", "--boundaries", dest="discBound", default="")
     parser.add_option("-n", "--nulls", dest="nullBatches", default="")
+    parser.add_option("-t", "--storedparam", dest="paramFile", default="")
+    parser.add_option("-s", "--skipem", action="store_false", dest="runEM", default=True)
     options, args = parser.parse_args()
     print "Using Batch System '" + options.batchSystem + "'"
    
@@ -89,12 +101,16 @@ def wrapParadigm():
         nullBatches = 0
     else:
         nullBatches = int(options.nullBatches)
-    
+    if len(options.paramFile) == 0:
+        paramFile = None
+    else:
+        paramFile = options.paramFile
+    runEM = options.runEM
     logger.info("options: " + str(options))
     
     ## run
     logger.info("starting prepare")
-    s = Stack(prepareParadigm(" ".join(evidList), disc, nullBatches, paradigmExec, inferSpec, dogma, pathway, os.getcwd()))
+    s = Stack(prepareParadigm(" ".join(evidList), disc, paramFile, nullBatches, paradigmExec, inferSpec, dogma, pathway, runEM, os.getcwd()))
     if options.jobFile:
         s.addToJobFile(options.jobFile)
     else:
