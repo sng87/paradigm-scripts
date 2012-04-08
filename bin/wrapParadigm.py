@@ -60,7 +60,7 @@ class jtParadigm(Target):
         self.directory = directory
     def run(self):
         os.chdir(self.directory)
-        if em:
+        if self.em:
             self.addChildTarget(ExpectationIteration(0, 0.001, "%s" % (self.directory)))
         else:
             self.addChildTarget(FinalRun(0, "%s" % (self.directory)))
