@@ -5,6 +5,7 @@ import sys
 import os
 import os.path
 import re
+import resource
 import glob
 
 from optparse import OptionParser
@@ -27,6 +28,7 @@ class ParadigmCmd(Target):
 
     def run(self):
         os.chdir(self.cwd)
+        resource.setrlimit(resource.RLIMIT_CORE, (0,0))
         system(self.cmd)
 
 class MaximizationIteration(Target):
