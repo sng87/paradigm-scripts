@@ -286,17 +286,17 @@ class branchTrain(Target):
         ## kick off train.real run
         if not os.path.exists("train/real/outputFiles"):
             if os.path.exists("%s/real" % (self.pathwayLib)):
-                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/real" % (self.pathwayLib), "%s/train/real" % (self.directory)))
+                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/real" % (self.pathwayLib), True,  "%s/train/real" % (self.directory)))
             else:
-                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, "%s/train/real" % (self.directory)))
+                self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, True, "%s/train/real" % (self.directory)))
         
         ## kick off train.shuffle runs
         for shuffle in range(1, self.nShuffle+1):
             if not os.path.exists("train/shuffle%s/outputFiles" % (shuffle)):
                 if os.path.exists("%s/shuffle%s" % (self.pathwayLib, shuffle)):
-                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/shuffle%s" % (self.pathwayLib, shuffle), "%s/train/shuffle%s" % (self.directory, shuffle)))
+                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, "%s/shuffle%s" % (self.pathwayLib, shuffle), True, "%s/train/shuffle%s" % (self.directory, shuffle)))
                 else:
-                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, "%s/train/shuffle%s" % (self.directory, shuffle)))
+                    self.addChildTarget(prepareParadigm(self.evidSpec, self.disc, self.paramFile, 0, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, True, "%s/train/shuffle%s" % (self.directory, shuffle)))
         
         ## kick off test.real and test.shuffle runs
         self.setFollowOnTarget(branchTest(self.evidSpec, self.disc, self.paradigmExec, self.inferSpec, self.dogmaLib, self.pathwayLib, self.nShuffle, self.directory))
@@ -401,7 +401,7 @@ def jtFitness():
         if not pathway.startswith("/"):
             pathway = "%s/%s" % (os.getcwd(), pathway)
     if len(options.shuffleNode) == 0:
-        shuffleNode = "genome"
+        shuffleNode = "NULL"
     else:
         shuffleNode = options.shuffleNode
     nShuffle = int(options.nNulls)
