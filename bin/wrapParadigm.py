@@ -47,9 +47,9 @@ class prepareParadigm(Target):
     def run(self):
         os.chdir(self.directory)
         if self.paramFile is not None:
-            cmd = "prepareParadigm.py -b \"%s\" -t %s -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.paramFile, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+            cmd = "prepareParadigm.py -b \"%s\" -t %s -s same -n %s -i %s -e %s -d %s -p %s %s >& jt.err" % (self.disc, self.paramFile, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         else:
-            cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s" % (self.disc, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+            cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s >& jt.err" % (self.disc, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         system(cmd)
         self.setFollowOnTarget(jtParadigm(self.em, self.directory))
 

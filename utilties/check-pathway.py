@@ -41,7 +41,7 @@ def main(args):
         print str(err)
         usage(2)
     
-    if len(args) == 1:
+    if len(args) != 1:
         log("ERROR: incorrect number of arguments", die = True)
     
     inf = args[0]

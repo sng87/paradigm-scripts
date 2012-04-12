@@ -88,7 +88,7 @@ nullBatchSize = 500
 
 targetJobLength = 45 # seconds
 
-disc = "0.333;0667"
+disc = "0.333;0.667"
 paramFile = ""
 
 ### If dogmaDir is defined, files in that directory are copied to the 
