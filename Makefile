@@ -1,7 +1,4 @@
 THISDIR = $(CURDIR)
-USERNAME ?= $(LOGNAME)
-PUBLICHOST ?= cancer2.cse.ucsc.edu
-FIREWALLHOST ?= tcga1
 
 init.sh : jobTree exe
 	echo \
