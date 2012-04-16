@@ -16,7 +16,6 @@ jobTree : sonLib
 
 sonLib :
 	git clone git://github.com/benedictpaten/sonLib.git
-	cd sonLib; make
 
 exe :
 	mkdir exe
@@ -38,5 +37,5 @@ pathmark-scripts :
 	cd pathmark-scripts; make
 
 clean :
-	rm -rf pathmark jobTree sonLib exe init.sh init.csh
+	rm -rf pathmark-scripts jobTree sonLib exe init.sh init.csh
 	cd test; make clean
