@@ -42,4 +42,5 @@ pathmark-scripts :
 	cd pathmark-scripts; make
 
 clean :
-	rm -rf jobTree sonLib exe init.sh init.csh
+	rm -rf pathmark jobTree sonLib exe init.sh init.csh
+	cd test; make clean
