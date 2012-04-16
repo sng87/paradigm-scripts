@@ -125,7 +125,7 @@ class Merge(Target):
         system("%s bioInt mergeFiles/ merge_merged.tab" % mergeMerge)
         if len(mergeFiles) == 1: # a global pathway
             system("mv merge_merged.tab merge_merged_unfiltered.tab")
-            system("filterFeatures.py -n merge_merged_unfiltered.tab 1,0.5" +
+            system("filterFeatures.py -n merge_merged_unfiltered.tab 1,0.05" +
                    "> merge_merged.tab")
 
 def commandAvailable(executable):
