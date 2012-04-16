@@ -123,10 +123,10 @@ class Merge(Target):
         system("%s outputFiles mergeFiles" % mergeSwarm)
         mergeFiles = glob.glob("mergeFiles/*transpose*")
         system("%s bioInt mergeFiles/ merge_merged.tab" % mergeMerge)
-        if len(mergeFiles) == 1: # a global pathway
-            system("mv merge_merged.tab merge_merged_unfiltered.tab")
-            system("filterFeatures.py -n merge_merged_unfiltered.tab 1,0.01" +
-                   "> merge_merged.tab")
+        #if len(mergeFiles) == 1: # a global pathway
+        #    system("mv merge_merged.tab merge_merged_unfiltered.tab")
+        #    system("filterFeatures.py -n merge_merged_unfiltered.tab 1,0.01" +
+        #           "> merge_merged.tab")
 
 def commandAvailable(executable):
     return 0 == os.system("which %s > /dev/null 2> /dev/null" % executable)
