@@ -37,6 +37,7 @@ def addFileToResult(file):
 		entity = dataA.pop(0)
 		resultMatrix[pid+"_"+entity] = {}
 		for i in range(len(dataA)):
+			sample = sampleOrder[i] ## sng ##
 			if sample.startswith("na_") == False:
 				resultMatrix[pid+"_"+entity][sampleOrder[i].split(" ").pop(0)] = dataA[i]
 	fh.close()
