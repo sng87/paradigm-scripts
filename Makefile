@@ -28,7 +28,7 @@ exe :
 	then \
 	cd exe; cp /inside/grotto/users/sng/bin/Paradigm/paradigm /inside/grotto/users/sng/bin/Paradigm/collectParameters .; \
 	fi
-	if (! test -d exe/paradigm -e); \
+	if (! test -e exe/paradigm); \
 	then \
 	cd exe; cp ../public/exe/paradigm .; \
 	fi
