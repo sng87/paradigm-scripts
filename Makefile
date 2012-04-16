@@ -30,8 +30,16 @@ exe :
 	fi
 	if (! test -d exe/paradigm -e); \
 	then \
-	cd exe; cp ../public/exe/paradigm ../public/exe/collectParameters .; \
+	cd exe; cp ../public/exe/paradigm .; \
 	fi
+
+pathmark-scripts :
+	if (! test -d ../pathmark-scripts); \
+	then \
+	cd ..; git clone git://github.com/sng87/pathmark-scripts.git; \
+	fi
+	ln -s ../pathmark-scripts .
+	cd pathmark-scripts; make
 
 clean :
 	rm -rf jobTree sonLib exe init.sh init.csh
