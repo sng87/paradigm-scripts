@@ -74,7 +74,7 @@ def wrapParadigm():
     parser.add_option("-d", "--dogma", dest="dogmaPath", default="")
     parser.add_option("-p", "--pathway", dest="pathwayPath", default="")
     parser.add_option("-b", "--boundaries", dest="discBound", default="")
-    parser.add_option("-n", "--nulls", dest="nullBatches", default="")
+    parser.add_option("-n", "--nulls", dest="nullBatches", default="5")
     parser.add_option("-t", "--storedparam", dest="paramFile", default="")
     parser.add_option("-s", "--skipem", action="store_false", dest="runEM", default=True)
     options, args = parser.parse_args()
@@ -97,10 +97,7 @@ def wrapParadigm():
         pathway = "%s/%s" % (pathwayDir, pathwayDefault)
     else:
         pathway = options.pathwayPath
-    if len(options.nullBatches) == 0:
-        nullBatches = 0
-    else:
-        nullBatches = int(options.nullBatches)
+    nullBatches = int(options.nullBatches)
     if len(options.paramFile) == 0:
         paramFile = None
     else:

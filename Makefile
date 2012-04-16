@@ -34,11 +34,7 @@ exe :
 	fi
 
 pathmark-scripts :
-	if (! test -d ../pathmark-scripts); \
-	then \
-	cd ..; git clone git://github.com/sng87/pathmark-scripts.git; \
-	fi
-	ln -s ../pathmark-scripts .
+	git clone git://github.com/sng87/pathmark-scripts.git; \
 	cd pathmark-scripts; make
 
 clean :
