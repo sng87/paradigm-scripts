@@ -4,7 +4,7 @@ init.sh : jobTree exe
 	echo \
 	export PATH=$(THISDIR)/bin:$(THISDIR)/exe:\$${PATH} > init.sh
 	echo \
-	if $?PYTHONPATH >> init.sh
+	if [ -n "\$${PYTHONPATH+x}" ] >> init.sh
 	echo \
 	then >> init.sh
 	echo \
