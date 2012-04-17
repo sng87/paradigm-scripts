@@ -76,6 +76,7 @@ dataDir = "clusterFiles"
 #outputDir = "outputFiles"
 
 verbose = True
+publicParadigm = True
 standardAttach = ["genome", "mRNA", "protein", "active"]
 paradigmExec = "/hive/users/" + os.getenv("USER") + "/bin/paradigm"
 
@@ -350,7 +351,8 @@ def prepareParadigm(args):
 
     log("Writing config file for EM\n")
     confFile = open("configEM.txt", "w")
-    confFile.write("# " + " ".join(sys.argv) + "\n")
+    if not publicParadigm:
+        confFile.write("# " + " ".join(sys.argv) + "\n")
     confFile.write(configTopEM % inference)
     if newSpecStyle:
         confFile.write(",".join([e["suffix"] + "=" + e["attachment"]
@@ -365,6 +367,12 @@ def prepareParadigm(args):
 
     log("Writing config file for final run\n")
     confFile = open("config.txt", "w")
+    if not publicParadigm:
+        parse_configTop = re.split("\n", configTop)
+        configTop = ""
+        for line in parse_configTop:
+            if not line.startswith("output"):
+                configTop += "%s\n" % (line)
     confFile.write(configTop % inference)
     [confFile.write(configELine(e)) for e in evidence]
     confFile.close()
