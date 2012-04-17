@@ -18,7 +18,7 @@ init.sh : jobTree exe
 	echo \
 	setenv PATH $(THISDIR)/bin:$(THISDIR)/exe:\$${PATH} > init.csh
 	echo \
-	if $?PYTHONPATH then >> init.csh
+	if \$$?PYTHONPATH then >> init.csh
 	echo \
 	  setenv PYTHONPATH $(THISDIR):$(THISDIR)/bin:\$${PYTHONPATH} >> init.csh
 	echo \
