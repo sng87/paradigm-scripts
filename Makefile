@@ -4,12 +4,29 @@ init.sh : jobTree exe
 	echo \
 	export PATH=$(THISDIR)/bin:$(THISDIR)/exe:\$${PATH} > init.sh
 	echo \
-	export PYTHONPATH=$(THISDIR):$(THISDIR)/bin:\$${PYTHONPATH} >> init.sh
+	if $?PYTHONPATH >> init.sh
+	echo \
+	then >> init.sh
+	echo \
+	  export PYTHONPATH=$(THISDIR):$(THISDIR)/bin:\$${PYTHONPATH} >> init.sh
+	echo \
+	else >> init.sh
+	echo \
+	  export PYTHONPATH=$(THISDIR):$(THISDIR)/bin >> init.sh
+	echo \
+	fi >> init.sh
 	echo \
 	setenv PATH $(THISDIR)/bin:$(THISDIR)/exe:\$${PATH} > init.csh
 	echo \
-	setenv PYTHONPATH $(THISDIR):$(THISDIR)/bin:\$${PYTHONPATH} >> init.csh
-
+	if $?PYTHONPATH then >> init.csh
+	echo \
+	  setenv PYTHONPATH $(THISDIR):$(THISDIR)/bin:\$${PYTHONPATH} >> init.csh
+	echo \
+	else >> init.csh
+	echo \
+	  setenv PYTHONPATH /soe/sng/bin/paradigm-scripts:/soe/sng/bin/paradigm-scripts/bin >> init.csh
+	echo \
+	endif >> init.csh
 jobTree : sonLib
 	git clone git://github.com/benedictpaten/jobTree.git
 	cd jobTree; make
