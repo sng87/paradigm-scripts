@@ -24,9 +24,10 @@ init.sh : jobTree exe
 	echo \
 	else >> init.csh
 	echo \
-	  setenv PYTHONPATH /soe/sng/bin/paradigm-scripts:/soe/sng/bin/paradigm-scripts/bin >> init.csh
+	  setenv PYTHONPATH $(THISDIR):$(THISDIR)/bin >> init.csh
 	echo \
 	endif >> init.csh
+
 jobTree : sonLib
 	git clone git://github.com/benedictpaten/jobTree.git
 	cd jobTree; make
