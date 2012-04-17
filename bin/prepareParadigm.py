@@ -367,7 +367,7 @@ def prepareParadigm(args):
 
     log("Writing config file for final run\n")
     confFile = open("config.txt", "w")
-    if not publicParadigm:
+    if publicParadigm:
         parse_configTop = re.split("\n", configTop)
         configTop = ""
         for line in parse_configTop:
