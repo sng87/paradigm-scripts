@@ -1,4 +1,5 @@
 THISDIR = $(CURDIR)
+THISOS = $(shell uname -s)
 
 init.sh : jobTree exe
 	echo \
@@ -37,17 +38,20 @@ sonLib :
 
 exe :
 	mkdir exe
-	if (test -d /hive); \
-	then \
+	if (test -d /hive); then \
 	cd exe; cp /hive/groups/cancerGB/paradigm/exe/newEmSpec/paradigm /hive/groups/cancerGB/paradigm/current/Paradigm/ParadigmDistribution/collectParameters .; \
 	fi
-	if (test -d /inside); \
-	then \
+	if (test -d /inside); then \
 	cd exe; cp /inside/grotto/users/sng/bin/Paradigm/paradigm /inside/grotto/users/sng/bin/Paradigm/collectParameters .; \
 	fi
-	if (! test -e exe/paradigm); \
-	then \
-	cd exe; cp ../public/exe/paradigm .; \
+	if (! test -e exe/paradigm); then \
+	if [ $(THISOS) == Darwin ]; then \
+	cd exe; cp ../public/exe/MACOSX/paradigm .; \
+	elif [ $(THISOS) == Linux ]; then \
+	cd exe; cp ../public/exe/LINUX/paradigm .; \
+	else \
+	echo "paradigm not compiled for os $(THISOS)"; \
+	fi \
 	fi
 
 pathmark-scripts :
