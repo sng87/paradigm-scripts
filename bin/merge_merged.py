@@ -6,10 +6,13 @@ import fnmatch
 #from hgSQL import hgSQL
 
 resultMatrix = {} # first key is entity, then sample
+allMatrix = {}
+
 sampleList = []
+allsampleList = []
 
 def usage():
-	print "Usage: "+sys.argv[0]+" db merged_dir outputfile"
+	print "Usage: "+sys.argv[0]+" db merged_dir"
 	sys.exit(0)
 
 def getFilesMatching(baseDir, patterns):
@@ -30,19 +33,23 @@ def addFileToResult(file):
 	sampleOrder = header[1:]
 	#print sampleOrder
 	for sample in sampleOrder:
-		if sample.startswith("na_") == False  and sample.split(" ").pop(0) not in sampleList:
+		if sample.startswith("na_") == False and sample.split(" ").pop(0) not in sampleList:
 			sampleList.append(sample.split(" ").pop(0))
+		if sample.split(" ").pop(0) not in allsampleList:
+			allsampleList.append(sample.split(" ").pop(0))
 	for line in fh:
 		dataA = line.strip("\n").split("\t")
 		entity = dataA.pop(0)
 		resultMatrix[pid+"_"+entity] = {}
+		allMatrix[pid+"_"+entity] = {}
 		for i in range(len(dataA)):
 			sample = sampleOrder[i] ## sng ##
 			if sample.startswith("na_") == False:
 				resultMatrix[pid+"_"+entity][sampleOrder[i].split(" ").pop(0)] = dataA[i]
+			allMatrix[pid+"_"+entity][sampleOrder[i].split(" ").pop(0)] = dataA[i]
 	fh.close()
 
-def main(db,directory,outputFile):
+def main(db,directory):
 	files = getFilesMatching(directory, ["*_transpose_*"])
 
 	print "Loading data",
@@ -79,7 +86,7 @@ def main(db,directory,outputFile):
 	#connection.close()
 	#print "done."
 	print "Printing Results..."
-	resultFile = open(outputFile,"w")
+	resultFile = open("merge_merged.tab","w")
 	resultFile.write("pid_entity\t")
 	resultFile.write("\t".join(sampleList)+"\n")
 	for entity in resultMatrix:
@@ -92,16 +99,28 @@ def main(db,directory,outputFile):
 			if sample in resultMatrix[entity]:
 				resultFile.write(resultMatrix[entity][sample])
 		resultFile.write("\n")
-				
 	resultFile.close()
 	
+	allFile = open("merge_merged.all.tab","w")
+	allFile.write("pid_entity\t")
+	allFile.write("\t".join(allsampleList)+"\n")
+	for entity in allMatrix:
+		allFile.write(entity)
+		for sample in allsampleList:
+			allFile.write("\t")
+			#print sample
+			#print allMatrix[entity]
+			#sys.exit(0)
+			if sample in allMatrix[entity]:
+				allFile.write(allMatrix[entity][sample])
+		allFile.write("\n")
+	allFile.close()
 
 if __name__ == "__main__":
-	if len(sys.argv) != 4:
+	if len(sys.argv) != 3:
 		usage()
 
 	db = sys.argv[1]
 	directory = sys.argv[2]
-	outputFile = sys.argv[3]
-	main(db,directory,outputFile)
+	main(db,directory)
 

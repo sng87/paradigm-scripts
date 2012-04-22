@@ -67,7 +67,7 @@ class jtParadigm(Target):
 
 def wrapParadigm():
     ## parse arguments
-    parser = OptionParser()
+    parser = OptionParser(usage = "%prog [options] attachment file:path [attachment file:path ...]")
     Stack.addJobTreeOptions(parser)
     parser.add_option("--jobFile", help = "Add as a child of jobFile rather " +
                       "than making a new jobTree")
