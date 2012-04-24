@@ -80,7 +80,11 @@ publicParadigm = True
 standardAttach = ["genome", "mRNA", "protein", "active"]
 paradigmExec = "/hive/users/" + os.getenv("USER") + "/bin/paradigm"
 
-newSpecStyle = True
+if publicParadigm:
+    newSpecStyle = False
+else:
+    newSpecStyle = True
+
 dryrun = False
 
 nullOptions = ""

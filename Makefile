@@ -46,9 +46,9 @@ exe :
 	fi
 	if (! test -e exe/paradigm); then \
 	if [ $(THISOS) == Darwin ]; then \
-	cd exe; cp ../public/exe/MACOSX/paradigm .; \
+	cd exe; cp ../public/exe/collectParameters ../public/exe/MACOSX/paradigm .; \
 	elif [ $(THISOS) == Linux ]; then \
-	cd exe; cp ../public/exe/LINUX/paradigm .; \
+	cd exe; cp ../public/exe/collectParameters ../public/exe/LINUX/paradigm .; \
 	else \
 	echo "paradigm not compiled for os $(THISOS)"; \
 	fi \
