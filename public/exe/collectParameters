@@ -175,7 +175,7 @@ def main(args):
                 f.write("%s\n" % (factor))
                 for sourceIndex in range(3):
                     for targetIndex in range(3):
-                        f.write("%s\t%s\t%s\n" % (targetIndex, sourceIndex, outputData[factor][sourceIndex][targetIndex]))
+                        f.write("%s\t%s\t%4f\n" % (targetIndex, sourceIndex, outputData[factor][sourceIndex][targetIndex]))
     else:
         print "%s" % (outputData["HEADER"])
         for factor in outputData.keys():
@@ -183,7 +183,7 @@ def main(args):
                 print "%s" % (factor)
                 for sourceIndex in range(3):
                     for targetIndex in range(3):
-                        print "%s\t%s\t%s" % (targetIndex, sourceIndex, outputData[factor][sourceIndex][targetIndex])
+                        print "%s\t%s\t%4f" % (targetIndex, sourceIndex, outputData[factor][sourceIndex][targetIndex])
 
 if __name__ == "__main__":
     main(sys.argv[1:])
