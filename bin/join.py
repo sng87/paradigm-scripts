@@ -92,7 +92,7 @@ def main(args):
             if feature in fileData[file]:
                 lineElements += fileData[file][feature]
             else:
-                lineElements += ["" for i in range(fileWidth(file))]
+                lineElements += ["" for i in range(fileWidth[file])]
         print "%s" % (feature + delim + delim.join(lineElements))
 
 if __name__ == "__main__":

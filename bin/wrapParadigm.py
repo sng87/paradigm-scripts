@@ -71,12 +71,12 @@ def wrapParadigm():
     Stack.addJobTreeOptions(parser)
     parser.add_option("--jobFile", help = "Add as a child of jobFile rather " +
                       "than making a new jobTree")
-    parser.add_option("-d", "--dogma", dest="dogmaPath", default="")
-    parser.add_option("-p", "--pathway", dest="pathwayPath", default="")
-    parser.add_option("-b", "--boundaries", dest="discBound", default="")
-    parser.add_option("-n", "--nulls", dest="nullBatches", default="5")
-    parser.add_option("-t", "--storedparam", dest="paramFile", default="")
-    parser.add_option("-s", "--skipem", action="store_false", dest="runEM", default=True)
+    parser.add_option("-d", "--dogma", dest="dogmaPath", help="Path to PARADIGM Dogma Specification", default="")
+    parser.add_option("-p", "--pathway", dest="pathwayPath", help="Path to PARADIGM Pathway Specification", default="")
+    parser.add_option("-b", "--boundaries", dest="discBound", help="Data Discretization Bounds", default="")
+    parser.add_option("-n", "--nulls", dest="nullBatches", help="Number of Null Samples", default="5")
+    parser.add_option("-t", "--storedparam", dest="paramFile", help="Initial Parameter Starting Point", default="")
+    parser.add_option("-s", "--skipem", action="store_false", dest="runEM", help="Skip Running EM", default=True)
     options, args = parser.parse_args()
     print "Using Batch System '" + options.batchSystem + "'"
    
