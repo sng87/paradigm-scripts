@@ -76,7 +76,12 @@ dataDir = "clusterFiles"
 #outputDir = "outputFiles"
 
 verbose = True
-publicParadigm = True
+if os.path.exists("/hive/groups/cancerGB/paradigm/exe/newEmSpec/paradigm"):
+    publicParadigm = False
+elif os.path.exists("/inside/grotto/users/sng/bin/Paradigm/paradigm"):
+    publicParadigm = False
+else:
+    publicParadigm = True
 standardAttach = ["genome", "mRNA", "protein", "active"]
 paradigmExec = "/hive/users/" + os.getenv("USER") + "/bin/paradigm"
 
