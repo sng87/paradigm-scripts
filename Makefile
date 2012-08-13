@@ -3,7 +3,7 @@ THISOS = $(shell uname -s)
 
 init.sh : jobTree exe
 	echo \
-	export PATH=$(THISDIR)/bin:$(THISDIR)/exe:\$${PATH} > init.sh
+	export PATH=$(THISDIR)/bin:$(THISDIR)/exe:$(THISDIR)/utilities:\$${PATH} > init.sh
 	echo \
 	if [ -n "\$${PYTHONPATH+x}" ] >> init.sh
 	echo \
@@ -17,7 +17,7 @@ init.sh : jobTree exe
 	echo \
 	fi >> init.sh
 	echo \
-	setenv PATH $(THISDIR)/bin:$(THISDIR)/exe:\$${PATH} > init.csh
+	setenv PATH $(THISDIR)/bin:$(THISDIR)/exe:$(THISDIR)/utilities:\$${PATH} > init.csh
 	echo \
 	if \$$?PYTHONPATH then >> init.csh
 	echo \

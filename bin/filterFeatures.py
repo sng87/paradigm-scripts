@@ -32,8 +32,11 @@ for line in file:
 		val = lineA[i]
 		if filterNA and headerA[i][:3] == "na_":
 			continue
-		if abs(float(val)) >= cutoff:
-			currCount += 1
+		try:
+			if abs(float(val)) >= cutoff:
+				currCount += 1
+		except ValueError:
+			pass
 		if currCount >= count:
 			sys.stdout.write(line)
 			sys.stdout.flush()

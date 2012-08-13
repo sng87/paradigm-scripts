@@ -5,13 +5,16 @@ Usage:
   median-center.py [options] input-tab output-tab
 
 Options:
+  -m            use mean instead
   -n str        normal-tab file of normal samples
-  -s float	shift values by float
+  -s str        use samples in list only
   -q            run quietly
 """
 ## Written By: Sam Ng
 ## Last Updated: 8/12/11
 import os, os.path, sys, getopt, re
+
+useMean = False
 
 verbose = True
 
@@ -32,6 +35,20 @@ def syscmd(cmd):
         print "Failed with exit status %i" % exitstatus
         sys.exit(10)
     log("... done\n")
+
+def rList(inf, header = False):
+    """read 1 column list"""
+    inList = []
+    f = open(inf, "r")
+    if header:
+        f.readline()
+    for line in f:
+        if line.isspace():
+            continue
+        line = line.rstrip("\t\r\n")
+        inList.append(line)
+    f.close()
+    return(inList)
 
 def rCRSData(inf, delim = "\t", retFeatures = False):
     """reads .tsv into a [col][row] dictionary"""
@@ -125,10 +142,19 @@ def median(inList):
             median = (cList[len(cList)/2]+cList[(len(cList)/2)-1])/2.0
     return(median)
 
+def mean(inList, null = "NA"):
+    """Calculates mean"""
+    fList = floatList(inList)
+    if len(fList) == 0:
+        mean = null
+    else:
+        mean = sum(fList)/len(fList)
+    return (mean)
+
 def main(args):
     ## parse arguments
     try:
-        opts, args = getopt.getopt(args, "n:s:q")
+        opts, args = getopt.getopt(args, "mn:s:q")
     except getopt.GetoptError, err:
         print str(err)
         usage(2)
@@ -140,43 +166,54 @@ def main(args):
     inf = args[0]
     outf = args[1]
     
-    normf = None
-    shift = None
-    global verbose
+    normFile = None
+    sampleFile = None
+    includeSamples = []
+    global verbose, useMean
     for o, a in opts:
-        if o == "-n":
-            normf = a
+        if o == "-m":
+            useMean = True
+        elif o == "-n":
+            normFile = a
         elif o == "-s":
-            shift = float(a)
+            sampleFile = a
         elif o == "-q":
             verbose = False
     
     ## read files
     (sampleData, cols, rows) = rCRSData(inf, retFeatures = True)
-    if normf != None:
-        normalData = rCRSData(normf)
-    
+    if normFile is not None:
+        normalData = rCRSData(normFile)
+    if sampleFile is not None:
+        includeSamples = rList(sampleFile)
+ 
     ## compute-medians
-    medianMap = dict()
+    medianMap = {}
     for i in rows:
-        if shift == None:
-            vals = []
-            if normf != None:
-                for j in normalData.keys():
-                    if i not in normalData[j]:
-                        log("ERROR: Missing feature %s in normal matrix\n" % (i), die = True)
+        vals = []
+        if normFile is not None:
+            for j in normalData.keys():
+                if i not in normalData[j]:
+                    log("ERROR: Missing feature %s in normal matrix\n" % (i), die = True)
+                if sampleFile is None:
                     vals.append(normalData[j][i])
-            else:
-                for j in cols:
-                    vals.append(sampleData[j][i])
-            medianMap[i] = median(vals)
+                elif j in includeSamples:
+                    vals.append(normalData[j][i])
         else:
-            medianMap[i] = -1*(shift)
+            for j in cols:
+                if sampleFile is None:
+                    vals.append(normalData[j][i])
+                elif j in includeSamples:
+                    vals.append(sampleData[j][i])
+        if useMean:
+            medianMap[i] = mean(vals)
+        else:
+            medianMap[i] = median(vals)
     
     ## median-center data
-    outData = dict()
+    outData = {}
     for i in cols:
-        outData[i] = dict()
+        outData[i] = {}
         for j in rows:
             try:
                 outData[i][j] = float(sampleData[i][j]) - medianMap[j]
