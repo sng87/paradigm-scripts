@@ -160,8 +160,17 @@ def initParams(numBins, reverse=False):
     zero = [str(v) for v in zero]
     down = [v for v in up]
     down.reverse()
-    return "\n".join(down + zero + up) + "\n"
-
+    if newSpecStyle:
+        return "\n".join(down + zero + up) + "\n"
+    else:
+        paramLines = ""
+        for i, j in enumerate(down):
+            paramLines += "%s\t%s\t%s\n" % (i, 0, j)
+        for i, j in enumerate(down):
+            paramLines += "%s\t%s\t%s\n" % (i, 1, j)
+        for i, j in enumerate(down):
+            paramLines += "%s\t%s\t%s\n" % (i, 2, j)
+        return paramLines
 def readParams(paramFile):
     storedParams = {}
     f = open(paramFile, "r")
@@ -191,11 +200,18 @@ def writeBaseParamsFile(pfilename, evidence, storedParams = {}):
         else:
             spec = "-obs>"
         if e["attachment"] != "codeMut":
-            pfile.write("> shared CondProbEstimation [pseudo_count=1,target_dim=%i,total_dim=%i] %s=%s\n" % (bins, 3*bins, e["suffix"], spec))
-            if e["attachment"] in storedParams:
-                pfile.write(storedParams[e["attachment"]])
+            if newSpecStyle:
+                pfile.write("> shared CondProbEstimation [pseudo_count=1,target_dim=%i,total_dim=%i] %s=%s\n" % (bins, 3*bins, e["suffix"], e["attachment"]))
+                if e["attachment"] in storedParams:
+                    pfile.write(storedParams[e["attachment"]])
+                else:
+                    pfile.write(initParams(bins, reverse=("reversed" in e)))
             else:
-                pfile.write(initParams(bins, reverse=("reversed" in e)))
+                pfile.write("> child='%s' edge1='%s'\n" % (e["suffix"], "-obs>"))
+                if e["attachment"] in storedParams:
+                    pfile.write(storedParams[e["attachment"]])
+                else:
+                    pfile.write(initParams(bins, reverse=("reversed" in e)))
         else:
             pfile.write(mutationParams % e["suffix"])
             if os.path.exists("mask.params"):
