@@ -83,17 +83,17 @@ def wrapParadigm():
         sys.exit(1)
     
     workdir = os.path.abspath(options.workdir)
-    nullBatches = int(options.nullBatches)
+    nullBatches = int(options.nulls)
     dogmaZip=os.path.abspath(options.dogmazip)
     pathwayZip=os.path.abspath(options.pathwayzip)
     disc=options.disc
-    paramFile=os.path.abspath(options.param) if args.param is not None else None
-    runEM = options.runEM
+    paramFile=os.path.abspath(options.param) if options.param is not None else None
+    runEM = options.em
     
     dogmaLib = os.path.join(workdir, "dogma")
     pathwayLib = os.path.join(workdir, "pathway")
-    system("unzip %s -d %s" % (self.dogmaZip, dogmaLib))
-    system("unzip %s -d %s" % (self.pathwayZip, pathwayLib))
+    system("unzip %s -d %s" % (dogmaZip, dogmaLib))
+    system("unzip %s -d %s" % (pathwayZip, pathwayLib))
 
     ## run
     logger.info("starting prepare")

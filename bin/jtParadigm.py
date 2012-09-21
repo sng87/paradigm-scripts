@@ -19,6 +19,8 @@ from jobTree.scriptTree.stack import Stack
 collectParamsExec = "collectParameters"
 mergeSwarm = "mergeSwarmFiles.py"
 mergeMerge = "merge_merged.py"
+filterFeatures = "filterFeatures.py"
+pyJoin = "join.py"
 
 class ParadigmCmd(Target):
     def __init__(self, command, cwd):
@@ -141,9 +143,9 @@ class Merge(Target):
                 o.write("%s\t%s\n" % (feature, "\t".join(data)))
             f.close()
             o.close()
-            system("python %s -n merge_merged_unfiltered.tab 1,0.5 > merge_merged.tab" % (filterFeatures))
+            system("%s -n merge_merged_unfiltered.tab 1,0.5 > merge_merged.tab" % (filterFeatures))
             system("cut -f1 merge_merged.tab > filter.include")
-            system("python %s -h filter.include merge_merged_unfiltered.all.tab > merge_merged.all.tab" % (pyJoin))
+            system("%s -h filter.include merge_merged_unfiltered.all.tab > merge_merged.all.tab" % (pyJoin))
             system("rm -f filter.include")
         else:
             system("%s bioInt mergeFiles/" % mergeMerge)
