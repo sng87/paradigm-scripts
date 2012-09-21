@@ -1,5 +1,7 @@
 #!/usr/bin/env python
+
 import sys, os, string, fnmatch
+import array
 
 def getFilesMatching(baseDir, patterns):
     list = []
@@ -63,7 +65,8 @@ def addData(fname, sampleData):
         sampleData[name][currentId] = val
 
     inFile.close()
-    
+
+"""    
 def outputData(outname, sampleData):
     outFile = open(outname, 'w')
 
@@ -127,23 +130,96 @@ def outputDataTranspose(outname, sampleData):
         outFile.write(s)
 
     outFile.close()
+"""    
     
+def outputData(outname, sampleData, col_map):
+    entities = col_map.keys()
+    entities.sort(key=lambda x : col_map[x])
+
+    sampleNames = sampleData.keys()
+    sampleNames.sort()
+    sampleNames.reverse() # put "sample" on top
+   
+    s = "id" + '\t' + '\t'.join(entities) + '\n'
+
+    outFile = open(outname, 'w')
+    outFile.write(s)
+    for sample in sampleNames:
+        data = []
+        for e in entities:
+            data.append( str(sampleData[sample][col_map[e]]) )
+        s = sample + '\t' + '\t'.join(data) + '\n'
+        outFile.write(s)
+    outFile.close()
+
+def outputDataTranspose(outname, sampleData, col_map):
+    entities = col_map.keys()
+    entities.sort(key=lambda x : col_map[x])
+
+    sampleNames = sampleData.keys()
+    sampleNames.sort()
+    sampleNames.reverse() # put "sample" on top
+   
+    s = "id" + '\t' + '\t'.join(sampleNames) + '\n'
+
+    outFile = open(outname, 'w')
+    outFile.write(s)
+    for e in entities:
+        data = []
+        for sample in sampleNames:
+            data.append( str(sampleData[sample][col_map[e]]) )
+        s = e + '\t' + '\t'.join(data) + '\n'
+        outFile.write(s)
+    outFile.close()
+
     
 def mergeGroups(outdirectory, groups):
 
-    for g,files in groups.iteritems():
+    for g,files in groups.iteritems():        
         sampleData = {}
-        for f in files:
-            addData(f, sampleData)
+        ipl_map = {}
+        for fname in files:
+            inFile = open(fname)
+            
+            currentId = None
+            for line in inFile:
+                if line.startswith('>'):
+                    currentId = line.rstrip().strip('>').strip()
+                    sampleData[currentId] = array.array("f")
+                    if len(ipl_map) > 0:
+                        for a in ipl_map:
+                            sampleData[currentId].append(0.0)
+                    continue
+
+                if currentId is None:
+                    continue
+
+                data = line.rstrip().split('\t')
+                name = data[0]
+                if len(name.split("__")) > 1:
+                    continue
+
+                try:
+                    val = float(data[1])
+                except ValueError:
+                    val = float('nan')
+                    
+                if name not in ipl_map:
+                    ipl_map[name] = len(ipl_map)
+                    sampleData[currentId].append(val)
+                else:
+                    sampleData[currentId][ipl_map[name]] = val
+            inFile.close()
+            #addData(f, sampleData)
 
         if len(sampleData) > 0:
             outname = os.path.join(outdirectory, "merged_" + g + ".out")
     
             print "merging", len(files), "files into", outname
-            outputData(outname, sampleData)
+            outputData(outname, sampleData, ipl_map)
     
             outnameTranspose = os.path.join(outdirectory, "merged_transpose_" + g + ".out")
-            outputDataTranspose(outnameTranspose, sampleData)
+            outputDataTranspose(outnameTranspose, sampleData, ipl_map)
 
 def main(suffix, indirectory, outdirectory):
     allfiles = getFilesMatching(indirectory, [suffix])

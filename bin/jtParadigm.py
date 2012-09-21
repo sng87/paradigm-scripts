@@ -47,8 +47,8 @@ class MaximizationIteration(Target):
     def emHasTerminated(self):
         if self.iteration < 2:
             return False
-        prevLL = self.readLL("params%i.txt" % (self.iteration))
-        currLL = self.readLL("params%i.txt" % (self.iteration + 1))
+        prevLL = self.readLL("params%i.txt" % (self.iteration - 1))
+        currLL = self.readLL("params%i.txt" % (self.iteration))
         decrease = ((prevLL - currLL) / currLL)
         logger.info("LL: %5g, Decrease: %3g" % (currLL, 100*decrease))
         return decrease < self.tolerance
@@ -122,14 +122,31 @@ class Merge(Target):
         system("mkdir -p mergeFiles")
         system("%s outputFiles mergeFiles" % mergeSwarm)
         mergeFiles = glob.glob("mergeFiles/*transpose*")
-        system("%s bioInt mergeFiles/" % mergeMerge)
         if len(mergeFiles) == 1: # a global pathway
-            system("cat merge_merged.tab | sed 's/^[0-9]*_//' > merge_merged_unfiltered.tab")
-            system("cat merge_merged.all.tab | sed 's/^[0-9]*_//' > merge_merged_unfiltered.all.tab")
-            system("filterFeatures.py -n merge_merged_unfiltered.tab 1,0.05 > merge_merged.tab")
+            system("cat %s | sed 's/ loglikelihood=-[0-9.]*//g' > merge_merged_unfiltered.all.tab" % (mergeFiles[0]))
+            o = open("merge_merged_unfiltered.tab", "w")
+            f = open("merge_merged_unfiltered.all.tab", "r")
+            sampleNames = f.readline().rstrip().split("\t")[1:]
+            includeCols = []
+            for i, sample in enumerate(sampleNames):
+                if sample.startswith("na_") or sample.startswith("nw_"):
+                    continue
+                includeCols.append(i)
+            data = [sampleNames[i] for i in includeCols]
+            o.write("%s\t%s\n" % ("id", "\t".join(data)))
+            for line in f:
+                pline = line.rstrip().split("\t")
+                feature = pline[0]
+                data = [pline[i+1] for i in includeCols]
+                o.write("%s\t%s\n" % (feature, "\t".join(data)))
+            f.close()
+            o.close()
+            system("python %s -n merge_merged_unfiltered.tab 1,0.5 > merge_merged.tab" % (filterFeatures))
             system("cut -f1 merge_merged.tab > filter.include")
-            system("join.py -h filter.include merge_merged_unfiltered.all.tab > merge_merged.all.tab")
+            system("python %s -h filter.include merge_merged_unfiltered.all.tab > merge_merged.all.tab" % (pyJoin))
             system("rm -f filter.include")
+        else:
+            system("%s bioInt mergeFiles/" % mergeMerge)
 
 def commandAvailable(executable):
     return 0 == os.system("which %s > /dev/null 2> /dev/null" % executable)

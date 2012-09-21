@@ -4,6 +4,9 @@ import sys
 import getopt
 import time
 import random
+import array
+
+#from guppy import hpy
 
 verbose = True
 minSampleFrac = 0.2
@@ -46,7 +49,13 @@ class NamedMatrix(dict):
         self = cls(header[0], header[1:])
         for l in fh:
             vals = l.rstrip("\r\n").split(sep)
-            self.addSample(vals[0], vals[1:])
+            fvals = array.array('f')
+            for v in vals[1:]:
+                try:
+                    fvals.append(float(v))
+                except ValueError:
+                    fvals.append(float('nan'))
+            self.addSample(vals[0], fvals)
         fh.close()
         return self
     def __init__(self, corner, colnames):
@@ -63,7 +72,7 @@ class NamedMatrix(dict):
         colOrder = [self._nameToCol.get(name, l) for name in columnList]
         for row in self.keys():
             data = self[row]
-            data.append("NA")
+            data.append(float("nan"))
             self[row] = [data[col] for col in colOrder]
         self.__setColNames(columnList)
     def describe(self):
@@ -72,7 +81,7 @@ class NamedMatrix(dict):
         fh.write(label)
         for v in vals:
             fh.write(sep)
-            fh.write(v)
+            fh.write(str(v))
         fh.write("\n")
     def writeToFile(self, filename, sep="\t"):
         fh = open(filename, "w")
@@ -91,7 +100,9 @@ def log(msg):
         sys.stderr.write(msg)
 
 def createNullFiles(numSamples, files):
+    #print hpy().heap()
     matrices = [NamedMatrix.fromFile(filename) for filename in files]
+    #print hpy().heap()
     samples = set(matrices[0].keys())
     if len(matrices) > 1:
         samples = samples.intersection(*[m.keys() for m in matrices[1:]])
@@ -145,7 +156,10 @@ def createNullFiles(numSamples, files):
                 randomS = [random.choice(samples) for s in geneIndices]
                 sample = samplePrefix + str(i + numOffset)
             for null, m in zip(nullM, matrices):
-                data = [m[s][g] for s, g in zip(randomS, randomG)]
+                #data = [m[s][g] for s, g in zip(randomS, randomG)]
+                data = array.array('f')
+                for s, g in zip(randomS, randomG):
+                    data.append(m[s][g])
                 null.addSample(sample, data)
                 
         for fn, m in zip(files, nullM):

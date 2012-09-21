@@ -1,0 +1,73 @@
+<tool id="paradigm" name="Paradigm" version="1.1.0">
+  <description>Paradigm</description>
+  <command interpreter="python">galaxyParadigm.py 
+#if str($dogma) != 'None':
+  --dogma $dogma
+#end if
+#if str($pathway) != 'None':
+  --pathway $pathway
+#end if
+#if str($nulls) != '':
+  --nulls $nulls
+#end if
+#if $skip_em:
+  --skipem
+#end if
+--boundaries "$lower_boundary;$upper_boundary"
+#if str($storedparam) != 'None':
+  --storedparam $storedparam
+#end if
+ -w ./
+#if $filtered_all:
+  -fa $file_filtered_all
+#end if
+#if $filtered_real:
+  -fr $file_filtered_real
+#end if
+#if $unfiltered_all:
+  -ua $file_unfiltered_all
+#end if
+#if $unfiltered_real:
+  -ur $file_unfiltered_real
+#end if
+#if str($geneExp) != '':
+  mRNA file:$geneExp
+#end if 
+#if str($cnv) != '':
+  genome file:$cnv
+#end if 
+#if str($meth) != '':
+  meth file:$meth
+#end if 
+  </command>
+  <inputs>
+	  <param name="geneExp" type="data" format="genomicMatrix" label="Gene Exp Matrix" optional="true"/>
+	  <param name="cnv" type="data" format="genomicMatrix" label="Copy Number Matrix" optional="true"/>
+	  <param name="meth" type="data" format="genomicMatrix" label="Methylation Matrix" optional="true"/>
+	  <param name="dogma" type="data" format="zip" label="Dogma Zip File" optional="true"/>
+	  <param name="pathway" type="data" format="zip" label="Pathways Zip File" optional="true"/>
+	  <param name="lower_boundary" type="text" value="0.33" label="Lower Boundary Cutoffs"/>
+	  <param name="upper_boundary" type="text" value="0.67" label="Upper Boundary Cutoffs"/>
+	  <param name="nulls" type="integer" label="Null Count" optional="true"/>
+	  <param name="skip_em" type="boolean" label="Skip EM Cycle" checked="false"/>
+	  <param name="storedparam" type="data" format="txt" label="Precomputer Parameter File" optional="True"/>
+	  <param name="filtered_real" type="boolean" label="Output Filtered Real" checked="true"/>
+	  <param name="filtered_all" type="boolean" label="Output Filtered All" checked="false"/>
+	  <param name="unfiltered_real" type="boolean" label="Output UnFiltered Real" checked="false"/>
+	  <param name="unfiltered_all" type="boolean" label="Output UnFiltered All" checked="false"/>
+  </inputs>
+  <outputs>
+      <data name="file_filtered_real" format="genomicMatrix">
+		  <filter>filtered_real</filter>
+	  </data>
+      <data name="file_filtered_all" format="genomicMatrix">
+		   <filter>filtered_all</filter>
+	  </data>
+      <data name="file_unfiltered_real" format="genomicMatrix">
+		   <filter>unfiltered_real</filter>
+	  </data>
+      <data name="file_unfiltered_all" format="genomicMatrix">
+		   <filter>unfiltered_all</filter>
+	  </data>
+  </outputs>
+</tool>

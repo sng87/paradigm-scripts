@@ -202,7 +202,7 @@ def main(args):
         else:
             for j in cols:
                 if sampleFile is None:
-                    vals.append(normalData[j][i])
+                    vals.append(sampleData[j][i])
                 elif j in includeSamples:
                     vals.append(sampleData[j][i])
         if useMean:
