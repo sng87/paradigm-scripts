@@ -80,11 +80,17 @@ def wrapParadigm():
     options, args = parser.parse_args()
     print "Using Batch System '" + options.batchSystem + "'"
    
-    evidList = args 
+    evidList = []
+    for element in args:
+        if element.startswith("rankAllFile"):
+             evidList.append(re.sub("rankAllFile", "file", element))
+        else:
+             evidList.append(element)
+    
     if (len(evidList) % 2 == 1) | (len(evidList) == 0):
         sys.stderr.write("ERROR: incorrect number of arguments\n")
         sys.exit(1)
-    
+     
     if len(options.discBound) == 0:
         disc = "0.3333;0.6667"
     else:

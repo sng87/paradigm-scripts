@@ -6,6 +6,7 @@ Usage:
 
 Options:
   -h            header
+  -i            output only features in common with all files
   -q            run quietly
 """
 import os, os.path, sys, getopt, re
@@ -48,7 +49,7 @@ def readFile(inFile, header = True):
 def main(args):
     ## parse arguments
     try:
-        opts, args = getopt.getopt(args, "hq")
+        opts, args = getopt.getopt(args, "hiq")
     except getopt.GetoptError, err:
         print str(err)
         usage(2)
@@ -65,10 +66,13 @@ def main(args):
         usage(1)
 
     header = False
+    useIntersection = False
     global verbose
     for o, a in opts:
         if o == "-h":
             header = True
+        elif o == "-i":
+            useIntersection = True
         elif o == "-q":
             verbose = False
     
@@ -78,6 +82,9 @@ def main(args):
     for file in files:
         (fileData[file], fileWidth[file]) = readFile(file, header = header)
     features = list(set(fileData[files[0]].keys()) - set(["HEADER"]))
+    if useIntersection:
+        for file in files:
+            features = list(set(fileData[file].keys()) & set(features))
     features.sort()
     
     ## output
