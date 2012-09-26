@@ -18,6 +18,7 @@ basedogma = os.path.join(basedir, "d_standard.zip")
 basepathway = os.path.join(basedir, "p_global_five3_v2.zip")
 
 paradigmExec = os.path.join(basedir, "paradigm")
+prepareExec = os.path.join(basedir, "prepareParadigm.py")
 inferSpec = "method=BP,updates=SEQFIX,tol=1e-9,maxiter=10000,logdomain=0"
 
 class prepareParadigm(Target):
@@ -36,9 +37,9 @@ class prepareParadigm(Target):
     def run(self):
         os.chdir(self.directory)
         if self.paramFile is not None:
-            cmd = "prepareParadigm.py -b \"%s\" -t %s -s same -n %s -i %s -e %s -d %s -p %s %s >& jt.err" % (self.disc, self.paramFile, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+            cmd = "%s %s -b \"%s\" -t %s -s same -n %s -i %s -e %s -d %s -p %s %s >& jt.err" % (sys.executable, prepareExec, self.disc, self.paramFile, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         else:
-            cmd = "prepareParadigm.py -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s >& jt.err" % (self.disc, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
+            cmd = "%s %s -b \"%s\" -s same -n %s -i %s -e %s -d %s -p %s %s >& jt.err" % (sys.executable, prepareExec, self.disc, self.nullBatches, self.inferSpec, self.paradigmExec, self.dogmaLib, self.pathwayLib, self.evidSpec)
         system(cmd)
         self.setFollowOnTarget(jtParadigm(self.em, self.directory))
 
