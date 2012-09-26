@@ -54,20 +54,8 @@ import os, sys, glob, getopt, re, subprocess, math, json
 # print "os.path.realpath(os.path.dirname(sys.argv[0])):", os.path.realpath(os.path.dirname(sys.argv[0]))
 scriptDirectory = os.path.realpath(os.path.dirname(sys.argv[0]))
 evidenceTypes = {
-    "table": (("(cd %s/../extractData; " + 
-               "./extractData -median -norm=median %%s)" +
-               "| cut -f 1,3- | %s/quantileTransform.py /dev/stdin")
-              % (scriptDirectory, scriptDirectory)),
-    "tableNoNorm": (("(cd %s/../extractData; ./extractData -median %%s)" +
-                     "| cut -f 1,3- | %s/quantileTransform.py /dev/stdin")
-                    % (scriptDirectory, scriptDirectory)),
-    "bioInt": (("%s/grabData.sh %%s" +
-                " | %s/quantileTransform.py /dev/stdin")
-               % (scriptDirectory, scriptDirectory)),
     "file":  (("cat %%s" +
-               " | %s/quantileTransform.py /dev/stdin") % scriptDirectory),
-    "http": "curl http:%s | quantileTransform.py /dev/stdin",
-    "rawhttp": "curl http:%s | transpose.py /dev/stdin /dev/stdout",
+               " | %s %s/quantileTransform.py /dev/stdin") % (sys.executable, scriptDirectory)),
     "rawFile":  "cat %s"
     }
 
@@ -365,8 +353,8 @@ def prepareParadigm(args):
         cmd = evidenceStreamCommand(e["spec"]) + " > " + e["suffix"]
         syscmd(cmd)
 
-    cmd = "%s/createNullFiles.py %s -t %s -p %s/na_batch -b %i %s " % \
-        (scriptDirectory, nullOptions, dataDir, dataDir, 
+    cmd = "%s %s/createNullFiles.py %s -t %s -p %s/na_batch -b %i %s " % \
+        (sys.executable, scriptDirectory, nullOptions, dataDir, dataDir, 
          nullBatches, str(nullBatchSize)) \
         + " ".join([e["suffix"] for e in evidence])
     syscmd(cmd)

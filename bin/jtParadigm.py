@@ -124,7 +124,7 @@ class Merge(Target):
     def run(self):
         os.chdir(self.cwd)
         system("mkdir -p mergeFiles")
-        system("%s outputFiles mergeFiles" % mergeSwarm)
+        system("%s %s outputFiles mergeFiles" % (sys.executable, mergeSwarm))
         mergeFiles = glob.glob("mergeFiles/*transpose*")
         if len(mergeFiles) == 1: # a global pathway
             system("cat %s | sed 's/ loglikelihood=-[0-9.]*//g' > merge_merged_unfiltered.all.tab" % (mergeFiles[0]))
@@ -145,12 +145,12 @@ class Merge(Target):
                 o.write("%s\t%s\n" % (feature, "\t".join(data)))
             f.close()
             o.close()
-            system("%s -n merge_merged_unfiltered.tab 1,0.5 > merge_merged.tab" % (filterFeatures))
+            system("%s %s -n merge_merged_unfiltered.tab 1,0.5 > merge_merged.tab" % (sys.executable, filterFeatures))
             system("cut -f1 merge_merged.tab > filter.include")
-            system("%s -h filter.include merge_merged_unfiltered.all.tab > merge_merged.all.tab" % (pyJoin))
+            system("%s %s -h filter.include merge_merged_unfiltered.all.tab > merge_merged.all.tab" % (sys.executable, pyJoin))
             system("rm -f filter.include")
         else:
-            system("%s bioInt mergeFiles/" % mergeMerge)
+            system("%s %s bioInt mergeFiles/" % (sys.executable, mergeMerge))
 
 def commandAvailable(executable):
     return 0 == os.system("which %s > /dev/null 2> /dev/null" % executable)
