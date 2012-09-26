@@ -16,11 +16,13 @@ from jobTree.src.bioio import system
 from jobTree.scriptTree.target import Target
 from jobTree.scriptTree.stack import Stack
 
-collectParamsExec = "collectParameters"
-mergeSwarm = "mergeSwarmFiles.py"
-mergeMerge = "merge_merged.py"
-filterFeatures = "filterFeatures.py"
-pyJoin = "join.py"
+basedir = os.path.dirname(os.path.abspath(__file__))
+
+collectParamsExec = os.path.join(basedir, "collectParameters")
+mergeSwarm = os.path.join(basedir, "mergeSwarmFiles.py")
+mergeMerge = os.path.join(basedir, "merge_merged.py")
+filterFeatures = os.path.join(basedir, "filterFeatures.py")
+pyJoin = os.path.join(basedir, "join.py")
 
 class ParadigmCmd(Target):
     def __init__(self, command, cwd):

@@ -77,11 +77,19 @@ def wrapParadigm():
     logger.info("options: " + str(options))
     print "Using Batch System '" + options.batchSystem + "'"
     
-    evidList = args 
+    evidList = []
+    for i, element in enumerate(args):
+        if i % 2 == 1:
+            (fileType, filePath) = args[i].split(":")
+            evidList.append("%s:%s" % (fileType, os.path.abspath(filePath)))
+        else:
+            evidList.append(args[i])
+    
     if (len(evidList) % 2 == 1) | (len(evidList) == 0):
         sys.stderr.write("ERROR: incorrect number of arguments\n")
         sys.exit(1)
     
+ 
     workdir = os.path.abspath(options.workdir)
     nullBatches = int(options.nulls)
     dogmaZip=os.path.abspath(options.dogmazip)
