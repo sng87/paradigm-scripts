@@ -30,13 +30,13 @@
 #if $unfiltered_real:
   -ur $file_unfiltered_real
 #end if
-#if str($geneExp) != '':
+#if str($geneExp) != 'None':
   mRNA file:$geneExp
 #end if 
-#if str($cnv) != '':
+#if str($cnv) != 'None':
   genome file:$cnv
 #end if 
-#if str($meth) != '':
+#if str($meth) != 'None':
   meth file:$meth
 #end if 
   </command>
