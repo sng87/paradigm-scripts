@@ -55,8 +55,14 @@ exe :
 	fi
 
 pathmark-scripts :
-	git clone git://github.com/sng87/pathmark-scripts.git; \
+	cd ..; git clone git://github.com/sng87/pathmark-scripts.git
+	ln -s ../pathmark-scripts pathmark-scripts
 	cd pathmark-scripts; make
+
+galaxy : pathmark-scripts
+	mkdir -p paradigm_module
+	cp bin/* paradigm_module/
+	cp -r pathmark-scripts/bin/* paradigm_module/
 
 clean :
 	rm -rf pathmark-scripts jobTree sonLib exe init.sh init.csh
