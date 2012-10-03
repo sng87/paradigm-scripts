@@ -5,6 +5,7 @@ import getopt
 import time
 import random
 import array
+import math
 
 #from guppy import hpy
 
@@ -81,7 +82,13 @@ class NamedMatrix(dict):
         fh.write(label)
         for v in vals:
             fh.write(sep)
-            fh.write(str(v))
+            try:
+                if not math.isnan(v):
+                    fh.write(str(v))
+                else:
+                    fh.write("NA")
+            except TypeError:
+                fh.write(str(v))
         fh.write("\n")
     def writeToFile(self, filename, sep="\t"):
         fh = open(filename, "w")

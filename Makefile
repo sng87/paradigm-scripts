@@ -3,7 +3,7 @@ THISOS = $(shell uname -s)
 
 init.sh : jobTree exe
 	echo \
-	export PATH=$(THISDIR)/bin:$(THISDIR)/exe:$(THISDIR)/utilities:\$${PATH} > init.sh
+	export PATH=$(THISDIR)/bin:$(THISDIR)/utilities:\$${PATH} > init.sh
 	echo \
 	if [ -n "\$${PYTHONPATH+x}" ] >> init.sh
 	echo \
@@ -17,7 +17,7 @@ init.sh : jobTree exe
 	echo \
 	fi >> init.sh
 	echo \
-	setenv PATH $(THISDIR)/bin:$(THISDIR)/exe:$(THISDIR)/utilities:\$${PATH} > init.csh
+	setenv PATH $(THISDIR)/bin:$(THISDIR)/utilities:\$${PATH} > init.csh
 	echo \
 	if \$$?PYTHONPATH then >> init.csh
 	echo \
@@ -53,6 +53,8 @@ exe :
 	echo "paradigm not compiled for os $(THISOS)"; \
 	fi \
 	fi
+	ln -s $(THISDIR)/exe/paradigm bin/
+	ln -s $(THISDIR)/exe/collectParameters bin/
 
 pathmark-scripts :
 	cd ..; git clone git://github.com/sng87/pathmark-scripts.git
@@ -65,5 +67,5 @@ galaxy : pathmark-scripts
 	cp -r pathmark-scripts/bin/* paradigm_module/
 
 clean :
-	rm -rf pathmark-scripts jobTree sonLib exe init.sh init.csh
+	rm -rf bin/paradigm bin/collectParameters pathmark-scripts jobTree sonLib exe init.sh init.csh
 	cd test; make clean
