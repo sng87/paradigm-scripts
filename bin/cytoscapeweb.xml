@@ -1,0 +1,11 @@
+<tool id="cytoscapeweb" name="CytoscapeWeb" version="1.0.0">
+  <description>CytoscapeWeb</description>
+  <command interpreter="python">cytoscapeweb.py --bundle $bundle --html $report --dir ${$report.files_path}
+  </command>
+  <inputs>
+	  <param name="bundle" type="data" format="zip" label="PATHMARK Bundle Zip"/>
+  </inputs>
+  <outputs>
+      <data name="report" format="html"/>
+  </outputs>
+</tool>

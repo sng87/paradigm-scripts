@@ -3,7 +3,6 @@ mPathway.py: Python module for handling pathways
 Written By: Sam Ng
 """
 import re, sys, os
-import mData, mCalculate
 from copy import deepcopy
 
 class Pathway:
@@ -55,7 +54,7 @@ class Pathway:
         log("found %s subpathway components\n" % (len(components)))
         (self.nodes, self.interactions) = constructInteractions(components[0], self.nodes, self.interactions)
     def wAliasMap(self, hugof, outf):
-        hugoList = mData.rList(hugof)
+        hugoList = rList(hugof)
         if self.pid != None:
             prefix = "%s_" % (self.pid)
         else:
@@ -135,7 +134,7 @@ def rSIF(inf, typef = None, reverse = False):
     inInteractions = dict()                     #Dictionary with (A : (B : interaction))
     nodeMap = dict()
     if typef != None:
-        nodeMap = mData.r2Col(typef, delim = " = ", header = True)
+        nodeMap = r2Col(typef, delim = " = ", header = True)
     f = open(inf, "r")
     for line in f:
         if line.isspace():
@@ -503,6 +502,14 @@ def hasTranscriptional(node, interactions, retTargets = False):
         else:
             return(False)
 
+def getListIndices(inItem, inList):
+    """returns indices of the occurence of inItem in inList"""
+    indices = []
+    for i, item in enumerate(inList):
+        if item == inItem:
+            indices.append(i)
+    return(indices)
+
 def filterComplexesByGeneSupport(allNodes, forInteractions, revInteractions, typeMap, componentMap, threshold = 0.5):
     """remove complexes by percent support"""
     ## mark complexes in allNodes as unvisitedComplexes
@@ -525,8 +532,8 @@ def filterComplexesByGeneSupport(allNodes, forInteractions, revInteractions, typ
         for i in complexSubunits:
             if i in allNodes:
                 if i in recursedComplexes:
-                    indices = mData.getListIndices(i, recursedComplexes)
-                    mData.log("WARNING: complex loop %s\n" % (recursedComplexes[indices[-1]:]))
+                    indices = getListIndices(i, recursedComplexes)
+                    log("WARNING: complex loop %s\n" % (recursedComplexes[indices[-1]:]))
                     continue
                 recursedComplexes.append(i)
                 (logical, unvisitedComplexes, recursedComplexes, allNodes, forInteractions, revInteractions) = keepMajority(i, unvisitedComplexes, recursedComplexes, allNodes, forInteractions, revInteractions, typeMap, componentMap, threshold = threshold)
@@ -569,3 +576,36 @@ def shortestPath(source, target, interactions):
         assert(len(nextPaths) > 0)
         allPaths = deepcopy(nextPaths)
     return (shortestPaths)
+
+def rList(inf, header = False):
+    """read 1 column list"""
+    inList = []
+    f = open(inf, "r")
+    if header:
+        f.readline()
+    for line in f:
+        if line.isspace():
+            continue
+        line = line.rstrip("\t\r\n")
+        inList.append(line)
+    f.close()
+    return(inList)
+
+def r2Col(inf, appendData = {}, delim = "\t", null = "NA", header = False):
+    """read 2 column data"""
+    inData = deepcopy(appendData)
+    f = open(inf, "r")
+    if header:
+        line = f.readline()
+    for line in f:
+        if line.isspace():
+            continue
+        line = line.rstrip("\r\n")
+        pline = re.split(delim, line)
+        if len(pline[1]) == 0:
+            pline[1] = null
+        if len(pline) != 2:
+            log("ERROR: Length of data line is not 2\n", die = True)
+        inData[pline[0]] = pline[1]
+    f.close()
+    return(inData)
