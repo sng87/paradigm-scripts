@@ -4,6 +4,7 @@ cytoscapeweb.py
 """
 ## Written By: Sam Ng
 import getopt, os, re, sys
+from mParadigm import *
 from optparse import OptionParser
 
 basedir = os.path.dirname(os.path.abspath(__file__))
@@ -46,17 +47,21 @@ def main(args):
     ## output
     os.system("mkdir %s" % (dirPath))
     for feature in features:
+        if os.path.exists("LAYOUT/%s.stats" % (feature)):
+            zscores = rList("LAYOUT/%s.stats" % (feature))
+        else:
+            zscores = ["png", "png", "png", "png"]
         tableFiles = []
-        if os.path.exists("LAYOUT/%s_largest_netLinks.pdf" % (feature)):
-            tableFiles.append("largest_netLinks:LAYOUT/%s_largest_netLinks.pdf" % (feature))
-        if os.path.exists("LAYOUT/%s_largest_netNodes.pdf" % (feature)):
-            tableFiles.append("largest_netNodes:LAYOUT/%s_largest_netNodes.pdf" % (feature))
-        if os.path.exists("LAYOUT/%s_totLinks.pdf" % (feature)):
-            tableFiles.append("total_netLinks:LAYOUT/%s_totLinks.pdf" % (feature))
-        if os.path.exists("LAYOUT/%s_totNodes.pdf" % (feature)):
-            tableFiles.append("total_netNodes:LAYOUT/%s_totNodes.pdf" % (feature))
+        if os.path.exists("LAYOUT/%s_largest_netLinks.png" % (feature)):
+            tableFiles.append("link:largest_netLinks;%s;LAYOUT/%s_largest_netLinks.png" % (zscores[3], feature))
+        if os.path.exists("LAYOUT/%s_largest_netNodes.png" % (feature)):
+            tableFiles.append("link:largest_netNodes;%s;LAYOUT/%s_largest_netNodes.png" % (zscores[2], feature))
+        if os.path.exists("LAYOUT/%s_total_netLinks.png" % (feature)):
+            tableFiles.append("link:total_netLinks;%s;LAYOUT/%s_total_netLinks.png" % (zscores[1], feature))
+        if os.path.exists("LAYOUT/%s_total_netNodes.png" % (feature)):
+            tableFiles.append("link:total_netNodes;%s;LAYOUT/%s_total_netNodes.png" % (zscores[0], feature))
         if len(tableFiles) > 0:
-            os.system("%s %s -t %s -r /static/scripts LAYOUT/%s %s" % (sys.executable, cytoscapewebExec, ",".join(tableFiles), feature, dirPath))
+            os.system("%s %s -t \"%s\" -r /static/scripts LAYOUT/%s %s" % (sys.executable, cytoscapewebExec, ",".join(tableFiles), feature, dirPath))
         else:
             os.system("%s %s -r /static/scripts LAYOUT/%s %s" % (sys.executable, cytoscapewebExec, feature, dirPath))
     os.system("mv %s/stats.html %s" % (dirPath, htmlPath))

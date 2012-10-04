@@ -445,13 +445,13 @@ def main(args):
     tabHeader = ["cytoscapeweb"]
     tabLine = [htmlLink % ("%s.html" % (featureName), featureName)]
     for file in tableFiles:
-        if file.endswith(".pdf"):
-            (thisHeader, thisLine) = file.split(":")
+        if file.startswith("link:"):
+            (thisHeader, thisText, thisLine) = file.split(":")[-1].split(";")
             tabHeader.append(thisHeader)
-            tabLine.append(htmlLink % ("pdf_%s/%s" % (featureName, thisLine.split("/")[-1]), "pdf"))
-            if not os.path.exists("%s/pdf_%s" % (htmlDir, featureName)):
-                os.system("mkdir %s/pdf_%s" % (htmlDir, featureName))
-            os.system("cp %s %s/pdf_%s/" % (thisLine, htmlDir, featureName))
+            tabLine.append(htmlLink % ("link_%s/%s" % (featureName, thisLine.split("/")[-1]), thisText))
+            if not os.path.exists("%s/link_%s" % (htmlDir, featureName)):
+                os.system("mkdir %s/link_%s" % (htmlDir, featureName))
+            os.system("cp %s %s/link_%s/" % (thisLine, htmlDir, featureName))
         else:
             f = open(file, "r")
             line = f.readline().rstrip()
