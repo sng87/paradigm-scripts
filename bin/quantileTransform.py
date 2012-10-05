@@ -36,7 +36,9 @@ def printElapsed(start):
     log(" %ims elapsed\n" % ms)
 
 
-def py_cmp_float(a, b):
+def py_cmp_float(a_ptr, b_ptr):
+    a = a_ptr.contents.value
+    b = b_ptr.contents.value
     return (a > b) - (a < b)
 
 CMPFUNC = ctypes.CFUNCTYPE(ctypes.c_int, ctypes.POINTER(ctypes.c_float), ctypes.POINTER(ctypes.c_float))
@@ -90,13 +92,13 @@ def transformFile(fh, sep="\t"):
                       / ((numRows) * (numCols))))
     printElapsed(startTime)
     
-    rankDict = dict()
     log("sorting float values...")
-    i = 0
     sortedValues = array.array('f', floatValues) 
     
     csort(sortedValues)
-    
+
+    i = 0
+    rankDict = dict()
     for val in sortedValues:
         if not math.isnan(val):
             rankDict[val] = rankTransform(i, totalValues)
